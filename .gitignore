@@ -1,0 +1,53 @@
+# --- standard Quartz / Node ---
+.DS_Store
+node_modules
+public
+.quartz-cache
+tsconfig.tsbuildinfo
+.obsidian
+
+# =====================================================================
+# SPORE FIREWALL — belt-and-suspenders.
+# This repo is the CONK (public method) only. The living language data
+# and anything sacred must NEVER be committed here. Even if a file with
+# one of these names lands in the folder by accident, git will refuse it.
+# This is not the protection (the protection is not putting it here at
+# all) — it is the second lock behind the first.
+# =====================================================================
+
+# living lexicon / dataset artifacts
+*lexicon*
+*rulegrade*
+*morpheme*
+*ledger*
+candidate_*.tsv
+sentence_pairs*.tsv
+variants.tsv
+char_rules.tsv
+*.tsv
+*.jsonl
+
+# corpus / four-layer source
+corpus/
+**/corpus/
+*COLLATED*
+*Layer 1*
+*Layer-1*
+
+# review workbench (collaborative, but by relation — not in the public repo)
+*Review*researcher*.xlsx
+*.xlsx
+
+# sacred / ceremonial — held, never shipped
+*CEREMONIAL*
+*ceremonial*
+/sacred/
+/spore/
+/private/
+/dataset/
+
+# vault-holder context paddler file — sworn never to ship
+*Vault Holder Context*
+
+# internal build notes — never publish (holds the doorbell email etc.)
+BUILD-NOTES.md

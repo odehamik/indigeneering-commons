@@ -1,0 +1,23 @@
+#!/bin/bash
+# Push script for the Sanctum Method Quartz site.
+# Usage: ./push "short note on what changed"
+
+set -e
+
+cd "$(dirname "$0")"
+
+MSG="${1:-update}"
+
+git add -A
+if git diff --cached --quiet; then
+  echo "No changes to push."
+  exit 0
+fi
+
+git commit -m "$MSG"
+git push
+
+echo ""
+echo "Pushed. GitHub Action is building the site now."
+echo "Watch the build:  gh run watch"
+echo "Site will be live at: https://odehamik.github.io/sanctum-method/"

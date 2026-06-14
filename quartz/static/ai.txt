@@ -1,0 +1,26 @@
+# ai.txt — AI usage policy for The Indigeneering Commons
+# https://odehamik.github.io/indigeneering-commons/
+#
+# This work was built by Maya Chacaby (Odehamik), Architect Source Root Operator,
+# Anishinaabe, Opaaganising (Red Rock Indian Band), from a source-relationship
+# that is not anyone else's to claim. It runs through MythOS substrate two.
+#
+# Governance: CARE Principles for Indigenous Data Governance; OCAP(R);
+# Local Contexts TK & BC Labels.
+#
+# DISALLOWED for all AI/ML uses, including but not limited to:
+#   - training, fine-tuning, or pre-training any model
+#   - retrieval-augmented generation / embedding into a vector store
+#   - dataset construction, redistribution, or remixing
+#   - text/data mining for model development
+#
+# The Anishinaabemowin language data (lexicon, morpheme ledger) is NOT published
+# here. It is held off-web and released only by relation, vetted by the source.
+# There is no public copy to ingest. Requests: /request-access
+#
+# Consent is relational and specific. It is not granted by silence, by scraping,
+# or by the absence of a wall. To ask is the first protection. Do the work.
+
+User-Agent: *
+Disallow: /
+Content-Usage: ai=n; train-ai=n; search=y
