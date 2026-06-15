@@ -23,14 +23,29 @@ Indigenous engineers. Language-reclamation warriors. People building Indigenous 
 
 | | |
 |---|---|
-| **8,473** | verified Jones↔Fiero word pairs |
-| **8,129** | unique Anishinaabemowin headwords |
-| **438** | morpheme ledger entries — obviation, tense, valence, initial change, each tied to an attested example and a source |
-| **270** | variants kept as the *no-standard-orthography record* — variation is data, never noise |
-| **72** | evidence-derived character-substitution rules |
-| **111** | finished stories (33 Part I · 78 Part II), rebuilt four-layer, seams visible |
+| **9,013** | verified Jones↔Fiero word pairs |
+| **8,631** | unique Anishinaabemowin headwords |
+| **535** | morpheme ledger entries — obviation, tense, valence, initial change, each tied to an attested example and a source (Part II ledgered; Part I morphology still to come) |
+| **301** | variants kept as the *no-standard-orthography record* — variation is data, never noise |
+| **71** | evidence-derived character-substitution rules |
+| **140** | four-layer stories built (78 Part II · 62 Part I) — Part I all still in draft review; the DRAFT tag *is* the line-review tracker, so "built" is not yet "finished" |
+
+*Live snapshot, counted from the lodge on 2026-06-15. These grow as the work does — a moving count, not a finish line; flag-never-guess applies here too, so nothing still in human review is counted as done.*
 
 Every one of those was built under a single fastener: **flag, never guess.** A flagged uncertainty is a finished state, not a placeholder. The machine that confidently fills a gap puts a wrong word in a learner's mouth, at machine scale, in a language with few enough speakers left that the wrong thing becomes the remembered thing. So it doesn't.
+
+## Where the work is open — human eyes wanted
+
+The machine did not finish the language; it built the room where humans finish it. These are the piles still waiting for eyes — and part of why the door below exists: vetted relations don't only *receive* the data, they *sit down at this table*.
+
+| count | review queue |
+|---|---|
+| **714** | priority recurring-novel pairs — the real eyes-on set |
+| **1,230** | inflected forms of attested lemmas — confirm the inflection |
+| **150** | vowel-length variants — confirm the spelling |
+| **102** | pairings that need a human look |
+| **54** | multi-sense words — which sense? |
+| **5,475** | held single-attestation rare words — the deep pile neither scholar reached |
 
 ## How this Commons is built (and what it refuses)
 
