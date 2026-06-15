@@ -35,18 +35,18 @@ The decision record is split by design. The *conventions* hold the methodology a
 
 ## 4. What is reproducible — verify rather than trust
 
-The mined data is regenerable, not hand-asserted:
+The data gathered here is regenerable, not hand-asserted:
 
 - **The lexicon carries a checksum.** The rule-grade file states its md5 and row count. A reviewer with access can re-checksum the delivered file and confirm it is the audited state.
 - **Pairings are gated, not eyeballed.** A word-pair is promoted only if a transliteration-skeleton test scores it above an empirically-set threshold — known bad pairs scored low, true pairs high, the threshold sits in the clean valley between. The gate validates the *pairing*, not merely the spelling, and the logs record it catching every aligner mis-pair on two separate corroboration passes.
 - **Merges are guarded.** Each merge fresh-reads and checksums its baseline before appending, keeps a timestamped backup, and logs the operation. The backups exist as a chain of files.
-- **The mining is scripted.** The correspondence data was derived by scripts present in the tooling; the derivation can be re-run.
+- **The gathering is scripted.** The correspondence data was drawn from the corpus by scripts present in the tooling; the process can be re-run.
 
 ## 5. Where the record is thin — disclosed, not buried
 
 External trust is earned by naming limits. One category of thin-spot — anything touching the **handling of ceremonial material** — is held for community-level review (above), not aired here. The remaining ones are non-sacred and named plainly:
 
-**The one that matters:** the lexicon grew through five merges to its current row count. The merge log documents four; the fifth (which added the Part I mined data) left no log entry — no checksum line, gate note, or authorization — though the resulting file matches the recorded state and a pre-merge backup exists. The growth is real and consistent; one step of its paper trail is simply absent.
+**The one that matters:** the lexicon grew through five merges to its current row count. The merge log documents four; the fifth (which added the Part I data gathered from the corpus) left no log entry — no checksum line, gate note, or authorization — though the resulting file matches the recorded state and a pre-merge backup exists. The growth is real and consistent; one step of its paper trail is simply absent.
 
 **The low-stakes thin spots:** a handful of engineering constants (promotion thresholds, an alignment cutoff, a case-folding step) work but are not argued in-record; several form-level convention rules are stated without a written rationale. None of these affect meaning. None were filled in after the fact with invented justifications, because a reconstructed reason is worth less than an honest blank.
 
