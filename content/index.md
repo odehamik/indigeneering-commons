@@ -29,6 +29,7 @@ Indigenous engineers. Language-reclamation warriors. People building Indigenous 
 | **420** | variants kept as the *no-standard-orthography record* — variation is data, never noise |
 | **71** | evidence-derived character-substitution rules |
 | **140** | four-layer stories built (78 Part II · 62 Part I) — Part I all still in draft review; the DRAFT tag *is* the line-review tracker, so "built" is not yet "finished" |
+| **1,232** | recurring-novel pairs flagged for a linguist's eye (714 Part II · 518 Part I) — the human-review queue. The machine hands the uncertain *up*; this number is flag-never-guess made visible, not a backlog. |
 
 *Live snapshot, counted from the lodge on 2026-06-15. These grow as the work does — a moving count, not a finish line; flag-never-guess applies here too, so nothing still in human review is counted as done.*
 
@@ -59,9 +60,7 @@ What's **never explained** — the ceremonial. Where the stories carry sacred wo
 
 [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care) · **OCAP®** · TK & BC Labels *(in process)*. The relationship is carried on every page, not buried in one byline. → [Use & sovereignty](use-and-sovereignty)
 
-In process:
----
-All raw data sent back to the communities whose ancestors told the stories. 
+*In process: all raw data sent back to the communities whose ancestors told the stories.*
 
 > *Honest caveat, never hidden: nothing fully public is truly un-scrapable by technical means alone. The protection here is not a wall — it is publishing only the method, keeping the living data off the web entirely, the labels doing the relational-legal work, and the refusal being load-bearing. We do not promise the impossible. We make the taking cost more than it's worth.*
 

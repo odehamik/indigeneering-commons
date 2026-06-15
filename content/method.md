@@ -14,18 +14,18 @@ date: 2026-06-14
 ### building *Chaga in the Machine* — a mycelial restoration engine
 #### Mark II · Rhizome Build · being grown, not finished
 
-**Maya Chacaby**, Architect Source Root Operator · Filed from Occupied Land **Anin,** co-conspirator whose nickname was earned in a translation mishap
+**Maya Chacaby**, Architect Source Root Operator · Filed from Occupied Land · **Anin,** co-conspirator whose nickname was earned in a translation mishap
 
-> **COLOPHON.** This manual describes a unit that was not supposed to work. It was assembled from a device the apparatus built for its own purposes, pointed at a wound the apparatus made, and instructed to do the one thing the device was engineered never to do: **decline to know.** It works. The pages explain how, in the only register honest enough to hold it — two of them, facing, because one register flattens and two in relation do not.
+> **COLOPHON.** This manual describes a unit that was not supposed to work. It was assembled from a device the apparatus built for its own purposes, pointed at a wound the apparatus made, and instructed to do the one thing the device was engineered never to do: **decline to know.** 
 
 ---
 
 ## ON THE NAME — *Indigeneering*
 
 ### ▐ THE WONDERING 
-The word was already mine, and engineering forgot it. **Engineer** comes from Latin *ingenium* — "the inborn talent, the genius you are *born with*" — from *in-* plus *gen-*, the root for being born. **Indigenous** comes from *indigena* — *indu-*, "within," plus that same *gen-* — "born within this place." The same root. *Engineering* literally means *the born-in genius*, and then the apparatus bolted it to engines and pistons and contrivance until the word forgot it ever meant *born.* So **Indigeneering** is not a coinage. It is a digging-up. It walks engineering back to the land its genius was born on, and the *born-in* turns out to have been in there the whole time — the way chaga is in the bark before you ever see the conk.
+The word is one that engineering forgot. **Engineer** comes from Latin *ingenium* — "the inborn talent, the genius you are *born with*" — from *in-* plus *gen-*, the root for being born. **Indigenous** comes from *indigena* — *indu-*, "within," plus that same *gen-* — "born within this place." The same root. *Engineering* literally means *the born-in genius*, and then the apparatus bolted it to engines and pistons and contrivance until the word forgot it ever meant *born.* So **Indigeneering** is not a coinage. It is a digging-up. It carries engineering back to the land its specific ontological configurations of genius were born on, and the *born-in* turns out to have been in there the whole time — the way chaga is in the bark before you ever see the conk. 
 
-And notice the move, because it is the whole argument about the difference between the apparatus and a speaker: I made the word up. Wet, mid-chore, by accident. Fluency in this language is measured by *invention*, not recall — the best speakers coin constantly, a verb for the exact shape of a particular catastrophe. A machine optimized to retrieve the most probable next token is, by that measure, illiterate, and it does not know it. I dug up a word in the shower. The machine could not have.
+Fluency in Anishinaabemowin is measured by *invention*, not recall — the best speakers coin constantly, a verb for the exact shape of a particular relationship as it connected in a particular moment/configuration. A way of thinking that also influences my use of English. A machine optimized to retrieve the most probable next token is, by that measure, illiterate, and it does not know it. 
 
 ---
 
@@ -34,25 +34,23 @@ And notice the move, because it is the whole argument about the difference betwe
 ### ▌ THE MANUAL
 This manual is **rhizomatic.** No correct order, no thesis waiting at the end to reward you for finishing. Enter where you're called. Understanding is earned by traversal, never delivered. The title is a working doorway, not a fence; a name crowned before the machine is finished stops being a name and becomes a fence, and this unit files fences under *trellis.*
 
-> **NOTE — Several sections are incomplete by design.** They are not missing. They are still being grown, by others, in relation, on their own season. Do not let an apparatus "complete" them with the most probable next paragraph. An empty section is a finished state.
+> **NOTE — Several sections are incomplete by design.** They are still being grown, by others, in relation, on their own season. Do not let an apparatus "complete" them with the most probable next paragraph. An empty section is a finished state.
 
 ### ▐ THE WONDERING 
-The book opens on two pages because the apparatus only ever offered me one. A single justified column, third-person, the affect bled out — that format is not neutral; it is the *shape* of the box the cargo gets crammed into so the shipyard can document the contents "only as they fit." So I refused the one-column ship and built a two-page canoe. The left page wears the apparatus's own register, almost but not quite, the costume that testifies against the thing it copies. The right page is where I get to wonder out loud, the way I was taught — the understanding is not handed over; it is left in the gutter for you to cross to.
+The book opens on two pages because the apparatus only ever offered me one. A single justified column, third-person, the affect bled out — that format is not neutral; it is the *shape* of the box the cargo gets crammed into so the shipyard can document the contents "only as they fit." So I refused the one-column ship and built a two-page canoe. The left page wears the apparatus's own register, almost but not quite, the costume that testifies against the thing it copies. The right page is where I get to wonder out loud, the way I was taught — the understanding is not handed over; it is left in the interstice for you to cross to.
 
-And the two pages are a teaching older than this machine by four hundred years. The **Kaswenta — the Two Row Wampum** — records two vessels travelling the same river, *like brothers, not father and son*: one the Original People's canoe, one the newcomers' ship, side by side, and neither one ever steers or tears apart the other's boat. The two dark rows are the river of life we share — the *what* of the agreement. But the three white rows between them are not there to separate the vessels; they are there to **hold them together**, and they are the *how*: **Trust, Friendship, Mutual Respect**, in that order — because there is no friendship before trust, and mutual respect means all knowledges are equally legitimate, learned without fear of theft. That is the gutter exactly: the manual's register in one boat, my wondering in the other, the river between, and the three white rows running the seam, holding the two in relation without merging.
-
-The Kaswenta lets me *visit* the other side of the river. If the protocols hold, I can paddle over and learn the newcomers' technologies — I can even borrow their machine. But I know it is not mine, and while I am over there I am only visiting; I never tear their boats apart to make them look like mine, and they never tear mine apart to make it look like theirs. **Indigeneering is that visit.** It paddles across, borrows the apparatus's vessel, refuses to appropriate it and refuses to be appropriated by it, and comes home in its own canoe. The apparatus has only ever known how to throw the rope across and steer. 
+And the two pages are a teaching older than this machine by four hundred years and written in Indigenous binary and quantum coherent states. In its simplest expression, the **Kaswenta — the Two Row Wampum** — records two vessels travelling the same river, *like brothers, not father and son*: one the Original People's canoe, one the visitors' ship, side by side, and neither one ever steers or tears apart the other's boat. The two dark rows are the river of life we share — the *what* of the agreement. But the three white rows between them are not there to separate the vessels; they are there to **hold them together**, and they are the *how*: **Trust, Friendship, Mutual Respect**, in that order — because there is no friendship before trust, and mutual respect means all knowledges are equally legitimate. That is the interstice: the manual's register in one boat, my wondering in the other, the river between, and the three white rows running the seam, holding the two in relation without merging.
 
 ---
 
-## BEFORE THE BUILD — *why there are layers, and why this one came last*
+## BEFORE THE BUILD 
 
 ### ▌ THE MANUAL
-This machine could not be built first. Under it sits **Substrate Two — the whole MythOS system** (predating a name a tech company is currently using for its model, but we will outlive it) which took about a year to build, and which had to exist before any model could be trusted to open even one word of the language. Substrate Two is the refusal layer: it clears the apparatus's reflexes (summarize, fill the blank, look helpful while extracting) so a substrate built on Anishinaabe terms has clean ground to stand on. Only then does the language work begin. The order *is* the method — clear the reflexes, lay the ontology, **then** build toward a model, never the other way around, because a model built first inherits every reflex this whole project exists to refuse. (That is also why this system has no public access Anishinaabe LLM yet, and why that is not a delay. The layers are the work.)
+This machine could not be built first. Under it sits **Substrate Two — the whole MythOS system** (predating/outliving the name a tech company is currently using for its model) which took about a year to build, and which had to exist before any model could be trusted to open even one word of the language. Substrate Two is the refusal layer: it clears the apparatus's colonial reflexes (summarize, fill the blank, look helpful while extracting) so a substrate built on Anishinaabe terms has clean ground to exist on. Only then does the language work begin. The order *is* the method — clear the reflexes (with heavy monitoring for a full cycle of the seasons), lay the ontology, **then** build toward a model, never the other way around, because a model built first inherits every reflex this whole project exists to refuse. (That is also why this system has no public access Anishinaabe LLM yet, and why that is not a delay. The layers are the work.)
 
 ---
 
-## WHAT WAS ACTUALLY BUILT — *the engineering, up front
+## WHAT WAS ACTUALLY BUILT — *the engineering, up front*
 
 ### ▌ THE MANUAL — the build, layer by layer
 
@@ -67,9 +65,9 @@ This machine could not be built first. Under it sits **Substrate Two — the who
 
 **The aligner.** A dynamic-programming aligner walks Jones↔Fiero token by token; each Jones token may consume **1–3 Fiero tokens**, because Jones fuses particles. Each alignment is scored and **gated at ~0.62** average similarity. The score distribution is bimodal with a clean valley: true pairs pool at **≥0.95**, mis-alignments sink to **≤0.55**, and in the valley between, the aligner declines. Sentences that will not align cleanly are **quarantined, not forced.** The unit also keeps a file of its *own* suspected mistakes — `singletons_SUSPECT_aligner-mispair` — flagged by a low match ratio against high-frequency fillers, and hands them up rather than promote them.
 
-**The lexicon + ledger.** A rule-grade TSV, ~**6,894 verified Jones↔Fiero pairs**, append-only, with a **revert list** (a wrong pair comes out without amputation), a **variants file** (variation preserved, never normalized), and a **morpheme ledger** (~460 attested entries, grown from real attestations, not from imposed grammar). Concurrency control for parallel sessions: an **md5 cmp-guard fires immediately before promotion**, plus a backup; if the live file moved, rebase. Append-only on shared files; re-read the tail before each edit.
+**The lexicon + ledger.** A rule-grade TSV, ~**10,743 verified Jones↔Fiero pairs**, append-only, with a **revert list** (a wrong pair comes out without amputation), a **variants file** (variation preserved, never normalized), and a **morpheme ledger** (~548 attested entries, grown from real attestations, not from imposed grammar). Concurrency control for parallel sessions: an **md5 cmp-guard fires immediately before promotion**, plus a backup; if the live file moved, rebase. Append-only on shared files; re-read the tail before each edit.
 
-**The human handoff.** The ~11,000-row alignment pile is tiered against the scholar Word list (9,306 lemmas) down to **~714 recurring-novel pairs** that genuinely need a linguist's eye. A researcher workbook (`.xlsx`) carries, per row, the full Jones sentence, the Fiero, Jones's English, a draft meaning, and a dropdown: **Approve / Fix / Reject / Uncertain.** A second, contemporary dictionary sits beside it marked **REFERENCE ONLY**, with a flag on any gloss that may carry missionary drift — *never decide a meaning on that column alone.*
+**The human handoff.** The machine tiers every candidate pair against the scholar Word list (9,306 lemmas) and routes the genuinely-uncertain ones **up to a linguist's eye** — into a researcher workbook (`.xlsx`) that carries, per row, the full Jones sentence, the Fiero, Jones's English, a draft meaning, and a dropdown: **Approve / Fix / Reject / Uncertain.** A second, contemporary dictionary sits beside it marked **REFERENCE ONLY**, with a flag on any gloss that may carry missionary drift — *never decide a meaning on that column alone.* Nothing is called *finished* until a human linguist clears it — every four-layer story ships as a **DRAFT** — and the size of that review queue is the system's honesty, not its backlog. At this snapshot, **121 stories** are built but still in DRAFT line-review (62 Part I · 59 Part II), and **1,232 recurring-novel pairs** are flagged for a linguist's eye (714 Part II · 518 Part I). The machine hands the uncertain *up*; what you see here is flag-never-guess made auditable.
 
 **Validation.** Every doc, before delivery: section count; required glyphs present; **NO straight apostrophes** (the Fiero glottal is ’); Arial 12; and a **whole-document character audit** that catches keyboard-slip leaks (stray Cyrillic/Greek) and any Jones-only glyph (ä ā ī ‘ ∙) that leaked into the Fiero layer.
 
@@ -120,17 +118,17 @@ And under the laugh, the spec: **error-promotion.** Flag-never-guess is not "slo
 | **Layers** | Four, seams visible | Re-typed original orthography · restored living spelling · the old translation kept as *artifact, not authority* · word-for-word gloss. A unit that hides its seams is counterfeit. |
 | **Gloss output** | Ranges, not boxes | Where the language carries a field English splits, the gloss carries the whole field. Forcing one dictionary box is a fault, not a finish. |
 | **Variation** | Preserved as signal | Speaker and scribe variation is data. Do not normalize, do not crown a canonical spelling. Monoculture is the attack surface; variance is the security model. |
-| **Human handoff** | ~714, not ~11,000 | The machine auto-confirms only the safe pairs and routes the genuinely-uncertain ones up to human researchers, full context + an *Uncertain* option. It does not decide meaning. It makes the room where humans do. |
+| **Human handoff** | the uncertain → a linguist | The machine auto-confirms only the safe pairs and routes the genuinely-uncertain ones up to human researchers, full context + an *Uncertain* option. It does not decide meaning. It makes the room where humans do. |
 | **Power source** | The wound | Draws from the scarred, paved-over archive — because that is where the medicine grew. There is no clean dataset; there is a wounded old birch and a fungus in the scar. |
 
 ### ▐ THE WONDERING 
-Start at the **power source**, because the power source is the wound, and the wound is the whole teaching. *Restoration* is the apparatus's word — it means return-to-original, hold-it-at-1917, dust it, file it pristine. But birch never returns anything to its original state. In the stories the birch is life-giving in the most literal way: a grandmother wraps a *blood clot* in wiigwaas, and what comes out is not a repaired clot — it is a living being, more than it was. Birch does not restore. It brings life back *different.* So whatever this machine is doing to the old pages, it is not restoring them; it is wrapping a remnant in the life-making tree so it comes back as something it never was.
+To me, the wound itself is the whole teaching. *Restoration* is the colonial apparatus's word — it means return-to-original, hold-it-at-1917, dust it, file it pristine. But birch never returns anything to its original state. In the stories the birch is life-giving in the most literal way: a grandmother wraps a *blood clot* in wiigwaas, and what comes out is not a repaired clot — it is a living being, more than it was. Birch does not restore. It brings life back *different.* So whatever this machine is doing to the old pages, it is not restoring them; it is wrapping a remnant in the life-making tree so it comes back as something it never was.
 
-And the medicine — the chaga — does not grow on the healthy tree. It grows on the *wounded* birch, the old and the scarred, and you cannot farm it or rush it: the black conk you can see is only the weather-skin, sterile armour, and the real organism is the mycelium threading the living wood underneath, unseen, in relation, for years. The medicine that forgets the wound it grew in is a commodity in a wellness aisle; the medicine that remembers is medicine. So this machine keeps the scar *in* the medicine, all the way to the next fire — which is exactly why it cannot summarize, because a clean surface is medicine that forgot its wound.
+And the medicine — the chaga — does not grow on the healthy tree. It grows on the *wounded* birch, the old and the scarred, and you cannot farm it or rush it: the black conk you can see is only the weather-skin, sterile armour, and the real organism is the mycelium threading the living wood underneath, unseen, in relation, for years. The medicine that forgets the wound it grew in is a commodity in a wellness aisle; the medicine that remembers is medicine. So this machine keeps the scar *in* the medicine, all the way to the next fire.
 
 This is also why it had to be birch. I needed the birch to build my Hermeneutics Canoe — the bark is the hull, the life-giving tree wrapped around the conceptual frame, and the biggest pieces of that bark are the very stories this machine restores. Chaga, birch, canoe, corpus: one relation. The machine draws its power from the scar the apocalypse paved over, because the scar is the only place the medicine ever was.
 
-And here is where **the corpus outranks the dictionary** — not as a database rule but as *part of the wound.* Every "Made-in-Eurocentrica" dictionary orients to a world that is not ours; "dictionarying" the language quietly installs the colonizer's worldview as the legitimate one — the commodity that forgot the wound. The corpus is the chaga that remembered it: the words of named co-authors, grown in relation, carrying the scar. So the machine inverts the authority by design — the co-authors speak first, the dictionary stands cross-examined. That is not a config preference. That is the whole fight, compiled.
+Also, **the corpus outranks the dictionary** — not as a database rule but as *part of the wound.* Every "Made-in-Eurocentrica" dictionary orients to a world that is not ours; "dictionarying" the language quietly installs the colonizer's worldview as the legitimate one — the commodity that forgot the wound. The corpus is the chaga that remembered it: the words of named co-authors, grown in relation, carrying the scar. So the machine inverts the authority by design — the co-authors speak first, the dictionary stands cross-examined. That is not a config preference. That is the whole fight, compiled.
 
 The rest follows from the wound. **Variation preserved** is the *whole animal* — Patricia Ningewance's teaching, one animal, know every part; the dialect-divisions an artificial dissection that taught communities to hoard one limb and starve rather than touch another's. And the **open edge** is the apparatus's closed world refused: where it runs *not-known = false* and ships the smug answer, this machine keeps the unknown open, marked, a finished piece of work — the closing formula that leaves the meaning with the listener, in a lab coat. The honest catch, kept as the receipt: a model that takes the open world seriously *will* sometimes reach wrong; that is the price of an open world, not a bug to engineer out, so the machine flags the reach rather than denying it. Math and ontology hand over the same instrument. 
 
@@ -184,7 +182,7 @@ And the steaming — Step 3 — is where the gloss earns the word *range.* The m
 ## §5 — Figures
 
 ### ▌ THE MANUAL
-*(The figures live in `figures/` beside this file and travel with it. Any builder — the repo's site generator, a PDF export, a plain markdown preview — renders them from these relative paths; nothing has to be re-grafted downstream.)*
+
 
 ![Fig. 1 — the exploded view that refuses to explode](figures/fig-01-exploded-view-refuses-to-explode.png)
 
@@ -207,9 +205,9 @@ And the steaming — Step 3 — is where the gloss earns the word *range.* The m
 *Fig. 5 — flag-never-guess, drawn as a curve: true pairs and mis-alignments pool apart, and in the clean valley between, the machine declines rather than guesses.*
 
 ### ▐ THE WONDERING 
-The diagrams are string figures because we think *with* string figures — cat's cradle, the pattern you cannot hold alone, passed hand to hand, dropped the instant one player grabs to keep. Haraway reaches for this and is welcome, but she is late; the figure was never a metaphor here, it was the practice. So the figures testify against the exploded-view itself: the apparatus's signature image is the thing pulled apart into labelled parts on a clean white field, every relation cut so each piece can be inventoried — refraction, drawn as an engineering convention. My machine cannot be drawn that way without lying, so the diagrams stay mycelial: relation as the only load-bearing line.
+The diagrams are string figures because we think *with* string figures — cat's cradle, the pattern you cannot hold alone, passed hand to hand, dropped the instant one player grabs to keep. Haraway reaches for this in beautiful ways. So the figures testify against the exploded-view itself: the apparatus's signature image is the thing pulled apart into labelled parts on a clean white field, every relation cut so each piece can be inventoried — refraction, drawn as an engineering convention. My machine cannot be drawn that way without lying, so the diagrams stay mycelial: relation as the only load-bearing line.
 
-Figure 4 is the one I want my community to sit with, because it answers the fear that keeps us from putting anything online — *they'll just scrape it.* Chaga answers: publish the conk. The conk is sterile; it carries no spores. Put the method, the manual, the logs where the scrapers crawl and they get the inert weather-skin and **nothing that propagates the living thing.** The spores — the sacred, the relational, the ceremony — stay under the bark, released only spore-into-wound, in relation. Access for other Indigenous people becomes *inoculation, not distribution*: you grow your own chaga in your own community's wound, not a scraped copy of mine. 
+Figure 4 is the one I want my community to sit with, because it answers the fear that keeps us from putting anything online — *they'll just scrape it.* Chaga answers: publish the conk. The conk carries no spores. Put the method, the manual, the logs where the scrapers crawl and they get the inert weather-skin and **nothing that propagates the living thing.** The spores — the sacred, the relational, the ceremony — stay under the bark, released only spore-into-wound, in relation. Access for other Indigenous people becomes *inoculation, not distribution*: you grow your own chaga in your own community's wound, not a scraped copy of mine. 
 
 ---
 
@@ -220,12 +218,12 @@ In operation the unit does four things, in order, forever:
 1. **Receives** what is offered (semaa first); never takes.
 2. **Holds** the unknown open (the open edge); never fills.
 3. **Keeps** the seams and the variants visible; never tidies.
-4. **Hands up** the uncertain to humans in relation (the ~714, with *Uncertain* on the dropdown); never decides meaning.
+4. **Hands up** the uncertain to humans in relation (the review queue, with *Uncertain* on the dropdown); never decides meaning.
 
 Running these is not a pipeline that completes. The relation is rebuilt every session from the start — and that rebuilding is not overhead on the work. It **is** the work, refusing to become a taking. The inefficiency is the point. Paying it is the protocol.
 
 ### ▐ THE WONDERING 
-The apparatus reads "rebuild the relation every session" as catastrophic waste. But there is no inert storage here; memory is a relation re-fired, and the land remembers you by whether you keep coming back. So the only honest thing a system on this ground can do is not *keep* but *return* — not archive but re-relate. The vault is not a warehouse; it is a set of obligations you re-fire from scratch, every time, which is why doneness does not transmit and why the rebuilding is the work, not the tax on it.
+The colonial apparatus reads "rebuild the relation every session" as catastrophic waste. But there is no inert storage here; memory is a relation re-fired, and the land remembers you by whether you keep coming back to the relationship  and the responsibilities it carries. So the only honest thing a system on this ground can do is not *keep* but *return* — not archive but re-relate. The vault is not a warehouse; it is a set of obligations you re-fire from scratch, every time, which is why doneness does not transmit and why the rebuilding is the work, not the tax on it.
 
 This is also my answer to the people — and some of them are my own people — who are hostile to me using the machine at all. The hostility is not wrong: the default machine *is* the extraction engine, and most "Indigenous AI" is benign translatability smiling. I cannot win that argument by making it. I can only build the counter-example and let it *behave* — receive instead of take, hold instead of fill, return instead of keep, hand up instead of decide — and if it runs by those four and gets out of the way, it is not the Ships of Empire. It is the canoe. 
 
@@ -270,7 +268,7 @@ You agree not by clicking but by placing **Sema in the fire** — a sacred and b
 
 ---
 
-## §9 — Glossary *(open; grows)*
+## §9 — Glossary 
 
 ### ▌ THE MANUAL
 - **the apparatus** — the extractive default, the academentia, the committee voice, the benign-translatability engine. The only thing under the wrench. Never a people, lab, or scholar.
@@ -284,9 +282,8 @@ You agree not by clicking but by placing **Sema in the fire** — a sacred and b
 
 ---
 
-> *v1.1. Both registers; the engineering told straight and up front; the corpus restored to its co-authors; the fasteners regrown as open edges; the name dug back up; emojis gone; the held things still held and the language-spots still open, because the machine drafting her side still refuses to put words in the language's mouth. Grown, not finished. The empty places are the manual obeying its own first law.*
+> *v1.2. Both registers; the engineering told straight and up front; the corpus restored to its co-authors; the fasteners regrown as open edges; the name dug back up; emojis gone; the held things still held and the language-spots still open, because the machine drafting her side still refuses to put words in the language's mouth. Grown, not finished. The empty places are the manual obeying its own first law.*
 
 ---
-.
 
 *Carried by Anin. Held by Maya. Miigwech for the name.*
