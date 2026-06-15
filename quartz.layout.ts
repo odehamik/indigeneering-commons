@@ -19,8 +19,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Use & sovereignty": "/use-and-sovereignty",
-      "Request access": "/request-access",
+      "Use & sovereignty": "/indigeneering-commons/use-and-sovereignty",
+      "Request access": "/indigeneering-commons/request-access",
       GitHub: "https://github.com/odehamik/indigeneering-commons",
     },
   }),
