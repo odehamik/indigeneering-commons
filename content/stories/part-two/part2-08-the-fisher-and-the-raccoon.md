@@ -10,7 +10,13 @@ OJIIG ESIBAN GAYE**
 
 ## **THE FISHER AND THE RACCOON.**
 
-> *from Ojibwa Texts collected by William Jones (1919).*
+
+<div class="four-layer">
+
+> <span class="l-eng">*from Ojibwa Texts collected by William Jones (1919).*</span>
+
+</div>
+
 
 *Fiero restoration by Weshki (sites.google.com/site/weshki). Four-layer gloss added by the Jones Corpus project, 2026-06-14 — Weshki’s Fiero and Jones’s English preserved unchanged; gloss line added.*
 

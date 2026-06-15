@@ -11,7 +11,13 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 ## **SNAPPING-TURTLE GOES TO WAR**
 
-> *from Ojibwa Texts collected by William Jones (1919).*
+
+<div class="four-layer">
+
+> <span class="l-eng">*from Ojibwa Texts collected by William Jones (1919).*</span>
+
+</div>
+
 
 *Fiero restoration by Weshki (sites.google.com/site/weshki). Four-layer gloss added by the Jones Corpus project, 2026-06-14 — Weshki’s Fiero and Jones’s English preserved unchanged; gloss line added.*
 
@@ -59,10 +65,16 @@ Awiya dash (then someone) omadwe-nakwetaagoon (was heard answering him).
 
 7)  > "Nīn kīgawīdcīwîn tcînạndubạniyạn\!"
 
-> **"Niin giga-wiijiiwin ji-nandobaniyan\!"**
-> 
-> *"I will go with you when you go to war\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Niin giga-wiijiiwin ji-nandobaniyan\!"**</span>
+>
+> <span class="l-eng">*"I will go with you when you go to war\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Niin (I) giga-wiijiiwin (will go with you) ji-nandobaniyan (when you go to war)\!"
 
@@ -82,10 +94,16 @@ Besho dash (and when nearby) baa-ayaanid (he was coming about) iniw ininiwan (th
 
 10) > "Ckumān pigagwädcīn käta·i·jīwumbạnän mīgāzoyạng\!"
 
-> **"*Shkomaa* bi-gagwejiin *ge-daa-izhiiwambanen* miigaazoyang."**
-> 
-> *"Just you come and show what you would do should we get into a fight\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"*Shkomaa* bi-gagwejiin *ge-daa-izhiiwambanen* miigaazoyang."**</span>
+>
+> <span class="l-eng">*"Just you come and show what you would do should we get into a fight\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Shkomaa (just) bi-gagwejiin (come and try) ge-daa-izhiiwambanen (what you would do) miigaazoyang (should we fight)\!"
 
@@ -119,10 +137,16 @@ Zhigwa (when) omaa (here) ba-dagwishininid (he was come) iniw ininiwan (that man
 
 15) > "Mēdạc kägat gīnibu, mī‘kinā‘k\!"
 
-> **"Mii dash geget ginibo mikinaak\!"**
-> 
-> *"And now truly you shall die, Snapping-Turtle\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Mii dash geget ginibo mikinaak\!"**</span>
+>
+> <span class="l-eng">*"And now truly you shall die, Snapping-Turtle\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Mii dash (and now) geget (truly) ginibo (you shall die), mikinaak (Snapping-Turtle)\!"
 
@@ -135,10 +159,16 @@ Mii dash (and so) gii-goosad (he became afraid of him).
 
 17) > "Intawātci kīwän," udinān, "māgicā kidānisigō mīgāding," udinān.
 
-> **"Indawaaj giiwen," odinaan, "maagizhaa gid-anisigoo miigaading," odinaan.**
-> 
-> *"You had better go back home," he said to him, "lest perhaps you be slain in battle," he said to him.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Indawaaj giiwen," odinaan, "maagizhaa gid-anisigoo miigaading," odinaan.**</span>
+>
+> <span class="l-eng">*"You had better go back home," he said to him, "lest perhaps you be slain in battle," he said to him.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Indawaaj (you had better) giiwen (go home)," odinaan (he said to him), "maagizhaa (lest perhaps) gid-anisigoo (you be slain) miigaading (in battle)," odinaan (he said to him).
 
@@ -172,19 +202,31 @@ Mii dash (and so) madwe-biibaagiwan (came the sound of voices calling).
 
 22) > "Nīnawind\!"
 
-> **"Niinawind\!"**
-> 
-> *"With us\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Niinawind\!"**</span>
+>
+> <span class="l-eng">*"With us\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Niinawind (with us)\!"
 
 23) > "Ondās, ondās\!" udinān.
 
-> **"Ondaas, ondaas\!" odinaan.**
-> 
-> *"Hither, hither\!" he said to them.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Ondaas, ondaas\!" odinaan.**</span>
+>
+> <span class="l-eng">*"Hither, hither\!" he said to them.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Ondaas (come here), ondaas (come here)\!" odinaan (he said to them).
 
@@ -204,26 +246,44 @@ Mii dash (and so) enaad (he said to them):
 
 26) > "Skomān kạgwätcīyu‘k kädōdamägobạn mīgāsoyạnk\!"
 
-> **"*Skomaa* gagwejiiyog ge-doodamegoban miigaazoyang\!"**
-> 
-> *"Just you show what you would do should we get into a fight\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"*Skomaa* gagwejiiyog ge-doodamegoban miigaazoyang\!"**</span>
+>
+> <span class="l-eng">*"Just you show what you would do should we get into a fight\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Skomaa (just) gagwejiiyog (try, you) ge-doodamegoban (what you would do) miigaazoyang (should we fight)\!"
 
 27) > Mīdac ka‘kina kā·i·ji·o·dci‘tāwād, tibickō asînīg kījināguziwạg.
 
-> **Mii dash gakina gaa-izhi-ojitaawaad, dibishkoo asiniig gii-izhinaagoziwag.**
-> 
-> *Thereupon all withdrew into their shells, like stones was their look.*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Mii dash gakina gaa-izhi-ojitaawaad, dibishkoo asiniig gii-izhinaagoziwag.**</span>
+>
+> <span class="l-eng">*Thereupon all withdrew into their shells, like stones was their look.*</span>
+
+</div>
+
 
 Mii dash (and so) gakina (all) gaa-izhi-ojitaawaad (when they drew into their shells), dibishkoo asiniig (like stones) gii-izhinaagoziwag (they looked).
 
 28) > "Ānīc, mīsa´ ogōu käwīdcī·ạ·gwā," i‘kido mi‘kinā‘k.
 
-> **"Aaniish mii saa ogow ge-wiijii'agwaa," ikido mikinaak.**
-> 
-> *"Well, it is with these that I will go," said Snapping-Turtle.*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Aaniish mii saa ogow ge-wiijii'agwaa," ikido mikinaak.**</span>
+>
+> <span class="l-eng">*"Well, it is with these that I will go," said Snapping-Turtle.*</span>
+
+</div>
+
 
 "Aaniish (well), mii saa (it is) ogow (these) ge-wiijii’agwaa (that I will go with)," ikido mikinaak (said Snapping-Turtle).
 
@@ -236,9 +296,15 @@ Mii dash (and so) gii-maajaawaad (they set out) nandobaniwaad (going to war).
 
 30) > Ningutingidạc ạninîbāwād tibi‘kạdinig mạdwänạgạmō päejik mîskwādäsi, mīdạc äna·ạ·nk: —
 
-> **Ningoding idash ani-nibaawaad dibikadinig madwe-nagamo bezhig miskwaadesi, mii dash ena'ang: -**
-> 
-> *And one night when they were going to sleep, a certain Turtle was heard singing, and thus he sang:—*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Ningoding idash ani-nibaawaad dibikadinig madwe-nagamo bezhig miskwaadesi, mii dash ena'ang: -**</span>
+>
+> <span class="l-eng">*And one night when they were going to sleep, a certain Turtle was heard singing, and thus he sang:—*</span>
+
+</div>
+
 
 Ningoding idash (and one night) ani-nibaawaad (as they were going to sleep) dibikadinig (when night fell) madwe-nagamo (was heard singing) bezhig miskwaadesi (a certain Turtle), mii dash (and so) ena’ang (this he sang):
 
@@ -251,10 +317,16 @@ Mishiikenwaa\! (O Snapping-Turtle\!) oodenaangi (in a town) gidaatawenigoomin (w
 
 32) > Nīndinā‘pawä yāaha, nīndinā‘pawä yāaha, yāaha\!"
 
-> **Nindinaabawe yaaha, nindinaabawe yaaha\!"**
-> 
-> *Such was my dream, yaaha\! such was my dream, yaaha, yaaha\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Nindinaabawe yaaha, nindinaabawe yaaha\!"**</span>
+>
+> <span class="l-eng">*Such was my dream, yaaha\! such was my dream, yaaha, yaaha\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Nindinaabawe (such was my dream) yaaha, nindinaabawe (such was my dream) yaaha\!
 
@@ -274,18 +346,30 @@ Mii dash (and so) gaa-izhi-odaapinang (taking up) omookomaan (his knife) gii-ino
 
 35) > "ānīn ä‘kidoyan?"
 
-> **"Aaniin ekidoyan?"**
-> 
-> *"What did you say?"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Aaniin ekidoyan?"**</span>
+>
+> <span class="l-eng">*"What did you say?"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Aaniin (what) ekidoyan (did you say)?"
 
 36) > "Kā, ūdänāng iīzạn ka‘kina kīnisigōmin nindinābạndạm," i‘kido.
 
-> **Gaa, oodenaang *iizan* gakina ginisigoomin nindinaabandam," ikido.**
-> 
-> *"Why, that in a town we shall probably all be slain, was what I dreamed," he said.*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Gaa, oodenaang *iizan* gakina ginisigoomin nindinaabandam," ikido.**</span>
+>
+> <span class="l-eng">*"Why, that in a town we shall probably all be slain, was what I dreamed," he said.*</span>
+
+</div>
+
 
 "Gaa (why), oodenaang (in a town) iizan (it seems) gakina (all) ginisigoomin (we shall be slain) nindinaabandam (was what I dreamed)," ikido (he said).
 
@@ -368,9 +452,15 @@ Oodayaa’obiinoomonaawaan (they hid in their bosoms) oshtigwaanan (the heads).
 
 48) > Mīdạc kā·i·jikāzowād; mi‘tigwanāgạn a‘tä, imān dạc pīndik mī·i·mā kī‘kāzōwād.
 
-> **Mii dash gaa-izhi-gaazowaad; mitigwanaagan ate, imaa biindig mii imaa gii-gaazowaad.**
-> 
-> *Thereupon they hid themselves; a wooden bowl was there, and there inside was where they hid themselves.*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Mii dash gaa-izhi-gaazowaad; mitigwanaagan ate, imaa biindig mii imaa gii-gaazowaad.**</span>
+>
+> <span class="l-eng">*Thereupon they hid themselves; a wooden bowl was there, and there inside was where they hid themselves.*</span>
+
+</div>
+
 
 Mii dash (and so) gaa-izhi-gaazowaad (they hid themselves); mitigwanaagan (a wooden bowl) ate (was there), imaa biindig (there inside) mii imaa (there) gii-gaazowaad (they hid themselves).
 
@@ -418,17 +508,29 @@ Mii dash (and so) ekidowaad (they said):
 
 55) > "Kigīwâbạndānāwā na ānawi ‘igi´u mi‘tigwanāgạn?"
 
-> **"Gigii-waabandaanaawaa na aanawi i'iw mitigwanaagan?"**
-> 
-> *"You have of course looked at the wooden bowl?"*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Gigii-waabandaanaawaa na aanawi i'iw mitigwanaagan?"**</span>
+>
+> <span class="l-eng">*"You have of course looked at the wooden bowl?"*</span>
+
+</div>
+
 
 "Gigii-waabandaanaawaa na (have you looked at) aanawi (after all) i’iw mitigwanaagan (that wooden bowl)?"
 
 56) > "Kāwīn," i‘kidowạg.
 
-> **"Gaawiin," ikidowag.**
-> 
-> *"No," they said.*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Gaawiin," ikidowag.**</span>
+>
+> <span class="l-eng">*"No," they said.*</span>
+
+</div>
+
 
 "Gaawiin (no)," ikidowag (they said).
 
@@ -455,9 +557,15 @@ Mikinaak idash (and Snapping-Turtle) gii-dakonaa (was taken captive); aw idash o
 
 60) > "Āwisạ´, nisādā mi‘kinā‘k\!"
 
-> **"Aaw isa, nisaadaa mikinaak\!"**
-> 
-> *"Now, then, let us kill Snapping-Turtle\!"*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Aaw isa, nisaadaa mikinaak\!"**</span>
+>
+> <span class="l-eng">*"Now, then, let us kill Snapping-Turtle\!"*</span>
+
+</div>
+
 
 "Aaw isa (now then), nisaadaa (let us kill) mikinaak (Snapping-Turtle)\!"
 
@@ -484,9 +592,15 @@ Mii dash (and so) ekidowaad (they said):
 
 64) > Käegätigunā kāwīsinimin\!"
 
-> **Geget igo naa gga-wiisinimin\!"**
-> 
-> *Surely, without any doubt now shall we have food to eat\!"*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Geget igo naa gga-wiisinimin\!"**</span>
+>
+> <span class="l-eng">*Surely, without any doubt now shall we have food to eat\!"*</span>
+
+</div>
+
 
 Geget igo naa (surely indeed now) gga-wiisinimin (we shall eat)\!"
 
@@ -499,9 +613,15 @@ Mii dash (and so) mindimooyenyag (the old women) omashkimodaawaan (their bags) o
 
 66) > Mīdạc kīkistciwisiniwād mîskwādäsiwạg, mī igi´u cemāgenijạg.
 
-> **Mii dash gii-gichi-wiisiniwaad miskwaadesiwag, mii igiw zhimaaganishag.**
-> 
-> *Thereupon they had a great feast on the Painted-Turtles, those that had been soldiers.*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Mii dash gii-gichi-wiisiniwaad miskwaadesiwag, mii igiw zhimaaganishag.**</span>
+>
+> <span class="l-eng">*Thereupon they had a great feast on the Painted-Turtles, those that had been soldiers.*</span>
+
+</div>
+
 
 Mii dash (and so) gii-gichi-wiisiniwaad (they had a great feast on) miskwaadesiwag (the Painted-Turtles), mii igiw (those that were) zhimaaganishag (the soldiers).
 
@@ -521,10 +641,16 @@ Mii dash (and so) ekidod (he said):
 
 69) > "Kāwīn, nindādcāgizwạg igiu abinōdcīyạg anikibwunāmozoyān."
 
-> **"Gaawiin, nindaajaagizwaag igiw abinoojiiyag ani-gibwonaamozoyaan."**
-> 
-> *"Nay, I might burn up the children while I am smothering in the smoke."  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Gaawiin, nindaajaagizwaag igiw abinoojiiyag ani-gibwonaamozoyaan."**</span>
+>
+> <span class="l-eng">*"Nay, I might burn up the children while I am smothering in the smoke."  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Gaawiin (no), nindaajaagizwaag (I might burn up) igiw abinoojiiyag (those children) ani-gibwonaamozoyaan (as I smother in the smoke)."
 
@@ -544,10 +670,16 @@ Miinawaa (again) ikidowag (they said):
 
 72) > "Indawā kījāgamidänk pạginādā\!"
 
-> **"Indawaa giizhaagamideng paginaadaa\!"**
-> 
-> *"Therefore into water that is hot let us fling him\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Indawaa giizhaagamideng paginaadaa\!"**</span>
+>
+> <span class="l-eng">*"Therefore into water that is hot let us fling him\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Indawaa (therefore) giizhaagamideng (into hot water) paginaadaa (let us fling him)\!"
 
@@ -560,10 +692,16 @@ Miinawaa (again) ikidowag (they said):
 
 74) > "Nindādcāgizwāg abinōdcīyạg."
 
-> **"Nindaajaagizwaag abinoojiiyag."**
-> 
-> *"I might burn up the children."  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Nindaajaagizwaag abinoojiiyag."**</span>
+>
+> <span class="l-eng">*"I might burn up the children."  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Nindaajaagizwaag (I might burn up) abinoojiiyag (the children)."
 
@@ -583,21 +721,39 @@ Miinawaa dash (and again) gii-ikidowag (they said):
 
 77) > "Indawā nibī‘kāng pạginādā\!"
 
-> **"Indawaa nibikaang paginaadaa\!"**
-> 
-> *"Therefore into the water let us fling him\!"*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Indawaa nibikaang paginaadaa\!"**</span>
+>
+> <span class="l-eng">*"Therefore into the water let us fling him\!"*</span>
+
+</div>
+
 
 "Indawaa (therefore) nibikaang (into the water) paginaadaa (let us fling him)\!"
 
 78) > "Mī·i·´u tōdawiciyu‘k," i‘kido mi‘kinā‘k. (1)
 
-> **"Mii iw doodawishiyok," ikido mikinaak.**
-> 
-> *"That do you to me," said Snapping-Turtle. (1)*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Mii iw doodawishiyok," ikido mikinaak.**</span>
+>
+> <span class="l-eng">*"That do you to me," said Snapping-Turtle. (1)*</span>
+
+</div>
+
 
 "Mii iw (that) doodawishiyok (do you to me)," ikido mikinaak (said Snapping-Turtle).
 
-> (1) It is usual to tell of the snapping-turtle objecting to be thrown into the water.
+
+<div class="four-layer">
+
+> <span class="l-orig">(1) It is usual to tell of the snapping-turtle objecting to be thrown into the water.</span>
+
+</div>
+
 
 79) > Mēdạc māmawi kīnawạdināwāt mādcīnāwāt nibī‘kāng, mi‘kinā‘kidạc kīmạmīndcimā‘kwīkāzo pä‘kāgu.  
     > **Mii dash maamawi gii-nawadinawaad maajiinaawaad nibikaang, mikinaak idash gii-mamiinjimaakwiikaazo bekaa go.  
@@ -608,10 +764,16 @@ Mii dash (and so) maamawi (all together) gii-nawadinawaad (they seized him) maaj
 
 80) > A‘pī·i·dạc tägwạcimāwād nibī‘käng ugīpạgināwān, mēdạc imān kī·ạ·ngwundcing ag‘a´u mi‘kinā‘k.
 
-> **Apii idash degwashimaawaad nibikaang ogii-paginaawaan, mii dash imaa gii-agwonjing a'aw mikinaak.**
-> 
-> *And when they were come at the water, they flung him (in), and so there on the water floated Snapping-Turtle.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Apii idash degwashimaawaad nibikaang ogii-paginaawaan, mii dash imaa gii-agwonjing a'aw mikinaak.**</span>
+>
+> <span class="l-eng">*And when they were come at the water, they flung him (in), and so there on the water floated Snapping-Turtle.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Apii idash (and when) degwashimaawaad (they brought him) nibikaang (to the water) ogii-paginaawaan (they flung him in), mii dash imaa (and so there) gii-agwonjing (floated) a’aw mikinaak (that Snapping-Turtle).
 
@@ -624,10 +786,16 @@ Bezhig ikwe (a certain woman) nibinaadid (who went to fetch water) ogii-misaweni
 
 82) > Mi‘tig ogī·o·dā‘pinān mādcigwānāt.
 
-> **Mitig ogii-odaapinaan maajigwaanaad.  
-> ***A stick she picked up (with which) to draw him inshore.  
-> ***  
-> **
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Mitig ogii-odaapinaan maajigwaanaad.  </span>
+> <span class="l-src">***A stick she picked up (with which) to draw him inshore.  </span>
+> <span class="l-src">***  </span>
+> <span class="l-fiero">**</span>
+
+</div>
+
 
 Mitig (a stick) ogii-odaapinaan (she took up) maajigwaanaad (to draw him in).
 
@@ -647,33 +815,57 @@ Ogii-nisaan (he slew) iniw ikwewan (that woman), ogii-giishkigwezhwaan (he cut o
 
 85) > Minisābikōngidạc kīmạdwä·ạ·gwā‘tā, mi‘kinā‘k mạdwänạgạmu": —
 
-> **Minisaabikoong idash gii-madwe-agwaataa. mikinaak madwe-nagamo:**
-> 
-> *Out upon a rocky island he could be heard coming forth from the water, Snapping-Turtle was heard singing:—*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Minisaabikoong idash gii-madwe-agwaataa. mikinaak madwe-nagamo:**</span>
+>
+> <span class="l-eng">*Out upon a rocky island he could be heard coming forth from the water, Snapping-Turtle was heard singing:—*</span>
+
+</div>
+
 
 Minisaabikoong idash (and out on a rocky island) gii-madwe-agwaataa (he was heard coming ashore), mikinaak (Snapping-Turtle) madwe-nagamo (was heard singing):
 
 86) > "Nīnīsa, ninginisā yā·a·wi‘kwä\!  
     > **Niin isa, ningii-nisaa ya'aw ikwe\!**
 
-> *"It was I, I slew the woman\!*
+
+<div class="four-layer">
+
+> <span class="l-eng">*"It was I, I slew the woman\!*</span>
+
+</div>
+
 
 Niin isa (it was I), ningii-nisaa (I slew) ya’aw ikwe (that woman)\!
 
 87) > Nīnīsa, ninginisā yā·a·wi‘kwäa\!  
     > **Niin isa, ningii-nisaa ya'aw ikwe\!**
 
-> *It was I, I slew the woman\!  
-> *
+
+<div class="four-layer">
+
+> <span class="l-eng">*It was I, I slew the woman\!  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Niin isa (it was I), ningii-nisaa (I slew) ya’aw ikwe (that woman)\!
 
 88) > Nīnīsa, ninginisā yā·a·wi‘kwä\!"
 
-> **Niin isa, ningii-nisaa ya'aw ikwe\!**
-> 
-> *It was I, I slew the woman\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Niin isa, ningii-nisaa ya'aw ikwe\!**</span>
+>
+> <span class="l-eng">*It was I, I slew the woman\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Niin isa (it was I), ningii-nisaa (I slew) ya’aw ikwe (that woman)\!
 
@@ -742,28 +934,46 @@ Gii-madwesaagibiid (when he was heard coming up out of the water) a’aw nigig (
 
 98) > "An, an, an, an, ninda‘kwạmig nindạgayānk\!"
 
-> **"An, an, an, an, nindakwamig nindagayaang.**
-> 
-> *"Oh, oh, oh, oh, I am bitten at the penis\!"  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"An, an, an, an, nindakwamig nindagayaang.**</span>
+>
+> <span class="l-eng">*"Oh, oh, oh, oh, I am bitten at the penis\!"  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "An, an, an, an, nindakwamig (I am bitten) nindagayaang (at my penis)\!"
 
 99) > "Pạgitạm\!" udināwān idạc īni´u mi‘kinā‘kwạn.
 
-> **"Bagidam\!" odinaawaan idash iniw mikinaakwan.**
-> 
-> *"Let it go\!" they then said to Snapping-Turtle.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Bagidam\!" odinaawaan idash iniw mikinaakwan.**</span>
+>
+> <span class="l-eng">*"Let it go\!" they then said to Snapping-Turtle.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Bagidam (let it go)\!" odinaawaan idash (and they said to) iniw mikinaakwan (that Snapping-Turtle).
 
 100) > "Pānimā kistci·a·nimi‘kī‘kāg ningạbạgidạmā."
 
-> **"Baanimaa idash gichi-animikikaag ninga-bagidamaa."**
-> 
-> *"Not till a great thunder-storm comes up will I let go my hold from him there."  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Baanimaa idash gichi-animikikaag ninga-bagidamaa."**</span>
+>
+> <span class="l-eng">*"Not till a great thunder-storm comes up will I let go my hold from him there."  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 "Baanimaa idash (not till) gichi-animikikaag (a great thunder-storm comes) ninga-bagidamaa (will I let go my hold on him)."
 
@@ -797,9 +1007,15 @@ Mii dash (and so) ekidod (he said):
 
 105) > "Nīnîmōk kạckigwātạmowād imān kīta‘kwạmit au mi‘kinā‘k mā·i·´u tcinōdcîmoyān."
 
-> **"Niinimoog gashkigwaadamowaad imaa gii-dakwamid aw mikinaak maa iw ji-noojimoyaan."**
-> 
-> *"If my sisters-in-law would sew up the place where I was bitten by Snapping-Turtle, then I should be healed."*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**"Niinimoog gashkigwaadamowaad imaa gii-dakwamid aw mikinaak maa iw ji-noojimoyaan."**</span>
+>
+> <span class="l-eng">*"If my sisters-in-law would sew up the place where I was bitten by Snapping-Turtle, then I should be healed."*</span>
+
+</div>
+
 
 "Niinimoog (my sisters-in-law) gashkigwaadamowaad (if they would sew up) imaa (there) gii-dakwamid (where I was bitten) aw mikinaak (by Snapping-Turtle) maa iw (then) ji-noojimoyaan (I should be healed)."
 
@@ -812,10 +1028,16 @@ Geget idash (and to be sure) wiinimoo’ (his sisters-in-law) ogii-gashkigwaanig
 
 107) > Mī·i·´u kīnōdcimut.
 
-> **Mii iw gii-noojimod.**
-> 
-> *Accordingly he began to recover.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Mii iw gii-noojimod.**</span>
+>
+> <span class="l-eng">*Accordingly he began to recover.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Mii iw (and so) gii-noojimod (he recovered).
 
@@ -828,17 +1050,29 @@ Mikinaak idash wiin (and as for Snapping-Turtle), gii-ani-maajaa (he went away),
 
 109) > Kā·i·jitagwicing dạc ändāt, ogīwābandān pinäwidis kī·ạ·gōdänik.
 
-> **Gaa-izhi-dagwishing dash endaad, ogii-waabandaan *binewidis* gii-agoodenig.**
-> 
-> *And when he arrived at home, he saw the gizzard of a ruffed grouse hanging aloft.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Gaa-izhi-dagwishing dash endaad, ogii-waabandaan *binewidis* gii-agoodenig.**</span>
+>
+> <span class="l-eng">*And when he arrived at home, he saw the gizzard of a ruffed grouse hanging aloft.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Gaa-izhi-dagwishing dash (and when he arrived) endaad (at his home), ogii-waabandaan (he saw) binewidis (a ruffed grouse’s gizzard) gii-agoodenig (hanging).
 
 110) > Mīsai ä‘kōsit.
 
-> **Mii sa ekoozid.**
-> 
-> *And that is the end (of the story).*
+
+<div class="four-layer">
+
+> <span class="l-fiero">**Mii sa ekoozid.**</span>
+>
+> <span class="l-eng">*And that is the end (of the story).*</span>
+
+</div>
+
 
 Mii sa (and so) ekoozid (it is the end).

@@ -49,7 +49,13 @@ Mii dash ekidod (and so she said) a’aw zeziikizid ikwe (the older woman):
 
 9)  > **"Niyaa, nishiime, nashke gosha anangoog ezhinaagoziwaad\!"**
 
-> "Dear me, my little sister, do behold the sight of the stars\!"
+
+<div class="four-layer">
+
+> <span class="l-gloss">"Dear me, my little sister, do behold the sight of the stars\!"</span>
+
+</div>
+
 
 “Niyaa (dear me), nishiime (my little sister), nashke gosha (do but look) anangoog ezhinaagoziwaad (how the stars appear)\!”
 

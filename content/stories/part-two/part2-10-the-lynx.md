@@ -9,20 +9,38 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 ## **THE LYNX.**
 
-> *from Ojibwa Texts collected by William Jones (1919).*
+
+<div class="four-layer">
+
+> <span class="l-eng">*from Ojibwa Texts collected by William Jones (1919).*</span>
+
+</div>
+
 
 *Fiero restoration by Weshki (sites.google.com/site/weshki). Four-layer gloss added by the Jones Corpus project, 2026-06-14 — Weshki’s Fiero and Jones’s English preserved unchanged; gloss line added.*
 
 1)  > **Ningoding isa giiwenh, ayindaagoban bizhiw.**
 
-> *Now, once on a time, they say, there used to live a Lynx.*
+
+<div class="four-layer">
+
+> <span class="l-eng">*Now, once on a time, they say, there used to live a Lynx.*</span>
+
+</div>
+
 
 Ningoding isa giiwenh (now, once upon a time, they say), ayindaagoban bizhiw (there used to dwell a Lynx).
 
 2)  > **Mii imaa endazhi-nandawenjiged, anooji gegoon onitoon - waaboozoon binewan gaye zhiishiiban gaye ningoding onisaan.**
 
-> *There at the place where he hunted, every kind of things he killed, - hares and ruffed grouse and ducks he sometimes killed.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-eng">*There at the place where he hunted, every kind of things he killed, - hares and ruffed grouse and ducks he sometimes killed.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Mii imaa endazhi-nandawenjiged (and there at the place where he hunted), anooji gegoon onitoon (every kind of thing he killed) — waaboozoon binewan gaye zhiishiiban gaye (hares and ruffed grouse and ducks) ningoding onisaan (he sometimes killed).
 
@@ -40,41 +58,77 @@ Ningoding idash (and once) ogii-odisigoon wiiji-bizhiwan (he was visited by a fe
 
 5)  > **Nashke izhaan ga-waabandaan."**
 
-> *Better go and see it."  
-> *
+
+<div class="four-layer">
+
+> <span class="l-eng">*Better go and see it."  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Nashke izhaan (go ahead, go) ga-waabandaan (and you will see it).”
 
 6)  > **"Enh', ningad-izhaa," ikido a'aw bizhiw.**
 
-> *"Yes, I will go," said Lynx.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-eng">*"Yes, I will go," said Lynx.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 “Enh’, ningad-izhaa (yes, I will go),” ikido a’aw bizhiw (said that Lynx).
 
 7)  > **Mii dash wayaabang gii-maajaad bizhiw.**
 
-> *And so on the morrow away started Lynx.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-eng">*And so on the morrow away started Lynx.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Mii dash wayaabang (and so on the morrow) gii-maajaad bizhiw (away started Lynx).
 
 8)  > **Apii dash gaa-zaagajiwed mii iw gii-waabandang waasa aki debinaagwadinig.**
 
-> *And when he came out upon the mountain, he thereupon saw afar the country that could be seen at a distance.  
-> *
+
+<div class="four-layer">
+
+> <span class="l-eng">*And when he came out upon the mountain, he thereupon saw afar the country that could be seen at a distance.  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Apii dash gaa-zaagajiwed (and when he came up out onto the mountain), mii iw gii-waabandang (thereupon he saw) waasa aki debinaagwadinig (the far-off country that could be seen at a distance).
 
 9)  > **Mii dash gaa-izhi-onabid inaabid, bekish niiskiingwenid.**
 
-> *And so, after he was seated, he looked, and at the same time he was squinting,  
-> *
+
+<div class="four-layer">
+
+> <span class="l-eng">*And so, after he was seated, he looked, and at the same time he was squinting,  </span>
+> <span class="l-eng">*</span>
+
+</div>
+
 
 Mii dash gaa-izhi-onabid (and so, after he sat down) inaabid (he looked), bekish niiskiingwenid (and at the same time he was squinting).
 
 10) > **Mii sa ekoozid.**
 
-> *That is as far as (the story) goes.*
+
+<div class="four-layer">
+
+> <span class="l-eng">*That is as far as (the story) goes.*</span>
+
+</div>
+
 
 Mii sa ekoozid (that is as far as the story goes).

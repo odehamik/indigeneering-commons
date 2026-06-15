@@ -1,3 +1,16 @@
-@use "./base.scss";
-
-// put your custom CSS here!
+// Four-layer story coloring — each reading layer its own colour.
+.four-layer {
+  blockquote { border-left: 3px solid #a3621f; }
+  .l-orig  { color: #6b6a64; }                    // original orthography — muted stone
+  .l-fiero { color: #0f6e56; font-weight: 600; }  // restored Fiero — teal
+  .l-eng   { color: #9a6a2f; }                     // 1919 English — warm brown
+  .l-gloss { color: #5a4fc0; }                     // word-by-word gloss — purple
+  .l-src   { color: #8a8a86; font-size: 0.9em; }
+}
+:root[saved-theme="dark"] .four-layer {
+  .l-orig  { color: #b4b2a9; }
+  .l-fiero { color: #5dcaa5; }
+  .l-eng   { color: #e0a45a; }
+  .l-gloss { color: #aaa3ec; }
+  .l-src   { color: #8a8a86; }
+}
