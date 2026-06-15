@@ -20,6 +20,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Use & sovereignty": "/indigeneering-commons/use-and-sovereignty",
+      "How it was built & audited": "/indigeneering-commons/how-this-was-built-and-audited",
       "Request access": "/indigeneering-commons/request-access",
       GitHub: "https://github.com/odehamik/indigeneering-commons",
     },

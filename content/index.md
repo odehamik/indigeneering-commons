@@ -50,7 +50,7 @@ The machine did not finish the language; it built the room where humans finish i
 
 ## How this Commons is built (and what it refuses)
 
-What's **here, in the open** — the method. The Operating Manual, the pipeline write-ups, the decisions, the engineering, the footnotes, the numbers above. The blueprint travels freely *on purpose*: a blueprint in your hands is not a copy of this work, it's the start of yours.
+What's **here, in the open** — the method. The Operating Manual, the pipeline write-ups, the decisions, the engineering, the footnotes, the numbers above — and an independent, adversarial audit of the whole thing. The blueprint travels freely *on purpose*: a blueprint in your hands is not a copy of this work, it's the start of yours. → [How this was built & audited](how-this-was-built-and-audited)
 
 What's **held** — the living language data itself (the verified lexicon, the morpheme ledger as a queryable dataset etc.) is **not on this site and not in this repository.** A public file is a scraped file. The data moves only by relation, through the door below. → **[Request access](request-access)**
 
