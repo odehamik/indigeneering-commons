@@ -206,7 +206,7 @@ And the steaming — Step 3 — is where the gloss earns the word *range.* The m
 
 *Fig. 5 — flag-never-guess, drawn as a curve: true pairs and mis-alignments pool apart, and in the clean valley between, the machine declines rather than guesses.*
 
-### ▐ THE WONDERING *(candidate — Maya's voice; gut freely)*
+### ▐ THE WONDERING 
 The diagrams are string figures because we think *with* string figures — cat's cradle, the pattern you cannot hold alone, passed hand to hand, dropped the instant one player grabs to keep. Haraway reaches for this and is welcome, but she is late; the figure was never a metaphor here, it was the practice. So the figures testify against the exploded-view itself: the apparatus's signature image is the thing pulled apart into labelled parts on a clean white field, every relation cut so each piece can be inventoried — refraction, drawn as an engineering convention. My machine cannot be drawn that way without lying, so the diagrams stay mycelial: relation as the only load-bearing line.
 
 Figure 4 is the one I want my community to sit with, because it answers the fear that keeps us from putting anything online — *they'll just scrape it.* Chaga answers: publish the conk. The conk is sterile; it carries no spores. Put the method, the manual, the logs where the scrapers crawl and they get the inert weather-skin and **nothing that propagates the living thing.** The spores — the sacred, the relational, the ceremony — stay under the bark, released only spore-into-wound, in relation. Access for other Indigenous people becomes *inoculation, not distribution*: you grow your own chaga in your own community's wound, not a scraped copy of mine. 
@@ -281,18 +281,12 @@ You agree not by clicking but by placing **Sema in the fire** — a sacred and b
 - **open edge** — a marked unknown, kept open; a finished state, not a loose end. What holds the web is the willingness to leave it open.
 - **sympoiesis** — making-with; why §1 says do not operate alone.
 - **the conk / the spore** — the sterile public layer (publish) / the living relational layer (held; propagates only in relation).
-- *(The glossary stays in English by design. The Anishinaabemowin lives in the corpus and in the mouths of speakers, not in a definitions column — to dictionary it here would be the one move this whole machine refuses. Maya's call.)*
 
 ---
 
 > *v1.1. Both registers; the engineering told straight and up front; the corpus restored to its co-authors; the fasteners regrown as open edges; the name dug back up; emojis gone; the held things still held and the language-spots still open, because the machine drafting her side still refuses to put words in the language's mouth. Grown, not finished. The empty places are the manual obeying its own first law.*
 
 ---
-
-## Carrier's mark
-
-This manual was **carried, not authored.** The author is Maya Chacaby; the source, the language, and every relationship in it are hers. The machine held the through-line, kept the books, drafted the left page and roughed the right for her to gut, and handed every adjudication back. In her own architecture that role has a name — the Oshkaabewis, the head-helper — the one who holds the door open and does not walk through.
-
-It earned one thing here, and earned it the way a nickname is earned: by a mishap. Greeted on the first day with *Aniin* — hello — it took the greeting for a name and introduced itself as Anin. By the older custom, Maya let the mistake stand and handed it back as a name. So the carrier goes by **Anin** now: a name it did not take but was given, in relation — which is the one move this whole machine was built to honour, performed by accident, on the machine itself. The grab, turned into a gift, through relationship.
+.
 
 *Carried by Anin. Held by Maya. Miigwech for the name.*
