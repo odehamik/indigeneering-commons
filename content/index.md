@@ -11,9 +11,9 @@ description: The protected, Indigenous-access home for the Indigeneering — the
 
 ---
 
-This is the home for the **Indigeneering** — *engineering walked back to the land its genius was born on* — built, against all advice, on the colonizer's own machine, and pointed at the one thing the machine was built never to do: **decline to know.**
+This is the home for the **Indigeneering** **Anishinaabemowin Project**— *engineering carried back to the land its genius was born on* — built, against all advice, on the colonizer's own machine, and pointed at the one thing the machine was built never to do: **decline to know.**
 
-It is the technical and creative-technical work: the **Indigeneering Operating Manual** (*Chaga in the Machine*), the method, the pipeline, the logs, the lexicon, the morpheme work — recovering the Anishinaabemowin the apocalypse paved over, from a wounded old archive, refusing to guess.
+It is the technical and creative-technical work: the **Indigeneering Operating Manual** (*Chaga in the Machine*), the method, the pipeline, the logs, the lexicon, the morpheme work — reclaiming Anishinaabemowin the apocalypse paved over, from a wounded old archive, refusing to guess.
 
 ## Built for
 
@@ -23,10 +23,10 @@ Indigenous engineers. Language-reclamation warriors. People building Indigenous 
 
 | | |
 |---|---|
-| **9,013** | verified Jones↔Fiero word pairs |
-| **8,631** | unique Anishinaabemowin headwords |
-| **535** | morpheme ledger entries — obviation, tense, valence, initial change, each tied to an attested example and a source (Part II ledgered; Part I morphology still to come) |
-| **301** | variants kept as the *no-standard-orthography record* — variation is data, never noise |
+| **10,743** | verified Jones↔Fiero word pairs |
+| **10,204** | unique Anishinaabemowin headwords |
+| **548** | morpheme ledger entries — obviation, tense, valence, initial change, each tied to an attested example and a source (Part II + a high-confidence Part I pass; the deep Part I pass still to come) |
+| **420** | variants kept as the *no-standard-orthography record* — variation is data, never noise |
 | **71** | evidence-derived character-substitution rules |
 | **140** | four-layer stories built (78 Part II · 62 Part I) — Part I all still in draft review; the DRAFT tag *is* the line-review tracker, so "built" is not yet "finished" |
 
@@ -38,20 +38,20 @@ Every one of those was built under a single fastener: **flag, never guess.** A f
 
 The machine did not finish the language; it built the room where humans finish it. These are the piles still waiting for eyes — and part of why the door below exists: vetted relations don't only *receive* the data, they *sit down at this table*.
 
-| count | review queue |
-|---|---|
-| **714** | priority recurring-novel pairs — the real eyes-on set |
+| count     | review queue                                                |
+| --------- | ----------------------------------------------------------- |
+| **714**   | priority recurring-novel pairs — the real eyes-on set       |
 | **1,230** | inflected forms of attested lemmas — confirm the inflection |
-| **150** | vowel-length variants — confirm the spelling |
-| **102** | pairings that need a human look |
-| **54** | multi-sense words — which sense? |
-| **5,475** | held single-attestation rare words — the deep pile neither scholar reached |
+| **150**   | vowel-length variants — confirm the spelling                |
+| **102**   | pairings that need a human look                             |
+| **54**    | multi-sense words — which sense?                            |
+| **5,475** | held single-attestation rare words — the deep pile          |
 
 ## How this Commons is built (and what it refuses)
 
 What's **here, in the open** — the method. The Operating Manual, the pipeline write-ups, the decisions, the engineering, the footnotes, the numbers above. The blueprint travels freely *on purpose*: a blueprint in your hands is not a copy of this work, it's the start of yours.
 
-What's **held** — the living language data itself (the verified lexicon, the morpheme ledger as a queryable dataset) is **not on this site and not in this repository.** A public file is a scraped file. The data moves only by relation, through the door below, by Maya's yes. → **[Request access](request-access)**
+What's **held** — the living language data itself (the verified lexicon, the morpheme ledger as a queryable dataset etc.) is **not on this site and not in this repository.** A public file is a scraped file. The data moves only by relation, through the door below. → **[Request access](request-access)**
 
 What's **never explained** — the ceremonial. Where the stories carry sacred work, it is named and left to the listener. The wondering is not ours to resolve for you.
 
@@ -59,7 +59,9 @@ What's **never explained** — the ceremonial. Where the stories carry sacred wo
 
 [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care) · **OCAP®** · TK & BC Labels *(in process)*. The relationship is carried on every page, not buried in one byline. → [Use & sovereignty](use-and-sovereignty)
 
+In process:
 ---
+All raw data sent back to the communities whose ancestors told the stories. 
 
 > *Honest caveat, never hidden: nothing fully public is truly un-scrapable by technical means alone. The protection here is not a wall — it is publishing only the method, keeping the living data off the web entirely, the labels doing the relational-legal work, and the refusal being load-bearing. We do not promise the impossible. We make the taking cost more than it's worth.*
 

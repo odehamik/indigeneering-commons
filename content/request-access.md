@@ -5,8 +5,7 @@ description: The lexicon and morpheme ledger are off-web by default. Access is b
 
 # Request access to the living data
 
-The verified lexicon and the morpheme ledger do not sit on this site. They are not in a public file anywhere, because a public file is a scraped file, and what this whole machine refuses is a wrong word arriving in a learner's mouth.
-
+The verified lexicon and the morpheme ledger do not sit on this site. They are not in a public file anywhere, because a public file is a scraped file, and what this whole machine refuses.
 They can still reach you. **By relation, not by download.**
 
 ## The law of the door
@@ -16,7 +15,7 @@ The request can be made. But the door opens only when you can show two things â€
 1. **You are in language reclamation, or you are building.** Not studying us. Not collecting. Building your own, for your own people, in your own community.
 2. **You will protect the data.** You can say how. The asking is the first protection; an answer that treats the data as a resource is its own answer.
 
-There is no checkbox that proves either of these. That is the point. The gate asks the one question the extractive default has never been able to answer.
+There is no checkbox that proves either of these. That responsibility is up to you. 
 
 ## How to ask
 
