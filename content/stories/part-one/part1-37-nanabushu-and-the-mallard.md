@@ -3,11 +3,11 @@ title: "37. Nanabushu and the Mallard"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
-<div class="four-layer">
-
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
+
+<div class="four-layer">
 
 37\. NANABUSHU AND THE MALLARD.
 
@@ -161,10 +161,12 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(18) Ānic mīsa‘ cigwa‘ kä∙ạ∙nimādcänit, misạnä kiwⁱsininit ⁱ‘ⁱⁱᵘ unⁱtcänisaⁱᵉ.</span>
 
-<span class="l-fiero">**Aaniish miisa’ zhigwa’ gaa-ani-maadyaanid, mizane\*flagged\* gii-wiisininid i’iw oniijaanisa’.**</span>
+<span class="l-fiero">**Aaniish miisa’ zhigwa’ gaa-ani-maadyaanid, mizane\*flagged\* gii-wiisininid i’iw oniijaanisag.**</span>
 
 <span class="l-eng">*Well, so then upon his way he went, and accordingly did (Nänabushu’s) poor children eat.*</span>
 
-<span class="l-gloss">Aaniish miisa’ zhigwa’ gaa-ani-maadyaanid (so then when he had gone on his way), mizane gii-wiisininid i’iw oniijaanisa’ (accordingly his poor little children ate).</span>
+<span class="l-gloss">Aaniish miisa’ zhigwa’ gaa-ani-maadyaanid (so then when he had gone on his way), mizane gii-wiisininid i’iw oniijaanisag (accordingly his poor little children ate).</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: oniijaanisa’ → oniijaanisag. Per M., 2026.*</span>
 
 </div>

@@ -3,11 +3,11 @@ title: "18. Nanabushu Slays Toad-Woman, the Healer of the Manitous"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
-<div class="four-layer">
-
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
+
+<div class="four-layer">
 
 18\. NÄNABUSHU SLAYS TOAD-WOMAN, THE HEALER OF THE MANITOUS.
 
@@ -199,19 +199,19 @@ Geget (indeed)
 
 <span class="l-orig">(23) “Kā, kānagu‘ku awingä gagibwäbimoyan, mīdạc i∙i∙u käwin nīsäbäbanda“zin ᵉi‘i’ ändäyang. Intawa, nōcisitug, icisagini‘käniciyu‘k.” Mīdạc kägä‘t ka∙u∙nabit, anic migū imäⁿ ändaci‘känit wagitcitcingwan i‘i’ abinōtciyaᵉ. Cigwa umi‘kawäbạmigo ‘i‘i‘mäⁿ kīnänigic‘kawät īni’ udöma‘ka‘kiwayanan. “Wä, nō‘ko, ạnicinäbäwacaga∙ä∙nk kigri∙nạcaga∙ä∙\!”</span>
 
-<span class="l-fiero">**“Gaa, gaanagogo owinge gagiibwaabimoyaan, mii dash iw gaawiin niisaababandaazin iw endaayang. Indawaa, noozhisidog, izhi-zaginikenizhiyok.” Mii dash geget gaa-onabid, aaniish migo imaa endazhi-genid wagitijiingwan iw abinoojiiya’. Zhigwa omikawaabamigo iimaa giinaanigizhkawaad iniw odoomakakiiwayanan. “We, nooko, anishinaabewizhagaa’ank giri-nazhagaa’e\!”**</span>
+<span class="l-fiero">**“Gaa, gaanagogo owinge gagiibwaabimoyaan, mii dash iw gaawiin niisaababandaazin iw endaayang. Indawaa, noozhisidog, izhi-zaginikenizhiyok.” Mii dash geget gaa-onabid, aaniish migo imaa endazhi-genid wagitijiingwan iw abinoojiiyan. Zhigwa omikawaabamigo iimaa giinaanigizhkawaad iniw odoomakakiiwayanan. “We, nooko, anishinaabewizhagaa’ank giri-nazhagaa’e\!”**</span>
 
 <span class="l-eng">*“Oh, by reason of too much weeping have my eyes become closed, and that is why I cannot clearly see where we live. Therefore, O my grandchildren\! do you lead me thither by the hand.” Whereupon truly, after he was seated, then there upon his lap played the children. Then was it discovered where he had ripped an opening in that toad-skin of his. “Why, my grandmother, like the skin of a human being is the look of your skin\!”*</span>
 
-<span class="l-gloss">Gaa gaanagogo owinge gagiibwaabimoyaan (oh, by too much weeping my eyes are closed) ∙ mii dash iw gaawiin niisaababandaazin iw endaayang (so I cannot clearly see where we live) ∙ Indawaa noozhisidog izhi-zaginikenizhiyok (therefore, my grandchildren, lead me by the hand) ∙ Mii dash geget gaa-onabid (and so truly after he sat) ∙ aaniish migo imaa endazhi-genid wagitijiingwan iw abinoojiiya’ (then there on his lap the children played) ∙ Zhigwa omikawaabamigo iimaa giinaanigizhkawaad (then it was discovered where he had torn it) ∙ iniw odoomakakiiwayanan (his toad-skin) ∙ We nooko anishinaabewizhagaa’ank (why grandmother, it is like a human being’s skin) ∙ giri-nazhagaa’e (the look of your skin)</span>
+<span class="l-gloss">Gaa gaanagogo owinge gagiibwaabimoyaan (oh, by too much weeping my eyes are closed) ∙ mii dash iw gaawiin niisaababandaazin iw endaayang (so I cannot clearly see where we live) ∙ Indawaa noozhisidog izhi-zaginikenizhiyok (therefore, my grandchildren, lead me by the hand) ∙ Mii dash geget gaa-onabid (and so truly after he sat) ∙ aaniish migo imaa endazhi-genid wagitijiingwan iw abinoojiiyan (then there on his lap the children played) ∙ Zhigwa omikawaabamigo iimaa giinaanigizhkawaad (then it was discovered where he had torn it) ∙ iniw odoomakakiiwayanan (his toad-skin) ∙ We nooko anishinaabewizhagaa’ank (why grandmother, it is like a human being’s skin) ∙ giri-nazhagaa’e (the look of your skin)</span>
 
 <span class="l-orig">(24) “Nya, nōcis, kāna mi‘i’ ä‘pōsoyan ini’ wigupin ic‘kamän kägabägijik pimina‘kwätaman,” utina ii’ öcicäⁿya“.</span>
 
-<span class="l-fiero">**“Nya, noozhis, gaa na mii iw e-boosoyaan iniw wiigobiin ishkamaan gegabe-giizhig biminakwaadamaan,” odinaa iniw ozhisheyaa’.**</span>
+<span class="l-fiero">**“Nya, noozhis, gaa na mii iw e-boosoyaan iniw wiigobiin ishkamaan gegabe-giizhig biminakwaadamaan,” odinaa iniw ozhisheyan.**</span>
 
 <span class="l-eng">*“Ah, my grandchild\! that was how I rubbed myself when working with the bast, as throughout the whole of every day I was making twine,” she said to her grandchildren.*</span>
 
-<span class="l-gloss">Nya noozhis (ah, my grandchild) ∙ gaa na mii iw e-boosoyaan iniw wiigobiin (that is how I rubbed myself working the bast) ∙ ishkamaan gegabe-giizhig (taking it up all day long) ∙ biminakwaadamaan (making twine) ∙ odinaa iniw ozhisheyaa’ (she said to her grandchildren)</span>
+<span class="l-gloss">Nya noozhis (ah, my grandchild) ∙ gaa na mii iw e-boosoyaan iniw wiigobiin (that is how I rubbed myself working the bast) ∙ ishkamaan gegabe-giizhig (taking it up all day long) ∙ biminakwaadamaan (making twine) ∙ odinaa iniw ozhisheyan (she said to her grandchildren)</span>
 
 <span class="l-orig">(25) Mīdạc piut tcibisagaswä∙i∙nt. Cigwa unägucinini. Cayīgwa kägä‘t pidäwäcinon, cigwa pita‘pabiwan. “No‘ko, awisagaswan,” pīⁱkitōwan. Mīdạc kägä‘t änicimädcät. Cayīgwa udäbäbandän i‘u ändanit, ugiwäbamän odōciman kibickwäntä∙i∙gäwint. Mīgu’ ∙i∙u änawi äci∙a∙inäbinit, kägägu mawi. Anicägu antagäntasik käwin untcimawisi äcipindigät. Tcigwa ka∙u∙nabit, awäniban käwäbamat.</span>
 
@@ -255,11 +255,11 @@ Geget (indeed)
 
 <span class="l-orig">(30) Äcini‘kipinit i∙i∙u mi‘tigōᵉ, mīsa“ a‘panä kägä‘t unäwändän wäsa anamindîm a‘ki ayänik. Owäbama∙ayänit pämätagänit anōtc awäsiya“. Mīsa wipōsiwa∙iⁿ‘i‘mäⁿ utcīmaning, mīsa äci‘kunicawät. “Pä‘kä,” udinäⁿ. “Pänimä pīcä‘käg,” udinäⁿ. Mīsa cigwa kī∙i∙nändank: “Anin käcictcigäyän awägwän käbitōt ’a‘ki?” kī∙i∙nändam. Cigwa ugï‘kanōnä“ ‘i‘i’u mạnitowäⁿca, mīdạc ni‘tam nigigwạn: “Kāwīnina kītänäsi‘kasin ‘i‘i’u a‘ki?” udinän.</span>
 
-<span class="l-fiero">**Ezhi-niikibinid iw mitigoo’, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa-ayaanid bemaadagaanid anooj awesiiya’. Mii sa wii-boozigwaa imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaan. “Baanimaa biizhaakeg,” odinaan. Mii sa zhigwa gii-inendang: “Aaniin gaa-izhichigeyaan awegwen gaa-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaa’ iw manidoowenza’, mii dash niitam nigigwan: “Gaawiinina gidaa-naazika’sin iw aki?” odinaan.**</span>
+<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa-ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-boozigwaa imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaan. “Baanimaa biizhaakeg,” odinaan. Mii sa zhigwa gii-inendang: “Aaniin gaa-izhichigeyaan awegwen gaa-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaan iw manidoowenza’, mii dash niitam nigigwan: “Gaawiinina gidaa-naazika’sin iw aki?” odinaan.**</span>
 
 <span class="l-eng">*When the water overflowed the trees, then at once he truly realized what a long way down in the water the earth was. He saw all kinds of game-folk swimming around. And when they wished to go aboard his raft, he kept them off. “Wait,” he said to them. “Not till after a while do you come,” he said to them. And so he then thought: “How shall I do (to select) what one is to fetch some earth?” he thought. Presently he spoke to the smaller animal-folk, and so the first was the Otter: “Would you not go after some earth?” he said to him.*</span>
 
-<span class="l-gloss">Ezhi-niikibinid iw mitigoo’ (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa-ayaanid bemaadagaanid anooj awesiiya’ (he saw all kinds of game-folk swimming) ∙ Mii sa wii-boozigwaa imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin gaa-izhichigeyaan awegwen gaa-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaa’ iw manidoowenza’ (he spoke to the lesser animal-folk) ∙ niitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazika’sin iw aki (would you not go after the earth) ∙ odinaan (he said to him)</span>
+<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa-ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-boozigwaa imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin gaa-izhichigeyaan awegwen gaa-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaan iw manidoowenza’ (he spoke to the lesser animal-folk) ∙ niitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazika’sin iw aki (would you not go after the earth) ∙ odinaan (he said to him)</span>
 
 <span class="l-eng">*Such as wolves, foxes, beavers, badgers, minks, hares, and the like.*</span>
 
@@ -361,11 +361,13 @@ Daga giin wazhashk (now, you, muskrat)
 
 <span class="l-orig">(43) Mīdạc kā∙i∙nät: “‘Au, ạmbä, ạgwä‘täyu‘k,” ugī∙i∙näᵉ ạnōtc awäsiyaᵉ. Mīdạc kägä‘t. Mīsa cigwa kī‘pimädci∙ä∙t ‘i‘i’u</span>
 
-<span class="l-fiero">**Mii dash gaa-inaad: “Au, ambe, agwaatayok,” ogii-inaa’ anooj awesiiya’. Mii dash geget. Mii sa zhigwa gii-bimaaji’aad iw**</span>
+<span class="l-fiero">**Mii dash gaa-inaad: “Au, ambe, agwaatayok,” ogii-inaag anooj awesiiyan. Mii dash geget. Mii sa zhigwa gii-bimaaji’aad iw**</span>
 
 <span class="l-eng">*Whereupon (Nänabushu) said to them: “Now, come, go you ashore,” he said to all the various game-folk. And so it was true. So, then, now he had saved the lives of the game-folk.*</span>
 
-<span class="l-gloss">Mii dash gaa-inaad (then he said to them) ∙ Au ambe agwaatayok (now, come, go ashore) ∙ ogii-inaa’ anooj awesiiya’ (he said to all kinds of game-folk) ∙ Mii dash geget (and so it was) ∙ Mii sa zhigwa gii-bimaaji’aad iw (now he had saved the lives) \[sentence runs onto p154\]</span>
+<span class="l-gloss">Mii dash gaa-inaad (then he said to them) ∙ Au ambe agwaatayok (now, come, go ashore) ∙ ogii-inaag anooj awesiiyan (he said to all kinds of game-folk) ∙ Mii dash geget (and so it was) ∙ Mii sa zhigwa gii-bimaaji’aad iw (now he had saved the lives) \[sentence runs onto p154\]</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: ogii-inaa’ → ogii-inaag. Per M., 2026.*</span>
 
 <span class="l-orig">(44) bisäsinōn kā∙i∙cīnit pitcīnạg wä‘pimätisit,” ugī∙i∙nän. Mīsa minawä kā∙i∙ji∙ō∙citōt, “Cigwa taga,” ugī∙i∙nän; “mīmä tạc i∙i∙u tänigu‘kwägwän,” ugī∙i∙nän.</span>
 
@@ -507,12 +509,12 @@ Zhigwa miinawaa gii-maajaawan (then again off he started)
 
 <span class="l-orig">(61) “Mīsa ‘i‘i’u intawä kä∙i∙nigu‘kwäg o∙a‘ki,” ugī∙i∙näᵉ. Mīdạc, “Mīmäwin tciwäbä∙a∙ngiban,” kī∙i∙kitō. “Intawä tcigusigunk ninga∙a∙ci‘tōn wi‘kä tcibītcimi‘kāsunu‘k.”¹</span>
 
-<span class="l-fiero">**“Mii sa iw indawaa gaa-inigokwaag o-aki,” ogii-inaa’. Mii dash, “Miimawin ji-webaa’angiban,” gii-ikido. “Indawaa ji-goozigwang ninga-izhi’ton wiika ji-bichi-michikaazonok.”**</span>
+<span class="l-fiero">**“Mii sa iw indawaa gaa-inigokwaag o-aki,” ogii-inaag. Mii dash, “Miimawin ji-webaa’angiban,” gii-ikido. “Indawaa ji-goozigwang ninga-izhi’ton wiika ji-bichi-michikaazonok.”**</span>
 
 <span class="l-eng">*“That then, no doubt, will be the extent of this earth,” he said to the (animal-folk). And now, “(I) fear that this will float away,” he said. “Therefore in order that it may be heavy will I make it so that it shall never be moved.”*</span>
 
-<span class="l-gloss">Mii sa iw indawaa gaa-inigokwaag o-aki (that then will be the size of this earth) ∙ ogii-inaa’ (he said to them) ∙ Miimawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhi’ton (so I will make it heavy) ∙ wiika ji-bichi-michikaazonok (so that it shall never be moved)</span>
+<span class="l-gloss">Mii sa iw indawaa gaa-inigokwaag o-aki (that then will be the size of this earth) ∙ ogii-inaag (he said to them) ∙ Miimawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhi’ton (so I will make it heavy) ∙ wiika ji-bichi-michikaazonok (so that it shall never be moved)</span>
 
-*\[¹ Footnote marker ‘¹’ printed at the very end of the Ojibwe text (p.158, last line) and again on the English (p.159, ‘…shall never be moved.¹’). No footnote text appears at the foot of either p.158 or p.159 within this story’s page range — the note text, if any, would fall on p.160 (start of the next story) and is outside the scanned range. FLAG for M.: locate/verify the text of footnote ¹.\]*
+*\[¹ Footnote marker ‘¹’ printed at the very end of the Ojibwe text (p.158, last line) and again on the English (p.159, ‘…shall never be moved.¹’). No footnote text appears at the foot of either p.158 or p.159 within this story’s page range — the note text, if any, would fall on p.160 (start of the next story) and is outside the scanned range. FLAG for M.: locate/verify the text of footnote ¹.\] — Word-final ’ resolved per M.’s obviative-number ruling: ogii-inaa’ → ogii-inaag. Per M., 2026.*
 
 </div>

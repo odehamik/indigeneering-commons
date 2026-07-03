@@ -11,7 +11,7 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 63\. THE CREATION, ORIGIN OF DEATH, AND THE MYSTIC RITE. (Second Version.)
 
-*Narrated by Wāsāgunäckạnk and/or Midāsugaⁿj (Series IV; Bois Fort). — narrator per Jones, Ojibwa Texts Part II, Introduction p.ix (“either … or both”; not credited on the story page).*
+*Wāsāgunäckạnk and/or Midāsugaⁿj — Series IV (Nos. 62–78), Bois Fort, ‘either … or both’ (per Jones, Part II Introduction p.ix; not credited on the story page itself).*
 
 ***from Ojibwa Texts collected by William Jones (1919).***
 
@@ -101,13 +101,13 @@ gaa-biindigewaad=when-they-were-inside; ganoonigod iniw oshiimeyan=he-was-addres
 
 (10) Mīsa’ gägä‘t Nänabucu mādci‘tād uci∙a∙‘t ‘iᵉi‘ᵘ pinäsiwaᵉ. Abā‘pic nibiwa kā∙u∙ci∙ā∙t, kīwätinung midāswā‘k ugīpagidinā; kayä wâbanung ugīpagidînā; kayä iwiti câwanunk ugīpagidînā; mīnawā ningābi∙a∙nung. Cigwa dạc kā∙i∙cikanōnāt: “Ambäsa’, wawatciwank icibābāginayu‘k\!” Gägä‘t igi‘ᵘ animi‘kig kīpāginawag watciwink. Kägä‘t kīsạgisiwag igi‘ᵘ matcimanitōg.
 
-**Mii sa’ geget Naanabozho maajitaad oozhi’aad i’iw bineshiiwa’. Abaapizh niibowa gaa-oozhi’aad, giiwedinong midaaswaak ogii-bagidinaa; gaye waabanong ogii-bagidinaa; gaye iwidi zhaawanong ogii-bagidinaa; miinawaa ningaabii’anong. Zhigwa dash gaa-izhi-ganoonaad: “Ambe sa’, wajiwang izhi-baabaaginayok\!” Geget igiw animikiig gii-baaginawag wajiwing. Geget gii-zegiziwag igiw maji-manidoog.**
+**Mii sa’ geget Naanabozho maajitaad oozhi’aad i’iw bineshiiwag. Abaapizh niibowa gaa-oozhi’aad, giiwedinong midaaswaak ogii-bagidinaa; gaye waabanong ogii-bagidinaa; gaye iwidi zhaawanong ogii-bagidinaa; miinawaa ningaabii’anong. Zhigwa dash gaa-izhi-ganoonaad: “Ambe sa’, wajiwang izhi-baabaaginayok\!” Geget igiw animikiig gii-baaginawag wajiwing. Geget gii-zegiziwag igiw maji-manidoog.**
 
 *Thereupon truly did Nänabushu set to work creating the birds. When he had created a multitude of them, away to the region of the north wind he let ten hundred go; and towards the dawn he let (others) go; and over towards the south he let (some more) go; and towards the west (he let the rest go). So then, speaking to them, he said: “Behold, against the mountains do you strike\!” To be sure, the Thunderers struck against the mountains. Truly frightened were the evil manitous.*
 
-maajitaad oozhi’aad i’iw bineshiiwa’=he-began making the birds; abaapizh niibowa gaa-oozhi’aad=when-he-had-made-many; giiwedinong midaaswaak ogii-bagidinaa=to-the-north he-sent ten-hundred; waabanong=to-the-east(dawn) zhaawanong=to-the-south ningaabii’anong=to-the-west; wajiwang izhi-baabaaginayok=strike-ye-against the-mountains; animikiig gii-baaginawag wajiwing=the-Thunderers struck the-mountains; gii-zegiziwag igiw maji-manidoog=the-evil-manidoog were-frightened.
+maajitaad oozhi’aad i’iw bineshiiwag=he-began making the birds; abaapizh niibowa gaa-oozhi’aad=when-he-had-made-many; giiwedinong midaaswaak ogii-bagidinaa=to-the-north he-sent ten-hundred; waabanong=to-the-east(dawn) zhaawanong=to-the-south ningaabii’anong=to-the-west; wajiwang izhi-baabaaginayok=strike-ye-against the-mountains; animikiig gii-baaginawag wajiwing=the-Thunderers struck the-mountains; gii-zegiziwag igiw maji-manidoog=the-evil-manidoog were-frightened.
 
-*Footnote (Jones, p551): ² (Eng “evil manitous²”): “Serpents.” ∙ ³ : “A common Algonkin conception.” — maji-manidoog = evil/other-than-good manidoog; named, never explained. ⚑ Conversion flag(s) (light, → final pass): izhi-baabaaginayok, gii-baaginawag — forms to confirm.*
+*Footnote (Jones, p551): ² (Eng “evil manitous²”): “Serpents.” ∙ ³ : “A common Algonkin conception.” — maji-manidoog = evil/other-than-good manidoog; named, never explained. ⚑ Conversion flag(s) (light, → final pass): izhi-baabaaginayok, gii-baaginawag — forms to confirm. — Word-final ’ resolved per M.’s obviative-number ruling: bineshiiwa’ → bineshiiwag. Per M., 2026.*
 
 (11) “Mīdạc ‘iᵉi‘ᵘ kä∙i∙cikanawänimäk ‘aᵉa‘ᵘ anicinābä. Pitcinag niwi∙u∙ci∙a∙ ‘aᵉa‘ᵘ anicinābä. Pō‘tcigu ninguting tawaningwaci aᵘ abinōtci. Kicpin aᵘ anicinābä iniwäti pawānāt anāma‘kamig cigwa kā∙i∙citabasi∙i∙näk, mīsa iᵘ tcimiguskādisit kāwanimigut ini‘ᵘ matcimanidōn. Intawā dac ä‘ta manitōwiwin tā∙a∙yā,—nīgān kä∙a∙yag, ‘midäwiwin’ ta∙i∙cini‘kādä, kayä dạc ‘unạmạnimitäwiwin,’ mīnawā ‘tcīpä∙i∙mitäwiwin,’ mīnawā ‘sāgimāwimitäwiwin,’ mīnawā ‘uskābäwisimitäwiwin.’ Mīsa’ ‘iᵉi‘ᵘ kädasing onō‘ᵘ untci iᵘ kīpā‘tātcigäyān kīwanitōtamān i‘i‘wä kī∙ō∙ci∙a∙gwā īgi‘ᵘ matcimanitōg. Ambädạc, kanawänimi‘k ogō‘ᵘ anicinābäg\!” ināwag īgi‘ᵘ animi‘kīg. “Kicpin abiding ‘iᵉi‘ᵘ kära pi‘tcinibing papawâpamāsiwägwa mī∙i∙‘ᵘ tcinibut ‘aᵉa‘ᵘ anicinābä; anic osam tagica‘tä. Mīdạc ä‘ta iᵘ a‘panä tcipami∙ä∙g ‘aᵉa‘ᵘ anicinābä. Mīdạc ‘iᵉi‘ᵘ mini‘k kä∙a∙‘kiwank tcipimadisit ‘aᵉa‘ᵘ anicinābä. Mīsa’ icimādcāyu‘k, ändasōntānimak tci∙i∙cāyäk.”
 

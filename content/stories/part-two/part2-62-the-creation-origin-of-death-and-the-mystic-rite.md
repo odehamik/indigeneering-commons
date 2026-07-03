@@ -65,13 +65,13 @@ geget zhigwa miinawaa gaa-izhi-oozhi’aawaad iniw ikwewan=truly now again they-
 
 (6) Mīsa äjikīwäwāt. “Tạga, icictcigätā i∙i∙wisa pināsiwạg tci∙ō∙ci∙a∙ngwa\!” Nānabucu kā∙i∙jimādci‘tād uci∙ā∙t iᵗi‘ᵘ pināsiwạᵍ. Kā‘kici∙ā∙t, cigwadạc kī‘kanōnāt iᵗiᵘ pinäsiwạᵍ: “Icāyu‘k ändasōntānimạk.”
 
-**Mii sa ezhi-giiwewaad. “Daga, izhichigedaa i’iwi sa bineshiiwag ji-oozhi’angwaa\!” Naanabozho gaa-izhi-maajitaad oozhi’aad i’iw bineshiiwa’. Gaa-giizhi’aad, zhigwa dash gii-ganoonaad i’iw bineshiiwa’: “Izhaayok endaso-noondinimak.”**
+**Mii sa ezhi-giiwewaad. “Daga, izhichigedaa i’iwi sa bineshiiwag ji-oozhi’angwaa\!” Naanabozho gaa-izhi-maajitaad oozhi’aad i’iw bineshiiwag. Gaa-giizhi’aad, zhigwa dash gii-ganoonaad i’iw bineshiiwag: “Izhaayok endaso-noondinimak.”**
 
 *Accordingly then they returned. “Behold, let us set to work to create some birds\!” Nānabushu then set to work creating the birds. When he had finished creating them, he then spoke to the birds, saying: “Do you go into every direction from whence blows the wind.”*
 
 mii sa ezhi-giiwewaad=so they-returned; izhichigedaa=let-us-set-to-work i’iwi sa bineshiiwag ji-oozhi’angwaa=those birds to-make-them; gaa-izhi-maajitaad=he-began oozhi’aad=making-them; gii-ganoonaad=he-addressed-them; izhaayok=go-ye endaso-noondinimak=to-every-place-the-wind-blows.
 
-*⚑ Conversion flag(s) (light, → final pass): endaso-noondinimak — form(s) to confirm.*
+*⚑ Conversion flag(s) (light, → final pass): endaso-noondinimak — form(s) to confirm. — Word-final ’ resolved per M.’s obviative-number ruling: bineshiiwa’ → bineshiiwag; bineshiiwa’ → bineshiiwag. Per M., 2026.*
 
 (7) Nībiwa tcī∙i∙cānit iwiti nōtin wä∙u∙ntcibitäk.
 
@@ -83,11 +83,13 @@ niibowa=many ji-izhaanid=that-they-go iwidi=yonder noodin we-onjibideg=where-the
 
 (8) “Kägä‘t kitininim a‘pī kī‘kici∙ạ∙g aᵘ anicinābä, kāmạdwäkanōnininim tcigagwätcitōyäg ō a‘ki.” Nānabucu mī cigwa kīnạganigut iᵘ pinäsiwạᵍ. Kānimādcānit mīdac iᵗi‘ᵘ kīmādci‘tāt ki∙ō∙ci∙ā∙t īni‘ᵘ anicinābän. Kā‘kīci∙ā∙t pīna‘kamigānk kāwī∙i∙ci∙a∙sāt. Kāwi∙a∙sāt, cigwa kā∙i∙cikīwät ändāt. Kīgīkitodạc Nānabucu: “Ambäsa pināsīwitug\! kutcītamu‘k iᵗi‘ᵘ a‘ki.”
 
-**“Geget gidininim apii gii-giizhi’ag a’aw anishinaabe, gaa-madwe-ganoonininim ji-gagwejitooyeg o’ow aki.” Naanabozho mii zhigwa gii-naganigod iw bineshiiwa’. Gaa-ni-maajaanid mii dash i’iw gii-maajitaad gii-oozhi’aad iniw anishinaaben. Gaa-giizhi’aad biina’akamigaank gaa-wii-izhi-asaad. Gaa-wii-asaad, zhigwa gaa-izhi-giiwed endaad. Gii-giigidod dash Naanabozho: “Ambe sa bineshiiwidog\! gojitamook i’iw aki.”**
+**“Geget gidininim apii gii-giizhi’ag a’aw anishinaabe, gaa-madwe-ganoonininim ji-gagwejitooyeg o’ow aki.” Naanabozho mii zhigwa gii-naganigod iw bineshiiwag. Gaa-ni-maajaanid mii dash i’iw gii-maajitaad gii-oozhi’aad iniw anishinaaben. Gaa-giizhi’aad biina’akamigaank gaa-wii-izhi-asaad. Gaa-wii-asaad, zhigwa gaa-izhi-giiwed endaad. Gii-giigidod dash Naanabozho: “Ambe sa bineshiiwidog\! gojitamook i’iw aki.”**
 
 *“Of a truth, I said to you at the time when I created man, I spoke, commanding you to make trial of this earth.” Nānabushu was then left by the birds. When they were gone, he therefore began to create man. After he had created him, then in an open clean spot on the earth they placed him. After they had placed him there, then home they returned. Now, spoke Nānabushu, saying: “Come, O ye birds\! do ye make trial of the earth.”*
 
-geget gidininim=truly I-told-you apii gii-giizhi’ag a’aw anishinaabe=when I-finished-making the person; gaa-madwe-ganoonininim=I-spoke-commanding-you ji-gagwejitooyeg o’ow aki=that-ye-try this earth; gii-naganigod iw bineshiiwa’=he-was-left-by the birds; gaa-ni-maajaanid=when-they-departed; gii-maajitaad gii-oozhi’aad=he-began making-(him); endaad=his-home; “ambe sa bineshiiwidog=come O-birds\!, gojitamook i’iw aki=try-ye-it the earth.”
+geget gidininim=truly I-told-you apii gii-giizhi’ag a’aw anishinaabe=when I-finished-making the person; gaa-madwe-ganoonininim=I-spoke-commanding-you ji-gagwejitooyeg o’ow aki=that-ye-try this earth; gii-naganigod iw bineshiiwag=he-was-left-by the birds; gaa-ni-maajaanid=when-they-departed; gii-maajitaad gii-oozhi’aad=he-began making-(him); endaad=his-home; “ambe sa bineshiiwidog=come O-birds\!, gojitamook i’iw aki=try-ye-it the earth.”
+
+*Word-final ’ resolved per M.’s obviative-number ruling: bineshiiwa’ → bineshiiwag. Per M., 2026.*
 
 (9) Kägä‘t cigwa kīmādci‘tāwạg pinäsiwạg, mīdạc iᵗi‘ᵘ cigwa kī‘pimādcāwāt īgi‘ᵘ pinäsiwạg pīki‘tcipāpāgināwāt īni‘ᵘ asinīn. Mīdạc iᵘ kīwâbamāwāt īni‘ᵘ asiṇīn kītāckābi‘kisänit, mīdạc kītabạsit aᵉaᵘ mạtcimạnitō. Kuniginīn, a‘pī kāwâbaninink icāt īni‘ᵘ anicinābän; käyābi kī∙a∙yāwạn īni‘ᵘ anicinābän. Kägä‘t minwändam Nānabucu. Äjikīwät Nānabucu äjikanōnāt ucīmäyạn: “Nicīmä, mī∙i∙‘ᵘ kạcki∙ä∙wiziyạng. Ambädạc, minawā aᵘ i‘kwä uci∙ā∙tā\!”
 

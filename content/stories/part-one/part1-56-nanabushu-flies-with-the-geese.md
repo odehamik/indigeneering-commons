@@ -3,11 +3,11 @@ title: "56. Nanabushu Flies with the Geese"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
-<div class="four-layer">
-
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
+
+<div class="four-layer">
 
 NĀNABUSHU FLIES WITH THE GEESE.
 
@@ -21,21 +21,23 @@ Nānabushu Flies with the Geese.
 
 <span class="l-orig">(1) Ningudingisa mīnawa ạnipapîmosäguban Nänabujū, mīdạc äjiwâbạmād minawā ni‘kaᵉ ayānit imāⁿ sāga∙i∙ganīng. Mīdạc äjikạnōnāt: “Tạga, kayä nīn äjinägusiyäg iji∙i∙ciyu‘k.”</span>
 
-<span class="l-fiero">**Ningoding isa miinawa ani-bapimosaagoban Nanabozhoo, mii dash ezhi-waabamaad miinawaa nika’ ayaanid imaan zaaga’iganiing. Mii dash ezhi-ganoonaad: “Daga, gaye niin ezhinaagoziyeg izhi’ishiyok.”**</span>
+<span class="l-fiero">**Ningoding isa miinawa ani-bapimosaagoban Nanabozhoo, mii dash ezhi-waabamaad miinawaa nikan ayaanid imaan zaaga’iganiing. Mii dash ezhi-ganoonaad: “Daga, gaye niin ezhinaagoziyeg izhi’ishiyok.”**</span>
 
 <span class="l-eng">*Now, once again was Nänabushu travelling along, when he then saw some more geese that were in a lake. Thereupon he spoke to them, saying: “Pray, do you make me look the same as you.”*</span>
 
-<span class="l-gloss">Ningoding isa (once again, indeed) miinawa (again) ani-bapimosaagoban (he was travelling along, it is said) Nanabozhoo (Nanabozho), mii dash (and then) ezhi-waabamaad (when he saw) miinawaa (again, some more) nika’ (geese) ayaanid (that were there) imaan (over there) zaaga’iganiing (in a lake). Mii dash (and then) ezhi-ganoonaad (he spoke to them): “Daga (pray, come now), gaye niin (me too, like me) ezhinaagoziyeg (the way you look) izhi’ishiyok (make me so).”</span>
+<span class="l-gloss">Ningoding isa (once again, indeed) miinawa (again) ani-bapimosaagoban (he was travelling along, it is said) Nanabozhoo (Nanabozho), mii dash (and then) ezhi-waabamaad (when he saw) miinawaa (again, some more) nikan (geese) ayaanid (that were there) imaan (over there) zaaga’iganiing (in a lake). Mii dash (and then) ezhi-ganoonaad (he spoke to them): “Daga (pray, come now), gaye niin (me too, like me) ezhinaagoziyeg (the way you look) izhi’ishiyok (make me so).”</span>
 
-*Printed footnote 1 (attached to the title): “In various places in the Ojibwa country may be observed a rock, island, or high land looking like a human being either reclining or seated, when seen from the distance, and it is generally called Nînabushu.” | Printed footnote 2 (attached to the title): “For another version see No. 15 (p. 127).”*
+*Printed footnote 1 (attached to the title): “In various places in the Ojibwa country may be observed a rock, island, or high land looking like a human being either reclining or seated, when seen from the distance, and it is generally called Nînabushu.” | Printed footnote 2 (attached to the title): “For another version see No. 15 (p. 127).” — Word-final ’ resolved per M.’s obviative-number ruling: nika’ → nikan (ruled token-by-token). Per M., 2026.*
 
 <span class="l-orig">(2) Kinwäᵉj ogitajimāᵉ. Kāga∙pî, “‘Āwisa,” udigōn. Mī∙i∙dạc pä∙päcik kā∙i∙jiminigut umiguniwān. A‘pî∙i∙dạc tayäpisänit migwạnaᵉ, mī‘i∙ᵘ käᵉgä‘t ni‘king kī∙i∙jināguzit Nänabuju. Kipazigwa‘u‘ gayäwin kīpạbāwidciwād ni‘kaᵉ. A‘pî∙i∙dạc änitagwägininik, “Mīsa cigwa tcîmädcäyạnk,” udigōn. Mī∙i∙dạc cigwa pạzigwa‘o‘wāt, cāwạnunk ạni∙i∙jāwād nagamōwag:</span>
 
-<span class="l-fiero">**Ginwenzh ogi-dajimaa’. Gaagaa-bii, “‘Aawiisa,” odigoon. Mii dash baa-bezhig gaa-izhi-miinigod omigoniwaan. A’pii dash dayebizenid migwana’, mii’o gaget niking gaa-izhinaagozid Nanabozho. Gibazigwa’o gaye win giibaabaawidicheod nika’. A’pii dash ani-dagwaagininig, “Miisa zhigwa ji-maajaayank,” odigoon. Mii dash zhigwa bazigwa’oowaad, zhaawanong ani-izhaawaad nagamowag:**</span>
+<span class="l-fiero">**Ginwenzh ogi-dajimaag. Gaagaa-bii, “‘Aawiisa,” odigoon. Mii dash baa-bezhig gaa-izhi-miinigod omigoniwaan. A’pii dash dayebizenid migwanag, mii’o gaget niking gaa-izhinaagozid Nanabozho. Gibazigwa’o gaye win giibaabaawidicheod nikan. A’pii dash ani-dagwaagininig, “Miisa zhigwa ji-maajaayank,” odigoon. Mii dash zhigwa bazigwa’oowaad, zhaawanong ani-izhaawaad nagamowag:**</span>
 
 <span class="l-eng">*A long while he coaxed them. At last, “All right,” he was told. Accordingly by each one was he given a feather. And when the number of feathers was enough (to cover him), then truly like a goose was the look of Nänabushu. Up he also flew when he went about in company with the geese. And when it was getting well on towards the fall, “Therefore now is it time for us to be going away,” he was told. Thereupon then up they rose on the wing, as on their way southward they went, (and) they sang:*</span>
 
-<span class="l-gloss">Ginwenzh (a long while) ogi-dajimaa’ (he coaxed/talked them over). Gaagaa-bii (at last) “‘Aawiisa (all right),” odigoon (he was told). Mii dash (and then) baa-bezhig (one by one, each one) gaa-izhi-miinigod (by which he was given) omigoniwaan (their feather). A’pii dash (and when) dayebizenid migwana’ (the feathers were enough), mii’o gaget (then truly) niking gaa-izhinaagozid (like a goose he looked) Nanabozho (Nanabozho). Gibazigwa’o (up he flew) gaye win (he too) giibaabaawidicheod nika’ (going about with the geese). A’pii dash (and when) ani-dagwaagininig (it was getting on toward fall), “Miisa zhigwa (therefore now) ji-maajaayank (it is time for us to go),” odigoon (he was told). Mii dash (and then) zhigwa (now) bazigwa’oowaad (they rose up on the wing), zhaawanong (to the south) ani-izhaawaad (as they went along) nagamowag (they sang):</span>
+<span class="l-gloss">Ginwenzh (a long while) ogi-dajimaag (he coaxed/talked them over). Gaagaa-bii (at last) “‘Aawiisa (all right),” odigoon (he was told). Mii dash (and then) baa-bezhig (one by one, each one) gaa-izhi-miinigod (by which he was given) omigoniwaan (their feather). A’pii dash (and when) dayebizenid migwanag (the feathers were enough), mii’o gaget (then truly) niking gaa-izhinaagozid (like a goose he looked) Nanabozho (Nanabozho). Gibazigwa’o (up he flew) gaye win (he too) giibaabaawidicheod nikan (going about with the geese). A’pii dash (and when) ani-dagwaagininig (it was getting on toward fall), “Miisa zhigwa (therefore now) ji-maajaayank (it is time for us to go),” odigoon (he was told). Mii dash (and then) zhigwa (now) bazigwa’oowaad (they rose up on the wing), zhaawanong (to the south) ani-izhaawaad (as they went along) nagamowag (they sang):</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: ogi-dajimaa’ → ogi-dajimaag; migwana’ → migwanag; nika’ → nikan (ruled token-by-token). Per M., 2026.*</span>
 
 <span class="l-orig">(3) “Ä∙i∙nạtinäg kījigä ä∙i∙nạtciwäsäyäni.  
 Ä∙i∙nạtinäg kījigä ä∙i∙nạtciwäsäyäni.  
@@ -61,11 +63,13 @@ By way of the mountain-ranges do I fly along through the sky.”*</span>
 
 <span class="l-orig">(5) A‘pî äni∙u∙di‘tạmuwād anicinābäᵉ odä‘tōnit cigwa wâbạmāwag ni‘kạg pimisäwād. “Ä‘ä, inaskä kuca ni‘kạg\! Käᵉgätsa mindi‘to päᵉjik ‘aᵉa‘ᵘ ni‘ka\!” Anōdc madwä∙i∙nwä‘kazowạg anicinābēg. Kāga‘pî ki∙i∙nābi Nänabuju, mī‘i∙ᵘ kā‘i∙jipi‘taganāmigut uningwiganäng, kipō‘kwisäni uningwigan; midạc kipangicink Nänabuju.</span>
 
-<span class="l-fiero">**A’pii ani-odi’tamowaad anishinaabe’ odoodaatoonid zhigwa waabamaawag nikag bimisewaad. “Ä’ä, inaaskä gosha nikag\! Gegetsa mindido bezhig ‘a’a’o nika\!” Anooj madwe-inwekazowag anishinaabeg. Gaagaa-bii gii-inaabi Nanabozho, mii’o gaa-izhi-bi’dagaanaamigod oningwiganaang, gibookwisani oningwigan; mii dash gibangishing Nanabozho.**</span>
+<span class="l-fiero">**A’pii ani-odi’tamowaad anishinaabeg odoodaatoonid zhigwa waabamaawag nikag bimisewaad. “Ä’ä, inaaskä gosha nikag\! Gegetsa mindido bezhig ‘a’a’o nika\!” Anooj madwe-inwekazowag anishinaabeg. Gaagaa-bii gii-inaabi Nanabozho, mii’o gaa-izhi-bi’dagaanaamigod oningwiganaang, gibookwisani oningwigan; mii dash gibangishing Nanabozho.**</span>
 
 <span class="l-eng">*When they came to where the people lived in a town, already were the geese seen flying past. “Hey\! Just look at the geese\! Truly big is one of the geese\!” All sorts of noise did the people make. At last did the people look, whereupon he was accidentally hit on the wing, broken was his wing; and then down fell Nänabushu.*</span>
 
-<span class="l-gloss">A’pii (when) ani-odi’tamowaad (they arrived at) anishinaabe’ odoodaatoonid (where the people had a town) zhigwa (now) waabamaawag (they were seen) nikag (the geese) bimisewaad (as they flew past). “Ä’ä (hey\!), inaaskä gosha (just look) nikag (geese)\! Gegetsa (truly) mindido (he is big) bezhig (one) ‘a’a’o nika (that goose)\!” Anooj (all sorts of) madwe-inwekazowag (they made noise/called out) anishinaabeg (the people). Gaagaa-bii (at last) gii-inaabi (he looked) Nanabozho (Nanabozho), mii’o (then) gaa-izhi-bi’dagaanaamigod (whereupon he was hit) oningwiganaang (on his wing), gibookwisani oningwigan (his wing was broken); mii dash (and then) gibangishing (he fell down) Nanabozho (Nanabozho).</span>
+<span class="l-gloss">A’pii (when) ani-odi’tamowaad (they arrived at) anishinaabeg odoodaatoonid (where the people had a town) zhigwa (now) waabamaawag (they were seen) nikag (the geese) bimisewaad (as they flew past). “Ä’ä (hey\!), inaaskä gosha (just look) nikag (geese)\! Gegetsa (truly) mindido (he is big) bezhig (one) ‘a’a’o nika (that goose)\!” Anooj (all sorts of) madwe-inwekazowag (they made noise/called out) anishinaabeg (the people). Gaagaa-bii (at last) gii-inaabi (he looked) Nanabozho (Nanabozho), mii’o (then) gaa-izhi-bi’dagaanaamigod (whereupon he was hit) oningwiganaang (on his wing), gibookwisani oningwigan (his wing was broken); mii dash (and then) gibangishing (he fell down) Nanabozho (Nanabozho).</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: anishinaabe’ → anishinaabeg (ruled token-by-token). Per M., 2026.*</span>
 
 <span class="l-orig">(6) “E‘eï, päᵉjik pangicin ni‘ka\!” Uginōdci∙ā∙wän, ugipabāminica∙a∙wāwān witäbibināwāt. A‘pî∙i∙dạc wädcänimi∙i∙nt, indawā kīpạsigwī. “Wrî∙i∙i∙i, Nänabujün nangwana kā∙i∙jinägwi∙u∙nit\!” Midac kiki‘tcipā‘pi∙ā∙wād Nänabujün.</span>
 

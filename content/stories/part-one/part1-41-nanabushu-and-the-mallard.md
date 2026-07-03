@@ -3,11 +3,11 @@ title: "41. Nanabushu and the Mallard"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
-<div class="four-layer">
-
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
+
+<div class="four-layer">
 
 Nänabushu and the Mallard
 
@@ -111,11 +111,11 @@ Nänabushu and the Mallard
 
 <span class="l-orig">(12) Cigwa owābạmā kwiwisänsa⁵. “Ietä, pācu’ pīcāyu‘k \! Minạngwạna iᵘ äcipa‘kadäyā‘k. Kāwin nimpạ‘kudisi.”</span>
 
-<span class="l-fiero">**Zhigwa owaabamaa gwiiwizensa’. “Iyetaa, besho biizhaayog\! Mii-nangwana iw ezhi-bakadeyayog. Gaawiin nimba-kowadizii\*flagged\*.”**</span>
+<span class="l-fiero">**Zhigwa owaabamaa gwiiwizensan. “Iyetaa, besho biizhaayog\! Mii-nangwana iw ezhi-bakadeyayog. Gaawiin nimba-kowadizii\*flagged\*.”**</span>
 
 <span class="l-eng">*Presently he saw the boys. “Why, come you up close\! And so it is a fact that you are without food. I am not hungry. To-morrow let your father come over exactly at noon.”*</span>
 
-<span class="l-gloss">Zhigwa owaabamaa gwiiwizensa’ (now he saw the little boys) ∙ “Iyetaa, besho biizhaayog\! (“Hey, come close\!”) ∙ Mii-nangwana iw ezhi-bakadeyayog (so it is that you are hungry) ∙ Gaawiin nimba-kowadizii” (I am not hungry myself) — \*flagged\* final verb (Jones nimpạ‘kudisi) reconstructed; Jones renders ‘I am not hungry.’</span>
+<span class="l-gloss">Zhigwa owaabamaa gwiiwizensan (now he saw the little boys) ∙ “Iyetaa, besho biizhaayog\! (“Hey, come close\!”) ∙ Mii-nangwana iw ezhi-bakadeyayog (so it is that you are hungry) ∙ Gaawiin nimba-kowadizii” (I am not hungry myself) — \*flagged\* final verb (Jones nimpạ‘kudisi) reconstructed; Jones renders ‘I am not hungry.’</span>
 
 <span class="l-orig">(13) Kägä’t, Nänabucu wīwạn utōnạgōtōn ‘i¹i’ᵘ nipi.</span>
 

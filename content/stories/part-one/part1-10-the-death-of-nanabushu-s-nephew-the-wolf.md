@@ -3,11 +3,11 @@ title: "10. The Death of Nanabushu’s Nephew, the Wolf"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
-<div class="four-layer">
-
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
+
+<div class="four-layer">
 
 10\. THE DEATH OF NANABUSHU’S NEPHEW, THE WOLF. (Ojibwe title not printed — left for M.)
 
@@ -127,7 +127,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(13) “Micạnîm Nānabucu\! Na´, mi∙a∙ᵘ Nānabucu nindänu∙i∙‘kitunābạn. Migu iᵘ nicit kạnabạtc.” Misa´, äcimädeiba∙i∙wät, misa´ nipi unō᷑pinạnigun. Ani-nạntagänimusik nạntupạtwädạnk ningutci tciwạteiwäninig; wi‘kägu umi‘kān. Äckạmigu ä‘kᶦ‘kiteipisut a‘kwa∙ạ∙m i‘i‘ⁿ nipi. “Mīmäwin ni‘kibig wo∙o∙a‘ki,” kī∙i∙nändạm. Änie micigwa kita‘kwämäteiwät ‘i‘i‘ⁿ wạdei᷑, migu käyäbi kimōcka∙a∙ninig. Kä∙i∙cia‘kwäntawät, kägägu äbi‘tawä‘tig ‘i‘i‘ⁿ mi‘tigōᵉ mī‘i∙ⁿ kä∙a∙‘kumōcka∙a∙ninig; mēdạc kä∙i∙cinōgickänig. Mīdạc kä∙i∙ciskäbînig; mēdạc kä∙i∙ciskäbig i‘i‘ⁿ nipi, mīdạckä∙i∙cinīsäntawät.</span>
 
-<span class="l-fiero">**“Mizhanim Naanabozho\! Naa, mii a’aw Naanabozho nindanu-ikidonaaban. Mii go iw nizhid ganabaj.” Mii sa, ezhi-maajiiba’iwed, mii sa nibi onoopinaanigon. Ani-nandagenimosig nandobaadwaadang ningoji ji-wadziwaninig; wiikaa-go omikaan. Eshkamigo ag-gichiibizod akwa’am iw nibi. “Mii maawiin nigibig o’ow aki,” gii-inendam. Aaniish zhigwa gitakwemaadziwed iw wadzii\*, mii go gaye-abi gii-mooshka’aninig. Gaa-izhi-akwaandawed, gegego aabitawaa’tig iw mitigoo’ mii iw gaa-akomooshka’aninig; mii dash gaa-izhi-noogishkaanig. Mii dash gaa-izhi-zhiikaabiinig; mii dash gaa-izhi-zhiikaabig iw nibi, mii dash gaa-izhi-niisaandawed.**</span>
+<span class="l-fiero">**“Mizhanim Naanabozho\! Naa, mii a’aw Naanabozho nindanu-ikidonaaban. Mii go iw nizhid ganabaj.” Mii sa, ezhi-maajiiba’iwed, mii sa nibi onoopinaanigon. Ani-nandagenimosig nandobaadwaadang ningoji ji-wadziwaninig; wiikaa-go omikaan. Eshkamigo ag-gichiibizod akwa’am iw nibi. “Mii maawiin nigibig o’ow aki,” gii-inendam. Aaniish zhigwa gitakwemaadziwed iw wadzii\*, mii go gaye-abi gii-mooshka’aninig. Gaa-izhi-akwaandawed, gegego aabitawaa’tig iw mitigoog mii iw gaa-akomooshka’aninig; mii dash gaa-izhi-noogishkaanig. Mii dash gaa-izhi-zhiikaabiinig; mii dash gaa-izhi-zhiikaabig iw nibi, mii dash gaa-izhi-niisaandawed.**</span>
 
 <span class="l-eng">*And now, as (Nanabushu) started in flight, then by the water was he pursued. With all his might he ran, seeking for a place where there might be a mountain; he was a long while finding it. And above his girdle was he wading in the water. “No doubt but that this earth is wholly under water,” he thought. Now, while he was on his way up the mountain, still yet was it overflowing. When he had climbed (a tree), then nearly halfway up the trees was how far the water had risen; and then was when the water ceased rising. And then afterwards the water receded; and when the water receded, then down from the tree he descended.*</span>
 

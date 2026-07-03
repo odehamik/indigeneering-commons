@@ -3,11 +3,11 @@ title: "36. Nanabushu is Miraculously Fed Bear-Grease"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
-<div class="four-layer">
-
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
+
+<div class="four-layer">
 
 36\. NĀNABUSHU IS MIRACULOUSLY FED BEAR-GREASE.
 
@@ -21,11 +21,13 @@ Nanabushu Is Miraculously Fed Bear-Grease
 
 <span class="l-orig">(1) Ningutingiku mīnawā ā‘pidci pä∙kudāwāt; pạbā∙a∙yāt, mīnawā pīwitäᵉ udōdisāᵉ, mī gäyābi niⁿciwaᵉ ạbinōtcīyaᵉ. Mīsa’ mīnawa cigwa wī‘kīgä∙i∙nt. Mīsa’ ä‘kidunit: “Wä∙gunäc kāgīgä∙a∙nk?” i‘kitōwaᵉ. “ ‘Āᵘ, igickäna kisīnạn ‘i‘ï‘ᵘ unāgạn, mi‘tigunāgạn.”</span>
 
-<span class="l-fiero">**Ningoding igo miinawaa aapiji bakadewaad; babaa-ayaad, miinawaa biiwide’ odoodisaa’, mii geyaabi niizhiwa’ abinoojiiya’. Mii sa miinawaa zhigwa wii-giigaa’ind. Mii sa ekidonid: “Wegonen ge-giigaa’ang?” ikidowa’. “ ‘Aau, \[igickäna\]\*flagged\* gizinan ‘i’iw onaagan, mitigonaagan.”**</span>
+<span class="l-fiero">**Ningoding igo miinawaa aapiji bakadewaad; babaa-ayaad, miinawaa biiwideg odoodisaag, mii geyaabi niizhiwa’ abinoojiiyag. Mii sa miinawaa zhigwa wii-giigaa’ind. Mii sa ekidonid: “Wegonen ge-giigaa’ang?” ikidowag. “ ‘Aau, \[igickäna\]\*flagged\* gizinan ‘i’iw onaagan, mitigonaagan.”**</span>
 
 <span class="l-eng">*And another time they were very much in want of food; while wandering about, to some other strangers did he come, and they also had two children. And now again was he to be fed. So this they said: “What have we to feed him?” they said. “Well, then you had better cleanse the vessel, the wooden vessel.”*</span>
 
-<span class="l-gloss">Ningoding igo miinawaa (once again) ∙ aapiji bakadewaad (they were very hungry) ∙ babaa-ayaad (as he went wandering about) ∙ miinawaa biiwide’ odoodisaa’ (again he came to some strangers) ∙ mii geyaabi niizhiwa’ abinoojiiya’ (and they too had two children) ∙ Mii sa miinawaa zhigwa wii-giigaa’ind (and so now again he was to be fed) ∙ Mii sa ekidonid (so this they said) ∙ “Wegonen ge-giigaa’ang?” ikidowa’ (“What shall we feed him with?” they said) ∙ “ ‘Aau (well now) ∙ \[igickäna\]\*flagged\* gizinan ‘i’iw onaagan, mitigonaagan (then cleanse that vessel, the wooden vessel)”</span>
+<span class="l-gloss">Ningoding igo miinawaa (once again) ∙ aapiji bakadewaad (they were very hungry) ∙ babaa-ayaad (as he went wandering about) ∙ miinawaa biiwideg odoodisaag (again he came to some strangers) ∙ mii geyaabi niizhiwa’ abinoojiiyag (and they too had two children) ∙ Mii sa miinawaa zhigwa wii-giigaa’ind (and so now again he was to be fed) ∙ Mii sa ekidonid (so this they said) ∙ “Wegonen ge-giigaa’ang?” ikidowag (“What shall we feed him with?” they said) ∙ “ ‘Aau (well now) ∙ \[igickäna\]*flagged* gizinan ‘i’iw onaagan, mitigonaagan (then cleanse that vessel, the wooden vessel)”</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: biiwide’ → biiwideg; odoodisaa’ → odoodisaag; abinoojiiya’ → abinoojiiyag; ikidowa’ → ikidowag. Per M., 2026.*</span>
 
 <span class="l-orig">(2) Mīsa’ gägä‘t äcigisīnạmōwint. Mägwāgu kīnạmạdạpinit īni‘ᵘ ininiwạn, pānimāgu wändcinạwạtinaminit ‘iˢï‘ᵘ utạbạcīni; mīdạc änwänit: “Sa sa sa sa\!” inwäwạn. Mīdạc i∙i∙mā upimitā‘kupitcikạniwāng äji∙ä∙gōsinit, äciwācänänit īni‘ᵘ uniciwāni. Migōsidạc uda‘kunạmini, nōndāgusiwạn: “Sạnk,</span>
 
@@ -33,7 +35,7 @@ Nanabushu Is Miraculously Fed Bear-Grease
 
 <span class="l-eng">*Thereupon truly she cleansed it for him. Now, while the man was seated, suddenly from where he was he grabbed his lodge-pole; and then he uttered the cry: “Sa sa sa sa\!” (such) was the cry he made. And so upon the cross-pole (over the fire) he went (and) perched, holding his testes in such way that they bulged out solid. And with an awl in his hand, he could be heard saying:*</span>
 
-<span class="l-gloss">Mii sa gega’t ezhi-giziinamawind (and so truly it was cleansed for him) ∙ Megwaa go gii-namadabinid ini’iw ininiwan (while the man was sitting there) ∙ baanimaa go wenji-nawadinaminid ‘i’iw odabajiin (suddenly he seized his lodge-pole) ∙ mii dash enwenid (and then he cried) ∙ “Sa sa sa sa\!” inwewan (“Sa sa sa sa\!” was his cry) ∙ Mii dash i’imaa obimide-akobijiganiwaang ezhi-aagozinid (and then up there on the cross-pole he perched) ∙ \[äciwācänänit\]\*flagged\* ini’iw oniijiin (holding his testes so they bulged out) ∙ Migo dash oda’kunaminid (and with \[an awl\] in his hand) ∙ noondaagoziwan (he could be heard saying) ∙ “Zank,”</span>
+<span class="l-gloss">Mii sa gega’t ezhi-giziinamawind (and so truly it was cleansed for him) ∙ Megwaa go gii-namadabinid ini’iw ininiwan (while the man was sitting there) ∙ baanimaa go wenji-nawadinaminid ‘i’iw odabajiin (suddenly he seized his lodge-pole) ∙ mii dash enwenid (and then he cried) ∙ “Sa sa sa sa\!” inwewan (“Sa sa sa sa\!” was his cry) ∙ Mii dash i’imaa obimide-akobijiganiwaang ezhi-aagozinid (and then up there on the cross-pole he perched) ∙ \[äciwācänänit\]*flagged* ini’iw oniijiin (holding his testes so they bulged out) ∙ Migo dash oda’kunaminid (and with \[an awl\] in his hand) ∙ noondaagoziwan (he could be heard saying) ∙ “Zank,”</span>
 
 <span class="l-orig">(3) sạnk, sạnk\!” inwäwạn. Mīsa’ mīgu o∙o∙dạc ändasạnōndāgusit nimawāt īni‘ᵘ uniciciwạn. Ningutingiku ạcipacipawāt, panāgu pimitä kāsīgisänik, ma‘kupimitä. Mīsa’ cigwa mōckinābini ‘i‘ï‘ᵘ mi‘tigunāgạn. Äcinīsändawänit, äci∙a∙cạmint¹ ‘i‘ï‘ᵘ pimitä.</span>
 
@@ -87,19 +89,23 @@ Nanabushu Is Miraculously Fed Bear-Grease
 
 <span class="l-orig">(9) Mīsa’ gägä‘t ạniwīpimātcība∙i∙tiwaᵉ ‘i‘ï‘ᵘ ạbinōtcīyaᵉ, äji-kạnōnāt: “Kīpa‘ka‘tämwāsa kīnawā. Wâbạng kōsiwā tapīcā.”</span>
 
-<span class="l-fiero">**Mii sa gega’t aniwii-bimaajiiba’itiwa’ ‘i’iw abinoojiiya’, ezhi-ganoonaad: “Gii-bakade’tamwaasa giinawaa. Waabang gosiwaa dabizhaa.”**</span>
+<span class="l-fiero">**Mii sa gega’t aniwii-bimaajiiba’itiwag ‘i’iw abinoojiiyag, ezhi-ganoonaad: “Gii-bakade’tamwaasa giinawaa. Waabang gosiwaa dabizhaa.”**</span>
 
 <span class="l-eng">*Thereupon truly on their way back did the children start to run, when he spoke to them, saying: “You people surely must be in want of food. To-morrow let your father come over.”*</span>
 
-<span class="l-gloss">Mii sa gega’t aniwii-bimaajiiba’itiwa’ ‘i’iw abinoojiiya’ (and so truly the children began to run off on their way) ∙ ezhi-ganoonaad (when he spoke to them) ∙ “Gii-bakade’tamwaasa giinawaa (“You folk surely are in want of food) ∙ Waabang gosiwaa dabizhaa (tomorrow let your father come over)”</span>
+<span class="l-gloss">Mii sa gega’t aniwii-bimaajiiba’itiwag ‘i’iw abinoojiiyag (and so truly the children began to run off on their way) ∙ ezhi-ganoonaad (when he spoke to them) ∙ “Gii-bakade’tamwaasa giinawaa (“You folk surely are in want of food) ∙ Waabang gosiwaa dabizhaa (tomorrow let your father come over)”</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: aniwii-bimaajiiba’itiwa’ → aniwii-bimaajiiba’itiwag; abinoojiiya’ → abinoojiiyag. Per M., 2026.*</span>
 
 <span class="l-orig">(10) Ānic, migu mīnawa tạgwicin ändāwāt. Ānic mīnā mīnawā kīwīsininit unidcānisaᵉ. Mīsa’ cigwa kī∙u∙ci‘tōd mi‘tigunāgāns. Ānic, cayigwa pikīgitōwaᵉ unidcānisaᵉ: “Piwitä\!” i‘kitōwaᵉ. Ānic pīndigäwạn piwitämiwān, cigwa ugạnōnān īni‘ᵘ wīwạn: “Ạmbägickänä, wägunäcwīnä äyāyạng pä∙kānạg?”</span>
 
-<span class="l-fiero">**Aaniish, mii go miinawaa dagwishin endaawaad. Aaniish miinaa miinawaa gii-wiisininid oniijaanisa’. Mii sa zhigwa gii-ozhi’tood mitigonaagaans. Aaniish, zhayigwa bigiigidowa’ oniijaanisa’: “Biiwide\!” ikidowa’. Aaniish biindigewan biiwidemiwaan, zhigwa oganoonaan ini’iw wiiwan: “Ambegishken, wegonen wiin ge-ayaayang bakaanag?”**</span>
+<span class="l-fiero">**Aaniish, mii go miinawaa dagwishin endaawaad. Aaniish miinaa miinawaa gii-wiisininid oniijaanisag. Mii sa zhigwa gii-ozhi’tood mitigonaagaans. Aaniish, zhayigwa bigiigidowag oniijaanisag: “Biiwide\!” ikidowag. Aaniish biindigewan biiwidemiwaan, zhigwa oganoonaan ini’iw wiiwan: “Ambegishken, wegonen wiin ge-ayaayang bakaanag?”**</span>
 
 <span class="l-eng">*Well, accordingly again was he come at home. So again did his poor children eat. Now presently hither came his children, saying: “A visitor\!” they said. So when in came their guest, he then spoke to his wife, saying: “Well, now, what else have we that is different?”*</span>
 
-<span class="l-gloss">Aaniish, mii go miinawaa dagwishin endaawaad (well, and so again he arrived home) ∙ Aaniish miinaa miinawaa gii-wiisininid oniijaanisa’ (so once more his children ate) ∙ Mii sa zhigwa gii-ozhi’tood mitigonaagaans (and now he made a little wooden vessel) ∙ Aaniish, zhayigwa bigiigidowa’ oniijaanisa’ (well, presently his children spoke up) ∙ “Biiwide\!” ikidowa’ (“A visitor\!” they said) ∙ Aaniish biindigewan biiwidemiwaan (so their guest came in) ∙ zhigwa oganoonaan ini’iw wiiwan (then he spoke to his wife) ∙ “Ambegishken, wegonen wiin ge-ayaayang bakaanag?” (“Come now, what else have we that is different?”)</span>
+<span class="l-gloss">Aaniish, mii go miinawaa dagwishin endaawaad (well, and so again he arrived home) ∙ Aaniish miinaa miinawaa gii-wiisininid oniijaanisag (so once more his children ate) ∙ Mii sa zhigwa gii-ozhi’tood mitigonaagaans (and now he made a little wooden vessel) ∙ Aaniish, zhayigwa bigiigidowag oniijaanisag (well, presently his children spoke up) ∙ “Biiwide\!” ikidowag (“A visitor\!” they said) ∙ Aaniish biindigewan biiwidemiwaan (so their guest came in) ∙ zhigwa oganoonaan ini’iw wiiwan (then he spoke to his wife) ∙ “Ambegishken, wegonen wiin ge-ayaayang bakaanag?” (“Come now, what else have we that is different?”)</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: oniijaanisa’ → oniijaanisag; bigiigidowa’ → bigiigidowag; oniijaanisa’ → oniijaanisag; ikidowa’ → ikidowag. Per M., 2026.*</span>
 
 <span class="l-orig">(11) “Mīmāwin ä‘tanä ‘i‘ï‘ᵘ äyāyạng kägīgäwạng ‘i‘ï‘ᵘ pimitä.”</span>
 
@@ -159,10 +165,12 @@ Gega’t a’aw ikwe ogii-giziinaan (truly the woman cleansed it)
 
 <span class="l-orig">(18) Mīsạnā mīnawa kīwisininit ‘iˢï‘ᵘ unidcānisaᵉ.</span>
 
-<span class="l-fiero">**Mii sa naa miinawaa gii-wiisininid ‘i’iw oniijaanisa’.**</span>
+<span class="l-fiero">**Mii sa naa miinawaa gii-wiisininid ‘i’iw oniijaanisag.**</span>
 
 <span class="l-eng">*So again his poor children had food to eat.*</span>
 
-Mii sa naa miinawaa gii-wiisininid ‘i’iw oniijaanisa’ (so again his children had food to eat)
+Mii sa naa miinawaa gii-wiisininid ‘i’iw oniijaanisag (so again his children had food to eat)
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: oniijaanisa’ → oniijaanisag. Per M., 2026.*</span>
 
 </div>

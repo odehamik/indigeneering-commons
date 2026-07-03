@@ -3,11 +3,11 @@ title: "40. Nanabushu is Miraculously Fed Bear-Grease"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
-<div class="four-layer">
-
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
+
+<div class="four-layer">
 
 Nānabushu is Miraculously fed Bear-Grease.
 
@@ -21,11 +21,13 @@ Nanabushu is Miraculously Fed Bear-Grease.
 
 <span class="l-orig">(1) Nänabucu a∙ī∙ndä wīwạn kayä mīnawä kayä ’i⁸i’ᵘ unī∙tcānisaᵉ nīciwaᵉ. Mīsa’ mī∙i’∙ᵘ wī⁺pibōnicit Nänabucu, kāwin kägō udayäsīn kämīdcit. Mīsa’ mī cigwa pibōninig mādci-’tāt ạntawäntcigät. Ē, kāwäsa kägō uni’tōsīn\! Mō⁺cạg ugīgī∙i∙gōn īni’ᵘ awäsiyan, kāwin ogīwanisāsīn. Ninguting ugạnōnigōn wīwạn: "Ānīn kä∙i∙cipimātisiyank? Wī’kā kägo tcini’tōsiwạn."</span>
 
-<span class="l-fiero">**Nanabosho a’iinde wiiwan gaye miinawaa gaye i’iw oniijaanisa’ niijiwa’. Miisa’ mii’iw wii-biiboonijid Nanabosho, gaawiin gego odayaasiin gaa-miijid. Miisa’ mii gizhwa biibooninig maaji-’taad andawenjiged. Ee, gaawesa gego oni’toosiin\! Moonzhag ogii-gii’igoon iniw awesiyan, gaawiin ogii-wanishaasiin. Ningoding oganoonigoon wiiwan: "Aaniin ge-izhi-bimaadiziyang? Wii’kaa gego \*ji-ni’toosiwan\*."**</span>
+<span class="l-fiero">**Nanabosho a’iinde wiiwan gaye miinawaa gaye i’iw oniijaanisag niijiwa’. Miisa’ mii’iw wii-biiboonijid Nanabosho, gaawiin gego odayaasiin gaa-miijid. Miisa’ mii gizhwa biibooninig maaji-’taad andawenjiged. Ee, gaawesa gego oni’toosiin\! Moonzhag ogii-gii’igoon iniw awesiyan, gaawiin ogii-wanishaasiin. Ningoding oganoonigoon wiiwan: "Aaniin ge-izhi-bimaadiziyang? Wii’kaa gego \*ji-ni’toosiwan\*."**</span>
 
 <span class="l-eng">*Nānabushu was living with his wife and two children. It was there that Nānabushu intended passing the winter, but he had nothing to eat. It was now becoming winter when he undertook to seek for game. Alas\! not a thing could he kill. Often was he given the slip by the game-kind, none did he kill. Once he was addressed by his wife saying: "How are we going to live? Never a thing do you kill."*</span>
 
-<span class="l-gloss">Nanabosho a’iinde wiiwan (Nanabosho was dwelling-there with his wife) ∙ gaye miinawaa gaye i’iw oniijaanisa’ niijiwa’ (and also his two children) ∙ Miisa’ mii’iw wii-biiboonijid Nanabosho (and so it was there that Nanabosho was going to spend the winter) ∙ gaawiin gego odayaasiin gaa-miijid (he had nothing to eat) ∙ Miisa’ mii gizhwa biiboon (and so now it was winter) ∙ maaji-’taad andawenjiged (he began to hunt for game) ∙ Ee, gaawesa gego oni’toosiin\! (Alas, nothing did he kill\!) ∙ Moonzhag ogii-gii’igoon iniw awesiyan (often the game-animals gave him the slip) ∙ gaawiin ogii-wanishaasiin (he did not kill any) ∙ Ningoding oganoonigoon wiiwan (once his wife spoke to him) ∙ "Aaniin ge-izhi-bimaadiziyang?" (How are we going to live?) ∙ "Wii’kaa gego ji-ni’toosiwan." (Never do you kill a thing.)</span>
+<span class="l-gloss">Nanabosho a’iinde wiiwan (Nanabosho was dwelling-there with his wife) ∙ gaye miinawaa gaye i’iw oniijaanisag niijiwa’ (and also his two children) ∙ Miisa’ mii’iw wii-biiboonijid Nanabosho (and so it was there that Nanabosho was going to spend the winter) ∙ gaawiin gego odayaasiin gaa-miijid (he had nothing to eat) ∙ Miisa’ mii gizhwa biiboon (and so now it was winter) ∙ maaji-’taad andawenjiged (he began to hunt for game) ∙ Ee, gaawesa gego oni’toosiin\! (Alas, nothing did he kill\!) ∙ Moonzhag ogii-gii’igoon iniw awesiyan (often the game-animals gave him the slip) ∙ gaawiin ogii-wanishaasiin (he did not kill any) ∙ Ningoding oganoonigoon wiiwan (once his wife spoke to him) ∙ "Aaniin ge-izhi-bimaadiziyang?" (How are we going to live?) ∙ "Wii’kaa gego ji-ni’toosiwan." (Never do you kill a thing.)</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: oniijaanisa’ → oniijaanisag. Per M., 2026.*</span>
 
 <span class="l-orig">(2) "Nintawä mōcạg ningakīyōtä,"² i’kitu Nänabucu. Wayäbạnk äjimādcāt. Ningutingidạc, pimusät, ạnicinābän utō-’kawi∙ā∙n māda∙ạ∙nāt; sāga∙i∙ganing tāwạn. Anīnābit utōn-ta∙i∙bānining, mīdạc imāⁿ wâbạndạnk ma’kūtiskạ’k;¹ i∙i’∙wisa twa∙i∙bāgänit i∙i∙māⁿ wänta∙i∙bīnit. Änīci’kupīt, wīgiwām kīpata’kitänig. Äjipīndigät ininiwạn nạmạdạpiwạn, kayä i’kwäwạn, kayä ’i⁸i’ᵘ unītcānisini nīciwaᵉ. Inābit Nänabucu ma’kōwīninōn päpa’kwänit.³ Kägä’t umisawīnawān īni’ᵘ ma’kuwīninōn.</span>
 
@@ -97,11 +99,13 @@ Nanabushu is Miraculously Fed Bear-Grease.
 
 <span class="l-orig">(9) Ānīc kīwäwạg īgi’ᵘ kwīwisänsạg. "Ānīc änī∙i∙näg ’a⁸a’ᵘ Nänabucu?" "Kā, ’kōsiwā tạpīcā,’ i’kitō Nänabucu. ’Ā’pidci nạngwana kīpa’kạdäm nangwạna.’" Nänabucu äniijimādcāt kīwät; tcibwätagwicin ändāwāt, upītạmawā unīdcānisaᵉ kayä īni’ᵘ wīwạn utickwạntcigan. Ā’pidci minuwīsiniwaᵉ, mīsạgu pitcīnạg wīsininit.</span>
 
-<span class="l-fiero">**Aaniish giiwewag igiw gwiiwizensag. "Aaniish enii-inaag a’aw Nanabosho?" "Gaa, ’goosiwaa dabii-izhaa,’ ikido Nanabosho. ’Aa’pichi nangwana gibakadem nangwana.’" Nanabosho aanii-ji-maajaad giiwed; jibwaa-dagwishin endaawaad, obiidamawaa oniijaanisa’ gaye iniw wiiwan odishkwaanjigan. Aa’pichi minowiisiniwa’, miisagu bichiinag wiisininid.**</span>
+<span class="l-fiero">**Aaniish giiwewag igiw gwiiwizensag. "Aaniish enii-inaag a’aw Nanabosho?" "Gaa, ’goosiwaa dabii-izhaa,’ ikido Nanabosho. ’Aa’pichi nangwana gibakadem nangwana.’" Nanabosho aanii-ji-maajaad giiwed; jibwaa-dagwishin endaawaad, obiidamawaa oniijaanisag gaye iniw wiiwan odishkwaanjigan. Aa’pichi minowiisiniwag, miisagu bichiinag wiisininid.**</span>
 
 <span class="l-eng">*So back home went the boys. "What did Nānabushu say to you?" "Oh, ’Let your father come over,’ said Nānabushu. ’So you really must be very hungry.’" Nānabushu was then on his homeward way; before he was come at where they lived, he was fetching to his children and his wife the food he had left uneaten. Very well did they eat, and that was a time when they ate.*</span>
 
-<span class="l-gloss">Aaniish giiwewag igiw gwiiwizensag (so the boys went home) ∙ "Aaniish enii-inaag a’aw Nanabosho?" ("What did Nanabosho say to you?") ∙ "Gaa, ’goosiwaa dabii-izhaa,’ ikido Nanabosho." ("Oh, ’Let your father come over,’ said Nanabosho.") ∙ "’Aa’pichi nangwana gibakadem nangwana.’" ("’So you really must be very hungry.’") ∙ Nanabosho aanii-ji-maajaad giiwed (Nanabosho set off going home) ∙ jibwaa-dagwishin endaawaad (before reaching where they lived) ∙ obiidamawaa oniijaanisa’ gaye iniw wiiwan odishkwaanjigan (he brought to his children and his wife the leftover food) ∙ Aa’pichi minowiisiniwa’ (very well they ate) ∙ miisagu bichiinag wiisininid (and that was when they ate).</span>
+<span class="l-gloss">Aaniish giiwewag igiw gwiiwizensag (so the boys went home) ∙ "Aaniish enii-inaag a’aw Nanabosho?" ("What did Nanabosho say to you?") ∙ "Gaa, ’goosiwaa dabii-izhaa,’ ikido Nanabosho." ("Oh, ’Let your father come over,’ said Nanabosho.") ∙ "’Aa’pichi nangwana gibakadem nangwana.’" ("’So you really must be very hungry.’") ∙ Nanabosho aanii-ji-maajaad giiwed (Nanabosho set off going home) ∙ jibwaa-dagwishin endaawaad (before reaching where they lived) ∙ obiidamawaa oniijaanisag gaye iniw wiiwan odishkwaanjigan (he brought to his children and his wife the leftover food) ∙ Aa’pichi minowiisiniwag (very well they ate) ∙ miisagu bichiinag wiisininid (and that was when they ate).</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: oniijaanisa’ → oniijaanisag; minowiisiniwa’ → minowiisiniwag. Per M., 2026.*</span>
 
 <span class="l-orig">(10) Kägä’t minwäntạm awi’kwä. Mīsạgu cigwa äjimādci’tāt Nänabucu utcictcini’k uci’tōt, kayä wīn wīpạcipa’wāt īni’ᵘ uniciciwạn. Kā’kīci’tōd, una∙i∙nān ’i⁸i’ᵘ utcictcini’k.</span>
 
@@ -113,11 +117,13 @@ Nanabushu is Miraculously Fed Bear-Grease.
 
 <span class="l-orig">(11) Mī’sa wäyābaninīnig kabägīcik, ayabit pī∙ā∙t īni’ᵘ pīwitän. Ānīc udinā unīdcānisaᵉ: "Acawâbiyu’k." Ningutingigu pīndigäsäwaᵉ ’i⁸i’ᵘ unīdcānisaᵉ: "Cigwa pīwitä\!"</span>
 
-<span class="l-fiero">**Mii’sa wayaabaniniinig gabegiizhig, ayaabid bii-aad iniw biiwiden. Aaniish odinaa oniijaanisa’: "Ashawaabiyo’k." Ningodingigo biindigesewa’ i’iw oniijaanisa’: "Gizhwa biiwide\!"**</span>
+<span class="l-fiero">**Mii’sa wayaabaniniinig gabegiizhig, ayaabid bii-aad iniw biiwiden. Aaniish odinaa oniijaanisag: "Ashawaabiyo’k." Ningodingigo biindigesewag i’iw oniijaanisag: "Gizhwa biiwide\!"**</span>
 
 <span class="l-eng">*And it was on the morrow all day long he remained at home, he was waiting for the visitor. So he said to his children: "Do you keep watch." Then by and by in rushed his children: "Here is a stranger\!"*</span>
 
-<span class="l-gloss">Mii’sa wayaabaniniinig gabegiizhig (and so on the next day, all day) ∙ ayaabid bii-aad iniw biiwiden (he was waiting for the visitor) ∙ Aaniish odinaa oniijaanisa’ (now he said to his children) ∙ "Ashawaabiyo’k." ("You keep watch.") ∙ Ningodingigo biindigesewa’ i’iw oniijaanisa’ (suddenly his children rushed in) ∙ "Gizhwa biiwide\!" ("A stranger is here\!")</span>
+<span class="l-gloss">Mii’sa wayaabaniniinig gabegiizhig (and so on the next day, all day) ∙ ayaabid bii-aad iniw biiwiden (he was waiting for the visitor) ∙ Aaniish odinaa oniijaanisag (now he said to his children) ∙ "Ashawaabiyo’k." ("You keep watch.") ∙ Ningodingigo biindigesewag i’iw oniijaanisag (suddenly his children rushed in) ∙ "Gizhwa biiwide\!" ("A stranger is here\!")</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: oniijaanisa’ → oniijaanisag; biindigesewa’ → biindigesewag; oniijaanisa’ → oniijaanisag. Per M., 2026.*</span>
 
 <span class="l-orig">(12) Tayā, kägä’t pi∙u∙ndcipīndigäwạn īni’ᵘ ininiwạn. Nänabucu kāwīn kạnagä kägō otayāsīn. Mīsa äjikīgitut Nänabucu: "Wägunäcina kä∙a∙cạmạk ’a⁸a’ᵘ pīwitä? Mīnōtc, kisīnạn iwạnāgạn." Kā∙i∙ckwāgisīnạminit, "Mīnōtc äiciyāng kayä nīnawint wāwīsiniyāngiban."</span>
 
@@ -129,11 +135,13 @@ Nanabushu is Miraculously Fed Bear-Grease.
 
 <span class="l-orig">(13) ’I⁸i’ᵘ wī∙i∙cictcigät Nänabucu. Nī’tam udōdā’pinān i∙i∙ᵘ utcictcini’k. ’Aᵉ, Nänabucu äjinawatinạnk utạbạⁿc, kāwīn nāngîm kạcki∙u∙sī ānawī∙a∙’kwāntawät. Wī’kā pitcīnạg äjikạcki∙u∙t i∙i∙māⁿ pimidā’kupitcigạning icāt. Mīsa’ äcinī-cominạgināt ’i⁸i’ᵘ uniciciwaᵉ, kāwaninạng utcictcini’k, "Sạnk\! sạnk\! sạnk\!" inwät. Kākīcimigu’ku wīcạganāmāt ’i⁸i’ᵘ uniciciwaᵉ, ningutingigu äcipạcipa’wāt ’i⁸i’ᵘ uniciciwaᵉ, pạnägu kāpi’ti’kukạmigicink i∙i∙māⁿ nāwackutä. Ānīc mīgu i⁸i’ᵘ ā’pitạganāntisut.</span>
 
-<span class="l-fiero">**I’iw wii-ishichiged Nanabosho. Nii’tam odoodaa’pinaan iiw oji’jini’k. ’Aa, Nanabosho aazhi-nawadinank odabanj, gaawiin naangim gashki-osii anawii-a-’kwaandawed. Wii’kaa bichiinag aazhi-gashki-od i’imaan bimida’kobijiganing izhaad. Miisa’ ezhi-niizhoominaginaad i’iw onizhizhiwa’, gaawaninang oji’jini’k, "Zank\! zank\! zank\!" inwed. Gaa-gizhiimigo’ko wiizhaganaamaad i’iw onizhizhiwa’, ningodingigo aazhi-bazhiba’waad i’iw onizhizhiwa’, banegu gaa-bi-ti’kogamigizhink i’imaan naawashkode. Aaniish miigo i’iw aa’pitaganaandizod.**</span>
+<span class="l-fiero">**I’iw wii-ishichiged Nanabosho. Nii’tam odoodaa’pinaan iiw oji’jini’k. ’Aa, Nanabosho aazhi-nawadinank odabanj, gaawiin naangim gashki-osii anawii-a-’kwaandawed. Wii’kaa bichiinag aazhi-gashki-od i’imaan bimida’kobijiganing izhaad. Miisa’ ezhi-niizhoominaginaad i’iw onizhizhiwag, gaawaninang oji’jini’k, "Zank\! zank\! zank\!" inwed. Gaa-gizhiimigo’ko wiizhaganaamaad i’iw onizhizhiwag, ningodingigo aazhi-bazhiba’waad i’iw onizhizhiwag, banegu gaa-bi-ti’kogamigizhink i’imaan naawashkode. Aaniish miigo i’iw aa’pitaganaandizod.**</span>
 
 <span class="l-eng">*This was what Nānabushu intended doing. He first took up the awl. But when Nānabushu seized hold of the lodge-pole, he was not soon successful in his efforts at climbing up; and after a long while he was able to get upon the cross-pole (over the fire). And when taking hold of both his testes in his hand, after that he had seized a firm grip upon his awl, "Sạnk, sạnk, sạnk\!" was the sound he uttered. Being almost ready to strike, he was aiming at his testes, when of a sudden he pierced his testes, and forthwith down he dropped with a thud into the centre of the fire. Now, the fall was so severe as to kill him.*</span>
 
-<span class="l-gloss">I’iw wii-ishichiged Nanabosho (this is what Nanabosho intended to do) ∙ Nii’tam odoodaa’pinaan iiw oji’jini’k (first he took up the awl) ∙ ’Aa, Nanabosho aazhi-nawadinank odabanj (ah, Nanabosho seized the lodge-pole) ∙ gaawiin naangim gashki-osii anawii-a-’kwaandawed (he could not soon manage to climb up) ∙ Wii’kaa bichiinag aazhi-gashki-od i’imaan bimida’kobijiganing izhaad (after a long while he managed to get onto the cross-pole) ∙ Miisa’ ezhi-niizhoominaginaad i’iw onizhizhiwa’ (then he held both his testes) ∙ gaawaninang oji’jini’k (gripping his awl) ∙ "Zank\! zank\! zank\!" inwed ("Zank\! zank\! zank\!" was his cry) ∙ Gaa-gizhiimigo’ko wiizhaganaamaad i’iw onizhizhiwa’ (almost ready to strike his testes) ∙ ningodingigo aazhi-bazhiba’waad i’iw onizhizhiwa’ (suddenly he pierced his testes) ∙ banegu gaa-bi-ti’kogamigizhink i’imaan naawashkode (at once he dropped with a thud into the middle of the fire) ∙ Aaniish miigo i’iw aa’pitaganaandizod (now, the fall was such that it killed him).</span>
+<span class="l-gloss">I’iw wii-ishichiged Nanabosho (this is what Nanabosho intended to do) ∙ Nii’tam odoodaa’pinaan iiw oji’jini’k (first he took up the awl) ∙ ’Aa, Nanabosho aazhi-nawadinank odabanj (ah, Nanabosho seized the lodge-pole) ∙ gaawiin naangim gashki-osii anawii-a-’kwaandawed (he could not soon manage to climb up) ∙ Wii’kaa bichiinag aazhi-gashki-od i’imaan bimida’kobijiganing izhaad (after a long while he managed to get onto the cross-pole) ∙ Miisa’ ezhi-niizhoominaginaad i’iw onizhizhiwag (then he held both his testes) ∙ gaawaninang oji’jini’k (gripping his awl) ∙ "Zank\! zank\! zank\!" inwed ("Zank\! zank\! zank\!" was his cry) ∙ Gaa-gizhiimigo’ko wiizhaganaamaad i’iw onizhizhiwag (almost ready to strike his testes) ∙ ningodingigo aazhi-bazhiba’waad i’iw onizhizhiwag (suddenly he pierced his testes) ∙ banegu gaa-bi-ti’kogamigizhink i’imaan naawashkode (at once he dropped with a thud into the middle of the fire) ∙ Aaniish miigo i’iw aa’pitaganaandizod (now, the fall was such that it killed him).</span>
+
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: onizhizhiwa’ → onizhizhiwag; onizhizhiwa’ → onizhizhiwag; onizhizhiwa’ → onizhizhiwag. Per M., 2026.*</span>
 
 <span class="l-orig">(14) Ānicägu nạntagạtänimusig ’a⁸a’ᵘ i’kwä agwāwābinät, kāwīnigu ugạcki∙ā∙sīn ānawi∙a∙gwācimāt. ’A⁸a’i’kwä äjikanōnāt upiwitämạn: "Nyāⁿ, wītcī∙i∙cin tci∙ạ∙gwāwäbinạg\!"</span>
 
@@ -177,12 +185,12 @@ Nanabushu is Miraculously Fed Bear-Grease.
 
 <span class="l-orig">(19) "Kāwäsa’, kīnawāgu intawā wīsiniyu’k," a’pạn sāga∙ạ∙minit, änijikīwänit. Nänabucu kägät minwäntạm wīsinint unītcānisaᵉ.</span>
 
-<span class="l-fiero">**"Gaawesa’, giinawaagu indawaa wiisiniyo’k," a’pan zaaga’aminid, aanii-ji-giiwenid. Nanabosho geged minwendam wiisinind oniijaanisa’.**</span>
+<span class="l-fiero">**"Gaawesa’, giinawaagu indawaa wiisiniyo’k," a’pan zaaga’aminid, aanii-ji-giiwenid. Nanabosho geged minwendam wiisinind oniijaanisag.**</span>
 
 <span class="l-eng">*"It is no use, only you yourselves had better eat." Then straightway out went (the guest), on his way back home he went. Nānabushu truly was pleased (to see) that his children had food to eat.*</span>
 
-<span class="l-gloss">"Gaawesa’, giinawaagu indawaa wiisiniyo’k," ("It is no use, you yourselves had better eat,") ∙ a’pan zaaga’aminid (then off he went out) ∙ aanii-ji-giiwenid (going back home) ∙ Nanabosho geged minwendam wiisinind oniijaanisa’ (Nanabosho was truly glad his children had food to eat).</span>
+<span class="l-gloss">"Gaawesa’, giinawaagu indawaa wiisiniyo’k," ("It is no use, you yourselves had better eat,") ∙ a’pan zaaga’aminid (then off he went out) ∙ aanii-ji-giiwenid (going back home) ∙ Nanabosho geged minwendam wiisinind oniijaanisag (Nanabosho was truly glad his children had food to eat).</span>
 
-<span class="l-eng">*\[Jones fn 1, p.348\] That is, "tried to fling." — \[Jones fn 2, p.348\] This sentence has to be recast with a freer rendering, in order to give the sense. Its real meaning may be variously rendered: "Well, we did not see what he was invited for, but yet the man simply kept on sitting there," or "…without cheer he continued sitting there."*</span>
+<span class="l-eng">*\[Jones fn 1, p.348\] That is, "tried to fling." — \[Jones fn 2, p.348\] This sentence has to be recast with a freer rendering, in order to give the sense. Its real meaning may be variously rendered: "Well, we did not see what he was invited for, but yet the man simply kept on sitting there," or "…without cheer he continued sitting there." — Word-final ’ resolved per M.’s obviative-number ruling: oniijaanisa’ → oniijaanisag. Per M., 2026.*</span>
 
 </div>
