@@ -7,36 +7,40 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
+<div class="four-layer">
+
 MĪGISI.
 
 MIGIZI.
 
 BALD-EAGLE.
 
-***from Ojibwa Texts collected by William Jones (1919).***
+<span class="l-src">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-(1) Migisimī a∙ī∙ntā.
+<span class="l-orig">(1) Migisimī a∙ī∙ntā.</span>
 
-**Migizi mii ayindaa.**
+<span class="l-fiero">**Migizi mii ayindaa.**</span>
 
-*Bald-Eagle was abiding at the place.*
+<span class="l-eng">*Bald-Eagle was abiding at the place.*</span>
 
-Migizi (Bald-Eagle) mii ayindaa (there she dwelt).
+<span class="l-gloss">Migizi (Bald-Eagle) mii ayindaa (there she dwelt).</span>
 
-(2) Unīdcānisaᵍ nīciwaᵍ.
+<span class="l-orig">(2) Unīdcānisaᵍ nīciwaᵍ.</span>
 
-**Oniijaanisag niizhiwag.**
+<span class="l-fiero">**Oniijaanisag niizhiwag.**</span>
 
-*Her children were two (in number).*
+<span class="l-eng">*Her children were two (in number).*</span>
 
-Oniijaanisag (her children) niizhiwag (were two).
+<span class="l-gloss">Oniijaanisag (her children) niizhiwag (were two).</span>
 
-(3) Cigwa wīnōniwaᵍ utcīting udini‘kwänā; kābakaskạmigutigu, pinäwītcīt . . .
+<span class="l-orig">(3) Cigwa wīnōniwaᵍ utcīting udini‘kwänā; kābakaskạmigutigu, pinäwītcīt . . .</span>
 
-**Zhigwa wii-nooniwag ojiiding odinikwenaa’; gaa-bakaskamigod igo, binewi-jiid . . .**
+<span class="l-fiero">**Zhigwa wii-nooniwag ojiiding odinikwenaa’; gaa-bakaskamigod igo, binewi-jiid . . .**</span>
 
-*When they desired to suck, down to her buttocks she put their heads; and when the sound of their mouths was heard while she was being sucked, then the buttocks of the ruffed grouse . . .*
+<span class="l-eng">*When they desired to suck, down to her buttocks she put their heads; and when the sound of their mouths was heard while she was being sucked, then the buttocks of the ruffed grouse . . .*</span>
 
-Zhigwa wii-nooniwag (when they wanted to nurse) ojiiding (down at her rump) odinikwenaa’ (she put their heads); gaa-bakaskamigod igo (and as the smacking sound of her being suckled was heard), binewi-jiid (the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).
+<span class="l-gloss">Zhigwa wii-nooniwag (when they wanted to nurse) ojiiding (down at her rump) odinikwenaa’ (she put their heads); gaa-bakaskamigod igo (and as the smacking sound of her being suckled was heard), binewi-jiid (the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).</span>
 
-*“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
+<span class="l-eng">*“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*</span>
+
+</div>

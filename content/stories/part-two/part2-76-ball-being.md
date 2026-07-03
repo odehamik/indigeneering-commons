@@ -7,52 +7,56 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
+<div class="four-layer">
+
 BALL-BEING.
 
 BIKWAAKWADOONH.
 
 BALL-BEING.
 
-***from Ojibwa Texts collected by William Jones (1919).***
+<span class="l-src">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-(1) Pikwā‘kwanatōⁿ a∙i∙ntā.
+<span class="l-orig">(1) Pikwā‘kwanatōⁿ a∙i∙ntā.</span>
 
-**Bikwaakwadoonh ayindaa.**
+<span class="l-fiero">**Bikwaakwadoonh ayindaa.**</span>
 
-*A being shaped like a ball was living (there).*
+<span class="l-eng">*A being shaped like a ball was living (there).*</span>
 
-Bikwaakwadoonh (a little ball-being) ayindaa (was dwelling there).
+<span class="l-gloss">Bikwaakwadoonh (a little ball-being) ayindaa (was dwelling there).</span>
 
-(2) Kīwīmīsī, mī äjisāga∙ạ∙nk.
+<span class="l-orig">(2) Kīwīmīsī, mī äjisāga∙ạ∙nk.</span>
 
-**Gii-wii-miizii, mii ezhi-zaaga’ang.**
+<span class="l-fiero">**Gii-wii-miizii, mii ezhi-zaaga’ang.**</span>
 
-*He desired to ease himself, whereupon he went out of doors.*
+<span class="l-eng">*He desired to ease himself, whereupon he went out of doors.*</span>
 
-Gii-wii-miizii (he wanted to relieve himself), mii ezhi-zaaga’ang (so out he went).
+<span class="l-gloss">Gii-wii-miizii (he wanted to relieve himself), mii ezhi-zaaga’ang (so out he went).</span>
 
-(3) Äjikibicạngajīt, mīsa äjibwānawi‘tōt.
+<span class="l-orig">(3) Äjikibicạngajīt, mīsa äjibwānawi‘tōt.</span>
 
-**Ezhi-gibishangajiid, mii sa ezhi-bwaanawi’tood.**
+<span class="l-fiero">**Ezhi-gibishangajiid, mii sa ezhi-bwaanawi’tood.**</span>
 
-*As he was constipated, he therefore failed in his efforts.*
+<span class="l-eng">*As he was constipated, he therefore failed in his efforts.*</span>
 
-Ezhi-gibishangajiid (being blocked up), mii sa ezhi-bwaanawi’tood (so he failed at it).
+<span class="l-gloss">Ezhi-gibishangajiid (being blocked up), mii sa ezhi-bwaanawi’tood (so he failed at it).</span>
 
-(4) Mīsa’ äcinisigut.
+<span class="l-orig">(4) Mīsa’ äcinisigut.</span>
 
-**Mii sa ezhi-nisigod.**
+<span class="l-fiero">**Mii sa ezhi-nisigod.**</span>
 
-*Accordingly then he was killed (by his own incapacity).*
+<span class="l-eng">*Accordingly then he was killed (by his own incapacity).*</span>
 
 Mii sa ezhi-nisigod (and so it killed him).
 
-(5) Mīsa pinäwitcīt. . .
+<span class="l-orig">(5) Mīsa pinäwitcīt. . .</span>
 
-**Mii sa binewi-jiid . . .**
+<span class="l-fiero">**Mii sa binewi-jiid . . .**</span>
 
-*Whereupon the buttocks of the ruffed grouse. . .*
+<span class="l-eng">*Whereupon the buttocks of the ruffed grouse. . .*</span>
 
-Mii sa binewi-jiid (and so the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).
+<span class="l-gloss">Mii sa binewi-jiid (and so the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).</span>
 
-*“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
+<span class="l-eng">*“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*</span>
+
+</div>

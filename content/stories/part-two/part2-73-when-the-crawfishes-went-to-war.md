@@ -7,270 +7,274 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
+<div class="four-layer">
+
 A‘PI ACĀGÄCĪYẠG KĪNẠNTUPANIWĀT.
 
-**APII ASHAAGESHIIYAG GII-NANDOBANIWAAD.**
+<span class="l-fiero">**APII ASHAAGESHIIYAG GII-NANDOBANIWAAD.**</span>
 
 WHEN THE CRAWFISHES WENT TO WAR.
 
-***from Ojibwa Texts collected by William Jones (1919).***
+<span class="l-src">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-(1) Misa mī äji∙ō∙dänawi∙i∙tiwāt kiᵍ‘tcigạmīng acāgäciⁿyạg; ā‘pitcisa mī päji‘k nīgānisi, ugimāwisa. Ningutingsa mī māminonäntạm wīnạntupạnit; äciwīndạmawāt utinīnimaᵍ. Kägä‘tigu a‘kawä nīmi∙i∙tiwạg. Ānīcinā, nīⁿc kiskinintcikạnäwạg īgi’ᵘ acāgäcīⁿwạg. Ānīcna nībinunk kī∙ā∙wạninik ki‘tcinībiwa ugī‘kitạmuguwān īniyäsibạnạn. Mīdạc imā nīmi∙i∙tiwāt unạgisowāt wâ∙u∙gi‘tcitāwāt. Mīdạc ‘aᵍa’ᵘ kāckinintcigạnät wâ∙u∙gi‘tcitāwit.
+<span class="l-orig">(1) Misa mī äji∙ō∙dänawi∙i∙tiwāt kiᵍ‘tcigạmīng acāgäciⁿyạg; ā‘pitcisa mī päji‘k nīgānisi, ugimāwisa. Ningutingsa mī māminonäntạm wīnạntupạnit; äciwīndạmawāt utinīnimaᵍ. Kägä‘tigu a‘kawä nīmi∙i∙tiwạg. Ānīcinā, nīⁿc kiskinintcikạnäwạg īgi’ᵘ acāgäcīⁿwạg. Ānīcna nībinunk kī∙ā∙wạninik ki‘tcinībiwa ugī‘kitạmuguwān īniyäsibạnạn. Mīdạc imā nīmi∙i∙tiwāt unạgisowāt wâ∙u∙gi‘tcitāwāt. Mīdạc ‘aᵍa’ᵘ kāckinintcigạnät wâ∙u∙gi‘tcitāwit.</span>
 
-**Mii sa mii ezhi-oodenawi’idiwaad gichigamiing ashaageshiinyag; aapiji sa mii bezhik niigaanizi, ogimaawi sa. Ningoding sa mii maaminonendam wii-nandobanid; ezhi-wiindamawaad odininiimag. Geget igo akawe niimi’idiwag. Aaniish naa, niinzh giishkininjiiganewag igiw ashaageshiinwag. Aaniish naa niibinong gii-aawaninig gichi-niibiwa ogii-gidamogowaan iniy esibanan. Mii dash imaa niimi’idiwaad onagizowaad waa-ogichidaawaad. Mii dash a’aw gaashkininjiiganed waa-ogichidaawid.**
+<span class="l-fiero">**Mii sa mii ezhi-oodenawi’idiwaad gichigamiing ashaageshiinyag; aapiji sa mii bezhik niigaanizi, ogimaawi sa. Ningoding sa mii maaminonendam wii-nandobanid; ezhi-wiindamawaad odininiimag. Geget igo akawe niimi’idiwag. Aaniish naa, niinzh giishkininjiiganewag igiw ashaageshiinwag. Aaniish naa niibinong gii-aawaninig gichi-niibiwa ogii-gidamogowaan iniy esibanan. Mii dash imaa niimi’idiwaad onagizowaad waa-ogichidaawaad. Mii dash a’aw gaashkininjiiganed waa-ogichidaawid.**</span>
 
-*Now, it was in a town by the sea where some Crawfishes dwelt together; and one especially was foremost, and he was chief. So once on a time he meditated upon going to war; then he conveyed the knowledge of it to his men. Now, of course, first of all, they had a dance. According to the story, two of the Crawfishes were with hands broken off. They say it was during the summer before, that a vast throng of them had been devoured by Raccoon. Accordingly they then held a dance to determine who should be the warriors. Whereupon one that had his fingers broken off was to be the (leading) warrior.*
+<span class="l-eng">*Now, it was in a town by the sea where some Crawfishes dwelt together; and one especially was foremost, and he was chief. So once on a time he meditated upon going to war; then he conveyed the knowledge of it to his men. Now, of course, first of all, they had a dance. According to the story, two of the Crawfishes were with hands broken off. They say it was during the summer before, that a vast throng of them had been devoured by Raccoon. Accordingly they then held a dance to determine who should be the warriors. Whereupon one that had his fingers broken off was to be the (leading) warrior.*</span>
 
-Mii sa mii ezhi-oodenawi’idiwaad (now, it was in a town that they dwelt together) gichigamiing (by the great sea) ashaageshiinyag (some crawfish); aapiji sa mii bezhik niigaanizi (and one especially was foremost), ogimaawi sa (and he was chief). Ningoding sa mii maaminonendam (so once on a time he meditated) wii-nandobanid (upon going to war); ezhi-wiindamawaad odininiimag (then he told his men). Geget igo akawe niimi’idiwag (truly, first of all, they had a dance). Aaniish naa (now, of course), niinzh giishkininjiiganewag (two had their fingers broken off) igiw ashaageshiinwag (those crawfish). Aaniish naa niibinong (they say it was last summer) gii-aawaninig gichi-niibiwa (that a vast throng of them) ogii-gidamogowaan iniy esibanan (had been devoured by Raccoon). Mii dash imaa niimi’idiwaad (so there they danced) onagizowaad (being chosen) waa-ogichidaawaad (who should be the warriors). Mii dash a’aw gaashkininjiiganed (whereupon the broken-fingered one) waa-ogichidaawid (was to be the leading warrior).
+<span class="l-gloss">Mii sa mii ezhi-oodenawi’idiwaad (now, it was in a town that they dwelt together) gichigamiing (by the great sea) ashaageshiinyag (some crawfish); aapiji sa mii bezhik niigaanizi (and one especially was foremost), ogimaawi sa (and he was chief). Ningoding sa mii maaminonendam (so once on a time he meditated) wii-nandobanid (upon going to war); ezhi-wiindamawaad odininiimag (then he told his men). Geget igo akawe niimi’idiwag (truly, first of all, they had a dance). Aaniish naa (now, of course), niinzh giishkininjiiganewag (two had their fingers broken off) igiw ashaageshiinwag (those crawfish). Aaniish naa niibinong (they say it was last summer) gii-aawaninig gichi-niibiwa (that a vast throng of them) ogii-gidamogowaan iniy esibanan (had been devoured by Raccoon). Mii dash imaa niimi’idiwaad (so there they danced) onagizowaad (being chosen) waa-ogichidaawaad (who should be the warriors). Mii dash a’aw gaashkininjiiganed (whereupon the broken-fingered one) waa-ogichidaawid (was to be the leading warrior).</span>
 
-*kiᵍ‘tcigạmīng is printed with a superscript ᵍ inside the word — the devoiced g of gichigamiing carried mid-word; preserved as printed. — Word-final ’ resolved per M.’s obviative-number ruling: odininiima’ → odininiimag. Per M., 2026.*
+<span class="l-eng">*kiᵍ‘tcigạmīng is printed with a superscript ᵍ inside the word — the devoiced g of gichigamiing carried mid-word; preserved as printed. — Word-final ’ resolved per M.’s obviative-number ruling: odininiima’ → odininiimag. Per M., 2026.*</span>
 
-(2) Ānīc ạgāmiki‘tcigạming wī∙i∙cinạntupaniwāt. Cigwasa wayābạninik mādcāwag. Ānīcnā pa‘kubīwạg ạgāmiki‘tcigạming icāwāt. Cigwasa micạgāwạg ạgāmiki‘tcigạming. Ā‘pidcisa minwa‘tāwāngāni äji∙ạ∙gwā‘tāwât. Ānīcnā udäckạn umādcitōn ‘aᵍa’ᵘ nāgāni∙u∙gi‘tcitāwit. Äjimādcāwāt mi‘tāwangāng, kägä‘t usāminowạg acāgäcīⁿwạg. Ningutingiku pạbimusäwāt, kayä wīn ‘aᵍa’ᵘ äsipạn na‘pātcäya∙ī∙ pī∙u∙ntatāwạngusä. Pāmāgu ạni∙a∙ī∙nābit papānạntawâbạmāt ‘aᵍa’ᵘ äsipạn acāgäcīⁿyaᵍ, ā‘pidci udạgāwānāᵍ i∙i∙wisa’ wī∙ạ∙mwāt. Ningutingiku a∙ī∙nābit, pạnägu kābima‘katäwa‘tāwagānig. Kuniginīn, acāgäcīyaᵍ\! Wägunänīwinän äjiku‘pīpa‘tōt; ucāwaskutcīsạg unạntawâbạndān. Cigwasa’ umi‘kān. Wägunänīwinän äjimạmōt; mīdạc ‘iᵍi’ᵘ utcitā‘kāng äjisinigunạnk, kayä iwiti utcītīng, kayä imā ukunäwing, kayä imā umisatāng; kayä wäwīp äjināⁿzibība‘tōt. Wädi‘tạng ä‘kwatāwangāning mīdạc imā äcikawicimwäpạgisut i∙i∙wisa’ nibū‘kāsut.
+<span class="l-orig">(2) Ānīc ạgāmiki‘tcigạming wī∙i∙cinạntupaniwāt. Cigwasa wayābạninik mādcāwag. Ānīcnā pa‘kubīwạg ạgāmiki‘tcigạming icāwāt. Cigwasa micạgāwạg ạgāmiki‘tcigạming. Ā‘pidcisa minwa‘tāwāngāni äji∙ạ∙gwā‘tāwât. Ānīcnā udäckạn umādcitōn ‘aᵍa’ᵘ nāgāni∙u∙gi‘tcitāwit. Äjimādcāwāt mi‘tāwangāng, kägä‘t usāminowạg acāgäcīⁿwạg. Ningutingiku pạbimusäwāt, kayä wīn ‘aᵍa’ᵘ äsipạn na‘pātcäya∙ī∙ pī∙u∙ntatāwạngusä. Pāmāgu ạni∙a∙ī∙nābit papānạntawâbạmāt ‘aᵍa’ᵘ äsipạn acāgäcīⁿyaᵍ, ā‘pidci udạgāwānāᵍ i∙i∙wisa’ wī∙ạ∙mwāt. Ningutingiku a∙ī∙nābit, pạnägu kābima‘katäwa‘tāwagānig. Kuniginīn, acāgäcīyaᵍ\! Wägunänīwinän äjiku‘pīpa‘tōt; ucāwaskutcīsạg unạntawâbạndān. Cigwasa’ umi‘kān. Wägunänīwinän äjimạmōt; mīdạc ‘iᵍi’ᵘ utcitā‘kāng äjisinigunạnk, kayä iwiti utcītīng, kayä imā ukunäwing, kayä imā umisatāng; kayä wäwīp äjināⁿzibība‘tōt. Wädi‘tạng ä‘kwatāwangāning mīdạc imā äcikawicimwäpạgisut i∙i∙wisa’ nibū‘kāsut.</span>
 
-**Aaniish agaami-gichigaming wii-izhi-nandobaniwaad. Zhigwa sa wayaabaninig maajaawag. Aaniish naa bakobiiwag agaami-gichigaming izhaawaad. Zhigwa sa mizhagaawag agaami-gichigaming. Aapiji sa minwataawangaani ezhi-agwaataawaad. Aaniish naa odeshkan omaajiidoon a’aw naagaani-ogichidaawid. Ezhi-maajaawaad mitaawangaang, geget osaaminowag ashaageshiinwag. Ningoding iko babimosewaad, gaye wiin a’aw esiban napaajaya’ii bi-ondataawangose. Baamaa go ani-ayinaabid babaa-nandawaabamaad a’aw esiban ashaageshiinyag, aapiji odagaawaanaag i’iw isa wii-amwaad. Ningoding iko ayinaabid, apane go gaa-bimakadewataawagaanig. Goniginiin, ashaageshiiyag\! Wegoneniiwinen ezhi-gopiibatood; ozhaawashkojiisag onandawaabandaan. Zhigwa sa omikaan. Wegoneniiwinen ezhi-mamood; mii dash i’iw ojitaakaang ezhi-zinigonang, gaye iwidi ojiiding, gaye imaa ogonewing, gaye imaa omisadaang; gaye wewiib ezhi-naanzibiibatood. Wedi’tang ekwataawangaaning mii dash imaa ezhi-gawishimwebagizod i’iw isa nibookaazod.**
+<span class="l-fiero">**Aaniish agaami-gichigaming wii-izhi-nandobaniwaad. Zhigwa sa wayaabaninig maajaawag. Aaniish naa bakobiiwag agaami-gichigaming izhaawaad. Zhigwa sa mizhagaawag agaami-gichigaming. Aapiji sa minwataawangaani ezhi-agwaataawaad. Aaniish naa odeshkan omaajiidoon a’aw naagaani-ogichidaawid. Ezhi-maajaawaad mitaawangaang, geget osaaminowag ashaageshiinwag. Ningoding iko babimosewaad, gaye wiin a’aw esiban napaajaya’ii bi-ondataawangose. Baamaa go ani-ayinaabid babaa-nandawaabamaad a’aw esiban ashaageshiinyag, aapiji odagaawaanaag i’iw isa wii-amwaad. Ningoding iko ayinaabid, apane go gaa-bimakadewataawagaanig. Goniginiin, ashaageshiiyag\! Wegoneniiwinen ezhi-gopiibatood; ozhaawashkojiisag onandawaabandaan. Zhigwa sa omikaan. Wegoneniiwinen ezhi-mamood; mii dash i’iw ojitaakaang ezhi-zinigonang, gaye iwidi ojiiding, gaye imaa ogonewing, gaye imaa omisadaang; gaye wewiib ezhi-naanzibiibatood. Wedi’tang ekwataawangaaning mii dash imaa ezhi-gawishimwebagizod i’iw isa nibookaazod.**</span>
 
-*Now, to the other shore of the sea was where they were going to war. When the morrow came, they departed hence. According to the story, they went into the water to go to the other shore of the sea. Now they came by canoe to the other shore of the sea.¹ Very beautiful was the beach which they came out upon. They say that he who was leading warrior took his horn along. As they went along the beach, truly numerous were the Crawfishes. And by and by, as they travelled along, Raccoon himself, from an opposite direction, was coming down to the beach. And later on, while Raccoon was looking about as he went, wandering here and there to find some Crawfishes, very keen he became to have them to eat. And by and by, while looking about, (he saw that) the whole beach was completely black (with them). Behold, (there were the) Crawfishes\! What should he do but run up from the shore; for a greenish rotten log he went to seek. Presently he found one. What should he do but take it; whereupon into his groins he rubbed it, likewise yonder into his anus, and in his throat, and on his belly; and speedily back to the water he ran. When he was come at the edge of the sandy beach, then there he flung himself down and pretended he was dead.*
+<span class="l-eng">*Now, to the other shore of the sea was where they were going to war. When the morrow came, they departed hence. According to the story, they went into the water to go to the other shore of the sea. Now they came by canoe to the other shore of the sea.¹ Very beautiful was the beach which they came out upon. They say that he who was leading warrior took his horn along. As they went along the beach, truly numerous were the Crawfishes. And by and by, as they travelled along, Raccoon himself, from an opposite direction, was coming down to the beach. And later on, while Raccoon was looking about as he went, wandering here and there to find some Crawfishes, very keen he became to have them to eat. And by and by, while looking about, (he saw that) the whole beach was completely black (with them). Behold, (there were the) Crawfishes\! What should he do but run up from the shore; for a greenish rotten log he went to seek. Presently he found one. What should he do but take it; whereupon into his groins he rubbed it, likewise yonder into his anus, and in his throat, and on his belly; and speedily back to the water he ran. When he was come at the edge of the sandy beach, then there he flung himself down and pretended he was dead.*</span>
 
-Aaniish agaami-gichigaming (now, to the other shore of the sea) wii-izhi-nandobaniwaad (was where they were going to war). Zhigwa sa wayaabaninig (when the morrow came) maajaawag (they departed). Aaniish naa bakobiiwag (they went into the water) agaami-gichigaming izhaawaad (to go to the other shore). Zhigwa sa mizhagaawag (presently they arrived by water) agaami-gichigaming (at the other shore). Aapiji sa minwataawangaani (very beautiful was the sandy beach) ezhi-agwaataawaad (which they came out upon). Aaniish naa odeshkan omaajiidoon (he took his horn along) a’aw naagaani-ogichidaawid (he who was leading warrior). Ezhi-maajaawaad mitaawangaang (as they went along the sandy beach), geget osaaminowag (truly numerous were) ashaageshiinwag (the crawfish). Ningoding iko babimosewaad (and by and by, as they walked along), gaye wiin a’aw esiban (Raccoon himself) napaajaya’ii (from an opposite direction) bi-ondataawangose (was coming walking down upon the beach). Baamaa go ani-ayinaabid (and later on, looking about as he went) babaa-nandawaabamaad (wandering here and there seeking) a’aw esiban ashaageshiinyag (Raccoon, for some crawfish), aapiji odagaawaanaag (very keen he craved them) i’iw isa wii-amwaad (to eat them). Ningoding iko ayinaabid (and by and by, while looking about), apane go gaa-bimakadewataawagaanig (the whole beach lay utterly black). Goniginiin, ashaageshiiyag\! (behold, the crawfish\!) Wegoneniiwinen ezhi-gopiibatood (what should he do but run up from the shore); ozhaawashkojiisag onandawaabandaan (a greenish rotten log he went to seek). Zhigwa sa omikaan (presently he found it). Wegoneniiwinen ezhi-mamood (what should he do but take it); mii dash i’iw ojitaakaang ezhi-zinigonang (whereupon into his groins he rubbed it), gaye iwidi ojiiding (likewise yonder into his anus), gaye imaa ogonewing (and in his throat), gaye imaa omisadaang (and on his belly); gaye wewiib ezhi-naanzibiibatood (and speedily down to the water he ran). Wedi’tang ekwataawangaaning (when he reached the edge of the sandy beach) mii dash imaa ezhi-gawishimwebagizod (then there he flung himself down) i’iw isa nibookaazod (pretending he was dead).
+<span class="l-gloss">Aaniish agaami-gichigaming (now, to the other shore of the sea) wii-izhi-nandobaniwaad (was where they were going to war). Zhigwa sa wayaabaninig (when the morrow came) maajaawag (they departed). Aaniish naa bakobiiwag (they went into the water) agaami-gichigaming izhaawaad (to go to the other shore). Zhigwa sa mizhagaawag (presently they arrived by water) agaami-gichigaming (at the other shore). Aapiji sa minwataawangaani (very beautiful was the sandy beach) ezhi-agwaataawaad (which they came out upon). Aaniish naa odeshkan omaajiidoon (he took his horn along) a’aw naagaani-ogichidaawid (he who was leading warrior). Ezhi-maajaawaad mitaawangaang (as they went along the sandy beach), geget osaaminowag (truly numerous were) ashaageshiinwag (the crawfish). Ningoding iko babimosewaad (and by and by, as they walked along), gaye wiin a’aw esiban (Raccoon himself) napaajaya’ii (from an opposite direction) bi-ondataawangose (was coming walking down upon the beach). Baamaa go ani-ayinaabid (and later on, looking about as he went) babaa-nandawaabamaad (wandering here and there seeking) a’aw esiban ashaageshiinyag (Raccoon, for some crawfish), aapiji odagaawaanaag (very keen he craved them) i’iw isa wii-amwaad (to eat them). Ningoding iko ayinaabid (and by and by, while looking about), apane go gaa-bimakadewataawagaanig (the whole beach lay utterly black). Goniginiin, ashaageshiiyag\! (behold, the crawfish\!) Wegoneniiwinen ezhi-gopiibatood (what should he do but run up from the shore); ozhaawashkojiisag onandawaabandaan (a greenish rotten log he went to seek). Zhigwa sa omikaan (presently he found it). Wegoneniiwinen ezhi-mamood (what should he do but take it); mii dash i’iw ojitaakaang ezhi-zinigonang (whereupon into his groins he rubbed it), gaye iwidi ojiiding (likewise yonder into his anus), gaye imaa ogonewing (and in his throat), gaye imaa omisadaang (and on his belly); gaye wewiib ezhi-naanzibiibatood (and speedily down to the water he ran). Wedi’tang ekwataawangaaning (when he reached the edge of the sandy beach) mii dash imaa ezhi-gawishimwebagizod (then there he flung himself down) i’iw isa nibookaazod (pretending he was dead).</span>
 
-*¹ Translated by T. M. \[The marker stands at “…came by canoe to the other shore of the sea” in the English (p. 729) — Truman Michelson’s hand in the English translation is attested here.\] — Word-final ’ resolved per M.’s obviative-number ruling: ashaageshiinya’ → ashaageshiinyag; odagaawaanaa’ → odagaawaanaag. Per M., 2026.*
+<span class="l-eng">*¹ Translated by T. M. \[The marker stands at “…came by canoe to the other shore of the sea” in the English (p. 729) — Truman Michelson’s hand in the English translation is attested here.\] — Word-final ’ resolved per M.’s obviative-number ruling: ashaageshiinya’ → ashaageshiinyag; odagaawaanaa’ → odagaawaanaag. Per M., 2026.*</span>
 
-(3) Cigwa päcu’ pī∙a∙yāwaᵍ acāgäcīyaᵍ, mīgu wäntcikanawâbạmāt. Ā‘pidcisa kuckwä∙ai∙ya∙ī∙ pī∙ai∙yāwạn kīskīskinitcicāgäciwạn. Cigwasa owâbạmigōn kāgaskūpạgisunitigu. Pä‘kāgu upināⁿsi‘kāgōn, äjinạntutcīpī∙i∙gut. Ānīc kāwīn pạgitināmu‘kāsusī. Cigwasa kā‘kīwi‘tāskāgut, kunigīn kuca utcīting utcīsā‘ku∙u∙gōn; ānīc kāwīn tcīpitiyäskāsīn. “Mīsa’ mī∙i∙ᵘ nibu,” inändạm aᵘ acāgäcī. Tayā, ạnimādcāwạn, mī∙i∙witi änī∙i∙cānit pimī∙ō∙‘kwinunit; ạnimādcī∙ạ∙mōn:—
+<span class="l-orig">(3) Cigwa päcu’ pī∙a∙yāwaᵍ acāgäcīyaᵍ, mīgu wäntcikanawâbạmāt. Ā‘pidcisa kuckwä∙ai∙ya∙ī∙ pī∙ai∙yāwạn kīskīskinitcicāgäciwạn. Cigwasa owâbạmigōn kāgaskūpạgisunitigu. Pä‘kāgu upināⁿsi‘kāgōn, äjinạntutcīpī∙i∙gut. Ānīc kāwīn pạgitināmu‘kāsusī. Cigwasa kā‘kīwi‘tāskāgut, kunigīn kuca utcīting utcīsā‘ku∙u∙gōn; ānīc kāwīn tcīpitiyäskāsīn. “Mīsa’ mī∙i∙ᵘ nibu,” inändạm aᵘ acāgäcī. Tayā, ạnimādcāwạn, mī∙i∙witi änī∙i∙cānit pimī∙ō∙‘kwinunit; ạnimādcī∙ạ∙mōn:—</span>
 
-**Zhigwa besho bi-ayaawag ashaageshiiyag, mii go wenji-ganawaabamaad. Aapiji sa goshkwe-aya’ii bi-ayaawan giishkiishkininjii-ashaageshiwan. Zhigwa sa owaabamigoon gaa-gaskoobagizonid igo. Bekaa go obi-naanzikaagoon, ezhi-nandojiibii’igod. Aaniish gaawiin bagidinaamokaazosii. Zhigwa sa gaa-giiwitaashkaagod, gonigiin gosha ojiiding ojiisaakowigoon; aaniish gaawiin jiipidiyeshkaasiin. “Mii sa mii iw nibo,” inendam aw ashaageshii. Tayaa, ani-maajaawan, mii iwidi eni-izhaanid bimi-ookwiinonid; ani-maajii’amoon:—**
+<span class="l-fiero">**Zhigwa besho bi-ayaawag ashaageshiiyag, mii go wenji-ganawaabamaad. Aapiji sa goshkwe-aya’ii bi-ayaawan giishkiishkininjii-ashaageshiwan. Zhigwa sa owaabamigoon gaa-gaskoobagizonid igo. Bekaa go obi-naanzikaagoon, ezhi-nandojiibii’igod. Aaniish gaawiin bagidinaamokaazosii. Zhigwa sa gaa-giiwitaashkaagod, gonigiin gosha ojiiding ojiisaakowigoon; aaniish gaawiin jiipidiyeshkaasiin. “Mii sa mii iw nibo,” inendam aw ashaageshii. Tayaa, ani-maajaawan, mii iwidi eni-izhaanid bimi-ookwiinonid; ani-maajii’amoon:—**</span>
 
-*In time close by came the Crawfishes, whereupon from where he was he kept watch of them. Far off aside (he saw) coming hitherward one with hands broken off. Presently he was seen by him, who then was taken with unexpected surprise. Slowly he came to him, he felt of him to see if he was alive. Naturally he made believe that he was unable to breathe. When he had been circled about by the other, lo, then truly at the anus was he pinched by him; but he did not wince by drawing in his buttocks. “Therefore then he is dead,” thought the Crawfish. Ah\! then on his way he went, over there he went where the others were coming in throngs. As he went, he sang:—*
+<span class="l-eng">*In time close by came the Crawfishes, whereupon from where he was he kept watch of them. Far off aside (he saw) coming hitherward one with hands broken off. Presently he was seen by him, who then was taken with unexpected surprise. Slowly he came to him, he felt of him to see if he was alive. Naturally he made believe that he was unable to breathe. When he had been circled about by the other, lo, then truly at the anus was he pinched by him; but he did not wince by drawing in his buttocks. “Therefore then he is dead,” thought the Crawfish. Ah\! then on his way he went, over there he went where the others were coming in throngs. As he went, he sang:—*</span>
 
-Zhigwa besho bi-ayaawag (in time close by came) ashaageshiiyag (the crawfish), mii go wenji-ganawaabamaad (whereupon from where he was he watched them). Aapiji sa goshkwe-aya’ii (far off aside) bi-ayaawan (came hitherward) giishkiishkininjii-ashaageshiwan (a clipped-claw crawfish). Zhigwa sa owaabamigoon (presently he was seen by him) gaa-gaskoobagizonid igo (who started with unexpected surprise). Bekaa go obi-naanzikaagoon (slowly was he approached by him), ezhi-nandojiibii’igod (and he was probed to see if he were dead). Aaniish gaawiin bagidinaamokaazosii (naturally he did not so much as pretend to breathe). Zhigwa sa gaa-giiwitaashkaagod (when he had been circled about by the other), gonigiin gosha (lo, truly) ojiiding ojiisaakowigoon (at the anus was he pinched by him); aaniish gaawiin jiipitiyeshkaasiin (but he did not twitch his rump). “Mii sa mii iw nibo,” (“therefore then he is dead,”) inendam aw ashaageshii (thought the crawfish). Tayaa (ah\!), ani-maajaawan (on his way he went), mii iwidi eni-izhaanid (over there he went) bimi-ookwiinonid (where they came moving in throngs); ani-maajii’amoon (as he went, he sang):—
+<span class="l-gloss">Zhigwa besho bi-ayaawag (in time close by came) ashaageshiiyag (the crawfish), mii go wenji-ganawaabamaad (whereupon from where he was he watched them). Aapiji sa goshkwe-aya’ii (far off aside) bi-ayaawan (came hitherward) giishkiishkininjii-ashaageshiwan (a clipped-claw crawfish). Zhigwa sa owaabamigoon (presently he was seen by him) gaa-gaskoobagizonid igo (who started with unexpected surprise). Bekaa go obi-naanzikaagoon (slowly was he approached by him), ezhi-nandojiibii’igod (and he was probed to see if he were dead). Aaniish gaawiin bagidinaamokaazosii (naturally he did not so much as pretend to breathe). Zhigwa sa gaa-giiwitaashkaagod (when he had been circled about by the other), gonigiin gosha (lo, truly) ojiiding ojiisaakowigoon (at the anus was he pinched by him); aaniish gaawiin jiipitiyeshkaasiin (but he did not twitch his rump). “Mii sa mii iw nibo,” (“therefore then he is dead,”) inendam aw ashaageshii (thought the crawfish). Tayaa (ah\!), ani-maajaawan (on his way he went), mii iwidi eni-izhaanid (over there he went) bimi-ookwiinonid (where they came moving in throngs); ani-maajii’amoon (as he went, he sang):—</span>
 
-*kunigīn (sixth sentence) is printed where kuniginīn (goniginiin) stands elsewhere in the story — preserved as printed; a printer’s omission of the syllable is suspected.*
+<span class="l-eng">*kunigīn (sixth sentence) is printed where kuniginīn (goniginiin) stands elsewhere in the story — preserved as printed; a printer’s omission of the syllable is suspected.*</span>
 
-(4) “Nibinungä, nibinungä kā∙i∙cācākuminạng äsipạn mä‘kawạg, Kāni‘tāmi‘kāgäyān.”
+<span class="l-orig">(4) “Nibinungä, nibinungä kā∙i∙cācākuminạng äsipạn mä‘kawạg, Kāni‘tāmi‘kāgäyān.”</span>
 
-**“Nibinungä, nibinungä kā∙i∙cācākuminạng äsipạn mä‘kawạg, Kāni‘tāmi‘kāgäyān.”**
+<span class="l-fiero">**“Nibinungä, nibinungä kā∙i∙cācākuminạng äsipạn mä‘kawạg, Kāni‘tāmi‘kāgäyān.”**</span>
 
-*“The raccoon that chewed us up last summer, last summer, him have I found, I who am a finder of things.”*
+<span class="l-eng">*“The raccoon that chewed us up last summer, last summer, him have I found, I who am a finder of things.”*</span>
 
 (The raccoon that chewed us up last summer, last summer, him have I found, I who am a finder of things — song, carried as printed per the songs-carried convention.)
 
-*Song lines are carried unconverted per the Batch 1 convention (vocables, cries, songs). This song is fully lexical — a draft reading is offered in the review log for M.’s ruling on whether lexical songs convert.*
+<span class="l-eng">*Song lines are carried unconverted per the Batch 1 convention (vocables, cries, songs). This song is fully lexical — a draft reading is offered in the review log for M.’s ruling on whether lexical songs convert.*</span>
 
-(5) “Ānīn ba∙ī∙na∙ạ∙ng?”
+<span class="l-orig">(5) “Ānīn ba∙ī∙na∙ạ∙ng?”</span>
 
-**“Aaniin ba-ina’ang?”**
+<span class="l-fiero">**“Aaniin ba-ina’ang?”**</span>
 
-*“About what is he singing on his way hither?”*
+<span class="l-eng">*“About what is he singing on his way hither?”*</span>
 
 “Aaniin ba-ina’ang? (about what is he singing on his way hither?)”
 
-(6) “Ānti kīmi‘kawạt ‘aᵍa’ᵘ äsipạn?”
+<span class="l-orig">(6) “Ānti kīmi‘kawạt ‘aᵍa’ᵘ äsipạn?”</span>
 
-**“Aandi gii-mikawad a’aw esiban?”**
+<span class="l-fiero">**“Aandi gii-mikawad a’aw esiban?”**</span>
 
-*“Where did you find Raccoon?”*
+<span class="l-eng">*“Where did you find Raccoon?”*</span>
 
-“Aandi gii-mikawad (where did you find) a’aw esiban? (that Raccoon?)”
+<span class="l-gloss">“Aandi gii-mikawad (where did you find) a’aw esiban? (that Raccoon?)”</span>
 
-(7) Cigwa pīdāwạnitiwaᵍ, ā‘pitcisa’ uningwäckāgō.
+<span class="l-orig">(7) Cigwa pīdāwạnitiwaᵍ, ā‘pitcisa’ uningwäckāgō.</span>
 
-**Zhigwa biidaawanidiwag, aapiji sa oningweshkaagoo.**
+<span class="l-fiero">**Zhigwa biidaawanidiwag, aapiji sa oningweshkaagoo.**</span>
 
-*In a while (Raccoon beheld) them coming in throngs, completely was he covered by them.*
+<span class="l-eng">*In a while (Raccoon beheld) them coming in throngs, completely was he covered by them.*</span>
 
-Zhigwa biidaawanidiwag (in a while they came thronging together), aapiji sa oningweshkaagoo (completely was he covered over by them).
+<span class="l-gloss">Zhigwa biidaawanidiwag (in a while they came thronging together), aapiji sa oningweshkaagoo (completely was he covered over by them).</span>
 
-(8) Äjikagwätcimint uginā: “Ānīc, ugimā\! kä∙i∙jictcigäyạng? Kạnabạtcsa nibu‘kāzu.”
+<span class="l-orig">(8) Äjikagwätcimint uginā: “Ānīc, ugimā\! kä∙i∙jictcigäyạng? Kạnabạtcsa nibu‘kāzu.”</span>
 
-**Ezhi-gagwejimind ogimaa: “Aaniish, ogimaa\! ge-izhichigeyang? Ganabaj sa nibookaazo.”**
+<span class="l-fiero">**Ezhi-gagwejimind ogimaa: “Aaniish, ogimaa\! ge-izhichigeyang? Ganabaj sa nibookaazo.”**</span>
 
-*Then was the chief questioned: “What, O chief\! shall we do? Perhaps he is merely playing dead.”*
+<span class="l-eng">*Then was the chief questioned: “What, O chief\! shall we do? Perhaps he is merely playing dead.”*</span>
 
-Ezhi-gagwejimind ogimaa (then was the chief questioned): “Aaniish, ogimaa\! (what, O chief\!) ge-izhichigeyang? (what shall we do?) Ganabaj sa nibookaazo. (perhaps he is playing dead.)”
+<span class="l-gloss">Ezhi-gagwejimind ogimaa (then was the chief questioned): “Aaniish, ogimaa\! (what, O chief\!) ge-izhichigeyang? (what shall we do?) Ganabaj sa nibookaazo. (perhaps he is playing dead.)”</span>
 
-*uginā (first word pair) is printed with n where ugimā (with m) stands two words later in the same line — preserved as printed; a printer’s n-for-m is suspected (cf. the n/m suspects flagged in \#45 §§9/11).*
+<span class="l-eng">*uginā (first word pair) is printed with n where ugimā (with m) stands two words later in the same line — preserved as printed; a printer’s n-for-m is suspected (cf. the n/m suspects flagged in \#45 §§9/11).*</span>
 
-(9) “Ānīn kä∙i∙cinibu‘kāsut? Ucāwackwạnini kuca\!”
+<span class="l-orig">(9) “Ānīn kä∙i∙cinibu‘kāsut? Ucāwackwạnini kuca\!”</span>
 
-**“Aaniin ge-izhi-nibookaazod? Ozhaawashkwanini gosha\!”**
+<span class="l-fiero">**“Aaniin ge-izhi-nibookaazod? Ozhaawashkwanini gosha\!”**</span>
 
-*“How is it possible that he should be feigning death? He is so far decayed that he is blue\!”*
+<span class="l-eng">*“How is it possible that he should be feigning death? He is so far decayed that he is blue\!”*</span>
 
-“Aaniin ge-izhi-nibookaazod? (how could he be feigning death?) Ozhaawashkwanini gosha\! (why, he is green-blue with rot\!)”
+<span class="l-gloss">“Aaniin ge-izhi-nibookaazod? (how could he be feigning death?) Ozhaawashkwanini gosha\! (why, he is green-blue with rot\!)”</span>
 
-(10) Mīdạc ‘iᵍi’ᵘ ucāwạskutcīsạg mīziwä kī∙a∙‘tōt ‘iᵍi’ᵘ wīyawing.
+<span class="l-orig">(10) Mīdạc ‘iᵍi’ᵘ ucāwạskutcīsạg mīziwä kī∙a∙‘tōt ‘iᵍi’ᵘ wīyawing.</span>
 
-**Mii dash i’iw ozhaawashkojiisag miziwe gii-atood i’iw wiiyawing.**
+<span class="l-fiero">**Mii dash i’iw ozhaawashkojiisag miziwe gii-atood i’iw wiiyawing.**</span>
 
-*For it was a bluish¹ rotten log that he had put all over himself.*
+<span class="l-eng">*For it was a bluish¹ rotten log that he had put all over himself.*</span>
 
-Mii dash i’iw ozhaawashkojiisag (for it was the green-blue rotten wood) miziwe gii-atood (that he had put all over) i’iw wiiyawing (upon his body).
+<span class="l-gloss">Mii dash i’iw ozhaawashkojiisag (for it was the green-blue rotten wood) miziwe gii-atood (that he had put all over) i’iw wiiyawing (upon his body).</span>
 
-*¹ Because of the phosphorescence seen about it at night. Green and blue go by the same name in Ojibwa. \[Jones’s note; the marker stands on “bluish” in his English (p. 731).\]*
+<span class="l-eng">*¹ Because of the phosphorescence seen about it at night. Green and blue go by the same name in Ojibwa. \[Jones’s note; the marker stands on “bluish” in his English (p. 731).\]*</span>
 
-(11) “Wägunäci∙i∙ᵘ wâpapā∙u∙ndisiyạn? Mīsa’ ‘aᵍa’ᵘ kānạntunäwạnk. Ạmbäsa’\! misa cigwa tcitcīsā‘kwawank. Kägä‘t ānint pīndcikwanäwⁱ ta∙i∙jāwạg, kayä iwiti utcītīning, mī∙i∙witi ānint uniciwāning tcitcīsā‘kwawāwāt.”
+<span class="l-orig">(11) “Wägunäci∙i∙ᵘ wâpapā∙u∙ndisiyạn? Mīsa’ ‘aᵍa’ᵘ kānạntunäwạnk. Ạmbäsa’\! misa cigwa tcitcīsā‘kwawank. Kägä‘t ānint pīndcikwanäwⁱ ta∙i∙jāwạg, kayä iwiti utcītīning, mī∙i∙witi ānint uniciwāning tcitcīsā‘kwawāwāt.”</span>
 
-**“Wegonesh i’iw waa-babaa-ondiziyan? Mii sa a’aw gaa-nandonewang. Ambe sa\! mii sa zhigwa ji-jiisaakwawang. Geget aanind biinjigwanewi da-izhaawag, gaye iwidi ojiidiining, mii iwidi aanind onishiwaaning ji-jiisaakwawaawaad.”**
+<span class="l-fiero">**“Wegonesh i’iw waa-babaa-ondiziyan? Mii sa a’aw gaa-nandonewang. Ambe sa\! mii sa zhigwa ji-jiisaakwawang. Geget aanind biinjigwanewi da-izhaawag, gaye iwidi ojiidiining, mii iwidi aanind onishiwaaning ji-jiisaakwawaawaad.”**</span>
 
-*“What is it that you are wandering about in search of? This is the creature we are looking for. Come on\! now is the time for us to pinch him. Truly into his throat let some enter, and yonder into his anus, and there upon his testicles let some of them pinch\!”*
+<span class="l-eng">*“What is it that you are wandering about in search of? This is the creature we are looking for. Come on\! now is the time for us to pinch him. Truly into his throat let some enter, and yonder into his anus, and there upon his testicles let some of them pinch\!”*</span>
 
-“Wegonesh i’iw waa-babaa-ondiziyan? (what is it you are wandering about to get?) Mii sa a’aw gaa-nandonewang. (this is the one we have been seeking.) Ambe sa\! (come on\!) mii sa zhigwa ji-jiisaakwawang. (now is the time for us to pinch him.) Geget aanind biinjigwanewi da-izhaawag (truly let some go into his throat), gaye iwidi ojiidiining (and yonder into his anus), mii iwidi aanind onishiwaaning (and there upon his testicles) ji-jiisaakwawaawaad. (let some of them pinch\!)”
+<span class="l-gloss">“Wegonesh i’iw waa-babaa-ondiziyan? (what is it you are wandering about to get?) Mii sa a’aw gaa-nandonewang. (this is the one we have been seeking.) Ambe sa\! (come on\!) mii sa zhigwa ji-jiisaakwawang. (now is the time for us to pinch him.) Geget aanind biinjigwanewi da-izhaawag (truly let some go into his throat), gaye iwidi ojiidiining (and yonder into his anus), mii iwidi aanind onishiwaaning (and there upon his testicles) ji-jiisaakwawaawaad. (let some of them pinch\!)”</span>
 
-*pīndcikwanäwⁱ carries a superscript ⁱ; in §15 the same word prints pīndcigwunäʷⁱ with a superscript ʷⁱ and k/g–a/u differences — both carried as printed.*
+<span class="l-eng">*pīndcikwanäwⁱ carries a superscript ⁱ; in §15 the same word prints pīndcigwunäʷⁱ with a superscript ʷⁱ and k/g–a/u differences — both carried as printed.*</span>
 
-(12) Kägä‘t ka‘kina äcitcisā‘kwawāwāt. A‘pī∙i∙dac tcāsā‘kwa∙u∙nt ‘aᵍa’ᵘ äsipạn äcikaski‘tōt kibạnāmu. Mīdạc iwiti utcitīng pạngī tcīpitiyäskāt; ānintidạc ugīki‘känimigōᵍ kägä‘t ‘iᵍi’ᵘ pimādisit. Cigwasa äjickwātcīsā‘kwa∙u∙nt, päjik iwiti papātatāpạsīwạn. “Äsipạn tcīpitiyäskā\!” Papā∙i∙‘kitōwạn.
+<span class="l-orig">(12) Kägä‘t ka‘kina äcitcisā‘kwawāwāt. A‘pī∙i∙dac tcāsā‘kwa∙u∙nt ‘aᵍa’ᵘ äsipạn äcikaski‘tōt kibạnāmu. Mīdạc iwiti utcitīng pạngī tcīpitiyäskāt; ānintidạc ugīki‘känimigōᵍ kägä‘t ‘iᵍi’ᵘ pimādisit. Cigwasa äjickwātcīsā‘kwa∙u∙nt, päjik iwiti papātatāpạsīwạn. “Äsipạn tcīpitiyäskā\!” Papā∙i∙‘kitōwạn.</span>
 
-**Geget gakina ezhi-jiisaakwawaawaad. Apii idash jaasaakwa’ond a’aw esiban ezhi-gashkitood gibanaamo. Mii dash iwidi ojiiding bangii jiipidiyeshkaad; aanind idash ogii-gikenimigoog geget i’iw bimaadizid. Zhigwa sa ezhi-ishkwaa-jiisaakwa’ond, bezhik iwidi babaa-dadaabaziiwan. “Esiban jiipidiyeshkaa\!” babaa-ikidowan.**
+<span class="l-fiero">**Geget gakina ezhi-jiisaakwawaawaad. Apii idash jaasaakwa’ond a’aw esiban ezhi-gashkitood gibanaamo. Mii dash iwidi ojiiding bangii jiipidiyeshkaad; aanind idash ogii-gikenimigoog geget i’iw bimaadizid. Zhigwa sa ezhi-ishkwaa-jiisaakwa’ond, bezhik iwidi babaa-dadaabaziiwan. “Esiban jiipidiyeshkaa\!” babaa-ikidowan.**</span>
 
-*To be sure, then they all pinched him. And while Raccoon was being pinched, it was all he could do to keep from breathing. It was yonder at his anus that he gently winced, drawing himself in; and by some was he discovered to be truly alive. In a while, when there was an end of his being pinched, he saw one off a ways dodging to and fro. “Raccoon drew in at the anus\!” he said, moving about here and there.*
+<span class="l-eng">*To be sure, then they all pinched him. And while Raccoon was being pinched, it was all he could do to keep from breathing. It was yonder at his anus that he gently winced, drawing himself in; and by some was he discovered to be truly alive. In a while, when there was an end of his being pinched, he saw one off a ways dodging to and fro. “Raccoon drew in at the anus\!” he said, moving about here and there.*</span>
 
-Geget gakina ezhi-jiisaakwawaawaad (to be sure, then they all pinched him). Apii idash jaasaakwa’ond (and while he was being pinched) a’aw esiban (that Raccoon) ezhi-gashkitood gibanaamo (he managed to hold his breath). Mii dash iwidi ojiiding (it was yonder at his anus) bangii jiipidiyeshkaad (that he gently twitched); aanind idash ogii-gikenimigoog (and by some was he found out) geget i’iw bimaadizid (to be truly alive). Zhigwa sa ezhi-ishkwaa-jiisaakwa’ond (in a while, when his pinching was done), bezhik iwidi babaa-dadaabaziiwan (he saw one off a ways dodging to and fro). “Esiban jiipidiyeshkaa\!” (“Raccoon twitched at the anus\!”) babaa-ikidowan (he went about saying).
+<span class="l-gloss">Geget gakina ezhi-jiisaakwawaawaad (to be sure, then they all pinched him). Apii idash jaasaakwa’ond (and while he was being pinched) a’aw esiban (that Raccoon) ezhi-gashkitood gibanaamo (he managed to hold his breath). Mii dash iwidi ojiiding (it was yonder at his anus) bangii jiipidiyeshkaad (that he gently twitched); aanind idash ogii-gikenimigoog (and by some was he found out) geget i’iw bimaadizid (to be truly alive). Zhigwa sa ezhi-ishkwaa-jiisaakwa’ond (in a while, when his pinching was done), bezhik iwidi babaa-dadaabaziiwan (he saw one off a ways dodging to and fro). “Esiban jiipidiyeshkaa\!” (“Raccoon twitched at the anus\!”) babaa-ikidowan (he went about saying).</span>
 
-(13) Ānīc āgunwä‘tawā; mī∙i∙’ᵘ wändci∙ā∙gunwä‘tawing, ucāwackutcīsạg kī∙a∙‘tōd miziwä.
+<span class="l-orig">(13) Ānīc āgunwä‘tawā; mī∙i∙’ᵘ wändci∙ā∙gunwä‘tawing, ucāwackutcīsạg kī∙a∙‘tōd miziwä.</span>
 
-**Aaniish aagonwetawaa; mii iw wenji-aagonwetawing, ozhaawashkojiisag gii-atood miziwe.**
+<span class="l-fiero">**Aaniish aagonwetawaa; mii iw wenji-aagonwetawing, ozhaawashkojiisag gii-atood miziwe.**</span>
 
-*Now, he was not believed (to be dead); this was the reason why he was not believed, decayed bluish wood he had placed all over himself.*
+<span class="l-eng">*Now, he was not believed (to be dead); this was the reason why he was not believed, decayed bluish wood he had placed all over himself.*</span>
 
-Aaniish aagonwetawaa (now, he was disbelieved); mii iw wenji-aagonwetawing (this was why he was disbelieved), ozhaawashkojiisag gii-atood miziwe (the bluish rotten wood he had put all over himself).
+<span class="l-gloss">Aaniish aagonwetawaa (now, he was disbelieved); mii iw wenji-aagonwetawing (this was why he was disbelieved), ozhaawashkojiisag gii-atood miziwe (the bluish rotten wood he had put all over himself).</span>
 
-(14) “Tạga, mīnawā tcisā‘kwawātāᵉ,” i‘kito waᵍa’ᵘ wägimāwit.
+<span class="l-orig">(14) “Tạga, mīnawā tcisā‘kwawātāᵉ,” i‘kito waᵍa’ᵘ wägimāwit.</span>
 
-**“Daga, miinawaa jiisaakwawaadaa,” ikido wa’aw wegimaawid.**
+<span class="l-fiero">**“Daga, miinawaa jiisaakwawaadaa,” ikido wa’aw wegimaawid.**</span>
 
-*“Come, let us again pinch him\!” said he that was chief.*
+<span class="l-eng">*“Come, let us again pinch him\!” said he that was chief.*</span>
 
-“Daga, miinawaa jiisaakwawaadaa” (“come, let us again pinch him\!”) ikido wa’aw wegimaawid (said he that was chief).
+<span class="l-gloss">“Daga, miinawaa jiisaakwawaadaa” (“come, let us again pinch him\!”) ikido wa’aw wegimaawid (said he that was chief).</span>
 
-*tcisā‘kwawātāᵉ carries a final superscript ᵉ (the whispered vowel of the imperative) — preserved as printed.*
+<span class="l-eng">*tcisā‘kwawātāᵉ carries a final superscript ᵉ (the whispered vowel of the imperative) — preserved as printed.*</span>
 
-(15) Cigwasa pīndigäwaᵍ utcīting kayä iwiti pīndcigwunäʷⁱ Āpidcisa’ mạmītāwäntạm wīsạgäntạnk tcīsā‘kwa∙u∙nt. Wägunänīwinän äjikạckạntāmi‘kạnänit, äjipasingutcisänit.
+<span class="l-orig">(15) Cigwasa pīndigäwaᵍ utcīting kayä iwiti pīndcigwunäʷⁱ Āpidcisa’ mạmītāwäntạm wīsạgäntạnk tcīsā‘kwa∙u∙nt. Wägunänīwinän äjikạckạntāmi‘kạnänit, äjipasingutcisänit.</span>
 
-**Zhigwa sa biindigewag ojiiding gaye iwidi biinjigwanewi. Aapiji sa mamiidaawendam wiisagendang jiisaakwa’ond. Wegoneniiwinen ezhi-gashkandaamikanenid, ezhi-bazigonjisenid.**
+<span class="l-fiero">**Zhigwa sa biindigewag ojiiding gaye iwidi biinjigwanewi. Aapiji sa mamiidaawendam wiisagendang jiisaakwa’ond. Wegoneniiwinen ezhi-gashkandaamikanenid, ezhi-bazigonjisenid.**</span>
 
-*Presently they entered into his anus, and yonder into his throat. Very much was he annoyed by the pain he felt when being pinched. What should he do but close his mouth, then leap to his feet.*
+<span class="l-eng">*Presently they entered into his anus, and yonder into his throat. Very much was he annoyed by the pain he felt when being pinched. What should he do but close his mouth, then leap to his feet.*</span>
 
-Zhigwa sa biindigewag ojiiding (presently they entered into his anus) gaye iwidi biinjigwanewi (and yonder into his throat). Aapiji sa mamiidaawendam (very much was he troubled) wiisagendang (by the pain he felt) jiisaakwa’ond (when being pinched). Wegoneniiwinen ezhi-gashkandaamikanenid (what should he do but clamp his jaws shut), ezhi-bazigonjisenid (then leap to his feet).
+<span class="l-gloss">Zhigwa sa biindigewag ojiiding (presently they entered into his anus) gaye iwidi biinjigwanewi (and yonder into his throat). Aapiji sa mamiidaawendam (very much was he troubled) wiisagendang (by the pain he felt) jiisaakwa’ond (when being pinched). Wegoneniiwinen ezhi-gashkandaamikanenid (what should he do but clamp his jaws shut), ezhi-bazigonjisenid (then leap to his feet).</span>
 
-*No period is printed after pīndcigwunäʷⁱ, though a capitalized sentence (Āpidcisa’) follows — preserved as printed; a printer’s omission is suspected.*
+<span class="l-eng">*No period is printed after pīndcigwunäʷⁱ, though a capitalized sentence (Āpidcisa’) follows — preserved as printed; a printer’s omission is suspected.*</span>
 
-(16) Ā‘tā\! papānạgạmōwan dạc kīskīskinintcī∙a∙cāgäcīyạn. Äcikạski‘tōnit änigu‘k nạgạmōwạn kayä; pä‘kic nimi∙i∙tisōwạn mādcī∙ạ∙mōn:—
+<span class="l-orig">(16) Ā‘tā\! papānạgạmōwan dạc kīskīskinintcī∙a∙cāgäcīyạn. Äcikạski‘tōnit änigu‘k nạgạmōwạn kayä; pä‘kic nimi∙i∙tisōwạn mādcī∙ạ∙mōn:—</span>
 
-**Aataa\! babaa-nagamowan dash giishkiishkininjii-ashaageshiiyan. Ezhi-gashkitoonid enigok nagamowan gaye; bekish niimi’idizowan maajii’amoon:—**
+<span class="l-fiero">**Aataa\! babaa-nagamowan dash giishkiishkininjii-ashaageshiiyan. Ezhi-gashkitoonid enigok nagamowan gaye; bekish niimi’idizowan maajii’amoon:—**</span>
 
-*Ah\! but roundabout moved the broken-fingered Crawfish, singing. With all his might he sang; while he danced, he began singing:—*
+<span class="l-eng">*Ah\! but roundabout moved the broken-fingered Crawfish, singing. With all his might he sang; while he danced, he began singing:—*</span>
 
-Aataa\! (ah\!) babaa-nagamowan dash (but roundabout went singing) giishkiishkininjii-ashaageshiiyan (the clipped-claw crawfish). Ezhi-gashkitoonid enigok nagamowan gaye (with all his might he managed to sing); bekish niimi’idizowan (while dancing all by himself) maajii’amoon (he began singing):—
+<span class="l-gloss">Aataa\! (ah\!) babaa-nagamowan dash (but roundabout went singing) giishkiishkininjii-ashaageshiiyan (the clipped-claw crawfish). Ezhi-gashkitoonid enigok nagamowan gaye (with all his might he managed to sing); bekish niimi’idizowan (while dancing all by himself) maajii’amoon (he began singing):—</span>
 
-(17) “Äsipạn näbugubạnän, Äsipani tcīpitiyäwī, tcīpitiyäwī. Mindimōyä näbugubạnän, Äsipani tcīpitiyä, äsipani tcīpitiyä.”
+<span class="l-orig">(17) “Äsipạn näbugubạnän, Äsipani tcīpitiyäwī, tcīpitiyäwī. Mindimōyä näbugubạnän, Äsipani tcīpitiyä, äsipani tcīpitiyä.”</span>
 
-**“Äsipạn näbugubạnän, Äsipani tcīpitiyäwī, tcīpitiyäwī. Mindimōyä näbugubạnän, Äsipani tcīpitiyä, äsipani tcīpitiyä.”**
+<span class="l-fiero">**“Äsipạn näbugubạnän, Äsipani tcīpitiyäwī, tcīpitiyäwī. Mindimōyä näbugubạnän, Äsipani tcīpitiyä, äsipani tcīpitiyä.”**</span>
 
-*“The Raccoon that once died, The Raccoon drew in at the anus, he drew in at the anus. The old woman¹ that once died, The Raccoon drew in at the anus, he drew in at the anus.”*
+<span class="l-eng">*“The Raccoon that once died, The Raccoon drew in at the anus, he drew in at the anus. The old woman¹ that once died, The Raccoon drew in at the anus, he drew in at the anus.”*</span>
 
 (The Raccoon that once died, the Raccoon drew in at the anus, he drew in at the anus. The old woman that once died, the Raccoon drew in at the anus, he drew in at the anus — song, carried as printed per the songs-carried convention.)
 
-*¹ A term of reproach given the raccoon. \[Jones’s note; the marker stands on “old woman” in his English (p. 733).\]*
+<span class="l-eng">*¹ A term of reproach given the raccoon. \[Jones’s note; the marker stands on “old woman” in his English (p. 733).\]*</span>
 
-(18) Cigwadạc kägā täwīsinit, ābi‘ta kạnabạtc ugitạmwāᵍ, wägunäniwinän umawinạnān ugi‘tcitākīckinintcigạnäcāgäcīyạn. Äjima‘kạmāt udäckạnini; kāma‘kạmāt, nāwisi‘ku‘kwāntip upạcipa‘wān ‘iᵍi’ᵘ udäckạnini. Äjimādcāt äsipạn, kā‘pi∙u∙ndcīt icā; awiwīndạmawāt, änigu‘k mādcā. Päcu’ owâbạmān wītci∙ä∙sipạnạn. “ ‘Ā ‘a’ᵘ, kayä kīn awiwīsinin\! Ningīwâbạmāg īgi’ᵘ acāgäcīyạg nạntupạniwāt.”
+<span class="l-orig">(18) Cigwadạc kägā täwīsinit, ābi‘ta kạnabạtc ugitạmwāᵍ, wägunäniwinän umawinạnān ugi‘tcitākīckinintcigạnäcāgäcīyạn. Äjima‘kạmāt udäckạnini; kāma‘kạmāt, nāwisi‘ku‘kwāntip upạcipa‘wān ‘iᵍi’ᵘ udäckạnini. Äjimādcāt äsipạn, kā‘pi∙u∙ndcīt icā; awiwīndạmawāt, änigu‘k mādcā. Päcu’ owâbạmān wītci∙ä∙sipạnạn. “ ‘Ā ‘a’ᵘ, kayä kīn awiwīsinin\! Ningīwâbạmāg īgi’ᵘ acāgäcīyạg nạntupạniwāt.”</span>
 
-**Zhigwa dash gegaa dewiisinid, aabita ganabaj ogidamwaag, wegoneniiwinen omawinanaan ogichidaa-giishkininjiigane-ashaageshiiyan. Ezhi-makamaad odeshkanini; gaa-makamaad, naawishkokwaandib obazhiba’waan i’iw odeshkanini. Ezhi-maajaad esiban, gaa-bi-onjiid izhaa; awi-wiindamawaad, enigok maajaa. Besho owaabamaan wiiji-esibanan. “Aa a’aw, gaye giin awi-wiisinin\! Ningii-waabamaag igiw ashaageshiiyag nandobaniwaad.”**
+<span class="l-fiero">**Zhigwa dash gegaa dewiisinid, aabita ganabaj ogidamwaag, wegoneniiwinen omawinanaan ogichidaa-giishkininjiigane-ashaageshiiyan. Ezhi-makamaad odeshkanini; gaa-makamaad, naawishkokwaandib obazhiba’waan i’iw odeshkanini. Ezhi-maajaad esiban, gaa-bi-onjiid izhaa; awi-wiindamawaad, enigok maajaa. Besho owaabamaan wiiji-esibanan. “Aa a’aw, gaye giin awi-wiisinin\! Ningii-waabamaag igiw ashaageshiiyag nandobaniwaad.”**</span>
 
-*And when (Raccoon) had nearly eaten enough, perhaps a half of them he had eaten up, what should he then do but rush after the broken-fingered Crawfish warrior. Then he took his horn from him; after taking it from him, then through the middle of the top of (Crawfish’s) head he pierced him with his own horn. Then off went Raccoon, (to the place) from whence he came he went; he went to convey the news to another, with all speed he went. Not far away he saw his fellow-Raccoon. “Come on, you too go and eat\! I have seen the Crawfishes that were off to war.”*
+<span class="l-eng">*And when (Raccoon) had nearly eaten enough, perhaps a half of them he had eaten up, what should he then do but rush after the broken-fingered Crawfish warrior. Then he took his horn from him; after taking it from him, then through the middle of the top of (Crawfish’s) head he pierced him with his own horn. Then off went Raccoon, (to the place) from whence he came he went; he went to convey the news to another, with all speed he went. Not far away he saw his fellow-Raccoon. “Come on, you too go and eat\! I have seen the Crawfishes that were off to war.”*</span>
 
-Zhigwa dash gegaa dewiisinid (and when he had nearly eaten his fill), aabita ganabaj ogidamwaag (perhaps a half of them he had eaten up), wegoneniiwinen omawinanaan (what should he do but rush at) ogichidaa-giishkininjiigane-ashaageshiiyan (the clipped-claw crawfish war-chief). Ezhi-makamaad odeshkanini (then he took his horn from him); gaa-makamaad (after taking it), naawishkokwaandib (through the mid-crown of the head) obazhiba’waan i’iw odeshkanini (he pierced him with his own horn). Ezhi-maajaad esiban (then off went Raccoon), gaa-bi-onjiid izhaa (to whence he came he went); awi-wiindamawaad (he went to tell another), enigok maajaa (with all speed he went). Besho owaabamaan wiiji-esibanan (not far away he saw his fellow-raccoon). “Aa a’aw (come on\!), gaye giin awi-wiisinin\! (you too go and eat\!) Ningii-waabamaag igiw ashaageshiiyag (I have seen those crawfish) nandobaniwaad. (that were off to war.)”
+<span class="l-gloss">Zhigwa dash gegaa dewiisinid (and when he had nearly eaten his fill), aabita ganabaj ogidamwaag (perhaps a half of them he had eaten up), wegoneniiwinen omawinanaan (what should he do but rush at) ogichidaa-giishkininjiigane-ashaageshiiyan (the clipped-claw crawfish war-chief). Ezhi-makamaad odeshkanini (then he took his horn from him); gaa-makamaad (after taking it), naawishkokwaandib (through the mid-crown of the head) obazhiba’waan i’iw odeshkanini (he pierced him with his own horn). Ezhi-maajaad esiban (then off went Raccoon), gaa-bi-onjiid izhaa (to whence he came he went); awi-wiindamawaad (he went to tell another), enigok maajaa (with all speed he went). Besho owaabamaan wiiji-esibanan (not far away he saw his fellow-raccoon). “Aa a’aw (come on\!), gaye giin awi-wiisinin\! (you too go and eat\!) Ningii-waabamaag igiw ashaageshiiyag (I have seen those crawfish) nandobaniwaad. (that were off to war.)”</span>
 
-*Word-final ’ resolved per M.’s obviative-number ruling: ogidamwaa’ → ogidamwaag. Per M., 2026.*
+<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: ogidamwaa’ → ogidamwaag. Per M., 2026.*</span>
 
-(19) Äsipạn äjimādcība‘tōt; tayäbābạmāt, ānintigu ạnipa‘kupīwaᵍ. Mīsa kayä wīn kī‘täwīsinit; pạngīsạnā ic‘kwạmāwạg īgi’ᵘ acāgäcīyạg.
+<span class="l-orig">(19) Äsipạn äjimādcība‘tōt; tayäbābạmāt, ānintigu ạnipa‘kupīwaᵍ. Mīsa kayä wīn kī‘täwīsinit; pạngīsạnā ic‘kwạmāwạg īgi’ᵘ acāgäcīyạg.</span>
 
-**Esiban ezhi-maajiibatood; dayebaabamaad, aanind igo ani-bakobiiwag. Mii sa gaye wiin gii-dewiisinid; bangii sa naa ishkwamaawag igiw ashaageshiiyag.**
+<span class="l-fiero">**Esiban ezhi-maajiibatood; dayebaabamaad, aanind igo ani-bakobiiwag. Mii sa gaye wiin gii-dewiisinid; bangii sa naa ishkwamaawag igiw ashaageshiiyag.**</span>
 
-*(The other) Raccoon then set out on a run; when he was come in sight of them, a part of them were then on their way into the water. Accordingly he too had enough to eat; only a few Crawfishes were saved from being eaten.*
+<span class="l-eng">*(The other) Raccoon then set out on a run; when he was come in sight of them, a part of them were then on their way into the water. Accordingly he too had enough to eat; only a few Crawfishes were saved from being eaten.*</span>
 
-Esiban ezhi-maajiibatood (Raccoon then set out on a run); dayebaabamaad (when he came in sight of them), aanind igo ani-bakobiiwag (a part of them were going into the water). Mii sa gaye wiin gii-dewiisinid (so he too ate his fill); bangii sa naa ishkwamaawag (only a few were left from the eating) igiw ashaageshiiyag (of those crawfish).
+<span class="l-gloss">Esiban ezhi-maajiibatood (Raccoon then set out on a run); dayebaabamaad (when he came in sight of them), aanind igo ani-bakobiiwag (a part of them were going into the water). Mii sa gaye wiin gii-dewiisinid (so he too ate his fill); bangii sa naa ishkwamaawag (only a few were left from the eating) igiw ashaageshiiyag (of those crawfish).</span>
 
-(20) Intawāsa’ äjikīwätupạnīwāt, cigwasa tạgwicinōg ändāwāt. Ạnipīpāgiwạg: “Nīngī∙i∙ckwạnigōmin\!”
+<span class="l-orig">(20) Intawāsa’ äjikīwätupạnīwāt, cigwasa tạgwicinōg ändāwāt. Ạnipīpāgiwạg: “Nīngī∙i∙ckwạnigōmin\!”</span>
 
-**Indawaa sa ezhi-giiwedobaniiwaad, zhigwa sa dagwishinoog endaawaad. Ani-biibaagiwag: “Ningii-ishkwanigoomin\!”**
+<span class="l-fiero">**Indawaa sa ezhi-giiwedobaniiwaad, zhigwa sa dagwishinoog endaawaad. Ani-biibaagiwag: “Ningii-ishkwanigoomin\!”**</span>
 
-*Therefore then back home they went from the war, in time were they come (at the place) where they lived. As they went along, they called aloud: “A few of us have been spared\!”*
+<span class="l-eng">*Therefore then back home they went from the war, in time were they come (at the place) where they lived. As they went along, they called aloud: “A few of us have been spared\!”*</span>
 
-Indawaa sa ezhi-giiwedobaniiwaad (therefore back home from the war they went), zhigwa sa dagwishinoog endaawaad (in time they arrived where they lived). Ani-biibaagiwag (as they went they called aloud): “Ningii-ishkwanigoomin\!” (“a few of us have been spared\!”)
+<span class="l-gloss">Indawaa sa ezhi-giiwedobaniiwaad (therefore back home from the war they went), zhigwa sa dagwishinoog endaawaad (in time they arrived where they lived). Ani-biibaagiwag (as they went they called aloud): “Ningii-ishkwanigoomin\!” (“a few of us have been spared\!”)</span>
 
-(21) Ānīc nā awạntcic mādcī∙ạ∙mō ‘iᵍi’ᵘ udi‘kwämiwāᵍ, mīsa käyābi:— “Äsipạn näbugubanän, Äsipạni tcīpitiyäwi, tcīpitiyäwi. Mindimoyä näbugubanän, Äsipani tcīpitiyäwi, tcīpitiyäwi.”
+<span class="l-orig">(21) Ānīc nā awạntcic mādcī∙ạ∙mō ‘iᵍi’ᵘ udi‘kwämiwāᵍ, mīsa käyābi:— “Äsipạn näbugubanän, Äsipạni tcīpitiyäwi, tcīpitiyäwi. Mindimoyä näbugubanän, Äsipani tcīpitiyäwi, tcīpitiyäwi.”</span>
 
-**Aaniish naa awanjish maajii’amoo i’iw odikwemiwaag, mii sa geyaabi:— “Äsipạn näbugubanän, Äsipạni tcīpitiyäwi, tcīpitiyäwi. Mindimoyä näbugubanän, Äsipani tcīpitiyäwi, tcīpitiyäwi.”**
+<span class="l-fiero">**Aaniish naa awanjish maajii’amoo i’iw odikwemiwaag, mii sa geyaabi:— “Äsipạn näbugubanän, Äsipạni tcīpitiyäwi, tcīpitiyäwi. Mindimoyä näbugubanän, Äsipani tcīpitiyäwi, tcīpitiyäwi.”**</span>
 
-*But nevertheless their women began singing. (The song was) the same as before:— “The Raccoon that once died, The Raccoon drew in at the anus, he drew in at the anus. The old woman that once died, The Raccoon drew in at the anus, he drew in at the anus.”*
+<span class="l-eng">*But nevertheless their women began singing. (The song was) the same as before:— “The Raccoon that once died, The Raccoon drew in at the anus, he drew in at the anus. The old woman that once died, The Raccoon drew in at the anus, he drew in at the anus.”*</span>
 
-Aaniish naa awanjish (but nevertheless) maajii’amoo i’iw odikwemiwaag (their women began singing), mii sa geyaabi (the same as before):— (The Raccoon that once died, the Raccoon drew in at the anus, he drew in at the anus. The old woman that once died, the Raccoon drew in at the anus, he drew in at the anus — song, carried as printed.)
+<span class="l-gloss">Aaniish naa awanjish (but nevertheless) maajii’amoo i’iw odikwemiwaag (their women began singing), mii sa geyaabi (the same as before):— (The Raccoon that once died, the Raccoon drew in at the anus, he drew in at the anus. The old woman that once died, the Raccoon drew in at the anus, he drew in at the anus — song, carried as printed.)</span>
 
-*The repeated song is printed with different vowel marks than at its first singing (näbugubanän here vs näbugubạnän; tcīpitiyäwi vs tcīpitiyäwī; Mindimoyä vs Mindimōyä; and the fourth line differs in wording) — each printing carried exactly as it stands. — Word-final ’ resolved per M.’s obviative-number ruling: odikwemiwaa’ → odikwemiwaag. Per M., 2026.*
+<span class="l-eng">*The repeated song is printed with different vowel marks than at its first singing (näbugubanän here vs näbugubạnän; tcīpitiyäwi vs tcīpitiyäwī; Mindimoyä vs Mindimōyä; and the fourth line differs in wording) — each printing carried exactly as it stands. — Word-final ’ resolved per M.’s obviative-number ruling: odikwemiwaa’ → odikwemiwaag. Per M., 2026.*</span>
 
-(22) “Cīᵍ, mạdci∙ạ∙nimōg\! ‘Ningīckwạnigōmin,’ kitigōm.”
+<span class="l-orig">(22) “Cīᵍ, mạdci∙ạ∙nimōg\! ‘Ningīckwạnigōmin,’ kitigōm.”</span>
 
-**“Cīᵍ, maji-animoog\! ‘Ningii-ishkwanigoomin,’ gidigoom.”**
+<span class="l-fiero">**“Cīᵍ, maji-animoog\! ‘Ningii-ishkwanigoomin,’ gidigoom.”**</span>
 
-*“Be gone, wretches\! ‘A few of us have been spared,’ I tell you.”*
+<span class="l-eng">*“Be gone, wretches\! ‘A few of us have been spared,’ I tell you.”*</span>
 
-“Cīᵍ (be gone\! — exclamation carried), maji-animoog\! (you wretched dogs\!) ‘Ningii-ishkwanigoomin,’ (‘a few of us have been spared,’) gidigoom. (is what you are told.)”
+<span class="l-gloss">“Cīᵍ (be gone\! — exclamation carried), maji-animoog\! (you wretched dogs\!) ‘Ningii-ishkwanigoomin,’ (‘a few of us have been spared,’) gidigoom. (is what you are told.)”</span>
 
-(23) Ā‘tā, minawā päjik mādcī∙ạ∙mōn i‘kwäwạn:— “Änagisībā‘kwạto, tōtōtō, Änagisībā‘kwatō, tōtōtō, Änagisībā‘kwato, tōtōtō.”
+<span class="l-orig">(23) Ā‘tā, minawā päjik mādcī∙ạ∙mōn i‘kwäwạn:— “Änagisībā‘kwạto, tōtōtō, Änagisībā‘kwatō, tōtōtō, Änagisībā‘kwato, tōtōtō.”</span>
 
-**Aataa, miinawaa bezhik maajii’amoon ikwewan:— “Änagisībā‘kwạto, tōtōtō, Änagisībā‘kwatō, tōtōtō, Änagisībā‘kwato, tōtōtō.”**
+<span class="l-fiero">**Aataa, miinawaa bezhik maajii’amoon ikwewan:— “Änagisībā‘kwạto, tōtōtō, Änagisībā‘kwatō, tōtōtō, Änagisībā‘kwato, tōtōtō.”**</span>
 
-*Oh, another woman then began to sing:— “A tree is creaking tōtōtō\! A tree is creaking tōtōtō\! A tree is creaking tōtōtō\!”*
+<span class="l-eng">*Oh, another woman then began to sing:— “A tree is creaking tōtōtō\! A tree is creaking tōtōtō\! A tree is creaking tōtōtō\!”*</span>
 
-Aataa (oh\!), miinawaa bezhik maajii’amoon ikwewan (another woman then began to sing):— (A tree is creaking tōtōtō\! a tree is creaking tōtōtō\! a tree is creaking tōtōtō\! — song, carried as printed.)
+<span class="l-gloss">Aataa (oh\!), miinawaa bezhik maajii’amoon ikwewan (another woman then began to sing):— (A tree is creaking tōtōtō\! a tree is creaking tōtōtō\! a tree is creaking tōtōtō\! — song, carried as printed.)</span>
 
-*The song-word is printed three ways in its three lines (-‘kwạto / -‘kwatō / -‘kwato) — each line carried exactly as printed; tōtōtō is the creaking vocable.*
+<span class="l-eng">*The song-word is printed three ways in its three lines (-‘kwạto / -‘kwatō / -‘kwato) — each line carried exactly as printed; tōtōtō is the creaking vocable.*</span>
 
-(24) ‘Āᵘ mīdạc ‘iᵍi’ᵘ kägä‘t äjinickimindwa īgi’ᵘ ininiwạg. Päjik kīgito ‘aᵍa’ᵘ acāgäciⁿ: “Cī, mạtci∙ạ∙nimōg\! Kisībā‘kwạt tibickō ‘iᵍi’ᵘ kitcītīc.”
+<span class="l-orig">(24) ‘Āᵘ mīdạc ‘iᵍi’ᵘ kägä‘t äjinickimindwa īgi’ᵘ ininiwạg. Päjik kīgito ‘aᵍa’ᵘ acāgäciⁿ: “Cī, mạtci∙ạ∙nimōg\! Kisībā‘kwạt tibickō ‘iᵍi’ᵘ kitcītīc.”</span>
 
-**Aaw mii dash i’iw geget ezhi-nishkimindwa igiw ininiwag. Bezhik giigido a’aw ashaageshiinh: “Cī, maji-animoog\! Gizhiibaakwad dibishkoo i’iw gijiidiish.”**
+<span class="l-fiero">**Aaw mii dash i’iw geget ezhi-nishkimindwa igiw ininiwag. Bezhik giigido a’aw ashaageshiinh: “Cī, maji-animoog\! Gizhiibaakwad dibishkoo i’iw gijiidiish.”**</span>
 
-*Well, so then truly angered were the men. One Crawfish spoke, saying: “Away, fools\! The creaking of the tree is like (the sound of) your wretched buttocks.”*
+<span class="l-eng">*Well, so then truly angered were the men. One Crawfish spoke, saying: “Away, fools\! The creaking of the tree is like (the sound of) your wretched buttocks.”*</span>
 
-Aaw (well\!) mii dash i’iw geget ezhi-nishkimindwa (so then truly angered were) igiw ininiwag (the men). Bezhik giigido a’aw ashaageshiinh (one crawfish spoke): “Cī, maji-animoog\! (away, you wretched dogs\!) Gizhiibaakwad (the creaking of the wood) dibishkoo i’iw gijiidiish. (is just like your wretched anus.)”
+<span class="l-gloss">Aaw (well\!) mii dash i’iw geget ezhi-nishkimindwa (so then truly angered were) igiw ininiwag (the men). Bezhik giigido a’aw ashaageshiinh (one crawfish spoke): “Cī, maji-animoog\! (away, you wretched dogs\!) Gizhiibaakwad (the creaking of the wood) dibishkoo i’iw gijiidiish. (is just like your wretched anus.)”</span>
 
-(25) Mīsa’ mī∙i∙’ᵘ cigwa upiwinint ‘aᵍa’ᵘ udäckạn kā‘pacipawunt, cāpuntawāning äcipīndigạnint. Kägä‘t agāwā pimādisi. “Ānīcnā kätōtawint? Intawāsa kägī‘tāwäntạnk tānạntumā mī īni’ᵘ kätibā‘kunigut. Kä∙i∙‘kitutigo tatōtawā.”
+<span class="l-orig">(25) Mīsa’ mī∙i∙’ᵘ cigwa upiwinint ‘aᵍa’ᵘ udäckạn kā‘pacipawunt, cāpuntawāning äcipīndigạnint. Kägä‘t agāwā pimādisi. “Ānīcnā kätōtawint? Intawāsa kägī‘tāwäntạnk tānạntumā mī īni’ᵘ kätibā‘kunigut. Kä∙i∙‘kitutigo tatōtawā.”</span>
 
-**Mii sa mii iw zhigwa obiiwinind a’aw odeshkan gaa-bazhiba’ond, zhaabondawaaning ezhi-biindiganind. Geget agaawaa bimaadizi. “Aaniish naa ge-doodawind? Indawaa sa gegiitaawendang da-nandomaa mii iniw ge-dibaakonigod. Ge-ikidod igo da-doodawaa.”**
+<span class="l-fiero">**Mii sa mii iw zhigwa obiiwinind a’aw odeshkan gaa-bazhiba’ond, zhaabondawaaning ezhi-biindiganind. Geget agaawaa bimaadizi. “Aaniish naa ge-doodawind? Indawaa sa gegiitaawendang da-nandomaa mii iniw ge-dibaakonigod. Ge-ikidod igo da-doodawaa.”**</span>
 
-*So then it was that hither was borne he who had been pierced with his (own) horn, into a long-lodge was he taken. Of a truth, he was barely alive. “Now, what is to be done with him? Therefore let him that is wise be summoned, for by him shall his fate be determined. And whatsoever he shall say, that shall be done to him.”*
+<span class="l-eng">*So then it was that hither was borne he who had been pierced with his (own) horn, into a long-lodge was he taken. Of a truth, he was barely alive. “Now, what is to be done with him? Therefore let him that is wise be summoned, for by him shall his fate be determined. And whatsoever he shall say, that shall be done to him.”*</span>
 
-Mii sa mii iw zhigwa obiiwinind (so then hither was borne) a’aw odeshkan gaa-bazhiba’ond (he who had been pierced with his own horn), zhaabondawaaning ezhi-biindiganind (into a long-lodge was he taken). Geget agaawaa bimaadizi (of a truth, he was barely alive). “Aaniish naa ge-doodawind? (now, what is to be done with him?) Indawaa sa gegiitaawendang da-nandomaa (therefore let the wise one be summoned) mii iniw ge-dibaakonigod. (for by him shall his fate be judged.) Ge-ikidod igo da-doodawaa. (whatsoever he shall say, that shall be done to him.)”
+<span class="l-gloss">Mii sa mii iw zhigwa obiiwinind (so then hither was borne) a’aw odeshkan gaa-bazhiba’ond (he who had been pierced with his own horn), zhaabondawaaning ezhi-biindiganind (into a long-lodge was he taken). Geget agaawaa bimaadizi (of a truth, he was barely alive). “Aaniish naa ge-doodawind? (now, what is to be done with him?) Indawaa sa gegiitaawendang da-nandomaa (therefore let the wise one be summoned) mii iniw ge-dibaakonigod. (for by him shall his fate be judged.) Ge-ikidod igo da-doodawaa. (whatsoever he shall say, that shall be done to him.)”</span>
 
-(26) Kägä‘t mīdạc ‘iᵍi’ᵘ awigạnōnint kägī‘tāwändạnk. Cigwasa pīdwäwäcin. Cigwa ạnicāgu pimiᵍtcita‘pābi ‘iᵍi’ᵘ wīgiwām. “Ūᵍ, nänamạgawīn cābugintcita∙a∙mu‘k.”
+<span class="l-orig">(26) Kägä‘t mīdạc ‘iᵍi’ᵘ awigạnōnint kägī‘tāwändạnk. Cigwasa pīdwäwäcin. Cigwa ạnicāgu pimiᵍtcita‘pābi ‘iᵍi’ᵘ wīgiwām. “Ūᵍ, nänamạgawīn cābugintcita∙a∙mu‘k.”</span>
 
-**Geget mii dash i’iw awi-ganoonind gegiitaawendang. Zhigwa sa biidweweshin. Zhigwa anishaa go bimi-jiidapaabi i’iw wiigiwaam. “Ūᵍ, nenamagawiin zhaabo-ginjida’amok.”**
+<span class="l-fiero">**Geget mii dash i’iw awi-ganoonind gegiitaawendang. Zhigwa sa biidweweshin. Zhigwa anishaa go bimi-jiidapaabi i’iw wiigiwaam. “Ūᵍ, nenamagawiin zhaabo-ginjida’amok.”**</span>
 
-*Truly then it was that they went to speak to the wise one. In a while came the sound of his footsteps. Then all he did was merely to come and peep into the wigwam. “Pshaw\! drive (the horn) through with a mallet and block.”*
+<span class="l-eng">*Truly then it was that they went to speak to the wise one. In a while came the sound of his footsteps. Then all he did was merely to come and peep into the wigwam. “Pshaw\! drive (the horn) through with a mallet and block.”*</span>
 
-Geget mii dash i’iw awi-ganoonind (truly then was the wise one gone to and spoken to) gegiitaawendang (the wise one). Zhigwa sa biidweweshin (in a while came the sound of his footsteps). Zhigwa anishaa go (then merely) bimi-jiidapaabi i’iw wiigiwaam (in passing he peeped into the wigwam). “Ūᵍ (pshaw\! — carried), nenamagawiin (with a mallet) zhaabo-ginjida’amok. (drive it through with a block\!)”
+<span class="l-gloss">Geget mii dash i’iw awi-ganoonind (truly then was the wise one gone to and spoken to) gegiitaawendang (the wise one). Zhigwa sa biidweweshin (in a while came the sound of his footsteps). Zhigwa anishaa go (then merely) bimi-jiidapaabi i’iw wiigiwaam (in passing he peeped into the wigwam). “Ūᵍ (pshaw\! — carried), nenamagawiin (with a mallet) zhaabo-ginjida’amok. (drive it through with a block\!)”</span>
 
-(27) “Na ä‘kitut\! Tatakuninigu kä∙i∙‘kitut, nindānu∙i∙nābạn,” i‘kitōwạg ānint.
+<span class="l-orig">(27) “Na ä‘kitut\! Tatakuninigu kä∙i∙‘kitut, nindānu∙i∙nābạn,” i‘kitōwạg ānint.</span>
 
-**“Na ekidod\! Dadakoninigo ge-ikidod, nindaano-inaaban,” ikidowag aanind.**
+<span class="l-fiero">**“Na ekidod\! Dadakoninigo ge-ikidod, nindaano-inaaban,” ikidowag aanind.**</span>
 
-*“Just listen to what he says\! That he was bound to say something, was what I tried in vain to tell him,” said some of them.*
+<span class="l-eng">*“Just listen to what he says\! That he was bound to say something, was what I tried in vain to tell him,” said some of them.*</span>
 
-“Na ekidod\! (just listen to what he says\!) Dadakoninigo ge-ikidod (that he was bound to say something), nindaano-inaaban (was what I tried in vain to tell him),” ikidowag aanind (said some of them).
+<span class="l-gloss">“Na ekidod\! (just listen to what he says\!) Dadakoninigo ge-ikidod (that he was bound to say something), nindaano-inaaban (was what I tried in vain to tell him),” ikidowag aanind (said some of them).</span>
 
-(28) Ānintidạc ānu∙i∙‘kitōwạg mīmāwīndạc ‘iᵍi’ᵘ tci∙ā∙‘pitcinạnint. Ānīc kī∙i∙‘kito, mīsạgu cigwa pa‘kitä∙ạ∙mawint udäckạn. Pạnägu kācībisät, mīsā‘pạn kī∙ā∙‘pitcinạnint.
+<span class="l-orig">(28) Ānintidạc ānu∙i∙‘kitōwạg mīmāwīndạc ‘iᵍi’ᵘ tci∙ā∙‘pitcinạnint. Ānīc kī∙i∙‘kito, mīsạgu cigwa pa‘kitä∙ạ∙mawint udäckạn. Pạnägu kācībisät, mīsā‘pạn kī∙ā∙‘pitcinạnint.</span>
 
-**Aanind idash aano-ikidowag mii maawiin idash i’iw ji-aapichi-nanind. Aaniish gii-ikido, mii sa go zhigwa bakite’amawind odeshkan. Apane go gaa-zhiibiised, mii sa apan gii-aapichi-nanind.**
+<span class="l-fiero">**Aanind idash aano-ikidowag mii maawiin idash i’iw ji-aapichi-nanind. Aaniish gii-ikido, mii sa go zhigwa bakite’amawind odeshkan. Apane go gaa-zhiibiised, mii sa apan gii-aapichi-nanind.**</span>
 
-*Now, some tried to speak, but in vain, for it was certain that he would be slain. Since (the wise one) had spoken, therefore then was (the warrior) hit upon the horn. Instantly he jerked (himself) at full length, and at once he was killed.*
+<span class="l-eng">*Now, some tried to speak, but in vain, for it was certain that he would be slain. Since (the wise one) had spoken, therefore then was (the warrior) hit upon the horn. Instantly he jerked (himself) at full length, and at once he was killed.*</span>
 
-Aanind idash aano-ikidowag (some tried in vain to speak) mii maawiin idash i’iw (for it was certain) ji-aapichi-nanind (that he would be slain outright). Aaniish gii-ikido (since he had spoken), mii sa go zhigwa bakite’amawind odeshkan (then was the horn struck for him). Apane go gaa-zhiibiised (instantly he jerked at full length), mii sa apan gii-aapichi-nanind (and at once he was killed for good).
+<span class="l-gloss">Aanind idash aano-ikidowag (some tried in vain to speak) mii maawiin idash i’iw (for it was certain) ji-aapichi-nanind (that he would be slain outright). Aaniish gii-ikido (since he had spoken), mii sa go zhigwa bakite’amawind odeshkan (then was the horn struck for him). Apane go gaa-zhiibiised (instantly he jerked at full length), mii sa apan gii-aapichi-nanind (and at once he was killed for good).</span>
 
-(29) Mīsa iᵘ pinäwidcīt kī∙ạ∙gōtä.
+<span class="l-orig">(29) Mīsa iᵘ pinäwidcīt kī∙ạ∙gōtä.</span>
 
-**Mii sa iw binewi-jiid gii-agoode.**
+<span class="l-fiero">**Mii sa iw binewi-jiid gii-agoode.**</span>
 
-*And so here the buttocks of the ruffed grouse hang aloft.*
+<span class="l-eng">*And so here the buttocks of the ruffed grouse hang aloft.*</span>
 
-Mii sa iw (and thus it is) binewi-jiid (the ruffed grouse’s rump) gii-agoode (hung aloft) (*the closing that leaves the story to the listener’s wondering*).
+<span class="l-gloss">Mii sa iw (and thus it is) binewi-jiid (the ruffed grouse’s rump) gii-agoode (hung aloft) (*the closing that leaves the story to the listener’s wondering*).</span>
 
-*“Mii sa iw binewi-jiid gii-agoode.” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. \#73 prints the closing in full — the hanging-verb stands on the page (kī∙ạ∙gōtä, gii-agoode, preterite) as in \#45, where \#53/\#54 print a trailing ellipsis. (Per M., 2026.)*
+<span class="l-eng">*“Mii sa iw binewi-jiid gii-agoode.” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. \#73 prints the closing in full — the hanging-verb stands on the page (kī∙ạ∙gōtä, gii-agoode, preterite) as in \#45, where \#53/\#54 print a trailing ellipsis. (Per M., 2026.)*</span>
+
+</div>
