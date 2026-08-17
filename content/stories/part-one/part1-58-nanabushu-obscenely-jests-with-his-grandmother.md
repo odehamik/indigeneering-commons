@@ -107,4 +107,6 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">niwii-zikwaajige — I want to spit ∙ ikido mindimooye — says the old woman ∙ Nenabozho ikido — Nanabushu says ∙ goondan — swallow it (imperative).</span>
 
+58. Nanabushu Obscenely Jests with His Grandmother.
+
 </div>

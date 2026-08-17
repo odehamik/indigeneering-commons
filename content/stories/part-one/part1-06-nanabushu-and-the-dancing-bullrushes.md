@@ -355,4 +355,70 @@ Nänabushu and the Dancing Bullrushes (1)
 
 <span class="l-gloss">(42) NAA mii dash inangwana i’imaa wawiyazh gii-izhiwebizid (therefore that was a time when a joke was played on him).</span>
 
+<span class="l-gloss">(10) Gi-noondam ina minik i’iw isa minik waa-niimi’iding? (Have you heard how many days they will be dancing?)</span>
+
+<span class="l-gloss">(11) Nishwaasogan wii-niimi’idim.” (Eight days they will be dancing.”)</span>
+
+<span class="l-gloss">(12) Mii dash gaye wiin gaa-izhi’od (thereupon he himself dressed the same way), gii-batakibinwe’od (he had a feather standing upon his head).</span>
+
+<span class="l-gloss">(13) Mii dash apii maajitaanid (and now, when they began), naawaya’ii gaa-izhooshigaabawid (in their midst was where he stood) gaye qiin gii-niimid (and he too danced).</span>
+
+<span class="l-gloss">(14) Mii dash apii gii-maajitaanid (now, when they began), aaniish mii sa gaye wiin i’imaa gaa-indashiiweshimot (thereupon then and there did he dance); baabnaginange inakamigiziwa’ (a rousing time did they have).</span>
+
+<span class="l-gloss">(15) Geget sa gichi-niimi’idiwag i’imaa (of a truth, a great dance they had together there).</span>
+
+<span class="l-gloss">(16) Mii dash i’imaa endazhiweshimod (and now, there where he was dancing), niiyogon gaa-niimid (four days he danced).</span>
+
+<span class="l-gloss">(17) Aaniish i’imaa wiijiiwaad (so there he accompanied them) i’iw isa gaa-niiyogonagadanig (for a space of four days).</span>
+
+<span class="l-gloss">(18) Mii dash apii gii-inind (and that was when he was told): “Ambe sa noo ayaagwaamizin (“Come now, display your zeal),” gii-inaa aw Nenaboozhoo (Nanabushu was told).</span>
+
+<span class="l-gloss">(19) “Gego noonde-aanishiidangen.” (“Don’t let up before the affair is over.”)</span>
+
+<span class="l-gloss">(20) Mii dash apii zhigwa gii-ozhi’onid (now, that was when they began to dress/paint themselves); gaa-izhi-miskwaakwiyowenid (after they had painted themselves red), aaniish mii go gaye wiin gaa-izhi’od a’aw Nenaboozhoo (then the same did Nanabushu to himself).</span>
+
+<span class="l-gloss">(21) Gii-naaniimid mii imaa (he kept right on dancing there at the place), aanish gaawiin aanawi mashi ayekozisii (for not even yet was he weary).</span>
+
+<span class="l-gloss">(22) Mii dash geget enigok niiminid (and so truly with much fervor he danced).</span>
+
+<span class="l-gloss">(23) Abaapish gaa ningodwaasogonagadinig (by the time the sixth day was up), mii dash apii e-ni-waabaninig (and when the morning light was coming on) zhigwa gikendang ayekozid (he began to realize that he was growing tired).</span>
+
+<span class="l-gloss">(24) Mii go iw ezhi-ziigisenig oshkiinzhigoon (thereupon the tears streamed from his eyes).</span>
+
+<span class="l-gloss">(25) Geget sa nanoondendam jibwaa-waabininig (in good earnest was he anxious for the morning to come).</span>
+
+<span class="l-gloss">(26) Gegapii igo gichi-mawi (then at last he wept aloud) i’iw epiichi-dibikadinig (for that the night was yet far from spent).</span>
+
+<span class="l-gloss">(27) Mii dash i’iw ji-ishkwaa-niimi’idinig (and now the dance would be over) ani-waabaninig (during the coming-on of the morning).</span>
+
+<span class="l-gloss">(28) Mii sa agaawaa ogashkidoon aano-niimid (and so hardly was he able to dance), aaniish ayekozi (for he was tired).</span>
+
+<span class="l-gloss">(29) Zhayiigwa aanawi bi-yaabanini (by and by, nevertheless, the dawn began to break), mii sa zhayiigwa nanaawajimonid (whereupon then they began whooping). Mii dash aanawi biidaabi-waabaninig (in spite of the breaking of the dawn),</span>
+
+<span class="l-gloss">(30) aanish mii go iw ezhi-nasine mawid (he was nevertheless weeping all the while), epiichi-ayekozit (so very tired was he).</span>
+
+<span class="l-gloss">(31) Ningoding igo, e-shkwaa-webinigenid (now presently, after the others had ceased with their music), gii-niibawi megwe-zhaashaaganashkokaa (there he stood in amongst the bulrushes), aaniish gaa-izhinaagoskang iniw zhaazhaaganashkaan (for what he had met with was the bulrushes) miinangwona iniw gaa-izhinang (which he had supposed to be people dancing).</span>
+
+<span class="l-gloss">(32) Mii dash geget naanoondendam jibwaa-waabaninig (it was true that he had grown restless before it was morning), mii dash ezhi-mawid (and so he was weeping), epiichi-ayekozid (he was so tired).</span>
+
+<span class="l-gloss">(33) Ningoding igo i’iw akawaabandang ji-bi-waabaninig (but of a sudden, while watching for the morrow to come), zhigwa gegedo waabandaan bi-waabaninig (he then truly saw the coming of the morning).</span>
+
+<span class="l-gloss">(34) Mii dash gaa-inendang (and this is what he thought): “Ambegish ge-izhitine gibimi-baagaakaabang!” (“would that at once the full light of day might appear!”)</span>
+
+<span class="l-gloss">(35) Mii dash geget zhigwa dibishkoojaya’ii bimi-akwaabanini (whereupon truly now straight overhead had come the line of the morning light).</span>
+
+<span class="l-gloss">(36) Aaniish mii go iw mookwishimod (now, by that time he was tired out from the dance).</span>
+
+<span class="l-gloss">(37) Mii dash inaabid (and so he looked); geget i’imaa, niibawid (truly, there where he was standing), goniginiin megwe zhaashaaganagashkokaa gii-niibawi (to his surprise he was standing in among the bulrushes).</span>
+
+<span class="l-gloss">(38) Mii sa ndawaa ezhi-naadagaame ayaad (on recognizing what it was, he made his way close to the shore).</span>
+
+<span class="l-gloss">(39) Mii dash nangwana i’iniw gaa-izhinang zhaashaaganashkoon (thereupon it became a fact that the bulrushes were what he had seen) anishinaabeng gaa-izhinang (he had taken them for people).</span>
+
+<span class="l-gloss">(40) Mii nangwana iw apii ko i´iw gii-ani-dagwaagig (it had happened to be in the autumn) mii nangwana i´iw gii-gichi-naanooding (the season when there was always a strong wind blowing).</span>
+
+<span class="l-gloss">(41) Mii nangwana i’iniw gaa-gii-izhinang iniw zhaashganashkoon (it was true that such was the way he had seen the bulrushes).</span>
+
+<span class="l-gloss">(42) NAA mii dash inangwana i’imaa wawiyazh gii-izhiwebizid (therefore that was a time when a joke was played on him).</span>
+
 </div>

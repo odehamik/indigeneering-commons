@@ -487,4 +487,6 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Mii sa ekoozid (and that is as far as it goes).</span>
 
+*1 Uttered by drawing in the breath.*
+
 </div>

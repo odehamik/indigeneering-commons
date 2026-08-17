@@ -231,4 +231,6 @@ Nabanegaadeshimowinan, nishiimisidog, nimbiidoonan.”**</span>
 
 <span class="l-gloss">Mii sa miinawaa ani-maajaa Naanabozhoo (and so again Nänabushu set off). Geget gaawiin ogashki’toosiin anoo-wii-bimosed (truly he could not walk, try as he might), ∙ aapiji zhiidawidiye (exceedingly stiff at the rump). Ningoding igo babimosed owaabandaan zhooshkwanaabikenig (once as he walked along he saw a smooth slope of rock), ∙ wegonen-iwinen Naanabozhoo ezhi-zhooshkwaajiwed (and foolishly Nänabushu slid down it). Gaa-gabayaaboonod (when he had slid to the bottom), ∙ mii dash i’iw ezhi-aabaanaabid (he then looked back). E’tiwe, odoomigiiwidiyen (alas, the sores of his rump). Geget gagwaanisagi-naagwadini (truly a dreadful thing to see). Naanabozhoo ezhi-giigidod (Nänabushu said): “Ee (oh), ∙ mii sa iw ge-izhinikaadamowaad anishinaabeg (this is what the people will name it), ∙ we’konag oga-izhinikaadaanaawaa (lichen they will call it). ∙ Andage dash oga-osaamendaanaawaa i’iw ji-ani-aakiiwang (greatly will they esteem it as long as the world goes on) ∙ gaye dash ogamiijinaawaa igiw anishinaabeg (and also the people will eat it for food).”</span>
 
+*(1) For other versions see Nos. 11 and 45.*
+
 </div>

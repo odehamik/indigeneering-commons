@@ -2043,4 +2043,6 @@ THE FIRST-BORN SON.
 
 *“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
 
+*1 Meaning rather that the women might all be his wives if he wanted them.*
+
 </div>

@@ -293,4 +293,6 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *Printer variant: this closing paragraph (p.40) prints the name as “Nänabushu” (with sh) in line 1, whereas the Ojibwe text elsewhere in this story consistently prints “Nänabucu” (c=sh). Preserved as printed; not corrected.*
 
+4. NANABUSHU KILLS ANOTHER BROTHER.
+
 </div>

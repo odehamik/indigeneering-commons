@@ -1,8 +1,7 @@
 ---
 title: "64. The Mystic Rite is tested"
-draft: true
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
-# CEREMONIAL — held from publication pending Maya's explicit nod. named-never-explained.
+# CEREMONIAL — published with community approval, per M., 2026-08-13. Named, never explained.
 ---
 
 <div class="four-layer">
@@ -310,5 +309,7 @@ Wīnānātācimạg Cōngä‘pā ugwisîsạn.”**</span>
 <span class="l-gloss">Zhigwa dash ezhi-giigidod Zhongepaa(nh) (in a while Mighty-One spoke): “O∙, miigwech gidinin (“oh, my thanks to you). Waa-izhi-aad a’aw anishinaabe mii go iw gaye niin ge-izhi-gashki’tooyan.” (however you mean to act on the people, so shall I too be able to do.”) Mii dash iniw zhigwa gii-giigidod Makadezhigwan (then Black-Tail-of-a-Fish spoke): “Mii sa iw naganinaan.” (“and so I now leave you.”) Mii dash gii-maajaad, gii-giiwed endaad izhaad Makadezhigwan (then off he started, back home went Black-Tail-of-a-Fish).</span>
 
 *CLOSE — plain mii-sa narrator-close (“Mīsa i’ᵘ nạgạninān” / “and so I leave him”), NOT a binewi-jiid carrier. Kin to #62’s told-about/narrator-own-words cluster. No carrier seal, no … invitation.*
+
+64. THE MYSTIC RITE IS TESTED.
 
 </div>

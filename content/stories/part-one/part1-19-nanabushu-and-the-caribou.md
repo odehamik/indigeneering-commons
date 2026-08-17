@@ -211,4 +211,12 @@ Nanabushu and the Caribou (2)
 
 <span class="l-gloss">Gaawiin ganage dibaajimosiiwan Naanabozhoowan (nothing at all did Nänabushu tell) ∙ aano-wii-gagwejimaawaad (though in vain they tried to question him).</span>
 
+*(1) Nîbiwa äckạnaᵉ udayāwäni, “many the prongs he had on his antlers;” literally, “many the horns he had.”*
+
+*(1) Änīc kā·i·nābạmäwāt, “they had nothing to gain by simply looking upon it” (literally, “why should they look upon it,” but the sense is in the other rendering).*
+
+*(1) The head of the caribou.*
+
+*(1) Awänän kīn ayāwiyạn, literally, “who are you that you are.”*
+
 </div>

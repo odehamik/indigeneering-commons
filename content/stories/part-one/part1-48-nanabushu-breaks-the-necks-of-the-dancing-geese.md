@@ -106,4 +106,6 @@ Wī‘kādạc kī∙a∙nipasigwī, kī∙a∙nimādcā nō‘pîmīng; ā‘pi
 
 <span class="l-gloss">“Ee-e-e, ‘Chii, chii, chii,’ gaa-inweyan gaa-gimoodimigooyaan ninikaansimag (“Oh, ‘Ouch, ouch, ouch’ is what you say after I was robbed of my goslings”). Wiika dash gii-ani-bazigwii (a long while afterward he rose to his feet), gii-ani-maajaa noopiming (he started off inland). Aapidchi wiisagendam odiyaan (very severely his rump hurt him).</span>
 
+*1 For other versions see Nos. 11 (p. 101) and 20 (p. 169).*
+
 </div>

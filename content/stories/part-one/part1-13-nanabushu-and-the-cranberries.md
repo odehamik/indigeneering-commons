@@ -29,4 +29,6 @@ Nanabushu and the Cranberries (1)
 
 *(1) For another version see No. 21.*
 
+*(1) For another version see No. 21.*
+
 </div>

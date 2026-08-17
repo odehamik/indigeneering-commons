@@ -901,4 +901,6 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii sa (and so) ekoozid (it is the end).</span>
 
+*(1) It is usual to tell of the snapping-turtle objecting to be thrown into the water.*
+
 </div>

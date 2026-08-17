@@ -1,8 +1,7 @@
 ---
 title: "62. The Creation, Origin of Death, and the Mystic Rite"
-draft: true
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
-# CEREMONIAL — held from publication pending Maya's explicit nod. named-never-explained.
+# CEREMONIAL — published with community approval, per M., 2026-08-13. Named, never explained.
 ---
 
 <div class="four-layer">
@@ -464,5 +463,7 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 <span class="l-gloss">noongom idash geyaabi inaa a’aw abinoojii=and even-to-this-day the-child is-told gwayak ji-wii-izhiwebizid=to-live-rightly; aanind ogashki’toon=some succeed; nashke goda a’aw wanaanishinaabe=but-behold the-heedless-person; gichi-wiikaa go=very-seldom ogashki’toon gwayak wii-izhiwebizid=succeeds-living-rightly; gaawiin maamwaj da-midewisii=one-need-not do-the-mide-rite inendam a’aw weniijaanisid=thinks the-parent iniw gwayak e-zhiwebizinid=(whose child)-lives-rightly; naama mii go iw=that is all.</span>
 
 *Footnote (Jones ¹, marks this closing reflection; Eng marker at “And¹”): “The narrator closes with his own words.” This is the TOLD-ABOUT / narrator’s-own-words close (kin to #29/#34/#36/#37/#38) — NOT a carrier closing (no binewi-jiid). wanaanishinaabe = “a heedless/foolish person”; weshki/weniijaanisid plainly glossed; the rite named, never explained. [#62 ENDS here; #63 “Second Version” follows in the source — out of scope.]*
+
+62. THE CREATION, ORIGIN OF DEATH, AND THE MYSTIC RITE.
 
 </div>

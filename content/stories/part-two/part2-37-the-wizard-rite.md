@@ -1,8 +1,7 @@
 ---
 title: "37. The Wizard Rite"
-draft: true
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
-# CEREMONIAL — held from publication pending Maya's explicit nod. named-never-explained.
+# CEREMONIAL — published with community approval, per M., 2026-08-13. Named, never explained.
 ---
 
 <div class="four-layer">

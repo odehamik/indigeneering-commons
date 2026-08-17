@@ -1,8 +1,7 @@
 ---
 title: "63. The Creation, Origin of Death, and the Mystic Rite (Second Version)"
-draft: true
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
-# CEREMONIAL — held from publication pending Maya's explicit nod. named-never-explained.
+# CEREMONIAL — published with community approval, per M., 2026-08-13. Named, never explained.
 ---
 
 <div class="four-layer">
@@ -244,5 +243,7 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 <span class="l-gloss">geget ani-maajaa Naanabozho oshiimeyan=truly Naanabozho’s-younger-brother set-out; mii sa’ nandawaabandang bakaan=he-sought another (place); o’owidi zhaawanong inakakeyaa=off-this-way toward the-south; mii dash gii-oozhitood bakaan aki=and he-made another world.</span>
 
 *Section ends p558 (top 3 lines); the #64 header “THE MYSTIC RITE IS TESTED.” follows immediately — #63 ENDS here. No carrier closing: this is a told-about / narrative-bridge close into #64 (kin to #62’s narrator-close family — NOT binewi-jiid). “another world (bakaan aki) toward the south” — named, never explained. ⚑ Conversion flag(s) (light, → final pass): nandawaabandang, inakakeyaa — forms to confirm.*
+
+63. THE CREATION, ORIGIN OF DEATH, AND THE MYSTIC RITE. (Second Version.)
 
 </div>

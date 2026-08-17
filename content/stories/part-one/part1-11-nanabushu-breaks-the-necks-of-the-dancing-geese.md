@@ -317,4 +317,6 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-gloss">Mii dash gaa-ani-izhi-maajaad (and so he started off) ∙ ningoding igo ani-babimosed minawaa (by and by as he walked along) ∙ gaa-ani-izhi-nisawitiyendaank mitigoonsan (he waded through the bushes) ∙ gaawiin idash gwech miskwiwekozininiwan (but they were not quite so reddened) ∙ Wo’owisa oga-izhinikaadaanaawaa anishinaabeg ji-aani-akiwang (this the people shall name till the end of the world) ∙ bagwaj miskwaabimagoog da-izhinaawag (wild red willows shall they be called) ∙ gii-ikido (he said).</span>
 
+*1 For other versions see Nos. 20 and 48.*
+
 </div>

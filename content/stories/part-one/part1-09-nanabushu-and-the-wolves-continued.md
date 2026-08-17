@@ -141,4 +141,6 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Mii dash geget (and so it was, truly).</span>
 
+9. Nänabushu and the Wolves, Continued.
+
 </div>
