@@ -3,11 +3,11 @@ title: "24. The Woman who married a Beaver"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
+<div class="four-layer">
+
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
-
-<div class="four-layer">
 
 I‘KWÄ KĀWIDIGÄMĀT ĀMI‘KWẠN.
 
@@ -15,7 +15,9 @@ I‘KWÄ KĀWIDIGÄMĀT ĀMI‘KWẠN.
 
 THE WOMAN WHO MARRIED A BEAVER.
 
-<span class="l-src">***from Ojibwa Texts collected by William Jones (1919).***</span>
+<span class="l-eng">*Narrated by Penesi — Series 2 (Nos. 4–43), Fort William (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
+
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
 <span class="l-orig">(1) Ninguding päᵉjik uckinīgi‘kwē ki‘tcikī∙i∙gwi∙i∙cimūgubạn ma‘kadä‘kät. Wāsa’ ningudci pạbā∙i∙jā. Ninguding ininiwạn owâbạmān nībawinit, ogạnōnigōn: “Kāwīnîna kīdāwīdcīwisī ändāyān?”</span>
 
@@ -25,7 +27,7 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Ningoding (once on a time) bezhig oshkiniigikwe (a certain young woman) gichi-gii-giigwishimogoban (went into a long dream-fast; preterite -goban) makadeked (blackening her face). Waasa ningoji (far off somewhere) babaa-izhaa (she wandered about). Ningoding (in course of time) ininiwan owaabamaan (a man she beheld) niibawinid (who was standing), oganoonigoon (and by him was she addressed): “Gaawiin ina gidaa-wiijiiwisii (will you not come along with me) endaayaan (to where I live)?”</span>
 
-<span class="l-orig">(2) Mīdec ki∙ạ∙niwīdcīwād anicinābänk ujināguziwạn. A‘pī∙i∙dạc kā∙u∙di‘tạmowād ändānit ā‘pidci unicicinini ändāt ‘aᵍa’winini; ga‘kina kägō udaiyān ạgwiwin mīdcîm gayä. Ā‘pidci wânạtizi ‘aᵍa’winini. Mīdạc ägut: “Kāwīnîna kīdāwīdigämîsī? Mī umāⁿ kädạjipîmādiziyạnk,” udigōn.</span>
+<span class="l-orig">(2) Mīdec ki∙ạ∙niwīdcīwād anicinābänk ujināguziwạn. A‘pī∙i∙dạc kā∙u∙di‘tạmowād ändānit ā‘pidci unicicinini ändāt ‘aᵉa’winini; ga‘kina kägō udaiyān ạgwiwin mīdcîm gayä. Ā‘pidci wânạtizi ‘aᵉa’winini. Mīdạc ägut: “Kāwīnîna kīdāwīdigämîsī? Mī umāⁿ kädạjipîmādiziyạnk,” udigōn.</span>
 
 <span class="l-fiero">**Mii dash gii-ani-wiijiiwaad anishinaabeng ezhinaagoziwan. Apii idash gaa-oditamowaad endaanid aapiji onizhishinini endaad a’aw inini; gakina gegoo odayaan agwiwin miijim gaye. Aapiji waanadizi a’aw inini. Mii dash egod: “Gaawiin ina gidaa-wiidigemisii? Mii omaa ged-dazhi-bimaadiziyang,” odigoon.**</span>
 
@@ -33,7 +35,7 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Mii dash gii-ani-wiijiiwaad (whereupon she went along with him) anishinaabeng ezhinaagoziwan (who looked like a human being; comparative -ng). Apii idash gaa-oditamowaad (and when they reached) endaanid (where he dwelt) aapiji onizhishinini (very pretty was) endaad a’aw inini (the home of that man); gakina gegoo odayaan (every kind of thing he had) agwiwin miijim gaye (clothing and food). Aapiji waanadizi a’aw inini (very well provided for was that man). Mii dash egod (and this she was told): “Gaawiin ina gidaa-wiidigemisii (will you not marry me)? Mii omaa ged-dazhi-bimaadiziyang (here is where we shall spend our life),” odigoon (she was told).</span>
 
-<span class="l-orig">(3) ‘Aᵍa’widạc i‘kwä kī∙i∙‘kito: “Māgijā tākạckändamōg nōs nīnga.”  
+<span class="l-orig">(3) ‘Aᵉa’widạc i‘kwä kī∙i∙‘kito: “Māgijā tākạckändamōg nōs nīnga.”  
 “Kāwīn tagackändạzīwạg,” udigōn.</span>
 
 <span class="l-fiero">**A’aw idash ikwe gii-ikido: “Maagizhaa daa-gashkendamoog noos ninga.”  
@@ -45,7 +47,7 @@ THE WOMAN WHO MARRIED A BEAVER.
 <span class="l-gloss">A’aw idash ikwe gii-ikido (and the woman said): “Maagizhaa daa-gashkendamoog (perhaps they might be sad) noos ninga (my father, my mother).”  
 “Gaawiin da-gashkendanziiwag (they will not be sad),” odigoon (she was told).</span>
 
-<span class="l-orig">(4) Mīdạc käᵉgä‘t kā∙i∙jina‘kumāt mānūⁿ tcîwīdigämāt, mīgu iᵘ kiwạnänimāt unīkī∙i∙gōᵍ ‘aᵍa’wi‘kwä. A‘pidci wänicicink ạgwīwin ugīmīnigōn īni’ᵘ wâwīdigämigut. Mī∙i∙māⁿ kā‘tạjipîmādiziwāt päᵉjik zāga∙i∙gạn ayāniik. Kînwäjⁿ ugīwīdigämān īn’ᵘ ininiwạn.</span>
+<span class="l-orig">(4) Mīdạc käᵉgä‘t kā∙i∙jina‘kumāt mānūⁿ tcîwīdigämāt, mīgu iᵘ kiwạnänimāt unīkī∙i∙gōᵉ ‘aᵉa’wi‘kwä. A‘pidci wänicicink ạgwīwin ugīmīnigōn īni’ᵘ wâwīdigämigut. Mī∙i∙māⁿ kā‘tạjipîmādiziwāt päᵉjik zāga∙i∙gạn ayāniik. Kînwäjⁿ ugīwīdigämān īn’ᵘ ininiwạn.</span>
 
 <span class="l-fiero">**Mii dash geget gaa-izhi-nakomaad maanoo ji-wiidigemaad, mii go iw gii-wanenimaad oniigi’igoog a’aw ikwe. Aapiji wenizhishing agwiwin ogii-miinigoon iniw waa-wiidigemigod. Mii imaa gaa-dazhi-bimaadiziwaad bezhig zaaga’igan ayaanig. Ginwenzh ogii-wiidigemaan iniw ininiwan.**</span>
 
@@ -53,9 +55,9 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Mii dash geget gaa-izhi-nakomaad (thereupon in truth she consented to him) maanoo ji-wiidigemaad (freely/willingly to marry him; maanoo — the permissive pole; ruling record), mii go iw gii-wanenimaad (whereupon she lost the memory of) oniigi’igoog (her parents) a’aw ikwe (that woman). Aapiji wenizhishing agwiwin (very beautiful clothing) ogii-miinigoon (was she given by) iniw waa-wiidigemigod (the one to whom she was married). Mii imaa gaa-dazhi-bimaadiziwaad (it was there they passed their life) bezhig zaaga’igan ayaanig (where there was a certain lake). Ginwenzh ogii-wiidigemaan (a long while did she have as spouse) iniw ininiwan (that man).</span>
 
-<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: oniigi’igoo’ → oniigi’igoog. Per M., 2026.*</span>
+*Word-final ’ resolved per M.’s obviative-number ruling: oniigi’igoo’ → oniigi’igoog. Per M., 2026.*
 
-<span class="l-orig">(5) A‘pī weyābạmāwāt ạbinōdcīyạn, kīnīwiwạn. Kāwī‘kā kägōn ugīmạnäsisīn ‘aᵍa’wi‘kwä. Ka‘kina ändạswäwạnạgizinit kīⁿgōⁿyan ūnisān ‘aᵍa’ᵘ inini; ānind gaya awäsīⁿyänsạn ūnisān; kistcinībawa umīdcimimiwā a‘täni. Ạgwạdcīng ändāwāt misạn gayä.</span>
+<span class="l-orig">(5) A‘pī weyābạmāwāt ạbinōdcīyạn, kīnīwiwạn. Kāwī‘kā kägōn ugīmạnäsisīn ‘aᵉa’wi‘kwä. Ka‘kina ändạswäwạnạgizinit kīⁿgōⁿyan ūnisān ‘aᵉa’ᵘ inini; ānind gaya awäsīⁿyänsạn ūnisān; kistcinībawa umīdcimimiwā a‘täni. Ạgwạdcīng ändāwāt misạn gayä.</span>
 
 <span class="l-fiero">**Apii weyaabamaawaad abinoojiiyan, gii-niiwiwan. Gaawiikaa gegoon ogii-manezisiin a’aw ikwe. Gakina endaswewanagizinid giigoonyan onisaan a’aw inini; aanind gaye awesiinyensan onisaan; gichi-niibiwa omiijimimiwaa ateni. Agwajiing endaawaad misan gaye.**</span>
 
@@ -63,9 +65,9 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Apii weyaabamaawaad abinoojiiyan (when they beheld their young), gii-niiwiwan (four was their number). Gaawiikaa gegoon (never of anything) ogii-manezisiin (was she in want) a’aw ikwe (that woman). Gakina endaswewanagizinid giigoonyan (of every kind of fish there was) onisaan a’aw inini (did the man kill); aanind gaye awesiinyensan (besides, some small animal-kind) onisaan (he slew); gichi-niibiwa omiijimimiwaa ateni (of great abundance was their food). Agwajiing endaawaad (outside of where they dwelt) misan gaye (firewood also).</span>
 
-<span class="l-eng">*¹ “To see or behold young” is an idiom for “to be parents” or “to have young.” — Jones, spread 252/253: the note prints at the foot of p. 252; the marker prints in both layers.*</span>
+*¹ “To see or behold young” is an idiom for “to be parents” or “to have young.” — Jones, spread 252/253: the note prints at the foot of p. 252; the marker prints in both layers.*
 
-<span class="l-orig">(6) Wīnidạc ‘aᵍa’ᵘ i‘kwä mōⁿjạg udōci‘tōnạn ạnā‘kạnạn maskîmudạn gayä; ā‘pidci minwa‘täni pīndig ändāwāt. Nānīngutînū anicinābän udūtîsigowān; mīyä‘tagu ạgwạdcīng pabāmusänit īni’wanicinābän; kāwīn pīndigäsī ‘aᵍa’wạnicinābä. ‘Aᵍa’widac i‘kwä ogīki‘känimān īni’ᵘ ami‘kwạn kāwīdigämāt.</span>
+<span class="l-orig">(6) Wīnidạc ‘aᵉa’ᵘ i‘kwä mōⁿjạg udōci‘tōnạn ạnā‘kạnạn maskîmudạn gayä; ā‘pidci minwa‘täni pīndig ändāwāt. Nānīngutînū anicinābän udūtîsigowān; mīyä‘tagu ạgwạdcīng pabāmusänit īni’wanicinābän; kāwīn pīndigäsī ‘aᵉa’wạnicinābä. ‘Aᵉa’widac i‘kwä ogīki‘känimān īni’ᵘ ami‘kwạn kāwīdigämāt.</span>
 
 <span class="l-fiero">**Wiin idash a’aw ikwe moonzhag odoozhitoonan anaakanan mashkimodan gaye; aapiji minwateni biindig endaawaad. Naaningodinoo anishinaaben odoodisigowaan; mii eta go agwajiing babaamosenid iniw anishinaaben; gaawiin biindigesii a’aw anishinaabe. A’aw idash ikwe ogii-gikenimaan iniw amikwan gaa-wiidigemaad.**</span>
 
@@ -81,7 +83,7 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Naaningodinoo (from time to time) anishinaaben bi-odisigowaad (with the person that had come to them) odani-giiwe-wiijiiwaawaan (back home would go along with him) igiw abinoojiiyag (those children); naaningodinoo gaye (frequently too) aw inini (the man) odani-giiwe-wiijiiwaan (would return home along with) iniw anishinaaben (the person). Miinawaa dash iko neyaab dagwishinoog (and back home would they always arrive again). Anooj gegoon obiidoonaawaa (all sorts of things they fetch) — akikoo-onaaganan gaye (kettles and bowls), mookomaanan (knives), asemaan (tobacco), minik igo gegoon ayaabajitoong (and all the things that are used) amik emwindin (when a beaver is eaten); mii aw iniw baadoowaad (such was what they brought; liaison print, flagged).</span>
 
-<span class="l-eng">*² Referring to the objects given as offerings to the souls of the slain beavers. — Jones, spread 252/253: the note prints at the foot of p. 253; the marker prints in both layers.*</span>
+*² Referring to the objects given as offerings to the souls of the slain beavers. — Jones, spread 252/253: the note prints at the foot of p. 253; the marker prints in both layers.*
 
 <span class="l-orig">(8) Äckạm kistciwânạdiziwạg. Kistcinībiwa unīdcānisiwān ogīwâbạmâwān; tasingidạc änisīgwạngin mī∙i∙wa‘pī mādcānit unīdcānisiwā nänījiwạn, päᵉjik īnini päᵉjik gayä i‘kwä. Mīdạc änāwāt: “Ningutci awigạbäciyu‘k. Nibiwa ni‘tāwigi∙i∙gu‘k kinīdcānisiwāg äckạm tcîbā‘ta∙ī∙nowāt ami‘kwạg.”</span>
 
@@ -107,7 +109,7 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Ayaa-apii (now and then) anishinaaben odoodisigowaan (by a person were they visited); aanawi izhaawag (then they would go) anishinaaben endaanid (to where the person dwelt; printed änānit — dropped-d suspect) mii iw amikwan gii-nisaawaad anishinaabeg (whereupon the people would slay the beavers), gaawiin geget onisaasiwaawaan (yet they really did not kill them); neyaab igo bi-giiwewag (but back home would they come again).</span>
 
-<span class="l-orig">(11) ‘Aᵍa’widạc i‘kwä kāwī‘kā kī∙i∙jāsī ạnicinābän ändānit; ugīki‘kino∙ạ∙māgōn unābämạn. Mī∙i∙wa‘pī kīkistcimānäwāgubạnän āmi‘kwạg, īgi’widạc ami‘kwạg ā‘pidci ugīsāgi∙ā∙wān anicinābän; mīgu tibickō anicinābäk kīwâbạndiwād mī∙i∙’ᵘ kā∙i∙nändạmowād anicinābän.</span>
+<span class="l-orig">(11) ‘Aᵉa’widạc i‘kwä kāwī‘kā kī∙i∙jāsī ạnicinābän ändānit; ugīki‘kino∙ạ∙māgōn unābämạn. Mī∙i∙wa‘pī kīkistcimānäwāgubạnän āmi‘kwạg, īgi’widạc ami‘kwạg ā‘pidci ugīsāgi∙ā∙wān anicinābän; mīgu tibickō anicinābäk kīwâbạndiwād mī∙i∙’ᵘ kā∙i∙nändạmowād anicinābän.</span>
 
 <span class="l-fiero">**A’aw idash ikwe gaawiikaa gii-izhaasii anishinaaben endaanid; ogii-gikino’amaagoon onaabeman. Mii iw apii gii-gichi-maanewaagobanen amikwag, igiw idash amikwag aapiji ogii-saagi’aawaan anishinaaben; mii go dibishkoo anishinaabeg gii-waabandiwaad mii iw gaa-inendamowaad anishinaaben.**</span>
 
@@ -123,7 +125,7 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Aano-nisigowaad (even though they were slain by them), gaawiin geget nibosiiwag (yet they really were not dead). Aapiji ogii-saagi’aawaan (they were very fond of) asemaan (the tobacco) miinigowaad anishinaaben (that they were given by the people); naaningodinoo gaye (at times also) agwiwin omiinigowaan (clothing were they given by) anishinaaben (the people).</span>
 
-<span class="l-orig">(13) A‘pī∙i∙dac äniki‘kāwāt ugīkạnōnigōn uwīdigämāgạnạn ‘aᵍa’ᵘ i‘kwä: “Ānīc, mīsa cigwa indawā tcîgīwäyạn. Kayä nīn ningamādcā ningudci pa‘kān a‘kīng. Mī∙o∙māⁿ ayān ändaiyān. Pānimā ninguding anicinābäᵉg tagwicinowāt kidāgạnōnāg.”</span>
+<span class="l-orig">(13) A‘pī∙i∙dac äniki‘kāwāt ugīkạnōnigōn uwīdigämāgạnạn ‘aᵉa’ᵘ i‘kwä: “Ānīc, mīsa cigwa indawā tcîgīwäyạn. Kayä nīn ningamādcā ningudci pa‘kān a‘kīng. Mī∙o∙māⁿ ayān ändaiyān. Pānimā ninguding anicinābäᵉg tagwicinowāt kidāgạnōnāg.”</span>
 
 <span class="l-fiero">**Apii idash eni-gikaawaad ogii-ganoonigoon owiidigemaaganan a’aw ikwe: “Aanish, mii sa zhigwa indawaa ji-giiweyan. Gaye niin ninga-maajaa ningoji bakaan akiing. Mii omaa ayaan endaayaan. Baanimaa ningoding anishinaabeg dagwishinowaad gidaa-ganoonaag.”**</span>
 
@@ -131,39 +133,39 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Apii idash eni-gikaawaad (and as they were growing old) ogii-ganoonigoon (she was addressed by) owiidigemaaganan (her husband) a’aw ikwe (the woman): “Aanish, mii sa zhigwa indawaa (well, it is now time therefore) ji-giiweyan (for you to go back home). Gaye niin ninga-maajaa (I too am going away) ningoji bakaan akiing (to some other land). Mii omaa ayaan (but remain here) endaayaan (in my house). Baanimaa ningoding (eventually, as time goes on) anishinaabeg dagwishinowaad (when people arrive) gidaa-ganoonaag (you should speak to them).”</span>
 
-<span class="l-orig">(14) Awidạc i‘kwä pạnägu käyābi kī∙ạ∙no‘kī micipi‘kät. Ā‘pidci minwa‘täni ändāt. Ningudingidạc käᵉgä‘t ạnicinābän pitạgwicinōn; ugīdcaiya∙ī∙ wīcing kīwạnạbinit īni’ᵘ ạnicinābän. Mīdạc nōndạnk awiya mạdwäbōdcigänit imāⁿ nạma∙a∙ī∙ wīcink, mạdwä∙i∙gäwạn. ‘Aᵍa‘wi‘kwä päᵉjik mici kā∙u∙dā‘pinạnk, mạmạdwä∙i∙gä tcîgi‘känimigut īni’ᵘ ạnicinābän. ‘Aᵍa’widạc ugidcaiya∙ī∙ nämạdạbit ugi‘känimān awiya ayānit imāⁿ pīndcaiya∙ī∙ wīcing. Mēdạc äjigīgitot: “Awänän gīn?”</span>
+<span class="l-orig">(14) Awidạc i‘kwä pạnägu käyābi kī∙ạ∙no‘kī micipi‘kät. Ā‘pidci minwa‘täni ändāt. Ningudingidạc käᵉgä‘t ạnicinābän pitạgwicinōn; ugīdcaiya∙ī∙ wīcing kīwạnạbinit īni’ᵘ ạnicinābän. Mīdạc nōndạnk awiya mạdwäbōdcigänit imāⁿ nạma∙a∙ī∙ wīcink, mạdwä∙i∙gäwạn. ‘Aᵉa‘wi‘kwä päᵉjik mici kā∙u∙dā‘pinạnk, mạmạdwä∙i∙gä tcîgi‘känimigut īni’ᵘ ạnicinābän. ‘Aᵉa’widạc ugidcaiya∙ī∙ nämạdạbit ugi‘känimān awiya ayānit imāⁿ pīndcaiya∙ī∙ wīcing. Mēdạc äjigīgitot: “Awänän gīn?”</span>
 
-<span class="l-fiero">**Aw idash ikwe apane go geyaabi gii-anokii micipi‘kät \[FLAG 24-H1\]. Aapiji minwateni endaad. Ningoding idash geget anishinaaben bi-dagwishinoon; ogijaya’ii wiishing gii-onabinid iniw anishinaaben. Mii dash noondang awiya madwe-boojigenid imaa nama’ayi’ii wiishing, madwe’igewan. A’aw ikwe bezhig mishi gaa-odaapinang, mamadwe’ige ji-gikenimigod iniw anishinaaben. A’aw idash ogijaya’ii nemadabid ogikenimaan awiya ayaanid imaa biinjaya’ii wiishing. Mii dash ezhi-giigidod: “Awenen giin?”**</span>
+<span class="l-fiero">**Aw idash ikwe apane go geyaabi gii-anokii micipi‘kät [FLAG 24-H1]. Aapiji minwateni endaad. Ningoding idash geget anishinaaben bi-dagwishinoon; ogijaya’ii wiishing gii-onabinid iniw anishinaaben. Mii dash noondang awiya madwe-boojigenid imaa nama’ayi’ii wiishing, madwe’igewan. A’aw ikwe bezhig mishi gaa-odaapinang, mamadwe’ige ji-gikenimigod iniw anishinaaben. A’aw idash ogijaya’ii nemadabid ogikenimaan awiya ayaanid imaa biinjaya’ii wiishing. Mii dash ezhi-giigidod: “Awenen giin?”**</span>
 
 <span class="l-eng">*And the woman all the while continued at her work, making twine. In very beautiful order was her home. Now, once, sure enough, (she saw) a man arriving there; on top of the beaver dwelling the man sat down. Thereupon he heard the sound of some creature sawing in the beaver-lodge beneath, the sound of some one pounding. When the woman picked up a piece of wood, she made a tapping-noise, so that her presence might be found out by the man. And he that was seated out on top learned that some creature was down inside of the beaver-lodge. And so up he spoke, saying: “Who (are) you?”*</span>
 
 <span class="l-gloss">Aw idash ikwe (and the woman) apane go geyaabi gii-anokii (all the while continued at her work) micipi‘kät (making twine; word flagged — unconverted, 24-H1). Aapiji minwateni endaad (in very beautiful order was her home). Ningoding idash geget (now once, sure enough) anishinaaben bi-dagwishinoon (a person arrived there); ogijaya’ii wiishing (on top of the beaver lodge) gii-onabinid iniw anishinaaben (that person sat down). Mii dash noondang (thereupon he heard) awiya madwe-boojigenid (the sound of someone sawing) imaa nama’ayi’ii wiishing (beneath the lodge there), madwe’igewan (the sound of pounding). A’aw ikwe (the woman,) bezhig mishi gaa-odaapinang (picking up a piece of wood), mamadwe’ige (made a tapping-noise) ji-gikenimigod (so that her presence be known by) iniw anishinaaben (the man). A’aw idash ogijaya’ii nemadabid (and he seated out on top) ogikenimaan (learned of) awiya ayaanid (someone being) imaa biinjaya’ii wiishing (inside the lodge there). Mii dash ezhi-giigidod (and so he spoke): “Awenen giin (who are you)?”</span>
 
-<span class="l-orig">(15) “Nīn,” pimạdwä∙i∙‘kido ‘aᵍa’ᵘ i‘kwä. “Tạga, pagwunä∙ạ∙n uᵍu wīc\! Nīwīsāga∙ạ∙m,” mạdwä∙i∙‘kido.</span>
+<span class="l-orig">(15) “Nīn,” pimạdwä∙i∙‘kido ‘aᵉa’ᵘ i‘kwä. “Tạga, pagwunä∙ạ∙n uᵉu wīc! Nīwīsāga∙ạ∙m,” mạdwä∙i∙‘kido.</span>
 
-<span class="l-fiero">**“Niin,” bi-madwe-ikido a’aw ikwe. “Daga, bagone’an o’o wiish\! Niwii-zaaga’am,” madwe-ikido.**</span>
+<span class="l-fiero">**“Niin,” bi-madwe-ikido a’aw ikwe. “Daga, bagone’an o’o wiish! Niwii-zaaga’am,” madwe-ikido.**</span>
 
-<span class="l-eng">*“(It is) I,” came the voice of the woman speaking. “Come, do you force an opening into this beaver-dwelling\! I wish to get out,” was the sound of her voice as she spoke.*</span>
+<span class="l-eng">*“(It is) I,” came the voice of the woman speaking. “Come, do you force an opening into this beaver-dwelling! I wish to get out,” was the sound of her voice as she spoke.*</span>
 
-<span class="l-gloss">“Niin (it is I),” bi-madwe-ikido (came the voice of) a’aw ikwe (the woman speaking). “Daga (come), bagone’an o’o wiish (force an opening into this beaver-dwelling)\! Niwii-zaaga’am (I wish to get out),” madwe-ikido (was the sound of her voice).</span>
+<span class="l-gloss">“Niin (it is I),” bi-madwe-ikido (came the voice of) a’aw ikwe (the woman speaking). “Daga (come), bagone’an o’o wiish (force an opening into this beaver-dwelling)! Niwii-zaaga’am (I wish to get out),” madwe-ikido (was the sound of her voice).</span>
 
-<span class="l-orig">(16) ‘Aᵍa’widạc ạnicinābä ugīkusān. “Māgicā mạnidō,” kī∙i∙nändạm. Wäwänidạc ogīmạdwäwīndạmāgōn: “Mäⁿwija ami‘kwạg ningī∙o∙dā‘pinigobạnīg. Kayä nīn nindạnicinābäwinābạn. Mānū pạgunä∙ạ∙n ‘uᵍuwä wīc\!”</span>
+<span class="l-orig">(16) ‘Aᵉa’widạc ạnicinābä ugīkusān. “Māgicā mạnidō,” kī∙i∙nändạm. Wäwänidạc ogīmạdwäwīndạmāgōn: “Mäⁿwija ami‘kwạg ningī∙o∙dā‘pinigobạnīg. Kayä nīn nindạnicinābäwinābạn. Mānū pạgunä∙ạ∙n ‘uᵉuwä wīc!”</span>
 
-<span class="l-fiero">**A’aw idash anishinaabe ogii-gosaan. “Maagizhaa manidoo,” gii-inendam. Weweni dash ogii-madwe-wiindamaagoon: “Mewizha amikwag ningii-odaapinigobaniig. Gaye niin nindanishinaabewinaaban. Maanoo bagone’an o’owe wiish\!”**</span>
+<span class="l-fiero">**A’aw idash anishinaabe ogii-gosaan. “Maagizhaa manidoo,” gii-inendam. Weweni dash ogii-madwe-wiindamaagoon: “Mewizha amikwag ningii-odaapinigobaniig. Gaye niin nindanishinaabewinaaban. Maanoo bagone’an o’owe wiish!”**</span>
 
-<span class="l-eng">*Now, the man was afraid of her. “It might be a manitou,” he thought. Then plainly he heard the sound of her voice saying to him: “Long ago was I taken by the beavers. I too was once a human being. Please do break into this beaver-dwelling\!”*</span>
+<span class="l-eng">*Now, the man was afraid of her. “It might be a manitou,” he thought. Then plainly he heard the sound of her voice saying to him: “Long ago was I taken by the beavers. I too was once a human being. Please do break into this beaver-dwelling!”*</span>
 
-<span class="l-gloss">A’aw idash anishinaabe (now, the man) ogii-gosaan (was afraid of her). “Maagizhaa manidoo (it might be a manidoo),” gii-inendam (he thought). Weweni dash (then plainly) ogii-madwe-wiindamaagoon (he heard her voice telling him): “Mewizha amikwag (long ago by the beavers) ningii-odaapinigobaniig (was I taken; preterite inverse plural). Gaye niin nindanishinaabewinaaban (I too was once a human being; -naaban first-person preterite). Maanoo bagone’an (please do break open) o’owe wiish (this beaver-dwelling)\!”</span>
+<span class="l-gloss">A’aw idash anishinaabe (now, the man) ogii-gosaan (was afraid of her). “Maagizhaa manidoo (it might be a manidoo),” gii-inendam (he thought). Weweni dash (then plainly) ogii-madwe-wiindamaagoon (he heard her voice telling him): “Mewizha amikwag (long ago by the beavers) ningii-odaapinigobaniig (was I taken; preterite inverse plural). Gaye niin nindanishinaabewinaaban (I too was once a human being; -naaban first-person preterite). Maanoo bagone’an (please do break open) o’owe wiish (this beaver-dwelling)!”</span>
 
-<span class="l-orig">(17) Mīdạc käᵉgä‘t indawā äjipạgunä∙ạ∙nk i∙i∙wä ami‘k wīgiwâm. A‘pī∙i∙dạc pägunä∙ạ∙nk, “Wäwäni kīgapi‘tạgạnām\!” A‘pī∙i∙dac änipạgunä∙ạ∙nk, kī‘pīndcini‘käni ‘aᵍa’ᵘ ạnicinābä; mī∙i∙dạc mi‘kōdcīnād käᵉgä‘t ạnicinābäwinit; miziwä ugīgạgwädinān,—ustigwâning; u‘tawagạn gayä nībiwa nābijäbisonạn umi‘kunānạn.</span>
+<span class="l-orig">(17) Mīdạc käᵉgä‘t indawā äjipạgunä∙ạ∙nk i∙i∙wä ami‘k wīgiwâm. A‘pī∙i∙dạc pägunä∙ạ∙nk, “Wäwäni kīgapi‘tạgạnām!” A‘pī∙i∙dac änipạgunä∙ạ∙nk, kī‘pīndcini‘käni ‘aᵉa’ᵘ ạnicinābä; mī∙i∙dạc mi‘kōdcīnād käᵉgä‘t ạnicinābäwinit; miziwä ugīgạgwädinān,—ustigwâning; u‘tawagạn gayä nībiwa nābijäbisonạn umi‘kunānạn.</span>
 
-<span class="l-fiero">**Mii dash geget indawaa ezhi-bagone’ang i’iwe amik wiigiwaam. Apii idash begone’ang, “Weweni giga-bitaganaam\!” Apii idash eni-bagone’ang, gii-biinjinikeni a’aw anishinaabe; mii idash mikoojiinaad geget anishinaabewinid; miziwe ogii-gagwedinaan, — oshtigwaaning; otawagan gaye niibiwa naabizhebizonan omikonaanan.**</span>
+<span class="l-fiero">**Mii dash geget indawaa ezhi-bagone’ang i’iwe amik wiigiwaam. Apii idash begone’ang, “Weweni giga-bitaganaam!” Apii idash eni-bagone’ang, gii-biinjinikeni a’aw anishinaabe; mii idash mikoojiinaad geget anishinaabewinid; miziwe ogii-gagwedinaan, — oshtigwaaning; otawagan gaye niibiwa naabizhebizonan omikonaanan.**</span>
 
-<span class="l-eng">*Thereupon truly then did he break into that beaver-wigwam. And when he was making the hole into it, “Be careful lest you hit me\!” (she said). And when he was breaking an opening, in the man reached his hand; whereupon he found by the feel of her that she was a human being; all over did he try feeling her, — on her head; and her ears, having on numerous ear-rings, he felt.*</span>
+<span class="l-eng">*Thereupon truly then did he break into that beaver-wigwam. And when he was making the hole into it, “Be careful lest you hit me!” (she said). And when he was breaking an opening, in the man reached his hand; whereupon he found by the feel of her that she was a human being; all over did he try feeling her, — on her head; and her ears, having on numerous ear-rings, he felt.*</span>
 
-<span class="l-gloss">Mii dash geget indawaa (thereupon truly then) ezhi-bagone’ang (did he break into) i’iwe amik wiigiwaam (that beaver-wigwam). Apii idash begone’ang (and while he was making the hole), “Weweni giga-bitaganaam (be careful — you might strike me by accident)\!” Apii idash eni-bagone’ang (and as he was breaking the opening), gii-biinjinikeni (in reached his arm) a’aw anishinaabe (the man); mii idash mikoojiinaad (whereupon he found her by touch,) geget anishinaabewinid (that she was indeed a human being); miziwe ogii-gagwedinaan (all over did he try feeling her), — oshtigwaaning (on her head); otawagan gaye (and her ears,) niibiwa naabizhebizonan (with numerous ear-rings on,) omikonaanan (he felt them).</span>
+<span class="l-gloss">Mii dash geget indawaa (thereupon truly then) ezhi-bagone’ang (did he break into) i’iwe amik wiigiwaam (that beaver-wigwam). Apii idash begone’ang (and while he was making the hole), “Weweni giga-bitaganaam (be careful — you might strike me by accident)!” Apii idash eni-bagone’ang (and as he was breaking the opening), gii-biinjinikeni (in reached his arm) a’aw anishinaabe (the man); mii idash mikoojiinaad (whereupon he found her by touch,) geget anishinaabewinid (that she was indeed a human being); miziwe ogii-gagwedinaan (all over did he try feeling her), — oshtigwaaning (on her head); otawagan gaye (and her ears,) niibiwa naabizhebizonan (with numerous ear-rings on,) omikonaanan (he felt them).</span>
 
-<span class="l-orig">(18) Ā‘pī∙i∙dac kāmạngi pạgunä∙ạ∙nk ī∙i∙’ᵘ wīc, kī‘pizāga∙ạ∙m ‘aᵍa’ᵘ i‘kwä; ā‘pidci wâbickāni ustigwān. Ga‘kina gayä wänicicink mạnidōwägin udōgōdāsin; miziwä manidōminäsaᵍ agwa∙i∙gāsowạn u‘kunāsink; uma‘kizinạn gzyä ā‘pidci unicicininiwạn; utitibinindcipizonạn gayä ugīgickānạn; ā‘pidci mino‘kwanaiyä.</span>
+<span class="l-orig">(18) Ā‘pī∙i∙dac kāmạngi pạgunä∙ạ∙nk ī∙i∙’ᵘ wīc, kī‘pizāga∙ạ∙m ‘aᵉa’ᵘ i‘kwä; ā‘pidci wâbickāni ustigwān. Ga‘kina gayä wänicicink mạnidōwägin udōgōdāsin; miziwä manidōminäsaᵉ agwa∙i∙gāsowạn u‘kunāsink; uma‘kizinạn gzyä ā‘pidci unicicininiwạn; utitibinindcipizonạn gayä ugīgickānạn; ā‘pidci mino‘kwanaiyä.</span>
 
 <span class="l-fiero">**Apii idash gaa-mangi-bagone’ang i’iw wiish, gii-bi-zaaga’am a’aw ikwe; aapiji waabishkaani oshtigwaan. Gakina gaye wenizhishing manidoowegin odoogoodaasin; miziwe manidoominensag agwa’igaazowan okonaasing; omakizinan gaye aapiji onizhishininiwan; odidibininjiibizonan gaye ogii-gigishkaanan; aapiji mino-kwanaye.**</span>
 
@@ -171,7 +173,7 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Apii idash gaa-mangi-bagone’ang (and when he had forced a wide opening into) i’iw wiish (that lodge), gii-bi-zaaga’am (out came) a’aw ikwe (the woman); aapiji waabishkaani oshtigwaan (very white was her head). Gakina gaye wenizhishing (and beautiful was the whole) manidoowegin (manidoo-cloth, the mystic cloth) odoogoodaasin (that she had for a skirt); miziwe manidoominensag (all over, beads; lit. little manidoo-berries) agwa’igaazowan (were sewn on) okonaasing (her cloak); omakizinan gaye (and her moccasins) aapiji onizhishininiwan (were very pretty); odidibininjiibizonan gaye (and her coiled ornaments; lit. coiled-on-the-hand; Jones: ear-rings) ogii-gigishkaanan (she had on); aapiji mino-kwanaye (she was very handsomely arrayed).</span>
 
-<span class="l-orig">(19) Mī∙i∙dec wäwäni kitibātcimut kā∙i∙jiwäbisit mägwā kīwīdcīwāt īni’ᵘ ami‘kwạn. Kāwī‘kā ugī∙ạ∙mwāsīn. Käyābi kînwäⁿj kīpîmādisi ‘aᵍa’ᵘ i‘kwä. Käyābi pîmādizībạnīn päᵉjik ucīmäⁿyạn; mīwạniniᵘ kā‘kanawänimigut.</span>
+<span class="l-orig">(19) Mī∙i∙dec wäwäni kitibātcimut kā∙i∙jiwäbisit mägwā kīwīdcīwāt īni’ᵘ ami‘kwạn. Kāwī‘kā ugī∙ạ∙mwāsīn. Käyābi kînwäⁿj kīpîmādisi ‘aᵉa’ᵘ i‘kwä. Käyābi pîmādizībạnīn päᵉjik ucīmäⁿyạn; mīwạniniᵘ kā‘kanawänimigut.</span>
 
 <span class="l-fiero">**Mii idash weweni gii-dibaajimod gaa-izhiwebizid megwaa gii-wiijiiwaad iniw amikwan. Gaawiikaa ogii-amwaasiin. Geyaabi ginwenzh gii-bimaadizi a’aw ikwe. Geyaabi bimaadizibaniin bezhig oshiimenyan; mii aw iniw gaa-ganawenimigod.**</span>
 
@@ -179,13 +181,13 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-gloss">Mii idash weweni gii-dibaajimod (thereupon she plainly told the story of) gaa-izhiwebizid (what had happened to her) megwaa gii-wiijiiwaad iniw amikwan (while she lived with the beavers). Gaawiikaa ogii-amwaasiin (she never ate one). Geyaabi ginwenzh gii-bimaadizi (a long while afterwards lived) a’aw ikwe (the woman). Geyaabi bimaadizibaniin (there still lived after her; preterite -ban + obviative) bezhig oshiimenyan (one of her younger sisters); mii aw iniw gaa-ganawenimigod (it was she who used to take care of her; liaison print, flagged with 23-H1).</span>
 
-<span class="l-orig">(20) Kayädạc mōⁿjag kī‘tibādcîmu: “Kägu wī‘kā mạdci∙i∙nā‘kägun ami‘k\! Kīcpîn mạdci∙i∙näk kāwīn kiganisāsiwāwā.”</span>
+<span class="l-orig">(20) Kayädạc mōⁿjag kī‘tibādcîmu: “Kägu wī‘kā mạdci∙i∙nā‘kägun ami‘k! Kīcpîn mạdci∙i∙näk kāwīn kiganisāsiwāwā.”</span>
 
-<span class="l-fiero">**Gaye dash moonzhag gii-dibaajimo: “Gego wiikaa maji-inaakegon amik\! Giishpin maji-inek gaawiin giga-nisaasiwaawaa.”**</span>
+<span class="l-fiero">**Gaye dash moonzhag gii-dibaajimo: “Gego wiikaa maji-inaakegon amik! Giishpin maji-inek gaawiin giga-nisaasiwaawaa.”**</span>
 
-<span class="l-eng">*And she was wont to say: “Never speak you ill of a beaver\! Should you speak ill of (a beaver), you will not (be able to) kill one.”*</span>
+<span class="l-eng">*And she was wont to say: “Never speak you ill of a beaver! Should you speak ill of (a beaver), you will not (be able to) kill one.”*</span>
 
-<span class="l-gloss">Gaye dash moonzhag gii-dibaajimo (and she was wont to relate): “Gego wiikaa maji-inaakegon amik (never speak ye ill of a beaver)\! Giishpin maji-inek (should you speak ill of one) gaawiin giga-nisaasiwaawaa (you will not be able to kill one).”</span>
+<span class="l-gloss">Gaye dash moonzhag gii-dibaajimo (and she was wont to relate): “Gego wiikaa maji-inaakegon amik (never speak ye ill of a beaver)! Giishpin maji-inek (should you speak ill of one) gaawiin giga-nisaasiwaawaa (you will not be able to kill one).”</span>
 
 <span class="l-orig">(21) Mī∙i∙’ᵘ mōⁿjạg kā∙i∙jitcigäwād ạnicinābäᵉg; kāwīn wī‘kā omạdci∙i∙nāsiwâwān ami‘kwạn, mämindagä a‘pī wīnōdci∙ā∙wād. Mīgu∙i∙’ᵘ käᵉgä‘t äjiki‘kändạmuwād anicinābäᵉg. Kīcpîn awiya uzām mānänimāt, mạdcī∙i∙nāt ami‘kwạn, kāwīn gạnạgä unisāsīn. Tîbickūgu awiya cīngänimint, mī∙i∙’ᵘ änänimut ‘aᵘ ạmi‘k. Awīyadec wī‘kā mạdcī∙i∙nāsig ami‘kwạn, ā‘pidci uzāgi∙i∙gōn; tîbickū anicinābäᵉg nānīngutînū äjisāgi∙i∙tiwād mī∙i∙’ᵘ änänimigut īni’ᵘ āmi‘kwạn; mämindagä uni‘tānîsān ami‘kwạn.</span>
 

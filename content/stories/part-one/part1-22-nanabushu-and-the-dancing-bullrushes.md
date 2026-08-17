@@ -9,185 +9,247 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-*Fiero restoration by the Ojibwe Project / Baadwewdangig — Alan Corbiere, with Dr. Alana Johns & U-Toronto LIN458 (ojibweproject.weebly.com). Four-layer gloss added by the Jones Corpus project, 2026-06-14 — Corbiere’s Fiero and Jones’s 1919 English preserved unchanged; gloss line added.*
+22\. NÄNABUSHU AND THE DANCING BULLRUSHES.¹
 
-(22) Nanabushu and the Dancing Bullrushes
+Nanabushu and the Dancing Bullrushes (2)
+
+<span class="l-eng">*Narrated by probably Midāsugaⁿj (Michelson’s own hedge, carried) — Series 2 (Nos. 19–32), Bois Fort (per Michelson’s roster, Part I Preface p. XX; not credited on the story page itself).*</span>
+
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1917).***</span>
+
+<span class="l-orig">(1) Ningutingigu papimusät awiya ōnōntawā sāsā‘kwänit.</span>
+
+<span class="l-fiero">**Ningoding igo babimosed awiya onoondawaa zaasaakwenid.**</span>
+
+<span class="l-eng">*And once, while travelling about, he heard the sound of some one whooping.*</span>
 
 <span class="l-gloss">Ningoding igo (and once) babimosed (as he was travelling about) awiya onoondawaa (he heard someone) zaasaakwenid (whooping).</span>
 
-1)  > **Ningoding igo babimosed awiya onoondawaa zaasaakwenid.**
+<span class="l-orig">(2) Wägunänīwinän unāsi‘tawa.</span>
 
-> And once, while travelling about, he heard the sound of some one whooping.
+<span class="l-fiero">**Wegoneniiwinen onaazitawaa.**</span>
 
-<span class="l-gloss">Wegoneniiwinen (foolishly / like a dunce — \*flagged\*) onaazitawaa (he went toward the sound of him).</span>
+<span class="l-eng">*Like a dunce he went to where he heard the sound.*</span>
 
-2)  > **Wegoneniiwinen onaazitawaa.**
+<span class="l-gloss">Wegoneniiwinen (foolishly / like a dunce — *flagged*) onaazitawaa (he went toward the sound of him).</span>
 
-> Like a dunce he went to where he heard the sound.
+<span class="l-orig">(3) Kuniginīn, sāga∙i∙gāns sāgitawānig ᵉii sībīns, mī∙i∙mā ayānit ᵉi∙i∙wä ininiwaᵉ, picicig ᵉi∙i∙ᵘ ininiwaᵉ.</span>
 
-<span class="l-gloss">Goniginiin (lo\!), zaaga’igaans (a little pond) zaagidawaanig i’iw ziibiins (where the brook flowed out into it), mii imaa ayaanid (that was where they were) i’iwe ininiwa’ (those men), bizhishig i’iw ininiwa’ (nothing but men, a throng of men).</span>
+<span class="l-fiero">**Goniginiin, zaaga’igaans zaagidawaanig i’iw ziibiins, mii imaa ayaanid i’iwe ininiwa’, bizhishig i’iw ininiwa’.**</span>
 
-3)  > **Goniginiin, zaaga’igaans zaagidawaanig i’iw ziibiins, mii imaa ayaanid i’iwe ininiwa’, bizhishig i’iw ininiwa’.**
+<span class="l-eng">*Lo, where out into a pond flowed a brook was the place where those men were, a vast throng of men.*</span>
 
-> Lo, where out into a pond flowed a brook was the place where those men were, a vast throng of men.
+<span class="l-gloss">Goniginiin (lo!), zaaga’igaans (a little pond) zaagidawaanig i’iw ziibiins (where the brook flowed out into it), mii imaa ayaanid (that was where they were) i’iwe ininiwa’ (those men), bizhishig i’iw ininiwa’ (nothing but men, a throng of men).</span>
 
-<span class="l-gloss">Gakina bingwaashaagidiwa (they were all nude), gaye dash ezhi’onid (and they were so adorned) gakina waabigoniin obadakibine’oni (they all had flowers sticking up on their heads).</span>
+<span class="l-orig">(4) Ka‘kina pingwācāgitiwa, kayädac äci∙u∙nit ka‘kina wâbigunīn ubạta‘kibinä∙u∙ni.</span>
 
-4)  > **Gakina bingwaashaagidiwa, Gaye dash ezhi’onid gakina waabigoniin obadakibine’oni.**
+<span class="l-fiero">**Gakina bingwaashaagidiwag, Gaye dash ezhi’onid gakina waabigoniin obadakibine’oni.**</span>
 
-> They were all nude, and they all had flowers sticking upon (their heads).
+<span class="l-eng">*They were all nude, and they all had flowers sticking upon (their heads).*</span>
 
-Zhigwa owaabamigoo (presently he was seen).
+<span class="l-gloss">Gakina bingwaashaagidiwag (they were all nude), gaye dash ezhi’onid (and they were so adorned) gakina waabigoniin obadakibine’oni (they all had flowers sticking up on their heads).</span>
 
-5)  > **Zhigwa owaabamigoo.**
+<span class="l-orig">(5) Cigwa owâbạmigō.</span>
 
-> Presently he was seen.
+<span class="l-fiero">**Zhigwa owaabamigoo.**</span>
 
-<span class="l-gloss">“E\! e, e, Nenaboozhoo (“halloo, Nanabushu\!), niwii-niimi’idimin (we are going to dance), nishwaasogon niwii-niimi’idimin (for eight days we intend to dance).</span>
+<span class="l-eng">*Presently he was seen.*</span>
 
-6)  > **“E\! e, e, Nenaboozhoo, niwii-niimi’idimin, nishwaasogon niwii-niimi’idimin.**
+<span class="l-gloss">Zhigwa owaabamigoo (presently he was seen).</span>
 
-> “Halloo, Nanabushu\! We expect to dance, for eight days we intend to dance.
+<span class="l-orig">(6) “Ä ēᵉēⁱ, Nänabucu, niwīnīmi∙i∙timin, nicwāsugun niwīnīmi∙i∙timin.</span>
 
-Gegeti go niwii-gichi-niimi’idimin.” (truly, we mean to have a big dance.”)
+<span class="l-fiero">**“E! e, e, Nenaboozhoo, niwii-niimi’idimin, nishwaasogon niwii-niimi’idimin.**</span>
 
-7)  > **Gegeti go niwii-gichi-niimi’idimin.”**
+<span class="l-eng">*“Halloo, Nanabushu! We expect to dance, for eight days we intend to dance.*</span>
 
-> To be sure, we hope for a big dance.”
+<span class="l-gloss">“E! e, e, Nenaboozhoo (“halloo, Nanabushu!), niwii-niimi’idimin (we are going to dance), nishwaasogon niwii-niimi’idimin (for eight days we intend to dance).</span>
+
+<span class="l-orig">(7) Kägä‘tigu niwīki‘tcinīmi∙i∙timin.”</span>
+
+<span class="l-fiero">**Gegeti go niwii-gichi-niimi’idimin.”**</span>
+
+<span class="l-eng">*To be sure, we hope for a big dance.”*</span>
+
+<span class="l-gloss">Gegeti go niwii-gichi-niimi’idimin.” (truly, we mean to have a big dance.”)</span>
+
+<span class="l-orig">(8) “Niˢtcīmiˢtcā,² mīsạgu ᵉi∙i∙ᵘ päbā∙i∙nạnō‘kīyān, pạbānạ ntanīmi∙i∙tīyān.</span>
+
+<span class="l-fiero">**“Nijiimijaa,(1) mii sa go i’iw bebaa-inanookiiyaan, babaa-nanda-niimi’idiiyaan.**</span>
+
+<span class="l-eng">*“My little brothers, this is precisely what I am travelling about for, round about am I seeking for a place to dance.*</span>
 
 <span class="l-gloss">“Nijiimijaa,(1) (“my little brothers,) mii sa go i’iw bebaa-inanookiiyaan (this is just the very thing I go about working at), babaa-nanda-niimi’idiiyaan (going about seeking a place to dance).</span>
 
-8)  > **“Nijiimijaa,([<span class="underline">1</span>](http://ojibweproject.weebly.com/nanabushu-and-the-dancing-bullrushes-footnotes.html)) mii sa go i’iw bebaa-inanookiiyaan, babaa-nanda-niimi’idiiyaan.**
+<span class="l-orig">(9) Kiˢtci∙ạ∙nigu‘k kīgawi‘tō‘kōninim.”</span>
 
-> “My little brothers, this is precisely what I am travelling about for, round about am I seeking for a place to dance.
+<span class="l-fiero">**Gichi-enigok giga-wiidookooninim.”**</span>
 
-Gichi-enigok giga-wiidookooninim.” (with all my might I will help you.”)
+<span class="l-eng">*With all (my) might will I help you.”*</span>
 
-9)  > **Gichi-enigok giga-wiidookooninim.”**
+<span class="l-gloss">Gichi-enigok giga-wiidookooninim.” (with all my might I will help you.”)</span>
 
-> With all (my) might will I help you.”
+<span class="l-orig">(10) “Nänabucu, kägu, kạnabạtc kīga∙a∙yä‘kus.</span>
+
+<span class="l-fiero">**“Nenaboozhoo, gego, ganabaj giga-ayekos.**</span>
+
+<span class="l-eng">*“Nanabushu, don’t you do it, perhaps you might grow tired.*</span>
 
 <span class="l-gloss">“Nenaboozhoo, gego (“Nanabushu, don’t), ganabaj giga-ayekos (perhaps you will grow tired).</span>
 
-10) > **“Nenaboozhoo, gego, ganabaj giga-ayekos.**
+<span class="l-orig">(11) Nicwāsugun wīnīmitiyāng, mīgu kayäᵉ, i kägạbätibi‘k wīnīmi∙i∙tīyāng.”</span>
 
-> “Nanabushu, don’t you do it, perhaps you might grow tired.
+<span class="l-fiero">**Nishwaasogon wii-niimidiyaang, mii go gaye, [ge-]gabe-dibik wii-niimi’idiyaang.”**</span>
 
-<span class="l-gloss">Nishwaasogon wii-niimidiyaang (for eight days we intend to dance), mii go gaye, \[ge-\]gabe-dibik wii-niimi’idiyaang.” (and also all night long we intend to dance.”)</span>
+<span class="l-eng">*For eight days we intend to dance, and also throughout the whole of every night do we expect to dance.”*</span>
 
-11) > **Nishwaasogon wii-niimidiyaang, mii go gaye, \[ge-\]gabe-dibik wii-niimi’idiyaang.”**
+<span class="l-gloss">Nishwaasogon wii-niimidiyaang (for eight days we intend to dance), mii go gaye, [ge-]gabe-dibik wii-niimi’idiyaang.” (and also all night long we intend to dance.”)</span>
 
-> For eight days we intend to dance, and also throughout the whole of every night do we expect to dance.”
+<span class="l-orig">(12) “Niˢtcimiˢtcā, mānō, kayä nīn nīnganīmi∙i∙ti.”</span>
+
+<span class="l-fiero">**“Nijiimijaa, maanoo, gaye niin ninga-niimi’idi.”**</span>
+
+<span class="l-eng">*“My little brothers, never you mind, I too will dance.”*</span>
 
 <span class="l-gloss">“Nijiimijaa, maanoo (“my little brothers, never mind), gaye niin ninga-niimi’idi.” (I too will dance.”)</span>
 
-12) > **“Nijiimijaa, maanoo, gaye niin ninga-niimi’idi.”**
+<span class="l-orig">(13) “Nänabucu, ānīc mānō kayä kīn kītānim, kwaya‘kigu kīga∙a∙yä‘kus.”</span>
 
-> “My little brothers, never you mind, I too will dance.”
+<span class="l-fiero">**“Nenaboozhoo, aaniish maanoo gaye giin gidaa-niim, gwayak igo giga-ayekos.”**</span>
+
+<span class="l-eng">*Nanabushu, naturally unconcerned about care, you too should dance, but certainly you will be tired.”*</span>
 
 <span class="l-gloss">“Nenaboozhoo, aaniish maanoo (“Nanabushu, well, never mind then) gaye giin gidaa-niim (you too may dance), gwayak igo giga-ayekos.” (but surely you will grow tired.”)</span>
 
-13) > **“Nenaboozhoo, aaniish maanoo gaye giin gidaa-niim, gwayak igo giga-ayekos.”**
+<span class="l-orig">(14) Ānīc, mīsạgu cigwa mādci‘tānit; ā‘tā, cigwa pạsigwiwaᵉ.</span>
 
-> Nanabushu, naturally unconcerned about care, you too should dance, but certainly you will be tired.”
+<span class="l-fiero">**Aaniish, mii sa go zhigwa maajitaanid; aataa, zhigwa bazigwiiwa’.**</span>
+
+<span class="l-eng">*Well, so presently they began; ah, then they rose to their feet.*</span>
 
 <span class="l-gloss">Aaniish, mii sa go zhigwa maajitaanid (well, so now they began); aataa, zhigwa bazigwiiwa’ (ah, then they rose to their feet).</span>
 
-14) > **Aaniish, mii sa go zhigwa maajitaanid; aataa, zhigwa bazigwiiwa’.**
+<span class="l-orig">(15) Ānīc Nänabucu kayä wīn kīpata‘kibinä∙ō∙nā īni’ᵘ misābigunīn.</span>
 
-> Well, so presently they began; ah, then they rose to their feet.
+<span class="l-fiero">**Aaniish, Nenaboozhoo gaye wiin gii-badakibine’oonaa iniw misaabigoniin.**</span>
+
+<span class="l-eng">*Now, Nanabushu also wore large blossoms standing upon his head (for feathers).*</span>
 
 <span class="l-gloss">Aaniish, Nenaboozhoo gaye wiin (now, Nanabushu too) gii-badakibine’oonaa iniw misaabigoniin (had those big blossoms standing up on his head).</span>
 
-15) > **Aaniish, Nenaboozhoo gaye wiin gii-badakibine’oonaa iniw misaabigoniin.**
+<span class="l-orig">(16) Ā‘tāᵃ, ä∙i∙cīnit nāmi∙i∙ti∙i∙nit!</span>
 
-> Now, Nanabushu also wore large blossoms standing upon his head (for feathers).
+<span class="l-fiero">**Aataa, e-izhiinid naami’idinid!**</span>
 
-Aataa, e-izhiinid naami’idinid\! (oh, the way those dancers carried on\!)
+<span class="l-eng">*Oh how they who danced did carry on!*</span>
 
-16) > **Aataa, e-izhiinid naami’idinid\!**
+<span class="l-gloss">Aataa, e-izhiinid naami’idinid! (oh, the way those dancers carried on!)</span>
 
-> Oh how they who danced did carry on\!
+<span class="l-orig">(17) Nänabucu ketci∙ä∙ī∙jit nānīmit, mīsa’ kayä wīn tibickō ä∙ī∙ntōtạnk.</span>
 
-<span class="l-gloss">Nenaboozhoo geji-e-ii-zhid naaniimid (Nanabushu was quite beside himself as he danced — \*stem flagged\*), mii sa gaye wiin dibishkoo e-iindoodang (for he did just the same as the others).</span>
+<span class="l-fiero">**Nenaboozhoo geji-e-ii-zhid naaniimid, mii sa gaye wiin dibishkoo e-iindoodang.**</span>
 
-17) > **Nenaboozhoo geji-e-ii-zhid naaniimid, mii sa gaye wiin dibishkoo e-iindoodang.**
+<span class="l-eng">*Nanabushu was quite beside himself when he danced, for he did the same (as the others).*</span>
 
-> Nanabushu was quite beside himself when he danced, for he did the same (as the others).
+<span class="l-gloss">Nenaboozhoo geji-e-ii-zhid naaniimid (Nanabushu was quite beside himself as he danced — *stem flagged*), mii sa gaye wiin dibishkoo e-iindoodang (for he did just the same as the others).</span>
+
+<span class="l-orig">(18) Iskwạtcī nī∙o∙gun nāmi∙i∙timint mīcigwa ki‘kändạnk ayä‘kusit.</span>
+
+<span class="l-fiero">**Iskwaach niiyogon naami’idimind mii zhigwa gikendang ayekozid.**</span>
+
+<span class="l-eng">*At the end of four days’ dancing, he then began to realize that he was tired.*</span>
 
 <span class="l-gloss">Iskwaach niiyogon naami’idimind (at the end of four days’ dancing) mii zhigwa gikendang ayekozid (he then realized he was tired).</span>
 
-18) > **Iskwaach niiyogon naami’idimind mii zhigwa gikendang ayekozid.**
+<span class="l-orig">(19) Ạbā‘pic nijwāsugun nāmi∙i∙timint ạnicāgu nạmạdạbi; ā‘pidci aiyä‘kusi, kayä wīwīsini.</span>
 
-> At the end of four days’ dancing, he then began to realize that he was tired.
+<span class="l-fiero">**Abaapish niizhwaasogon naami’idimind anishaa go namadabi; aapiji ayekozi, gaye wii-wiisini.**</span>
+
+<span class="l-eng">*By the time they (had) danced seven days, then it was all he could do to sit down; exceedingly tired was he, and he wanted to eat.*</span>
 
 <span class="l-gloss">Abaapish niizhwaasogon naami’idimind (by the time seven days had been danced) anishaa go namadabi (it was all he could do to sit down); aapiji ayekozi (very tired was he), gaye wii-wiisini (and he wanted to eat).</span>
 
-19) > **Abaapish niizhwaasogon naami’idimind anishaa go namadabi; aapiji ayekozi, gaye wii-wiisini.**
+<span class="l-orig">(20) Ạbā‘pic änitibi‘kạtinik, ā‘pitci nānōntayagäntạm tcibwāwâbạninig.</span>
 
-> By the time they (had) danced seven days, then it was all he could do to sit down; exceedingly tired was he, and he wanted to eat.
+<span class="l-fiero">**Abaapish eni-dibikadinig, aapiji naanoondayagendam jibwaa-waabaninig.**</span>
 
-<span class="l-gloss">Abaapish eni-dibikadinig (by the time the night was coming on), aapiji naanoondayagendam (he grew deeply worried — \*stem flagged\*) jibwaa-waabaninig (before it would be day).</span>
+<span class="l-eng">*By the time that night was coming on, he grew deeply worried (that he would not survive) before it was day.*</span>
 
-20) > **Abaapish eni-dibikadinig, aapiji naanoondayagendam jibwaa-waabaninig.**
+<span class="l-gloss">Abaapish eni-dibikadinig (by the time the night was coming on), aapiji naanoondayagendam (he grew deeply worried — *stem flagged*) jibwaa-waabaninig (before it would be day).</span>
 
-> By the time that night was coming on, he grew deeply worried (that he would not survive) before it was day.
+<span class="l-orig">(21) Mīcigwa Nänabucu cingicing ānunīmi∙i∙tit.</span>
+
+<span class="l-fiero">**Mii zhigwa Nenaboozhoo zhingishing aano-niimi’idid.**</span>
+
+<span class="l-eng">*So then Nanabushu lay down, trying in vain to dance.*</span>
 
 <span class="l-gloss">Mii zhigwa Nenaboozhoo zhingishing (so then Nanabushu lay down) aano-niimi’idid (trying in vain to dance).</span>
 
-21) > **Mii zhigwa Nenaboozhoo zhingishing aano-niimi’idid.**
+<span class="l-orig">(22) Mindcimigo tcibītābạninig äjimawit Nänabucu.</span>
 
-> So then Nanabushu lay down, trying in vain to dance.
+<span class="l-fiero">**Minjimigo ji-biidaabaninig ezhi-mawid Nenaboozhoo.**</span>
+
+<span class="l-eng">*Just as the dawn was breaking, then began Nanabushu to cry.*</span>
 
 <span class="l-gloss">Minjimigo ji-biidaabaninig (just as the dawn was breaking) ezhi-mawid Nenaboozhoo (Nanabushu began to cry).</span>
 
-22) > **Minjimigo ji-biidaabaninig ezhi-mawid Nenaboozhoo.**
+<span class="l-orig">(23) Äpipā‘pi∙i∙nt. Cigwasa’ pīwâbạnini, cigwa imā tibickōtcaya∙ī∙ pimi∙a∙‘kwābạnini.</span>
 
-> Just as the dawn was breaking, then began Nanabushu to cry.
+<span class="l-fiero">**E-bi-baapi’ind. Zhigwa sa bi-waabanini, zhigwa imaa dibishkoojaya’ii bimi-akwaabanini.**</span>
+
+<span class="l-eng">*Then he was laughed at. Presently came the morning, soon straight overhead was ow far the light of the morning had come.*</span>
 
 <span class="l-gloss">E-bi-baapi’ind (then he was laughed at). Zhigwa sa bi-waabanini (presently the morning came), zhigwa imaa dibishkoojaya’ii bimi-akwaabanini (soon the light of morning reached straight overhead).</span>
 
-23) > **E-bi-baapi’ind. Zhigwa sa bi-waabanini, zhigwa imaa dibishkoojaya’ii bimi-akwaabanini.**
+<span class="l-orig">(24) Kuniginīn, kibi‘tānimạtini.</span>
 
-> Then he was laughed at. Presently came the morning, soon straight overhead was ow far the light of the morning had come.
+<span class="l-fiero">**Goniginiin, gibidaanimadini.**</span>
 
-Goniginiin, gibidaanimadini (lo, the wind died down).
+<span class="l-eng">*Lo, the wind died down.*</span>
 
-24) > **Goniginiin, gibidaanimadini.**
+<span class="l-gloss">Goniginiin, gibidaanimadini (lo, the wind died down).</span>
 
-> Lo, the wind died down.
+<span class="l-orig">(25) Ä‘tawā, Nänabucu mägwä cācāgạnacku‘kānk, mīnạngwạna īni’ᵘ kā∙i∙cinạnk, ạnicinābänk ugī∙i∙cinānạn.</span>
+
+<span class="l-fiero">**Etawaa, Nenaboozhoo megwaa zhaashaaganashkokaang, mii nangwana iniw gaa-izhinang, anishinaabeng ogii-izhinaanan.**</span>
+
+<span class="l-eng">*Why, Nanabushu was in among the bulrushes, that was what he really had seen, like people they had seemed to him.*</span>
 
 <span class="l-gloss">Etawaa, Nenaboozhoo megwaa zhaashaaganashkokaang (why, Nanabushu was in among the bulrushes), mii nangwana iniw gaa-izhinang (that was what he had really seen), anishinaabeng ogii-izhinaanan (he had taken them for people).</span>
 
-25) > **Etawaa, Nenaboozhoo megwaa zhaashaaganashkokaang, mii nangwana iniw gaa-izhinang, anishinaabeng ogii-izhinaanan.**
+<span class="l-orig">(26) Kägä‘t māma‘kādäntạm Nänabucu, mī∙i’∙ᵘ kī∙i∙nändạnk ạnicinābä kä‘tcinōtingin, ki∙i∙cinạng; mīnạngwạnạ iᵘ kā∙i∙jinīmi∙i∙tiwāt cācāgạnaskōn.</span>
 
-> Why, Nanabushu was in among the bulrushes, that was what he really had seen, like people they had seemed to him.
+<span class="l-fiero">**Geget maamakaadendam Nenaboozhoo, mii iw gii-inendang anishinaabe gechi-noodingin, gii-izhinang; mii nangwana iw gaa-izhi-niimi’idiwaad zhaashaaganashkoon.**</span>
+
+<span class="l-eng">*Truly surprised was Nanabushu, for he thought that they were people when the wind was blowing hard, so it had seemed to him; as a matter of fact, he had been dancing with the bulrushes.*</span>
 
 <span class="l-gloss">Geget maamakaadendam Nenaboozhoo (truly surprised was Nanabushu), mii iw gii-inendang anishinaabe (for he had thought they were people) gechi-noodingin (when the wind was blowing hard), gii-izhinang (so it had seemed to him); mii nangwana iw gaa-izhi-niimi’idiwaad zhaashaaganashkoon (as a matter of fact, he had been dancing with the bulrushes).</span>
 
-26) > **Geget maamakaadendam Nenaboozhoo, mii iw gii-inendang anishinaabe gechi-noodingin, gii-izhinang; mii nangwana iw gaa-izhi-niimi’idiwaad zhaashaaganashkoon.**
+<span class="l-orig">(27) Mīsa imā cäcingicing Nänabucu, kāwīn okacki∙u∙sī tcipimōtät wâwīcinawīn tcipasigwīt.</span>
 
-> Truly surprised was Nanabushu, for he thought that they were people when the wind was blowing hard, so it had seemed to him; as a matter of fact, he had been dancing with the bulrushes.
+<span class="l-fiero">**Mii sa imaa zheshingishing Nenaboozhoo, gaawiin ogashki’osii ji-bimooded waawiishinawiin ji-bazigwiid.**</span>
 
-<span class="l-gloss">Mii sa imaa zheshingishing Nenaboozhoo (and so there lay Nanabushu a long while), gaawiin ogashki’osii ji-bimooded (he was not able to crawl) waawiishinawiin ji-bazigwiid (nor even to get up on his feet — \*flagged\*).</span>
+<span class="l-eng">*And so there lay Nanabushu for a long while, he was neither able to crawl nor even to get up on his feet.*</span>
 
-27) > **Mii sa imaa zheshingishing Nenaboozhoo, gaawiin ogashki’osii ji-bimooded waawiishinawiin ji-bazigwiid.**
+<span class="l-gloss">Mii sa imaa zheshingishing Nenaboozhoo (and so there lay Nanabushu a long while), gaawiin ogashki’osii ji-bimooded (he was not able to crawl) waawiishinawiin ji-bazigwiid (nor even to get up on his feet — *flagged*).</span>
 
-> And so there lay Nanabushu for a long while, he was neither able to crawl nor even to get up on his feet.
+<span class="l-orig">(28) Intawā äjinibāt.</span>
 
-Indawaa ezhi-nibaad (accordingly he went to sleep).
+<span class="l-fiero">**Indawaa ezhi-nibaad.**</span>
 
-28) > **Indawaa ezhi-nibaad.**
+<span class="l-eng">*Accordingly he went to sleep.*</span>
 
-> Accordingly he went to sleep.
+<span class="l-gloss">Indawaa ezhi-nibaad (accordingly he went to sleep).</span>
+
+<span class="l-orig">(29) A‘pī nīcugun kānibāt mīdạc ‘iᵉi’ᵘ pitcīnạg kạckitōt pimōtät, äjinātạgāmäyōtät.</span>
+
+<span class="l-fiero">**Apii niizhogon gaa-nibaad mii dash i’iw bijiinag gashkitood bimooded, ezhi-naadagaameyooded.**</span>
+
+<span class="l-eng">*After he had slept for two days, he then was able to crawl, he then crawled out to the edge of the (swamp).*</span>
 
 <span class="l-gloss">Apii niizhogon gaa-nibaad (after he had slept two days) mii dash i’iw bijiinag gashkitood bimooded (then at last he was able to crawl), ezhi-naadagaameyooded (he crawled out to the edge of the water).</span>
 
-29) > **Apii niizhogon gaa-nibaad mii dash i’iw bijiinag gashkitood bimooded, ezhi-naadagaameyooded.**
-
-> After he had slept for two days, he then was able to crawl, he then crawled out to the edge of the (swamp).
-
-**Footnote :**
+(22) Nanabushu and the Dancing Bullrushes
 
 (1) Nitcimitca “my little brothers,” for nicimatug, a form used by Nanabushu in addressing the people
 

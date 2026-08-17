@@ -3,19 +3,21 @@ title: "42. Commerce"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
+<div class="four-layer">
+
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-<div class="four-layer">
-
 ADĀWÄWIN.
 
-ADAAWEWIN.
+<span class="l-fiero">**ADAAWEWIN.**</span>
 
 COMMERCE.
 
-<span class="l-src">***from Ojibwa Texts collected by William Jones (1919).***</span>
+<span class="l-eng">*Narrated by Penesi — Series 2 (Nos. 4–43), Fort William (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
+
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
 <span class="l-orig">(1) Mīnawā pạngī kägōn nindibādcîm kā‘pi∙i∙jiwäbiziyāng mäwija.</span>
 
@@ -49,7 +51,7 @@ COMMERCE.
 
 <span class="l-gloss">Miiy eta (the only one) maamawichigewinini (the company-man; *lit. “man of the joint enterprise”*) gaa-ayaad (who was here), mii imaa (it was there) eniwek (a good deal) gaa-ondinamaang (that we obtained) gaa-agwiyaang (of what we wore).</span>
 
-<span class="l-eng">*¹ Hudson Bay Company factor. (Jones’s note)*</span>
+*¹ Hudson Bay Company factor. (Jones’s note)*
 
 <span class="l-orig">(5) Ā‘pidci kīsạnạgạt ka‘kina kägō.</span>
 
@@ -67,7 +69,7 @@ COMMERCE.
 
 <span class="l-gloss">Niswi waabizheshiwag (three martens), mii iw bezhigwaabik (one dollar; *lit. “one piece of metal”*) gii-inagizowaad (is what they were worth); zhaangweshiwag niiwin (four minks), mii iw bezhigwaabik (that was a dollar); waagosh (a fox), aapiji wenizhishid (a very fine one), makadewaagosh (a black fox), niiwaabik eta gii-inagizo (was worth only four dollars); zhooniyaawaagosh (a silver fox) niizhwaabik eta gii-inagizo (was worth only two dollars); nigig gaye (and an otter) niizhwaabik eta gii-inagizo (was worth only two dollars); ojiig bezhigwaabik (a fisher one dollar); bizhiw gaye bezhigwaabik (and a lynx one dollar); makwa aapiji wenizhishid (a very fine bear) niiwaabik (four dollars); nawaj egaanzhiiyid (a smaller one) niizhwaabik (two dollars); amik gaye niizhwaabik (and a beaver two dollars), egaanzhiiyid bezhigwaabik (a small one one dollar); wazhashkwag nishtana (twenty muskrats), mii iw bezhigwaabik (that was one dollar).</span>
 
-<span class="l-eng">*² Skins. (Jones’s note)*</span>
+*² Skins. (Jones’s note)*
 
 <span class="l-orig">(7) Kä‘gä‘t ā‘pidci kisạnạgat wīpîmādisiyāng.</span>
 

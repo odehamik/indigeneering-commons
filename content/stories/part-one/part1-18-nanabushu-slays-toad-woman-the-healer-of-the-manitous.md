@@ -3,23 +3,23 @@ title: "18. Nanabushu Slays Toad-Woman, the Healer of the Manitous"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
+<div class="four-layer">
+
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
-
-<div class="four-layer">
 
 18\. NÄNABUSHU SLAYS TOAD-WOMAN, THE HEALER OF THE MANITOUS.
 
 <span class="l-fiero">**18. Nenabozho Slays Toad-Woman, the Healer of the Manidoog.**</span>
 
-18\. Nänabushu Slays Toad-Woman, the Healer of the Manitous.
+Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
-<span class="l-eng">*Narrated by Waasaagoneshkang (Part I Series 1, Bois Fort — per Corbiere roster; verify if printed). \[No narrator printed on the story page; printed Ojibwe header gives only the title.\]*</span>
+<span class="l-eng">*Narrated by Wâsagunäckạnk — Series 1 (Nos. 1–18), Bois Fort (per Michelson’s roster, Part I Preface p. XX; not credited on the story page itself).*</span>
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1917).***</span>
 
-<span class="l-orig">(1) Mīsa’ änicimädcät minawä Nänabucu, anipapimusät minawa. Mīdạc kā∙i∙nändạnk: “Mīmawin kī‘pömägwän kāma‘kamit nintōciman. Mīsa’ cigwa tci∙ạ∙ntunäwag.” Mīsa’ kägä‘t nạntunä‘wat, ningutingigu awiya onōntawän nạgamunit:</span>
+<span class="l-orig">(1) Mīsa’ änicimädcät minawä Nänabucu, anipapimusät minawa. Mīdạc kā∙i∙nändạnk: “Mīmawin kī‘pōmägwän kāma‘kamit nintōciman. Mīsa’ cigwa tci∙ạ∙ntunäwag.” Mīsa’ kägä‘t nạntunä‘wat, ningutingigu awiya onōntawän nạgamunit:</span>
 
 <span class="l-fiero">**Mii sa eni-zhi-maajaad miinawaa Nenabozho, ani-babimosed miinawaa. Mii dash gaa-izhi-inendang: “Miimawin gii-boomaagwen gaa-maamakamid nindoozhiman. Mii sa zhigwa ji-andoonewag.” Mii sa geget nandone’waad, ningodingigo awiya onoondawaan nagamonid:**</span>
 
@@ -33,7 +33,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, shaⁿ.”*</span>
 
-\[song carried verbatim — not glossed\]
+<span class="l-gloss">[song carried verbatim — not glossed]</span>
 
 <span class="l-orig">(3) Mīsa’ nāsi‘tawät, mīsa’ undcita äni‘tawät:</span>
 
@@ -49,7 +49,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, shaⁿ.”*</span>
 
-\[song carried verbatim — not glossed\]
+<span class="l-gloss">[song carried verbatim — not glossed]</span>
 
 <span class="l-orig">(5) Tcigwa uwäbamän, kuniginin uma‘ka‘kin ucicīgwanini ayäcōningwawänit. Äcikanōnät: “Anin nō‘ko änin änano‘kiyan?” udinän.</span>
 
@@ -67,7 +67,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Gaa (why) ∙ ninandawigobii (I am seeking bast/inner bark) ∙ Nenabozho ogii-bimwaan (Nänabushu shot him) ∙ ogimaa-zhibizhiin (the chief of the big lynxes)</span>
 
-<span class="l-orig">(7) Mīdạc änät: “Anic wä‘tötaman ini’ wigupin?”</span>
+<span class="l-orig">(7) Mīdạc änät: “Anic wä‘tōtaman ini’ wigupin?”</span>
 
 <span class="l-fiero">**Mii dash enaad: “Aaniish waa-doodaman iniw wiigobiin?”**</span>
 
@@ -81,7 +81,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*“Why, an attempt will be made to ensnare Nänabushu. Perhaps he may be drowned, for almost flooded was this earth with water. And in what place can he now be alive? they said.”*</span>
 
-<span class="l-gloss">Gaa (why) ∙ Nenabozho wii-nandowaa’bikenaa (an attempt will be made to snare Nänabushu) ∙ Ganabaj gii-nisaa— (perhaps drowned) ∙ ji-bimaadizid (that he live) ∙ ikidowag (they said) \[Jones’s Ojibwe here is brief; the English expands; the flooding clause is on the English page\]</span>
+<span class="l-gloss">Gaa (why) ∙ Nenabozho wii-nandowaa’bikenaa (an attempt will be made to snare Nänabushu) ∙ Ganabaj gii-nisaa— (perhaps drowned) ∙ ji-bimaadizid (that he live) ∙ ikidowag (they said) [Jones’s Ojibwe here is brief; the English expands; the flooding clause is on the English page]</span>
 
 <span class="l-orig">(9) “Änīn guta wīn wäntcitōtawäwät kīma‘kamäwät īni’ utōcimini? Mạnitōsa wīn, nīnawint änạngit ‘aᵉa’ Nänabucu.</span>
 
@@ -95,7 +95,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-fiero">**“We, noozhis, giin mawiin Nenabozho.”**</span>
 
-<span class="l-eng">*“Ah, my grandson\! you must be Nänabushu (himself).”*</span>
+<span class="l-eng">*“Ah, my grandson! you must be Nänabushu (himself).”*</span>
 
 <span class="l-gloss">We (ah) ∙ noozhis (my grandson) ∙ giin mawiin Nenabozho (you must be Nänabushu)</span>
 
@@ -115,7 +115,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Gaa (oh) ∙ gegesago nin-noojimo’aanaan (we have nearly healed him) ∙ niinawind nin-nanaandawi’aanaan (we ourselves are doctoring him)</span>
 
-<span class="l-eng">*By conjuring with bones and flat, circular skin rattles loaded with pebbles; the bones to be swallowed to give knowledge concerning the cause of illness, and the rattle to bring one’s power into action.*</span>
+*By conjuring with bones and flat, circular skin rattles loaded with pebbles; the bones to be swallowed to give knowledge concerning the cause of illness, and the rattle to bring one’s power into action.*
 
 <span class="l-orig">(13) “No‘ko, änin i‘ku äna∙ä∙mạn nạnäntawi∙ạ∙t?”</span>
 
@@ -139,7 +139,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, shaⁿ.”*</span>
 
-\[song carried verbatim — not glossed\]
+<span class="l-gloss">[song carried verbatim — not glossed]</span>
 
 <span class="l-orig">(16) Änīc ōwingä ugạgwätcimän owingädạc uwindamägōn, kayä i∙i∙mäⁿ a‘pī wändạbinit ᵉi‘i’ nanäntawi∙i∙wänit, mīdạc kayä imä ändänit. “Ickwäyaiⁿgu nintämin. Nīciwạg nōcisäⁿyạg,” udigōn. Ạwingä oki‘kino∙ạ∙mägōn, ka‘kina ugīki‘kino∙ạ∙mägōn.</span>
 
@@ -163,7 +163,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, shaⁿ.”*</span>
 
-\[song carried verbatim — not glossed\]
+<span class="l-gloss">[song carried verbatim — not glossed]</span>
 
 <span class="l-orig">(19) Änīc mīgu ᵉi’ änī∙i∙nwät äni∙ä∙ntcikwäskwạnit. Cayīgwa</span>
 
@@ -171,13 +171,13 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*Now, such was the sound of his voice as he went hopping along in a newly changed form.*</span>
 
-<span class="l-gloss">Aaniish mii go iw (now such was) ∙ ani-inwed (the sound of his voice) ∙ ani-anjikwaaskwanid (as he went hopping along) ∙ Zhayiigwa (presently) \[sentence runs onto p148\]</span>
+<span class="l-gloss">Aaniish mii go iw (now such was) ∙ ani-inwed (the sound of his voice) ∙ ani-anjikwaaskwanid (as he went hopping along) ∙ Zhayiigwa (presently) [sentence runs onto p148]</span>
 
 <span class="l-orig">(20) Cayīgwa udäbäbandän mi‘i‘mäⁿ ändänit. Cigwa äninasi‘kank äciwanicink pä‘kanatinik wigiwäm; änicinäsi‘kank sägitcipai∙i∙tawaⁿ. “No‘ko, ō‘o‘mäⁿ kuca ändayang.”</span>
 
 <span class="l-fiero">**Zhayiigwa odebaabandaan mii imaa endaanid. Zhigwa eni-naazikang ezhi-wanishing baakanadinik wiigiwaam; eni-naazikang zaagijibayiitawaan. “Nooko, o’omaa gosha endaayang.”**</span>
 
-<span class="l-eng">*Presently he came in sight of the place where (the manitous) lived. When on his way to the place, he lost the way (and) came to a different wigwam; while on his way to it, (he saw some children) coming racing out. “O my grandmother\! why, here is where we live.”*</span>
+<span class="l-eng">*Presently he came in sight of the place where (the manitous) lived. When on his way to the place, he lost the way (and) came to a different wigwam; while on his way to it, (he saw some children) coming racing out. “O my grandmother! why, here is where we live.”*</span>
 
 <span class="l-gloss">Zhayiigwa odebaabandaan mii imaa endaanid (presently he sighted where they lived) ∙ Zhigwa eni-naazikang (when going toward it) ∙ ezhi-wanishing (he lost the way) ∙ baakanadinik wiigiwaam (came to a different wigwam) ∙ eni-naazikang zaagijibayiitawaan (while approaching, they came racing out to him) ∙ Nooko o’omaa gosha endaayang (O grandmother, here is where we live)</span>
 
@@ -187,7 +187,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*“Indeed.”*</span>
 
-Geget (indeed)
+<span class="l-gloss">Geget (indeed)</span>
 
 <span class="l-orig">(22) “Änin win, nō‘ko, kā∙u∙ndciwạnicinạn?”</span>
 
@@ -197,19 +197,19 @@ Geget (indeed)
 
 <span class="l-gloss">Aaniin wiin nooko (pray, how, grandmother) ∙ gaa-onji-wanishinan (the reason you lost the way)</span>
 
-<span class="l-orig">(23) “Kā, kānagu‘ku awingä gagibwäbimoyan, mīdạc i∙i∙u käwin nīsäbäbanda“zin ᵉi‘i’ ändäyang. Intawa, nōcisitug, icisagini‘käniciyu‘k.” Mīdạc kägä‘t ka∙u∙nabit, anic migū imäⁿ ändaci‘känit wagitcitcingwan i‘i’ abinōtciyaᵉ. Cigwa umi‘kawäbạmigo ‘i‘i‘mäⁿ kīnänigic‘kawät īni’ udöma‘ka‘kiwayanan. “Wä, nō‘ko, ạnicinäbäwacaga∙ä∙nk kigri∙nạcaga∙ä∙\!”</span>
+<span class="l-orig">(23) “Kā, kānagu‘ku awingä gagibwäbimoyan, mīdạc i∙i∙u käwin nīsäbäbandaⁿzin ᵉi‘i’ ändäyang. Intawa, nōcisitug, icisagini‘käniciyu‘k.” Mīdạc kägä‘t ka∙u∙nabit, anic migū imäⁿ ändaci‘känit wagitcitcingwan i‘i’ abinōtciyaᵉ. Cigwa umi‘kawäbạmigo ‘i‘i‘mäⁿ kīnänigic‘kawät īni’ udōma‘ka‘kiwayanan. “Wä, nō‘ko, ạnicinäbäwacaga∙ä∙nk kigī∙i∙nạcaga∙ä∙!”</span>
 
-<span class="l-fiero">**“Gaa, gaanagogo owinge gagiibwaabimoyaan, mii dash iw gaawiin niisaababandaazin iw endaayang. Indawaa, noozhisidog, izhi-zaginikenizhiyok.” Mii dash geget gaa-onabid, aaniish migo imaa endazhi-genid wagitijiingwan iw abinoojiiyan. Zhigwa omikawaabamigo iimaa giinaanigizhkawaad iniw odoomakakiiwayanan. “We, nooko, anishinaabewizhagaa’ank giri-nazhagaa’e\!”**</span>
+<span class="l-fiero">**“Gaa, gaanagogo owinge gagiibwaabimoyaan, mii dash iw gaawiin niisaababandaazin iw endaayang. Indawaa, noozhisidog, izhi-zaginikenizhiyok.” Mii dash geget gaa-onabid, aaniish migo imaa endazhi-genid wagitijiingwan iw abinoojiiyan. Zhigwa omikawaabamigo iimaa giinaanigizhkawaad iniw odoomakakiiwayanan. “We, nooko, anishinaabewizhagaa’ank giri-nazhagaa’e!”**</span>
 
-<span class="l-eng">*“Oh, by reason of too much weeping have my eyes become closed, and that is why I cannot clearly see where we live. Therefore, O my grandchildren\! do you lead me thither by the hand.” Whereupon truly, after he was seated, then there upon his lap played the children. Then was it discovered where he had ripped an opening in that toad-skin of his. “Why, my grandmother, like the skin of a human being is the look of your skin\!”*</span>
+<span class="l-eng">*“Oh, by reason of too much weeping have my eyes become closed, and that is why I cannot clearly see where we live. Therefore, O my grandchildren! do you lead me thither by the hand.” Whereupon truly, after he was seated, then there upon his lap played the children. Then was it discovered where he had ripped an opening in that toad-skin of his. “Why, my grandmother, like the skin of a human being is the look of your skin!”*</span>
 
 <span class="l-gloss">Gaa gaanagogo owinge gagiibwaabimoyaan (oh, by too much weeping my eyes are closed) ∙ mii dash iw gaawiin niisaababandaazin iw endaayang (so I cannot clearly see where we live) ∙ Indawaa noozhisidog izhi-zaginikenizhiyok (therefore, my grandchildren, lead me by the hand) ∙ Mii dash geget gaa-onabid (and so truly after he sat) ∙ aaniish migo imaa endazhi-genid wagitijiingwan iw abinoojiiyan (then there on his lap the children played) ∙ Zhigwa omikawaabamigo iimaa giinaanigizhkawaad (then it was discovered where he had torn it) ∙ iniw odoomakakiiwayanan (his toad-skin) ∙ We nooko anishinaabewizhagaa’ank (why grandmother, it is like a human being’s skin) ∙ giri-nazhagaa’e (the look of your skin)</span>
 
-<span class="l-orig">(24) “Nya, nōcis, kāna mi‘i’ ä‘pōsoyan ini’ wigupin ic‘kamän kägabägijik pimina‘kwätaman,” utina ii’ öcicäⁿya“.</span>
+<span class="l-orig">(24) “Nya, nōcis, kāna mi‘i’ ä‘pōsoyan ini’ wigupin ic‘kamän kägabägijik pimina‘kwätaman,” utina ii’ ōcicäⁿya“.</span>
 
 <span class="l-fiero">**“Nya, noozhis, gaa na mii iw e-boosoyaan iniw wiigobiin ishkamaan gegabe-giizhig biminakwaadamaan,” odinaa iniw ozhisheyan.**</span>
 
-<span class="l-eng">*“Ah, my grandchild\! that was how I rubbed myself when working with the bast, as throughout the whole of every day I was making twine,” she said to her grandchildren.*</span>
+<span class="l-eng">*“Ah, my grandchild! that was how I rubbed myself when working with the bast, as throughout the whole of every day I was making twine,” she said to her grandchildren.*</span>
 
 <span class="l-gloss">Nya noozhis (ah, my grandchild) ∙ gaa na mii iw e-boosoyaan iniw wiigobiin (that is how I rubbed myself working the bast) ∙ ishkamaan gegabe-giizhig (taking it up all day long) ∙ biminakwaadamaan (making twine) ∙ odinaa iniw ozhisheyan (she said to her grandchildren)</span>
 
@@ -227,9 +227,9 @@ Geget (indeed)
 
 <span class="l-eng">*There was a hanging partition dividing the room, and there beyond was (the wounded). Then, as they began ministering, he kept watch of them, and continuously round to the other side (of the partition they kept passing). Presently he too began ministering to him. In advance had he made ready the way by which he meant to flee, some wood he had heaped in a pile.*</span>
 
-<span class="l-gloss">Ajidekashkikibidaani (a hanging partition divided it) ∙ mii dash iwidi ayaanid (and there beyond was the one) ∙ Zhayiigwa nanaandawi’iwewa’ ganawaabamaad (as they doctored he watched them) ∙ banaa’go iwidi awasayaii (continuously to the far side) ∙ Zhayiigwa gaye wiin owii-nanaandawi’aan (then he too began to doctor him) ∙ Giizhaa ogii-ozhi’ton (in advance he had made ready the way) \[sentence runs onto p150\]</span>
+<span class="l-gloss">Ajidekashkikibidaani (a hanging partition divided it) ∙ mii dash iwidi ayaanid (and there beyond was the one) ∙ Zhayiigwa nanaandawi’iwewa’ ganawaabamaad (as they doctored he watched them) ∙ banaa’go iwidi awasayaii (continuously to the far side) ∙ Zhayiigwa gaye wiin owii-nanaandawi’aan (then he too began to doctor him) ∙ Giizhaa ogii-ozhi’ton (in advance he had made ready the way) [sentence runs onto p150]</span>
 
-<span class="l-orig">(27) Mīdạc cigwa kayä win äni∙i∙cät ‘i‘i’witi awasaya∙i∙, cigwa owäbamän äsotä‘kwa∙i∙gäsunit. Ä‘pidci wäcä‘pïnit sängangäsininik i‘i’u ubigwa‘k. Wäwänigu udōninän äcicicigwänawät.</span>
+<span class="l-orig">(27) Mīdạc cigwa kayä win äni∙i∙cät ‘i‘i’witi awasaya∙i∙, cigwa owäbamän äsotä‘kwa∙i∙gäsunit. Ä‘pidci wäcä‘pīnit sängangäsininik i‘i’u ubigwa‘k. Wäwänigu udōninän äcicicigwänawät.</span>
 
 <span class="l-fiero">**Mii dash zhigwa gaye wiin eni-izhaad iwidi awasayaii, zhigwa owaabamaan asode’kwa’igaazonid. Aapiji weshe’binid zaangangaazininik iw obigwak. Weweni go odooninaan ezhi-zhiizhiigwanawaad.**</span>
 
@@ -237,11 +237,11 @@ Geget (indeed)
 
 <span class="l-gloss">Mii dash zhigwa gaye wiin eni-izhaad iwidi awasayaii (and so when he too went to the far side) ∙ zhigwa owaabamaan asode’kwa’igaazonid (he saw him propped with a back-support) ∙ Aapiji weshe’binid zaangangaazininik iw obigwak (right in his side the arrow-feather barely showed) ∙ Weweni go odooninaan (with a careful grip he held it) ∙ ezhi-zhiizhiigwanawaad (as he worked it back and forth)</span>
 
-<span class="l-orig">(28) “Micanîm Nänabucu\! Mīsa nicit\!” i‘kitō.</span>
+<span class="l-orig">(28) “Micanîm Nänabucu! Mīsa nicit!” i‘kitō.</span>
 
-<span class="l-fiero">**“Mishanim Nenabozho\! Mii sa nizhid\!” ikido.**</span>
+<span class="l-fiero">**“Mishanim Nenabozho! Mii sa nizhid!” ikido.**</span>
 
-<span class="l-eng">*“Confound Nänabushu\! Now he is killing me\!” he said.*</span>
+<span class="l-eng">*“Confound Nänabushu! Now he is killing me!” he said.*</span>
 
 <span class="l-gloss">Mishanim Nenabozho (confound Nänabushu) ∙ Mii sa nizhid (now he is killing me) ∙ ikido (he said)</span>
 
@@ -253,15 +253,15 @@ Geget (indeed)
 
 <span class="l-gloss">Bazigwinjised Nenabozho (springing up, Nänabushu) ∙ odanimaamibinaan odoozhimiwayanan (seized his nephew’s skin as he fled) ∙ maajiibayiiwed (started running) ∙ Onzosema’kamig gaa-bi-yaabijibidwewejiwaninig igo (frightful the roar of water pursuing) ∙ aanigok bimibatoo (at top speed he ran) ∙ Eshkamigo ekobishki’giid akwa’am (by degrees up to the knee he waded) ∙ Mii yaanawi zhigwa beshwendang iw omizoonokaan (when he thought he neared his raft) ∙ zhayiigwa obeshwaabandaan iw omizoonokaan (then he saw his raft near) ∙ Mii zhigwa ekokijibizod akwa’ang ezhi-boozid iw omizoonokaan (up to his waist wading, he boarded his raft)</span>
 
-<span class="l-orig">(30) Äcini‘kipinit i∙i∙u mi‘tigōᵉ, mīsa“ a‘panä kägä‘t unäwändän wäsa anamindîm a‘ki ayänik. Owäbama∙ayänit pämätagänit anōtc awäsiya“. Mīsa wipōsiwa∙iⁿ‘i‘mäⁿ utcīmaning, mīsa äci‘kunicawät. “Pä‘kä,” udinäⁿ. “Pänimä pīcä‘käg,” udinäⁿ. Mīsa cigwa kī∙i∙nändank: “Anin käcictcigäyän awägwän käbitōt ’a‘ki?” kī∙i∙nändam. Cigwa ugï‘kanōnä“ ‘i‘i’u mạnitowäⁿca, mīdạc ni‘tam nigigwạn: “Kāwīnina kītänäsi‘kasin ‘i‘i’u a‘ki?” udinän.</span>
+<span class="l-orig">(30) Äcini‘kipinit i∙i∙u mi‘tigōᵉ, mīsa“ a‘panä kägä‘t unäwändän wäsa anamindîm a‘ki ayänik. Owäbama∙ayänit pämätagänit anōtc awäsiya“. Mīsa wipōsiwa∙iⁿ‘i‘mäⁿ utcīmaning, mīsa äci‘kunicawät. “Pä‘kä,” udinäⁿ. “Pänimä pīcä‘käg,” udinäⁿ. Mīsa cigwa kī∙i∙nändank: “Anin käcictcigäyän awägwän käbitōt ’a‘ki?” kī∙i∙nändam. Cigwa ugī‘kanōnä“ ‘i‘i’u mạnitowäⁿca, mīdạc ni‘tam nigigwạn: “Kāwīnina kītänäsi‘kasin ‘i‘i’u a‘ki?” udinän.</span>
 
-<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa-ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-boozigwaa imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaan. “Baanimaa biizhaakeg,” odinaan. Mii sa zhigwa gii-inendang: “Aaniin gaa-izhichigeyaan awegwen gaa-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaan iw manidoowenza’, mii dash niitam nigigwan: “Gaawiinina gidaa-naazika’sin iw aki?” odinaan.**</span>
+<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa-ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-boozigwaa imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaan. “Baanimaa biizhaakeg,” odinaan. Mii sa zhigwa gii-inendang: “Aaniin gaa-izhichigeyaan awegwen gaa-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaan iw manidoowenza’, mii dash nitam nigigwan: “Gaawiinina gidaa-naazika’sin iw aki?” odinaan.**</span>
 
 <span class="l-eng">*When the water overflowed the trees, then at once he truly realized what a long way down in the water the earth was. He saw all kinds of game-folk swimming around. And when they wished to go aboard his raft, he kept them off. “Wait,” he said to them. “Not till after a while do you come,” he said to them. And so he then thought: “How shall I do (to select) what one is to fetch some earth?” he thought. Presently he spoke to the smaller animal-folk, and so the first was the Otter: “Would you not go after some earth?” he said to him.*</span>
 
-<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa-ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-boozigwaa imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin gaa-izhichigeyaan awegwen gaa-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaan iw manidoowenza’ (he spoke to the lesser animal-folk) ∙ niitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazika’sin iw aki (would you not go after the earth) ∙ odinaan (he said to him)</span>
+<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa-ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-boozigwaa imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin gaa-izhichigeyaan awegwen gaa-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaan iw manidoowenza’ (he spoke to the lesser animal-folk) ∙ nitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazika’sin iw aki (would you not go after the earth) ∙ odinaan (he said to him)</span>
 
-<span class="l-eng">*Such as wolves, foxes, beavers, badgers, minks, hares, and the like.*</span>
+*Such as wolves, foxes, beavers, badgers, minks, hares, and the like.*
 
 <span class="l-orig">(31) Mīsa gägä‘t kā∙i∙cigōginit. Ninguti</span>
 
@@ -269,7 +269,7 @@ Geget (indeed)
 
 <span class="l-eng">*Thereupon truly down into the water (the Otter) dived. And by and by the one that had gone down came up out of the water dead, he must have drowned. When (Nänabushu) had breathed upon him, then he asked him: “Well?” he said to him.*</span>
 
-<span class="l-gloss">Mii sa geget gaa-izhi-googiinid (and so truly he dived down) ∙ Ningoji (by and by) \[sentence runs onto p152; the full English of this dive-and-question is given on p151\]</span>
+<span class="l-gloss">Mii sa geget gaa-izhi-googiinid (and so truly he dived down) ∙ Ningoji (by and by) [sentence runs onto p152; the full English of this dive-and-question is given on p151]</span>
 
 <span class="l-orig">(32) “Migu ii täbabamagwaban igi’u mitigōg piwä‘kwana‘kisiwat, mīdạc a‘pi ka∙i∙ciwanäntaman.”</span>
 
@@ -283,11 +283,11 @@ Geget (indeed)
 
 <span class="l-fiero">**“Daga, giin, amik, naazika’an iw aki.”**</span>
 
-<span class="l-eng">*“Pray, you, O Beaver\! go fetch some earth.”*</span>
+<span class="l-eng">*“Pray, you, O Beaver! go fetch some earth.”*</span>
 
 <span class="l-gloss">Daga giin amik (pray, you, beaver) ∙ naazika’an iw aki (go after the earth)</span>
 
-<span class="l-orig">(34) Kägä‘t kä∙i∙cigōgit ‘aᵉa’ amik. Tcigwa’ minawa ki∙ä∙böckạntcisäwạn. Äcipabwätänät, “Anin?” udinän. “Kāwīnina kanaga kibäcwäbanda“zīnäbạn?”</span>
+<span class="l-orig">(34) Kägä‘t kä∙i∙cigōgit ‘aᵉa’ amik. Tcigwa’ minawa ki∙ä∙bōckạntcisäwạn. Äcipabwätänät, “Anin?” udinän. “Kāwīnina kanaga kibäcwäbandaⁿzīnäbạn?”</span>
 
 <span class="l-fiero">**Geget gaa-izhi-googiid a’aw amik. Zhigwa miinawaa gii-aaboozhkanjisewan. Ezhi-baabwetenaad, “Aaniin?” odinaan. “Gaawiinina ganage gibeshwaabandaazinaaban?”**</span>
 
@@ -317,9 +317,9 @@ Geget (indeed)
 
 <span class="l-eng">*“Now, you, Muskrat.”*</span>
 
-Daga giin wazhashk (now, you, muskrat)
+<span class="l-gloss">Daga giin wazhashk (now, you, muskrat)</span>
 
-<span class="l-orig">(38) Mīdạc kägä‘t äcikōgīt ‘aᵉa’u wajack. Cigwa äböckạntcisäwạn. Äciwuta‘pinät ugikacka‘kunitcạntamini, ä∙i∙tawini‘k uda‘kunamini ‘i‘i’ a‘ki; kayä usitäning, ä∙i∙tawisit usitäning a‘täni ‘i‘i’u a‘ki.</span>
+<span class="l-orig">(38) Mīdạc kägä‘t äcikōgīt ‘aᵉa’u wajack. Cigwa äbōckạntcisäwạn. Äciwuta‘pinät ugikacka‘kunitcạntamini, ä∙i∙tawini‘k uda‘kunamini ‘i‘i’ a‘ki; kayä usitäning, ä∙i∙tawisit usitäning a‘täni ‘i‘i’u a‘ki.</span>
 
 <span class="l-fiero">**Mii dash geget ezhi-googiid a’aw wazhashk. Zhigwa aaboozhkanjisewan. Ezhi-odaapinaad ogiikashka’gonijandamini, ayiitawinik oda’gonamini iw aki; gaye ozidaaning, ayiitawizid ozidaaning ataani iw aki.**</span>
 
@@ -327,7 +327,7 @@ Daga giin wazhashk (now, you, muskrat)
 
 <span class="l-gloss">Mii dash geget ezhi-googiid a’aw wazhashk (truly the muskrat dived) ∙ Zhigwa aaboozhkanjisewan (presently he came up dead) ∙ Ezhi-odaapinaad (as he took him up) ∙ ogiikashka’gonijandamini (he held it in his clenched paws) ∙ ayiitawinik oda’gonamini iw aki (in both paws he held the earth) ∙ gaye ozidaaning ayiitawizid ozidaaning ataani iw aki (also in each foot was some earth)</span>
 
-<span class="l-orig">(39) “Anic misa ‘i‘i’ tcikackitōyang tci∙o∙ci‘tōyang ‘i‘i’u a‘ki,” ugīⁿän. Anic mi cigwa kipōdätank ‘i‘i’ a‘ki, äckamigu kimi“tcäni, äckam kira‘ji‘tōt. Anic mīgu kä∙i∙cictcigät. Cigwa äjiki‘kändank äckam mi“tcänig, o‘ō∙widạc kī∙i∙kito: “Taga, mä∙i∙ngan, wäbandạn änigu‘kwägwän,” udinän maⁿ∙i∙nganạn kā∙ạ∙nōnät.</span>
+<span class="l-orig">(39) “Anic misa ‘i‘i’ tcikackitōyang tci∙o∙ci‘tōyang ‘i‘i’u a‘ki,” ugīⁿän. Anic mi cigwa kipōdätank ‘i‘i’ a‘ki, äckamigu kimiˢtcäni, äckam kī∙a∙ji‘tōt. Anic mīgu kä∙i∙cictcigät. Cigwa äjiki‘kändank äckam miˢtcänig, o‘ō∙widạc kī∙i∙kito: “Taga, mä∙i∙ngan, wäbandạn änigu‘kwägwän,” udinän maⁿ∙i∙nganạn kā∙ạ∙nōnät.</span>
 
 <span class="l-fiero">**“Aaniish mii sa iw ji-gashkitooyang ji-ozhi’tooyang iw aki,” ogiinaan. Aaniish mii zhigwa gii-boodaadang iw aki, eshkamigo gii-mishtaani, eshkam gii-ra’ji’tood. Aaniish mii go gaa-izhichiged. Zhigwa ezhi-gikendang eshkam mishtaanig, o’ow idash gii-ikido: “Daga, ma’iingan, waabandan enigokwegwen,” odinaan ma’iinganan gaa-anoonaad.**</span>
 
@@ -343,7 +343,7 @@ Daga giin wazhashk (now, you, muskrat)
 
 <span class="l-gloss">Mii dash geget gaa-izhi-maajaanid (and so truly he went off) ∙ mii dash gaa-izhi-dagwishininid (and then he arrived back)</span>
 
-<span class="l-orig">(41) “Kāwīnisa tänigu‘kwäsinōn,” kī∙i∙nändạm. “Usäm tạ∙ạ∙gäsin.” Mīdạc kā∙i∙cictcigät minawä nawatc tcimi“tcänig, mīdạc minawä kāci∙i∙nät: “Taga, wäbandạn minawä änigu‘kwägwän,” ugī∙i∙nän.</span>
+<span class="l-orig">(41) “Kāwīnisa tänigu‘kwäsinōn,” kī∙i∙nändạm. “Usäm tạ∙ạ∙gäsin.” Mīdạc kā∙i∙cictcigät minawä nawatc tcimiˢtcänig, mīdạc minawä kāci∙i∙nät: “Taga, wäbandạn minawä änigu‘kwägwän,” ugī∙i∙nän.</span>
 
 <span class="l-fiero">**“Gaawiinisa daa-inigokwaasinoon,” gii-inendam. “Onzaam daa-agaasin.” Mii dash gaa-izhichiged miinawaa nawaj ji-mishtaanig, mii dash miinawaa gaa-izhi-inaad: “Daga, waabandan miinawaa enigokwegwen,” ogii-inaan.**</span>
 
@@ -353,11 +353,11 @@ Daga giin wazhashk (now, you, muskrat)
 
 <span class="l-orig">(42) Mīsa’ kägä‘t kīmädcänit minawä. Kuniginin, äniwä‘k kạbäya∙i∙ inäntiwạn; cigwa tạgwicinōn minawä.</span>
 
-<span class="l-fiero">**Mii sa geget gii-maajaanid miinawaa. Goniginin, aaniwe’k gabayaii inendiwan; zhigwa dagwishinon miinawaa.**</span>
+<span class="l-fiero">**Mii sa geget gii-maajaanid miinawaa. Goniginin, aaniwek gabayaii inendiwan; zhigwa dagwishinon miinawaa.**</span>
 
 <span class="l-eng">*Thereupon truly off (the Wolf) started again. Lo, somewhat longer was he absent; then back was he come again.*</span>
 
-<span class="l-gloss">Mii sa geget gii-maajaanid miinawaa (truly off he went again) ∙ Goniginin aaniwe’k gabayaii inendiwan (lo, somewhat longer he was gone) ∙ zhigwa dagwishinon miinawaa (then he came back again)</span>
+<span class="l-gloss">Mii sa geget gii-maajaanid miinawaa (truly off he went again) ∙ Goniginin aaniwek gabayaii inendiwan (lo, somewhat longer he was gone) ∙ zhigwa dagwishinon miinawaa (then he came back again)</span>
 
 <span class="l-orig">(43) Mīdạc kā∙i∙nät: “‘Au, ạmbä, ạgwä‘täyu‘k,” ugī∙i∙näᵉ ạnōtc awäsiyaᵉ. Mīdạc kägä‘t. Mīsa cigwa kī‘pimädci∙ä∙t ‘i‘i’u</span>
 
@@ -365,9 +365,9 @@ Daga giin wazhashk (now, you, muskrat)
 
 <span class="l-eng">*Whereupon (Nänabushu) said to them: “Now, come, go you ashore,” he said to all the various game-folk. And so it was true. So, then, now he had saved the lives of the game-folk.*</span>
 
-<span class="l-gloss">Mii dash gaa-inaad (then he said to them) ∙ Au ambe agwaatayok (now, come, go ashore) ∙ ogii-inaag anooj awesiiyan (he said to all kinds of game-folk) ∙ Mii dash geget (and so it was) ∙ Mii sa zhigwa gii-bimaaji’aad iw (now he had saved the lives) \[sentence runs onto p154\]</span>
+<span class="l-gloss">Mii dash gaa-inaad (then he said to them) ∙ Au ambe agwaatayok (now, come, go ashore) ∙ ogii-inaag anooj awesiiyan (he said to all kinds of game-folk) ∙ Mii dash geget (and so it was) ∙ Mii sa zhigwa gii-bimaaji’aad iw (now he had saved the lives) [sentence runs onto p154]</span>
 
-<span class="l-eng">*Word-final ’ resolved per M.’s obviative-number ruling: ogii-inaa’ → ogii-inaag. Per M., 2026.*</span>
+*Word-final ’ resolved per M.’s obviative-number ruling: ogii-inaa’ → ogii-inaag. Per M., 2026.*
 
 <span class="l-orig">(44) bisäsinōn kā∙i∙cīnit pitcīnạg wä‘pimätisit,” ugī∙i∙nän. Mīsa minawä kā∙i∙ji∙ō∙citōt, “Cigwa taga,” ugī∙i∙nän; “mīmä tạc i∙i∙u tänigu‘kwägwän,” ugī∙i∙nän.</span>
 
@@ -401,7 +401,7 @@ Daga giin wazhashk (now, you, muskrat)
 
 <span class="l-gloss">Mii dash geget gii-maajaanid (truly off he started) ∙ Zhayiigwa miinawaa gii-maajaawan mii sa baabii’aad miinawaa (when he went, he awaited him again) ∙ Aii biinish gabayaii enendinind (oh, for a long while he was gone) ∙ Zhigwa dagwishin (then he came back) ∙ Gegetsa biinjaa iw gaa-izhi-aayaan (truly far have I been) ∙ ikidowan (he said)</span>
 
-<span class="l-orig">(48) Mēdạc, “Äyeᵉ, asäm ạtcina kidinänt,” ugī∙i∙nän. “Nawạtcisa käyäbi ka∙u∙ci‘tōmin o∙o∙ a‘ki.” Mīdạc minawä kā∙i∙ciuji‘tōd, nawatc tcimi“tcänig kī∙i∙cictcigät.</span>
+<span class="l-orig">(48) Mēdạc, “Äyeᵉ, asäm ạtcina kidinänt,” ugī∙i∙nän. “Nawạtcisa käyäbi ka∙u∙ci‘tōmin o∙o∙ a‘ki.” Mīdạc minawä kā∙i∙ciuji‘tōd, nawatc tcimiˢtcänig kī∙i∙cictcigät.</span>
 
 <span class="l-fiero">**Mii dash, “Aye’, onzaam achina gidinend,” ogii-inaan. “Nawajisa geyaabi ga-ozhi’toomin o’ow aki.” Mii dash miinawaa gaa-izhi-ozhi’tood, nawaj ji-mishtaanig gii-izhichiged.**</span>
 
@@ -423,9 +423,9 @@ Daga giin wazhashk (now, you, muskrat)
 
 <span class="l-eng">*“Ay, but not for so short a time do I wish you to be absent,” Nänabushu said to him. “Not so very few*</span>
 
-<span class="l-gloss">Aye’ (ay) ∙ gaawiin iw minik gidaa-izhi-nandawenimisinoon (not for so short a time do I wish you) ∙ ji-inendiyan (to be gone) ∙ ogii-inaan (he said to him) ∙ Naagajamina daa-dazhi-gebimaadizid omaa (not so very few will live here) \[runs onto p156\]</span>
+<span class="l-gloss">Aye’ (ay) ∙ gaawiin iw minik gidaa-izhi-nandawenimisinoon (not for so short a time do I wish you) ∙ ji-inendiyan (to be gone) ∙ ogii-inaan (he said to him) ∙ Naagajamina daa-dazhi-gebimaadizid omaa (not so very few will live here) [runs onto p156]</span>
 
-<span class="l-orig">(51) a‘king,” ugī∙i∙nän. “Pitcīnạg taba∙tä∙rno käpimädisit omäⁿ a‘king,” ugī∙i∙nän. Minawä kā∙i∙ji‘u∙ci‘tōwat, nawatc tcimi“tcänig kijictcigäwät.</span>
+<span class="l-orig">(51) a‘king,” ugī∙i∙nän. “Pitcīnạg taba∙tä∙no käpimädisit omäⁿ a‘king,” ugī∙i∙nän. Minawä kā∙i∙ji‘u∙ci‘tōwat, nawatc tcimiˢtcänig kijictcigäwät.</span>
 
 <span class="l-fiero">**akiing,” ogii-inaan. “Bijiinag daa-baatiinowan gebimaadizid omaa akiing,” ogii-inaan. Miinawaa gaa-izhi-ozhi’toowaad, nawaj ji-mishtaanig gii-izhichigewaad.**</span>
 
@@ -439,9 +439,9 @@ Daga giin wazhashk (now, you, muskrat)
 
 <span class="l-eng">*Thereupon again away went (the Wolf).*</span>
 
-Mii dash miinawaa gaa-izhi-maajaanid (and so again away he went)
+<span class="l-gloss">Mii dash miinawaa gaa-izhi-maajaanid (and so again away he went)</span>
 
-<span class="l-orig">(53) Mīsa’ pābī∙ä∙t mīnawä, pinic ninguki‘kinünawin kī∙i∙näntiwạn. Cigwa ningupibōn kā∙i∙näntinit cigwa tạgwicinōn.</span>
+<span class="l-orig">(53) Mīsa’ pābī∙ä∙t mīnawä, pinic ninguki‘kinūnawin kī∙i∙näntiwạn. Cigwa ningupibōn kā∙i∙näntinit cigwa tạgwicinōn.</span>
 
 <span class="l-fiero">**Mii sa baabii’aad miinawaa, biinish ningo-gikinoonowin gii-inendiwan. Zhigwa ningo-biboon gaa-inendinid zhigwa dagwishinon.**</span>
 
@@ -463,13 +463,13 @@ Mii dash miinawaa gaa-izhi-maajaanid (and so again away he went)
 
 <span class="l-eng">*Then again off started (the Wolf).*</span>
 
-Zhigwa miinawaa gii-maajaawan (then again off he started)
+<span class="l-gloss">Zhigwa miinawaa gii-maajaawan (then again off he started)</span>
 
 <span class="l-orig">(56) Mīsa’ minawä pābī∙ä∙t. Cigwa minawä ningu‘ki‘kinōnawin kī∙i∙näntiwạn, mīdạc cigwa pīnicnicuki‘kinonawin änäntinit. Mīsa papi∙ä∙t awäniban kätạgwicininit. Mīdạc kā∙i∙nändank: “Awäniban,” kī∙i∙nändạm. Mīsa’ anubäbi∙a∙t, mīsa’ äci∙ä∙pitäntinit. Kä∙i∙ci∙i∙kitut: “Taga, kin, kāgāgi, kiwitäsän amạntc inigu‘kwägwän,” ugī∙i∙nän.</span>
 
 <span class="l-fiero">**Mii sa miinawaa baabii’aad. Zhigwa miinawaa ningo-gikinoonowin gii-inendiwan, mii dash zhigwa biinish niizho-gikinoonowin enendinid. Mii sa baabii’aad awaaniban gaa-dagwishininid. Mii dash gaa-inendang: “Awaaniban,” gii-inendam. Mii sa anobaabii’ad, mii sa ezhi-aapitendinid. Gaa-izhi-ikidod: “Daga, giin, gaagaagi, giiwitaasen amanj inigokwegwen,” ogii-inaan.**</span>
 
-<span class="l-eng">*And so when (Nänabushu) waited again for his coming, then for another cycle of seasons was (the Wolf) absent, and then it came to pass that for two full rounds of seasons was (the Wolf) gone. And then he waited for him, but he was not destined to come back. And this was what he thought: “He is gone,” he thought. And so in vain he waited for him; but (the Wolf) was gone forever, at which he said: “Pray, you, O Raven\! do you fly round over (this earth) to find out how large it is,” he said to him.*</span>
+<span class="l-eng">*And so when (Nänabushu) waited again for his coming, then for another cycle of seasons was (the Wolf) absent, and then it came to pass that for two full rounds of seasons was (the Wolf) gone. And then he waited for him, but he was not destined to come back. And this was what he thought: “He is gone,” he thought. And so in vain he waited for him; but (the Wolf) was gone forever, at which he said: “Pray, you, O Raven! do you fly round over (this earth) to find out how large it is,” he said to him.*</span>
 
 <span class="l-gloss">Mii sa miinawaa baabii’aad (so again he awaited him) ∙ Zhigwa miinawaa ningo-gikinoonowin gii-inendiwan (another year he was gone) ∙ mii dash zhigwa biinish niizho-gikinoonowin enendinid (then for two years he was gone) ∙ Mii sa baabii’aad awaaniban gaa-dagwishininid (he waited but he would not return) ∙ Awaaniban gii-inendam (‘he is gone,’ he thought) ∙ Mii sa anobaabii’ad (in vain he waited) ∙ mii sa ezhi-aapitendinid (for he was gone for good) ∙ Daga giin gaagaagi giiwitaasen amanj inigokwegwen (pray, you, raven, fly around to see how big it is) ∙ ogii-inaan (he said to him)</span>
 
@@ -477,11 +477,11 @@ Zhigwa miinawaa gii-maajaawan (then again off he started)
 
 <span class="l-fiero">**Mii dash geget zhigwa gii-bazigwa’od. Mii sa apane gaa-maajisenid awaaniban anobaabii’ad; wiika anonandawaabamaad, ningo-gikinoonowin gaa-inendinid. Zhigwa bagamisewan. “Aaniiwe’kigo, Nenabozho, mishtaa wo’ow aki,” ogii-igoon.**</span>
 
-<span class="l-eng">*Thereupon truly then up (the Raven) rose on the wing. And so gone was he when he started flying away, and it was needless of (Nänabushu) to wait for him; for a long while he vainly watched for him, for one full round of seasons had he been gone when he came flying back home. “Rather large, O Nänabushu\! is this earth,” he was told.*</span>
+<span class="l-eng">*Thereupon truly then up (the Raven) rose on the wing. And so gone was he when he started flying away, and it was needless of (Nänabushu) to wait for him; for a long while he vainly watched for him, for one full round of seasons had he been gone when he came flying back home. “Rather large, O Nänabushu! is this earth,” he was told.*</span>
 
 <span class="l-gloss">Mii dash geget zhigwa gii-bazigwa’od (truly then up he rose on the wing) ∙ Mii sa apane gaa-maajisenid (he was gone when he flew off) ∙ awaaniban anobaabii’ad (in vain he waited) ∙ wiika anonandawaabamaad (long he watched for him) ∙ ningo-gikinoonowin gaa-inendinid (a full year he was gone) ∙ Zhigwa bagamisewan (then he came flying back) ∙ Aaniiwe’kigo Nenabozho mishtaa wo’ow aki (rather large, Nänabushu, is this earth) ∙ ogii-igoon (he was told)</span>
 
-<span class="l-orig">(58) “Mīsa’ käga i∙i∙u tä∙i∙nigu‘kwäg, mänü nawạtc minawa tcimistcäg ninga∙i∙cictciga,” ugī∙i∙nän. Mīdạc kägä‘t minama kā∙i∙ji∙u∙ci‘tōt i∙i∙u a‘ki. Kānī∙u∙gunạtinik cigwa minawä ugạnōnän īni’u kāgāgiwạn.</span>
+<span class="l-orig">(58) “Mīsa’ käga i∙i∙u tä∙i∙nigu‘kwäg, mänū nawạtc minawa tcimistcäg ninga∙i∙cictciga,” ugī∙i∙nän. Mīdạc kägä‘t minama kā∙i∙ji∙u∙ci‘tōt i∙i∙u a‘ki. Kānī∙u∙gunạtinik cigwa minawä ugạnōnän īni’u kāgāgiwạn.</span>
 
 <span class="l-fiero">**“Mii sa gega iw daa-inigokwaag, manoo nawaj miinawaa ji-mishtaag ninga-izhichige,” ogii-inaan. Mii dash geget minamaa gaa-izhi-ozhi’tood iw aki. Gaa-niiyogonadinig zhigwa miinawaa oganoonaan iniw gaagaagiwan.**</span>
 
@@ -489,7 +489,7 @@ Zhigwa miinawaa gii-maajaawan (then again off he started)
 
 <span class="l-gloss">Mii sa gega iw daa-inigokwaag (it is now almost big enough) ∙ manoo nawaj miinawaa ji-mishtaag ninga-izhichige (but I will make it yet larger) ∙ ogii-inaan (he said to him) ∙ Mii dash geget minamaa gaa-izhi-ozhi’tood iw aki (truly he made more of the earth) ∙ Gaa-niiyogonadinig zhigwa miinawaa oganoonaan iniw gaagaagiwan (after four days he again spoke to the raven)</span>
 
-<span class="l-eng">*Meaning the people.*</span>
+*Meaning the people.*
 
 <span class="l-orig">(59) Mīdac kägä‘t minawa cigwa äcipasigwa‘u‘t ‘aᵉa’ kāgāgi. Mīsa cigwa minawa ki‘kiwitäsät i∙i∙“ a‘ki.</span>
 
@@ -499,7 +499,7 @@ Zhigwa miinawaa gii-maajaawan (then again off he started)
 
 <span class="l-gloss">Mii dash geget miinawaa zhigwa ezhi-bazigwa’od a’aw gaagaagi (truly again up flew the raven) ∙ Mii sa zhigwa miinawaa gii-giiwitaased iw aki (then again he flew round the earth)</span>
 
-<span class="l-orig">(60) Mīsa minawä papī∙ä∙t Nänabucu. Pinic nicuki‘kinōnuwin änäntinit; awänibani‘ku kätagwicininit, pïnic cigwa kạbäya∙i∙ änäntinit; wi‘kä cigwa tagwicinōn minawä. Mīdạc kā∙i∙nät: “A, manu nawatc käyäbi tạmi“tcä.” Mīdạc kägä‘t minawä ka∙i∙ji‘o∙ci‘tōt i∙i∙“ a‘ki ni∙u∙gun, “Anīc, tagackumä, minawä awinäbin,” ugī∙i∙nän ini’ kāgāgiwạn. Cayigwa minawä pābi∙ä∙t, mīsa’ ka∙i∙ci∙a∙“pitäntinit. Anupäbī∙ä∙t.</span>
+<span class="l-orig">(60) Mīsa minawä papī∙ä∙t Nänabucu. Pinic nicuki‘kinōnuwin änäntinit; awänibani‘ku kätagwicininit, pīnic cigwa kạbäya∙i∙ änäntinit; wi‘kä cigwa tagwicinōn minawä. Mīdạc kā∙i∙nät: “A, manu nawatc käyäbi tạmiˢtcä.” Mīdạc kägä‘t minawä ka∙i∙ji‘o∙ci‘tōt i∙i∙“ a‘ki ni∙u∙gun, “Anīc, tagackumä, minawä awinäbin,” ugī∙i∙nän ini’ kāgāgiwạn. Cayigwa minawä pābi∙ä∙t, mīsa’ ka∙i∙ci∙a∙“pitäntinit. Anupäbī∙ä∙t.</span>
 
 <span class="l-fiero">**Mii sa miinawaa baabii’aad Nenabozho. Biinish niizho-gikinoonowin enendinid; awaanibani go gaa-dagwishininid, biinish zhigwa gabayaii enendinid; wiika zhigwa dagwishinon miinawaa. Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-mishtaa.” Mii dash geget miinawaa gaa-izhi-ozhi’tood iw aki niiyogon, “Aaniish, dagashkomaa, miinawaa awi-inaabin,” ogii-inaan iniw gaagaagiwan. Zhayiigwa miinawaa baabii’aad, mii sa gaa-izhi-aapitendinid. Anobaabii’aad.**</span>
 
@@ -515,6 +515,6 @@ Zhigwa miinawaa gii-maajaawan (then again off he started)
 
 <span class="l-gloss">Mii sa iw indawaa gaa-inigokwaag o-aki (that then will be the size of this earth) ∙ ogii-inaag (he said to them) ∙ Miimawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhi’ton (so I will make it heavy) ∙ wiika ji-bichi-michikaazonok (so that it shall never be moved)</span>
 
-*\[¹ Footnote marker ‘¹’ printed at the very end of the Ojibwe text (p.158, last line) and again on the English (p.159, ‘…shall never be moved.¹’). No footnote text appears at the foot of either p.158 or p.159 within this story’s page range — the note text, if any, would fall on p.160 (start of the next story) and is outside the scanned range. FLAG for M.: locate/verify the text of footnote ¹.\] — Word-final ’ resolved per M.’s obviative-number ruling: ogii-inaa’ → ogii-inaag. Per M., 2026.*
+*[¹ Footnote marker ‘¹’ printed at the very end of the Ojibwe text (p.158, last line) and again on the English (p.159, ‘…shall never be moved.¹’). No footnote text appears at the foot of either p.158 or p.159 within this story’s page range — the note text, if any, would fall on p.160 (start of the next story) and is outside the scanned range. FLAG for M.: locate/verify the text of footnote ¹.] — Word-final ’ resolved per M.’s obviative-number ruling: ogii-inaa’ → ogii-inaag. Per M., 2026.*
 
 </div>

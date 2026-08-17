@@ -3,27 +3,29 @@ title: "39. Strong, Bitter Stick"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
+<div class="four-layer">
+
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-<div class="four-layer">
-
 WĪSẠGĀ‘TIG.
 
-WIISAGAATIG.
+<span class="l-fiero">**WIISAGAATIG.**</span>
 
 STRONG, BITTER STICK.
 
-<span class="l-src">***from Ojibwa Texts collected by William Jones (1919).***</span>
+<span class="l-eng">*Narrated by Penesi — Series 2 (Nos. 4–43), Fort William (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
 
-<span class="l-orig">(1) Ninguding päᵉjik anicinābä pabāmādisigobạn nō‘pimīng; ā‘pidc, nībiwa awäsīⁿyaᵍ pimi‘kawäᵍ, ki‘tcimi‘kạnan owâbạndānạn pimamuninik.</span>
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
+
+<span class="l-orig">(1) Ninguding päᵉjik anicinābä pabāmādisigobạn nō‘pimīng; ā‘pidc, nībiwa awäsīⁿyaᵉ pimi‘kawäᵉ, ki‘tcimi‘kạnan owâbạndānạn pimamuninik.</span>
 
 <span class="l-fiero">**Ningoding bezhig anishinaabe babaamaadizigoban noopiming; aapij niibiwa awesiinyag bimikaweg, gichi-miikanan owaabandaanan bimamoninig.**</span>
 
 <span class="l-eng">*Once on a time a certain man was journeying about in the bush; very numerous were the tracks of the game-folk (that he saw), great paths he saw leading away.*</span>
 
-<span class="l-gloss">Ningoding (once) bezhig anishinaabe (one person) babaamaadizigoban (he was journeying about; *preterite*) noopiming (in the bush); aapij niibiwa (very many) awesiinyag (animals) bimikaweg (leaving tracks), gichi-miikanan (big trails) owaabandaanan (he saw them) bimamoninig (leading along).</span>
+<span class="l-gloss">Ningoding (once) bezhig anishinaabe (one person) babaamaadizigoban (he was journeying about) noopiming (in the bush); aapij niibiwa (very many) awesiinyag (animals) bimikaweg (leaving tracks), gichi-miikanan (big trails) owaabandaanan (he saw them) bimamoninig (leading along).</span>
 
 <span class="l-orig">(2) Gäga‘pī owâbạndān wā‘kā∙i∙gāns, ā‘pidci mäwija a‘pīsināgwạt ī∙i∙ᵘ wā‘ka∙i∙gāns; mēgu äji∙a∙‘kīyunk.</span>
 
@@ -33,7 +35,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gegapii (finally) owaabandaan (he saw it) waakaa’igaans (a little lodge), aapiji mewizha apiisinaagwad (it looked very old) i’iw waakaa’igaans (that little lodge); mii go ezhi-akiiwang (it was covered over with earth).</span>
 
-<span class="l-orig">(3) Ugī∙ạ∙nināzi‘kān ‘aᵍa’ᵘ anicinābä.</span>
+<span class="l-orig">(3) Ugī∙ạ∙nināzi‘kān ‘aᵉa’ᵘ anicinābä.</span>
 
 <span class="l-fiero">**Ogii-ani-naazikaan a’aw anishinaabe.**</span>
 
@@ -49,13 +51,13 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Apii idash (and when) gekenimigod (his presence was known by) i’imaa endaanid (the one dwelling there) gii-bi-zaaga’amoon (that one came outside).</span>
 
-<span class="l-orig">(5) Mēdạc ägut sạgīnidcinigut: “Wäwäni, wäwäni\! Pīndigän, nīdci\!” udigōn.</span>
+<span class="l-orig">(5) Mēdạc ägut sạgīnidcinigut: “Wäwäni, wäwäni! Pīndigän, nīdci!” udigōn.</span>
 
-<span class="l-fiero">**Mii dash egod zaginijiinigod: “Weweni, weweni\! Biindigen, niijii\!” odigoon.**</span>
+<span class="l-fiero">**Mii dash egod zaginijiinigod: “Weweni, weweni! Biindigen, niijii!” odigoon.**</span>
 
-<span class="l-eng">*Whereupon he was told, while being greeted with a shake of the hand: “Welcome, welcome\! Enter in, my friend\!” he was told.*</span>
+<span class="l-eng">*Whereupon he was told, while being greeted with a shake of the hand: “Welcome, welcome! Enter in, my friend!” he was told.*</span>
 
-<span class="l-gloss">Mii dash egod (and then he was told) zaginijiinigod (while being greeted by the hand): “Weweni, weweni\! (welcome, welcome\!) Biindigen, niijii\! (come in, my friend\!)” odigoon (he was told).</span>
+<span class="l-gloss">Mii dash egod (and then he was told) zaginijiinigod (while being greeted by the hand): “Weweni, weweni! (welcome, welcome!) Biindigen, niijii! (come in, my friend!)” odigoon (he was told).</span>
 
 <span class="l-orig">(6) Mīdạc äjiwâbạndạnk ạnōdc kägō mạcki‘ki ī∙i∙’ᵘ tînōwa kāyābạdci‘tōwād ạnicinābäᵉk nạndawändcigäwād, “onạmạn” kā∙i∙dạmowād ạnicinābäᵉk.</span>
 
@@ -89,7 +91,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Mii dash akawe (and so first) gii-ashamigod (he was given to eat) makode’ (a bear’s heart).</span>
 
-<span class="l-orig">(10) Kā∙i∙ckwäwīsinit ‘aᵍa’ᵘ anicinābäᵉ mī∙i∙’ᵘ kī∙u∙nạbiwāt.¹</span>
+<span class="l-orig">(10) Kā∙i∙ckwäwīsinit ‘aᵉa’ᵘ anicinābäᵉ mī∙i∙’ᵘ kī∙u∙nạbiwāt.¹</span>
 
 <span class="l-fiero">**Gaa-ishkwaa-wiisinid a’aw anishinaabe mii iw gii-onabiwaad.**</span>
 
@@ -97,7 +99,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gaa-ishkwaa-wiisinid (when he had finished eating) a’aw anishinaabe (that person) mii iw gii-onabiwaad (then they sat back).</span>
 
-<span class="l-eng">*¹ From the place of the food. (Jones’s note)*</span>
+*¹ From the place of the food. (Jones’s note)*
 
 <span class="l-orig">(11) Kīwīndạmāgut kädijitcigät kīcpîn wī∙ā∙bạdci‘tōd mī∙i∙’ᵘ mạcki‘ki; ka‘kina ändaswäwānạgisiwāt — mạnidōwäncạg, awäsīyänsạg, kunimā gayä gitci∙a∙wäsīyạg, kumā gayä kāpimisäwāt, kānūdci∙i∙ndwā — tōwạg ka‘kina iᵘ tōwa mạcki‘ki; kayäku anicinābäᵉk wīsāgi∙i∙tiwād udābạdci‘tōnāwa ī∙i∙ᵘ tōwa mạcki‘ki, unạmạn.</span>
 
@@ -123,7 +125,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gakina (all) ogii-bi-aabaji’toonaawaa (they have used it) anishinaabeg (the people) gii-nandawenjigewaad (when they hunted for game).</span>
 
-<span class="l-orig">(14) Nānīngutînō kāwīn kạnagä uwīki‘kändazīn tci∙u∙cimut ‘aᵍa’ᵘ awäⁿsī, kumā gayä ni‘kạg.</span>
+<span class="l-orig">(14) Nānīngutînō kāwīn kạnagä uwīki‘kändazīn tci∙u∙cimut ‘aᵉa’ᵘ awäⁿsī, kumā gayä ni‘kạg.</span>
 
 <span class="l-fiero">**Naaningodinoo gaawiin ganage owii-gikendanziin ji-ozhimod a’aw awesiinh, gomaa gaye nikag.**</span>
 
@@ -131,7 +133,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Naaningodinoo (frequently) gaawiin ganage (not even) owii-gikendanziin (does it know enough) ji-ozhimod (to flee) a’aw awesiinh (that game animal), gomaa gaye nikag (likewise also the geese).</span>
 
-<span class="l-orig">(15) Mīdạc igu iᵘ kayä wīn ‘aᵍa’ᵘ i‘kwä ändōdāgut ini’ᵘ unạmạnạn.</span>
+<span class="l-orig">(15) Mīdạc igu iᵘ kayä wīn ‘aᵉa’ᵘ i‘kwä ändōdāgut ini’ᵘ unạmạnạn.</span>
 
 <span class="l-fiero">**Mii dash igo iw gaye wiin a’aw ikwe endoodaagod iniw onamanan.**</span>
 
@@ -147,7 +149,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gomaa gaye (and also) ikwewag (women) naaningodinoo (often) odaabaji’aawaan (they use it; *onaman takes animate marking here*) iniw onamanan (the magic paint).</span>
 
-<span class="l-orig">(17) Kāwīn ā‘pidci ‘aᵍa’ᵘ i‘kwä mīnāsī ini’ᵘ unạmạnạn; nạnīzānädạgwạt i‘kwä äcimīnint ini’ᵘ unạmạnạn.</span>
+<span class="l-orig">(17) Kāwīn ā‘pidci ‘aᵉa’ᵘ i‘kwä mīnāsī ini’ᵘ unạmạnạn; nạnīzānädạgwạt i‘kwä äcimīnint ini’ᵘ unạmạnạn.</span>
 
 <span class="l-fiero">**Gaawiin aapiji a’aw ikwe miinaasii iniw onamanan; naniizaanedagwad ikwe ezhi-miinind iniw onamanan.**</span>
 
@@ -155,7 +157,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gaawiin aapiji (not often) a’aw ikwe (a woman) miinaasii (is given) iniw onamanan (the magic paint); naniizaanedagwad (it is dangerous) ikwe ezhi-miinind (when a woman is given) iniw onamanan (the magic paint).</span>
 
-<span class="l-orig">(18) Pa‘kān ijitcigātä ī∙i∙’ᵘ nānīngutinū wīmīnint ‘aᵍa’ᵘ i‘kwä.</span>
+<span class="l-orig">(18) Pa‘kān ijitcigātä ī∙i∙’ᵘ nānīngutinū wīmīnint ‘aᵉa’ᵘ i‘kwä.</span>
 
 <span class="l-fiero">**Bakaan izhichigaade i’iw naaningodinoo wii-miinind a’aw ikwe.**</span>
 

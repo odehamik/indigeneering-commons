@@ -3,8531 +3,6599 @@ title: "3. The Orphans and Mashoos"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
+<div class="four-layer">
+
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
-## **3. THE ORPHANS AND MASHOOS**
+> ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
+THE ORPHANS AND MASHOOS
 
-<div class="four-layer">
+<span class="l-eng">*Narrated by Mrs. Syrette — Series 1 (Nos. 1–3), Fort William (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
 
-> <span class="l-eng">*from Ojibwa Texts collected by William Jones (1919).*</span>
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-</div>
+<span class="l-orig">(1) Ningutinga kīⁿwäⁿ anicinābä a∙ī∙ndā widigämāgạnạn gayä nījiwạn kīwäⁿ unidcānisiwān; pājik ā‘pidci agāⁿciwạn.</span>
 
+<span class="l-fiero">**Ningotinga kiinwenh anishinaabe a’iindaa wiidigemaaganan gaye niizhiwan kiiwenh oniijaanisiwaan; pezhik aapiji agaanshiiwan.**</span>
 
-*Fiero restoration by Weshki (sites.google.com/site/weshki). Four-layer gloss added by the Jones Corpus project, 2026-06-14 — Weshki’s Fiero and Jones’s English preserved unchanged; gloss line added.*
+<span class="l-eng">*Once on a time they say there lived a man and his wife, and two they say was the number of their children; one was very small.*</span>
 
-1)  > **Ningotinga kiinwenh anishinaabe a'iindaa wiidigemaaganan gaye niizhiwan kiiwenh oniijaanisiwaan; pezhik aapiji agaanshiiwan.**
+<span class="l-gloss">Ningotinga kiinwenh (once on a time, they say) anishinaabe a’iindaa (a person dwelt) wiidigemaaganan gaye (with his wife too) niizhiwan kiiwenh oniijaanisiwaan (two, they say, were their children); pezhik aapiji agaanshiiwan (one was very small).</span>
 
+<span class="l-orig">(2) Mīdec kīwäⁿ a∙ī∙ndāwạg.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii desh kiiwenh a’iindaawag.**</span>
 
-> <span class="l-gloss">Once on a time they say there lived a man and his wife, and two they say was the number of their children; one was very small.</span>
+<span class="l-eng">*And it is said that they continued there.*</span>
 
-</div>
+<span class="l-gloss">Mii desh kiiwenh a’iindaawag (and so, they say, there they went on living).</span>
 
+<span class="l-orig">(3) Inini āndasogījik ạndawāndcigā; awädec i‘kwä kayä wīn manisä tcībā‘kwä gayä.</span>
 
-Ningotinga kiinwenh (once on a time, they say) anishinaabe a’iindaa (a person dwelt) wiidigemaaganan gaye (with his wife too) niizhiwan kiiwenh oniijaanisiwaan (two, they say, were their children); pezhik aapiji agaanshiiwan (one was very small).
+<span class="l-fiero">**Inini endaso-giizhik andawenjige; awe desh ikwe gaye wiin manise chiibaakwe gaye.**</span>
 
-2)  > **Mii desh kiiwenh a’iindaawag.**
+<span class="l-eng">*The man, as often as the days came round, hunted for game; and the woman, on her part, gathered fire-wood and cooked the meals.*</span>
 
+<span class="l-gloss">Inini endaso-giizhik andawenjige (the man, every day, hunted for game); awe desh ikwe gaye wiin (and as for the woman, she for her part) manise (gathered firewood) chiibaakwe gaye (and cooked too).</span>
 
-<div class="four-layer">
+<span class="l-orig">(4) Īni’ᵘ dec unidcānisiwā mạdcinīⁿj kwīwisänsạg.</span>
 
-> <span class="l-gloss">And it is said that they continued there.</span>
+<span class="l-fiero">**Iiniw desh oniijaanisiwaa majiniinzh kwiiwisensag.**</span>
 
-</div>
+<span class="l-eng">*And their two children were boys.*</span>
 
+<span class="l-gloss">Iiniw desh oniijaanisiwaa (and those children of theirs) majiniinzh kwiiwisensag (were both boys).</span>
 
-Mii desh kiiwenh a’iindaawag (and so, they say, there they went on living).
+<span class="l-orig">(5) Mīdec awä zäzī‘kizit kwīwisäns kānawānimāt ucīmäyänsạn ugīn manisänit tạnama‘kạmigizinitsagu gayä.</span>
 
-3)  > **Inini endaso-giizhik andawenjige; awe desh ikwe kaye wiin manise chiibaakwe gaye.**
+<span class="l-fiero">**Mii desh awe zeziikizit kwiiwisens kenawenimaat oshiimeyensan ogiin manisenit tanamakamigizinit sa go gaye.**</span>
 
+<span class="l-eng">*And the boy that was older had the care of his tiny brother while his mother went to gather fire-wood and while she was busy at her work.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii desh awe zeziikizit kwiiwisens (and so the boy who was older) kenawenimaat oshiimeyensan (cared for his little brother) ogiin manisenit (while his mother gathered firewood) tanamakamigizinit sa go gaye (and while she was busy at her work).</span>
 
-> <span class="l-gloss">The man, as often as the days came round, hunted for game; and the woman, on her part, gathered fire-wood and cooked the meals.</span>
+<span class="l-orig">(6) Ningudingdạc kīwäⁿ a∙ī∙ndāwāt awä inini kayä wīn āndasogīji‘k mādcāt papāndowāndcigāt.</span>
 
-</div>
+<span class="l-fiero">**Ningoding dash kiiwenh a’iindaawaat awe inini gaye wiin endaso-giizhik maajaat papaa-[a]ndowenjiget.**</span>
 
+<span class="l-eng">*Once on a time, so they say, while they were living at home, the man was every day away on a hunt for game.*</span>
 
-Inini endaso-giizhik andawenjige (the man, every day, hunted for game); awe desh ikwe kaye wiin (and as for the woman, she for her part) manise (gathered firewood) chiibaakwe gaye (and cooked too).
+<span class="l-gloss">Ningoding dash kiiwenh a’iindaawaat (and once, they say, while they were living there) awe inini gaye wiin (the man for his part) endaso-giizhik maajaat (each day going off) papaa-[a]ndowenjiget (roaming about hunting for game).</span>
 
-4)  > **Iiniw desh oniijaanisiwaa majiniinzh kwiiwisensag.**
+<span class="l-orig">(7) Awinini patagwicing umi‘kawān wīwạn pítcinag wimanisät kayä witcībā‘kwät.</span>
 
+<span class="l-fiero">**Aw inini pa-tagwishing omikawaan wiiwan pi(i)chinag wii-maniset gaye wii-chiibaakwet.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*When the man came home, his wife would that moment go for fire-wood, that she might make ready to cook the meal.*</span>
 
-> <span class="l-gloss">And their two children were boys.</span>
+<span class="l-gloss">Aw inini pa-tagwishing (when the man came home) omikawaan wiiwan (he would find his wife) pi(i)chinag wii-maniset (just then about to go for firewood) gaye wii-chiibaakwet (and about to cook).</span>
 
-</div>
+<span class="l-orig">(8) Ạbinōdcīyạg gayä ā‘pitci nicīwunātisiwạg.</span>
 
+<span class="l-fiero">**Abinoojiiyag gaye aapichi nishiiwonaatisiwag.**</span>
 
-Iiniw desh oniijaanisiwaa (and those children of theirs) majiniinzh kwiiwisensag (were both boys).
+<span class="l-eng">*The children were also very much neglected.*</span>
 
-5)  > **Mii desh awe zeziikizit kwiiwisens kenawenimaat oshiimeyensan ogiin manisenit tanamakamigizinit sa go gaye.**
+<span class="l-gloss">Abinoojiiyag gaye (the children too) aapichi nishiiwonaatisiwag (were very much neglected).</span>
 
+<span class="l-orig">(9) Nīguting dạc kīwäⁿ awinini māminōnändạm, inändạnk:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Niigoting dash kiiwenh aw inini maaminoonendam, inendank:**</span>
 
-> <span class="l-gloss">And the boy that was older had the care of his tiny brother while his mother went to gather fire-wood and while she was busy at her work.</span>
+<span class="l-eng">*And once they say the man felt as if he would give reproof, (and) thought:*</span>
 
-</div>
+<span class="l-gloss">Niigoting dash kiiwenh aw inini (and once, they say, the man) maaminoonendam (pondered uneasily), inendank (thinking):</span>
 
+<span class="l-orig">(10) “Ạmantcisa äjiwābạtogwän?” inändạm.</span>
 
-Mii desh awe zeziikizit kwiiwisens (and so the boy who was older) kenawenimaat oshiimeyensan (cared for his little brother) ogiin manisenit (while his mother gathered firewood) tanamakamigizinit sa go gaye (and while she was busy at her work).
+<span class="l-fiero">**“Amanchisa ezhiwebatogwen?” inendam.**</span>
 
-6)  > **Ningoding dash kiiwenh a’iindaawaat awe inini kaye wiin endaso-giizhik maajaat papaa-\[a\]ndowenjiget.**
+<span class="l-eng">*“I wonder what is going on!” he thought.*</span>
 
+<span class="l-gloss">“Amanchisa ezhiwebatogwen?” (“I wonder what can be going on?”) inendam (he thought).</span>
 
-<div class="four-layer">
+<span class="l-orig">(11) Mīgu tạsing äjimi‘kawāt īni’ᵘ wīwạn pitcīnạg mādci‘tānit tcībā‘kwänit.</span>
 
-> <span class="l-gloss">Once on a time, so they say, while they were living at home, the man was every day away on a hunt for game.</span>
+<span class="l-fiero">**Mii go tasing ezhi-mikawaat iiniw wiiwan pichiinag maajitaanit chiibaakwenit.**</span>
 
-</div>
+<span class="l-eng">*That was the way it always was, he would find his wife in the act of getting ready to cook the meal.*</span>
 
+<span class="l-gloss">Mii go tasing ezhi-mikawaat (that is how it always was, he would find) iiniw wiiwan (his wife) pichiinag maajitaanit (just then setting to work) chiibaakwenit (cooking).</span>
 
-Ningoding dash kiiwenh a’iindaawaat (and once, they say, while they were living there) awe inini kaye wiin (the man for his part) endaso-giizhik maajaat (each day going off) papaa-\[a\]ndowenjiget (roaming about hunting for game).
+<span class="l-orig">(12) Kāwīn kägō i‘kitosī inini.</span>
 
-7)  > **Aw inini pa-tagwishing omikawaan wiiwan pi(i)chinag wii-maniset kaye wii-chiibaakwet.**
+<span class="l-fiero">**Gaawiin kegoo ikitosii inini.**</span>
 
+<span class="l-eng">*Nothing did the man say.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Gaawiin kegoo ikitosii inini (nothing did the man say).</span>
 
-> <span class="l-gloss">When the man came home, his wife would that moment go for fire-wood, that she might make ready to cook the meal.</span>
+<span class="l-orig">(13) Mīdec kīⁿwāⁿ ānāndạnk:</span>
 
-</div>
+<span class="l-fiero">**Mii desh kiinwenh enendank:**</span>
 
+<span class="l-eng">*And then they say he thought:*</span>
 
-Aw inini pa-tagwishing (when the man came home) omikawaan wiiwan (he would find his wife) pi(i)chinag wii-maniset (just then about to go for firewood) kaye wii-chiibaakwet (and about to cook).
+<span class="l-gloss">Mii desh kiinwenh enendank (and so, they say, he thought):</span>
 
-8)  > **Abinoojiiyag gaye aapichi nishiiwonaatisiwag.**
+<span class="l-orig">(14) “Taga, nīngạgagwätcimā ningwisis zäzī‘kisit ānīn äjiwäba‘k āndāwāt.”</span>
 
+<span class="l-fiero">**“Taga, niinga-gagwechimaa ningwisis zeziikisit aaniin ezhiwebak endaawaat.”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Now, I will ask my son that is older what is going on here at our home.”*</span>
 
-> <span class="l-gloss">The children were also very much neglected.</span>
+<span class="l-gloss">“Taga, niinga-gagwechimaa (“now then, I will ask) ningwisis zeziikisit (my son who is older) aaniin ezhiwebak endaawaat.” (what is happening here at our home.”)</span>
 
-</div>
+<span class="l-orig">(15) Mīdạc kägä‘t äjigagwädcimāt ogwisisänsạn kīmōtc:</span>
 
+<span class="l-fiero">**Mii dash keget ezhi-gagwejimaat ogwisisensan kiimooch:**</span>
 
-Abinoojiiyag gaye (the children too) aapichi nishiiwonaatisiwag (were very much neglected).
+<span class="l-eng">*Thereupon truly he asked his son in secret:*</span>
 
-9)  > **Niigoting dash kiiwenh aw inini maaminoonendam, inendank:  
-    > **And once they say the man felt as if he would give reproof, (and) thought:
+<span class="l-gloss">Mii dash keget ezhi-gagwejimaat (and so truly he asked) ogwisisensan kiimooch (his little son in secret):</span>
 
-Niigoting dash kiiwenh aw inini (and once, they say, the man) maaminoonendam (pondered uneasily), inendank (thinking):
+<span class="l-orig">(16) “Ningwisis,” udinān, “ambäsanōnā wīndạmawicín, ānīn äna‘kạmigisit kīga?</span>
 
-10) > **"Amanchisa ezhiwebatogwen?" inendam.**
+<span class="l-fiero">**“Ningwisis,” odinaan, “ambesanoonaa wiindamawishi(i)n, aaniin enakamigisit kiiga?**</span>
 
+<span class="l-eng">*“My son,” he said to him, “come, and truly tell me, what is your mother doing?*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Ningwisis,” odinaan (“my son,” he said to him), “ambesanoonaa wiindamawishi(i)n (“come now, do tell me), aaniin enakamigisit kiiga? (what is your mother doing?)</span>
 
-> <span class="l-gloss">"I wonder what is going on\!" he thought.</span>
+<span class="l-orig">(17) Pítcinạg kimādci‘tād tägwicinānin.</span>
 
-</div>
+<span class="l-fiero">**Pi(i)chiinag kimaajitaad tegwishinaanin.**</span>
 
+<span class="l-eng">*Straightway does she go to work as soon as I come home.*</span>
 
-“Amanchisa ezhiwebatogwen?” (“I wonder what can be going on?”) inendam (he thought).
+<span class="l-gloss">Pi(i)chiinag kimaajitaad (just then she sets to work) tegwishinaanin (as soon as I arrive home).</span>
 
-11) > **Mii go tasing ezhi-mikawaat iiniw wiiwan pichiinag maajitaanit chiibaakwenit.**
+<span class="l-orig">(18) Kayä gīn kecīmäⁿyäns kayä ijinägusi mawit panä.”</span>
 
+<span class="l-fiero">**Gaye giin keshiimenyens gaye izhinaagosi mawit pane.”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And both you and your little brother look as if you were weeping all the time.”*</span>
 
-> <span class="l-gloss">That was the way it always was, he would find his wife in the act of getting ready to cook the meal.</span>
+<span class="l-gloss">Gaye giin keshiimenyens gaye (and you and your little brother both) izhinaagosi mawit pane.” (look as if you were crying all the time.”)</span>
 
-</div>
+<span class="l-orig">(19) Kwīwizänsidac kāwīn kägō wī∙i∙‘kitusī.</span>
 
+<span class="l-fiero">**Kwiiwizens idash gaawiin kegoo wii-ikitosii.**</span>
 
-Mii go tasing ezhi-mikawaat (that is how it always was, he would find) iiniw wiiwan (his wife) pichiinag maajitaanit (just then setting to work) chiibaakwenit (cooking).
+<span class="l-eng">*And the little boy did not wish to say anything.*</span>
 
-12) > **Kaawiin kegoo ikitosii inini.**
+<span class="l-gloss">Kwiiwizens idash (and the boy) gaawiin kegoo wii-ikitosii (did not want to say anything).</span>
 
+<span class="l-orig">(20) Gäga‘pīdạc a∙i∙nini a∙ī∙ndạcimāt udigōn:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Gegapii dash a inini aa’iindashimaat odigoon:**</span>
 
-> <span class="l-gloss">Nothing did the man say.</span>
+<span class="l-eng">*Then at last the man, after he had spoken much to him, was told:*</span>
 
-</div>
+<span class="l-gloss">Gegapii dash a inini (then at last the man) aa’iindashimaat (after he had spoken much to him) odigoon (was told by him):</span>
 
+<span class="l-orig">(21) “Ānic kigawīndamōnsa, ānawi kāwīn kägō kīwiwīndamōsīnūninābạn; kīgawīndamōnidacigu ä‘pītci kaskändạmān a‘panä nicīmäⁿyäns mawit kākabägīji‘k,” udinān ōsạn.</span>
 
-Kaawiin kegoo ikitosii inini (nothing did the man say).
+<span class="l-fiero">**“Aniish kiigawiindamoon sa, aanawi gaawiin kegoo kiiwiwiindamoosiinooninaaban; kiigawiindamoon idash igo epiichi kas[h]kendamaan apane nishiimenyens mawit kaakabe-giizhik,” odinaan oosan.**</span>
 
-13) > **Mii desh kiinwenh enendank:  
-    > **And then they say he thought:
+<span class="l-eng">*“Well, I really will tell you, yet I am not anxious to tell you anything; and I will tell you, simply for the reason that very sad am I all the time, that my little brother should cry during the whole of every day,” he (thus) said to his father.*</span>
 
-Mii desh kiinwenh enendank (and so, they say, he thought):
+<span class="l-gloss">“Aniish kiigawiindamoon sa (“well, I will tell you then), aanawi gaawiin kegoo kiiwiwiindamoosiinooninaaban (though I was not going to tell you anything); kiigawiindamoon idash igo (but I will tell you) epiichi kas[h]kendamaan apane (because I am so sad all the while) nishiimenyens mawit kaakabe-giizhik,” (that my little brother cries the whole day through,”) odinaan oosan (he said to his father).</span>
 
-14) > **"Taga, niinga-gagwechimaa ningwisis zeziikisit aaniin ezhiwebak endaawaat."**
+<span class="l-orig">(22) “Mīgu’ kä∙a∙nimādcäyạnini kigicäp nānāge kayä wīn ninganān mīga’yä wīn ujī‘tād zazägāwạt wäwäni gayä pinā‘kwä∙u∙.</span>
 
+<span class="l-fiero">**“Mii go ka-ani-maajaayanini kigishep naanaage gaye wiin ninganaan mii gaye wiin ozhiitaad zazegaawat weweni gaye pinaakwe’o.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“For just as soon as you are gone in the morning, then later does our mother also make ready and adorn herself and carefully comb her hair.*</span>
 
-> <span class="l-gloss">"Now, I will ask my son that is older what is going on here at our home."</span>
+<span class="l-gloss">“Mii go ka-ani-maajaayanini kigishep (“just as soon as you have gone off in the morning) naanaage gaye wiin ninganaan (later on our mother too) mii gaye wiin ozhiitaad (then she makes ready) zazegaawat weweni (adorning herself nicely) gaye pinaakwe’o (and carefully combs her hair).</span>
 
-</div>
+<span class="l-orig">(23) Mīdec äjimādcāt kayä wīn, mīdec kägā kīgäsi‘kawā pitạgwicing.</span>
 
+<span class="l-fiero">**Mii desh ezhi-maajaat gaye wiin, mii desh kegaa kii-gesikawaa pitagwishing.**</span>
 
-“Taga, niinga-gagwechimaa (“now then, I will ask) ningwisis zeziikisit (my son who is older) aaniin ezhiwebak endaawaat.” (what is happening here at our home.”)
+<span class="l-eng">*Thereupon she too goes away, and you almost precede her on the way home.*</span>
 
-15) > **Mii dash keget ezhi-gagwejimaat ogwisisensan kiimooch:  
-    > **Thereupon truly he asked his son in secret:
+<span class="l-gloss">Mii desh ezhi-maajaat gaye wiin (and so she too goes off), mii desh kegaa kii-gesikawaa pitagwishing (and you almost beat her getting home).</span>
 
-Mii dash keget ezhi-gagwejimaat (and so truly he asked) ogwisisensan kiimooch (his little son in secret):
+<span class="l-orig">(24) Pī∙ā∙ntcikwạnayät kayädec pinūnāt nicīmäⁿyänsạn,” udinān ōsạn.</span>
 
-16) > **"Ningwisis," odinaan, "ambesanoonaa wiindamawishi(i)n, aaniin enakamigisit kiiga?  
-    > **"My son," he said to him, "come, and truly tell me, what is your mother doing?
+<span class="l-fiero">**Pii-anchikwanayet gaye desh pinoonaat nishiimenyensan,” odinaan oosan.**</span>
 
-“Ningwisis,” odinaan (“my son,” he said to him), “ambesanoonaa wiindamawishi(i)n (“come now, do tell me), aaniin enakamigisit kiiga? (what is your mother doing?)
+<span class="l-eng">*She comes and takes off her clothes, and then gives suck to my little brother,” he (thus) said to his father.*</span>
 
-17) > **Pi(i)chiinag kimaajitaad tegwishinaanin.  
-    > **Straightway does she go to work as soon as I come home.**  
-    > **
+<span class="l-gloss">Pii-anchikwanayet (she comes and changes her clothes) gaye desh pinoonaat nishiimenyensan,” (and then nurses my little brother,”) odinaan oosan (he said to his father).</span>
 
-Pi(i)chiinag kimaajitaad (just then she sets to work) tegwishinaanin (as soon as I arrive home).
+<span class="l-orig">(25) Ininidec i‘kito:</span>
 
-18) > **Kaye giin keshiimenyens kaye izhinaagosi mawit pane."**
+<span class="l-fiero">**Inini desh ikito:**</span>
 
+<span class="l-eng">*And the man said:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Inini desh ikito (and the man said):</span>
 
-> <span class="l-gloss">And both you and your little brother look as if you were weeping all the time."</span>
+<span class="l-orig">(26) “Mī∙i∙we wā‘ki‘kändạmān,” i‘kito.</span>
 
-</div>
+<span class="l-fiero">**“Mii iwe waa-kikendamaan,” ikito.**</span>
 
+<span class="l-eng">*“That is just what I wanted to know,” he said.*</span>
 
-Kaye giin keshiimenyens kaye (and you and your little brother both) izhinaagosi mawit pane.” (look as if you were crying all the time.”)
+<span class="l-gloss">“Mii iwe waa-kikendamaan,” ikito (“that is just what I wanted to know,” he said).</span>
 
-19) > **Kwiiwizens idash kaawiin kegoo wii-ikitosii.**
+<span class="l-orig">(27) Mīdạc awinini kīwäⁿ weyābaninig kā∙i∙ji∙a∙‘kạmowāt ini’ᵘ wīwạn.</span>
 
+<span class="l-fiero">**Mii dash aw inini kiiwenh weyaabaninig kaa-izhi-akamowaat iiniw wiiwan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then the man, so they say, on the morrow lay in wait for his wife.*</span>
 
-> <span class="l-gloss">And the little boy did not wish to say anything.</span>
+<span class="l-gloss">Mii dash aw inini kiiwenh (and so the man, they say) weyaabaninig (on the next day) kaa-izhi-akamowaat iiniw wiiwan (lay in wait for his wife).</span>
 
-</div>
+<span class="l-orig">(28) Kägä‘t awinini weyābạninig kigijäp mādcā‘kāzo; päcudạc ä‘kudäbābạndạnk wīgiwām kī∙a∙yā ki‘kāzut.</span>
 
+<span class="l-fiero">**Keget aw inini weyaabaninig kigizhep maajaakaazo; pesho dash eko-debaabandank wiigiwaam kii-ayaa kikaazot.**</span>
 
-Kwiiwizens idash (and the boy) kaawiin kegoo wii-ikitosii (did not want to say anything).
+<span class="l-eng">*In fact, the man, on the morning of the next day, pretended that he was going away; and near the place from whence he could barely see the lodge, he remained in hiding.*</span>
 
-20) > **Gegapii dash a inini aa'iindashimaat odigoon:  
-    > **Then at last the man, after he had spoken much to him, was told:
+<span class="l-gloss">Keget aw inini weyaabaninig kigizhep (truly the man, the next morning) maajaakaazo (pretended to go off); pesho dash eko-debaabandank wiigiwaam (and close to where he could just barely see the lodge) kii-ayaa kikaazot (he stayed, hiding himself).</span>
 
-Gegapii dash a inini (then at last the man) aa’iindashimaat (after he had spoken much to him) odigoon (was told by him):
+<span class="l-orig">(29) Kī∙i∙nändạnk:</span>
 
-21) > **"Aniish kiigawiindamoon sa, aanawi kaawiin kegoo kiiwiwiindamoosiinooninaaban; kiigawiindamoon idash igo epiichi kas\[h\]kendamaan apane nishiimenyens mawit kaakabe-giizhik," odinaan oosan.**
+<span class="l-fiero">**Kii-inendank:**</span>
 
+<span class="l-eng">*He thought:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Kii-inendank (he thought):</span>
 
-> <span class="l-gloss">"Well, I really will tell you, yet I am not anxious to tell you anything; and I will tell you, simply for the reason that very sad am I all the time, that my little brother should cry during the whole of every day," he (thus) said to his father.</span>
+<span class="l-orig">(30) “Ningawâbạmāwa taga käda∙ī∙ndigwän.”</span>
 
-</div>
+<span class="l-fiero">**“Ninga-wabamaawa taga ked-a’iindigwen.”**</span>
 
+<span class="l-eng">*“I will now see what she is going to do.”*</span>
 
-“Aniish kiigawiindamoon sa (“well, I will tell you then), aanawi kaawiin kegoo kiiwiwiindamoosiinooninaaban (though I was not going to tell you anything); kiigawiindamoon idash igo (but I will tell you) epiichi kas\[h\]kendamaan apane (because I am so sad all the while) nishiimenyens mawit kaakabe-giizhik,” (that my little brother cries the whole day through,”) odinaan oosan (he said to his father).
+<span class="l-gloss">“Ninga-wabamaawa taga (“now let me see) ked-a’iindigwen.” (whatever she may be up to.”)</span>
 
-22) > **"Mii go ka-ani-maajaayanini kigishep naanaage kaye wiin ninganaan mii gaye wiin ozhiitaad zazegaawat weweni gaye pinaakwe'o.  
-    > **"For just as soon as you are gone in the morning, then later does our mother also make ready and adorn herself and carefully comb her hair.**  
-    > **
+<span class="l-orig">(31) Mīdec kägä‘t äjimādcāt.</span>
 
-“Mii go ka-ani-maajaayanini kigishep (“just as soon as you have gone off in the morning) naanaage kaye wiin ninganaan (later on our mother too) mii gaye wiin ozhiitaad (then she makes ready) zazegaawat weweni (adorning herself nicely) gaye pinaakwe’o (and carefully combs her hair).
+<span class="l-fiero">**Mii desh keget ezhi-maajaat.**</span>
 
-23) > **Mii desh ezhi-maajaat kaye wiin, mii desh kegaa kii-gesikawaa pitagwishing.  
-    > **Thereupon she too goes away, and you almost precede her on the way home.**  
-    > **
+<span class="l-eng">*And so truly now was he gone.*</span>
 
-Mii desh ezhi-maajaat kaye wiin (and so she too goes off), mii desh kegaa kii-gesikawaa pitagwishing (and you almost beat her getting home).
+<span class="l-gloss">Mii desh keget ezhi-maajaat (and so truly off he went).</span>
 
-24) > **Pii-anchikwanayet kaye desh pinoonaat nishiimenyensan," odinaan oosan.**
+<span class="l-orig">(32) Kumā‘pi cayīgwa kägä‘t pimisāga∙ạ∙mōn wīwan.</span>
 
+<span class="l-fiero">**Komaapi shayiigwa keget pimi-saaga’amoon wiiwan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Now, afterwards, when he was clearly gone, then truly did his wife come out of the lodge.*</span>
 
-> <span class="l-gloss">She comes and takes off her clothes, and then gives suck to my little brother," he (thus) said to his father.</span>
+<span class="l-gloss">Komaapi shayiigwa keget (after a while, when truly now) pimi-saaga’amoon wiiwan (out came his wife).</span>
 
-</div>
+<span class="l-orig">(33) Ā‘tā, ānīna äji∙u∙nit!</span>
 
+<span class="l-fiero">**Aataa, aaniina ezhi-onit!**</span>
 
-Pii-anchikwanayet (she comes and changes her clothes) kaye desh pinoonaat nishiimenyensan,” (and then nurses my little brother,”) odinaan oosan (he said to his father).
+<span class="l-eng">*Gracious, but she was in gay attire!*</span>
 
-25) > **Inini desh ikito:  
-    > **And the man said:
+<span class="l-gloss">Aataa, aaniina ezhi-onit! (my, how fine she was arrayed!)</span>
 
-Inini desh ikito (and the man said):
+<span class="l-orig">(34) Ā‘pidci zazägāwa∙ō∙wạn.</span>
 
-26) > **"Mii iwe waa-kikendamaan," ikito.**
+<span class="l-fiero">**Aapiji zazegaawa’oowan.**</span>
 
+<span class="l-eng">*Very beautiful was she.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Aapiji zazegaawa’oowan (very beautifully she was adorned).</span>
 
-> <span class="l-gloss">"That is just what I wanted to know," he said.</span>
+<span class="l-orig">(35) Panä iwiti kwaya‘k äni∙i∙jānit mạnisä‘kạnāng.</span>
 
-</div>
+<span class="l-fiero">**Pane iwiti kwayak eni-izhaanit manisekanaang.**</span>
 
+<span class="l-eng">*Right over there by a straight course she went, by way of the path used in going after the fire-wood.*</span>
 
-“Mii iwe waa-kikendamaan,” ikito (“that is just what I wanted to know,” he said).
+<span class="l-gloss">Pane iwiti kwayak eni-izhaanit (straight over yonder she was heading) manisekanaang (along the firewood path).</span>
 
-27) > **Mii dash aw inini kiiwenh weyaabaninig kaa-izhi-akamowaat iiniw wiiwan.**
+<span class="l-orig">(36) Kāwīndec wäwäni ugīgi‘känimāsin ini’ᵘ wīwạn äna‘kạmigizininigwän.</span>
 
+<span class="l-fiero">**Gaawiin desh weweni ogii-gikenimaasin iiniw wiiwan enakamigizininigwen.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And not exactly did he make out just what his wife was up to.*</span>
 
-> <span class="l-gloss">And then the man, so they say, on the morrow lay in wait for his wife.</span>
+<span class="l-gloss">Gaawiin desh weweni ogii-gikenimaasin (and not exactly did he make out) iiniw wiiwan enakamigizininigwen (whatever his wife might be up to).</span>
 
-</div>
+<span class="l-orig">(37) Mīdec mīnawā kīwäⁿ weyābạninig tíbickō kā‘todạnk, kī∙i∙jāt iwiti kā∙a∙nijipickwābamā‘pạn pítcīnāgō.</span>
 
+<span class="l-fiero">**Mii desh miinawaa kiiwenh weyaabaninig ti(i)bishkoo kaa-todank, kii-izhaat iwiti kaa-ani-[i]zhi-pishkwaabamaapan pi(i)chiinaagoo.**</span>
 
-Mii dash aw inini kiiwenh (and so the man, they say) weyaabaninig (on the next day) kaa-izhi-akamowaat iiniw wiiwan (lay in wait for his wife).
+<span class="l-eng">*And then again, they say, on the next day he did the same thing, he went over to the place where he had barely lost sight of her on the day before.*</span>
 
-28) > **Keget aw inini weyaabaninig kigizhep maajaakaazo; pesho dash eko-debaabandank wiigiwaam kii-ayaa kikaazot.**
+<span class="l-gloss">Mii desh miinawaa kiiwenh weyaabaninig (and then again, they say, the next day) ti(i)bishkoo kaa-todank (he did the same thing), kii-izhaat iwiti (he went over there) kaa-ani-[i]zhi-pishkwaabamaapan pi(i)chiinaagoo (to where he had just lost sight of her the day before).</span>
 
+<span class="l-orig">(38) Mīdec kīmi‘kawāt päji‘k gistcimi‘tigōn pada‘kizunit ā‘pitci mískwā‘kuskīgāsonidcin.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii desh kii-mikawaat pezhik gischi-mitigoon padakizonit aapichi mi(i)skwaakos[h]kiigaasonijin.**</span>
 
-> <span class="l-gloss">In fact, the man, on the morning of the next day, pretended that he was going away; and near the place from whence he could barely see the lodge, he remained in hiding.</span>
+<span class="l-eng">*And then he found standing alone a great tree, which was very red by reason of the bark being peeled off on account of much travel upon it.*</span>
 
-</div>
+<span class="l-gloss">Mii desh kii-mikawaat (and then he found) pezhik gischi-mitigoon padakizonit (a single great tree standing) aapichi mi(i)skwaakos[h]kiigaasonijin (all very red from having its bark worn off).</span>
 
+<span class="l-orig">(39) Mīdec, “Mī gạnabạtc ōmā ä∙i∙jāt,” inändạm.</span>
 
-Keget aw inini weyaabaninig kigizhep (truly the man, the next morning) maajaakaazo (pretended to go off); pesho dash eko-debaabandank wiigiwaam (and close to where he could just barely see the lodge) kii-ayaa kikaazot (he stayed, hiding himself).
+<span class="l-fiero">**Mii desh, “Mii ganabach oomaa e-izhaat,” inendam.**</span>
 
-29) > **Kii-inendank:  
-    > **He thought:
+<span class="l-eng">*And then, “It is perhaps here that she goes,” he thought.*</span>
 
-Kii-inendank (he thought):
+<span class="l-gloss">Mii desh, “Mii ganabach oomaa e-izhaat,” inendam (and then, “it is here perhaps that she goes,” he thought).</span>
 
-30) > **"Ninga-wabamaawa taga ked-a'iindigwen."**
+<span class="l-orig">(40) Ā‘pitci gayä gi‘tạmonini mi‘kana omi‘kạnāni.</span>
 
+<span class="l-fiero">**Aapichi gaye gitamonini miikana omikanaani.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And very plain was the beaten path (to the tree).*</span>
 
-> <span class="l-gloss">"I will now see what she is going to do."</span>
+<span class="l-gloss">Aapichi gaye gitamonini miikana (and very plain was the path) omikanaani (her trail to it).</span>
 
-</div>
+<span class="l-orig">(41) Mīdạc änändạnk:</span>
 
+<span class="l-fiero">**Mii dash enendank:**</span>
 
-“Ninga-wabamaawa taga (“now let me see) ked-a’iindigwen.” (whatever she may be up to.”)
+<span class="l-eng">*And then he thought:*</span>
 
-31) > **Mii desh keget ezhi-maajaat.**
+<span class="l-gloss">Mii dash enendank (and then he thought):</span>
 
+<span class="l-orig">(42) “Mī∙i∙mā päcu tcikāsoyān,” inändạm.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Mii imaa pesho chikaasoyan,” inendam.**</span>
 
-> <span class="l-gloss">And so truly now was he gone.</span>
+<span class="l-eng">*“It is near by this place that I will hide myself,” he thought.*</span>
 
-</div>
+<span class="l-gloss">“Mii imaa pesho chikaasoyan,” inendam (“right here close by I will hide myself,” he thought).</span>
 
+<span class="l-orig">(43) Mīdạc kägä‘t cayīgwa mīnawā pināgusiwạn wīwạn.</span>
 
-Mii desh keget ezhi-maajaat (and so truly off he went).
+<span class="l-fiero">**Mii dash keget shayiigwa miinawaa pi-naagosiwan wiiwan.**</span>
 
-32) > **Komaapi shayiigwa keget pimi-saaga'amoon wiiwan.**
+<span class="l-eng">*Thereupon, of a truth, coming hither into view was his wife.*</span>
 
+<span class="l-gloss">Mii dash keget shayiigwa miinawaa pi-naagosiwan wiiwan (and then truly, now once more, into view came his wife).</span>
 
-<div class="four-layer">
+<span class="l-orig">(44) Ā‘ta, mīdac kägä‘t mino∙u∙nit!</span>
 
-> <span class="l-gloss">Now, afterwards, when he was clearly gone, then truly did his wife come out of the lodge.</span>
+<span class="l-fiero">**Aata, mii dash keget mino-onit!**</span>
 
-</div>
+<span class="l-eng">*Oh, but she was truly arrayed in fine attire!*</span>
 
+<span class="l-gloss">Aata, mii dash keget mino-onit! (oh, and truly she was finely arrayed!)</span>
 
-Komaapi shayiigwa keget (after a while, when truly now) pimi-saaga’amoon wiiwan (out came his wife).
+<span class="l-orig">(45) Cayīgwa päcu pī∙a∙ya imā mi‘tigōn pata‘kizunit.</span>
 
-33) > **Aataa, aaniina ezhi-onit\!**
+<span class="l-fiero">**Shayiigwa pesho pii-aya imaa mitigoon patakizonit.**</span>
 
+<span class="l-eng">*Now close by she came to where the tree was standing.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Shayiigwa pesho pii-aya imaa (now close by she came to where) mitigoon patakizonit (the tree was standing).</span>
 
-> <span class="l-gloss">Gracious, but she was in gay attire\!</span>
+<span class="l-orig">(46) Mīdạc awi‘kwä äjipa‘kitä∙ā∙‘kowāt ini’ᵘ mi‘tigōn pä‘kic i‘kitut:</span>
 
-</div>
+<span class="l-fiero">**Mii dash aw ikwe ezhi-pakite’aakowaat iiniw mitigoon pekish ikitot:**</span>
 
+<span class="l-eng">*Whereupon the woman pounded upon the tree, at the same time she said:*</span>
 
-Aataa, aaniina ezhi-onit\! (my, how fine she was arrayed\!)
+<span class="l-gloss">Mii dash aw ikwe ezhi-pakite’aakowaat iiniw mitigoon (and then the woman struck upon the tree) pekish ikitot (at the same time saying):</span>
 
-34) > **Aapiji zazegaawa'oowan.**
+<span class="l-orig">(47) “Ninābämitug! Nintạgwicin minawā ābinding,” i‘kito.</span>
 
+<span class="l-fiero">**“Ninaapemitog! Nintagwishin minawaa aabinding,” ikito.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“O my husbands! I am come once again,” she said.*</span>
 
-> <span class="l-gloss">Very beautiful was she.</span>
+<span class="l-gloss">“Ninaapemitog! (“O my husbands!) Nintagwishin minawaa aabinding,” ikito (I have come once again,” she said).</span>
 
-</div>
+<span class="l-orig">(48) Apạnä kīwäⁿgu pasāgitōtäwāt kinäbigōk.</span>
 
+<span class="l-fiero">**Apane kiiwenh go pasaagitootewaat kinebigook.**</span>
 
-Aapiji zazegaawa’oowan (very beautifully she was adorned).
+<span class="l-eng">*Without ceasing, they say, out came crawling the snakes.*</span>
 
-35) > **Pane iwiti kwayak eni-izhaanit manisekanaang.**
+<span class="l-gloss">Apane kiiwenh go (without ceasing, they say) pasaagitootewaat kinebigook (out came crawling the snakes).</span>
 
+<span class="l-orig">(49) Wayībagu ukī∙ā∙ngwäckāgōn wī∙u∙mwigut.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Wayiiba go okii-aangweshkaagoon wii-omwigot.**</span>
 
-> <span class="l-gloss">Right over there by a straight course she went, by way of the path used in going after the fire-wood.</span>
+<span class="l-eng">*In a little while she was coiled about by them, and made use of as a wife.*</span>
 
-</div>
+<span class="l-gloss">Wayiiba go okii-aangweshkaagoon (in a little while she was coiled about by them) wii-omwigot (and used as a wife).</span>
 
+<span class="l-orig">(50) Mīdac awinini kīwâbạmāt wīwạn ändōdạminit.</span>
 
-Pane iwiti kwayak eni-izhaanit (straight over yonder she was heading) manisekanaang (along the firewood path).
+<span class="l-fiero">**Mii dash aw inini kii-wabamaat wiiwan endoodaminit.**</span>
 
-36) > **Kaawiin desh weweni ogii-gikenimaasin iiniw wiiwan enakamigizininigwen.**
+<span class="l-eng">*And the man saw what his wife was doing.*</span>
 
+<span class="l-gloss">Mii dash aw inini kii-wabamaat (and then the man saw) wiiwan endoodaminit (what his wife was doing).</span>
 
-<div class="four-layer">
+<span class="l-orig">(51) Kī∙a∙nimādcā wäwīp; kīni∙ā∙pạmiskāt, kī∙i∙jāt ändāwāt.</span>
 
-> <span class="l-gloss">And not exactly did he make out just what his wife was up to.</span>
+<span class="l-fiero">**Kii-ani-maajaa wewiip; kii-ni-aapamiskaat, kii-izhaat endaawaat.**</span>
 
-</div>
+<span class="l-eng">*He went speedily away; around he turned (and) went home.*</span>
 
+<span class="l-gloss">Kii-ani-maajaa wewiip (he went away in haste); kii-ni-aapamiskaat (turning back around) kii-izhaat endaawaat (he went home).</span>
 
-Kaawiin desh weweni ogii-gikenimaasin (and not exactly did he make out) iiniw wiiwan enakamigizininigwen (whatever his wife might be up to).
+<span class="l-orig">(52) Mīdạc kīwīndạmāwāt unīdcānisa‘, kī∙i∙nāt:</span>
 
-37) > **Mii desh miinawaa kiiwenh weyaabaninig ti(i)bishkoo kaa-todank, kii-izhaat iwiti kaa-ani-\[i\]zhi-pishkwaabamaapan pi(i)chiinaagoo.**
+<span class="l-fiero">**Mii dash kii-wiindamaawaat oniijaanisa’, kii-inaat:**</span>
 
+<span class="l-eng">*And then he spoke to his children, he said to them:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kii-wiindamaawaat oniijaanisa’ (and then he told his children), kii-inaat (saying to them):</span>
 
-> <span class="l-gloss">And then again, they say, on the next day he did the same thing, he went over to the place where he had barely lost sight of her on the day before.</span>
+<span class="l-orig">(53) “Ningīwâbạmā kīgiwā ändōdạnk.</span>
 
-</div>
+<span class="l-fiero">**“Ningii-wabamaa kiigiwaa endoodank.**</span>
 
+<span class="l-eng">*“I’ve seen what your mother is doing.*</span>
 
-Mii desh miinawaa kiiwenh weyaabaninig (and then again, they say, the next day) ti(i)bishkoo kaa-todank (he did the same thing), kii-izhaat iwiti (he went over there) kaa-ani-\[i\]zhi-pishkwaabamaapan pi(i)chiinaagoo (to where he had just lost sight of her the day before).
+<span class="l-gloss">“Ningii-wabamaa kiigiwaa endoodank (“I have seen what your mother is doing).</span>
 
-38) > **Mii desh kii-mikawaat pezhik gischi-mitigoon padakizonit aapichi mi(i)skwaakos\[h\]kiigaasonijin.**
+<span class="l-orig">(54) Mīdạc kīgīcänimak tcinisạk.—Kīndạc</span>
 
+<span class="l-fiero">**Mii dash kii-giishenimak chi-nisak.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*I’ve made up my mind to kill her.*</span>
 
-> <span class="l-gloss">And then he found standing alone a great tree, which was very red by reason of the bark being peeled off on account of much travel upon it.</span>
+<span class="l-gloss">Mii dash kii-giishenimak chi-nisak (and so I have made up my mind to kill her).</span>
 
-</div>
+<span class="l-orig">(55) ningwisis,” udinān, “kicīmäⁿyäns kīgamādcīnā kīgapímōmā,” udinān.</span>
 
+<span class="l-fiero">**— Kiin dash ningwisis,” odinaan, “kishiimenyens kiiga-maajiinaa kiiga-pi(i)moomaa,” odinaan.**</span>
 
-Mii desh kii-mikawaat (and then he found) pezhik gischi-mitigoon padakizonit (a single great tree standing) aapichi mi(i)skwaakos\[h\]kiigaasonijin (all very red from having its bark worn off).
+<span class="l-eng">*— And you, my son,” he said to him, “your wee little brother would I have you take away, I would that you carry him on your back,” he said to him.*</span>
 
-39) > **Mii desh, "Mii ganabach oomaa e-izhaat," inendam.**
+<span class="l-gloss">— Kiin dash ningwisis,” odinaan (— and you, my son,” he said to him), “kishiimenyens kiiga-maajiinaa (“your little brother you shall take away) kiiga-pi(i)moomaa,” odinaan (you shall carry him on your back,” he said to him).</span>
 
+<span class="l-orig">(56) “Nīndac ōmā ningatayā pīnic tcipitạgwicing kīgiwā,” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Niin dash oomaa ningat-ayaa piinish chi-pi-tagwishing kiigiwaa,” odinaan.**</span>
 
-> <span class="l-gloss">And then, "It is perhaps here that she goes," he thought.</span>
+<span class="l-eng">*“And I here will remain until the arrival of your mother,” he said to him.*</span>
 
-</div>
+<span class="l-gloss">“Niin dash oomaa ningat-ayaa (“and I will stay here) piinish chi-pi-tagwishing kiigiwaa,” odinaan (until your mother arrives,” he said to him).</span>
 
+<span class="l-orig">(57) “Aiyāngwāmisin, ningwisis,” udinān; “wī‘pimātisiyu‘k wīpimādci kayä kicīmäyäns.</span>
 
-Mii desh, “Mii ganabach oomaa e-izhaat,” inendam (and then, “it is here perhaps that she goes,” he thought).
+<span class="l-fiero">**“Aiyaangwaamisin, ningwisis,” odinaan; “wii-pimaatisiyok wii-pimaaji gaye kishiimeyens.**</span>
 
-40) > **Aapichi gaye gitamonini mikana omikanaani.**
+<span class="l-eng">*“Do as well as you can, my son,” he said to him; “so that you may live, and also save the life of your wee little brother.*</span>
 
+<span class="l-gloss">“Aiyaangwaamisin, ningwisis,” odinaan (“be careful, my son,” he said to him); “wii-pimaatisiyok (“so that you may live) wii-pimaaji gaye kishiimeyens (and save your little brother too).</span>
 
-<div class="four-layer">
+<span class="l-orig">(58) Mīwe gwaya‘k kädacaiyäg,” udinān; “gwaya‘k nīngābī∙a∙nung, mīdac iwiti tci∙a∙niwâbamạtwā kō‘komisạg,” udinān īni’ᵘ ugwisisänsạn.</span>
 
-> <span class="l-gloss">And very plain was the beaten path (to the tree).</span>
+<span class="l-fiero">**Mii [i]we gwayak ked-ashaiyeg,” odinaan; “gwayak niingaabii’anong, mii dash iwiti chi-ani-wabamatwaa kookomisag,” odinaan iiniw ogwisisensan.**</span>
 
-</div>
+<span class="l-eng">*Straight in yonder direction shall you go,” he said to them; “straight toward the west, for over by that way will you go and see your grand mothers,” he said to his little son.*</span>
 
+<span class="l-gloss">Mii [i]we gwayak ked-ashaiyeg,” odinaan (“straight that way you shall go,” he said to them); “gwayak niingaabii’anong (“straight toward the west), mii dash iwiti chi-ani-wabamatwaa kookomisag,” odinaan iiniw ogwisisensan (and over there you shall go and see your grandmothers,” he said to his little son).</span>
 
-Aapichi gaye gitamonini mikana (and very plain was the path) omikanaani (her trail to it).
+<span class="l-orig">(59) “Mīdec äninān, kīganō‘pinaca∙o∙gowā; pō‘tc aᵘ kigiwā.</span>
 
-41) > **Mii dash enendank:  
-    > **And then he thought:**  
-    > **
+<span class="l-fiero">**“Mii desh eninaan, kiiga-noopinasha’ogowaa; pooch aw kigiwaa.**</span>
 
-Mii dash enendank (and then he thought):
+<span class="l-eng">*“And yet I say to you, she will pursue you; in spite of all, will your mother (follow you).*</span>
 
-42) > **"Mii imaa pesho chikaasoyan," inendam.**
+<span class="l-gloss">“Mii desh eninaan, kiiga-noopinasha’ogowaa (“and yet I tell you, she will pursue you); pooch aw kigiwaa (no matter what, your mother will).</span>
 
+<span class="l-orig">(60) Kägu’ dạc bā‘pic ābạnābi‘kägun!” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Kego dash baapish aabanaabikegon!” odinaan.**</span>
 
-> <span class="l-gloss">"It is near by this place that I will hide myself," he thought.</span>
+<span class="l-eng">*And don’t ever under any condition look behind you!” he said to him.*</span>
 
-</div>
+<span class="l-gloss">Kego dash baapish aabanaabikegon!” odinaan (and never, ever look back!” he said to him).</span>
 
+<span class="l-orig">(61) “Kägu’ gayä kipitcipatō‘kägun!” udinān.</span>
 
-“Mii imaa pesho chikaasoyan,” inendam (“right here close by I will hide myself,” he thought).
+<span class="l-fiero">**“Kego gaye kipichipatookegon!” odinaan.**</span>
 
-43) > **Mii dash keget shayiigwa miinawaa pi-naagosiwan wiiwan.**
+<span class="l-eng">*“And also don’t ever stop running!” he said to him.*</span>
 
+<span class="l-gloss">“Kego gaye kipichipatookegon!” odinaan (“and never stop running, either!” he said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(62) “Pítcinạg kayä iwiti kō‘kumesạg kīgagigī‘kimigōg,” udinān.</span>
 
-> <span class="l-gloss">Thereupon, of a truth, coming hither into view was his wife.</span>
+<span class="l-fiero">**“Pi(i)chinag gaye iwiti kookomesag kiiga-gigiikimigoog,” odinaan.**</span>
 
-</div>
+<span class="l-eng">*“And by and by at that place will your grandmothers give you words of advice,” he said to him.*</span>
 
+<span class="l-gloss">“Pi(i)chinag gaye iwiti kookomesag (“and by and by, over there, your grandmothers) kiiga-gigiikimigoog,” odinaan (will counsel you,” he said to him).</span>
 
-Mii dash keget shayiigwa miinawaa pi-naagosiwan wiiwan (and then truly, now once more, into view came his wife).
+<span class="l-orig">(63) Mīdec kīⁿwäⁿ äjōdā‘pienāng iᵘ ta‘kināgạn ta‘kupisunit ägāⁿcī∙i∙nit ugwisisänsän.</span>
 
-44) > **Aata, mii dash keget mino-onit\!**
+<span class="l-fiero">**Mii desh kiinwenh ezhoodaapi’enaang iw takinaagan takopisonit egaanshiiinit ogwisisensen.**</span>
 
+<span class="l-eng">*And then they say he took up the cradle-board on which was tied his little son.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii desh kiinwenh ezhoodaapi’enaang iw takinaagan (and then, they say, he took up the cradle-board) takopisonit egaanshiiinit ogwisisensen (on which his little son was bound).</span>
 
-> <span class="l-gloss">Oh, but she was truly arrayed in fine attire\!</span>
+<span class="l-orig">(64) Umbiwạnä∙ā∙t īni’ᵘ zäzī‘kisit ugwisisạn.</span>
 
-</div>
+<span class="l-fiero">**Ombiwane’aat iiniw zeziikisit ogwisisan.**</span>
 
+<span class="l-eng">*He lifted it upon the back of his son who was older.*</span>
 
-Aata, mii dash keget mino-onit\! (oh, and truly she was finely arrayed\!)
+<span class="l-gloss">Ombiwane’aat iiniw zeziikisit ogwisisan (he lifted it onto the back of his older son).</span>
 
-45) > **Shayiigwa pesho pii-aya imaa mitigoon patakizonit.**
+<span class="l-orig">(65) ‘Iᵉi’widec ta‘kināgạn kägā umạci‘kizidōn iwe ta‘kināgạn aᵘ kwīwisäns.</span>
 
+<span class="l-fiero">**I’iw idesh takinaagan kegaa omashikizidoon iwe takinaagan aw kwiiwisens.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And with that cradle-board the boy almost touched the ground.*</span>
 
-> <span class="l-gloss">Now close by she came to where the tree was standing.</span>
+<span class="l-gloss">I’iw idesh takinaagan (and with that cradle-board) kegaa omashikizidoon iwe takinaagan aw kwiiwisens (the boy almost dragged it on the ground).</span>
 
-</div>
+<span class="l-orig">(66) Mīdec äjimādcānit, “Kicī‘kān, ningwisis! änigu‘k pimusän,” udinān ainini.</span>
 
+<span class="l-fiero">**Mii desh ezhi-maajaanit, “Kishiikaan, ningwisis! enigok pimosen,” odinaan a inini.**</span>
 
-Shayiigwa pesho pii-aya imaa (now close by she came to where) mitigoon patakizonit (the tree was standing).
+<span class="l-eng">*And as he started away, “Go fast, my son! at full speed must you go,” said the man to him.*</span>
 
-46) > **Mii dash aw ikwe ezhi-pakite'aakowaat iiniw mitigoon pekish ikitot:  
-    > **Whereupon the woman pounded upon the tree, at the same time she said:**  
-    > **
+<span class="l-gloss">Mii desh ezhi-maajaanit (and as he set off), “Kishiikaan, ningwisis! (“go fast, my son!) enigok pimosen,” odinaan a inini (walk with all your might,” said the man to him).</span>
 
-Mii dash aw ikwe ezhi-pakite’aakowaat iiniw mitigoon (and then the woman struck upon the tree) pekish ikitot (at the same time saying):
+<span class="l-orig">(67) “Mī nīn omā dci∙a∙yāyān.”</span>
 
-47) > **"Ninaapemitog\! Nintagwishin minawaa aabinding," ikito.**
+<span class="l-fiero">**“Mii niin omaa ji-ayaayaan.”**</span>
 
+<span class="l-eng">*“As for me, here will I remain.”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Mii niin omaa ji-ayaayaan.” (“as for me, here I will stay.”)</span>
 
-> <span class="l-gloss">"O my husbands\! I am come once again," she said.</span>
+<span class="l-orig">(68) Mīdec kägä‘t aᵘ inini kī∙a∙‘tāt.</span>
 
-</div>
+<span class="l-fiero">**Mii desh keget aw inini kii-ataat.**</span>
 
+<span class="l-eng">*And truly the man remained.*</span>
 
-“Ninaapemitog\! (“O my husbands\!) Nintagwishin minawaa aabinding,” ikito (I have come once again,” she said).
+<span class="l-gloss">Mii desh keget aw inini kii-ataat (and so truly the man remained).</span>
 
-48) > **Apane kiiwenh go pasaagitootewaat kinebigook.**
+<span class="l-orig">(69) Kī∙u∙ci‘tāt, nībiwa misạn ugīkīcka∙ā∙nạn.</span>
 
+<span class="l-fiero">**Kii-oshitaat, niibiwa misan ogii-kiishkaaanan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*He put things in order, much fire-wood he gathered.*</span>
 
-> <span class="l-gloss">Without ceasing, they say, out came crawling the snakes.</span>
+<span class="l-gloss">Kii-oshitaat (he set things in order), niibiwa misan ogii-kiishkaaanan (much firewood he cut).</span>
 
-</div>
+<span class="l-orig">(70) Mīdac kāgīcī‘tāt kā∙i∙cipindigät.</span>
 
+<span class="l-fiero">**Mii dash kaa-giishiitaat kaa-[i]shi-pindiget.**</span>
 
-Apane kiiwenh go (without ceasing, they say) pasaagitootewaat kinebigook (out came crawling the snakes).
+<span class="l-eng">*And when he had finished work, then he went inside.*</span>
 
-49) > **Wayiiba go okii-aangweshkaagoon wii-omwigot.**
+<span class="l-gloss">Mii dash kaa-giishiitaat (and when he had finished) kaa-[i]shi-pindiget (then he went inside).</span>
 
+<span class="l-orig">(71) Kī∙u∙ci‘tāt wīnisāt wīwan.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Kii-oshitaat wii-nisaat wiiwan.**</span>
 
-> <span class="l-gloss">In a little while she was coiled about by them, and made use of as a wife.</span>
+<span class="l-eng">*He was prepared to kill his wife.*</span>
 
-</div>
+<span class="l-gloss">Kii-oshitaat wii-nisaat wiiwan (he made himself ready to kill his wife).</span>
 
+<span class="l-orig">(72) Cayīgwa gägä‘t udạminisudawān pi∙a∙yānit.</span>
 
-Wayiiba go okii-aangweshkaagoon (in a little while she was coiled about by them) wii-omwigot (and used as a wife).
+<span class="l-fiero">**Shayiigwa geget odaminisodawaan pi-ayaanit.**</span>
 
-50) > **Mii dash aw inini kii-wabamaat wiiwan endoodaminit.**
+<span class="l-eng">*Now, in truth, he suspected that she was coming.*</span>
 
+<span class="l-gloss">Shayiigwa geget odaminisodawaan pi-ayaanit (now truly he sensed her coming).</span>
 
-<div class="four-layer">
+<span class="l-orig">(73) Mīdec äji∙a∙cunawāt tcipipīndigänit.</span>
 
-> <span class="l-gloss">And the man saw what his wife was doing.</span>
+<span class="l-fiero">**Mii desh ezhi-ashonawaat chi-pi-piindigenit.**</span>
 
-</div>
+<span class="l-eng">*And he was ready with bow and arrow to shoot her as she came entering in.*</span>
 
+<span class="l-gloss">Mii desh ezhi-ashonawaat (and so he stood ready with arrow nocked) chi-pi-piindigenit (for when she should come entering in).</span>
 
-Mii dash aw inini kii-wabamaat (and then the man saw) wiiwan endoodaminit (what his wife was doing).
+<span class="l-orig">(74) Pítcinagidacigu pā∙u∙mbinạng iᵘ skwāndäm mī∙ä∙cipímwāt, mayādạc udä∙i∙ning udininawān.</span>
 
-51) > **Kii-ani-maajaa wewiip; kii-ni-aapamiskaat, kii-izhaat endaawaat.**
+<span class="l-fiero">**Pi(i)chinag idash igo paa-ombinang iw skwaandem mii eshi-pi(i)mwaat, mayaa dash ode’ining odininawaan.**</span>
 
+<span class="l-eng">*As soon as she lifted the flap of the doorway, then he shot her, at the very centre of her heart he shot her.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Pi(i)chinag idash igo paa-ombinang iw skwaandem (and as soon as she lifted the door-flap) mii eshi-pi(i)mwaat (then he shot her), mayaa dash ode’ining odininawaan (and right in her heart he hit her).</span>
 
-> <span class="l-gloss">He went speedily away; around he turned (and) went home.</span>
+<span class="l-orig">(75) Mīdac ägut:</span>
 
-</div>
+<span class="l-fiero">**Mii dash egot:**</span>
 
+<span class="l-eng">*And then he was asked by her:*</span>
 
-Kii-ani-maajaa wewiip (he went away in haste); kii-ni-aapamiskaat (turning back around) kii-izhaat endaawaat (he went home).
+<span class="l-gloss">Mii dash egot (and then he was asked by her):</span>
 
-52) > **Mii dash kii-wiindamaawaat oniijaanisa', kii-inaat:  
-    > **And then he spoke to his children, he said to them:**  
-    > **
+<span class="l-orig">(76) “Ānic kīnā tōtạmạn?”</span>
 
-Mii dash kii-wiindamaawaat oniijaanisa’ (and then he told his children), kii-inaat (saying to them):
+<span class="l-fiero">**“Aaniish kiinaa tootaman?”**</span>
 
-53) > **"Ningii-wabamaa kiigiwaa endoodank.  
-    > **"I’ve seen what your mother is doing.
+<span class="l-eng">*“Why do you do it?”*</span>
 
-“Ningii-wabamaa kiigiwaa endoodank (“I have seen what your mother is doing).
+<span class="l-gloss">“Aaniish kiinaa tootaman?” (“why are you doing this?”)</span>
 
-54) > **Mii dash kii-giishenimak chi-nisak.  
-    > **I’ve made up my mind to kill her.
+<span class="l-orig">(77) Inini kāwīn kägō i‘kitosī.</span>
 
-Mii dash kii-giishenimak chi-nisak (and so I have made up my mind to kill her).
+<span class="l-fiero">**Inini gaawiin kegoo ikitosii.**</span>
 
-55) > **— Kiin dash ningwisis," odinaan, "kishiimenyens kiiga-maajiinaa kiiga-pi(i)moomaa," odinaan.**
+<span class="l-eng">*But the man made no remark.*</span>
 
+<span class="l-gloss">Inini gaawiin kegoo ikitosii (the man said nothing).</span>
 
-<div class="four-layer">
+<span class="l-orig">(78) Awidạc i‘kwä mī∙i∙mā tcīgaskutä pīpạngicing.</span>
 
-> <span class="l-gloss">— And you, my son," he said to him, "your wee little brother would I have you take away, I would that you carry him on your back," he said to him.</span>
+<span class="l-fiero">**Aw idash ikwe mii imaa chiigaskote pii-pangishing.**</span>
 
-</div>
+<span class="l-eng">*And the woman came over there by the edge of the fire and fell.*</span>
 
+<span class="l-gloss">Aw idash ikwe (and the woman) mii imaa chiigaskote pii-pangishing (fell there by the edge of the fire).</span>
 
-— Kiin dash ningwisis,” odinaan (— and you, my son,” he said to him), “kishiimenyens kiiga-maajiinaa (“your little brother you shall take away) kiiga-pi(i)moomaa,” odinaan (you shall carry him on your back,” he said to him).
+<span class="l-orig">(79) Mīdạc awinini äjiwī‘kutābānāt nawạtc nāwuckutä äji∙a∙sāt.</span>
 
-56) > **"Niin dash oomaa ningat-ayaa piinish chi-pi-tagwishing kiigiwaa," odinaan.**
+<span class="l-fiero">**Mii dash aw inini ezhi-wiikotaabaanaat nawach naawoshkote ezhi-asaat.**</span>
 
+<span class="l-eng">*And the man dragged her, and closer to the centre of the fire he placed her.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash aw inini ezhi-wiikotaabaanaat (and then the man dragged her) nawach naawoshkote ezhi-asaat (and placed her nearer the centre of the fire).</span>
 
-> <span class="l-gloss">"And I here will remain until the arrival of your mother," he said to him.</span>
+<span class="l-orig">(80) Mīdạc äjiki‘tcipōtawät, mīdac äjisa‘kawāt; mägwādạc tạnā‘kisunit kạna wâbạmāt ini’ᵘ wīwạn.</span>
 
-</div>
+<span class="l-fiero">**Mii dash ezhi-kichi-pootawet, mii dash ezhi-sakawaat; megwaa dash tanaakisonit kanawabamaat iiniw wiiwan.**</span>
 
+<span class="l-eng">*Thereupon he built a great fire, and then he burned her; and while she was burning up, he gazed upon his wife.*</span>
 
-“Niin dash oomaa ningat-ayaa (“and I will stay here) piinish chi-pi-tagwishing kiigiwaa,” odinaan (until your mother arrives,” he said to him).
+<span class="l-gloss">Mii dash ezhi-kichi-pootawet (and then he built a great fire), mii dash ezhi-sakawaat (and then he set her ablaze); megwaa dash tanaakisonit (and while she was burning) kanawabamaat iiniw wiiwan (he watched his wife).</span>
 
-57) > **"Aiyaangwaamisin, ningwisis," odinaan; "wii-pimaatisiyok wii-pimaaji kaye kishiimeyens.  
-    > **"Do as well as you can, my son," he said to him; "so that you may live, and also save the life of your wee little brother.
+<span class="l-orig">(81) Udigōn:</span>
 
-“Aiyaangwaamisin, ningwisis,” odinaan (“be careful, my son,” he said to him); “wii-pimaatisiyok (“so that you may live) wii-pimaaji kaye kishiimeyens (and save your little brother too).
+<span class="l-fiero">**Odigoon:**</span>
 
-58) > **Mii \[i\]we gwayak ked-ashaiyeg," odinaan; "gwayak niingaabii'anong, mii dash iwiti chi-ani-wabamatwaa kookomisag," odinaan iiniw ogwisisensan.**
+<span class="l-eng">*He was addressed by her saying:*</span>
 
+<span class="l-gloss">Odigoon (he was addressed by her):</span>
 
-<div class="four-layer">
+<span class="l-orig">(82) “Ānic wīn wändcitōtawiyạn?</span>
 
-> <span class="l-gloss">Straight in yonder direction shall you go," he said to them; "straight toward the west, for over by that way will you go and see your grand mothers," he said to his little son.</span>
+<span class="l-fiero">**“Aaniish wiin wenji-tootawiyan?**</span>
 
-</div>
+<span class="l-eng">*“Now, why do you treat me thus?*</span>
 
+<span class="l-gloss">“Aaniish wiin wenji-tootawiyan? (“why is it you treat me so?)</span>
 
-Mii \[i\]we gwayak ked-ashaiyeg,” odinaan (“straight that way you shall go,” he said to them); “gwayak niingaabii’anong (“straight toward the west), mii dash iwiti chi-ani-wabamatwaa kookomisag,” odinaan iiniw ogwisisensan (and over there you shall go and see your grandmothers,” he said to his little son).
+<span class="l-orig">(83) Kítínigā∙ā∙k kinīdcānsinānig kī∙u∙cī∙ạ∙twā.”</span>
 
-59) > **"Mii desh eninaan, kiiga-noopinasha'ogowaa; pooch aw kigiwaa.  
-    > **"And yet I say to you, she will pursue you; in spite of all, will your mother (follow you).
+<span class="l-fiero">**Ki(i)ti(i)nigaa’aak kiniijaanisinaanig kii-oshii’atwaa.”**</span>
 
-“Mii desh eninaan, kiiga-noopinasha’ogowaa (“and yet I tell you, she will pursue you); pooch aw kigiwaa (no matter what, your mother will).
+<span class="l-eng">*You have brought woe upon our children by making orphans of them.”*</span>
 
-60) > **Kego dash baapish aabanaabikegon\!" odinaan.**
+<span class="l-gloss">Ki(i)ti(i)nigaa’aak kiniijaanisinaanig (you have brought misery on our children) kii-oshii’atwaa.” (by making orphans of them.”)</span>
 
+<span class="l-orig">(84) Inini kāwīn kägō i‘kitosī; ānic ogīwâbạmān kā∙i∙citigänit wīwạn, ā‘pitcidạc ugīnîckī∙i∙gōn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Inini gaawiin kegoo ikitosii; aaniish ogii-wabamaan kaa-ishitigenit wiiwan, aapichi dash ogii-ni(i)shkii’igoon.**</span>
 
-> <span class="l-gloss">And don't ever under any condition look behind you\!" he said to him.</span>
+<span class="l-eng">*The man did not say anything; for in truth he had seen what his wife had done, and very much was he angered by her.*</span>
 
-</div>
+<span class="l-gloss">Inini gaawiin kegoo ikitosii (the man said nothing); aaniish ogii-wabamaan kaa-ishitigenit wiiwan (for he had seen what his wife had done), aapichi dash ogii-ni(i)shkii’igoon (and very much was he angered by her).</span>
 
+<span class="l-orig">(85) Awidec i‘kwä ga‘kina kägō i‘kitō kä∙u∙ndci cawänimigut unābämạn.</span>
 
-Kego dash baapish aabanaabikegon\!” odinaan (and never, ever look back\!” he said to him).
+<span class="l-fiero">**Aw idesh ikwe gakina kegoo ikitoo ke-onji-shawenimigot onaabeman.**</span>
 
-61) > **"Kego gaye kipichipatookegon\!" odinaan.**
+<span class="l-eng">*And the woman said all sorts of things, that she might be pitied by her husband.*</span>
 
+<span class="l-gloss">Aw idesh ikwe gakina kegoo ikitoo (and the woman said all manner of things) ke-onji-shawenimigot onaabeman (that she might be pitied by her husband).</span>
 
-<div class="four-layer">
+<span class="l-orig">(86) Ininidac kāwin kạnagä ābiding ogạnōnāsīn; mīgä‘tagu ki‘tci∙a∙no‘kīt wi∙ā∙ngwā‘kiswāt.</span>
 
-> <span class="l-gloss">"And also don't ever stop running\!" he said to him.</span>
+<span class="l-fiero">**Inini dash gaawiin kanage aabiding oganoonaasiin; miig eta go kichi-anokiit wii-aangwaakisiwaat.**</span>
 
-</div>
+<span class="l-eng">*But the man had not a single word to say to her; he simply worked with all his might to burn her up.*</span>
 
+<span class="l-gloss">Inini dash gaawiin kanage aabiding oganoonaasiin (but the man did not address her even once); miig eta go kichi-anokiit (he just worked hard) wii-aangwaakisiwaat (to burn her up).</span>
 
-“Kego gaye kipichipatookegon\!” odinaan (“and never stop running, either\!” he said to him).
+<span class="l-orig">(87) Mīgu’ pạngi ani∙ā∙‘towäg, mīgu’ minawā kanōnigut, pīnic igu māwit awi‘kwä.</span>
 
-62) > **"Pi(i)chinag kaye iwiti kookomesag kiiga-gigiikimigoog," odinaan.**
+<span class="l-fiero">**Mii go pangi ani-aatoweg, mii go minawaa kanoonigot, piinish igo maawit aw ikwe.**</span>
 
+<span class="l-eng">*And when a little way the fire went down, then again would he be addressed by her, till finally the woman wept.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii go pangi ani-aatoweg (and whenever the fire died down a little), mii go minawaa kanoonigot (then again he would be addressed by her), piinish igo maawit aw ikwe (until at last the woman wept).</span>
 
-> <span class="l-gloss">"And by and by at that place will your grandmothers give you words of advice," he said to him.</span>
+<span class="l-orig">(88) Ānukāgīsumāt īni’ᵘ unābämạn.</span>
 
-</div>
+<span class="l-fiero">**Aano-kaagiisomaat iiniw onaabeman.**</span>
 
+<span class="l-eng">*In vain she tried to appease the wrath of her husband.*</span>
 
-“Pi(i)chinag kaye iwiti kookomesag (“and by and by, over there, your grandmothers) kiiga-gigiikimigoog,” odinaan (will counsel you,” he said to him).
+<span class="l-gloss">Aano-kaagiisomaat iiniw onaabeman (in vain she tried to soften her husband).</span>
 
-63) > **Mii desh kiinwenh ezhoodaapi'enaang iw takinaagan takopisonit egaanshiiinit ogwisisensen.**
+<span class="l-orig">(89) Ānīc kāwīn ucawänimigusīn.</span>
 
+<span class="l-fiero">**Aaniish gaawiin oshawenimigosiin.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Yet no pity did she get from him.*</span>
 
-> <span class="l-gloss">And then they say he took up the cradle-board on which was tied his little son.</span>
+<span class="l-gloss">Aaniish gaawiin oshawenimigosiin (yet no pity did she receive from him).</span>
 
-</div>
+<span class="l-orig">(90) Mīdec kīⁿwäⁿ awinini ā‘pitci aiyä‘kusit pōdawät kabädibi‘k, wīnipāt gayä.</span>
 
+<span class="l-fiero">**Mii desh kiinwenh aapichi aiyekosit poodawet kabe-dibik, wii-nipaat gaye.**</span>
 
-Mii desh kiinwenh ezhoodaapi’enaang iw takinaagan (and then, they say, he took up the cradle-board) takopisonit egaanshiiinit ogwisisensen (on which his little son was bound).
+<span class="l-eng">*Consequently they say the man became very tired with keeping up the fire all night long, (and) he wanted sleep.*</span>
 
-64) > **Ombiwane'aat iiniw zeziikisit ogwisisan.**
+<span class="l-gloss">Mii desh kiinwenh aapichi aiyekosit (and so, they say, very tired he grew) poodawet kabe-dibik (keeping the fire all night), wii-nipaat gaye (and he wanted to sleep too).</span>
 
+<span class="l-orig">(91) Mīgu tibickō ä‘pitwäwidạminit wīwạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii go tibishkoo epitwewidaminit wiiwan.**</span>
 
-> <span class="l-gloss">He lifted it upon the back of his son who was older.</span>
+<span class="l-eng">*And all the time did his wife have the same power of voice.*</span>
 
-</div>
+<span class="l-gloss">Mii go tibishkoo epitwewidaminit wiiwan (and his wife’s voice kept just as strong).</span>
 
+<span class="l-orig">(92) Mīminawā ä‘ki‘tcipōtawät.</span>
 
-Ombiwane’aat iiniw zeziikisit ogwisisan (he lifted it onto the back of his older son).
+<span class="l-fiero">**Mii minawaa e-kichi-pootawet.**</span>
 
-65) > **I'iw idesh takinaagan kegaa omashikizidoon iwe takinaagan aw kwiiwisens.**
+<span class="l-eng">*And then once more he built up a great fire.*</span>
 
+<span class="l-gloss">Mii minawaa e-kichi-pootawet (and again he built up a great fire).</span>
 
-<div class="four-layer">
+<span class="l-orig">(93) Tcīgaya∙i∙dạc kīⁿwäⁿ weyābạninig mīcigwa tcāgā‘kiswāt; kayä kāwin keyābi onōndawāsin.</span>
 
-> <span class="l-gloss">And with that cradle-board the boy almost touched the ground.</span>
+<span class="l-fiero">**Chiigaya’ii dash kiinwenh weyaabaninig mii shigwa chaagaakisiwaat; gaye gaawiin keyaabi onoondawaasiin.**</span>
 
-</div>
+<span class="l-eng">*And when it was nearly morning, they say that then was when he burned her up; and he no longer heard her voice.*</span>
 
+<span class="l-gloss">Chiigaya’ii dash kiinwenh weyaabaninig (and when it was nearly morning, they say) mii shigwa chaagaakisiwaat (that was when he burned her up); gaye gaawiin keyaabi onoondawaasiin (and no longer did he hear her).</span>
 
-I’iw idesh takinaagan (and with that cradle-board) kegaa omashikizidoon iwe takinaagan aw kwiiwisens (the boy almost dragged it on the ground).
+<span class="l-orig">(94) Mīdec kägä‘t kätciänigu‘k pōdawät.</span>
 
-66) > **Mii desh ezhi-maajaanit, "Kishiikaan, ningwisis\! enigok pimosen," odinaan a inini.**
+<span class="l-fiero">**Mii desh keget kechi-enigok poodawet.**</span>
 
+<span class="l-eng">*And then truly in good earnest he built up the fire.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii desh keget kechi-enigok poodawet (and then truly with all his might he built up the fire).</span>
 
-> <span class="l-gloss">And as he started away, "Go fast, my son\! at full speed must you go," said the man to him.</span>
+<span class="l-orig">(95) Mīdạc kīⁿwäⁿ wâbạninig tcāgā‘kiswāt.</span>
 
-</div>
+<span class="l-fiero">**Mii dash kiinwenh wabaninig chaagaakiswaat.**</span>
 
+<span class="l-eng">*And then they say by morning he had her all burned up.*</span>
 
-Mii desh ezhi-maajaanit (and as he set off), “Kishiikaan, ningwisis\! (“go fast, my son\!) enigok pimosen,” odinaan a inini (walk with all your might,” said the man to him).
+<span class="l-gloss">Mii dash kiinwenh wabaninig chaagaakiswaat (and then, they say, by morning he had burned her clean up).</span>
 
-67) > **"Mii niin omaa ji-ayaayaan."**
+<span class="l-orig">(96) Mīdec kā∙i∙jiningwa∙ạ∙nk iᵘ udickutäm.</span>
 
+<span class="l-fiero">**Mii desh kaa-izhiningwaank iw odishkotem.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Accordingly he covered up his fire.*</span>
 
-> <span class="l-gloss">"As for me, here will I remain."</span>
+<span class="l-gloss">Mii desh kaa-izhiningwaank iw odishkotem (and so he covered over his fire).</span>
 
-</div>
+<span class="l-orig">(97) Mīdec kayä wīn kā∙i∙cimādcāt, na‘pātcigu kayä wīn kī∙i∙cimādcāt.</span>
 
+<span class="l-fiero">**Mii desh gaye wiin kaa-ishi-maajaat, napaach igo gaye wiin kii-ishi-maajaat.**</span>
 
-“Mii niin omaa ji-ayaayaan.” (“as for me, here I will stay.”)
+<span class="l-eng">*Whereupon he too went away, but in another direction he went.*</span>
 
-68) > **Mii desh keget aw inini kii-ataat.**
+<span class="l-gloss">Mii desh gaye wiin kaa-ishi-maajaat (and then he too went off), napaach igo gaye wiin kii-ishi-maajaat (but in a different direction he went).</span>
 
+<span class="l-orig">(98) Mīdec mīnawā ạbinotcīyạg äjitibādcimindwā.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii desh miinawaa abinochiiyag ezhi-tibaajimindwaa.**</span>
 
-> <span class="l-gloss">And truly the man remained.</span>
+<span class="l-eng">*And now once more the children are taken up in the story.*</span>
 
-</div>
+<span class="l-gloss">Mii desh miinawaa abinochiiyag ezhi-tibaajimindwaa (and now once more the children are told of in the story).</span>
 
+<span class="l-orig">(99) Mägwā kīⁿwäⁿgu ninguting ạnipapimosät ạnāgucig kwīwisäns pimōmāt ucīmäyänsạn āpitci aiyä‘kusi.</span>
 
-Mii desh keget aw inini kii-ataat (and so truly the man remained).
+<span class="l-fiero">**Megwaa kiinwenh go ningoting ani-papimoset anaagoshig kwiiwisens pimoomaat oshiimeyensan aapichi aiyekosi.**</span>
 
-69) > **Kii-oshitaat, niibiwa misan ogii-kiishkaaanan.**
+<span class="l-eng">*It is said that one evening, when the boy was travelling along and carrying his little brother on his back, very weary did he become.*</span>
 
+<span class="l-gloss">Megwaa kiinwenh go ningoting ani-papimoset anaagoshig (it is said that one evening, while walking along) kwiiwisens pimoomaat oshiimeyensan (the boy carrying his little brother on his back) aapichi aiyekosi (grew very tired).</span>
 
-<div class="four-layer">
+<span class="l-orig">(100) Nīgāninābit owâbandān kwayu‘k äjāt wīgiwāmäns pada‘kitänig.</span>
 
-> <span class="l-gloss">He put things in order, much fire-wood he gathered.</span>
+<span class="l-fiero">**Niigaan inaabit owabandaan kwayak ezhaat wiigiwaamens padakitenig.**</span>
 
-</div>
+<span class="l-eng">*As he looked ahead, he saw that straight in the way where he was going was a little lodge standing.*</span>
 
+<span class="l-gloss">Niigaan inaabit (looking ahead) owabandaan kwayak ezhaat (he saw, straight in his path) wiigiwaamens padakitenig (a little lodge standing).</span>
 
-Kii-oshitaat (he set things in order), niibiwa misan ogii-kiishkaaanan (much firewood he cut).
+<span class="l-orig">(101) Mīdec äni∙i∙jināzi‘kạng.</span>
 
-70) > **Mii dash kaa-giishiitaat kaa-\[i\]shi-pindiget.**
+<span class="l-fiero">**Mii desh eni-izhi-naazikang.**</span>
 
+<span class="l-eng">*And then he directed his way to it.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii desh eni-izhi-naazikang (and so he headed straight for it).</span>
 
-> <span class="l-gloss">And when he had finished work, then he went inside.</span>
+<span class="l-orig">(102) Pitcīnạg kīⁿwäⁿgu päcu’ äni∙a∙yāt awiya onōndawān kīgitōnit, i‘kitunit:</span>
 
-</div>
+<span class="l-fiero">**Pichiinag kiinwenh go pesho ani-ayaat awiya onoondawaan kiigitoonit, ikitonit:**</span>
 
+<span class="l-eng">*They say that as soon as he was come near by, he heard somebody speak, saying:*</span>
 
-Mii dash kaa-giishiitaat (and when he had finished) kaa-\[i\]shi-pindiget (then he went inside).
+<span class="l-gloss">Pichiinag kiinwenh go pesho ani-ayaat (and, they say, as soon as he came near) awiya onoondawaan kiigitoonit (he heard someone speaking), ikitonit (saying):</span>
 
-71) > **Kii-oshitaat wii-nisaat wiiwan.**
+<span class="l-orig">(103) “Nīyā! nōcis, kigīkitimāgisim,” utiguwān.</span>
 
+<span class="l-fiero">**“Niiyaa! nooshis, kigii-kitimaagisim,” otigowaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Oh, dear me! my grandchildren, both of you are to be pitied,” they (thus) were told.*</span>
 
-> <span class="l-gloss">He was prepared to kill his wife.</span>
+<span class="l-gloss">“Niiyaa! nooshis, kigii-kitimaagisim,” otigowaan (“oh dear! my grandchildren, you are pitiable,” they were told).</span>
 
-</div>
+<span class="l-orig">(104) Mī kīⁿwäⁿgu äjiki‘tcimawit aᵘ kwīwisäns, a gayä pämōmint ta‘kināgạning.</span>
 
+<span class="l-fiero">**Mii kiinwenh go ezhi-kichi-mawit aw kwiiwisens a gaye pemoomint takinaaganing.**</span>
 
-Kii-oshitaat wii-nisaat wiiwan (he made himself ready to kill his wife).
+<span class="l-eng">*And then they say that the boy wept bitterly, likewise he that was carried in the cradle-board.*</span>
 
-72) > **Shayiigwa geget odaminisodawaan pi-ayaanit.**
+<span class="l-gloss">Mii kiinwenh go ezhi-kichi-mawit aw kwiiwisens (and then, they say, the boy wept bitterly) a gaye pemoomint takinaaganing (and so did the one carried in the cradle-board).</span>
 
+<span class="l-orig">(105) “Pindigän!” udigowān ō‘komisiwān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Pindigen!” odigowaan ookomisiwaan.**</span>
 
-> <span class="l-gloss">Now, in truth, he suspected that she was coming.</span>
+<span class="l-eng">*“Come in!” they were told by their grandmother.*</span>
 
-</div>
+<span class="l-gloss">“Pindigen!” odigowaan ookomisiwaan (“come in!” they were told by their grandmother).</span>
 
+<span class="l-orig">(106) Mīdạc kägä‘t äjipīndigäwät.</span>
 
-Shayiigwa geget odaminisodawaan pi-ayaanit (now truly he sensed her coming).
+<span class="l-fiero">**Mii dash keget ezhi-piindigewaat.**</span>
 
-73) > **Mii desh ezhi-ashonawaat chi-pi-piindigenit.**
+<span class="l-eng">*And then truly went they in.*</span>
 
+<span class="l-gloss">Mii dash keget ezhi-piindigewaat (and then truly in they went).</span>
 
-<div class="four-layer">
+<span class="l-orig">(107) Kī∙a∙cạmigowāt kīnibä∙i∙gowāt kayä.</span>
 
-> <span class="l-gloss">And he was ready with bow and arrow to shoot her as she came entering in.</span>
+<span class="l-fiero">**Kii-ashamigowaat kii-nibe’igowaat gaye.**</span>
 
-</div>
+<span class="l-eng">*They were fed by her, and by her were they put to bed.*</span>
 
+<span class="l-gloss">Kii-ashamigowaat (they were fed by her) kii-nibe’igowaat gaye (and put to bed by her too).</span>
 
-Mii desh ezhi-ashonawaat (and so he stood ready with arrow nocked) chi-pi-piindigenit (for when she should come entering in).
+<span class="l-orig">(108) Wayābạnimigidạc kīⁿwäⁿ udigowān ō‘komisiwān: “</span>
 
-74) > **Pi(i)chinag idash igo paa-ombinang iw skwaandem mii eshi-pi(i)mwaat, mayaa dash ode'ining odininawaan.**
+<span class="l-fiero">**Wayaabanimig idash kiinwenh odigowaan ookomisiwaan:**</span>
 
+<span class="l-eng">*And in the morning it is said that they were told by their grandmother:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Wayaabanimig idash kiinwenh (and in the morning, they say) odigowaan ookomisiwaan (they were told by their grandmother):</span>
 
-> <span class="l-gloss">As soon as she lifted the flap of the doorway, then he shot her, at the very centre of her heart he shot her.</span>
+<span class="l-orig">(109) ‘A‘a’ᵘ, ạmbä ạnickān!</span>
 
-</div>
+<span class="l-fiero">**“Aaw, ambe anishkaan!**</span>
 
+<span class="l-eng">*“Now, then, come, and rise from your sleep!*</span>
 
-Pi(i)chinag idash igo paa-ombinang iw skwaandem (and as soon as she lifted the door-flap) mii eshi-pi(i)mwaat (then he shot her), mayaa dash ode’ining odininawaan (and right in her heart he hit her).
+<span class="l-gloss">“Aaw, ambe anishkaan! (“now then, come, get up!)</span>
 
-75) > **Mii dash egot:  
-    > **And then he was asked by her:
+<span class="l-orig">(110) kīgamādcām minawā,” udigowān.</span>
 
-Mii dash egot (and then he was asked by her):
+<span class="l-fiero">**kiiga-maajaam minawaa,” odigowaan.**</span>
 
-76) > **"Aaniish kiinaa tootaman?"**
+<span class="l-eng">*you need to be on your way again,” they were told.*</span>
 
+<span class="l-gloss">kiiga-maajaam minawaa,” odigowaan (you must be on your way again,” they were told).</span>
 
-<div class="four-layer">
+<span class="l-orig">(111) Mīdec kīⁿwäⁿ äcimīnigut ō‘kumisạn migōs, pinā‘kwān kayä.</span>
 
-> <span class="l-gloss">"Why do you do it?"</span>
+<span class="l-fiero">**Mii desh kiinwenh eshi-miinigot ookomisan migoos, pinaakwaan gaye.**</span>
 
-</div>
+<span class="l-eng">*And then it is said that he was given by his grandmother an awl and a comb.*</span>
 
+<span class="l-gloss">Mii desh kiinwenh eshi-miinigot ookomisan migoos (and then, they say, his grandmother gave him an awl), pinaakwaan gaye (and a comb too).</span>
 
-“Aaniish kiinaa tootaman?” (“why are you doing this?”)
+<span class="l-orig">(112) Mīdạc ägut:</span>
 
-77) > **Inini kaawiin kegoo ikitosii.**
+<span class="l-fiero">**Mii dash egot:**</span>
 
+<span class="l-eng">*And he was told:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash egot (and he was told):</span>
 
-> <span class="l-gloss">But the man made no remark.</span>
+<span class="l-orig">(113) “Pitcīnạg kīgapiminija∙o∙gowā aᵘ kigiwā.</span>
 
-</div>
+<span class="l-fiero">**“Pichiinag kiiga-piminizha’ogowaa aw kigiwaa.**</span>
 
+<span class="l-eng">*“Presently will you be pursued by your mother.*</span>
 
-Inini kaawiin kegoo ikitosii (the man said nothing).
+<span class="l-gloss">“Pichiinag kiiga-piminizha’ogowaa aw kigiwaa (“soon your mother will pursue you).</span>
 
-78) > **Aw idash ikwe mii imaa chiigaskote pii-pangishing.**
+<span class="l-orig">(114) Aiyāngwạmisin nojis.</span>
 
+<span class="l-fiero">**Aiyaangwamisin nozhis.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Do as well as you can, my grandchild.*</span>
 
-> <span class="l-gloss">And the woman came over there by the edge of the fire and fell.</span>
+<span class="l-gloss">Aiyaangwamisin nozhis (be careful, my grandchild).</span>
 
-</div>
+<span class="l-orig">(115) Mī, ‘o ᵉ∙o∙’ wändcimīninān tcī∙ā∙badci‘toyạn kīcpîn piminija∙o∙näg päcudec tạnänimạt; mī tci∙ā∙bạgitōyạn kitōdānāming.</span>
 
+<span class="l-fiero">**Mii, o’o wenji-miininaan chii-aabajitoyan kiishpi(i)n piminizha’oneg pesho desh tanenimat; mii chi-aabagitooyan kitoodaanaaming.**</span>
 
-Aw idash ikwe (and the woman) mii imaa chiigaskote pii-pangishing (fell there by the edge of the fire).
+<span class="l-eng">*And the reason why I have given you these things is that you may use them, if, when she follows after you, you think her to be near by; then you shall fling them behind you.*</span>
 
-79) > **Mii dash aw inini ezhi-wiikotaabaanaat nawach naawoshkote ezhi-asaat.**
+<span class="l-gloss">Mii, o’o wenji-miininaan chii-aabajitoyan (and this is why I give you these, that you may use them) kiishpi(i)n piminizha’oneg pesho desh tanenimat (if, as she follows you, you think her near); mii chi-aabagitooyan kitoodaanaaming (then you shall fling them behind you).</span>
 
+<span class="l-orig">(116) Kīgapagitōn migōs,” udigōn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Kiiga-pagitoon migoos,” odigoon.**</span>
 
-> <span class="l-gloss">And the man dragged her, and closer to the centre of the fire he placed her.</span>
+<span class="l-eng">*You shall throw the awl,” he was told.*</span>
 
-</div>
+<span class="l-gloss">Kiiga-pagitoon migoos,” odigoon (you shall throw the awl,” he was told).</span>
 
+<span class="l-orig">(117) “Kägu dạc inābi‘kän.</span>
 
-Mii dash aw inini ezhi-wiikotaabaanaat (and then the man dragged her) nawach naawoshkote ezhi-asaat (and placed her nearer the centre of the fire).
+<span class="l-fiero">**“Kego dash inaabiken.**</span>
 
-80) > **Mii dash ezhi-kichi-pootawet, mii dash ezhi-sakawaat; megwaa dash tanaakisonit kanawabamaat iiniw wiiwan.**
+<span class="l-eng">*“And be sure not to look.*</span>
 
+<span class="l-gloss">“Kego dash inaabiken (“and do not look back).</span>
 
-<div class="four-layer">
+<span class="l-orig">(118) Mīgu’ minawā kätōdamạn iwä päji‘k,” udigōn.</span>
 
-> <span class="l-gloss">Thereupon he built a great fire, and then he burned her; and while she was burning up, he gazed upon his wife.</span>
+<span class="l-fiero">**Mii go minawaa ketoodaman iwe pezhik,” odigoon.**</span>
 
-</div>
+<span class="l-eng">*The same also shall you do with the other thing,” he was told,*</span>
 
+<span class="l-gloss">Mii go minawaa ketoodaman iwe pezhik,” odigoon (the same you shall do with the other thing,” he was told),</span>
 
-Mii dash ezhi-kichi-pootawet (and then he built a great fire), mii dash ezhi-sakawaat (and then he set her ablaze); megwaa dash tanaakisonit (and while she was burning) kanawabamaat iiniw wiiwan (he watched his wife).
+<span class="l-orig">(119) “Mīdạc tcitä∙u∙tisạt minawā päji‘k kōkumis.”</span>
 
-81) > **Odigoon:  
-    > **He was addressed by her saying:
+<span class="l-fiero">**“Mii dash chi-te-otisat minawaa pezhik kookomis.”**</span>
 
-Odigoon (he was addressed by her):
+<span class="l-eng">*“And then you will be able to reach another grandmother of yours.”*</span>
 
-82) > **"Aaniish wiin wenji-tootawiyan?  
-    > **"Now, why do you treat me thus?
+<span class="l-gloss">“Mii dash chi-te-otisat minawaa pezhik kookomis.” (“and then you will reach yet another grandmother of yours.”)</span>
 
-“Aaniish wiin wenji-tootawiyan? (“why is it you treat me so?)
+<span class="l-orig">(120) Mīdac äji∙u∙mbiwạnä∙i∙gut ucīmäyänsạn.</span>
 
-83) > **Ki(i)ti(i)nigaa'aak kiniijaanisinaanig kii-oshii'atwaa."**
+<span class="l-fiero">**Mii dash ezhi-ombiwane’igot oshiimeyensan.**</span>
 
+<span class="l-eng">*And then was his little brother helped upon his back by her.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash ezhi-ombiwane’igot oshiimeyensan (and then his little brother was helped up onto his back by her).</span>
 
-> <span class="l-gloss">You have brought woe upon our children by making orphans of them."</span>
+<span class="l-orig">(121) Mīdạc äjimādcāt kā∙i∙ckwā∙u∙tcimigowāt ō‘kumisiwān.</span>
 
-</div>
+<span class="l-fiero">**Mii dash ezhi-maajaat kaa-ishkwaa-ochimigowaat ookomisiwaan.**</span>
 
+<span class="l-eng">*And then he set out after they had been kissed by their grandmother.*</span>
 
-Ki(i)ti(i)nigaa’aak kiniijaanisinaanig (you have brought misery on our children) kii-oshii’atwaa.” (by making orphans of them.”)
+<span class="l-gloss">Mii dash ezhi-maajaat (and then he set out) kaa-ishkwaa-ochimigowaat ookomisiwaan (after they had been kissed by their grandmother).</span>
 
-84) > **Inini kaawiin kegoo ikitosii; aaniish ogii-wabamaan kaa-ishitigenit wiiwan, aapichi dash ogii-ni(i)shkii'igoon.**
+<span class="l-orig">(122) “Mīdac mātcāg änigu‘k!” udigowān.</span>
 
+<span class="l-fiero">**“Mii dash maachaag enigok!” odigowaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Now, then, go fast!” they were told.*</span>
 
-> <span class="l-gloss">The man did not say anything; for in truth he had seen what his wife had done, and very much was he angered by her.</span>
+<span class="l-gloss">“Mii dash maachaag enigok!” odigowaan (“now then, go fast!” they were told).</span>
 
-</div>
+<span class="l-orig">(123) Mīdec kägä‘t äjimādcāwāgubạnän.</span>
 
+<span class="l-fiero">**Mii desh keget ezhi-maajaawaagobanen.**</span>
 
-Inini kaawiin kegoo ikitosii (the man said nothing); aaniish ogii-wabamaan kaa-ishitigenit wiiwan (for he had seen what his wife had done), aapichi dash ogii-ni(i)shkii’igoon (and very much was he angered by her).
+<span class="l-eng">*And then truly away they went.*</span>
 
-85) > **Aw idesh ikwe gakina kegoo ikitoo ke-onji-shawenimigot onaabeman.**
+<span class="l-gloss">Mii desh keget ezhi-maajaawaagobanen (and so truly away they went).</span>
 
+<span class="l-orig">(124) Ningutingidạc kīwäⁿ ạnipapimiba‘tōt, ca∙ī∙gwa awiya onōndawān udōdānāming, igut:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Ningoting idash kiiwenh ani-papimibatoot, shaiigwa awiya onoondawaan odoodaanaaming, igot:**</span>
 
-> <span class="l-gloss">And the woman said all sorts of things, that she might be pitied by her husband.</span>
+<span class="l-eng">*And once they say, that, as he went running along, he now heard the sound of somebody behind, saying:*</span>
 
-</div>
+<span class="l-gloss">Ningoting idash kiiwenh ani-papimibatoot (and once, they say, as he went running along) shaiigwa awiya onoondawaan odoodaanaaming (now he heard someone behind him), igot (saying to him):</span>
 
+<span class="l-orig">(125) “Mī∙i∙mā ayān! nīwīnōnā kicīⁿmä!”</span>
 
-Aw idesh ikwe gakina kegoo ikitoo (and the woman said all manner of things) ke-onji-shawenimigot onaabeman (that she might be pitied by her husband).
+<span class="l-fiero">**“Mii imaa ayaan! niiwiinoonaa kishiinme!”**</span>
 
-86) > **Inini dash kaawin kanage aabiding oganoonaasiin; miig eta go kichi-anokiit wii-aangwaakisiwaat.**
+<span class="l-eng">*“Do stay there! I wish to suckle your little brother.”*</span>
 
+<span class="l-gloss">“Mii imaa ayaan! (“stay right there!) niiwiinoonaa kishiinme!” (I want to nurse your little brother!”)</span>
 
-<div class="four-layer">
+<span class="l-orig">(126) Mīdạc kīⁿwäⁿ aᵘ kwīwisäns mi‘kwändạnk kā∙i∙gut ōsạn kayä ō‘komisạn.</span>
 
-> <span class="l-gloss">But the man had not a single word to say to her; he simply worked with all his might to burn her up.</span>
+<span class="l-fiero">**Mii dash kiinwenh aw kwiiwisens mikwendank kaa-igot oosan gaye ookomisan.**</span>
 
-</div>
+<span class="l-eng">*And then they say that the boy became mindful of what he had been told by his father and his grandmother.*</span>
 
+<span class="l-gloss">Mii dash kiinwenh aw kwiiwisens mikwendank (and then, they say, the boy remembered) kaa-igot oosan gaye ookomisan (what he had been told by his father and his grandmother).</span>
 
-Inini dash kaawin kanage aabiding oganoonaasiin (but the man did not address her even once); miig eta go kichi-anokiit (he just worked hard) wii-aangwaakisiwaat (to burn her up).
+<span class="l-orig">(127) Mīdạc äjiki‘tcisägisit.</span>
 
-87) > **Mii go pangi ani-aatoweg, mii go minawaa kanoonigot, piinish igo maawit aw ikwe.**
+<span class="l-fiero">**Mii dash ezhi-kichi-segisit.**</span>
 
+<span class="l-eng">*And then he was greatly afraid.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash ezhi-kichi-segisit (and then he was greatly afraid).</span>
 
-> <span class="l-gloss">And when a little way the fire went down, then again would he be addressed by her, till finally the woman wept.</span>
+<span class="l-orig">(128) Mīdec äjimādcība‘tōd; kāwin ā‘pitci ogaskitōsin tcipimipa‘tot mī äjipā‘pītāguskạnk ta‘kināgạn udondanāng.</span>
 
-</div>
+<span class="l-fiero">**Mii desh ezhi-maajiibatood; gaawiin aapichi ogas[h]kitoosiin chi-pimipatot mii ezhi-paapiitaagoskank takinaagan odondanaang.**</span>
 
+<span class="l-eng">*And then he started to run; not very well was he able to run, for with the cradle-board he would hit his heels.*</span>
 
-Mii go pangi ani-aatoweg (and whenever the fire died down a little), mii go minawaa kanoonigot (then again he would be addressed by her), piinish igo maawit aw ikwe (until at last the woman wept).
+<span class="l-gloss">Mii desh ezhi-maajiibatood (and so he began to run); gaawiin aapichi ogas[h]kitoosiin chi-pimipatot (he could not run very well) mii ezhi-paapiitaagoskank takinaagan odondanaang (for the cradle-board kept knocking his heels).</span>
 
-88) > **Aano-kaagiisomaat iiniw onaabeman.**
+<span class="l-orig">(129) Mīdec minawā nōndawāt ogīn igut:</span>
 
+<span class="l-fiero">**Mii desh minawaa noondawaat ogiin igot:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then again he heard his mother saying:*</span>
 
-> <span class="l-gloss">In vain she tried to appease the wrath of her husband.</span>
+<span class="l-gloss">Mii desh minawaa noondawaat ogiin igot (and then again he heard his mother saying to him):</span>
 
-</div>
+<span class="l-orig">(130) “Mī∙i∙mā ayān! nīwīnōnā kicīⁿmä.”</span>
 
+<span class="l-fiero">**“Mii imaa ayaan! niiwiinoonaa kishiinme.”**</span>
 
-Aano-kaagiisomaat iiniw onaabeman (in vain she tried to soften her husband).
+<span class="l-eng">*“Do stay there! I want to suckle your little brother.”*</span>
 
-89) > **Aaniish kaawiin oshawenimigosiin.**
+<span class="l-gloss">“Mii imaa ayaan! (“stay right there!) niiwiinoonaa kishiinme.” (I want to nurse your little brother.”)</span>
 
+<span class="l-orig">(131) Nawatcidạc kistcimawiwạg nōndawāwāt ugiwān, kayạ̈dạc wīpisiskitawāsigwa.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Nawach idash kischi-mawiwag noondawaawaat ogiwaan, gaye dash wii-pisiskitawaasigwa.**</span>
 
-> <span class="l-gloss">Yet no pity did she get from him.</span>
+<span class="l-eng">*And then all the more did they weep when they heard their mother, and they did not want to listen to her.*</span>
 
-</div>
+<span class="l-gloss">Nawach idash kischi-mawiwag noondawaawaat ogiwaan (and all the more they wept on hearing their mother), gaye dash wii-pisiskitawaasigwa (and they did not want to heed her).</span>
 
+<span class="l-orig">(132) Minawā dạc nāsāb udigōn ugīn:</span>
 
-Aaniish kaawiin oshawenimigosiin (yet no pity did she receive from him).
+<span class="l-fiero">**Minawaa dash naasaab odigoon ogiin:**</span>
 
-90) > **Mii desh kiinwenh aapichi aiyekosit poodawet kabe-dibik, wii-nipaat gaye.**
+<span class="l-eng">*And then the same thing as before were they told by their mother:*</span>
 
+<span class="l-gloss">Minawaa dash naasaab odigoon ogiin (and again, the same as before, they were told by their mother):</span>
 
-<div class="four-layer">
+<span class="l-orig">(133) “Mī∙i∙mā ayān, kitinin!</span>
 
-> <span class="l-gloss">Consequently they say the man became very tired with keeping up the fire all night long, (and) he wanted sleep.</span>
+<span class="l-fiero">**“Mii imaa ayaan, kitinin!**</span>
 
-</div>
+<span class="l-eng">*“ Do remain there, I tell you!*</span>
 
+<span class="l-gloss">“Mii imaa ayaan, kitinin! (“stay right there, I tell you!)</span>
 
-Mii desh kiinwenh aapichi aiyekosit (and so, they say, very tired he grew) poodawet kabe-dibik (keeping the fire all night), wii-nipaat gaye (and he wanted to sleep too).
+<span class="l-orig">(134) Nīwīnōnā kuca kicīmä kitinin.</span>
 
-91) > **Mii go tibishkoo epitwewidaminit wiiwan.**
+<span class="l-fiero">**Niiwiinoonaa kosha kishiime kitinin.**</span>
 
+<span class="l-eng">*I really want to suckle your little brother, I tell you!*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Niiwiinoonaa kosha kishiime kitinin (I really want to nurse your little brother, I tell you).</span>
 
-> <span class="l-gloss">And all the time did his wife have the same power of voice.</span>
+<span class="l-orig">(135) Kitinikā∙ā∙ kuca,” udigōn.</span>
 
-</div>
+<span class="l-fiero">**Kitinikaa’aa kosha,” odigoon.**</span>
 
+<span class="l-eng">*You are surely doing him injury,” he was told.*</span>
 
-Mii go tibishkoo epitwewidaminit wiiwan (and his wife’s voice kept just as strong).
+<span class="l-gloss">Kitinikaa’aa kosha,” odigoon (you are surely hurting him,” he was told).</span>
 
-92) > **Mii minawaa e-kichi-pootawet.**
+<span class="l-orig">(136) Mīdac kägä‘t änigu‘k pimiba‘tōd, äckạm a‘pitci päcu’ tạnwäwitạmōn.</span>
 
+<span class="l-fiero">**Mii dash keget enigok pimibatood, eshkam apichi pesho tanwewitamoon.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then truly at full speed he ran, (and) nearer still could be heard the sound of her voice.*</span>
 
-> <span class="l-gloss">And then once more he built up a great fire.</span>
+<span class="l-gloss">Mii dash keget enigok pimibatood (and then truly with all his might he ran), eshkam apichi pesho tanwewitamoon (and ever nearer could her voice be heard).</span>
 
-</div>
+<span class="l-orig">(137) Mīdạc äji∙ā∙‘pạgitōd migōs, mīdạc kiˢtciwadciᵘ äji∙a∙yāmagat; miziwä migōsiwạn.</span>
 
+<span class="l-fiero">**Mii dash ezhi-aapagitood migoos, mii dash kichi-wajiw ezhi-ayaamagat; miziwe migoosiwan.**</span>
 
-Mii minawaa e-kichi-pootawet (and again he built up a great fire).
+<span class="l-eng">*Upon that he flung the awl, and then a great mountain came to be; everywhere over it were awls.*</span>
 
-93) > **Chiigaya'ii dash kiinwenh weyaabaninig mii shigwa chaagaakisiwaat; kaye kaawiin keyaabi onoondawaasiin.**
+<span class="l-gloss">Mii dash ezhi-aapagitood migoos (and then he flung the awl), mii dash kichi-wajiw ezhi-ayaamagat (and a great mountain came to be); miziwe migoosiwan (everywhere over it were awls).</span>
 
+<span class="l-orig">(138) Mīdạc kīnāwī‘tawāwāt ugiwān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kiinaawiitawaawaat ogiwaan.**</span>
 
-> <span class="l-gloss">And when it was nearly morning, they say that then was when he burned her up; and he no longer heard her voice.</span>
+<span class="l-eng">*And then far away they heard the faint sound of the voice of their mother.*</span>
 
-</div>
+<span class="l-gloss">Mii dash kiinaawiitawaawaat ogiwaan (and then far off they heard the faint voice of their mother).</span>
 
+<span class="l-orig">(139) Mīdac awä tcībai migōsing kīnānāpisänig u‘kanạn.</span>
 
-Chiigaya’ii dash kiinwenh weyaabaninig (and when it was nearly morning, they say) mii shigwa chaagaakisiwaat (that was when he burned her up); kaye kaawiin keyaabi onoondawaasiin (and no longer did he hear her).
+<span class="l-fiero">**Mii dash awe chiibai migoosing kiinaanapisenig okanan.**</span>
 
-94) > **Mii desh keget kechi-enigok poodawet.**
+<span class="l-eng">*Thereupon a skeleton caught fast its bones in among the awls.*</span>
 
+<span class="l-gloss">Mii dash awe chiibai migoosing kiinaanapisenig okanan (thereupon the skeleton-being caught her bones fast among the awls).</span>
 
-<div class="four-layer">
+<span class="l-orig">(140) Mīdac kīⁿwäⁿ ädạnk migōs:</span>
 
-> <span class="l-gloss">And then truly in good earnest he built up the fire.</span>
+<span class="l-fiero">**Mii dash kiinwenh edank migoos:**</span>
 
-</div>
+<span class="l-eng">*Accordingly they say that it said to the awl:*</span>
 
+<span class="l-gloss">Mii dash kiinwenh edank migoos (and then, they say, she said to the awl):</span>
 
-Mii desh keget kechi-enigok poodawet (and then truly with all his might he built up the fire).
+<span class="l-orig">(141) “Tawiskawicin, ninō‘pinanāg ninītcānisạg!”</span>
 
-95) > **Mii dash kiinwenh wabaninig chaagaakiswaat.**
+<span class="l-fiero">**“Tawiskawishin, ninoopinanaag niniichaanisag!”**</span>
 
+<span class="l-eng">*“Make way for me, I am following my children!”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Tawiskawishin (“make way for me), ninoopinanaag niniichaanisag!” (I am following my children!”)</span>
 
-> <span class="l-gloss">And then they say by morning he had her all burned up.</span>
+<span class="l-orig">(142) Kāwīndạc kạnagä ūpisîkitāgusīn.</span>
 
-</div>
+<span class="l-fiero">**Gaawiin dash kanage oopisi(i)kitaagosiin.**</span>
 
+<span class="l-eng">*But not in the least did (the awls) listen to her.*</span>
 
-Mii dash kiinwenh wabaninig chaagaakiswaat (and then, they say, by morning he had burned her clean up).
+<span class="l-gloss">Gaawiin dash kanage oopisi(i)kitaagosiin (but not in the least did they heed her).</span>
 
-96) > **Mii desh kaa-izhiningwaank iw odishkotem.**
+<span class="l-orig">(143) Mīdạc minawā änāt: “</span>
 
+<span class="l-fiero">**Mii dash minawaa enaat:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And so once again she said to them:*</span>
 
-> <span class="l-gloss">Accordingly he covered up his fire.</span>
+<span class="l-gloss">Mii dash minawaa enaat (and so again she said to them):</span>
 
-</div>
+<span class="l-orig">(144) ‘Āᵘ!” änāt; “mäckut kīgạwīwin” udinān.</span>
 
+<span class="l-fiero">**“Aaw!” enaat; “meshkot kiiga-wiiwin” odinaan.**</span>
 
-Mii desh kaa-izhiningwaank iw odishkotem (and so he covered over his fire).
+<span class="l-eng">*“Oh, do (let me pass)!” said she to them; “and as a reward I will be a wife to you all,” she said to them.*</span>
 
-97) > **Mii desh kaye wiin kaa-ishi-maajaat, napaach igo kaye wiin kii-ishi-maajaat.**
+<span class="l-gloss">“Aaw!” enaat (“oh, do!” she said to them); “meshkot kiiga-wiiwin” odinaan (“in return I will be your wife,” she said to them).</span>
 
+<span class="l-orig">(145) Kāwīndạc kạnạgä wītäbwä‘tāgusīn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Gaawiin dash kanage wii-tebwetagosiin.**</span>
 
-> <span class="l-gloss">Whereupon he too went away, but in another direction he went.</span>
+<span class="l-eng">*But not the least faith was placed in her word.*</span>
 
-</div>
+<span class="l-gloss">Gaawiin dash kanage wii-tebwetagosiin (but not the least bit was she believed).</span>
 
+<span class="l-orig">(146) Wī‘kādac kīkacki∙u∙ imā kī‘pācītciskạng ‘iᵘ migōsiwadciᵘ.</span>
 
-Mii desh kaye wiin kaa-ishi-maajaat (and then he too went off), napaach igo kaye wiin kii-ishi-maajaat (but in a different direction he went).
+<span class="l-fiero">**Wiikaa dash kii-kashki’o imaa kii-paashiichiskang iw migoosiwajiw.**</span>
 
-98) > **Mii desh miinawaa abinochiiyag ezhi-tibaajimindwaa.**
+<span class="l-eng">*And it was a long time before she was able to pass over the mountain of awls.*</span>
 
+<span class="l-gloss">Wiikaa dash kii-kashki’o (and only after a long time was she able) imaa kii-paashiichiskang iw migoosiwajiw (to make her way over that mountain of awls).</span>
 
-<div class="four-layer">
+<span class="l-orig">(147) Minawādac mī kīnō‘pinacawāt unīdcānisaᵉ.</span>
 
-> <span class="l-gloss">And now once more the children are taken up in the story.</span>
+<span class="l-fiero">**Minawaa dash mii kiinoopinashawaat oniijaanisa’.**</span>
 
-</div>
+<span class="l-eng">*And so once more she was in pursuit of her children.*</span>
 
+<span class="l-gloss">Minawaa dash mii kiinoopinashawaat oniijaanisa’ (and so once more she pursued her children).</span>
 
-Mii desh miinawaa abinochiiyag ezhi-tibaajimindwaa (and now once more the children are told of in the story).
+<span class="l-orig">(148) Mīdac mīnawā īgi’ᵘ abinōdciyạg nōndawāwāt ugīwān, agāwa pitäpitāgusinit.</span>
 
-99) > **Megwaa kiinwenh go ningoting ani-papimoset anaagoshig kwiiwisens pimoomaat oshiimeyensan aapichi aiyekosi.**
+<span class="l-fiero">**Mii dash miinawaa iigiw abinoojiyag noondawaawaat ogiiwaan, agaawa pitepitaagosinit.**</span>
 
+<span class="l-eng">*And then again did the children hear their mother, faintly they heard the sound of her voice coming hither.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash miinawaa iigiw abinoojiyag noondawaawaat ogiiwaan (and then again the children heard their mother), agaawa pitepitaagosinit (faintly her voice coming hither).</span>
 
-> <span class="l-gloss">It is said that one evening, when the boy was travelling along and carrying his little brother on his back, very weary did he become.</span>
+<span class="l-orig">(149) Minawā nāsāb pi∙i∙‘kitunit:</span>
 
-</div>
+<span class="l-fiero">**Minawaa naasaab pi-ikitonit:**</span>
 
+<span class="l-eng">*In the same way as before it came, saying:*</span>
 
-Megwaa kiinwenh go ningoting ani-papimoset anaagoshig (it is said that one evening, while walking along) kwiiwisens pimoomaat oshiimeyensan (the boy carrying his little brother on his back) aapichi aiyekosi (grew very tired).
+<span class="l-gloss">Minawaa naasaab pi-ikitonit (again, the same as before, she came saying):</span>
 
-100) > **Niigaan inaabit owabandaan kwayak ezhaat wiigiwaamens padakitenig.**
+<span class="l-orig">(150) “Pīc! Nīwīnōnā kicīⁿmä!”</span>
 
+<span class="l-fiero">**“Piish! Niiwiinoonaa kishiinme!”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Bring him to me! I want to suckle your little brother!”*</span>
 
-> <span class="l-gloss">As he looked ahead, he saw that straight in the way where he was going was a little lodge standing.</span>
+<span class="l-gloss">“Piish! Niiwiinoonaa kishiinme!” (“bring him here! I want to nurse your little brother!”)</span>
 
-</div>
+<span class="l-orig">(151) Mīdạc minawā aᵘ kwīwisäns äjiki‘tcimawit nawatc ki‘tcimādcība‘tōd; mīdacigu minawā äjipa‘pitākutūntạnäcing.</span>
 
+<span class="l-fiero">**Mii dash minawaa aw kwiiwisens ezhi-kichi-mawit nawach kichi-maajiibatood; mii dash igo minawaa ezhi-papitaakotoontaneshing.**</span>
 
-Niigaan inaabit (looking ahead) owabandaan kwayak ezhaat (he saw, straight in his path) wiigiwaamens padakitenig (a little lodge standing).
+<span class="l-eng">*And then again the boy wept aloud, all the harder did he begin to run; whereupon again he bumped his heels (against the cradleboard).*</span>
 
-101) > **Mii desh eni-izhi-naazikang.**
+<span class="l-gloss">Mii dash minawaa aw kwiiwisens ezhi-kichi-mawit (and then again the boy wept aloud) nawach kichi-maajiibatood (and all the harder he began to run); mii dash igo minawaa ezhi-papitaakotoontaneshing (and again he bumped his heels against the cradle-board).</span>
 
+<span class="l-orig">(152) Mī minawā nōndawāwāt ugīwān, nawạtc päcu’ pīdạnwäwitạminit.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii minawaa noondawaawaat ogiiwaan, nawach pesho piidanwewitaminit.**</span>
 
-> <span class="l-gloss">And then he directed his way to it.</span>
+<span class="l-eng">*And now again they heard their mother, ever nearer kept coming the sound of her voice.*</span>
 
-</div>
+<span class="l-gloss">Mii minawaa noondawaawaat ogiiwaan (and again they heard their mother), nawach pesho piidanwewitaminit (her voice coming ever nearer).</span>
 
+<span class="l-orig">(153) Mīdạc minawā mādcība‘tōt, mī minawā nōndawat ugīn.</span>
 
-Mii desh eni-izhi-naazikang (and so he headed straight for it).
+<span class="l-fiero">**Mii dash minawaa maajiibatoot, mii minawaa noondawat ogiin.**</span>
 
-102) > **Pichiinag kiinwenh go pesho ani-ayaat awiya onoondawaan kiigitoonit, ikitonit:  
-     > **They say that as soon as he was come near by, he heard somebody speak, saying:
+<span class="l-eng">*And then again he began running, and once more he heard his mother.*</span>
 
-Pichiinag kiinwenh go pesho ani-ayaat (and, they say, as soon as he came near) awiya onoondawaan kiigitoonit (he heard someone speaking), ikitonit (saying):
+<span class="l-gloss">Mii dash minawaa maajiibatoot (and then again he began to run), mii minawaa noondawat ogiin (and once more he heard his mother).</span>
 
-103) > **"Niiyaa\! nooshis, kigii-kitimaagisim," otigowaan.**
+<span class="l-orig">(154) Ā‘pidci päcu’ pidạnwäwitạminit igut:</span>
 
+<span class="l-fiero">**Aapiji pesho pidanwewitaminit igot:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Very close came the sound of her voice, saying:*</span>
 
-> <span class="l-gloss">"Oh, dear me\! my grandchildren, both of you are to be pitied," they (thus) were told.</span>
+<span class="l-gloss">Aapiji pesho pidanwewitaminit igot (very close came her voice, saying):</span>
 
-</div>
+<span class="l-orig">(155) “Pīc kicīⁿmä! Niwīnōnā!”</span>
 
+<span class="l-fiero">**“Piish kishiinme! Niwiinoonaa!”**</span>
 
-“Niiyaa\! nooshis, kigii-kitimaagisim,” otigowaan (“oh dear\! my grandchildren, you are pitiable,” they were told).
+<span class="l-eng">*“Bring me your little brother! I want to suckle him!”*</span>
 
-104) > **Mii kiinwenh go ezhi-kichi-mawit aw kwiiwisens a gaye pemoomint takinaaganing.**
+<span class="l-gloss">“Piish kishiinme! Niwiinoonaa!” (“bring your little brother! I want to nurse him!”)</span>
 
+<span class="l-orig">(156) Mīdạc nawạtc mādcība‘tōd, mīdạc mīnawā äji∙ā∙pạgitōd udānāng pînā‘kwān, mīdạc pinā‘kwāniwạdci’ᵘ äjipimạtinānig udūtānāming.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash nawach maajiibatood, mii dash miinawaa ezhi-aapagitood odaanaaang pi(i)naakwaan, mii dash pinaakwaaniwajiw ezhi-pimatinaanig odootaanaaming.**</span>
 
-> <span class="l-gloss">And then they say that the boy wept bitterly, likewise he that was carried in the cradle-board.</span>
+<span class="l-eng">*Thereupon all the harder did he start to run, and this time he flung the comb behind, whereupon a mountain-range of combs strung out over the country at the rear.*</span>
 
-</div>
+<span class="l-gloss">Mii dash nawach maajiibatood (and then all the harder he ran), mii dash miinawaa ezhi-aapagitood odaanaaang pi(i)naakwaan (and this time he flung the comb behind him), mii dash pinaakwaaniwajiw ezhi-pimatinaanig odootaanaaming (and a mountain-range of combs strung out across the country behind).</span>
 
+<span class="l-orig">(157) Mīdac äjiki‘tcimādcība‘tōd; kumā‘pi minawā unōndawāwān, agāwa täbi‘tāgusinit.</span>
 
-Mii kiinwenh go ezhi-kichi-mawit aw kwiiwisens (and then, they say, the boy wept bitterly) a gaye pemoomint takinaaganing (and so did the one carried in the cradle-board).
+<span class="l-fiero">**Mii dash ezhi-kichi-maajiibatood; komaapi minawaa onoondawaawaan, agaawa tebitaagosinit.**</span>
 
-105) > **“Pindigen\!” odigowaan ookomisiwaan.**
+<span class="l-eng">*And then he began running at full speed; and after a while they again heard her, feebly could she be heard.*</span>
 
+<span class="l-gloss">Mii dash ezhi-kichi-maajiibatood (and then he ran at full speed); komaapi minawaa onoondawaawaan (after a while they again heard her), agaawa tebitaagosinit (faintly she could be heard).</span>
 
-<div class="four-layer">
+<span class="l-orig">(158) Kāwin mīnawā wība kạcki∙u∙si awi‘kwä.</span>
 
-> <span class="l-gloss">"Come in\!" they were told by their grandmother.</span>
+<span class="l-fiero">**Gaawiin miinawaa wiiba kashki’osi aw ikwe.**</span>
 
-</div>
+<span class="l-eng">*It was a long time before the woman was able to pass the place.*</span>
 
+<span class="l-gloss">Gaawiin miinawaa wiiba kashki’osi aw ikwe (it was a long time before the woman could pass).</span>
 
-“Pindigen\!” odigowaan ookomisiwaan (“come in\!” they were told by their grandmother).
+<span class="l-orig">(159) Mīgu minawā nāsāb ädạnk iᵘ wạdci’ᵘ, kāwīndạc upisî‘kitāgusīn; wī‘kādec kạcki∙u∙.</span>
 
-106) > **Mii dash keget ezhi-piindigewaat.**
+<span class="l-fiero">**Mii go minawaa naasaab edank iw wajiw, gaawiin dash opisikitaagosiin; wiika desh kashki’o.**</span>
 
+<span class="l-eng">*And the same thing (she had said) before, she now said to the mountain, but no heed was given her; and it was a long while before she was able to pass.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii go minawaa naasaab edank iw wajiw (and the same as before she said to the mountain), gaawiin dash opisikitaagosiin (but no heed was given her); wiika desh kashki’o (and only after a long time was she able to pass).</span>
 
-> <span class="l-gloss">And then truly went they in.</span>
+<span class="l-orig">(160) Mīdạc minawā nōswäwämāt, mīdạc inät:</span>
 
-</div>
+<span class="l-fiero">**Mii dash minawaa nooswewemaat, mii dash inaat:**</span>
 
+<span class="l-eng">*And so again she called after them, and she said:*</span>
 
-Mii dash keget ezhi-piindigewaat (and then truly in they went).
+<span class="l-gloss">Mii dash minawaa nooswewemaat (and so again she called after them), mii dash inaat (and she said):</span>
 
-107) > **Kii-ashamigowaat kii-nibe’igowaat kaye.**
+<span class="l-orig">(161) “Pīc kicīⁿmäⁿ! Niwīnōnā kicīⁿmäⁿ!”</span>
 
+<span class="l-fiero">**“ Piish kishiinmenh! Niwiinoonaa kishiinmenh!”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Give me your little brother! I want to suckle your little brother!”*</span>
 
-> <span class="l-gloss">They were fed by her, and by her were they put to bed.</span>
+<span class="l-gloss">“Piish kishiinmenh! Niwiinoonaa kishiinmenh!” (“give me your little brother! I want to nurse your little brother!”)</span>
 
-</div>
+<span class="l-orig">(162) Mīdạc ābinding ä‘ta gītäbi‘tawāwāt.</span>
 
+<span class="l-fiero">**Mii dash aabinding eta gii-tebitawaawaat.**</span>
 
-Kii-ashamigowaat (they were fed by her) kii-nibe’igowaat kaye (and put to bed by her too).
+<span class="l-eng">*And only once they heard the sound of her voice.*</span>
 
-108) > **Wayaabanimig idash kiinwenh odigowaan ookomisiwaan:  
-     > **And in the morning it is said that they were told by their grandmother:
+<span class="l-gloss">Mii dash aabinding eta gii-tebitawaawaat (and only once did they hear her voice).</span>
 
-Wayaabanimig idash kiinwenh (and in the morning, they say) odigowaan ookomisiwaan (they were told by their grandmother):
+<span class="l-orig">(163) Mīdạc awä kwīwisäns änigu‘k äjipîmosät, ā‘pidci ayä‘kusit; kayä ā‘pidci cigwa tibikạtînig.</span>
 
-109) > **"Aaw, ambe anishkaan\!  
-     > **"Now, then, come, and rise from your sleep\!
+<span class="l-fiero">**Mii dash awe kwiiwisens enigok ezhi-pimoset, aapiji ayekosit; gaye aapiji shigwa tibikatinig.**</span>
 
-“Aaw, ambe anishkaan\! (“now then, come, get up\!)
+<span class="l-eng">*And then the boy walked with hurried step, very tired was he becoming; and it was now growing very dark.*</span>
 
-110) > **kiiga-maajaam minawaa," odigowaan.**
+<span class="l-gloss">Mii dash awe kwiiwisens enigok ezhi-pimoset (and then the boy walked with hurried step), aapiji ayekosit (very tired he was growing); gaye aapiji shigwa tibikatinig (and now it was growing very dark).</span>
 
+<span class="l-orig">(164) Ningutingidạc cigwa ạnitätakanābit, owâbạndān wīgiwāmäns; ō‘kumisạn ändānit minawā bäjik.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Ningoting idash shigwa ani-tetakanaabit, owaabandaan wiigiwaamens; ookomisan endaanit minawaa bezhik.**</span>
 
-> <span class="l-gloss">you need to be on your way again," they were told.</span>
+<span class="l-eng">*Once, as he was walking along, he raised his head to look, and saw a little wigwam; it was the home of another grandmother of his.*</span>
 
-</div>
+<span class="l-gloss">Ningoting idash shigwa ani-tetakanaabit (and once, as he raised his head to look), owaabandaan wiigiwaamens (he saw a little wigwam); ookomisan endaanit minawaa bezhik (the home of yet another grandmother of his).</span>
 
+<span class="l-orig">(165) Ā‘pidci ocawänimigōn.</span>
 
-kiiga-maajaam minawaa,” odigowaan (you must be on your way again,” they were told).
+<span class="l-fiero">**Aapiji oshawenimigoon.**</span>
 
-111) > **Mii desh kiinwenh eshi-miinigot ookomisan migoos, pinaakwaan kaye.**
+<span class="l-eng">*Very much was he pitied by her.*</span>
 
+<span class="l-gloss">Aapiji oshawenimigoon (very much was he pitied by her).</span>
 
-<div class="four-layer">
+<span class="l-orig">(166) Mīdạc ägut:</span>
 
-> <span class="l-gloss">And then it is said that he was given by his grandmother an awl and a comb.</span>
+<span class="l-fiero">**Mii dash egot:**</span>
 
-</div>
+<span class="l-eng">*And he was told:*</span>
 
+<span class="l-gloss">Mii dash egot (and he was told):</span>
 
-Mii desh kiinwenh eshi-miinigot ookomisan migoos (and then, they say, his grandmother gave him an awl), pinaakwaan kaye (and a comb too).
+<span class="l-orig">(167) “Kitimāgisi, nōjis.</span>
 
-112) > **Mii dash egot:  
-     > **And he was told:
+<span class="l-fiero">**“Kitimaagisi, noozhis.**</span>
 
-Mii dash egot (and he was told):
+<span class="l-eng">*“You are in distress, my grandchild.*</span>
 
-113) > **"Pichiinag kiiga-piminizha'ogowaa aw kigiwaa.  
-     > **"Presently will you be pursued by your mother.
+<span class="l-gloss">“Kitimaagisi, noozhis (“you are pitiable, my grandchild).</span>
 
-“Pichiinag kiiga-piminizha’ogowaa aw kigiwaa (“soon your mother will pursue you).
+<span class="l-orig">(168) Pīndigän!” udigōn.</span>
 
-114) > **Aiyaangwamisin nozhis.  
-     > **Do as well as you can, my grandchild.
+<span class="l-fiero">**Piindigen!” odigoon.**</span>
 
-Aiyaangwamisin nozhis (be careful, my grandchild).
+<span class="l-eng">*Come in!” he was told.*</span>
 
-115) > **Mii, o'o wenji-miininaan chii-aabajitoyan kiishpi(i)n piminizha'oneg pesho desh tanenimat; mii chi-aabagitooyan kitoodaanaaming.  
-     > **And the reason why I have given you these things is that you may use them, if, when she follows after you, you think her to be near by; then you shall fling them behind you.
+<span class="l-gloss">Piindigen!” odigoon (come in!” he was told).</span>
 
-Mii, o’o wenji-miininaan chii-aabajitoyan (and this is why I give you these, that you may use them) kiishpi(i)n piminizha’oneg pesho desh tanenimat (if, as she follows you, you think her near); mii chi-aabagitooyan kitoodaanaaming (then you shall fling them behind you).
+<span class="l-orig">(169) Mīdạc kā∙i∙ji∙ạ∙cạmigōwāt, kīnibä∙i∙gōwāt kayā.</span>
 
-116) > **Kiiga-pagitoon migoos," odigoon.**
+<span class="l-fiero">**Mii dash kaa-izhi-ashamigoowaat, kii-nibe’igoowaat gaye.**</span>
 
+<span class="l-eng">*And so, after they were fed, then by her were they also put to bed.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kaa-izhi-ashamigoowaat (and so, after they had been fed), kii-nibe’igoowaat gaye (they were put to bed by her too).</span>
 
-> <span class="l-gloss">You shall throw the awl," he was told.</span>
+<span class="l-orig">(170) Weyâbạninig dạc minawā udigōn ō‘kumisạn:</span>
 
-</div>
+<span class="l-fiero">**Weyaabaninig dash minawaa odigoon ookomisan:**</span>
 
+<span class="l-eng">*And in the morning they were again told by their grandmother:*</span>
 
-Kiiga-pagitoon migoos,” odigoon (you shall throw the awl,” he was told).
+<span class="l-gloss">Weyaabaninig dash minawaa odigoon ookomisan (and in the morning they were again told by their grandmother):</span>
 
-117) > **"Kego dash inaabiken.  
-     > **"And be sure not to look.
+<span class="l-orig">(171) “Ạmbä, nōjis, unickān!</span>
 
-“Kego dash inaabiken (“and do not look back).
+<span class="l-fiero">**“Ambe, noozhis, onishkaan!**</span>
 
-118) > **Mii go minawaa ketoodaman iwe pezhik," odigoon.**
+<span class="l-eng">*“Come, my grandchild, rise up!*</span>
 
+<span class="l-gloss">“Ambe, noozhis, onishkaan! (“come, my grandchild, get up!)</span>
 
-<div class="four-layer">
+<span class="l-orig">(172) Ạmbä, minawā cayīgwa kīgamādcā.”</span>
 
-> <span class="l-gloss">The same also shall you do with the other thing," he was told,</span>
+<span class="l-fiero">**Ambe, minawaa shayiigwa kiiga-maajaa.”**</span>
 
-</div>
+<span class="l-eng">*Come! for soon again must you be going.”*</span>
 
+<span class="l-gloss">Ambe, minawaa shayiigwa kiiga-maajaa.” (come! for soon you must be on your way again.”)</span>
 
-Mii go minawaa ketoodaman iwe pezhik,” odigoon (the same you shall do with the other thing,” he was told),
+<span class="l-orig">(173) Mīdạc minawā äjimīnigut ō‘kumisạn kä‘tacwīnit piwānạgōn saka‘tāgạnạn kayä.</span>
 
-119) > **"Mii dash chi-te-otisat minawaa pezhik kookomis."**
+<span class="l-fiero">**Mii dash minawaa ezhi-miinigot ookomisan ket-ashwiinit piwaanagoon sakataaganan gaye.**</span>
 
+<span class="l-eng">*Thereupon again he was given by his grandmother, as a means of protection, a flint and some punk.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash minawaa ezhi-miinigot ookomisan (thereupon again his grandmother gave him) ket-ashwiinit piwaanagoon (as a defense, a flint) sakataaganan gaye (and some punk too).</span>
 
-> <span class="l-gloss">"And then you will be able to reach another grandmother of yours."</span>
+<span class="l-orig">(174) Mīdạc äji∙u∙mbīwạnä∙i∙gut ucīⁿmäⁿyạn mīdạc ägut:</span>
 
-</div>
+<span class="l-fiero">**Mii dash ezhi-ombiiwane’igot oshiinmenyan mii dash egot:**</span>
 
+<span class="l-eng">*And then with her help was his little brother lifted upon his back, and he was told:*</span>
 
-“Mii dash chi-te-otisat minawaa pezhik kookomis.” (“and then you will reach yet another grandmother of yours.”)
+<span class="l-gloss">Mii dash ezhi-ombiiwane’igot oshiinmenyan (and then with her help his little brother was lifted onto his back) mii dash egot (and he was told):</span>
 
-120) > **Mii dash ezhi-ombiwane'igot oshiimeyensan.**
+<span class="l-orig">(175) “Keyābi kīgapiminica∙o∙gowā aᵘ kîgiwā.</span>
 
+<span class="l-fiero">**“Keyaabi kiiga-piminisha’ogowaa aw kigiwaa.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Still yet will you be followed by your mother.*</span>
 
-> <span class="l-gloss">And then was his little brother helped upon his back by her.</span>
+<span class="l-gloss">“Keyaabi kiiga-piminisha’ogowaa aw kigiwaa (“still yet your mother will pursue you).</span>
 
-</div>
+<span class="l-orig">(176) Awidạc, nōjis, saka‘tāgạn māninān mī ∙a∙ᵘ skwātc käda‘pạginạt; mīdạc tcidämạdābīyạn kistcizībi.</span>
 
+<span class="l-fiero">**Aw idash, noozhis, sakataagan maaninaan mii aw skwaach ked-apaginat; mii dash chi-demadaabiiyan kischi-ziibi.**</span>
 
-Mii dash ezhi-ombiwane’igot oshiimeyensan (and then his little brother was helped up onto his back by her).
+<span class="l-eng">*And now, my grandson, this punk which I have given you is the last thing for you to throw; thereupon you will be able to come out upon a great river.*</span>
 
-121) > **Mii dash ezhi-maajaat kaa-ishkwaa-ochimigowaat ookomisiwaan.**
+<span class="l-gloss">Aw idash, noozhis, sakataagan maaninaan (and now, my grandson, this punk I give you) mii aw skwaach ked-apaginat (is the last thing you shall throw); mii dash chi-demadaabiiyan kischi-ziibi (and then you will come out upon a great river).</span>
 
+<span class="l-orig">(177) Mīcimā tcîwâbạmạt kistci∙u∙si‘kāsi tcîpabā∙ạ∙gumut imā sībing.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Miishimaa chi-waabamaat kischi-osikaasi chi-pabaa’agomot imaa siibing.**</span>
 
-> <span class="l-gloss">And then he set out after they had been kissed by their grandmother.</span>
+<span class="l-eng">*And there you will see a great horn-grebe that will be moving about over the water in the river there.*</span>
 
-</div>
+<span class="l-gloss">Miishimaa chi-waabamaat kischi-osikaasi (and there you will see a great horned-grebe) chi-pabaa’agomot imaa siibing (moving about on the water there in the river).</span>
 
+<span class="l-orig">(178) Mīdạc aᵘ kägạnōnạt kīgạtinā:</span>
 
-Mii dash ezhi-maajaat (and then he set out) kaa-ishkwaa-ochimigowaat ookomisiwaan (after they had been kissed by their grandmother).
+<span class="l-fiero">**Mii dash aw ke-ganoonat kiigat-inaa:**</span>
 
-122) > **“Mii dash maachaag enigok\!” odigowaan.**
+<span class="l-eng">*And it shall be your duty to address it. You shall say to it:*</span>
 
+<span class="l-gloss">Mii dash aw ke-ganoonat kiigat-inaa (and it is he you shall address; you shall say to him):</span>
 
-<div class="four-layer">
+<span class="l-orig">(179) ‘Nîmicōmis, skumānā ācawā∙ō∙cicinām, mạnidō nimpiminica∙o∙gonān,’ ” udigōn ōkumisạn.</span>
 
-> <span class="l-gloss">"Now, then, go fast\!" they were told.</span>
+<span class="l-fiero">**’Nimishoomis, skomaa naa aashawaa’ooshishinaam, manidoo nimpiminisha’ogonaan,’” odigoon ookomisan.**</span>
 
-</div>
+<span class="l-eng">*’O my grandfather! do please carry us across the water, for a manitou is pursuing after us,’” he was (thus) told by his grandmother.*</span>
 
+<span class="l-gloss">‘Nimishoomis, skomaa naa aashawaa’ooshishinaam (‘my grandfather, do please ferry us across), manidoo nimpiminisha’ogonaan,’” odigoon ookomisan (a manidoo is pursuing us,’” he was told by his grandmother).</span>
 
-“Mii dash maachaag enigok\!” odigowaan (“now then, go fast\!” they were told).
+<span class="l-orig">(180) “Mī kädinat,” udinān.</span>
 
-123) > **Mii desh keget ezhi-maajaawaagobanen.**
+<span class="l-fiero">**“Mii ked-inaat,” odinaan.**</span>
 
+<span class="l-eng">*“That is what you shall say to it,” she said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Mii ked-inaat,” odinaan (“that is what you shall say to him,” she said to him).</span>
 
-> <span class="l-gloss">And then truly away they went.</span>
+<span class="l-orig">(181) “Kīpācidä∙ạ∙mạn dạc iᵘ zībī, mī∙i∙´ᵘ kāwīn minawā käyābi kīgapiminica∙o∙gusīwā.</span>
 
-</div>
+<span class="l-fiero">**“Kii-pa-aashide’aman dash iw ziibii, mii iw gaawiin minawaa kayaabi kiiga-piminisha’ogosiiwaa.**</span>
 
+<span class="l-eng">*“And after you have crossed over the river, then no longer will you be pursued.*</span>
 
-Mii desh keget ezhi-maajaawaagobanen (and so truly away they went).
+<span class="l-gloss">“Kii-pa-aashide’aman dash iw ziibii (“and after you have crossed over that river), mii iw gaawiin minawaa kayaabi kiiga-piminisha’ogosiiwaa (then no longer will you be pursued).</span>
 
-124) > **Ningoting idash kiiwenh ani-papimibatoot, shaiigwa awiya onoondawaan odoodaanaaming, igot:  
-     > **And once they say, that, as he went running along, he now heard the sound of somebody behind, saying:
+<span class="l-orig">(182) Wäwäni, nōjis, pisindawicîn äjikagī‘kiminān,” udinān.</span>
 
-Ningoting idash kiiwenh ani-papimibatoot (and once, they say, as he went running along) shaiigwa awiya onoondawaan odoodaanaaming (now he heard someone behind him), igot (saying to him):
+<span class="l-fiero">**Weweni, noozhis, pisindawishin ezhi-kagiikiminaan,” odinaan.**</span>
 
-125) > **"Mii imaa ayaan\! niiwiinoonaa kishiinme\!"**
+<span class="l-eng">*Carefully, my grandson, do you give heed to what I have instructed you,” she said to him.*</span>
 
+<span class="l-gloss">Weweni, noozhis, pisindawishin ezhi-kagiikiminaan,” odinaan (carefully, my grandson, heed what I have counseled you,” she said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(183) Mīdec äjimādcāt kwīwīsäns minawā.</span>
 
-> <span class="l-gloss">"Do stay there\! I wish to suckle your little brother."</span>
+<span class="l-fiero">**Mii desh ezhi-maajaat kwiiwisens minawaa.**</span>
 
-</div>
+<span class="l-eng">*And so off started the boy again.*</span>
 
+<span class="l-gloss">Mii desh ezhi-maajaat kwiiwisens minawaa (and so off started the boy again).</span>
 
-“Mii imaa ayaan\! (“stay right there\!) niiwiinoonaa kishiinme\!” (I want to nurse your little brother\!”)
+<span class="l-orig">(184) Ningutingdac minawā ạnipapimiba‘tōd cayīgwa minawā awīya ōnōndawān udōdānāming pīmạmāzināwi‘tāgusinit.</span>
 
-126) > **Mii dash kiinwenh aw kwiiwisens mikwendank kaa-igot oosan kaye ookomisan.**
+<span class="l-fiero">**Ningoting dash minawaa ani-papimibatood shayiigwa minawaa awiiya oonoondawaan odoodaanaaming piimamaazinaawitaagosinit.**</span>
 
+<span class="l-eng">*And once more, as he went running along, he heard again the sound of her coming behind with the clank of bones striking together.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Ningoting dash minawaa ani-papimibatood (and once more, as he went running along) shayiigwa minawaa awiiya oonoondawaan odoodaanaaming (now again he heard someone behind him) piimamaazinaawitaagosinit (coming with the clatter of bones).</span>
 
-> <span class="l-gloss">And then they say that the boy became mindful of what he had been told by his father and his grandmother.</span>
+<span class="l-orig">(185) Pa‘kic pîpīpāginit, igut:</span>
 
-</div>
+<span class="l-fiero">**Pekish pi-piipaaginit, igot:**</span>
 
+<span class="l-eng">*At the same time she was calling after him, and saying:*</span>
 
-Mii dash kiinwenh aw kwiiwisens mikwendank (and then, they say, the boy remembered) kaa-igot oosan kaye ookomisan (what he had been told by his father and his grandmother).
+<span class="l-gloss">Pekish pi-piipaaginit, igot (at the same time she came calling out, saying to him):</span>
 
-127) > **Mii dash ezhi-kichi-segisit.**
+<span class="l-orig">(186) “Mī∙i∙m āyān!</span>
 
+<span class="l-fiero">**“Mii im aayaan!**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Remain there!*</span>
 
-> <span class="l-gloss">And then he was greatly afraid.</span>
+<span class="l-gloss">“Mii im aayaan! (“stay right there!)</span>
 
-</div>
+<span class="l-orig">(187) Nīwīnōnā kicīⁿmäⁿ!”</span>
 
+<span class="l-fiero">**Niiwiinoonaa kishiinmenh!”**</span>
 
-Mii dash ezhi-kichi-segisit (and then he was greatly afraid).
+<span class="l-eng">*I want to suckle your little brother!”*</span>
 
-128) > **Mii desh ezhi-maajiibatood; kaawiin aapichi ogas\[h\]kitoosiin chi-pimipatot mii ezhi-paapiitaagoskank takinaagan odondanaang.**
+<span class="l-gloss">Niiwiinoonaa kishiinmenh!” (I want to nurse your little brother!”)</span>
 
+<span class="l-orig">(188) Mīdạc kägä‘t kistci∙änigu‘k mādcīpa‘tōd aᵘ kwīwisäns; ki‘tcimawit kayä, ki‘känimāt ugīn nō‘pinaca∙o∙gut; kayädạc mi‘kwändạnk kīnisimint ugiwān, kayädac kusāwāt.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash keget kischi-enigok maajiipatood aw kwiiwisens; kichi-mawit gaye, kikenimat ogiin noopinasha’ogot; gaye dash mikwendank kii-nisimint ogiwaan, gaye dash kosaawaat.**</span>
 
-> <span class="l-gloss">And then he started to run; not very well was he able to run, for with the cradle-board he would hit his heels.</span>
+<span class="l-eng">*And then, in truth, with great speed did the boy start running; and loud was he crying, for he knew that it was his mother who was pursuing him; and he was mindful tc© that their mother had been killed, and they were afraid of her.*</span>
 
-</div>
+<span class="l-gloss">Mii dash keget kischi-enigok maajiipatood aw kwiiwisens (and then truly with great speed the boy ran); kichi-mawit gaye (and weeping aloud too), kikenimat ogiin noopinasha’ogot (for he knew it was his mother pursuing him); gaye dash mikwendank kii-nisimint ogiwaan (and he remembered that their mother had been killed), gaye dash kosaawaat (and they were afraid of her).</span>
 
+<span class="l-orig">(189) Minawā ōnōndawān.</span>
 
-Mii desh ezhi-maajiibatood (and so he began to run); kaawiin aapichi ogas\[h\]kitoosiin chi-pimipatot (he could not run very well) mii ezhi-paapiitaagoskank takinaagan odondanaang (for the cradle-board kept knocking his heels).
+<span class="l-fiero">**Minawaa oonoondawaan.**</span>
 
-129) > **Mii desh minawaa noondawaat ogiin igot:  
-     > **And then again he heard his mother saying:
+<span class="l-eng">*Once more he heard her.*</span>
 
-Mii desh minawaa noondawaat ogiin igot (and then again he heard his mother saying to him):
+<span class="l-gloss">Minawaa oonoondawaan (once more he heard her).</span>
 
-130) > **"Mii imaa ayaan\! niiwiinoonaa kishiinme."**
+<span class="l-orig">(190) Nawạtc päcu´ pīdwäwitạminit iguwāt:</span>
 
+<span class="l-fiero">**Nawach pesho piidwewitaminit igowaat:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Still nearer came the sound of her voice, saying to them:*</span>
 
-> <span class="l-gloss">"Do stay there\! I want to suckle your little brother."</span>
+<span class="l-gloss">Nawach pesho piidwewitaminit igowaat (still nearer came her voice, saying to them):</span>
 
-</div>
+<span class="l-orig">(191) “Pīc kicīⁿmäⁿ!</span>
 
+<span class="l-fiero">**“Piish kishiinmenh!**</span>
 
-“Mii imaa ayaan\! (“stay right there\!) niiwiinoonaa kishiinme.” (I want to nurse your little brother.”)
+<span class="l-eng">*“Give me your little brother!*</span>
 
-131) > **Nawach idash kischi-mawiwag noondawaawaat ogiwaan, kaye dash wii-pisiskitawaasigwa.**
+<span class="l-gloss">“Piish kishiinmenh! (“give me your little brother!)</span>
 
+<span class="l-orig">(192) nimīnōnā kicīwäⁿ!” udigowān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**niwiinoonaa kishiinmenh!” odigowaan.**</span>
 
-> <span class="l-gloss">And then all the more did they weep when they heard their mother, and they did not want to listen to her.</span>
+<span class="l-eng">*I want to suckle your little brother,” (thus) they were told.*</span>
 
-</div>
+<span class="l-gloss">niwiinoonaa kishiinmenh!” odigowaan (I want to nurse your little brother,” they were told).</span>
 
+<span class="l-orig">(193) Mīdạc änigu‘k mādcīpa‘tōd.</span>
 
-Nawach idash kischi-mawiwag noondawaawaat ogiwaan (and all the more they wept on hearing their mother), kaye dash wii-pisiskitawaasigwa (and they did not want to heed her).
+<span class="l-fiero">**Mii dash enigok maajiipatood.**</span>
 
-132) > **Minawaa dash naasaab odigoon ogiin:  
-     > **And then the same thing as before were they told by their mother:
+<span class="l-eng">*And then with speed he started running.*</span>
 
-Minawaa dash naasaab odigoon ogiin (and again, the same as before, they were told by their mother):
+<span class="l-gloss">Mii dash enigok maajiipatood (and then with speed he started running).</span>
 
-133) > **"Mii imaa ayaan, kitinin\!  
-     > **" Do remain there, I tell you\!
+<span class="l-orig">(194) Minawā ōnōndawān, ā‘pidci päcu´ pidạnwäwitạminit.</span>
 
-“Mii imaa ayaan, kitinin\! (“stay right there, I tell you\!)
+<span class="l-fiero">**Minawaa oonoondawaan, aapiji pesho pidanwewitaminit.**</span>
 
-134) > **Niiwiinoonaa kosha kishiime kitinin.  
-     > **I really want to suckle your little brother, I tell you\!
+<span class="l-eng">*Again he heard her, very near came the sound of her voice.*</span>
 
-Niiwiinoonaa kosha kishiime kitinin (I really want to nurse your little brother, I tell you).
+<span class="l-gloss">Minawaa oonoondawaan (again he heard her), aapiji pesho pidanwewitaminit (very near came her voice).</span>
 
-135) > **Kitinikaa'aa kosha," odigoon.**
+<span class="l-orig">(195) Nāsāp igut:</span>
 
+<span class="l-fiero">**Naasaap igot:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*The same thing as before she was saying:*</span>
 
-> <span class="l-gloss">You are surely doing him injury," he was told.</span>
+<span class="l-gloss">Naasaap igot (the same as before she was saying to him):</span>
 
-</div>
+<span class="l-orig">(196) “Pīc kicīmäⁿ!</span>
 
+<span class="l-fiero">**“Piish kishiimeh!**</span>
 
-Kitinikaa’aa kosha,” odigoon (you are surely hurting him,” he was told).
+<span class="l-eng">*“Bring me your little brother!*</span>
 
-136) > **Mii dash keget enigok pimibatood, eshkam apichi pesho tanwewitamoon.**
+<span class="l-gloss">“Piish kishiimeh! (“bring me your little brother!)</span>
 
+<span class="l-orig">(197) Nīwīnōnā kicīⁿmä!”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Niiwiinoonaa kishiinme!”**</span>
 
-> <span class="l-gloss">And then truly at full speed he ran, (and) nearer still could be heard the sound of her voice.</span>
+<span class="l-eng">*I want to suckle your little brother!”*</span>
 
-</div>
+<span class="l-gloss">Niiwiinoonaa kishiinme!” (I want to nurse your little brother!”)</span>
 
+<span class="l-orig">(198) Mīdạc aᵘ kwīwisäns gägä‘t ki‘tcisāgisit.</span>
 
-Mii dash keget enigok pimibatood (and then truly with all his might he ran), eshkam apichi pesho tanwewitamoon (and ever nearer could her voice be heard).
+<span class="l-fiero">**Mii dash aw kwiiwisens geget kichi-segisit.**</span>
 
-137) > **Mii dash ezhi-aapagitood migoos, mii dash kichi-wajiw ezhi-ayaamagat; miziwe migoosiwan.**
+<span class="l-eng">*And then the boy, in truth, was greatly afraid.*</span>
 
+<span class="l-gloss">Mii dash aw kwiiwisens geget kichi-segisit (and then the boy was truly greatly afraid).</span>
 
-<div class="four-layer">
+<span class="l-orig">(199) Kägā udōnändān kā∙i∙gut ōkumisạn undci wägunän ni‘tạm kätapạgi‘tōd.</span>
 
-> <span class="l-gloss">Upon that he flung the awl, and then a great mountain came to be; everywhere over it were awls.</span>
+<span class="l-fiero">**Kegaa odoonendaan kaa-igot ookomisan onji wegonen nitam ket-apagitood.**</span>
 
-</div>
+<span class="l-eng">*Almost forgot he what had been told him by his grandmother, which (of the objects) he should first fling away.*</span>
 
+<span class="l-gloss">Kegaa odoonendaan kaa-igot ookomisan (he almost forgot what his grandmother had told him) onji wegonen nitam ket-apagitood (as to which thing he should throw first).</span>
 
-Mii dash ezhi-aapagitood migoos (and then he flung the awl), mii dash kichi-wajiw ezhi-ayaamagat (and a great mountain came to be); miziwe migoosiwan (everywhere over it were awls).
+<span class="l-orig">(200) Wī‘kādạc omi‘kwändān.</span>
 
-138) > **Mii dash kiinaawiitawaawaat ogiwaan.**
+<span class="l-fiero">**Wiikaa dash omikwendaan.**</span>
 
+<span class="l-eng">*It was a long while before he recalled (which) it (was).*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Wiikaa dash omikwendaan (and only after a long while did he recall it).</span>
 
-> <span class="l-gloss">And then far away they heard the faint sound of the voice of their mother.</span>
+<span class="l-orig">(201) Ā‘pidci pācu ōdānāng udinänimān päminica∙o∙gut.</span>
 
-</div>
+<span class="l-fiero">**Aapiji pesho oodaanaang odinenimaan peminisha’ogot.**</span>
 
+<span class="l-eng">*Very close behind suspected he the presence of her by whom he was pursued.*</span>
 
-Mii dash kiinaawiitawaawaat ogiwaan (and then far off they heard the faint voice of their mother).
+<span class="l-gloss">Aapiji pesho oodaanaang odinenimaan peminisha’ogot (very close behind he sensed the one pursuing him).</span>
 
-139) > **Mii dash awe chiibai migoosing kiinaanapisenig okanan.**
+<span class="l-orig">(202) Mīdạc ā‘pạgināt pīwānạgōn, mīdạc zäsi‘ka kipîmạdināg wạdci´ᵘ — pīwānạgō wạdci´ᵘ.</span>
 
+<span class="l-fiero">**Mii dash aapaginaat piiwaanagoon, mii dash zesika kii-pimadinaag wajiw — piiwaanagoo-wajiw.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Thereupon he flung the flint, and of a sudden there happened a range of mountains, — mountains of flint.*</span>
 
-> <span class="l-gloss">Thereupon a skeleton caught fast its bones in among the awls.</span>
+<span class="l-gloss">Mii dash aapaginaat piiwaanagoon (and then he flung the flint), mii dash zesika kii-pimadinaag wajiw — piiwaanagoo-wajiw (and of a sudden a mountain-range arose — a mountain of flint).</span>
 
-</div>
+<span class="l-orig">(203) Mīdạc minawā äniwäg kī∙a∙‘pänimut wāsa tcitạgwicing.</span>
 
+<span class="l-fiero">**Mii dash minawaa eniweg kii-apenimot waasa chi-tagwishing.**</span>
 
-Mii dash awe chiibai migoosing kiinaanapisenig okanan (thereupon the skeleton-being caught her bones fast among the awls).
+<span class="l-eng">*And when some distance farther on, he then felt secure in having gotten so far away.*</span>
 
-140) > **Mii dash kiinwenh edank migoos:  
-     > **Accordingly they say that it said to the awl:
+<span class="l-gloss">Mii dash minawaa eniweg kii-apenimot (and then, some distance on, he felt secure) waasa chi-tagwishing (in having gotten so far away).</span>
 
-Mii dash kiinwenh edank migoos (and then, they say, she said to the awl):
+<span class="l-orig">(204) Awidac i‘kwä äjicōskupisut pīwānagụnk.</span>
 
-141) > **"Tawiskawishin, ninoopinanaag niniichaanisag\!"**
+<span class="l-fiero">**Aw idash ikwe ezhi-shooskopisot piiwaanagonk.**</span>
 
+<span class="l-eng">*Now, the woman slipped on the flint.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Aw idash ikwe ezhi-shooskopisot piiwaanagonk (now the woman slipped on the flint).</span>
 
-> <span class="l-gloss">"Make way for me, I am following my children\!"</span>
+<span class="l-orig">(205) Mīgu ānu∙u∙gitā‘kīwät näyāp minawā äjäyāpōsut.</span>
 
-</div>
+<span class="l-fiero">**Mii go aano-ogitaakiiwet neyaap minawaa aazheyaapoosot.**</span>
 
+<span class="l-eng">*And even though she reached the top, yet back again she slipped.*</span>
 
-“Tawiskawishin (“make way for me), ninoopinanaag niniichaanisag\!” (I am following my children\!”)
+<span class="l-gloss">Mii go aano-ogitaakiiwet (and though she would reach the top) neyaap minawaa aazheyaapoosot (back down again she would slide).</span>
 
-142) > **Kaawiin dash kanage oopisi(i)kitaagosiin.**
+<span class="l-orig">(206) Mīdạc minawā ädạnk:</span>
 
+<span class="l-fiero">**Mii dash minawaa edank:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And so again she said to (the mountains):*</span>
 
-> <span class="l-gloss">But not in the least did (the awls) listen to her.</span>
+<span class="l-gloss">Mii dash minawaa edank (and so again she said to them):</span>
 
-</div>
+<span class="l-orig">(207) “Mānu, pimusä∙i∙cin!</span>
 
+<span class="l-fiero">**“Maano, pimose’ishin!**</span>
 
-Kaawiin dash kanage oopisi(i)kitaagosiin (but not in the least did they heed her).
+<span class="l-eng">*“Do, please, let me pass over you!*</span>
 
-143) > **Mii dash minawaa enaat:  
-     > **And so once again she said to them:
+<span class="l-gloss">“Maano, pimose’ishin! (“do please let me walk over you!)</span>
 
-Mii dash minawaa enaat (and so again she said to them):
+<span class="l-orig">(208) Mäckut kīgawiwîm,” uditān.</span>
 
-144) > **"Aaw\!" enaat; "meshkot kiiga-wiiwin" odinaan.**
+<span class="l-fiero">**Meshkot kiiga-wiwim,” oditaan.**</span>
 
+<span class="l-eng">*In return I will be a wife to you, “ she said to them.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Meshkot kiiga-wiwim,” oditaan (in return I will be your wife,” she said to them).</span>
 
-> <span class="l-gloss">"Oh, do (let me pass)\!" said she to them; "and as a reward I will be a wife to you all," she said to them.</span>
+<span class="l-orig">(209) Mīdạc wī‘kā pitcīnạg kīkacki∙u∙t.</span>
 
-</div>
+<span class="l-fiero">**Mii dash wiikaa pichiinag kii-kashki’ot.**</span>
 
+<span class="l-eng">*And it was a long time before she succeeded.*</span>
 
-“Aaw\!” enaat (“oh, do\!” she said to them); “meshkot kiiga-wiiwin” odinaan (“in return I will be your wife,” she said to them).
+<span class="l-gloss">Mii dash wiikaa pichiinag kii-kashki’ot (and it was only after a long time that she managed it).</span>
 
-145) > **Kaawiin dash kanage wii-tebwetagosiin.**
+<span class="l-orig">(210) Mīdạcigu iwiti kā∙u∙ndāpōzut.</span>
 
+<span class="l-fiero">**Mii dash igo iwiti kaa-ondaapoozot.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And from the place up there came she sliding down.*</span>
 
-> <span class="l-gloss">But not the least faith was placed in her word.</span>
+<span class="l-gloss">Mii dash igo iwiti kaa-ondaapoozot (and from up there she came sliding down).</span>
 
-</div>
+<span class="l-orig">(211) Mīdạc mīnawā kimādcinicawād unītcānisaˢ.</span>
 
+<span class="l-fiero">**Mii dash miinawaa ki-maajinishawaad oniichaanisa’.**</span>
 
-Kaawiin dash kanage wii-tebwetagosiin (but not the least bit was she believed).
+<span class="l-eng">*And then again she went in pursuit of her children.*</span>
 
-146) > **Wiikaa dash kii-kashki'o imaa kii-paashiichiskang iw migoosiwajiw.**
+<span class="l-gloss">Mii dash miinawaa ki-maajinishawaad oniichaanisa’ (and then again she went pursuing her children).</span>
 
+<span class="l-orig">(212) Mīdạc ninguting minawā kwīwisäns ạnipapimiba‘tōd.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash ningoting minawaa kwiiwisens ani-papimibatood.**</span>
 
-> <span class="l-gloss">And it was a long time before she was able to pass over the mountain of awls.</span>
+<span class="l-eng">*And so again the boy went running along the way.*</span>
 
-</div>
+<span class="l-gloss">Mii dash ningoting minawaa kwiiwisens ani-papimibatood (and so once again the boy went running along).</span>
 
+<span class="l-orig">(213) Cayīgwa minawā awiya pi‘täbi‘tāgusiwạn udōdānāmiwāng, iguwāt tibickō udānāng kā∙i∙ni‘tạmowāt:</span>
 
-Wiikaa dash kii-kashki’o (and only after a long time was she able) imaa kii-paashiichiskang iw migoosiwajiw (to make her way over that mountain of awls).
+<span class="l-fiero">**Shayiigwa minawaa awiya pitebitaagosiwan odoodaanaamiwaang, igowaat tibishkoo odaanaang kaa-initamowaat:**</span>
 
-147) > **Minawaa dash mii kiinoopinashawaat oniijaanisa'.**
+<span class="l-eng">*Soon again somebody could be heard coming behind, saying to them the same thing that in the past they had heard:*</span>
 
+<span class="l-gloss">Shayiigwa minawaa awiya pitebitaagosiwan odoodaanaamiwaang (soon again someone could be heard behind them), igowaat tibishkoo odaanaang kaa-initamowaat (saying to them the same thing they had heard before):</span>
 
-<div class="four-layer">
+<span class="l-orig">(214) “Pīc kicīmä!</span>
 
-> <span class="l-gloss">And so once more she was in pursuit of her children.</span>
+<span class="l-fiero">**“Piish kishiime!**</span>
 
-</div>
+<span class="l-eng">*“Give me your little brother!*</span>
 
+<span class="l-gloss">“Piish kishiime! (“give me your little brother!)</span>
 
-Minawaa dash mii kiinoopinashawaat oniijaanisa’ (and so once more she pursued her children).
+<span class="l-orig">(215) Nīwīnōnā kicīmäⁿ!”</span>
 
-148) > **Mii dash miinawaa iigiw abinoojiyag noondawaawaat ogiiwaan, agaawa pitepitaagosinit.**
+<span class="l-fiero">**Niiwiinoonaa kishiimenh!”**</span>
 
+<span class="l-eng">*I want to suckle your little brother!”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Niiwiinoonaa kishiimenh!” (I want to nurse your little brother!”)</span>
 
-> <span class="l-gloss">And then again did the children hear their mother, faintly they heard the sound of her voice coming hither.</span>
+<span class="l-orig">(216) Mīdạc aᵘ kwīwisäns nawạtc ki‘tci änigu‘k pimiba‘tōd.</span>
 
-</div>
+<span class="l-fiero">**Mii dash aw kwiiwisens nawach kichi-enigok pimibatood.**</span>
 
+<span class="l-eng">*Thereupon the boy with even greater speed did run.*</span>
 
-Mii dash miinawaa iigiw abinoojiyag noondawaawaat ogiiwaan (and then again the children heard their mother), agaawa pitepitaagosinit (faintly her voice coming hither).
+<span class="l-gloss">Mii dash aw kwiiwisens nawach kichi-enigok pimibatood (thereupon the boy ran with even greater speed).</span>
 
-149) > **Minawaa naasaab pi-ikitonit:  
-     > **In the same way as before it came, saying:
+<span class="l-orig">(217) Minawā unōndawān:</span>
 
-Minawaa naasaab pi-ikitonit (again, the same as before, she came saying):
+<span class="l-fiero">**Minawaa onoondawaan:**</span>
 
-150) > **"Piish\! Niiwiinoonaa kishiinme\!"**
+<span class="l-eng">*Again he heard her:*</span>
 
+<span class="l-gloss">Minawaa onoondawaan (again he heard her):</span>
 
-<div class="four-layer">
+<span class="l-orig">(218) “Pīc kicīmä!</span>
 
-> <span class="l-gloss">"Bring him to me\! I want to suckle your little brother\!"</span>
+<span class="l-fiero">**“Piish kishiime!**</span>
 
-</div>
+<span class="l-eng">*“Give me your little brother!*</span>
 
+<span class="l-gloss">“Piish kishiime! (“give me your little brother!)</span>
 
-“Piish\! Niiwiinoonaa kishiinme\!” (“bring him here\! I want to nurse your little brother\!”)
+<span class="l-orig">(219) Nīwīnōnā kicīmä!”</span>
 
-151) > **Mii dash minawaa aw kwiiwisens ezhi-kichi-mawit nawach kichi-maajiibatood; mii dash igo minawaa ezhi-papitaakotoontaneshing.**
+<span class="l-fiero">**Niiwiinoonaa kishiime!”**</span>
 
+<span class="l-eng">*I want to suckle your little brother!”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Niiwiinoonaa kishiime!” (I want to nurse your little brother!”)</span>
 
-> <span class="l-gloss">And then again the boy wept aloud, all the harder did he begin to run; whereupon again he bumped his heels (against the cradleboard).</span>
+<span class="l-orig">(220) Nawạtc päcu pitạnwäwitạminit.</span>
 
-</div>
+<span class="l-fiero">**Nawach pesho pi-tanwewitaminit.**</span>
 
+<span class="l-eng">*Still nearer was coming the sound of her voice.*</span>
 
-Mii dash minawaa aw kwiiwisens ezhi-kichi-mawit (and then again the boy wept aloud) nawach kichi-maajiibatood (and all the harder he began to run); mii dash igo minawaa ezhi-papitaakotoontaneshing (and again he bumped his heels against the cradle-board).
+<span class="l-gloss">Nawach pesho pi-tanwewitaminit (still nearer came the sound of her voice).</span>
 
-152) > **Mii minawaa noondawaawaat ogiiwaan, nawach pesho piidanwewitaminit.**
+<span class="l-orig">(221) Îniwidạc kayä pämōmāt ucīmäyänsạn wīngä kī‘kimōwan.</span>
 
+<span class="l-fiero">**Iiniw idash gaye pemoomaat oshiimeyensan wiinge kii-kimoowan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And the little brother whom he bore on his back had been crying, till now he could cry no more.*</span>
 
-> <span class="l-gloss">And now again they heard their mother, ever nearer kept coming the sound of her voice.</span>
+<span class="l-gloss">Iiniw idash gaye pemoomaat oshiimeyensan (and the little brother he carried on his back) wiinge kii-kimoowan (had wept until he could weep no more).</span>
 
-</div>
+<span class="l-orig">(222) Mīdạc mīnawā onōndawān, ā‘pidci päcu pidạnwäwitạminit;</span>
 
+<span class="l-fiero">**Mii dash miinawaa onoondawaan, aapiji pesho pi-danwewitaminit:**</span>
 
-Mii minawaa noondawaawaat ogiiwaan (and again they heard their mother), nawach pesho piidanwewitaminit (her voice coming ever nearer).
+<span class="l-eng">*And so now again he heard her, ever so close came the sound of her voice:*</span>
 
-153) > **Mii dash minawaa maajiibatoot, mii minawaa noondawat ogiin.**
+<span class="l-gloss">Mii dash miinawaa onoondawaan (and so now again he heard her), aapiji pesho pi-danwewitaminit (very close came the sound of her voice):</span>
 
+<span class="l-orig">(223) “Pīc kicīmäⁿ!</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Piish kishiimenh!**</span>
 
-> <span class="l-gloss">And then again he began running, and once more he heard his mother.</span>
+<span class="l-eng">*“Give me your little brother!*</span>
 
-</div>
+<span class="l-gloss">“Piish kishiimenh! (“give me your little brother!)</span>
 
+<span class="l-orig">(224) Nīwīnōnā kicīmäⁿ!”</span>
 
-Mii dash minawaa maajiibatoot (and then again he began to run), mii minawaa noondawat ogiin (and once more he heard his mother).
+<span class="l-fiero">**Niiwiinoonaa kishimenh!”**</span>
 
-154) > **Aapiji pesho pidanwewitaminit igot:  
-     > **Very close came the sound of her voice, saying:
+<span class="l-eng">*I want to suckle your little brother!”*</span>
 
-Aapiji pesho pidanwewitaminit igot (very close came her voice, saying):
+<span class="l-gloss">Niiwiinoonaa kishimenh!” (I want to nurse your little brother!”)</span>
 
-155) > **"Piish kishiinme\! Niwiinoonaa\!"**
+<span class="l-orig">(225) Mägwā dạc tạnwäwitạminit ugī∙ā∙‘pạginān īni´ᵘ skwātc saga‘tāgạnạn, kī∙i∙‘kitut:</span>
 
+<span class="l-fiero">**Megwaa dash tanwewitaminit ogii-aapaginaan iiniw skwaach sagataaganan, kii-ikitot:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And while he was hearing the sound of her voice, he hurled away as the last thing the punk, saying:*</span>
 
-> <span class="l-gloss">"Bring me your little brother\! I want to suckle him\!"</span>
+<span class="l-gloss">Megwaa dash tanwewitaminit (and while her voice was sounding) ogii-aapaginaan iiniw skwaach sagataaganan (he flung the last thing, the punk), kii-ikitot (saying):</span>
 
-</div>
+<span class="l-orig">(226) “Mī∙a∙wä skwātc, nō‘kumis! kāmijiyạn.</span>
 
+<span class="l-fiero">**“Mii awe skwaach, nookomis! kaa-mizhiyan.**</span>
 
-“Piish kishiinme\! Niwiinoonaa\!” (“bring your little brother\! I want to nurse him\!”)
+<span class="l-eng">*“This is the last, O my grandmother! that you gave to me.*</span>
 
-156) > **Mii dash nawach maajiibatood, mii dash miinawaa ezhi-aapagitood odaanaaang pi(i)naakwaan, mii dash pinaakwaaniwajiw ezhi-pimatinaanig odootaanaaming.**
+<span class="l-gloss">“Mii awe skwaach, nookomis! kaa-mizhiyan (“this is the last, my grandmother, that you gave me).</span>
 
+<span class="l-orig">(227) Sa‘ka∙ạ∙n!”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Saka’an!”**</span>
 
-> <span class="l-gloss">Thereupon all the harder did he start to run, and this time he flung the comb behind, whereupon a mountain-range of combs strung out over the country at the rear.</span>
+<span class="l-eng">*Set it afire!”*</span>
 
-</div>
+<span class="l-gloss">Saka’an!” (set it afire!”)</span>
 
+<span class="l-orig">(228) Mīdạc kägä‘t ki‘tciwạdci´ᵘ ickutä pijicik täta‘kamaya∙ī∙ upi‘kwanāwạng.</span>
 
-Mii dash nawach maajiibatood (and then all the harder he ran), mii dash miinawaa ezhi-aapagitood odaanaaang pi(i)naakwaan (and this time he flung the comb behind him), mii dash pinaakwaaniwajiw ezhi-pimatinaanig odootaanaaming (and a mountain-range of combs strung out across the country behind).
+<span class="l-fiero">**Mii dash keget kichi-wajiw ishkote pizhishik tetakamaya’ii opikwanaawang.**</span>
 
-157) > **Mii dash ezhi-kichi-maajiibatood; komaapi minawaa onoondawaawaan, agaawa tebitaagosinit.**
+<span class="l-eng">*And verily there was a great mountain of fire everywhere, stretching from one end of the world to the other at their rear.*</span>
 
+<span class="l-gloss">Mii dash keget kichi-wajiw ishkote (and verily there was a great mountain of fire) pizhishik tetakamaya’ii opikwanaawang (everywhere stretching across the whole land at their rear).</span>
 
-<div class="four-layer">
+<span class="l-orig">(229) Mīdạc mādcāwāt minawā änigu‘k.</span>
 
-> <span class="l-gloss">And then he began running at full speed; and after a while they again heard her, feebly could she be heard.</span>
+<span class="l-fiero">**Mii dash maajaawaat minawaa enigok.**</span>
 
-</div>
+<span class="l-eng">*And then they went on again with speed.*</span>
 
+<span class="l-gloss">Mii dash maajaawaat minawaa enigok (and then they went on again with speed).</span>
 
-Mii dash ezhi-kichi-maajiibatood (and then he ran at full speed); komaapi minawaa onoondawaawaan (after a while they again heard her), agaawa tebitaagosinit (faintly she could be heard).
+<span class="l-orig">(230) Mīdạc ‘aᵘ kwīwisäns nōndawāt ugīn mạdwäki‘tcimawinit.</span>
 
-158) > **Kaawiin miinawaa wiiba kashki'osi aw ikwe.**
+<span class="l-fiero">**Mii dash aw kwiiwisens noondawaat ogiin madwe-kichi-mawinit.**</span>
 
+<span class="l-eng">*And now the boy heard his mother wailing with a loud voice.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash aw kwiiwisens noondawaat ogiin madwe-kichi-mawinit (and now the boy heard his mother wailing aloud).</span>
 
-> <span class="l-gloss">It was a long time before the woman was able to pass the place.</span>
+<span class="l-orig">(231) Awạntcicidạc mādcā, kayä wīn ki‘tcimawit.</span>
 
-</div>
+<span class="l-fiero">**Awanchish idash maajaa, gaye wiin kichi-mawit.**</span>
 
+<span class="l-eng">*All the faster then he went, he too was weeping aloud.*</span>
 
-Kaawiin miinawaa wiiba kashki’osi aw ikwe (it was a long time before the woman could pass).
+<span class="l-gloss">Awanchish idash maajaa (all the faster then he went), gaye wiin kichi-mawit (he too weeping aloud).</span>
 
-159) > **Mii go minawaa naasaab edank iw wajiw, kaawiin dash opisikitaagosiin; wiika desh kashki'o.**
+<span class="l-orig">(232) Minawā onōndawān, agāwa täbi‘tāgusinit mạdwägistcinạnīnawạdämunit.</span>
 
+<span class="l-fiero">**Minawaa onoondawaan, agaawa tebitaagosinit madwe-gischi-naniinawademonit.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Once more he heard her, barely could the sound of her voice be heard as she wailed in deep grief.*</span>
 
-> <span class="l-gloss">And the same thing (she had said) before, she now said to the mountain, but no heed was given her; and it was a long while before she was able to pass.</span>
+<span class="l-gloss">Minawaa onoondawaan (once more he heard her), agaawa tebitaagosinit madwe-gischi-naniinawademonit (barely could her voice be heard as she wailed in deep grief).</span>
 
-</div>
+<span class="l-orig">(233) Mīdạc kayä wīnawā ā‘pidci nạninawadämuwạg.</span>
 
+<span class="l-fiero">**Mii dash gaye wiinawaa aapiji naniinawademowag.**</span>
 
-Mii go minawaa naasaab edank iw wajiw (and the same as before she said to the mountain), kaawiin dash opisikitaagosiin (but no heed was given her); wiika desh kashki’o (and only after a long time was she able to pass).
+<span class="l-eng">*And then again they also wept for bitter grief.*</span>
 
-160) > **Mii dash minawaa nooswewemaat, mii dash inaat:  
-     > **And so again she called after them, and she said:
+<span class="l-gloss">Mii dash gaye wiinawaa aapiji naniinawademowag (and then they too wept in bitter grief).</span>
 
-Mii dash minawaa nooswewemaat (and so again she called after them), mii dash inaat (and she said):
+<span class="l-orig">(234) Mīdạc kīwäⁿ awi‘kwä äjikīwitāskạng iᵘ ckutä pīnic kī∙u∙ditạnk umi‘kạnāni unītcānisaˢ.</span>
 
-161) > **" Piish kishiinmenh\! Niwiinoonaa kishiinmenh\!"**
+<span class="l-fiero">**Mii dash kiiwenh aw ikwe ezhikiiwitaaskang iw shkote piinish kii-oditank omikanaani oniichaanisa’.**</span>
 
+<span class="l-eng">*And then they say that the woman passed round the boundaries of the fire till she came to the path of her children.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw ikwe ezhikiiwitaaskang iw shkote (and then, they say, the woman went round the boundary of the fire) piinish kii-oditank omikanaani oniichaanisa’ (until she reached her children’s path).</span>
 
-> <span class="l-gloss">"Give me your little brother\! I want to suckle your little brother\!"</span>
+<span class="l-orig">(235) Igi´widạc ạbinōtcīyạg kīmạdāpīwạg zīpi.</span>
 
-</div>
+<span class="l-fiero">**Iigiw idash abinoochiiyag kii-madaapiiwag ziipi.**</span>
 
+<span class="l-eng">*Now, the children came out upon a river.*</span>
 
-“Piish kishiinmenh\! Niwiinoonaa kishiinmenh\!” (“give me your little brother\! I want to nurse your little brother\!”)
+<span class="l-gloss">Iigiw idash abinoochiiyag kii-madaapiiwag ziipi (now the children came out upon a river).</span>
 
-162) > **Mii dash aabinding eta gii-tebitawaawaat.**
+<span class="l-orig">(236) Mīdạc kägä‘t äjiwâbatạmowāt ō‘kumisiwān kā∙i∙guwā‘pạn.</span>
 
+<span class="l-fiero">**Mii dash keget ezhi-waabatamowaat ookomisiwaan kaa-igowaapan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Thereupon truly did they see what had been told them by their grandmother.*</span>
 
-> <span class="l-gloss">And only once they heard the sound of her voice.</span>
+<span class="l-gloss">Mii dash keget ezhi-waabatamowaat ookomisiwaan kaa-igowaapan (and truly they saw what their grandmother had told them of).</span>
 
-</div>
+<span class="l-orig">(237) Mīdạc kägä‘t äjikanōnāt kwīwisäns īni´ᵘ uzi‘kāsiwạn:</span>
 
+<span class="l-fiero">**Mii dash keget ezhi-kanoonaat kwiiwisens iiniw ozikaasiwan:**</span>
 
-Mii dash aabinding eta gii-tebitawaawaat (and only once did they hear her voice).
+<span class="l-eng">*And then in truth the boy spoke to Horn-Grebe:*</span>
 
-163) > **Mii dash awe kwiiwisens enigok ezhi-pimoset, aapiji ayekosit; kaye aapiji shigwa tibikatinig.**
+<span class="l-gloss">Mii dash keget ezhi-kanoonaat kwiiwisens iiniw ozikaasiwan (and then truly the boy spoke to Horn-Grebe):</span>
 
+<span class="l-orig">(238) “Skumānā, nimicōmis, ājawa∙o∙cicinān!</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Skomaa naa, nimishoomis, aazhawa’oshishinaan!**</span>
 
-> <span class="l-gloss">And then the boy walked with hurried step, very tired was he becoming; and it was now growing very dark.</span>
+<span class="l-eng">*“Oh, please, my grandfather, carry us over the water to the other side!*</span>
 
-</div>
+<span class="l-gloss">“Skomaa naa, nimishoomis, aazhawa’oshishinaan! (“please, my grandfather, ferry us across to the other side!)</span>
 
+<span class="l-orig">(239) Mạnido nimpiminica∙o∙gonān,” udinān.</span>
 
-Mii dash awe kwiiwisens enigok ezhi-pimoset (and then the boy walked with hurried step), aapiji ayekosit (very tired he was growing); kaye aapiji shigwa tibikatinig (and now it was growing very dark).
+<span class="l-fiero">**Manido nimpiminisha’ogonaan, “ odinaan.**</span>
 
-164) > **Ningoting idash shigwa ani-tetakanaabit, owaabandaan wiigiwaamens; ookomisan endaanit minawaa bezhik.**
+<span class="l-eng">*A manitou is pursuing us,” he said to him.*</span>
 
+<span class="l-gloss">Manido nimpiminisha’ogonaan,” odinaan (a manidoo is pursuing us,” he said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(240) Mīdạc kägä‘t ägut kā∙i∙gut ō‘kumisạn.</span>
 
-> <span class="l-gloss">Once, as he was walking along, he raised his head to look, and saw a little wigwam; it was the home of another grandmother of his.</span>
+<span class="l-fiero">**Mii dash keget egot kaa-igot ookomisan.**</span>
 
-</div>
+<span class="l-eng">*Then of a truth was he told what had been told him by his grandmother.*</span>
 
+<span class="l-gloss">Mii dash keget egot kaa-igot ookomisan (then truly he was told what his grandmother had told him).</span>
 
-Ningoting idash shigwa ani-tetakanaabit (and once, as he raised his head to look), owaabandaan wiigiwaamens (he saw a little wigwam); ookomisan endaanit minawaa bezhik (the home of yet another grandmother of his).
+<span class="l-orig">(241) “Kīcpinsa wī‘tōdạmạn kädininān kigatājawa∙o∙nininim,” udigowān.</span>
 
-165) > **Aapiji oshawenimigoon.**
+<span class="l-fiero">**“Kiishpin sa wii-toodaman ked-ininaan kigat-aazhawa’onininim,” odigowaan.**</span>
 
+<span class="l-eng">*“If you will only do what I tell you, then will I carry you both across the water,” they were told.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Kiishpin sa wii-toodaman ked-ininaan (“if you will only do as I tell you) kigat-aazhawa’onininim,” odigowaan (then I will carry you both across,” they were told).</span>
 
-> <span class="l-gloss">Very much was he pitied by her.</span>
+<span class="l-orig">(242) “Äⁿyeˢ,” udinān.</span>
 
-</div>
+<span class="l-fiero">**“Enye’,” odinaan.**</span>
 
+<span class="l-eng">*“We will,” he said to him.*</span>
 
-Aapiji oshawenimigoon (very much was he pitied by her).
+<span class="l-gloss">“Enye’,” odinaan (“we will,” he said to him).</span>
 
-166) > **Mii dash egot:  
-     > **And he was told:
+<span class="l-orig">(243) “Kīnä‘tạgu k∙igatājawa∙o∙nin, kāwīn wīn kicīⁿmä,” udigōn.</span>
 
-Mii dash egot (and he was told):
+<span class="l-fiero">**“Kiin eta go kigat-aazhawa’onin, gaawiin wiin kishiinme,” odigoon.**</span>
 
-167) > **"Kitimaagisi, noozhis.  
-     > **"You are in distress, my grandchild.
+<span class="l-eng">*“You yourself only will I take across the water, but not your little brother,” he was told.*</span>
 
-“Kitimaagisi, noozhis (“you are pitiable, my grandchild).
+<span class="l-gloss">“Kiin eta go kigat-aazhawa’onin (“you alone will I carry across), gaawiin wiin kishiinme,” odigoon (but not your little brother,” he was told).</span>
 
-168) > **Piindigen\!" odigoon.**
+<span class="l-orig">(244) Mīdạc änāt:</span>
 
+<span class="l-fiero">**Mii dash enaat:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then he said to him:*</span>
 
-> <span class="l-gloss">Come in\!" he was told.</span>
+<span class="l-gloss">Mii dash enaat (and then he said to him):</span>
 
-</div>
+<span class="l-orig">(245) “Kāwīn wīn iᵘ kitātäbwätōsinōn.</span>
 
+<span class="l-fiero">**“Gaawiin wiin iw kitaa-tebwetosinoon.**</span>
 
-Piindigen\!” odigoon (come in\!” he was told).
+<span class="l-eng">*“Not to that sort of thing will I listen from you.*</span>
 
-169) > **Mii dash kaa-izhi-ashamigoowaat, kii-nibe'igoowaat kaye.**
+<span class="l-gloss">“Gaawiin wiin iw kitaa-tebwetosinoon (“to that I will not listen from you).</span>
 
+<span class="l-orig">(246) Ā‘pidci nisāgi∙ā∙ nicīmäⁿyäns,” udinān.  
+“</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Aapiji nisaagi’aa nishiimenyens, “ odinaan.**</span>
 
-> <span class="l-gloss">And so, after they were fed, then by her were they also put to bed.</span>
+<span class="l-eng">*Very fond am I of my little brother,” he said to him.*</span>
 
-</div>
+<span class="l-gloss">Aapiji nisaagi’aa nishiimenyens,” odinaan (very fond am I of my little brother,” he said to him).</span>
 
+<span class="l-orig">(247) ‘Awisa!” udigōn; “kīni‘tạmisa kīgatājawa∙o∙nin.”</span>
 
-Mii dash kaa-izhi-ashamigoowaat (and so, after they had been fed), kii-nibe’igoowaat kaye (they were put to bed by her too).
+<span class="l-fiero">**Awisa!” odigoon; “kiinitam isa kigat-aazhawa’onin.”**</span>
 
-170) > **Weyaabaninig dash minawaa odigoon ookomisan:  
-     > **And in the morning they were again told by their grandmother:
+<span class="l-eng">*“All right, then!” he was told; “you first will I carry across the water.”*</span>
 
-Weyaabaninig dash minawaa odigoon ookomisan (and in the morning they were again told by their grandmother):
+<span class="l-gloss">Awisa!” odigoon (“all right then!” he was told); “kiinitam isa kigat-aazhawa’onin.” (“you first I will carry across.”)</span>
 
-171) > **"Ambe, noozhis, onishkaan\!  
-     > **"Come, my grandchild, rise up\!
+<span class="l-orig">(248) Mīdạc änāt:</span>
 
-“Ambe, noozhis, onishkaan\! (“come, my grandchild, get up\!)
+<span class="l-fiero">**Mii dash enaat:**</span>
 
-172) > **Ambe, minawaa shayiigwa kiiga-maajaa."**
+<span class="l-eng">*And then he said to him:*</span>
 
+<span class="l-gloss">Mii dash enaat (and then he said to him):</span>
 
-<div class="four-layer">
+<span class="l-orig">(249) “Ānic kä∙i∙cikạcki‘tōyān tci∙u∙mbōmạk nicīmäⁿ kīcpîn pạgitōmạk?” udinān.  
+“</span>
 
-> <span class="l-gloss">Come\! for soon again must you be going."</span>
+<span class="l-fiero">**“Aaniish ke-ishi-kashkitooyaan chi-omboomak nishiimenh kiishpin pagitoomak?” odinaan.**</span>
 
-</div>
+<span class="l-eng">*“How shall I be able to put my little brother upon my back if I put him down?” he said to him.*</span>
 
+<span class="l-gloss">“Aaniish ke-ishi-kashkitooyaan chi-omboomak nishiimenh (“how shall I be able to take my little brother up on my back) kiishpin pagitoomak?” odinaan (if I put him down?” he said to him).</span>
 
-Ambe, minawaa shayiigwa kiiga-maajaa.” (come\! for soon you must be on your way again.”)
+<span class="l-orig">(250) ‘Ā, kīgakackitōn,” udinān.</span>
 
-173) > **Mii dash minawaa ezhi-miinigot ookomisan ket-ashwiinit piwaanagoon sakataaganan kaye.**
+<span class="l-fiero">**“Aa, kiigakashkitoon,” odinaan.**</span>
 
+<span class="l-eng">*“Oh, you will be able to do it,” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Aa, kiigakashkitoon,” odinaan (“oh, you will manage it,” he said to him).</span>
 
-> <span class="l-gloss">Thereupon again he was given by his grandmother, as a means of protection, a flint and some punk.</span>
+<span class="l-orig">(251) “Pạgitōm!” udigōn.</span>
 
-</div>
+<span class="l-fiero">**“Pagitoom!” odigoon.**</span>
 
+<span class="l-eng">*“Let him down!” he was told by his grandfather.*</span>
 
-Mii dash minawaa ezhi-miinigot ookomisan (thereupon again his grandmother gave him) ket-ashwiinit piwaanagoon (as a defense, a flint) sakataaganan kaye (and some punk too).
+<span class="l-gloss">“Pagitoom!” odigoon (“set him down!” he was told by his grandfather).</span>
 
-174) > **Mii dash ezhi-ombiiwane'igot oshiinmenyan mii dash egot:  
-     > **And then with her help was his little brother lifted upon his back, and he was told:
+<span class="l-orig">(252) Mīdạc kägä‘t wâ∙i∙cipạgitōmāt mīdạc “Tapạngicin,” inändạm; mī minawā äjinōgīt.</span>
 
-Mii dash ezhi-ombiiwane’igot oshiinmenyan (and then with her help his little brother was lifted onto his back) mii dash egot (and he was told):
+<span class="l-fiero">**Mii dash keget waa-ishi-pagitoomaat mii dash “Ta-pangishin,” inendam; mii minawaa ezhi-noogiit.**</span>
 
-175) > **"Keyaabi kiiga-piminisha'ogowaa aw kigiwaa.  
-     > **"Still yet will you be followed by your mother.
+<span class="l-eng">*And then truly was he in the act of letting him down, when, “Now he might fall,” he thought; so again he hesitated.*</span>
 
-“Keyaabi kiiga-piminisha’ogowaa aw kigiwaa (“still yet your mother will pursue you).
+<span class="l-gloss">Mii dash keget waa-ishi-pagitoomaat (and then truly, just as he was about to set him down) mii dash “Ta-pangishin,” inendam (then, “he might fall,” he thought); mii minawaa ezhi-noogiit (so again he hesitated).</span>
 
-176) > **Aw idash, noozhis, sakataagan maaninaan mii aw skwaach ked-apaginat; mii dash chi-demadaabiiyan kischi-ziibi.  
-     > **And now, my grandson, this punk which I have given you is the last thing for you to throw; thereupon you will be able to come out upon a great river.
+<span class="l-orig">(253) “Pagitōm!” udigōn umicōmisạn.</span>
 
-Aw idash, noozhis, sakataagan maaninaan (and now, my grandson, this punk I give you) mii aw skwaach ked-apaginat (is the last thing you shall throw); mii dash chi-demadaabiiyan kischi-ziibi (and then you will come out upon a great river).
+<span class="l-fiero">**“Pagitoom!” odigoon omishoomisan.**</span>
 
-177) > **Miishimaa chi-waabamaat kischi-osikaasi chi-pabaa'agomot imaa siibing.  
-     > **And there you will see a great horn-grebe that will be moving about over the water in the river there.
+<span class="l-eng">*“Let him down!” he was told by his grandfather.*</span>
 
-Miishimaa chi-waabamaat kischi-osikaasi (and there you will see a great horned-grebe) chi-pabaa’agomot imaa siibing (moving about on the water there in the river).
+<span class="l-gloss">“Pagitoom!” odigoon omishoomisan (“set him down!” he was told by his grandfather).</span>
 
-178) > **Mii dash aw ke-ganoonat kiigat-inaa:  
-     > **And it shall be your duty to address it. You shall say to it:
+<span class="l-orig">(254) “Kawīn tapạngicinzī,” udigōn.</span>
 
-Mii dash aw ke-ganoonat kiigat-inaa (and it is he you shall address; you shall say to him):
+<span class="l-fiero">**“Gaawiin ta-pangishinzii,” odigoon.**</span>
 
-179) > **'Nimishoomis, skomaa naa aashawaa'ooshishinaam, manidoo nimpiminisha'ogonaan,'" odigoon ookomisan.**
+<span class="l-eng">*“He will not fall,” he was told.*</span>
 
+<span class="l-gloss">“Gaawiin ta-pangishinzii,” odigoon (“he will not fall,” he was told).</span>
 
-<div class="four-layer">
+<span class="l-orig">(255) Mīdạc kägä‘t käga‘pī kā∙i∙jipạgitōmāt wäwäni.</span>
 
-> <span class="l-gloss">'O my grandfather\! do please carry us across the water, for a manitou is pursuing after us,'" he was (thus) told by his grandmother.</span>
+<span class="l-fiero">**Mii dash keget kegapii kaa-izhi-pagitoomaat weweni.**</span>
 
-</div>
+<span class="l-eng">*And then truly at last he let him down in a careful manner.*</span>
 
+<span class="l-gloss">Mii dash keget kegapii kaa-izhi-pagitoomaat weweni (and then truly at last he set him down carefully).</span>
 
-‘Nimishoomis, skomaa naa aashawaa’ooshishinaam (‘my grandfather, do please ferry us across), manidoo nimpiminisha’ogonaan,’” odigoon ookomisan (a manidoo is pursuing us,’” he was told by his grandmother).
+<span class="l-orig">(256) “Āwidac kīni‘tạm kigatājo∙o∙nin,” udigōn.</span>
 
-180) > **"Mii ked-inaat," odinaan.**
+<span class="l-fiero">**“Aw idash kiinitam kigat-aazhoo’nin,” odigoon.**</span>
 
+<span class="l-eng">*“Therefore first you will I carry across the water,” he was told.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Aw idash kiinitam kigat-aazhoo’nin,” odigoon (“so you first I will carry across,” he was told).</span>
 
-> <span class="l-gloss">"That is what you shall say to it," she said to him.</span>
+<span class="l-orig">(257) Mīdạc aᵘ zäzī‘kisit kwīwisäns kā∙i∙jiki‘tci∙ā∙nzanāmut.</span>
 
-</div>
+<span class="l-fiero">**Mii dash aw zeziikisit kwiiwisens kaa-izhi-kichi-aanzanaamot.**</span>
 
+<span class="l-eng">*And then the older boy drew a deep sigh.*</span>
 
-“Mii ked-inaat,” odinaan (“that is what you shall say to him,” she said to him).
+<span class="l-gloss">Mii dash aw zeziikisit kwiiwisens kaa-izhi-kichi-aanzanaamot (and then the older boy drew a deep sigh).</span>
 
-181) > **"Kii-pa-aashide'aman dash iw ziibii, mii iw kaawiin minawaa kayaabi kiiga-piminisha'ogosiiwaa.  
-     > **"And after you have crossed over the river, then no longer will you be pursued.
+<span class="l-orig">(258) Pä‘kic ināt umicōmisạn:</span>
 
-“Kii-pa-aashide’aman dash iw ziibii (“and after you have crossed over that river), mii iw kaawiin minawaa kayaabi kiiga-piminisha’ogosiiwaa (then no longer will you be pursued).
+<span class="l-fiero">**Pekish inaat omishoomisan:**</span>
 
-182) > **Weweni, noozhis, pisindawishin ezhi-kagiikiminaan," odinaan.**
+<span class="l-eng">*At the same time he said to his grandfather:*</span>
 
+<span class="l-gloss">Pekish inaat omishoomisan (at the same time saying to his grandfather):</span>
 
-<div class="four-layer">
+<span class="l-orig">(259) “Nimicōmis!</span>
 
-> <span class="l-gloss">Carefully, my grandson, do you give heed to what I have instructed you," she said to him.</span>
+<span class="l-fiero">**“Nimishoomis!**</span>
 
-</div>
+<span class="l-eng">*“O my grandfather!*</span>
 
+<span class="l-gloss">“Nimishoomis! (“my grandfather!)</span>
 
-Weweni, noozhis, pisindawishin ezhi-kagiikiminaan,” odinaan (carefully, my grandson, heed what I have counseled you,” she said to him).
+<span class="l-orig">(260) mānō nicīmäyäns ni‘tạm ājawa∙ō∙c!” udinān.</span>
 
-183) > **Mii desh ezhi-maajaat kwiiwisens minawaa.**
+<span class="l-fiero">**maanoo nishiimeyens nitam aazhawa’oosh!” odinaan.**</span>
 
+<span class="l-eng">*do please carry my little brother first over to the other side!” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">maanoo nishiimeyens nitam aazhawa’oosh!” odinaan (please carry my little brother across first!” he said to him).</span>
 
-> <span class="l-gloss">And so off started the boy again.</span>
+<span class="l-orig">(261) Mīdạc kägä‘t äjitäbwä‘tāgut ōmicōmisạn.</span>
 
-</div>
+<span class="l-fiero">**Mii dash keget ezhi-tebwetaagoot omishoomisan.**</span>
 
+<span class="l-eng">*And it was so that his grandfather did what was asked of him.*</span>
 
-Mii desh ezhi-maajaat kwiiwisens minawaa (and so off started the boy again).
+<span class="l-gloss">Mii dash keget ezhi-tebwetaagoot omishoomisan (and so truly his grandfather did as he was asked).</span>
 
-184) > **Ningoting dash minawaa ani-papimibatood shayiigwa minawaa awiiya oonoondawaan odoodaanaaming piimamaazinaawitaagosinit.**
+<span class="l-orig">(262) Owâbamigōnsa ā‘pidci sāgi∙ā∙t ucīmäyạn, kayä aiyāngwāmisit tciwạni∙ā∙sig.</span>
 
+<span class="l-fiero">**Owaabamigoon sa aapiji saagi’aat oshiimeyan, gaye aiyaangwaamisit chi-wani’aasig.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*It was truly observed how so very fond he was of his wee little brother, and how careful he was not to lose him.*</span>
 
-> <span class="l-gloss">And once more, as he went running along, he heard again the sound of her coming behind with the clank of bones striking together.</span>
+<span class="l-gloss">Owaabamigoon sa aapiji saagi’aat oshiimeyan (it was plainly seen how very fond he was of his little brother), gaye aiyaangwaamisit chi-wani’aasig (and how careful he was not to lose him).</span>
 
-</div>
+<span class="l-orig">(263) Mīdạc ägut: “</span>
 
+<span class="l-fiero">**Mii dash egot:**</span>
 
-Ningoting dash minawaa ani-papimibatood (and once more, as he went running along) shayiigwa minawaa awiiya oonoondawaan odoodaanaaming (now again he heard someone behind him) piimamaazinaawitaagosinit (coming with the clatter of bones).
+<span class="l-eng">*Therefore was he told:*</span>
 
-185) > **Pekish pi-piipaaginit, igot:  
-     > **At the same time she was calling after him, and saying:
+<span class="l-gloss">Mii dash egot (therefore he was told):</span>
 
-Pekish pi-piipaaginit, igot (at the same time she came calling out, saying to him):
+<span class="l-orig">(264) ‘Āᵘ! pōsi’, kägu dạc wīn tāngawigạnäckawici‘kän!” udinān.</span>
 
-186) > **"Mii im aayaan\!  
-     > **"Remain there\!
+<span class="l-fiero">**“Aaw! poosi, kego dash wiin taangawiganeshkawishiken!” odinaan.**</span>
 
-“Mii im aayaan\! (“stay right there\!)
+<span class="l-eng">*“All right! put him on, but don’t you touch me on the back!” he said to him.*</span>
 
-187) > **Niiwiinoonaa kishiinmenh\!"**
+<span class="l-gloss">“Aaw! poosi, kego dash wiin taangawiganeshkawishiken!” odinaan (“all right! load him on, but do not touch me on the back!” he said to him).</span>
 
+<span class="l-orig">(265) Mīdac äji∙ā∙jawa∙ō∙nāt kī∙a∙sāt ạgāming.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash ezhi-aazhawa’oonaat kii-asaat agaaming.**</span>
 
-> <span class="l-gloss">I want to suckle your little brother\!"</span>
+<span class="l-eng">*And then he carried him over on the other side and put him on the other shore.*</span>
 
-</div>
+<span class="l-gloss">Mii dash ezhi-aazhawa’oonaat kii-asaat agaaming (and then he carried him across and set him on the other shore).</span>
 
+<span class="l-orig">(266) Mīdạc kayä wīn pitcīnạg kī∙ā∙jawa∙ō∙nint.</span>
 
-Niiwiinoonaa kishiinmenh\!” (I want to nurse your little brother\!”)
+<span class="l-fiero">**Mii dash gaye, wiin pichiinag kii-aazhawa’oonint.**</span>
 
-188) > **Mii dash keget kischi-enigok maajiipatood aw kwiiwisens; kichi-mawit kaye, kikenimat ogiin noopinasha'ogot; kaye dash mikwendank kii-nisimint ogiwaan, kaye dash kosaawaat.**
+<span class="l-eng">*And then was the other afterwards taken across.*</span>
 
+<span class="l-gloss">Mii dash gaye, wiin pichiinag kii-aazhawa’oonint (and then the other one was afterward taken across).</span>
 
-<div class="four-layer">
+<span class="l-orig">(267) Mīdạc tābickō agāming kī∙a∙yāwāt.</span>
 
-> <span class="l-gloss">And then, in truth, with great speed did the boy start running; and loud was he crying, for he knew that it was his mother who was pursuing him; and he was mindful tc© that their mother had been killed, and they were afraid of her.</span>
+<span class="l-fiero">**Mii dash taabishkoo agaaming kii-ayaawaat.**</span>
 
-</div>
+<span class="l-eng">*Therefore now were both on the other shore.*</span>
 
+<span class="l-gloss">Mii dash taabishkoo agaaming kii-ayaawaat (and so now both were on the other shore).</span>
 
-Mii dash keget kischi-enigok maajiipatood aw kwiiwisens (and then truly with great speed the boy ran); kichi-mawit kaye (and weeping aloud too), kikenimat ogiin noopinasha’ogot (for he knew it was his mother pursuing him); kaye dash mikwendank kii-nisimint ogiwaan (and he remembered that their mother had been killed), kaye dash kosaawaat (and they were afraid of her).
+<span class="l-orig">(268) Mīdạc kī∙i∙gut ōmicōmisạn:</span>
 
-189) > **Minawaa oonoondawaan.**
+<span class="l-fiero">**Mii dash kii-igot oomishoomisan:**</span>
 
+<span class="l-eng">*And then was he told by his grandfather:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kii-igot oomishoomisan (and then he was told by his grandfather):</span>
 
-> <span class="l-gloss">Once more he heard her.</span>
+<span class="l-orig">(269) “Mīci∙u∙mbōm kicīⁿmäⁿ!” udigōn.</span>
 
-</div>
+<span class="l-fiero">**“Mii ishi-omboom kishiinmneh!” odigoon.**</span>
 
+<span class="l-eng">*“Now, then! put your little brother upon your back!” he was told.*</span>
 
-Minawaa oonoondawaan (once more he heard her).
+<span class="l-gloss">“Mii ishi-omboom kishiinmneh!” odigoon (“now then, take your little brother up on your back!” he was told).</span>
 
-190) > **Nawach pesho piidwewitaminit igowaat:  
-     > **Still nearer came the sound of her voice, saying to them:
+<span class="l-orig">(270) Mīdạc nawạtc kīwäni‘pạnisit kī∙u∙mbōmāt ucīmäⁿyänsạn, pī‘tcidạc kā∙i∙jisạnạgisit wīpạgitōmāt ni’‘tạm.</span>
 
-Nawach pesho piidwewitaminit igowaat (still nearer came her voice, saying to them):
+<span class="l-fiero">**Mii dash nawach kii-wenipanisit kii-omboomaat oshiimenyensan, piich idash kaa-izhi-sanagisit wii-pagitoomaat nitam.**</span>
 
-191) > **"Piish kishiinmenh\!  
-     > **"Give me your little brother\!
+<span class="l-eng">*Whereupon he found it easier than before to lift his little brother upon his back, as easy he found it as when he first wanted to put him down.*</span>
 
-“Piish kishiinmenh\! (“give me your little brother\!)
+<span class="l-gloss">Mii dash nawach kii-wenipanisit kii-omboomaat oshiimenyensan (whereupon he found it easier than before to lift his little brother), piich idash kaa-izhi-sanagisit wii-pagitoomaat nitam (as easy as it had been hard when he first wished to set him down).</span>
 
-192) > **niwiinoonaa kishiinmenh\!" odigowaan.**
+<span class="l-orig">(271) Mīdạc minawā kā∙i∙jimādcāwāt.</span>
 
+<span class="l-fiero">**Mii dash minawaa kaa-izhi-maajaawaat.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then again they continued on their way.*</span>
 
-> <span class="l-gloss">I want to suckle your little brother," (thus) they were told.</span>
+<span class="l-gloss">Mii dash minawaa kaa-izhi-maajaawaat (and then again they went on their way).</span>
 
-</div>
+<span class="l-orig">(272) Ninguding idac minawā i‘kwä kayä wīn pitạgwicinōgopạn imā zībing.</span>
 
+<span class="l-fiero">**Ningoding idash minawaa ikwe gaye wiin pi-tagwishinoogopan imaa ziibing.**</span>
 
-niwiinoonaa kishiinmenh\!” odigowaan (I want to nurse your little brother,” they were told).
+<span class="l-eng">*And so next was the woman herself to arrive there at the river.*</span>
 
-193) > **Mii dash enigok maajiipatood.**
+<span class="l-gloss">Ningoding idash minawaa ikwe gaye wiin pi-tagwishinoogopan imaa ziibing (and so next the woman herself arrived there at the river).</span>
 
+<span class="l-orig">(273) Mīdạc kayä ticickō ājiwâbạmāt īni’ᵘ uzi‘kāsiwạn, ināt:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash gaye tishishkoo ezhi-waabamaat iiniw ozikaasiwan, inaat:**</span>
 
-> <span class="l-gloss">And then with speed he started running.</span>
+<span class="l-eng">*And she too saw Horn-Grebe, and said to him:*</span>
 
-</div>
+<span class="l-gloss">Mii dash gaye tishishkoo ezhi-waabamaat iiniw ozikaasiwan (and she too saw Horn-Grebe), inaat (saying to him):</span>
 
+<span class="l-orig">(274) “Skumāna, ājōwa∙o∙cin, nicīm!” udinān.</span>
 
-Mii dash enigok maajiipatood (and then with speed he started running).
+<span class="l-fiero">**“Skomaa na, aazhowa’oshin, nishiim!” odinaan.**</span>
 
-194) > **Minawaa oonoondawaan, aapiji pesho pidanwewitaminit.**
+<span class="l-eng">*“Do, please, carry me over to the other side, my little brother!”*</span>
 
+<span class="l-gloss">“Skomaa na, aazhowa’oshin, nishiim!” odinaan (“please, carry me across, my little brother!” she said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(275) “Awạspina!”</span>
 
-> <span class="l-gloss">Again he heard her, very near came the sound of her voice.</span>
+<span class="l-fiero">**“Awaspina!”**</span>
 
-</div>
+<span class="l-eng">*“Oh, bother!”*</span>
 
+<span class="l-gloss">“Awaspina!” (“oh, bother!”)</span>
 
-Minawaa oonoondawaan (again he heard her), aapiji pesho pidanwewitaminit (very near came her voice).
+<span class="l-orig">(276) “Awaᵘ!” udinān.</span>
 
-195) > **Naasaap igot:  
-     > **The same thing as before she was saying:
+<span class="l-fiero">**“Awaw!” odinaan.**</span>
 
-Naasaap igot (the same as before she was saying to him):
+<span class="l-eng">*Oh, do!” she said to him.*</span>
 
-196) > **"Piish kishiimeh\!  
-     > **"Bring me your little brother\!
+<span class="l-gloss">“Awaw!” odinaan (“oh, do!” she said to him).</span>
 
-“Piish kishiimeh\! (“bring me your little brother\!)
+<span class="l-orig">(277) “Ninitcānisạg niwīnō‘pinạnāg,” udinān.</span>
 
-197) > **Niiwiinoonaa kishiinme\!"**
+<span class="l-fiero">**“Ninichaanisag niwii-noopinanaag,” odinaan.**</span>
 
+<span class="l-eng">*“After my children am I anxious to pursue,” she said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Ninichaanisag niwii-noopinanaag,” odinaan (“I want to pursue my children,” she said to him).</span>
 
-> <span class="l-gloss">I want to suckle your little brother\!"</span>
+<span class="l-orig">(278) “Awaspina! Kāwin!” udigōn.  
+“</span>
 
-</div>
+<span class="l-fiero">**“Awaspina! Gaawiin!” odigoon.**</span>
 
+<span class="l-eng">*“Oh, pshaw! No!” she was told.*</span>
 
-Niiwiinoonaa kishiinme\!” (I want to nurse your little brother\!”)
+<span class="l-gloss">“Awaspina! Gaawiin!” odigoon (“pshaw! no!” she was told).</span>
 
-198) > **Mii dash aw kwiiwisens geget kichi-segisit.**
+<span class="l-orig">(279) ‘Āᵘ!” udinān; “mäskut kīgapāpōtcikana‘kawā nindạpisku‘kä,” udinān.</span>
 
+<span class="l-fiero">**“Aaw!” odinaan; “mes[h]kot kiiga-paapoochikanakawe nindapiskoke,” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Come!” she said to him; “and in return you may have your desires with me.”*</span>
 
-> <span class="l-gloss">And then the boy, in truth, was greatly afraid.</span>
+<span class="l-gloss">“Aaw!” odinaan (“come!” she said to him); “mes[h]kot kiiga-paapoochikanakawe nindapiskoke,” odinaan (“in return you may have your way with me,” she said to him).</span>
 
-</div>
+<span class="l-orig">(280) “Awās kāwin,” udinān.  
+“</span>
 
+<span class="l-fiero">**“Awaas gaawiin,” odinaan.**</span>
 
-Mii dash aw kwiiwisens geget kichi-segisit (and then the boy was truly greatly afraid).
+<span class="l-eng">*“I don’t wish to,” he said to her.*</span>
 
-199) > **Kegaa odoonendaan kaa-igot ookomisan onji wegonen nitam ket-apagitood.**
+<span class="l-gloss">“Awaas gaawiin,” odinaan (“no, I don’t want to,” he said to her).</span>
 
+<span class="l-orig">(281) ‘Āᵘ, wäwīptān!”  
+“</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Aaw, wewiiptaan!”**</span>
 
-> <span class="l-gloss">Almost forgot he what had been told him by his grandmother, which (of the objects) he should first fling away.</span>
+<span class="l-eng">*“Come, hurry up!”*</span>
 
-</div>
+<span class="l-gloss">“Aaw, wewiiptaan!” (“come, hurry up!”)</span>
 
+<span class="l-orig">(282) ‘A‘āᵘsa’!” udinān.</span>
 
-Kegaa odoonendaan kaa-igot ookomisan (he almost forgot what his grandmother had told him) onji wegonen nitam ket-apagitood (as to which thing he should throw first).
+<span class="l-fiero">**“A’aaw sa!” odinaan.**</span>
 
-200) > **Wiikaa dash omikwendaan.**
+<span class="l-eng">*“Well, all right!” he said to her.*</span>
 
+<span class="l-gloss">“A’aaw sa!” odinaan (“well, all right!” he said to her).</span>
 
-<div class="four-layer">
+<span class="l-orig">(283) “Kägudạc pācita∙u∙ci‘kän,” udinān.</span>
 
-> <span class="l-gloss">It was a long while before he recalled (which) it (was).</span>
+<span class="l-fiero">**“Kego dash paashita’oshiken,” odinaan.**</span>
 
-</div>
+<span class="l-eng">*“But don’t step over me,” he said to her.*</span>
 
+<span class="l-gloss">“Kego dash paashita’oshiken,” odinaan (“but do not step over me,” he said to her).</span>
 
-Wiikaa dash omikwendaan (and only after a long while did he recall it).
+<span class="l-orig">(284) Mīdạc kägä‘t iji∙ā∙jawa∙o∙nigut.</span>
 
-201) > **Aapiji pesho oodaanaang odinenimaan peminisha'ogot.**
+<span class="l-fiero">**Mii dash keget izhi-aazhawa’onigot.**</span>
 
+<span class="l-eng">*Whereupon of a truth was she then being conveyed over to the other side.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash keget izhi-aazhawa’onigot (whereupon truly she was being ferried across to the other side).</span>
 
-> <span class="l-gloss">Very close behind suspected he the presence of her by whom he was pursued.</span>
+<span class="l-orig">(285) Mīdạc päcu tcigạbāt inändạm a∙i∙‘kwä:</span>
 
-</div>
+<span class="l-fiero">**Mii dash pesho chi-gabaat inendam a ikwe:**</span>
 
+<span class="l-eng">*And so, as she was about to land, then the woman thought:*</span>
 
-Aapiji pesho oodaanaang odinenimaan peminisha’ogot (very close behind he sensed the one pursuing him).
+<span class="l-gloss">Mii dash pesho chi-gabaat inendam a ikwe (and so, as she was about to land, the woman thought):</span>
 
-202) > **Mii dash aapaginaat piiwaanagoon, mii dash zesika kii-pimadinaag wajiw — piiwaanagoo-wajiw.**
+<span class="l-orig">(286) “Mī dcitäbikwāckuniyān,” inändạm.</span>
 
+<span class="l-fiero">**“Mii ji-tebikwaashkoniyaan,” inendam.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Therefore shall I now be able to leap ashore,” she thought.*</span>
 
-> <span class="l-gloss">Thereupon he flung the flint, and of a sudden there happened a range of mountains, — mountains of flint.</span>
+<span class="l-gloss">“Mii ji-tebikwaashkoniyaan,” inendam (“now I shall be able to leap ashore,” she thought).</span>
 
-</div>
+<span class="l-orig">(287) Mīdec äjipācitawāt īni’ᵘ usa‘kāsiwạn pä‘kic ạnikwāckunit.</span>
 
+<span class="l-fiero">**Mii dash ezhi-paashitawaat iiniw osakaasiwan pekish ani-kwaashkonit.**</span>
 
-Mii dash aapaginaat piiwaanagoon (and then he flung the flint), mii dash zesika kii-pimadinaag wajiw — piiwaanagoo-wajiw (and of a sudden a mountain-range arose — a mountain of flint).
+<span class="l-eng">*Whereupon she stepped over Horn-Grebe at the same time that she leaped.*</span>
 
-203) > **Mii dash minawaa eniweg kii-apenimot waasa chi-tagwishing.**
+<span class="l-gloss">Mii dash ezhi-paashitawaat iiniw osakaasiwan (whereupon she stepped over Horn-Grebe) pekish ani-kwaashkonit (at the same time as she leaped).</span>
 
+<span class="l-orig">(288) Mīdạc äjipạngicing awi‘kwä nānāwaya∙ī∙ki‘tcigạming.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash ezhi-pangishing aw ikwe naanaawaya’ii kichi-gaming.**</span>
 
-> <span class="l-gloss">And when some distance farther on, he then felt secure in having gotten so far away.</span>
+<span class="l-eng">*And then down fell the woman into the middle of the sea.*</span>
 
-</div>
+<span class="l-gloss">Mii dash ezhi-pangishing aw ikwe naanaawaya’ii kichi-gaming (and then down fell the woman into the middle of the great water).</span>
 
+<span class="l-orig">(289) Mīdạc imā ickwāyatcimint awi‘kwä.</span>
 
-Mii dash minawaa eniweg kii-apenimot (and then, some distance on, he felt secure) waasa chi-tagwishing (in having gotten so far away).
+<span class="l-fiero">**Mii dash imaa ishkwaayachimint aw ikwe.**</span>
 
-204) > **Aw idash ikwe ezhi-shooskopisot piiwaanagonk.**
+<span class="l-eng">*And at this point ends the story of the woman.*</span>
 
+<span class="l-gloss">Mii dash imaa ishkwaayachimint aw ikwe (and at this point ends the telling of the woman).</span>
 
-<div class="four-layer">
+<span class="l-orig">(290) Ningudingsa kīⁿwäⁿ ạnipạpimosät aᵘ kwīwisäns ạnipapimōmāt ucīmäyänsạn, omaiyaginān äjināgwạtinig, mi‘tigōn kayä omaiyạginawān.</span>
 
-> <span class="l-gloss">Now, the woman slipped on the flint.</span>
+<span class="l-fiero">**Ningoding sa kiinwenh ani-papimoset aw kwiiwisens ani-papimoomaat oshiimeyensan, omaiyaginaan ezhinaagwatinig, mitigoon gaye omaiyaginawaan.**</span>
 
-</div>
+<span class="l-eng">*Once on a time, they say, as the boy was journeying along with his little brother upon his back, he marvelled at the sight of things, and the trees looked unfamiliar.*</span>
 
+<span class="l-gloss">Ningoting sa kiinwenh ani-papimoset aw kwiiwisens (once on a time, they say, as the boy was walking along) ani-papimoomaat oshiimeyensan (carrying his little brother on his back), omaiyaginaan ezhinaagwatinig (he marveled at how things looked), mitigoon gaye omaiyaginawaan (and the trees seemed strange to him too).</span>
 
-Aw idash ikwe ezhi-shooskopisot piiwaanagonk (now the woman slipped on the flint).
+<span class="l-orig">(291) Mīdạc kīwäⁿ änändạnk:</span>
 
-205) > **Mii go aano-ogitaakiiwet neyaap minawaa aazheyaapoosot.**
+<span class="l-fiero">**Mii dash kiiwenh enendank:**</span>
 
+<span class="l-eng">*And then they say that he thought:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh enendank (and then, they say, he thought):</span>
 
-> <span class="l-gloss">And even though she reached the top, yet back again she slipped.</span>
+<span class="l-orig">(292) “Mīguca maiyagināgusiwāt ogōᵘ mi‘tigōg!”</span>
 
-</div>
+<span class="l-fiero">**“Mii gosha maiyaginaagosiwaat ogoow mitigoog!”**</span>
 
+<span class="l-eng">*“So strange is the look of these trees!”*</span>
 
-Mii go aano-ogitaakiiwet (and though she would reach the top) neyaap minawaa aazheyaapoosot (back down again she would slide).
+<span class="l-gloss">“Mii gosha maiyaginaagosiwaat ogoow mitigoog!” (“how strange these trees look!”)</span>
 
-206) > **Mii dash minawaa edank:  
-     > **And so again she said to (the mountains):
+<span class="l-orig">(293) Wayībạgwa mạtābīkiˢ tcigami.</span>
 
-Mii dash minawaa edank (and so again she said to them):
+<span class="l-fiero">**Wayiiba gwa mataabii kischi-gami.**</span>
 
-207) > **"Maano, pimose'ishin\!  
-     > **"Do, please, let me pass over you\!
+<span class="l-eng">*And in a little while he came out upon the sea.*</span>
 
-“Maano, pimose’ishin\! (“do please let me walk over you\!)
+<span class="l-gloss">Wayiiba gwa mataabii kischi-gami (and in a little while he came out upon the sea).</span>
 
-208) > **Meshkot kiiga-wiwim," oditaan.**
+<span class="l-orig">(294) Mīdec imā mi‘tāwạngāning asînīsi‘kāni kayä.</span>
 
+<span class="l-fiero">**Mii desh imaa mitaawangaaning asinisikaani gaye.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And over there on the sandy beach was also a place of pebbles.*</span>
 
-> <span class="l-gloss">In return I will be a wife to you, " she said to them.</span>
+<span class="l-gloss">Mii desh imaa mitaawangaaning (and there on the sandy beach) asinisikaani gaye (was a place of pebbles too).</span>
 
-</div>
+<span class="l-orig">(295) Mīdec änändạnk ᵉaᵘ kwīwisäns:</span>
 
+<span class="l-fiero">**Mii desh enendank ’aw kwiiwisens:**</span>
 
-Meshkot kiiga-wiwim,” oditaan (in return I will be your wife,” she said to them).
+<span class="l-eng">*And then thought the boy:*</span>
 
-209) > **Mii dash wiikaa pichiinag kii-kashki'ot.**
+<span class="l-gloss">Mii desh enendank ’aw kwiiwisens (and then the boy thought):</span>
 
+<span class="l-orig">(296) “Ningapạgitōmā ōmāⁿ nicīmäyäns.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Ninga-pagitoomaa oomaanh nishiimeyens.**</span>
 
-> <span class="l-gloss">And it was a long time before she succeeded.</span>
+<span class="l-eng">*“I am going to put my little brother down at this place.*</span>
 
-</div>
+<span class="l-gloss">“Ninga-pagitoomaa oomaanh nishiimeyens (“I will set my little brother down here).</span>
 
+<span class="l-orig">(297) Ningawạtạmi∙ā∙,” inändạm kīwäⁿ.</span>
 
-Mii dash wiikaa pichiinag kii-kashki’ot (and it was only after a long time that she managed it).
+<span class="l-fiero">**Ninga-watami’aa,” inendam kiiwenh.**</span>
 
-210) > **Mii dash igo iwiti kaa-ondaapoozot.**
+<span class="l-eng">*I will play with him to amuse him,” was his thought, so they say.*</span>
 
+<span class="l-gloss">Ninga-watami’aa,” inendam kiiwenh (I will amuse him,” he thought, so they say).</span>
 
-<div class="four-layer">
+<span class="l-orig">(298) Mīdec kägä‘t äjipạgitōmāt; micimā äji∙ā∙swā‘ku‘kimāt kayä odābā∙ạ∙mowān kayä ani‘käsini.</span>
 
-> <span class="l-gloss">And from the place up there came she sliding down.</span>
+<span class="l-fiero">**Mii desh keget ezhi-pagitoomaat; miish imaa ezhi-aaswaakokimaat gaye odaabaa’amowaan gaye anikesini.**</span>
 
-</div>
+<span class="l-eng">*And it was true that he let him down; and there he set him (in his cradle-board) against a tree, and set free his little arms.*</span>
 
+<span class="l-gloss">Mii desh keget ezhi-pagitoomaat (and so truly he set him down); miish imaa ezhi-aaswaakokimaat (and there he leaned him in his cradle-board against a tree) gaye odaabaa’amowaan gaye anikesini (and freed his little arms too).</span>
 
-Mii dash igo iwiti kaa-ondaapoozot (and from up there she came sliding down).
+<span class="l-orig">(299) Mīdec äjimōjiginạmowāt asinīnsạn wīkīckuwä∙ā∙t ucīmäⁿyạn.</span>
 
-211) > **Mii dash miinawaa ki-maajinishawaad oniichaanisa'.**
+<span class="l-fiero">**Mii desh ezhi-moozhiginamowaat asiniinsan wii-kiishkowe’aat oshiimenyan.**</span>
 
+<span class="l-eng">*He gathered pebbles for his little brother to keep him quiet.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii desh ezhi-moozhiginamowaat asiniinsan (then he gathered up little pebbles for him) wii-kiishkowe’aat oshiimenyan (to keep his little brother quiet).</span>
 
-> <span class="l-gloss">And then again she went in pursuit of her children.</span>
+<span class="l-orig">(300) Mīdac imā äyeyāwāt, owạdami∙ā∙t ucimäyänsạn.</span>
 
-</div>
+<span class="l-fiero">**Mii dash imaa eyeyaawaat, owadami’aat oshimeyensan.**</span>
 
+<span class="l-eng">*And there they remained, (and) he entertained his little brother.*</span>
 
-Mii dash miinawaa ki-maajinishawaad oniichaanisa’ (and then again she went pursuing her children).
+<span class="l-gloss">Mii dash imaa eyeyaawaat (and there they stayed), owadami’aat oshimeyensan (and he amused his little brother).</span>
 
-212) > **Mii dash ningoting minawaa kwiiwisens ani-papimibatood.**
+<span class="l-orig">(301) Ninguting ōma a∙e∙yāwāt owạndamīwä∙ā∙t ucīmäyänsạn pānimāgu awiya pạtcäkisänit imā ayā tibicko; a‘kíwäⁿzīyạn.</span>
 
+<span class="l-fiero">**Ningoting ooma a’eyaawaat owandamiiwe’aat oshimeyensan paanimaa go awiya pachekisenit imaa ayaa tibishko; akiwenziiyan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Once while they were continuing there, and he was keeping company with his little brother to prevent him from crying, of a sudden somebody slid inshore with his canoe directly opposite to where they were; it was an old man.*</span>
 
-> <span class="l-gloss">And so again the boy went running along the way.</span>
+<span class="l-gloss">Ningoting ooma a’eyaawaat owandamiiwe’aat oshimeyensan (once, while they were there and he was keeping his little brother company) paanimaa go awiya pachekisenit imaa ayaa tibishko (when of a sudden someone slid inshore directly opposite where they were); akiwenziiyan (it was an old man).</span>
 
-</div>
+<span class="l-orig">(302) Mīdạc kīwäⁿ ägōwāt:</span>
 
+<span class="l-fiero">**Mii dash kiiwenh egoowaat:**</span>
 
-Mii dash ningoting minawaa kwiiwisens ani-papimibatood (and so once again the boy went running along).
+<span class="l-eng">*Thereupon it is said that they were asked:*</span>
 
-213) > **Shayiigwa minawaa awiya pitebitaagosiwan odoodaanaamiwaang, igowaat tibishkoo odaanaang kaa-initamowaat:  
-     > **Soon again somebody could be heard coming behind, saying to them the same thing that in the past they had heard:
+<span class="l-gloss">Mii dash kiiwenh egoowaat (thereupon, they say, they were asked):</span>
 
-Shayiigwa minawaa awiya pitebitaagosiwan odoodaanaamiwaang (soon again someone could be heard behind them), igowaat tibishkoo odaanaang kaa-initamowaat (saying to them the same thing they had heard before):
+<span class="l-orig">(303) “Wägunen wäci‘tōyäg imā?” udigōwān.</span>
 
-214) > **"Piish kishiime\!  
-     > **"Give me your little brother\!
+<span class="l-fiero">**“Wegonen weshitooyeg imaa?” odigoowaan.**</span>
 
-“Piish kishiime\! (“give me your little brother\!)
+<span class="l-eng">*“What are you doing there?” they (thus) were asked.*</span>
 
-215) > **Niiwiinoonaa kishiimenh\!"**
+<span class="l-gloss">“Wegonen weshitooyeg imaa?” odigoowaan (“what are you doing there?” they were asked).</span>
 
+<span class="l-orig">(304) Udinān dạc kwīwisäns:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Odinaan dash kwiiwisens:**</span>
 
-> <span class="l-gloss">I want to suckle your little brother\!"</span>
+<span class="l-eng">*Whereupon the boy answered him:*</span>
 
-</div>
+<span class="l-gloss">Odinaan dash kwiiwisens (whereupon the boy answered him):</span>
 
+<span class="l-orig">(305) “Kāwin kägō, nintōtamino∙ā∙ nicīmäyäns mawit,” udinān.</span>
 
-Niiwiinoonaa kishiimenh\!” (I want to nurse your little brother\!”)
+<span class="l-fiero">**“Gaawiin kegoo, nintootamino’aa nishiimeyens mawit,” odinaan.**</span>
 
-216) > **Mii dash aw kwiiwisens nawach kichi-enigok pimibatood.**
+<span class="l-eng">*“Nothing, I am amusing my little brother when he cries,” he (thus) said to him.*</span>
 
+<span class="l-gloss">“Gaawiin kegoo, nintootamino’aa nishiimeyens mawit,” odinaan (“nothing, I am amusing my little brother when he cries,” he said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(306) Mīdec kīwäⁿ ‘aᵘ a‘kwäⁿzī änāt:</span>
 
-> <span class="l-gloss">Thereupon the boy with even greater speed did run.</span>
+<span class="l-fiero">**Mii desh kiiwenh aw akiwenzii enaat:**</span>
 
-</div>
+<span class="l-eng">*And then they say that the old man said to him:*</span>
 
+<span class="l-gloss">Mii desh kiiwenh aw akiwenzii enaat (and then, they say, the old man said to him):</span>
 
-Mii dash aw kwiiwisens nawach kichi-enigok pimibatood (thereupon the boy ran with even greater speed).
+<span class="l-orig">(307) “Nackä ōgowä ạsînisạg, uniciciwạg!” udinān.</span>
 
-217) > **Minawaa onoondawaan:  
-     > **Again he heard her:
+<span class="l-fiero">**“Nashke oogowe asinisag, onishishiwag!” odinaan.**</span>
 
-Minawaa onoondawaan (again he heard her):
+<span class="l-eng">*“Just you look at these pebbles, they are pretty!” he said to him.*</span>
 
-218) > **"Piish kishiime\!  
-     > **"Give me your little brother\!**  
-     > **
+<span class="l-gloss">“Nashke oogowe asinisag, onishishiwag!” odinaan (“just look at these pebbles, they are pretty!” he said to him).</span>
 
-“Piish kishiime\! (“give me your little brother\!)
+<span class="l-orig">(308) Awidạc kīwäⁿ kwīwisäns kāwin wī∙i∙jāsī.</span>
 
-219) > **Niiwiinoonaa kishiime\!"**
+<span class="l-fiero">**Aw idash kiiwenh kwiiwisens gaawiin wii-izhaasii.**</span>
 
+<span class="l-eng">*And it is said that the boy was not willing to go.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Aw idash kiiwenh kwiiwisens gaawiin wii-izhaasii (but the boy, they say, did not want to go).</span>
 
-> <span class="l-gloss">I want to suckle your little brother\!"</span>
+<span class="l-orig">(309) “Mīgū täpisäwāt ōgoᵘ asînisạg wädạminwānāt,” udinān.</span>
 
-</div>
+<span class="l-fiero">**“Mii goo tepisewaat oogow asinisag wedaminwaanaat, “ odinaan.**</span>
 
+<span class="l-eng">*“That is all right, for of sufficient pleasure are these little stones which he fondles in his hands,” (thus) said he to him.*</span>
 
-Niiwiinoonaa kishiime\!” (I want to nurse your little brother\!”)
+<span class="l-gloss">“Mii goo tepisewaat oogow asinisag wedaminwaanaat,” odinaan (“these little stones he plays with are pleasing enough,” he said to him).</span>
 
-220) > **Nawach pesho pi-tanwewitaminit.**
+<span class="l-orig">(310) “Nawạtc ōgawä uniciciwạg,” udigōn.</span>
 
+<span class="l-fiero">**“Nawach oogawe onishishiwag,” odigoon.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“But these are prettier,” he was told.*</span>
 
-> <span class="l-gloss">Still nearer was coming the sound of her voice.</span>
+<span class="l-gloss">“Nawach oogawe onishishiwag,” odigoon (“but these are prettier,” he was told).</span>
 
-</div>
+<span class="l-orig">(311) Ānīc kāwin kīwäⁿ kwīwisäns wī∙i∙jāsī.</span>
 
+<span class="l-fiero">**Aaniish gaawiin kiiwenh kwiiwisens wii-izhaasii.**</span>
 
-Nawach pesho pi-tanwewitaminit (still nearer came the sound of her voice).
+<span class="l-eng">*Now, they say that the boy was not anxious to go over there.*</span>
 
-221) > **Iiniw idash kaye pemoomaat oshiimeyensan wiinge kii-kimoowan.**
+<span class="l-gloss">Aaniish gaawiin kiiwenh kwiiwisens wii-izhaasii (now the boy, they say, did not want to go over there).</span>
 
+<span class="l-orig">(312) “Nackä ōgōᵘ, pināsi‘kaᵘ!” udigōn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Nashke oogoow, pi-naasikaw!” odigoon.**</span>
 
-> <span class="l-gloss">And the little brother whom he bore on his back had been crying, till now he could cry no more.</span>
+<span class="l-eng">*“Just look at these, come get them!” he was told.*</span>
 
-</div>
+<span class="l-gloss">“Nashke oogoow, pi-naasikaw!” odigoon (“just look at these, come and get them!” he was told).</span>
 
+<span class="l-orig">(313) “Kāwin,” udinān kwīwisäns; “tamawi nicīmäyäns pasigwīyān,” udinān.  
+“</span>
 
-Iiniw idash kaye pemoomaat oshiimeyensan (and the little brother he carried on his back) wiinge kii-kimoowan (had wept until he could weep no more).
+<span class="l-fiero">**“Gaawiin,” odinaan kwiiwisens; “ta-mawi nishiimeyens pasigwiiyaan,” odinaan.**</span>
 
-222) > **Mii dash miinawaa onoondawaan, aapiji pesho pi-danwewitaminit:  
-     > **And so now again he heard her, ever so close came the sound of her voice:**  
-     > **
+<span class="l-eng">*“No,” said the boy to him; “to crying will go my little brother if I rise to my feet,” said he to him.*</span>
 
-Mii dash miinawaa onoondawaan (and so now again he heard her), aapiji pesho pi-danwewitaminit (very close came the sound of her voice):
+<span class="l-gloss">“Gaawiin,” odinaan kwiiwisens (“no,” said the boy to him); “ta-mawi nishiimeyens pasigwiiyaan,” odinaan (“my little brother will cry if I stand up,” he said to him).</span>
 
-223) > **"Piish kishiimenh\!  
-     > **"Give me your little brother\!
+<span class="l-orig">(314) ‘Ā, kāwin!” udinān; “kāwin tamāwisī,” udigōn īni’ᵘ a‘kiwänjī∙i∙cạn.</span>
 
-“Piish kishiimenh\! (“give me your little brother\!)
+<span class="l-fiero">**“Aa, gaawiin!” odinaan; “gaawiin ta-maawisii,” odigoon iiniw akiwenzhii’ishan.**</span>
 
-224) > **Niiwiinoonaa kishimenh\!"**
+<span class="l-eng">*“Oh, no!” he said to him; “he will not cry,” he was told by that hateful old man.*</span>
 
+<span class="l-gloss">“Aa, gaawiin!” odinaan (“oh, no!” he said to him); “gaawiin ta-maawisii,” odigoon iiniw akiwenzhii’ishan (“he won’t cry,” he was told by that wretched old man).</span>
 
-<div class="four-layer">
+<span class="l-orig">(315) Minawā awạndcic udigōn, “Pināsi‘kaᵘ!” udigōn.</span>
 
-> <span class="l-gloss">I want to suckle your little brother\!"</span>
+<span class="l-fiero">**Minawaa awanjish odigoon, “Pi-naasikaw!” odigoon.**</span>
 
-</div>
+<span class="l-eng">*Again was he urged by the other: “Come and get them!” he was told.*</span>
 
+<span class="l-gloss">Minawaa awanjish odigoon (again the other urged him), “Pi-naasikaw!” odigoon (“come and get them!” he was told).</span>
 
-Niiwiinoonaa kishimenh\!” (I want to nurse your little brother\!”)
+<span class="l-orig">(316) Mīdạc käga‘pi aᵘ kwīwisäns äjipasigwīt kạgwānisa‘kwäwạn dạc ucīmäⁿyänsạn mawinit.</span>
 
-225) > **Megwaa dash tanwewitaminit ogii-aapaginaan iiniw skwaach sagataaganan, kii-ikitot:  
-     > **And while he was hearing the sound of her voice, he hurled away as the last thing the punk, saying:
+<span class="l-fiero">**Mii dash kegapi aw kwiiwisens ezhi-pasigwiit kagwaanisakwewan dash oshiimenyensan mawinit.**</span>
 
-Megwaa dash tanwewitaminit (and while her voice was sounding) ogii-aapaginaan iiniw skwaach sagataaganan (he flung the last thing, the punk), kii-ikitot (saying):
+<span class="l-eng">*And then at last, when the boy rose to his feet, with a fearful scream his little brother gave vent.*</span>
 
-226) > **"Mii awe skwaach, nookomis\! kaa-mizhiyan.**
+<span class="l-gloss">Mii dash kegapi aw kwiiwisens ezhi-pasigwiit (and then at last, when the boy rose to his feet) kagwaanisakwewan dash oshiimenyensan mawinit (his little brother gave a fearful scream).</span>
 
+<span class="l-orig">(317) Mīdec minawā näyāp äjiwawänạpit.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii desh minawaa neyaap azhi-wawenapit.**</span>
 
-> <span class="l-gloss">"This is the last, O my grandmother\! that you gave to me.</span>
+<span class="l-eng">*And then down again he sat.*</span>
 
-</div>
+<span class="l-gloss">Mii desh minawaa neyaap azhi-wawenapit (and then down again he sat).</span>
 
+<span class="l-orig">(318) Mīdạc aᵘ a‘kiwäjīyic äjiki‘tcipāpit; pā‘pi∙ā∙t īni’ᵘ ạpinōtcīyan ināt īni’ᵘ pä‘kic kwīwizänsạn:</span>
 
-“Mii awe skwaach, nookomis\! kaa-mizhiyan (“this is the last, my grandmother, that you gave me).
+<span class="l-fiero">**Mii dash aw akiwezhiiyish ezhi-kichi-paapit; paapi’aat iiniw apinoochiiyan inaat iiniw pekish kwiiwizensan:**</span>
 
-227) > **Saka'an\!"**
+<span class="l-eng">*At that the old man laughed aloud; he made fun of the children, saying at the same time to the boy:*</span>
 
+<span class="l-gloss">Mii dash aw akiwezhiiyish ezhi-kichi-paapit (at that the wretched old man laughed aloud); paapi’aat iiniw apinoochiiyan (mocking the children) inaat iiniw pekish kwiiwizensan (at the same time saying to the boy):</span>
 
-<div class="four-layer">
+<span class="l-orig">(319) “Anicā mawi.</span>
 
-> <span class="l-gloss">Set it afire\!"</span>
+<span class="l-fiero">**“Anishaa mawi.**</span>
 
-</div>
+<span class="l-eng">*“Just for nothing is he crying.*</span>
 
+<span class="l-gloss">“Anishaa mawi (“he cries for nothing).</span>
 
-Saka’an\!” (set it afire\!”)
+<span class="l-orig">(320) Pināsi‘kaᵘ ōgo’ᵘ asînīⁿsạn, uniciciwạg tci∙u∙daminwānāt kicīmäⁿ!” udinān.</span>
 
-228) > **Mii dash keget kichi-wajiw ishkote pizhishik tetakamaya'ii opikwanaawang.**
+<span class="l-fiero">**Pi-naasikaw oogow asiniinsan, onishishiwag chi-odaminwaanaat kishiimenh!” odinaan.**</span>
 
+<span class="l-eng">*Come get these little stones, pretty are they for your little brother to play with!” (thus) he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Pi-naasikaw oogow asiniinsan (come get these little stones), onishishiwag chi-odaminwaanaat kishiimenh!” odinaan (they are pretty for your little brother to play with!” he said to him).</span>
 
-> <span class="l-gloss">And verily there was a great mountain of fire everywhere, stretching from one end of the world to the other at their rear.</span>
+<span class="l-orig">(321) Mīdạc äjipasigwīt minawā; mīgu minawā änwät aᵘ apinōtcīyäns.</span>
 
-</div>
+<span class="l-fiero">**Mii dash ezhi-pasigwiit minawaa; mii go minawaa enwet aw apinoochiiyens.**</span>
 
+<span class="l-eng">*And then up he rose to his feet again, and once more cried the little baby.*</span>
 
-Mii dash keget kichi-wajiw ishkote (and verily there was a great mountain of fire) pizhishik tetakamaya’ii opikwanaawang (everywhere stretching across the whole land at their rear).
+<span class="l-gloss">Mii dash ezhi-pasigwiit minawaa (and then he rose to his feet again); mii go minawaa enwet aw apinoochiiyens (and once more the little baby cried).</span>
 
-229) > **Mii dash maajaawaat minawaa enigok.**
+<span class="l-orig">(322) Mīdạc awạndcic äji∙i∙jāt īni’ᵘ a‘kiwänzīyạn.</span>
 
+<span class="l-fiero">**Mii dash awanjish ezhi-izhaat iiniw akiwenziiyan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Yet nevertheless he went over to where the old man was.*</span>
 
-> <span class="l-gloss">And then they went on again with speed.</span>
+<span class="l-gloss">Mii dash awanjish ezhi-izhaat iiniw akiwenziiyan (yet nevertheless he went over to the old man).</span>
 
-</div>
+<span class="l-orig">(323) Mīdạc kīⁿwä änāt aᵘ kwīwizäns:</span>
 
+<span class="l-fiero">**Mii dash kiinwe enaat aw kwiiwizwns:**</span>
 
-Mii dash maajaawaat minawaa enigok (and then they went on again with speed).
+<span class="l-eng">*And they say that to him said the boy:*</span>
 
-230) > **Mii dash aw kwiiwisens noondawaat ogiin madwe-kichi-mawinit.**
+<span class="l-gloss">Mii dash kiinwe enaat aw kwiiwizwns (and then, they say, the boy said to him):</span>
 
+<span class="l-orig">(324) “Kāwin awacīmä uniciciⁿsīwạg ōgō’ᵘ asînīⁿsạg,” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Gaawiin awashime onishishinsiiwag oogoow asiniinsag,” odinaan.**</span>
 
-> <span class="l-gloss">And now the boy heard his mother wailing with a loud voice.</span>
+<span class="l-eng">*“Not any prettier are these stones,” he said to him.*</span>
 
-</div>
+<span class="l-gloss">“Gaawiin awashime onishishinsiiwag oogoow asiniinsag,” odinaan (“these stones are no prettier,” he said to him).</span>
 
+<span class="l-orig">(325) “Ōguwäsä,” udigōn īni’ᵘ a‘kiwäji∙i∙cạn.</span>
 
-Mii dash aw kwiiwisens noondawaat ogiin madwe-kichi-mawinit (and now the boy heard his mother wailing aloud).
+<span class="l-fiero">**“Oogowe se,” odigoon iiniw akiwezhi’ishan.**</span>
 
-231) > **Awanchish idash maajaa, kaye wiin kichi-mawit.**
+<span class="l-eng">*“But these are,” was he told by the malicious old man.*</span>
 
+<span class="l-gloss">“Oogowe se,” odigoon iiniw akiwezhi’ishan (“but these are,” he was told by the malicious old man).</span>
 
-<div class="four-layer">
+<span class="l-orig">(326) “Ōguwä, ōguwä nintạbwīng ningạtasāg,” udigōn.</span>
 
-> <span class="l-gloss">All the faster then he went, he too was weeping aloud.</span>
+<span class="l-fiero">**“Oogowe, oogowe nintabwiing ningat-asaag,” odigoon.**</span>
 
-</div>
+<span class="l-eng">*“These here, these will I place upon my paddle,” he was told.*</span>
 
+<span class="l-gloss">“Oogowe, oogowe nintabwiing ningat-asaag,” odigoon (“these here, these I will set on my paddle,” he was told).</span>
 
-Awanchish idash maajaa (all the faster then he went), kaye wiin kichi-mawit (he too weeping aloud).
+<span class="l-orig">(327) “Piwudā‘pindạc!” udigōn kīwä.</span>
 
-232) > **Minawaa onoondawaan, agaawa tebitaagosinit madwe-gischi-naniinawademonit.**
+<span class="l-fiero">**“Pi-wodaapin dash!” odigoon kiiwe.**</span>
 
+<span class="l-eng">*“Do come and take them!” he was told, so they say.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Pi-wodaapin dash!” odigoon kiiwe (“so come and take them!” he was told, they say).</span>
 
-> <span class="l-gloss">Once more he heard her, barely could the sound of her voice be heard as she wailed in deep grief.</span>
+<span class="l-orig">(328) “Kāwin nicīmäⁿ mawi,” i‘kito kwīwisäns.</span>
 
-</div>
+<span class="l-fiero">**“Gaawiin nishiimenh mawi,” ikito kwiiwisens.**</span>
 
+<span class="l-eng">*“No, my little brother is crying,” said the boy.*</span>
 
-Minawaa onoondawaan (once more he heard her), agaawa tebitaagosinit madwe-gischi-naniinawademonit (barely could her voice be heard as she wailed in deep grief).
+<span class="l-gloss">“Gaawiin nishiimenh mawi,” ikito kwiiwisens (“no, my little brother is crying,” said the boy).</span>
 
-233) > **Mii dash kaye wiinawaa aapiji naniinawademowag.**
+<span class="l-orig">(329) Awạndcici aᵘ a‘kiwäⁿjī∙i∙c ā‘pidci umigiskuskāzumān īni’ᵘ kwīwisänsạn, ināt:</span>
 
+<span class="l-fiero">**Awanjishi aw akiwanzhii’ish aapiji omigiskoskaazomaan iiniw kwiiwisensan, inaat:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*But in spite of all, the devilish old man kept on insisting with the boy to take them, saying:*</span>
 
-> <span class="l-gloss">And then again they also wept for bitter grief.</span>
+<span class="l-gloss">Awanjishi aw akiwanzhii’ish aapiji omigiskoskaazomaan iiniw kwiiwisensan (but in spite of all the devilish old man kept pestering the boy), inaat (saying):</span>
 
-</div>
+<span class="l-orig">(330) “Awandcic pi∙u∙dā‘pin!</span>
 
+<span class="l-fiero">**“Awanjish pi-odaapin!**</span>
 
-Mii dash kaye wiinawaa aapiji naniinawademowag (and then they too wept in bitter grief).
+<span class="l-eng">*“Anyway, come and take them!*</span>
 
-234) > **Mii dash kiiwenh aw ikwe ezhikiiwitaaskang iw shkote piinish kii-oditank omikanaani oniichaanisa'.**
+<span class="l-gloss">“Awanjish pi-odaapin! (“anyway, come and take them!)</span>
 
+<span class="l-orig">(331) Ningatasāg nintạbwīng.”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Ningat-asaag nintabwiing.”**</span>
 
-> <span class="l-gloss">And then they say that the woman passed round the boundaries of the fire till she came to the path of her children.</span>
+<span class="l-eng">*I will put them upon my paddle.”*</span>
 
-</div>
+<span class="l-gloss">Ningat-asaag nintabwiing.” (I will set them on my paddle.”)</span>
 
+<span class="l-orig">(332) Mīdạc käga‘pī minawā äji∙i∙jāt, mīdec kägä‘pī äji∙i∙jāt awi∙u∙dā‘pināt asînīⁿsạn.</span>
 
-Mii dash kiiwenh aw ikwe ezhikiiwitaaskang iw shkote (and then, they say, the woman went round the boundary of the fire) piinish kii-oditank omikanaani oniichaanisa’ (until she reached her children’s path).
+<span class="l-fiero">**Mii dash kegapii minawaa ezhi-izhaat, mii desh kegapii ezhi-izhaat awi-odaapinaat asiniinsan.**</span>
 
-235) > **Iigiw idash abinoochiiyag kii-madaapiiwag ziipi.**
+<span class="l-eng">*And then at last once more he started, and so finally over he went to take the pebbles.*</span>
 
+<span class="l-gloss">Mii dash kegapii minawaa ezhi-izhaat (and then at last once more he started over), mii desh kegapii ezhi-izhaat awi-odaapinaat asiniinsan (and so finally he went over to take the pebbles).</span>
 
-<div class="four-layer">
+<span class="l-orig">(333) Mīdạc kīwäⁿ aᵘ a‘kiwäⁿjī∙i∙c kā∙i∙jipōsōnäwäpuwāt īni’ᵘ kwīwisänsạn tcīmāning; pä‘kic pa‘kitä∙ạ∙nk.</span>
 
-> <span class="l-gloss">Now, the children came out upon a river.</span>
+<span class="l-fiero">**Mii dash kiiwanh aw akiwenzhii’ish kaa-izhi-poosoonewepowaat iiniw kwiiwisensan chiimaaning; pekish pakite’ank.**</span>
 
-</div>
+<span class="l-eng">*Thereupon they say the ruthless old man scooped the boy up with the paddle, and landed him in the canoe; at the same instant he struck his canoe.*</span>
 
+<span class="l-gloss">Mii dash kiiwanh aw akiwenzhii’ish kaa-izhi-poosoonewepowaat iiniw kwiiwisensan chiimaaning (thereupon, they say, the ruthless old man scooped the boy up with the paddle into the canoe); pekish pakite’ank (and at the same instant struck his canoe).</span>
 
-Iigiw idash abinoochiiyag kii-madaapiiwag ziipi (now the children came out upon a river).
+<span class="l-orig">(334) Mīdạc kīwäⁿ ‘aᵘ kwīwisäns nōndawāgubạnän ucīmäyänsạn mānsitākusinit, mạdwäkiˢtcimawinit.</span>
 
-236) > **Mii dash keget ezhi-waabatamowaat ookomisiwaan kaa-igowaapan.**
+<span class="l-fiero">**Mii dash kiiwenh aw kwiiwisens noondawaagobanen oshiimeyensan maasitaakosinit, madwe-kischi-mawinit.**</span>
 
+<span class="l-eng">*And then they say that the boy heard his dear little brother begin to cry, loud he heard him cry.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw kwiiwisens noondawaagobanen oshiimeyensan maasitaakosinit (and then, they say, the boy heard his dear little brother cry out), madwe-kischi-mawinit (loudly he heard him crying).</span>
 
-> <span class="l-gloss">Thereupon truly did they see what had been told them by their grandmother.</span>
+<span class="l-orig">(335) Minawā aᵘ a‘kiwäⁿjī∙i∙c pa‘kitä∙ā∙n utcīmān.</span>
 
-</div>
+<span class="l-fiero">**Minawaa aw akiwenzhii’ish pakite’aan ochiimaan.**</span>
 
+<span class="l-eng">*Again the mean old man struck his canoe.*</span>
 
-Mii dash keget ezhi-waabatamowaat ookomisiwaan kaa-igowaapan (and truly they saw what their grandmother had told them of).
+<span class="l-gloss">Minawaa aw akiwenzhii’ish pakite’aan ochiimaan (again the mean old man struck his canoe).</span>
 
-237) > **Mii dash keget ezhi-kanoonaat kwiiwisens iiniw ozikaasiwan:  
-     > **And then in truth the boy spoke to Horn-Grebe:**  
-     > **
+<span class="l-orig">(336) Mīdạc minawā aᵘ kwīwisäns agāwa täpi‘tawāt ucīmäyänsạn, käyạbi mạdwäkiˢtcimawinit; kayä wīn kiˢtcimawit.</span>
 
-Mii dash keget ezhi-kanoonaat kwiiwisens iiniw ozikaasiwan (and then truly the boy spoke to Horn-Grebe):
+<span class="l-fiero">**Mii dash minawaa aw kwiiwisens agaawa tepitawaat oshiimeyensan, keyabi madwe-kischi-mawinit; gaye wiin kischi-mawit.**</span>
 
-238) > **"Skomaa naa, nimishoomis, aazhawa'oshishinaan\!  
-     > **"Oh, please, my grandfather, carry us over the water to the other side\!
+<span class="l-eng">*And at that the boy was barely able to hear his fond little brother, still yet he heard him crying bitterly; he himserf also cried aloud.*</span>
 
-“Skomaa naa, nimishoomis, aazhawa’oshishinaan\! (“please, my grandfather, ferry us across to the other side\!)
+<span class="l-gloss">Mii dash minawaa aw kwiiwisens agaawa tepitawaat oshiimeyensan (and then the boy could barely hear his little brother), keyabi madwe-kischi-mawinit (still hearing him crying bitterly); gaye wiin kischi-mawit (and he too wept aloud).</span>
 
-239) > **Manido nimpiminisha'ogonaan, " odinaan.**
+<span class="l-orig">(337) Ānudac upạgusänimān īni’ᵘ a‘kiwäⁿjī∙i∙cạn tcināsi‘kawānit ucīmäyänsạn, awạndcicidạc pā‘pi∙i∙gōn; kayä pa‘kitä∙ạ∙nk pä‘kic utcīmānic.</span>
 
+<span class="l-fiero">**Aano dash opagosenimaan iiniw akiwenzhii’ishan chi-naasikawaanit oshiimeyensan, awanjish idash paapi’igoon; gaye pakite’ank pekish ochiimaanish.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Though he pleaded with the wicked old man to go to his wee little brother, yet, in spite of all, was he made fun of; and at the same time he struck his detestable old canoe.*</span>
 
-> <span class="l-gloss">A manitou is pursuing us," he said to him.</span>
+<span class="l-gloss">Aano dash opagosenimaan iiniw akiwenzhii’ishan chi-naasikawaanit oshiimeyensan (though he begged the wicked old man to go to his little brother), awanjish idash paapi’igoon (yet in spite of all he was mocked); gaye pakite’ank pekish ochiimaanish (and at the same time he struck his miserable canoe).</span>
 
-</div>
+<span class="l-orig">(338) Mīdac kwīwisäns kāwin keyāpi nōndawāsīn ucīmäyänsạn.</span>
 
+<span class="l-fiero">**Mii dash kwiiwisens gaawiin keyaapi noondawaasiin oshiimeyensan.**</span>
 
-Manido nimpiminisha’ogonaan,” odinaan (a manidoo is pursuing us,” he said to him).
+<span class="l-eng">*And then the boy at last (could) not hear his poor little brother.*</span>
 
-240) > **Mii dash keget egot kaa-igot ookomisan.**
+<span class="l-gloss">Mii dash kwiiwisens gaawiin keyaapi noondawaasiin oshiimeyensan (and then the boy could no longer hear his poor little brother).</span>
 
+<span class="l-orig">(339) Mīdec ägut kīwäⁿ īni’ᵘ a‘kiwäⁿjī∙i∙cạn:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii desh egot kiiwenh iiniw akiwenzhii’ishan:**</span>
 
-> <span class="l-gloss">Then of a truth was he told what had been told him by his grandmother.</span>
+<span class="l-eng">*And then they say he was told by the hateful old man:*</span>
 
-</div>
+<span class="l-gloss">Mii desh egot kiiwenh iiniw akiwenzhii’ishan (and then, they say, he was told by the hateful old man):</span>
 
+<span class="l-orig">(340) “Ōwiti äciwīninān nindānisạg ayāwạg; päji‘k dạc kīgamīnin tciwīdigämạt,” udinạn īni’ᵘ kwīwisänsạn.</span>
 
-Mii dash keget egot kaa-igot ookomisan (then truly he was told what his grandmother had told him).
+<span class="l-fiero">**“Oowiti eshi-wiininaan nindaanisag ayaawag; pezhik dash kiiga-miinin chi-wiidigemat,” odinaan iiniw kwiiwisensan.**</span>
 
-241) > **"Kiishpin sa wii-toodaman ked-ininaan kigat-aazhawa'onininim," odigowaan.**
+<span class="l-eng">*“Over at this place whither I am taking you, my daughters abide; and one will I give to you for a wife,” he said to the boy.*</span>
 
+<span class="l-gloss">“Oowiti eshi-wiininaan nindaanisag ayaawag (“over at the place where I am taking you my daughters live); pezhik dash kiiga-miinin chi-wiidigemat,” odinaan iiniw kwiiwisensan (and one I will give you for a wife,” he said to the boy).</span>
 
-<div class="four-layer">
+<span class="l-orig">(341) Awidạc wīn kwīwisäns ạgāwa pimātisi ä‘pītckaskändạnk mī‘kwänimāt ucīmäyänsạn.</span>
 
-> <span class="l-gloss">"If you will only do what I tell you, then will I carry you both across the water," they were told.</span>
+<span class="l-fiero">**Aw idash wiin kwiiwisens agaawa pimaatisi epiich-kas[h]kendank miikwenimaat oshiimeyensan.**</span>
 
-</div>
+<span class="l-eng">*And as for the boy, barely was he alive, so grieved was he at the thought of his dear little brother.*</span>
 
+<span class="l-gloss">Aw idash wiin kwiiwisens agaawa pimaatisi (and as for the boy, he was barely alive) epiich-kas[h]kendank miikwenimaat oshiimeyensan (so grieved was he at the thought of his dear little brother).</span>
 
-“Kiishpin sa wii-toodaman ked-ininaan (“if you will only do as I tell you) kigat-aazhawa’onininim,” odigowaan (then I will carry you both across,” they were told).
+<span class="l-orig">(342) Mīdạc kägä‘t cayīgwa ạnitcäkisäwāt ändanit ini’ᵘ a‘kiwäⁿzīyạn.</span>
 
-242) > **"Enye'," odinaan.**
+<span class="l-fiero">**Mii dash keget shayiigwa ani-chekisewaat endaanit iniw akiwenziiyan.**</span>
 
+<span class="l-eng">*And then truly now they slid inshore with their canoe by the dwelling-place of the old man.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash keget shayiigwa ani-chekisewaat endaanit iniw akiwenziiyan (and then truly now they slid inshore at the old man’s dwelling-place).</span>
 
-> <span class="l-gloss">"We will," he said to him.</span>
+<span class="l-orig">(343) “Mī∙i∙mā ayān,” udigōn.</span>
 
-</div>
+<span class="l-fiero">**“Mii imaa ayaan,” odigoon.**</span>
 
+<span class="l-eng">*“At yonder place is where I dwell,” he was told.*</span>
 
-“Enye’,” odinaan (“we will,” he said to him).
+<span class="l-gloss">“Mii imaa ayaan,” odigoon (“over there is where I live,” he was told).</span>
 
-243) > **"Kiin eta go kigat-aazhawa'onin, kaawiin wiin kishiinme," odigoon.**
+<span class="l-orig">(344) “Pitcīnạg awiya kigapināsi‘kāg,” udigōn.</span>
 
+<span class="l-fiero">**“Pichiinag awiya kiga-pi-naasikaag,” odigoon.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“In a little while somebody will come after you,” he was told.*</span>
 
-> <span class="l-gloss">"You yourself only will I take across the water, but not your little brother," he was told.</span>
+<span class="l-gloss">“Pichiinag awiya kiga-pi-naasikaag,” odigoon (“in a little while someone will come for you,” he was told).</span>
 
-</div>
+<span class="l-orig">(345) Mīdạc pạnä kīⁿwäⁿ aᵘ a‘kiwäⁿzī änijiku‘pit mīdec kīwäⁿ änāt udānisaᵉ:</span>
 
+<span class="l-fiero">**Mii dash pane kiinwenh aw akiwenzii eni-[i]zhi-kopiit mii desh kiiwenh enaat odaanisa’:**</span>
 
-“Kiin eta go kigat-aazhawa’onin (“you alone will I carry across), kaawiin wiin kishiinme,” odigoon (but not your little brother,” he was told).
+<span class="l-eng">*And then they say on, up from the shore, went the old man. And so it is told that he said to his daughters:*</span>
 
-244) > **Mii dash enaat:  
-     > **And then he said to him:
+<span class="l-gloss">Mii dash pane kiinwenh aw akiwenzii eni-[i]zhi-kopiit (and then, they say, up from the shore went the old man) mii desh kiiwenh enaat odaanisa’ (and so, they say, he said to his daughters):</span>
 
-Mii dash enaat (and then he said to him):
+<span class="l-orig">(346) “Nîndānisitug! inini nimpinā.</span>
 
-245) > **"Kaawiin wiin iw kitaa-tebwetosinoon.  
-     > **"Not to that sort of thing will I listen from you.
+<span class="l-fiero">**“Nindaanisitog! inini nimpinaa.**</span>
 
-“Kaawiin wiin iw kitaa-tebwetosinoon (“to that I will not listen from you).
+<span class="l-eng">*“O my daughters! a man have I fetched home.*</span>
 
-246) > **Aapiji nisaagi'aa nishiimenyens, " odinaan.**
+<span class="l-gloss">“Nindaanisitog! inini nimpinaa (“my daughters! a man I have brought home).</span>
 
+<span class="l-orig">(347) Awägwändạc ni‘tạm käbạgamiba‘togwän iwiti nitcīmān a‘tämạga‘k mī∙a∙ᵘ kätayāwāt,” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Awegwen dash nitam ke-bagamibatogwen iwiti nichiimaan atemagak mii iw ket-ayaawaat,” odinaan.**</span>
 
-> <span class="l-gloss">Very fond am I of my little brother," he said to him.</span>
+<span class="l-eng">*Now, whichever runs to and first reaches the place of my canoe will be the one to have him.”*</span>
 
-</div>
+<span class="l-gloss">Awegwen dash nitam ke-bagamibatogwen iwiti nichiimaan atemagak (whichever first runs and reaches where my canoe lies) mii iw ket-ayaawaat,” odinaan (she shall be the one to have him,” he said to them).</span>
 
+<span class="l-orig">(348) “Naskā minawā awiya kīniga∙ā∙gwän aᵘ kōsinān,” i‘kitōwạg pä‘kic ạnipạsigundcipa∙i∙tiwāt; īngi’ᵘ uckinīgī‘kwäg pa∙i∙tiwāt tcīmāning.</span>
 
-Aapiji nisaagi’aa nishiimenyens,” odinaan (very fond am I of my little brother,” he said to him).
+<span class="l-fiero">**“Nas[h]ke minawaa awiya kii-niga’aagwen aw koosinaan,” ikitoowag pekish ani-pasigonjipa’itiwaat; iingiw oshkiniigiikweg pa’itiwaat chiimaaning.**</span>
 
-247) > **Awisa\!" odigoon; "kiinitam isa kigat-aazhawa'onin."**
+<span class="l-eng">*“Maybe upon some other person has our father again inflicted sorrow,”they said, as at the same time they sprang to their feet and ran out of doors together; hither came the maidens, racing to the canoe.*</span>
 
+<span class="l-gloss">“Nas[h]ke minawaa awiya kii-niga’aagwen aw koosinaan,” ikitoowag (“maybe our father has brought sorrow on someone again,” they said) pekish ani-pasigonjipa’itiwaat (springing to their feet and running out together); iingiw oshkiniigiikweg pa’itiwaat chiimaaning (the young women racing to the canoe).</span>
 
-<div class="four-layer">
+<span class="l-orig">(349) Mīdạc tābicko pạgạmipa∙i∙itwạg.</span>
 
-> <span class="l-gloss">"All right, then\!" he was told; "you first will I carry across the water."</span>
+<span class="l-fiero">**Mii dash taabishko pagamipa’itiwag.**</span>
 
-</div>
+<span class="l-eng">*And both in running got there at the same time.*</span>
 
+<span class="l-gloss">Mii dash taabishko pagamipa’itiwag (and both reached it running at the same time).</span>
 
-Awisa\!” odigoon (“all right then\!” he was told); “kiinitam isa kigat-aazhawa’onin.” (“you first I will carry across.”)
+<span class="l-orig">(350) Mīdạc kīwäⁿ wâbạmāwāt kwīwisänsạn sīndạna‘kāng cingicininit.</span>
 
-248) > **Mii dash enaat:  
-     > **And then he said to him:
+<span class="l-fiero">**Mii dash kiiwenh waabamaawaat kwiiwisensan siindanakaang shingishininit.**</span>
 
-Mii dash enaat (and then he said to him):
+<span class="l-eng">*And then it is said that they saw the boy lying asleep in the peak of the bow.*</span>
 
-249) > **"Aaniish ke-ishi-kashkitooyaan chi-omboomak nishiimenh kiishpin pagitoomak?" odinaan.**
+<span class="l-gloss">Mii dash kiiwenh waabamaawaat kwiiwisensan (and then, they say, they saw the boy) siindanakaang shingishininit (lying asleep in the peak of the bow).</span>
 
+<span class="l-orig">(351) Mīdạc ä‘kitōwāt “</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash ekitoowaat:**</span>
 
-> <span class="l-gloss">"How shall I be able to put my little brother upon my back if I put him down?" he said to him.</span>
+<span class="l-eng">*Whereupon they said:*</span>
 
-</div>
+<span class="l-gloss">Mii dash ekitoowaat (whereupon they said):</span>
 
+<span class="l-orig">(352) ‘Āᵉ, ‘ā, kägä‘tsa inini wītugänạn nintạnänimā!” i‘kitōwạg.</span>
 
-“Aaniish ke-ishi-kashkitooyaan chi-omboomak nishiimenh (“how shall I be able to take my little brother up on my back) kiishpin pagitoomak?” odinaan (if I put him down?” he said to him).
+<span class="l-fiero">**“Aa’, aa, keget sa inini wiitogenan nintanenimaa!” ikitoowag.**</span>
 
-250) > **"Aa, kiigakashkitoon," odinaan.**
+<span class="l-eng">*“Oh, pshaw! that really he was a sure-enough man was what I thought he was,” (thus) they said.*</span>
 
+<span class="l-gloss">“Aa’, aa, keget sa inini wiitogenan nintanenimaa!” ikitoowag (“pshaw, I really thought he would be a grown man!” they said).</span>
 
-<div class="four-layer">
+<span class="l-orig">(353) Minawā änijiku‘pīwāt.</span>
 
-> <span class="l-gloss">"Oh, you will be able to do it," he said to him.</span>
+<span class="l-fiero">**Minawaa eni-[i]zhi-kopiiwaat.**</span>
 
-</div>
+<span class="l-eng">*Back from the shore then they went.*</span>
 
+<span class="l-gloss">Minawaa eni-[i]zhi-kopiiwaat (back up from the shore then they went).</span>
 
-“Aa, kiigakashkitoon,” odinaan (“oh, you will manage it,” he said to him).
+<span class="l-orig">(354) Mīdạc kīwäⁿ aᵘ wäcimä∙i∙mint näyāp äji∙a∙cäpạgisat, icāt näyāp iwiti tcīmāning.</span>
 
-251) > **"Pagitoom\!" odigoon.**
+<span class="l-fiero">**Mii dash kiiwenh aw weshime’imint neyaap ezhi-ashepagisat, ishaat neyaap iwiti chiimaaning.**</span>
 
+<span class="l-eng">*And then it is said that the younger sister turned, swinging quickly round as she went back there to the canoe.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw weshime’imint neyaap ezhi-ashepagisat (and then, they say, the younger sister swung quickly back round), ishaat neyaap iwiti chiimaaning (going back there to the canoe).</span>
 
-> <span class="l-gloss">"Let him down\!" he was told by his grandfather.</span>
+<span class="l-orig">(355) Mīdac äji∙u∙dā‘pināt kwīwisänsạn, cawänimāt.</span>
 
-</div>
+<span class="l-fiero">**Mii dash ezhi-odaapinaat kwiiwisensan, shawenimaat.**</span>
 
+<span class="l-eng">*Thereupon she took the boy up in her arms, for she pitied him.*</span>
 
-“Pagitoom\!” odigoon (“set him down\!” he was told by his grandfather).
+<span class="l-gloss">Mii dash ezhi-odaapinaat kwiiwisensan, shawenimaat (thereupon she took the boy up, for she pitied him).</span>
 
-252) > **Mii dash keget waa-ishi-pagitoomaat mii dash "Ta-pangishin," inendam; mii minawaa ezhi-noogiit.**
+<span class="l-orig">(356) Mīdạc änijiku‘pīwināt ändāwāt; pīndigạnāt wändạpit dạc upạgitînān īni’ᵘ kwīwisänsạn.</span>
 
+<span class="l-fiero">**Mii dash eni-[i]zhi-kopiiwinaat endaawaat; piindiganaat wendapit dash opagitinaan iiniw kwiiwisensan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then she took him up from the shore to where they lived; she fetched him inside to the place where she sat, and there put down the boy.*</span>
 
-> <span class="l-gloss">And then truly was he in the act of letting him down, when, "Now he might fall," he thought; so again he hesitated.</span>
+<span class="l-gloss">Mii dash eni-[i]zhi-kopiiwinaat endaawaat (and then she carried him up from the shore to where they lived); piindiganaat wendapit dash opagitinaan iiniw kwiiwisensan (she brought him inside, and at the place where she sat she set the boy down).</span>
 
-</div>
+<span class="l-orig">(357) Ningudingdạc kīwäⁿ a∙ī∙ndāwāt, ānicinā ātisō‘kān, mindidu cayīgwa aᵘ kwīwisäns.</span>
 
+<span class="l-fiero">**Ningoding dash kiiwenh a’iindaawaat, aanish inaa aatisookaan, mindido shayiigwa aw kwiiwisens.**</span>
 
-Mii dash keget waa-ishi-pagitoomaat (and then truly, just as he was about to set him down) mii dash “Ta-pangishin,” inendam (then, “he might fall,” he thought); mii minawaa ezhi-noogiit (so again he hesitated).
+<span class="l-eng">*And by and by they say, while they were living (there), so the story goes, large grew the boy.*</span>
 
-253) > **"Pagitoom\!" odigoon omishoomisan.**
+<span class="l-gloss">Ningoding dash kiiwenh a’iindaawaat, aanish inaa aatisookaan (and by and by, they say, as they lived there, so the story goes), mindido shayiigwa aw kwiiwisens (the boy grew large now).</span>
 
+<span class="l-orig">(358) Ningudingidạc kīwäⁿ udinān a‘kiwäⁿzī īni’ᵘ uningwạnạn:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Ningoding idash kiiwenh odinaan akiwenzii iiniw oningwanan:**</span>
 
-> <span class="l-gloss">"Let him down\!" he was told by his grandfather.</span>
+<span class="l-eng">*And once on a time they say the old man said to his son-in-law:*</span>
 
-</div>
+<span class="l-gloss">Ningoding idash kiiwenh odinaan akiwenzii iiniw oningwanan (and once on a time, they say, the old man said to his son-in-law):</span>
 
+<span class="l-orig">(359) “Mīsạnā cayīgwa tcipapā∙a∙ntucīpäyạnguban,” udinān.</span>
 
-“Pagitoom\!” odigoon omishoomisan (“set him down\!” he was told by his grandfather).
+<span class="l-fiero">**“Mii sa naa shayiigwa chi-papaa-antoshiipeyangoban,” odinaan.**</span>
 
-254) > **"Kaawiin ta-pangishinzii," odigoon.**
+<span class="l-eng">*“It is a good time now for us to go hunting for ducks,” (thus) he said to him.*</span>
 
+<span class="l-gloss">“Mii sa naa shayiigwa chi-papaa-antoshiipeyangoban,” odinaan (“now is a good time for us to go duck-hunting,” he said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(360) Mīsa kīⁿwäⁿ kägä‘t äjimādcāwāt, papāmickāwāt papā∙ạ∙ntucipäwāt.</span>
 
-> <span class="l-gloss">"He will not fall," he was told.</span>
+<span class="l-fiero">**Mii sa kiinwenh keget ezhi-maajaawaat, papaamishkaawaat papaa-antoshipewaat.**</span>
 
-</div>
+<span class="l-eng">*And then they say that in truth away they went by canoe to hunt for ducks.*</span>
 
+<span class="l-gloss">Mii sa kiinwenh keget ezhi-maajaawaat (and so, they say, truly off they went) papaamishkaawaat papaa-antoshipewaat (paddling about, hunting for ducks).</span>
 
-“Kaawiin ta-pangishinzii,” odigoon (“he will not fall,” he was told).
+<span class="l-orig">(361) Mīdạc awinini nîsidawinạng imā ucīmäyänsạn kā∙u∙ndcinạgạnāt.</span>
 
-255) > **Mii dash keget kegapii kaa-izhi-pagitoomaat weweni.**
+<span class="l-fiero">**Mii dash aw inini nisidawinang imaa oshimeyensan kaa-onji-naganaat.**</span>
 
+<span class="l-eng">*And now the man recognized the place where he had left his dear little brother.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash aw inini nisidawinang imaa oshimeyensan kaa-onji-naganaat (and now the man recognized the place where he had left his little brother).</span>
 
-> <span class="l-gloss">And then truly at last he let him down in a careful manner.</span>
+<span class="l-orig">(362) Mīc kīwäⁿ nōndawāt awiya täpi‘tāgusinit kitunit:</span>
 
-</div>
+<span class="l-fiero">**Miish kiiwenh noondawaat awiya tepitaagosinit [i]kitonit:**</span>
 
+<span class="l-eng">*Whereupon it is said that he heard the sound of somebody’s voice saying:*</span>
 
-Mii dash keget kegapii kaa-izhi-pagitoomaat weweni (and then truly at last he set him down carefully).
+<span class="l-gloss">Miish kiiwenh noondawaat awiya tepitaagosinit [i]kitonit (whereupon, they say, he heard someone’s voice saying):</span>
 
-256) > **"Aw idash kiinitam kigat-aazhoo'nin," odigoon.**
+<span class="l-orig">(363) “Nîsayäⁿ!</span>
 
+<span class="l-fiero">**“Nisayenh”!**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“O my big brother!*</span>
 
-> <span class="l-gloss">"Therefore first you will I carry across the water," he was told.</span>
+<span class="l-gloss">“Nisayenh”! (“my big brother!)</span>
 
-</div>
+<span class="l-orig">(364) cayīgwa ninā ābi‘ta nīma∙ī∙gạniᵘ!”</span>
 
+<span class="l-fiero">**shayiigwa ninaa aabita niima’iinganiw!”**</span>
 
-“Aw idash kiinitam kigat-aazhoo’nin,” odigoon (“so you first I will carry across,” he was told).
+<span class="l-eng">*already have I now become half a wolf!”*</span>
 
-257) > **Mii dash aw zeziikisit kwiiwisens kaa-izhi-kichi-aanzanaamot.**
+<span class="l-gloss">shayiigwa ninaa aabita niima’iinganiw!” (already now I have become half a wolf!”)</span>
 
+<span class="l-orig">(365) Nesingigo tibicko i‘kitōwạn ucīmäyän.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Nesing igo tibishko ikitoowan oshiimeyan.**</span>
 
-> <span class="l-gloss">And then the older boy drew a deep sigh.</span>
+<span class="l-eng">*Three times, indeed, did his younger brother say the same thing.*</span>
 
-</div>
+<span class="l-gloss">Nesing igo tibishko ikitoowan oshiimeyan (three times indeed his little brother said the same thing).</span>
 
+<span class="l-orig">(366) Mīdạc kägä‘t aᵘ inini kaskändạnk.</span>
 
-Mii dash aw zeziikisit kwiiwisens kaa-izhi-kichi-aanzanaamot (and then the older boy drew a deep sigh).
+<span class="l-fiero">**Mii dash keget aw inini kas[h]kendank.**</span>
 
-258) > **Pekish inaat omishoomisan:  
-     > **At the same time he said to his grandfather:
+<span class="l-eng">*And then truly was the man sad.*</span>
 
-Pekish inaat omishoomisan (at the same time saying to his grandfather):
+<span class="l-gloss">Mii dash keget aw inini kas[h]kendank (and then truly the man was sad).</span>
 
-259) > **"Nimishoomis\!  
-     > **"O my grandfather\!
+<span class="l-orig">(367) Kāwīn kägō i‘kitosī.</span>
 
-“Nimishoomis\! (“my grandfather\!)
+<span class="l-fiero">**Gaawiin kegoo ikitosii.**</span>
 
-260) > **maanoo nishiimeyens nitam aazhawa'oosh\!" odinaan.**
+<span class="l-eng">*But he made no remark.*</span>
 
+<span class="l-gloss">Gaawiin kegoo ikitosii (but he said nothing).</span>
 
-<div class="four-layer">
+<span class="l-orig">(368) Mīdạc äjikīwäwāt minawā.</span>
 
-> <span class="l-gloss">do please carry my little brother first over to the other side\!" he said to him.</span>
+<span class="l-fiero">**Mii dash ezhi-kiiwewaat minawaa.**</span>
 
-</div>
+<span class="l-eng">*And then they went back home again.*</span>
 
+<span class="l-gloss">Mii dash ezhi-kiiwewaat minawaa (and then they went back home again).</span>
 
-maanoo nishiimeyens nitam aazhawa’oosh\!” odinaan (please carry my little brother across first\!” he said to him).
+<span class="l-orig">(369) Mīdạc ninguting a∙ī∙ndāwāt ainini udinān wīwạn:</span>
 
-261) > **Mii dash keget ezhi-tebwetaagoot omishoomisan.**
+<span class="l-fiero">**Mii dash ningoting a’iindaawaat a inini odinaan wiiwan:**</span>
 
+<span class="l-eng">*And then once upon a time, while they were dwelling (there), the man said to his wife:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash ningoting a’iindaawaat a inini odinaan wiiwan (and then once, while they were living there, the man said to his wife):</span>
 
-> <span class="l-gloss">And it was so that his grandfather did what was asked of him.</span>
+<span class="l-orig">(370) “Ạmbä, pạbāmiskātā!” udinān.</span>
 
-</div>
+<span class="l-fiero">**“Ambe, pabaamiskaataa!” odinaan.**</span>
 
+<span class="l-eng">*“Come, let us go out in the canoe!” he (thus) said to her.*</span>
 
-Mii dash keget ezhi-tebwetaagoot omishoomisan (and so truly his grandfather did as he was asked).
+<span class="l-gloss">“Ambe, pabaamiskaataa!” odinaan (“come, let us go out in the canoe!” he said to her).</span>
 
-262) > **Owaabamigoon sa aapiji saagi'aat oshiimeyan, kaye aiyaangwaamisit chi-wani'aasig.**
+<span class="l-orig">(371) Mīdạc kīwäⁿ kägä‘t äjimādcāwāt.</span>
 
+<span class="l-fiero">**Mii dash kiiwenh keget ezhi-maajaawaat.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And so it is said that truly did they go.*</span>
 
-> <span class="l-gloss">It was truly observed how so very fond he was of his wee little brother, and how careful he was not to lose him.</span>
+<span class="l-gloss">Mii dash kiiwenh keget ezhi-maajaawaat (and so, they say, truly they went).</span>
 
-</div>
+<span class="l-orig">(372) Awidạc kīwäⁿ a‘kiwäⁿzī kāwin minwändạⁿzī.</span>
 
+<span class="l-fiero">**Aw idash kiiwenh akiwenzii gaawiin minwendanzii.**</span>
 
-Owaabamigoon sa aapiji saagi’aat oshiimeyan (it was plainly seen how very fond he was of his little brother), kaye aiyaangwaamisit chi-wani’aasig (and how careful he was not to lose him).
+<span class="l-eng">*And it is told that the old man was not pleased about it.*</span>
 
-263) > **Mii dash egot:  
-     > **Therefore was he told:
+<span class="l-gloss">Aw idash kiiwenh akiwenzii gaawiin minwendanzii (and it is said the old man was not pleased about it).</span>
 
-Mii dash egot (therefore he was told):
+<span class="l-orig">(373) Ināt udānisạn:</span>
 
-264) > **"Aaw\! poosi, kego dash wiin taangawiganeshkawishiken\!" odinaan.**
+<span class="l-fiero">**Inaat odaanisan:**</span>
 
+<span class="l-eng">*(And) he said to his daughter:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Inaat odaanisan (he said to his daughter):</span>
 
-> <span class="l-gloss">"All right\! put him on, but don't you touch me on the back\!" he said to him.</span>
+<span class="l-orig">(374) “Nin nintākīwitcīwā na∙ā∙ngī,” udinān.</span>
 
-</div>
+<span class="l-fiero">**“Niin nintaa-kii-wichiiwaa na’aangii,” odinaan.**</span>
 
+<span class="l-eng">*“I myself should have gone along with the son-in-law, “ he (thus) said to her.*</span>
 
-“Aaw\! poosi, kego dash wiin taangawiganeshkawishiken\!” odinaan (“all right\! load him on, but do not touch me on the back\!” he said to him).
+<span class="l-gloss">“Niin nintaa-kii-wichiiwaa na’aangii,” odinaan (“I myself should have gone along with my son-in-law,” he said to her).</span>
 
-265) > **Mii dash ezhi-aazhawa'oonaat kii-asaat agaaming.**
+<span class="l-orig">(375) “Nîyā!” i‘kito i‘kwä.</span>
 
+<span class="l-fiero">**“Niyaa!” ikito ikwe.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Oh, dear!” said the woman.*</span>
 
-> <span class="l-gloss">And then he carried him over on the other side and put him on the other shore.</span>
+<span class="l-gloss">“Niyaa!” ikito ikwe (“oh, dear!” said the woman).</span>
 
-</div>
+<span class="l-orig">(376) “Kayä nin kuca niwīwītcīwā,” udinān ōsạn.</span>
 
+<span class="l-fiero">**“Gaye niin kosha niwii-wiichiiwaa,” odinaan oosan.**</span>
 
-Mii dash ezhi-aazhawa’oonaat kii-asaat agaaming (and then he carried him across and set him on the other shore).
+<span class="l-eng">*“So was I myself eager to go with him,” she said to her father.*</span>
 
-266) > **Mii dash kaye, wiin pichiinag kii-aazhawa'oonint.**
+<span class="l-gloss">“Gaye niin kosha niwii-wiichiiwaa,” odinaan oosan (“but I myself was eager to go with him,” she said to her father).</span>
 
+<span class="l-orig">(377) Mīdạc mīnawā äjimādcāwāt pạbāmiskāwāt acudäw¹.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash miinawaa ezhi-maajaawaat pabaamiskaawaat ashodew.**</span>
 
-> <span class="l-gloss">And then was the other afterwards taken across.</span>
+<span class="l-eng">*And so another time they went canoeing about along the shore.*</span>
 
-</div>
+<span class="l-gloss">Mii dash miinawaa ezhi-maajaawaat pabaamiskaawaat ashodew (and so another time off they went, canoeing along the shore).</span>
 
+<span class="l-orig">(378) Mīdac kīwäⁿ änāt īni’ᵘ wīwạn, wīndạmawāt undci ucīmäyạn.</span>
 
-Mii dash kaye, wiin pichiinag kii-aazhawa’oonint (and then the other one was afterward taken across).
+<span class="l-fiero">**Mii dash kiiwenh enaat iiniw wiiwan, wiindamawaat onji oshiimeyan.**</span>
 
-267) > **Mii dash taabishkoo agaaming kii-ayaawaat.**
+<span class="l-eng">*And then it is said, while speaking to his wife, he was telling her about his little brother.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh enaat iiniw wiiwan, wiindamawaat onji oshiimeyan (and then, they say, while talking to his wife, he was telling her about his little brother).</span>
 
-<div class="four-layer">
+<span class="l-orig">(379) Mīdec kīwäⁿ mägwā tibātcimut ạnitibicko‘kạmowāt kā∙u∙ndcipōswäbawauⁿdibạnän.</span>
 
-> <span class="l-gloss">Therefore now were both on the other shore.</span>
+<span class="l-fiero">**Mii desh kiiwenh megwaa tibaachimot ani-tibishko-kamowaat kaa-onji-pooswebawa’ondibanen.**</span>
 
-</div>
+<span class="l-eng">*Whereupon they say, while going on with his story, they were then passing the place opposite to where he had been scooped up into the canoe.*</span>
 
+<span class="l-gloss">Mii desh kiiwenh megwaa tibaachimot (whereupon, they say, while he was telling the story) ani-tibishko-kamowaat kaa-onji-pooswebawa’ondibanen (they came opposite the place where he had been scooped up into the canoe).</span>
 
-Mii dash taabishkoo agaaming kii-ayaawaat (and so now both were on the other shore).
+<span class="l-orig">(380) Mīdạc, “Naskä nābîn!” udinān unāpämạn.</span>
 
-268) > **Mii dash kii-igot oomishoomisan:  
-     > **And then was he told by his grandfather:
+<span class="l-fiero">**Mii dash, “Nas[h]ke [i]naabin!” odinaan onaapeman.**</span>
 
-Mii dash kii-igot oomishoomisan (and then he was told by his grandfather):
+<span class="l-eng">*And then, “Oh, look!” she said to her husband.*</span>
 
-269) > **"Mii ishi-omboom kishiinmneh\!" odigoon.**
+<span class="l-gloss">Mii dash, “Nas[h]ke [i]naabin!” odinaan onaapeman (and then, “oh, look!” she said to her husband).</span>
 
+<span class="l-orig">(381) Mīdạc kīwäⁿ awinini inābit owâbạmān nîswi mā∙i∙ngạnaᵉ anigu‘pipa∙i∙tinit.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kiiwenh aw inini inaabit owaabamaan niswi maa’ingana’ ani-gopipa’itinit.**</span>
 
-> <span class="l-gloss">"Now, then\! put your little brother upon your back\!" he was told.</span>
+<span class="l-eng">*Whereupon it is said that the man looked, and saw three wolves running up from the shore.*</span>
 
-</div>
+<span class="l-gloss">Mii dash kiiwenh aw inini inaabit (whereupon, they say, the man looked) owaabamaan niswi maa’ingana’ ani-gopipa’itinit (and saw three wolves running up from the shore).</span>
 
+<span class="l-orig">(382) Mīdạc änändạnk:</span>
 
-“Mii ishi-omboom kishiinmneh\!” odigoon (“now then, take your little brother up on your back\!” he was told).
+<span class="l-fiero">**Mii dash enendank:**</span>
 
-270) > **Mii dash nawach kii-wenipanisit kii-omboomaat oshiimenyensan, piich idash kaa-izhi-sanagisit wii-pagitoomaat nitam.**
+<span class="l-eng">*Thereupon he thought:*</span>
 
+<span class="l-gloss">Mii dash enendank (thereupon he thought):</span>
 
-<div class="four-layer">
+<span class="l-orig">(383) “Mī aᵘ nicīm päji‘k.”</span>
 
-> <span class="l-gloss">Whereupon he found it easier than before to lift his little brother upon his back, as easy he found it as when he first wanted to put him down.</span>
+<span class="l-fiero">**“Mii aw nishiim pezhik.”**</span>
 
-</div>
+<span class="l-eng">*“One of them may be my little brother.”*</span>
 
+<span class="l-gloss">“Mii aw nishiim pezhik.” (“one of them is my little brother.”)</span>
 
-Mii dash nawach kii-wenipanisit kii-omboomaat oshiimenyensan (whereupon he found it easier than before to lift his little brother), piich idash kaa-izhi-sanagisit wii-pagitoomaat nitam (as easy as it had been hard when he first wished to set him down).
+<span class="l-orig">(384) Kumā a‘pīdạc nō‘piming minawā ōnōndawān ucīmäyạn igut:</span>
 
-271) > **Mii dash minawaa kaa-izhi-maajaawaat.**
+<span class="l-fiero">**Komaa apii dash noopiming minawaa oonoondawaan oshiimeyan igot:**</span>
 
+<span class="l-eng">*And then at some distance off in the forest he once more heard his little brother say:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Komaa apii dash noopiming minawaa oonoondawaan oshiimeyan igot (and then at some distance off in the woods he again heard his little brother say to him):</span>
 
-> <span class="l-gloss">And then again they continued on their way.</span>
+<span class="l-orig">(385) “Nisayā! mīga‘kina kīmā∙i∙ngạnawiyān.</span>
 
-</div>
+<span class="l-fiero">**“Nisayaa! mii gakina kii-maa’iinganawiyaan.**</span>
 
+<span class="l-eng">*“O my big brother! wholly now have I become a wolf.”*</span>
 
-Mii dash minawaa kaa-izhi-maajaawaat (and then again they went on their way).
+<span class="l-gloss">“Nisayaa! mii gakina kii-maa’iinganawiyaan (“my big brother! wholly now have I become a wolf).</span>
 
-272) > **Ningoding idash minawaa ikwe kaye wiin pi-tagwishinoogopan imaa ziibing.**
+<span class="l-orig">(386) Kāwīn minawā kigamiguskātcisinōn,” udinān usayäyạn.</span>
 
+<span class="l-fiero">**Gaawiin minawaa kiga-migoskaachisinoon,” odinaan osayeyan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Never again shall I bother you,” he said to his elder brother.*</span>
 
-> <span class="l-gloss">And so next was the woman herself to arrive there at the river.</span>
+<span class="l-gloss">Gaawiin minawaa kiga-migoskaachisinoon,” odinaan osayeyan (never again will I trouble you,” he said to his elder brother).</span>
 
-</div>
+<span class="l-orig">(387) “Tạsing wayābạmạtwānin ma∙i∙ngạnạg ‘nicīmä wayābạmạg,’ kīgatinändạm,” udigōn.</span>
 
+<span class="l-fiero">**“Tasing wayaabamatwaanin ma’iinganag ’nishiime wayaabamag,’ kiigat-inendam,” odigoon.**</span>
 
-Ningoding idash minawaa ikwe kaye wiin pi-tagwishinoogopan imaa ziibing (and so next the woman herself arrived there at the river).
+<span class="l-eng">*“As often as you see the wolves, ’My little brother do I see,’ shall you think,” (thus) was he told.*</span>
 
-273) > **Mii dash kaye tishishkoo ezhi-waabamaat iiniw ozikaasiwan, inaat:  
-     > **And she too saw Horn-Grebe, and said to him:
+<span class="l-gloss">“Tasing wayaabamatwaanin ma’iinganag (“as often as you see the wolves) ‘nishiime wayaabamag,’ kiigat-inendam,” odigoon (‘it is my little brother I see,’ you shall think,” he was told).</span>
 
-Mii dash kaye tishishkoo ezhi-waabamaat iiniw ozikaasiwan (and she too saw Horn-Grebe), inaat (saying to him):
+<span class="l-orig">(388) Mīdạc ckwätc kīwâbạmāt.</span>
 
-274) > **"Skomaa na, aazhowa'oshin, nishiim\!" odinaan.**
+<span class="l-fiero">**Mii dash shkwech kii-waabamaat.**</span>
 
+<span class="l-eng">*And that was the last he ever saw of him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash shkwech kii-waabamaat (and that was the last he ever saw of him).</span>
 
-> <span class="l-gloss">"Do, please, carry me over to the other side, my little brother\!"</span>
+<span class="l-orig">(389) Mīdạc kayä kīnanā∙ä∙ndạnk aᵘ inini.</span>
 
-</div>
+<span class="l-fiero">**Mii dash gaye kii-nanaa’endank aw inini.**</span>
 
+<span class="l-eng">*Whereupon the man also felt at ease in his mind.*</span>
 
-“Skomaa na, aazhowa’oshin, nishiim\!” odinaan (“please, carry me across, my little brother\!” she said to him).
+<span class="l-gloss">Mii dash gaye kii-nanaa’endank aw inini (whereupon the man too felt at ease in his mind).</span>
 
-275) > **"Awaspina\!"**
+<span class="l-orig">(390) Mīdạc kā∙i∙nāt wīdigämāgạnạn awinini kägu tci∙i∙‘kitosinik ändāwāt.</span>
 
+<span class="l-fiero">**Mii dash kaa-inaat wiidigemaaganan aw inini kego chi-ikitosinik endaawaat.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then the man bade his wife not to say anything (about it) at home.*</span>
 
-> <span class="l-gloss">"Oh, bother\!"</span>
+<span class="l-gloss">Mii dash kaa-inaat wiidigemaaganan aw inini kego chi-ikitosinik endaawaat (and then the man told his wife to say nothing of it at home).</span>
 
-</div>
+<span class="l-orig">(391) Mīdạc kägä‘t kā∙i∙jitcigät awi‘kwä.</span>
 
+<span class="l-fiero">**Mii dash keget kaa-izhichiget aw ikwe.**</span>
 
-“Awaspina\!” (“oh, bother\!”)
+<span class="l-eng">*And so truly the woman did (as she was told).*</span>
 
-276) > **"Awaw\!" odinaan.**
+<span class="l-gloss">Mii dash keget kaa-izhichiget aw ikwe (and so truly the woman did as she was told).</span>
 
+<span class="l-orig">(392) Ningudingdạc kīwäⁿ a∙ī∙ndāwāt aᵘ a‘kiwäⁿzī niguskāctcidä∙ä∙ wâbạmāt unīngwạnạn cayīgwa kī∙ạ∙nikiˢtci∙i∙ninīwinit.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Ningoding dash kiiwenh a’iindaawaat aw akiwenzii nigoskaashchide’e waabamaat oniingwanan shayiigwa kii-ani-kischi-ininiiwinit.**</span>
 
-> <span class="l-gloss">Oh, do\!" she said to him.</span>
+<span class="l-eng">*Now, once, it is said, while they were living (at that place), the old man became troubled in his heart to see that his son-in-law was growing into the full stature of a man.*</span>
 
-</div>
+<span class="l-gloss">Ningoding dash kiiwenh a’iindaawaat aw akiwenzii nigoskaashchide’e (now, once, they say, as they lived there, the old man grew troubled in his heart) waabamaat oniingwanan shayiigwa kii-ani-kischi-ininiiwinit (seeing his son-in-law growing into a full-grown man).</span>
 
+<span class="l-orig">(393) Mīdạc kīⁿwäⁿ nānāgạtawänimāt ānin kätōtạmōgwän tcînîsāt; ōgusān dạc kayä udānisạn tciki‘känimigut.</span>
 
-“Awaw\!” odinaan (“oh, do\!” she said to him).
+<span class="l-fiero">**Mii dash kiinwenh naanaagatawenimaat aaniin ke-tootamoogwen chi-nisaat; oogoosan dash gaye odaanisan chi-kikenimigot.**</span>
 
-277) > **"Ninichaanisag niwii-noopinanaag," odinaan.**
+<span class="l-eng">*And then they say that he began to lay plans to find out how he might kill him; and yet, too, he feared that his daughter would know that he had done it.*</span>
 
+<span class="l-gloss">Mii dash kiinwenh naanaagatawenimaat aaniin ke-tootamoogwen chi-nisaat (and then, they say, he pondered how he might kill him); oogoosan dash gaye odaanisan chi-kikenimigot (and yet he feared his daughter would know he had done it).</span>
 
-<div class="four-layer">
+<span class="l-orig">(394) Ā‘pidcidạc kīnawīnändạm pạnä ogạnawâbạmān īni’ᵘ uningwạnạn.</span>
 
-> <span class="l-gloss">"After my children am I anxious to pursue," she said to him.</span>
+<span class="l-fiero">**Aapiji dash kii-nawiinendam pane oganawaabamaan iiniw oningwanan.**</span>
 
-</div>
+<span class="l-eng">*Very much was he bothered, all the time was he watching his son-in-law.*</span>
 
+<span class="l-gloss">Aapiji dash kii-nawiinendam (very much was he troubled) pane oganawaabamaan iiniw oningwanan (all the time watching his son-in-law).</span>
 
-“Ninichaanisag niwii-noopinanaag,” odinaan (“I want to pursue my children,” she said to him).
+<span class="l-orig">(395) Ningutingdạc kīwäⁿ ugi‘ki‘käsi‘kawâbamigōn udānisạn.</span>
 
-278) > **"Awaspina\! Kaawin\!" odigoon.**
+<span class="l-fiero">**Ningoting dash kiiwenh ogi-kikesikawaabamigoon odanisan.**</span>
 
+<span class="l-eng">*Now, once, they say, by the glance of an eye was he caught by his daughter at a time when he was looking at him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Ningoting dash kiiwenh ogi-kikesikawaabamigoon odanisan (now, once, they say, his daughter caught him with a glance of the eye) [as he was looking at him].</span>
 
-> <span class="l-gloss">"Oh, pshaw\! No\!" she was told.</span>
+<span class="l-orig">(396) Mīdạc kīwäⁿ ägut:</span>
 
-</div>
+<span class="l-fiero">**Mii dash kiwenh egot:**</span>
 
+<span class="l-eng">*Whereupon it is said that he was asked (by her):*</span>
 
-“Awaspina\! Kaawin\!” odigoon (“pshaw\! no\!” she was told).
+<span class="l-gloss">Mii dash kiwenh egot (whereupon, they say, he was asked by her):</span>
 
-279) > **"Aaw\!" odinaan; "mes\[h\]kot kiiga-paapoochikanakawe nindapiskoke," odinaan.**
+<span class="l-orig">(397) “Ānīnsa kīn a‘panä änābạmạt aᵘ kāgạnawâbạmạt?” udinān awi‘kwä ōsan.</span>
 
+<span class="l-fiero">**“Aanin sa kiin apane enaabamat aw kaa-ganawaabamat?” odinaan aw ikwe oosan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Why are you always looking at him whom you are gazing at?” (thus) said the woman to her father.*</span>
 
-> <span class="l-gloss">"Come\!" she said to him; "and in return you may have your desires with me."</span>
+<span class="l-gloss">“Aanin sa kiin apane enaabamat aw kaa-ganawaabamat?” odinaan aw ikwe oosan (“why are you always staring at him you keep gazing at?” the woman said to her father).</span>
 
-</div>
+<span class="l-orig">(398) “Ā, ka, kānkuntînōn nîntạnänimāsī kāganawâbamạg,” i‘kitu.</span>
 
+<span class="l-fiero">**“Aa, ka, kaa nkontinoon nintanenimaasii kaa-ganawaabamag,” ikito.**</span>
 
-“Aaw\!” odinaan (“come\!” she said to him); “mes\[h\]kot kiiga-paapoochikanakawe nindapiskoke,” odinaan (“in return you may have your way with me,” she said to him).
+<span class="l-eng">*“Oh, for nothing in particular have I him in mind, that I should be gazing at him,” he said.*</span>
 
-280) > **"Awaas kaawiin," odinaan.**
+<span class="l-gloss">“Aa, ka, kaa nkontinoon nintanenimaasii kaa-ganawaabamag,” ikito (“oh, for nothing in particular do I have him in mind, that I should be gazing at him,” he said).</span>
 
+<span class="l-orig">(399) “Ạnicāgu nānāgatawändạmān āninti kädicinạntawändcikäyāng wâbang,” cīgwīnawi i‘kitu aᵘ a‘kiwäⁿjī∙i∙cigubạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Anishaa go naanaagatawendamaan aaninti ked-ishinantawenjikayaang waabang,” shiigwiinawi ikito aw akiwenzhii’ishigoban.**</span>
 
-> <span class="l-gloss">"I don't wish to," he said to her.</span>
+<span class="l-eng">*“I was only thinking where we might go hunting for game to-morrow,” (thus) by way of an excuse replied that malicious old man.*</span>
 
-</div>
+<span class="l-gloss">“Anishaa go naanaagatawendamaan aaninti ked-ishinantawenjikayaang waabang,” shiigwiinawi ikito aw akiwenzhii’ishigoban (“I was only thinking where we might go hunting tomorrow,” by way of excuse said that malicious old man).</span>
 
+<span class="l-orig">(400) Mīdạc kägä‘t kīwäⁿ änāt īni’ᵘ unīngwanạn:</span>
 
-“Awaas kaawiin,” odinaan (“no, I don’t want to,” he said to her).
+<span class="l-fiero">**Mii dash keget kiiwenh enaat iiniw oniingwanan:**</span>
 
-281) > **"Aaw, wewiiptaan\!"**
+<span class="l-eng">*And then truly they say that he said to his son-in-law:*</span>
 
+<span class="l-gloss">Mii dash keget kiiwenh enaat iiniw oniingwanan (and then truly, they say, he said to his son-in-law):</span>
 
-<div class="four-layer">
+<span class="l-orig">(401) “Wâbạng kīgạnạndawäntcigämin,” udinān;</span>
 
-> <span class="l-gloss">"Come, hurry up\!"</span>
+<span class="l-fiero">**“Waabang kiiga-nandawenchigemin,” odinaan;**</span>
 
-</div>
+<span class="l-eng">*“To-morrow let us go hunting for game!” he said to him.*</span>
 
+<span class="l-gloss">“Waabang kiiga-nandawenchigemin,” odinaan (“tomorrow let us go hunting,” he said to him);</span>
 
-“Aaw, wewiiptaan\!” (“come, hurry up\!”)
+<span class="l-orig">(402) “kīgatawīnōtci∙ā∙nānig nạmäwạg,” udinān.</span>
 
-282) > **"A'aaw sa\!" odinaan.**
+<span class="l-fiero">**“kiigat-awii-noochi’aanaanig namewag,” odinaan.**</span>
 
+<span class="l-eng">*“Let us go to get sturgeon!” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“kiigat-awii-noochi’aanaanig namewag,” odinaan (“let us go to catch sturgeon!” he said to him).</span>
 
-> <span class="l-gloss">"Well, all right\!" he said to her.</span>
+<span class="l-orig">(403) “Ayeᵉ!” udigōn.</span>
 
-</div>
+<span class="l-fiero">**“Aye’!” odigoon.**</span>
 
+<span class="l-eng">*“All right!” he was told.*</span>
 
-“A’aaw sa\!” odinaan (“well, all right\!” he said to her).
+<span class="l-gloss">“Aye’!” odigoon (“all right!” he was told).</span>
 
-283) > **"Kego dash paashita'oshiken," odinaan.**
+<span class="l-orig">(404) Mīdạc kīwä awi‘kwä änāt unābämạn:</span>
 
+<span class="l-fiero">**Mii dash kiiwe[nh] aw ikwe enaat onaabeman:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then they say the woman said to her husband:*</span>
 
-> <span class="l-gloss">"But don't step over me," he said to her.</span>
+<span class="l-gloss">Mii dash kiiwe[nh] aw ikwe enaat onaabeman (and then, they say, the woman said to her husband):</span>
 
-</div>
+<span class="l-orig">(405) “Aiyāngwāmisin! kīwīnîsik aᵘ; ā‘pitci mạtci∙a∙‘kiwäⁿjī∙i∙ciwi.</span>
 
+<span class="l-fiero">**“Aiyaangwaamisin! kiiwii-nisik aw; aapichi machi-akiwenzhii’ishiwi.**</span>
 
-“Kego dash paashita’oshiken,” odinaan (“but do not step over me,” he said to her).
+<span class="l-eng">*“Be careful! for he wants to kill you; he is such an awfully bad man.*</span>
 
-284) > **Mii dash keget izhi-aazhawa'onigot.**
+<span class="l-gloss">“Aiyaangwaamisin! kiiwii-nisik aw (“be careful! he wants to kill you); aapichi machi-akiwenzhii’ishiwi (he is a thoroughly evil old man).</span>
 
+<span class="l-orig">(406) Mī∙a∙‘pạnä ändōtạnk, nîsāt awiya.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii apane endootank, nisaat awiya.**</span>
 
-> <span class="l-gloss">Whereupon of a truth was she then being conveyed over to the other side.</span>
+<span class="l-eng">*That is what he is always doing, he is murdering somebody.*</span>
 
-</div>
+<span class="l-gloss">Mii apane endootank, nisaat awiya (that is what he is always doing, killing someone).</span>
 
+<span class="l-orig">(407) Aiyāngwạmisin dạc kīn!</span>
 
-Mii dash keget izhi-aazhawa’onigot (whereupon truly she was being ferried across to the other side).
+<span class="l-fiero">**Aiyaangwamisin dash kiin!**</span>
 
-285) > **Mii dash pesho chi-gabaat inendam a ikwe:  
-     > **And so, as she was about to land, then the woman thought:
+<span class="l-eng">*And now do be careful!*</span>
 
-Mii dash pesho chi-gabaat inendam a ikwe (and so, as she was about to land, the woman thought):
+<span class="l-gloss">Aiyaangwamisin dash kiin! (and so be careful, you!)</span>
 
-286) > **"Mii ji-tebikwaashkoniyaan," inendam.**
+<span class="l-orig">(408) Mīgu gägä‘t tcînisik kīcpin kägō äjimạmāndawizisīwạnän,” udinạn unābämạn awi‘kwä.</span>
 
+<span class="l-fiero">**Mii go geget chi-nisik kiishpin kego ezhi-mamaandawizisiiwanen,” odinan onaabeman aw ikwa.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*For surely will he kill you if you have not been blessed with the possession of some miraculous power,”(so) said the woman to her husband.*</span>
 
-> <span class="l-gloss">"Therefore shall I now be able to leap ashore," she thought.</span>
+<span class="l-gloss">Mii go geget chi-nisik kiishpin kego ezhi-mamaandawizisiiwanen,” odinan onaabeman aw ikwa (he will surely kill you unless you have some miraculous power,” said the woman to her husband).</span>
 
-</div>
+<span class="l-orig">(409) Mīdạc kägä‘t weyābạninig mādcāwāt, pōsiwāt, awinōtcinamäwäwāt.</span>
 
+<span class="l-fiero">**Mii dash keget weyaabaninig maajaawaat, poosiwaat, awi-noochinamewewaat.**</span>
 
-“Mii ji-tebikwaashkoniyaan,” inendam (“now I shall be able to leap ashore,” she thought).
+<span class="l-eng">*And then truly in the morning they set out, they embarked in their canoe (and) went away to hunt sturgeon.*</span>
 
-287) > **Mii dash ezhi-paashitawaat iiniw osakaasiwan pekish ani-kwaashkonit.**
+<span class="l-gloss">Mii dash keget weyaabaninig maajaawaat (and so truly in the morning they set out), poosiwaat (embarking in the canoe), awi-noochinamewewaat (going off to hunt sturgeon).</span>
 
+<span class="l-orig">(410) Pa‘kitä∙ạ∙nk utcīmān a‘kiwäjī∙i∙c, pābigä ki‘tciwâsa kītạgwicinōg; minawā paki‘tä∙ạ∙nk utcīmānic mī gīpickōnāgwạtinig; minawā ābinding upaki‘täā∙∙n utcīmān, mīdạc ä‘tạgwicinowāt äjāwāt wa‘tạjinōdci∙ā∙wāt namäwạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Pakite’ank ochiimaan akiwezhii’ish, paabige kichi-waasa kii-tagwishinoog; minawaa pakite’ank ochiimaanish mii gii-pishkoonaagwatinig; minawaa aabinding opakite’aan ochiimaan, mii dash e-tagwishinowaat ezhaawaat wa-tazhi-nooji’aawaat namewan.**</span>
 
-> <span class="l-gloss">Whereupon she stepped over Horn-Grebe at the same time that she leaped.</span>
+<span class="l-eng">*When the hateful old man struck his canoe, at once far off were they come;when again he struck his old canoe, then the sight of land went out of view;when once more he struck his canoe, then they arrived at the place where they went to get the sturgeons.*</span>
 
-</div>
+<span class="l-gloss">Pakite’ank ochiimaan akiwezhii’ish (when the hateful old man struck his canoe), paabige kichi-waasa kii-tagwishinoog (at once they were come far off); minawaa pakite’ank ochiimaanish (again he struck his miserable canoe) mii gii-pishkoonaagwatinig (then the land went out of sight); minawaa aabinding opakite’aan ochiimaan (once more he struck his canoe), mii dash e-tagwishinowaat ezhaawaat wa-tazhi-nooji’aawaat namewan (and then they arrived at the place where they would hunt sturgeon).</span>
 
+<span class="l-orig">(411) Mīdạc kīwäⁿ änāt a‘kiwäⁿjī∙i∙c:</span>
 
-Mii dash ezhi-paashitawaat iiniw osakaasiwan (whereupon she stepped over Horn-Grebe) pekish ani-kwaashkonit (at the same time as she leaped).
+<span class="l-fiero">**Mii dash kiiwenh enaat akiwenzhii’ish:**</span>
 
-288) > **Mii dash ezhi-pangishing aw ikwe naanaawaya'ii kichi-gaming.**
+<span class="l-eng">*Thereupon they say that the mean old man said to him:*</span>
 
+<span class="l-gloss">Mii dash kiiwenh enaat akiwenzhii’ish (thereupon, they say, the mean old man said to him):</span>
 
-<div class="four-layer">
+<span class="l-orig">(412) “Mī∙o∙mā kädajinōtamäwäyạng.</span>
 
-> <span class="l-gloss">And then down fell the woman into the middle of the sea.</span>
+<span class="l-fiero">**“Mii omaa ke-dazhi-nootameweyang.**</span>
 
-</div>
+<span class="l-eng">*“This is the place where we will hunt for sturgeon.*</span>
 
+<span class="l-gloss">“Mii omaa ke-dazhi-nootameweyang (“this is the place where we will hunt sturgeon).</span>
 
-Mii dash ezhi-pangishing aw ikwe naanaawaya’ii kichi-gaming (and then down fell the woman into the middle of the great water).
+<span class="l-orig">(413) Mī‘ku ōmā ändạcinōtạmäwäwā‘pan āmininīngibạnīg,” udinān unīgwạnạn.</span>
 
-289) > **Mii dash imaa ishkwaayachimint aw ikwe.**
+<span class="l-fiero">**Mii ko oomaa endashi-nootamewewaapan aamininiingibaniig,” odinaan oniigwanan.**</span>
 
+<span class="l-eng">*It was at this place where the fishermen of old always used to hunt for sturgeon,” (so) he said to his son-inlaw.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii ko oomaa endashi-nootamewewaapan aamininiingibaniig,” odinaan oniigwanan (it was here the fishermen of old always used to hunt sturgeon,” he said to his son-in-law).</span>
 
-> <span class="l-gloss">And at this point ends the story of the woman.</span>
+<span class="l-orig">(414) Ạnicādạc i‘kito aᵘ a‘kiwäⁿzī, kāwin wī‘ka awiya, ugīnōdci∙ā∙sin īni’ᵘ mạdcinạmäwạn.</span>
 
-</div>
+<span class="l-fiero">**Anishaa dash ikito aw akiwenzii, gaawiin wiika awiya, ogii-nooji’aasiin iiniw maji-namewan.**</span>
 
+<span class="l-eng">*But not the truth was the old man telling, for never had anybody hunted for that evil sturgeon.*</span>
 
-Mii dash imaa ishkwaayachimint aw ikwe (and at this point ends the telling of the woman).
+<span class="l-gloss">Anishaa dash ikito aw akiwenzii (but the old man spoke falsely), gaawiin wiika awiya, ogii-nooji’aasiin iiniw maji-namewan (for never had anyone hunted that evil sturgeon).</span>
 
-290) > **Ningoding sa kiinwenh ani-papimoset aw kwiiwisens ani-papimoomaat oshiimeyensan, omaiyaginaan ezhinaagwatinig, mitigoon kaye omaiyaginawaan.**
+<span class="l-orig">(415) Mīdạc kīwäⁿ aᵘ inini änāt:</span>
 
+<span class="l-fiero">**Mii dash kiiwenh aw inini enaat:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And it is told that the man said to him:*</span>
 
-> <span class="l-gloss">Once on a time, they say, as the boy was journeying along with his little brother upon his back, he marvelled at the sight of things, and the trees looked unfamiliar.</span>
+<span class="l-gloss">Mii dash kiiwenh aw inini enaat (and then, they say, the man said to him):</span>
 
-</div>
+<span class="l-orig">(416) “Māma‘kāda‘kamig kanagä nạmätādcikātäsimik.”</span>
 
+<span class="l-fiero">**“Maamakaadakamig kanage nametaajikaatesimik.”**</span>
 
-Ningoting sa kiinwenh ani-papimoset aw kwiiwisens (once on a time, they say, as the boy was walking along) ani-papimoomaat oshiimeyensan (carrying his little brother on his back), omaiyaginaan ezhinaagwatinig (he marveled at how things looked), mitigoon kaye omaiyaginawaan (and the trees seemed strange to him too).
+<span class="l-eng">*“It is strange that there are no signs at all of habitation.*</span>
 
-291) > **Mii dash kiiwenh enendank:  
-     > **And then they say that he thought:
+<span class="l-gloss">“Maamakaadakamig kanage nametaajikaatesimik.” (“how strange that there are no signs at all of habitation.”)</span>
 
-Mii dash kiiwenh enendank (and then, they say, he thought):
+<span class="l-orig">(417) “Mäwījakīciwäbạt, nintämi‘kawiyān.”</span>
 
-292) > **"Mii gosha maiyaginaagosiwaat ogoow mitigoog\!"**
+<span class="l-fiero">**“Mewiizha kii-[i]shiwebat, ninte-mikawiyaan.”**</span>
 
+<span class="l-eng">*“Long ago it happened, as far back as I can remember.”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Mewiizha kii-[i]shiwebat, ninte-mikawiyaan.” (“long ago it happened, as far back as I can recall.”)</span>
 
-> <span class="l-gloss">"So strange is the look of these trees\!"</span>
+<span class="l-orig">(418) “Ōⁿ!” udinān a inini.</span>
 
-</div>
+<span class="l-fiero">**“Oonh!” odinaan a inini.**</span>
 
+<span class="l-eng">*“Really!” to him said the man.*</span>
 
-“Mii gosha maiyaginaagosiwaat ogoow mitigoog\!” (“how strange these trees look\!”)
+<span class="l-gloss">“Oonh!” odinaan a inini (“really!” said the man to him).</span>
 
-293) > **Wayiiba gwa mataabii kischi-gami.**
+<span class="l-orig">(419) Mīdạc kīwäⁿ a‘kiwänzi ä‘kiditu:</span>
 
+<span class="l-fiero">**Mii dash kiiwenh akiwenzi ekidito: [ekido?]**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then they say that the old man said:*</span>
 
-> <span class="l-gloss">And in a little while he came out upon the sea.</span>
+<span class="l-gloss">Mii dash kiiwenh akiwenzi ekidito [ekido?] (and then, they say, the old man said):</span>
 
-</div>
+<span class="l-orig">(420) “Ambä, mīsa tcinōtci∙ạ∙ngwa!</span>
 
+<span class="l-fiero">**“Ambe, mii sa chi-noochi’angwa!**</span>
 
-Wayiiba gwa mataabii kischi-gami (and in a little while he came out upon the sea).
+<span class="l-eng">*“Come, let us now hunt for them!*</span>
 
-294) > **Mii desh imaa mitaawangaaning asinisikaani kaye.**
+<span class="l-gloss">“Ambe, mii sa chi-noochi’angwa! (“come, let us now hunt for them!)</span>
 
+<span class="l-orig">(421) Mayanāwa‘kwäg mī tciwâbamạgwā.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mayanaawakweg mii chi-waabamagwaa.**</span>
 
-> <span class="l-gloss">And over there on the sandy beach was also a place of pebbles.</span>
+<span class="l-eng">*Exactly at noon is the time we shall see them.*</span>
 
-</div>
+<span class="l-gloss">Mayanaawakweg mii chi-waabamagwaa (exactly at noon is when we shall see them).</span>
 
+<span class="l-orig">(422) Ā‘pitci mạmānditōwạg īgi’ᵘ namäwạg,” udinān uningwạnạn.</span>
 
-Mii desh imaa mitaawangaaning (and there on the sandy beach) asinisikaani kaye (was a place of pebbles too).
+<span class="l-fiero">**Aapichi mamaanditoowag igiw namewag,” odinaan oningwanan.**</span>
 
-295) > **Mii desh enendank 'aw kwiiwisens:  
-     > **And then thought the boy:
+<span class="l-eng">*Very big are the sturgeons,” he said to his son-in-law.*</span>
 
-Mii desh enendank ’aw kwiiwisens (and then the boy thought):
+<span class="l-gloss">Aapichi mamaanditoowag igiw namewag,” odinaan oningwanan (very big are those sturgeon,” he said to his son-in-law).</span>
 
-296) > **"Ninga-pagitoomaa oomaanh nishiimeyens.  
-     > **"I am going to put my little brother down at this place.
+<span class="l-orig">(423) Mīdec äjimādcāwāt bāwi‘tigunk.</span>
 
-“Ninga-pagitoomaa oomaanh nishiimeyens (“I will set my little brother down here).
+<span class="l-fiero">**Mii desh ezhi-maajaawaat baawitigonk.**</span>
 
-297) > **Ninga-watami'aa," inendam kiiwenh.**
+<span class="l-eng">*And then they started for the rapids.*</span>
 
+<span class="l-gloss">Mii desh ezhi-maajaawaat baawitigonk (and then they started for the rapids).</span>
 
-<div class="four-layer">
+<span class="l-orig">(424) “Mīwiti ijān nāwādciwạn,” udinān.</span>
 
-> <span class="l-gloss">I will play with him to amuse him," was his thought, so they say.</span>
+<span class="l-fiero">**“Mii witi izhaan naawaajiwan,” odinaan.**</span>
 
-</div>
+<span class="l-eng">*“Over there you go at the middle of the rapids,” he said to him.*</span>
 
+<span class="l-gloss">“Mii witi izhaan naawaajiwan,” odinaan (“go over there to the middle of the rapids,” he said to him).</span>
 
-Ninga-watami’aa,” inendam kiiwenh (I will amuse him,” he thought, so they say).
+<span class="l-orig">(425) “Nīndạc ōmā ningạtagum,” udinān.</span>
 
-298) > **Mii desh keget ezhi-pagitoomaat; miish imaa ezhi-aaswaakokimaat kaye odaabaa'amowaan kaye anikesini.**
+<span class="l-fiero">**“Niin dash oomaa ningat-agom,” odinaan.**</span>
 
+<span class="l-eng">*“And here will I remain in the canoe,” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Niin dash oomaa ningat-agom,” odinaan (“and I will stay here in the canoe,” he said to him).</span>
 
-> <span class="l-gloss">And it was true that he let him down; and there he set him (in his cradle-board) against a tree, and set free his little arms.</span>
+<span class="l-orig">(426) Mīdạc kägä‘t aᵘ inini äjikạbāt, icāt iwiti nāwādciwạn.</span>
 
-</div>
+<span class="l-fiero">**Mii dash keget aw inini ezhi-kabaat, ishaat iwiti naawaajiwan.**</span>
 
+<span class="l-eng">*And then truly the man went ashore, he went yonder to the middle of the rapids.*</span>
 
-Mii desh keget ezhi-pagitoomaat (and so truly he set him down); miish imaa ezhi-aaswaakokimaat (and there he leaned him in his cradle-board against a tree) kaye odaabaa’amowaan kaye anikesini (and freed his little arms too).
+<span class="l-gloss">Mii dash keget aw inini ezhi-kabaat (and so truly the man went ashore), ishaat iwiti naawaajiwan (going out there to the middle of the rapids).</span>
 
-299) > **Mii desh ezhi-moozhiginamowaat asiniinsan wii-kiishkowe'aat oshiimenyan.**
+<span class="l-orig">(427) Pitcīnạgidacigu kīwäⁿ kā∙ạ∙nitạgwicing imā kā∙i∙nint tci∙i∙cāt, mīnōndawāt pīpāginit ucimisạn i‘kidunit:</span>
 
+<span class="l-fiero">**Pichiinag idash igo kiiwenh kaa-ani-tagwishing imaa kaa-inint chi-ishaat, mii noondawaat piipaaginit oshimisan ikidonit:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And as soon, they say, as he was come at the place where he was told to go, then he heard his father-in-law calling aloud, saying:*</span>
 
-> <span class="l-gloss">He gathered pebbles for his little brother to keep him quiet.</span>
+<span class="l-gloss">Pichiinag idash igo kiiwenh kaa-ani-tagwishing imaa kaa-inint chi-ishaat (and as soon, they say, as he reached the place where he was told to go), mii noondawaat piipaaginit oshimisan ikidonit (then he heard his father-in-law calling aloud, saying):</span>
 
-</div>
+<span class="l-orig">(428) “Mîcinạmägwätug!</span>
 
+<span class="l-fiero">**“Mishinamegwetog!**</span>
 
-Mii desh ezhi-moozhiginamowaat asiniinsan (then he gathered up little pebbles for him) wii-kiishkowe’aat oshiimenyan (to keep his little brother quiet).
+<span class="l-eng">*“O ye Great-Sturgeons!*</span>
 
-300) > **Mii dash imaa eyeyaawaat, owadami'aat oshimeyensan.**
+<span class="l-gloss">“Mishinamegwetog! (“O you Great-Sturgeons!)</span>
 
+<span class="l-orig">(429) Kitacạmininim inini!” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Kitashamininim inini!” odinaan.**</span>
 
-> <span class="l-gloss">And there they remained, (and) he entertained his little brother.</span>
+<span class="l-eng">*I feed you a man,” (thus) he said to them.*</span>
 
-</div>
+<span class="l-gloss">Kitashamininim inini!” odinaan (I feed you a man!” he said to them).</span>
 
+<span class="l-orig">(430) Mīdạc cigu kayä pa‘kitä∙ạ∙nk utcīmān.</span>
 
-Mii dash imaa eyeyaawaat (and there they stayed), owadami’aat oshimeyensan (and he amused his little brother).
+<span class="l-fiero">**Mii dash shigo gaye pakite’ank ochiimaan.**</span>
 
-301) > **Ningoting ooma a'eyaawaat owandamiiwe'aat oshimeyensan paanimaa go awiya pachekisenit imaa ayaa tibishko; akiwenziiyan.**
+<span class="l-eng">*And then he also struck his canoe.*</span>
 
+<span class="l-gloss">Mii dash shigo gaye pakite’ank ochiimaan (and then he also struck his canoe).</span>
 
-<div class="four-layer">
+<span class="l-orig">(431) Awidạc inini inābit; panägu kābitāwạninit mîcînamäwạn wī‘kumigut.</span>
 
-> <span class="l-gloss">Once while they were continuing there, and he was keeping company with his little brother to prevent him from crying, of a sudden somebody slid inshore with his canoe directly opposite to where they were; it was an old man.</span>
+<span class="l-fiero">**Aw idash inini inaabit; pane go kaa-bitaawaninit miishinamewan wii-komigot.**</span>
 
-</div>
+<span class="l-eng">*Thereupon the man looked; and there, with wide-open mouth, was a Great-Sturgeon ready to swallow him.*</span>
 
+<span class="l-gloss">Aw idash inini inaabit (thereupon the man looked); pane go kaa-bitaawaninit miishinamewan wii-komigot (and there a Great-Sturgeon, mouth wide open, was about to swallow him).</span>
 
-Ningoting ooma a’eyaawaat owandamiiwe’aat oshimeyensan (once, while they were there and he was keeping his little brother company) paanimaa go awiya pachekisenit imaa ayaa tibishko (when of a sudden someone slid inshore directly opposite where they were); akiwenziiyan (it was an old man).
+<span class="l-orig">(432) Mīc kīwäⁿ awinini äjikạnōnāt:</span>
 
-302) > **Mii dash kiiwenh egoowaat:  
-     > **Thereupon it is said that they were asked:
+<span class="l-fiero">**Mish kiiwenh aw inini ezhi-kanoonaat:**</span>
 
-Mii dash kiiwenh egoowaat (thereupon, they say, they were asked):
+<span class="l-eng">*And they say the man spoke to him, saying:*</span>
 
-303) > **"Wegonen weshitooyeg imaa?" odigoowaan.**
+<span class="l-gloss">Mish kiiwenh aw inini ezhi-kanoonaat (and they say the man spoke to him):</span>
 
+<span class="l-orig">(433) “Tcī, tcī, tcī, nimicōmis!</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Chii, chii, chi, nimishoomis!**</span>
 
-> <span class="l-gloss">"What are you doing there?" they (thus) were asked.</span>
+<span class="l-eng">*“Wait, wait, wait, O my grandfather!*</span>
 
-</div>
+<span class="l-gloss">“Chii, chii, chi, nimishoomis! (“wait, wait, wait, my grandfather!)</span>
 
+<span class="l-orig">(434) Kigīcawänimimiwābạn,” udinān.</span>
 
-“Wegonen weshitooyeg imaa?” odigoowaan (“what are you doing there?” they were asked).
+<span class="l-fiero">**Kigii-shawenimimiwaaban,” odinaan.**</span>
 
-304) > **Odinaan dash kwiiwisens:  
-     > **Whereupon the boy answered him:
+<span class="l-eng">*You have taken pity upon me in times past,” he said to him.*</span>
 
-Odinaan dash kwiiwisens (whereupon the boy answered him):
+<span class="l-gloss">Kigii-shawenimimiwaaban,” odinaan (you have pitied me in times past,” he said to him).</span>
 
-305) > **"Kaawiin kegoo, nintootamino'aa nishiimeyens mawit," odinaan.**
+<span class="l-orig">(435) Mīdạc īngi’ᵘ mīcinạmäwạg kā∙i∙nōgīwāt, kīcawänimigut.</span>
 
+<span class="l-fiero">**Mii dash iingiw miishinamewag kaa-inoogiiwaat, kii-shawenimigot.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Whereupon the Great-Sturgeons withdrew (into the deep), for he was pitied by them.*</span>
 
-> <span class="l-gloss">"Nothing, I am amusing my little brother when he cries," he (thus) said to him.</span>
+<span class="l-gloss">Mii dash iingiw miishinamewag kaa-inoogiiwaat (whereupon the Great-Sturgeons drew back into the deep), kii-shawenimigot (for he was pitied by them).</span>
 
-</div>
+<span class="l-orig">(436) Mīdạc minawā kīwäⁿ kā∙i∙cikạnōnāt, kī∙i∙nāt:</span>
 
+<span class="l-fiero">**Mii dash minawaa kiiwenh kaa-ishikanoonaat, kii-inaat:**</span>
 
-“Kaawiin kegoo, nintootamino’aa nishiimeyens mawit,” odinaan (“nothing, I am amusing my little brother when he cries,” he said to him).
+<span class="l-eng">*And then again, so they say, did he speak to one, saying:*</span>
 
-306) > **Mii desh kiiwenh aw akiwenzii enaat:  
-     > **And then they say that the old man said to him:
+<span class="l-gloss">Mii dash minawaa kiiwenh kaa-ishikanoonaat, kii-inaat (and then again, they say, he spoke to one, saying):</span>
 
-Mii desh kiiwenh aw akiwenzii enaat (and then, they say, the old man said to him):
+<span class="l-orig">(437) “Nîmicōmis! kīwäwicicin ändāyān,” udinān; “kayä dạc kīgạmīc wänicicig mīdcîm kägīwäwītawạgwā ninītcānisạg,” udinān.</span>
 
-307) > **"Nashke oogowe asinisag, onishishiwag\!" odinaan.**
+<span class="l-fiero">**“Nimishoomis! kiiwewishishin endaayaan,” odinaan; “ gaye dash kiigamiish wenishishig miijim ke-giiwewiitawagwaa niniichaanisag,” odinaan.**</span>
 
+<span class="l-eng">*“O my grandfather! carry me back to my home,” (thus) he said to him; “and I will give you whatever choice food that I may have to take home to my children,” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Nimishoomis! kiiwewishishin endaayaan,” odinaan (“my grandfather! carry me back home,” he said to him); “gaye dash kiigamiish wenishishig miijim ke-giiwewiitawagwaa niniichaanisag,” odinaan (and I will give you whatever choice food I may take home to my children,” he said to him).</span>
 
-> <span class="l-gloss">"Just you look at these pebbles, they are pretty\!" he said to him.</span>
+<span class="l-orig">(438) Nīcinigobạn unītcānisaᵉ awinini.</span>
 
-</div>
+<span class="l-fiero">**Niishinigoban oniichaanisa’ aw inini.**</span>
 
+<span class="l-eng">*At the time two were the children the man had.*</span>
 
-“Nashke oogowe asinisag, onishishiwag\!” odinaan (“just look at these pebbles, they are pretty\!” he said to him).
+<span class="l-gloss">Niishinigoban oniichaanisa’ aw inini (the man had two children at the time).</span>
 
-308) > **Aw idash kiiwenh kwiiwisens kaawiin wii-izhaasii.**
+<span class="l-orig">(439) Mīdạc kīwäⁿ ägut īni’ᵘ mîcinamäwạn: “</span>
 
+<span class="l-fiero">**Mii dash kiiwenh egot iiniw mishinamewan:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then they say that he was told by the Great-Sturgeon:*</span>
 
-> <span class="l-gloss">And it is said that the boy was not willing to go.</span>
+<span class="l-gloss">Mii dash kiiwenh egot iiniw mishinamewan (and then, they say, he was told by the Great-Sturgeon):</span>
 
-</div>
+<span class="l-orig">(440) ‘Aᵘ!” udigōn; “kigāgumin.”  
+“</span>
 
+<span class="l-fiero">**“ ’Aw!” odigoon; “kigaa-gomin.”**</span>
 
-Aw idash kiiwenh kwiiwisens kaawiin wii-izhaasii (but the boy, they say, did not want to go).
+<span class="l-eng">*“All right!” (thus) he was told; “I will swallow you.”*</span>
 
-309) > **"Mii goo tepisewaat oogow asinisag wedaminwaanaat, " odinaan.**
+<span class="l-gloss">“’Aw!” odigoon (“all right!” he was told); “kigaa-gomin.” (“I will swallow you.”)</span>
 
+<span class="l-orig">(441) ‘A!” i‘kito kayä wīn inini; “pōtcinạngä nimpimātis,” inändạm awinini.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“A!” ikito gaye wiin inini; “pooch inange nimpimaatis,” inendam aw inini.**</span>
 
-> <span class="l-gloss">"That is all right, for of sufficient pleasure are these little stones which he fondles in his hands," (thus) said he to him.</span>
+<span class="l-eng">*“All right!” likewise said the man, on his part; “for such indeed is my fate,” (so) thought the man.*</span>
 
-</div>
+<span class="l-gloss">“A!” ikito gaye wiin inini (“all right!” said the man for his part); “pooch inange nimpimaatis,” inendam aw inini (“for such indeed is my fate,” thought the man).</span>
 
+<span class="l-orig">(442) Mīdạc kägä‘t äjikumigut.</span>
 
-“Mii goo tepisewaat oogow asinisag wedaminwaanaat,” odinaan (“these little stones he plays with are pleasing enough,” he said to him).
+<span class="l-fiero">**Mii dash keget ezhi-komigot.**</span>
 
-310) > **"Nawach oogawe onishishiwag," odigoon.**
+<span class="l-eng">*And then truly was he swallowed.*</span>
 
+<span class="l-gloss">Mii dash keget ezhi-komigot (and then truly he was swallowed).</span>
 
-<div class="four-layer">
+<span class="l-orig">(443) Mīdạc mi‘kwändạm ändāwāt āja nạngwana tagwicing.</span>
 
-> <span class="l-gloss">"But these are prettier," he was told.</span>
+<span class="l-fiero">**Mii dash mikwendam endaawaat aazha nangwana tagwishing.**</span>
 
-</div>
+<span class="l-eng">*And now he was mindful that at home was he truly arriving.*</span>
 
+<span class="l-gloss">Mii dash mikwendam endaawaat aazha nangwana tagwishing (and now he sensed that he was truly arriving home).</span>
 
-“Nawach oogawe onishishiwag,” odigoon (“but these are prettier,” he was told).
+<span class="l-orig">(444) Mīdạc kạnōnigut omicōmisạn igut:</span>
 
-311) > **Aaniish kaawiin kiiwenh kwiiwisens wii-izhaasii.**
+<span class="l-fiero">**Mii dash kanoonigot omishoomisan igot:**</span>
 
+<span class="l-eng">*And then he was addressed by his grandfather saying:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kanoonigot omishoomisan igot (and then he was addressed by his grandfather, saying):</span>
 
-> <span class="l-gloss">Now, they say that the boy was not anxious to go over there.</span>
+<span class="l-orig">(445) “Sạgicigwạnän aᵘ nạmä!” udigon.</span>
 
-</div>
+<span class="l-fiero">**“Sagishigwanen aw name!” odigon.**</span>
 
+<span class="l-eng">*“Seize that sturgeon by the tail!” he was told.*</span>
 
-Aaniish kaawiin kiiwenh kwiiwisens wii-izhaasii (now the boy, they say, did not want to go over there).
+<span class="l-gloss">“Sagishigwanen aw name!” odigon (“seize that sturgeon by the tail!” he was told).</span>
 
-312) > **"Nashke oogoow, pi-naasikaw\!" odigoon.**
+<span class="l-orig">(446) Mīdạc kägä‘t aᵘ inini äjisạgicigunänāt, mīdạc äcicacigākuwānigut īni’ᵘ mîcnạmäwạn; mīdạc iwiti ä‘kumi‘takamigāning pạngicin.</span>
 
+<span class="l-fiero">**Mii dash keget aw inini ezhi-sagishigonenaat; mii dash eshi-shashigaakowaanigot iiniw mishnamewan; mii dash iwiti eko mitakamigaaning pangishin.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Thereupon the man truly took hold of the tail with his hand, and then was he cast up from the belly of the Great-Sturgeon; and so there upon the shore he fell.*</span>
 
-> <span class="l-gloss">"Just look at these, come get them\!" he was told.</span>
+<span class="l-gloss">Mii dash keget aw inini ezhi-sagishigonenaat (and then truly the man took hold of the tail); mii dash eshi-shashigaakowaanigot iiniw mishnamewan (whereupon he was cast up out of the Great-Sturgeon’s belly); mii dash iwiti eko mitakamigaaning pangishin (and so there upon the shore he fell).</span>
 
-</div>
+<span class="l-orig">(447) Kāwīn kanagä nibīwisī, unamämạn kayä usạgicikunänān.</span>
 
+<span class="l-fiero">**Gaawiin kanage nibiiwisii, onameman gaye osagishikonenaan.**</span>
 
-“Nashke oogoow, pi-naasikaw\!” odigoon (“just look at these, come and get them\!” he was told).
+<span class="l-eng">*He was not wet, and his sturgeon he held by the tail.*</span>
 
-313) > **"Kaawin," odinaan kwiiwisens; "ta-mawi nishiimeyens pasigwiiyaan," odinaan.**
+<span class="l-gloss">Gaawiin kanage nibiiwisii (he was not wet at all), onameman gaye osagishikonenaan (and his sturgeon he held by the tail).</span>
 
+<span class="l-orig">(448) Mīdạc mạmīgwä‘tciwi∙ā∙t umicōmisạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash mamiigwechiwi’aat omishoomisan.**</span>
 
-> <span class="l-gloss">"No," said the boy to him; "to crying will go my little brother if I rise to my feet," said he to him.</span>
+<span class="l-eng">*Thereupon he gave thanks to his grandfather.*</span>
 
-</div>
+<span class="l-gloss">Mii dash mamiigwechiwi’aat omishoomisan (thereupon he gave thanks to his grandfather).</span>
 
+<span class="l-orig">(449) Mīdạc mādcāt mîcinạmä kayä dạc änigu‘pīt.</span>
 
-“Kaawin,” odinaan kwiiwisens (“no,” said the boy to him); “ta-mawi nishiimeyens pasigwiiyaan,” odinaan (“my little brother will cry if I stand up,” he said to him).
+<span class="l-fiero">**Mii dash maajaat mishiname gaye dash ani-gopiit.**</span>
 
-314) > **"Aa, kaawiin\!" odinaan; "kaawiin ta-maawisii," odigoon iiniw akiwenzhii'ishan.**
+<span class="l-eng">*And when the Great-Sturgeon departed, then he too went up from the shore.*</span>
 
+<span class="l-gloss">Mii dash maajaat mishiname (and when the Great-Sturgeon departed) gaye dash ani-gopiit (then he too went up from the shore).</span>
 
-<div class="four-layer">
+<span class="l-orig">(450) Wâwicändạnk kipimātisit.</span>
 
-> <span class="l-gloss">"Oh, no\!" he said to him; "he will not cry," he was told by that hateful old man.</span>
+<span class="l-fiero">**Waawishendank ki-pimaatisit.**</span>
 
-</div>
+<span class="l-eng">*He was proud for that he had been saved.*</span>
 
+<span class="l-gloss">Waawishendank ki-pimaatisit (he was glad that he had been saved).</span>
 
-“Aa, kaawiin\!” odinaan (“oh, no\!” he said to him); “kaawiin ta-maawisii,” odigoon iiniw akiwenzhii’ishan (“he won’t cry,” he was told by that wretched old man).
+<span class="l-orig">(451) Mīdạc ạnipīndigät ändāwāt, ōgucku∙ā∙n wīwan, kayä kạnōnigut:</span>
 
-315) > **Minawaa awanjish odigoon, "Pi-naasikaw\!" odigoon.**
+<span class="l-fiero">**Mii dash ani-piindiget endaawaat, oogoshko’aan wiiwan, gaye kanoonigot:**</span>
 
+<span class="l-eng">*And when he entered into the place where they lived, he surprised his wife. And he was addressed by her saying:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash ani-piindiget endaawaat (and when he entered the place where they lived), oogoshko’aan wiiwan (he surprised his wife), gaye kanoonigot (and he was addressed by her):</span>
 
-> <span class="l-gloss">Again was he urged by the other: "Come and get them\!" he was told.</span>
+<span class="l-orig">(452) “Ānīn!” udigōn.</span>
 
-</div>
+<span class="l-fiero">**“Aaniin!” odigoon.**</span>
 
+<span class="l-eng">*“What!” he was told.*</span>
 
-Minawaa awanjish odigoon (again the other urged him), “Pi-naasikaw\!” odigoon (“come and get them\!” he was told).
+<span class="l-gloss">“Aaniin!” odigoon (“what!” he was asked).</span>
 
-316) > **Mii dash kegapi aw kwiiwisens ezhi-pasigwiit kagwaanisakwewan dash oshiimenyensan mawinit.**
+<span class="l-orig">(453) “Āntic kiwītcīwāgạn?”</span>
 
+<span class="l-fiero">**“Aantish kiwiichiiwaagan?”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Where is your companion?”*</span>
 
-> <span class="l-gloss">And then at last, when the boy rose to his feet, with a fearful scream his little brother gave vent.</span>
+<span class="l-gloss">“Aantish kiwiichiiwaagan?” (“where is your companion?”)</span>
 
-</div>
+<span class="l-orig">(454) Ininidạc i‘kito:</span>
 
+<span class="l-fiero">**Inini dash ikito:**</span>
 
-Mii dash kegapi aw kwiiwisens ezhi-pasigwiit (and then at last, when the boy rose to his feet) kagwaanisakwewan dash oshiimenyensan mawinit (his little brother gave a fearful scream).
+<span class="l-eng">*And the man said:*</span>
 
-317) > **Mii desh minawaa neyaap azhi-wawenapit.**
+<span class="l-gloss">Inini dash ikito (and the man said):</span>
 
+<span class="l-orig">(455) “Ānīni!” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Aaniini!” odinaan.**</span>
 
-> <span class="l-gloss">And then down again he sat.</span>
+<span class="l-eng">*“Why!” he said to her.*</span>
 
-</div>
+<span class="l-gloss">“Aaniini!” odinaan (“why!” he said to her).</span>
 
+<span class="l-orig">(456) “Mīna tcipwādạgwicing?</span>
 
-Mii desh minawaa neyaap azhi-wawenapit (and then down again he sat).
+<span class="l-fiero">**“Mii na chi-pwaa-dagwishing?**</span>
 
-318) > **Mii dash aw akiwezhiiyish ezhi-kichi-paapit; paapi'aat iiniw apinoochiiyan inaat iiniw pekish kwiiwizensan:  
-     > **At that the old man laughed aloud; he made fun of the children, saying at the same time to the boy:
+<span class="l-eng">*“Is it possible that he has not yet arrived?*</span>
 
-Mii dash aw akiwezhiiyish ezhi-kichi-paapit (at that the wretched old man laughed aloud); paapi’aat iiniw apinoochiiyan (mocking the children) inaat iiniw pekish kwiiwizensan (at the same time saying to the boy):
+<span class="l-gloss">“Mii na chi-pwaa-dagwishing? (“is it possible he has not yet arrived?)</span>
 
-319) > **"Anishaa mawi.  
-     > **"Just for nothing is he crying.
+<span class="l-orig">(457) Mäwija wīn kī‘pimādcābạn,” udinān wīwạn.</span>
 
-“Anishaa mawi (“he cries for nothing).
+<span class="l-fiero">**Mewiizha wiin kii-pimaajaaban,” odinaan wiiwan.**</span>
 
-320) > **Pi-naasikaw oogow asiniinsan, onishishiwag chi-odaminwaanaat kishiimenh\!" odinaan.**
+<span class="l-eng">*Long ago was it since he himself started on his way back,” he said to his wife.*</span>
 
+<span class="l-gloss">Mewiizha wiin kii-pimaajaaban,” odinaan wiiwan (long ago did he start on his way back,” he said to his wife).</span>
 
-<div class="four-layer">
+<span class="l-orig">(458) Mīdạc änāt:</span>
 
-> <span class="l-gloss">Come get these little stones, pretty are they for your little brother to play with\!" (thus) he said to him.</span>
+<span class="l-fiero">**Mii dash enaat:**</span>
 
-</div>
+<span class="l-eng">*And then he said to her:*</span>
 
+<span class="l-gloss">Mii dash enaat (and then he said to her):</span>
 
-Pi-naasikaw oogow asiniinsan (come get these little stones), onishishiwag chi-odaminwaanaat kishiimenh\!” odinaan (they are pretty for your little brother to play with\!” he said to him).
+<span class="l-orig">(459) “Tcībā‘kwän!” udinān wīwạn.</span>
 
-321) > **Mii dash ezhi-pasigwiit minawaa; mii go minawaa enwet aw apinoochiiyens.**
+<span class="l-fiero">**“Chiibakwen!” odinaan wiiwan.**</span>
 
+<span class="l-eng">*“Cook some food!” he said to his wife.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Chiibakwen!” odinaan wiiwan (“cook some food!” he said to his wife).</span>
 
-> <span class="l-gloss">And then up he rose to his feet again, and once more cried the little baby.</span>
+<span class="l-orig">(460) “Ạgamīng ningīnạgạnā nạmä.”</span>
 
-</div>
+<span class="l-fiero">**“Agamiing ningii-naganaa name.”**</span>
 
+<span class="l-eng">*“Down by the water have I left a sturgeon.”*</span>
 
-Mii dash ezhi-pasigwiit minawaa (and then he rose to his feet again); mii go minawaa enwet aw apinoochiiyens (and once more the little baby cried).
+<span class="l-gloss">“Agamiing ningii-naganaa name.” (“down by the water I have left a sturgeon.”)</span>
 
-322) > **Mii dash awanjish ezhi-izhaat iiniw akiwenziiyan.**
+<span class="l-orig">(461) Mīdạc pasingutcisät awi‘kwä.</span>
 
+<span class="l-fiero">**Mii dash pasingochiset aw ikwe.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then up leaped the woman.*</span>
 
-> <span class="l-gloss">Yet nevertheless he went over to where the old man was.</span>
+<span class="l-gloss">Mii dash pasingochiset aw ikwe (and then up leaped the woman).</span>
 
-</div>
+<span class="l-orig">(462) Ạni∙u∙dā‘pināt uda‘ki‘kōm.</span>
 
+<span class="l-fiero">**Ani-odaapinaat odakikoom.**</span>
 
-Mii dash awanjish ezhi-izhaat iiniw akiwenziiyan (yet nevertheless he went over to the old man).
+<span class="l-eng">*She went, taking her kettle.*</span>
 
-323) > **Mii dash kiinwe enaat aw kwiiwizwns:  
-     > **And they say that to him said the boy:
+<span class="l-gloss">Ani-odaapinaat odakikoom (she went, taking her kettle).</span>
 
-Mii dash kiinwe enaat aw kwiiwizwns (and then, they say, the boy said to him):
+<span class="l-orig">(463) Mīdạc änitagwicing agạmīng inābit imā kīpagudînānit nạmäwạn unābämạn, ä‘pīticininit namäwaᵉ!</span>
 
-324) > **"Kaawiin awashiime onishishinsiiwag oogoow asiniinsag," odinaan.**
+<span class="l-fiero">**Mii dash eni-tagwishing agamiing inaabit imaa kii-pagodinaanit namewan onaabeman, epiitishininit namewa’!**</span>
 
+<span class="l-eng">*And when she reached the shore, she looked at the place where her husband had put the sturgeon, and what a huge pile of sturgeons there was!*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash eni-tagwishing agamiing inaabit imaa kii-pagodinaanit namewan onaabeman (and when she reached the shore, she looked where her husband had set down the sturgeon), epiitishininit namewa’! (and what a huge pile of sturgeon there was!)</span>
 
-> <span class="l-gloss">"Not any prettier are these stones," he said to him.</span>
+<span class="l-orig">(464) Ki‘tciminwändạm awi‘kwä.</span>
 
-</div>
+<span class="l-fiero">**Kichi-minwendam aw ikwe.**</span>
 
+<span class="l-eng">*Very happy was the woman.*</span>
 
-“Kaawiin awashiime onishishinsiiwag oogoow asiniinsag,” odinaan (“these stones are no prettier,” he said to him).
+<span class="l-gloss">Kichi-minwendam aw ikwe (very happy was the woman).</span>
 
-325) > **"Oogowe se," odigoon iiniw akiwezhi'ishan.**
+<span class="l-orig">(465) Ku‘piki‘tōd näyāp awi‘kwä, ạni∙i∙nāt umisäyạn:</span>
 
+<span class="l-fiero">**Kopikitood neyaap aw ikwe, ani-inaat omiseyan:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Running back up from the shore, the woman went, and said to her elder sister:*</span>
 
-> <span class="l-gloss">"But these are," was he told by the malicious old man.</span>
+<span class="l-gloss">Kopikitood neyaap aw ikwe (running back up from the shore the woman went), ani-inaat omiseyan (saying to her elder sister):</span>
 
-</div>
+<span class="l-orig">(466) “Umbä! kigīki‘tcinibäkwa∙i∙gomin!”</span>
 
+<span class="l-fiero">**“Ombe! kigii-kichi-nibekwa’igomin!”**</span>
 
-“Oogowe se,” odigoon iiniw akiwezhi’ishan (“but these are,” he was told by the malicious old man).
+<span class="l-eng">*“Come! he has fetched us a bountiful supply of food.”*</span>
 
-326) > **"Oogowe, oogowe nintabwiing ningat-asaag," odigoon.**
+<span class="l-gloss">“Ombe! kigii-kichi-nibekwa’igomin!” (“come! he has fetched us a bountiful supply of food!”)</span>
 
+<span class="l-orig">(467) Pasiguntcisägwän kayä wīn umisä∙i∙mā, ạnināzibīpa‘tōd.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Pasigonchisegwen gaye wiin omise’imaa, ani-naazibiipatiod.**</span>
 
-> <span class="l-gloss">"These here, these will I place upon my paddle," he was told.</span>
+<span class="l-eng">*Then up must have leaped also her elder sister, for down the path to the water she went running.*</span>
 
-</div>
+<span class="l-gloss">Pasigonchisegwen gaye wiin omise’imaa (then up too must have leaped her elder sister), ani-naazibiipatiod (for down the path to the water she went running).</span>
 
+<span class="l-orig">(468) Mīdạc kayä wīn wâbạmāt nībiwa namäwaᵉ.</span>
 
-“Oogowe, oogowe nintabwiing ningat-asaag,” odigoon (“these here, these I will set on my paddle,” he was told).
+<span class="l-fiero">**Mii dash gaye wiin waabamaat niibiwa namewa’.**</span>
 
-327) > **"Pi-wodaapin dash\!" odigoon kiiwe.**
+<span class="l-eng">*And she also saw the many sturgeons.*</span>
 
+<span class="l-gloss">Mii dash gaye wiin waabamaat niibiwa namewa’ (and she too saw the many sturgeon).</span>
 
-<div class="four-layer">
+<span class="l-orig">(469) Tābickō mōdcigiswāt.</span>
 
-> <span class="l-gloss">"Do come and take them\!" he was told, so they say.</span>
+<span class="l-fiero">**Taabishkoo moojigiswaat.**</span>
 
-</div>
+<span class="l-eng">*Both were pleased.*</span>
 
+<span class="l-gloss">Taabishkoo moojigiswaat (both were glad).</span>
 
-“Pi-wodaapin dash\!” odigoon kiiwe (“so come and take them\!” he was told, they say).
+<span class="l-orig">(470) Mīdạc kīwäⁿ awinini änändạnk:</span>
 
-328) > **"Kaawiin nishiimenh mawi," ikito kwiiwisens.**
+<span class="l-fiero">**Mii dash kiiwenh aw inini enendank:**</span>
 
+<span class="l-eng">*And now they say that the man thought:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw inini enendank (and now, they say, the man thought):</span>
 
-> <span class="l-gloss">"No, my little brother is crying," said the boy.</span>
+<span class="l-orig">(471) “Wägunän ā‘pidci wändcimōdcigisiwāt?” inändạm.</span>
 
-</div>
+<span class="l-fiero">**“Wegonen aapiji wenji-moojigisiwaat?” inendam.**</span>
 
+<span class="l-eng">*“Why are they so very happy?” he thought.*</span>
 
-“Kaawiin nishiimenh mawi,” ikito kwiiwisens (“no, my little brother is crying,” said the boy).
+<span class="l-gloss">“Wegonen aapiji wenji-moojigisiwaat?” inendam (“why are they so very happy?” he thought).</span>
 
-329) > **Awanjishi aw akiwanzhii'ish aapiji omigiskoskaazomaan iiniw kwiiwisensan, inaat:  
-     > **But in spite of all, the devilish old man kept on insisting with the boy to take them, saying:
+<span class="l-orig">(472) Mīgu’ īni’ᵘ mä‘kwänimāt päji‘k pāpināt nạmäwạn; kāwīn kayä wīn ogi‘kändạⁿzīn, kāwīn dạc kayä kägō wī∙i∙kī‘kitusī.</span>
 
-Awanjishi aw akiwanzhii’ish aapiji omigiskoskaazomaan iiniw kwiiwisensan (but in spite of all the devilish old man kept pestering the boy), inaat (saying):
+<span class="l-fiero">**Mii go iiniw mekwenimaat pezhik paapinaat namewan; gaawiin gaye wiin ogikendanziin, gaawiin dash gaye kegoo wii-kiikitosii.**</span>
 
-330) > **"Awanjish pi-odaapin\!  
-     > **"Anyway, come and take them\!
+<span class="l-eng">*He had in mind only the one sturgeon that he had fetched; for he did not know about (the vast quantity of fish), and he also did not wish to say anything (about his adventure).*</span>
 
-“Awanjish pi-odaapin\! (“anyway, come and take them\!)
+<span class="l-gloss">Mii go iiniw mekwenimaat pezhik paapinaat namewan (he had in mind only the single sturgeon he had brought); gaawiin gaye wiin ogikendanziin (for he did not know about the rest), gaawiin dash gaye kegoo wii-kiikitosii (and he did not wish to say anything either).</span>
 
-331) > **Ningat-asaag nintabwiing."**
+<span class="l-orig">(473) Mīdạc kīwäⁿ īngi’ᵘ i‘kwäg wäwīp kī∙u∙ci∙ā∙wāt īni’ᵘ namäwaᵉ; kīnamä‘tä‘ku‘kānāwāt; kī∙ạ∙gōnāwāt ạgwatcīng kayä pīndig ändāwāt.</span>
 
+<span class="l-fiero">**Mii dash kiiwenh iingiw ikweg wewiip kii-oshi’aawaat iiniw namewa’; kii-nametekokaanaawaat; kii-agoonaawaat agwachiing gaye piindig endaawaat.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then they say that the women quickly prepared the sturgeons for use;they smoked them upon drying-frames;they hung them up out of doors and inside of where they dwelt.*</span>
 
-> <span class="l-gloss">I will put them upon my paddle."</span>
+<span class="l-gloss">Mii dash kiiwenh iingiw ikweg wewiip kii-oshi’aawaat iiniw namewa’ (and then, they say, the women quickly prepared the sturgeon); kii-nametekokaanaawaat (they smoked them on drying-frames); kii-agoonaawaat agwachiing gaye piindig endaawaat (they hung them up outside and inside where they lived).</span>
 
-</div>
+<span class="l-orig">(474) Mīdạc kiwīsiniwāt nībiwa, kayä nạmäwi‘tāmbīn ugī∙ā∙mwāwān.</span>
 
+<span class="l-fiero">**Mii dash ki[i]-wiisiniwaat niibiwa, gaye namewitaambiin ogii-aamwaawaan.**</span>
 
-Ningat-asaag nintabwiing.” (I will set them on my paddle.”)
+<span class="l-eng">*And then they had a great deal to eat, and [the spinal cord] of sturgeon they ate.*</span>
 
-332) > **Mii dash kegapii minawaa ezhi-izhaat, mii desh kegapii ezhi-izhaat awi-odaapinaat asiniinsan.**
+<span class="l-gloss">Mii dash ki[i]-wiisiniwaat niibiwa (and then they had much to eat), gaye namewitaambiin ogii-aamwaawaan (and the spinal cord of the sturgeon they ate).</span>
 
+<span class="l-orig">(475) Ingi’yudạc ạbinōdcī∙ạ∙g upapā∙a∙īndanamāwān īni’ᵘ wa‘tāmbīn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Iingiy odash abinoojii’ag opapaa-a’iindanamaawaan iiniw wataambiin.**</span>
 
-> <span class="l-gloss">And then at last once more he started, and so finally over he went to take the pebbles.</span>
+<span class="l-eng">*And the children went about outside, eating the spinal cord.*</span>
 
-</div>
+<span class="l-gloss">Iingiy odash abinoojii’ag opapaa-a’iindanamaawaan iiniw wataambiin (and the children went about eating the spinal cord).</span>
 
+<span class="l-orig">(476) Mīdạc kīwäⁿ awä a‘kawäⁿzi tạgwicing pitcägisät.</span>
 
-Mii dash kegapii minawaa ezhi-izhaat (and then at last once more he started over), mii desh kegapii ezhi-izhaat awi-odaapinaat asiniinsan (and so finally he went over to take the pebbles).
+<span class="l-fiero">**Mii dash kiiwenh awe akawenzi tagwishing pichegiset.**</span>
 
-333) > **Mii dash kiiwanh aw akiwenzhii'ish kaa-izhi-poosoonewepowaat iiniw kwiiwisensan chiimaaning; pekish pakite'ank.**
+<span class="l-eng">*And they say, when the old man returned, he came riding his canoe upon the shore.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh awe akawenzi tagwishing pichegiset (and then, they say, when the old man returned, he rode his canoe up onto the shore).</span>
 
-<div class="four-layer">
+<span class="l-orig">(477) Mīdạc īgi’ᵘ abinōtcī∙ạ∙g nāsipīpa∙i∙tīwāt pä‘kic ta‘ta‘kunāwāt īni’ᵘ u‘tāmbīn.</span>
 
-> <span class="l-gloss">Thereupon they say the ruthless old man scooped the boy up with the paddle, and landed him in the canoe; at the same instant he struck his canoe.</span>
+<span class="l-fiero">**Mii dash iigiw abinoochii’ag naasipiipa’itiiwaat pekish tatakonaawaat iiniw otaambiin.**</span>
 
-</div>
+<span class="l-eng">*Thereupon the children ran racing down the path to the water, at the same time holding in their hands the spinal cord.*</span>
 
+<span class="l-gloss">Mii dash iigiw abinoochii’ag naasipiipa’itiiwaat (thereupon the children ran racing down to the water) pekish tatakonaawaat iiniw otaambiin (at the same time holding the spinal cord in their hands).</span>
 
-Mii dash kiiwanh aw akiwenzhii’ish kaa-izhi-poosoonewepowaat iiniw kwiiwisensan chiimaaning (thereupon, they say, the ruthless old man scooped the boy up with the paddle into the canoe); pekish pakite’ank (and at the same instant struck his canoe).
+<span class="l-orig">(478) Mēdạc kīwäⁿ änāt īni’ᵘ ūcicäⁿyaᵉ:</span>
 
-334) > **Mii dash kiiwenh aw kwiiwisens noondawaagobanen oshiimeyensan maansitaakosinit, madwe-kischi-mawinit.**
+<span class="l-fiero">**Me dash kiiwenh enaat iiniw ooshishenya’:**</span>
 
+<span class="l-eng">*And then they say that he said to his grandchildren:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Me dash kiiwenh enaat iiniw ooshishenya’ (and then, they say, he said to his grandchildren):</span>
 
-> <span class="l-gloss">And then they say that the boy heard his dear little brother begin to cry, loud he heard him cry.</span>
+<span class="l-orig">(479) “Ānti kā∙u∙ndinamäg mādciyäg?”</span>
 
-</div>
+<span class="l-fiero">**“Aanti kaa-ondinameg maajiyeg?”**</span>
 
+<span class="l-eng">*“Where did you get what you are eating?”*</span>
 
-Mii dash kiiwenh aw kwiiwisens noondawaagobanen oshiimeyensan maansitaakosinit (and then, they say, the boy heard his dear little brother cry out), madwe-kischi-mawinit (loudly he heard him crying).
+<span class="l-gloss">“Aanti kaa-ondinameg maajiyeg?” (“where did you get what you are eating?”)</span>
 
-335) > **Minawaa aw akiwenzhii'ish pakite'aan ochiimaan.**
+<span class="l-orig">(480) “Nimpāpa∙i∙nānsa ugīpitōn.”</span>
 
+<span class="l-fiero">**“Nimpaapa’inaan sa ogii-pitoon.”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Why, our father fetched it.”*</span>
 
-> <span class="l-gloss">Again the mean old man struck his canoe.</span>
+<span class="l-gloss">“Nimpaapa’inaan sa ogii-pitoon.” (“why, our father brought it.”)</span>
 
-</div>
+<span class="l-orig">(481) “Wägunän iᵉi’ᵘ?” udinān.</span>
 
+<span class="l-fiero">**“Wegonen i’iw?” odinaan.**</span>
 
-Minawaa aw akiwenzhii’ish pakite’aan ochiimaan (again the mean old man struck his canoe).
+<span class="l-eng">*“What is it?” he said to them.*</span>
 
-336) > **Mii dash minawaa aw kwiiwisens agaawa tepitawaat oshiimeyensan, keyabi madwe-kischi-mawinit; kaye wiin kischi-mawit.**
+<span class="l-gloss">“Wegonen i’iw?” odinaan (“what is it?” he said to them).</span>
 
+<span class="l-orig">(482) “Namäwạnsa,” udigōᵉ.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Namewan sa,” odigoo’.**</span>
 
-> <span class="l-gloss">And at that the boy was barely able to hear his fond little brother, still yet he heard him crying bitterly; he himserf also cried aloud.</span>
+<span class="l-eng">*“Why, sturgeon,” he was told.*</span>
 
-</div>
+<span class="l-gloss">“Namewan sa,” odigoo’ (“sturgeon, of course,” he was told).</span>
 
+<span class="l-orig">(483) “A! i‘kitōwinän!” i‘kito a‘kiwäⁿzi. “</span>
 
-Mii dash minawaa aw kwiiwisens agaawa tepitawaat oshiimeyensan (and then the boy could barely hear his little brother), keyabi madwe-kischi-mawinit (still hearing him crying bitterly); kaye wiin kischi-mawit (and he too wept aloud).
+<span class="l-fiero">**“A! ikitoowinen!” ikito akiwenzi.**</span>
 
-337) > **Aano dash opagosenimaan iiniw akiwenzhii'ishan chi-naasikawaanit oshiimeyensan, awanjish idash paapi'igoon; kaye pakite'ank pekish ochiimaanish.**
+<span class="l-eng">*“Pshaw! what foolishness are they saying!” (so) said the old man.*</span>
 
+<span class="l-gloss">“A! ikitoowinen!” ikito akiwenzi (“pshaw! what foolishness they speak!” said the old man).</span>
 
-<div class="four-layer">
+<span class="l-orig">(484) ‘Ca, nimpāpā∙i∙nān!’</span>
 
-> <span class="l-gloss">Though he pleaded with the wicked old man to go to his wee little brother, yet, in spite of all, was he made fun of; and at the same time he struck his detestable old canoe.</span>
+<span class="l-fiero">**“’Sha, nimpaapaa’inaan!’**</span>
 
-</div>
+<span class="l-eng">*“’Oh, it was our father!’*</span>
 
+<span class="l-gloss">“‘Sha, nimpaapaa’inaan!’ (“‘oh, it was our father!’)</span>
 
-Aano dash opagosenimaan iiniw akiwenzhii’ishan chi-naasikawaanit oshiimeyensan (though he begged the wicked old man to go to his little brother), awanjish idash paapi’igoon (yet in spite of all he was mocked); kaye pakite’ank pekish ochiimaanish (and at the same time he struck his miserable canoe).
+<span class="l-orig">(485) Nōmikäna mîcinạmäwạn ugī‘kumigōn kipāpa.</span>
 
-338) > **Mii dash kwiiwisens kaawiin keyaapi noondawaasiin oshiimeyensan.**
+<span class="l-fiero">**Noomikena mi(i)shinamewan ogii-komigoon kipaapa.**</span>
 
+<span class="l-eng">*Why, it is some time since that by a big sturgeon was your father swallowed.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Noomikena mi(i)shinamewan ogii-komigoon kipaapa (why, some time ago a great sturgeon swallowed your father).</span>
 
-> <span class="l-gloss">And then the boy at last (could) not hear his poor little brother.</span>
+<span class="l-orig">(486) Cigakuca ugạcikutāmigōn aᵘ kipāpa∙i∙wā,” udinān īni’ᵘ ūcicäⁿyaᵉ.</span>
 
-</div>
+<span class="l-fiero">**Shiga kosha ogashikotaamigoon aw kipaapa’iwaa,” odinaan iiniw ooshishenya’.**</span>
 
+<span class="l-eng">*In fact, by this time is your father digested,” (so) he said to his grandchildren.*</span>
 
-Mii dash kwiiwisens kaawiin keyaapi noondawaasiin oshiimeyensan (and then the boy could no longer hear his poor little brother).
+<span class="l-gloss">Shiga kosha ogashikotaamigoon aw kipaapa’iwaa,” odinaan iiniw ooshishenya’ (in fact, by now your father is digested,” he said to his grandchildren).</span>
 
-339) > **Mii desh egot kiiwenh iiniw akiwenzhii'ishan:  
-     > **And then they say he was told by the hateful old man:
+<span class="l-orig">(487) “Mīdec nimpāpā∙i∙nānsagu kī‘tạgwicin.”</span>
 
-Mii desh egot kiiwenh iiniw akiwenzhii’ishan (and then, they say, he was told by the hateful old man):
+<span class="l-fiero">**“Mii desh nimpaapaa’inaan sa go kii-tagwishin.”**</span>
 
-340) > **"Oowiti eshi-wiininaan nindaanisag ayaawag; pezhik dash kiiga-miinin chi-wiidigemat," odinaan iiniw kwiiwisensan.**
+<span class="l-eng">*“Why, our father has already come home.”*</span>
 
+<span class="l-gloss">“Mii desh nimpaapaa’inaan sa go kii-tagwishin.” (“why, our father has already come home.”)</span>
 
-<div class="four-layer">
+<span class="l-orig">(488) Ạwidạc a‘kiwäⁿzi ā‘pidci wänāgusininig tạgwicin.</span>
 
-> <span class="l-gloss">"Over at this place whither I am taking you, my daughters abide; and one will I give to you for a wife," he said to the boy.</span>
+<span class="l-fiero">**Aw idash akiwenzi aapiji wenaagos[h]ininig tagwishin.**</span>
 
-</div>
+<span class="l-eng">*Now, the old man was late in the evening arriving home.*</span>
 
+<span class="l-gloss">Aw idash akiwenzi aapiji wenaagos[h]ininig tagwishin (now the old man arrived home late in the evening).</span>
 
-“Oowiti eshi-wiininaan nindaanisag ayaawag (“over at the place where I am taking you my daughters live); pezhik dash kiiga-miinin chi-wiidigemat,” odinaan iiniw kwiiwisensan (and one I will give you for a wife,” he said to the boy).
+<span class="l-orig">(489) Kāwīn kạnagä kägō pītōsīn.</span>
 
-341) > **Aw idash wiin kwiiwisens agaawa pimaatisi epiich-kas\[h\]kendank miikwenimaat oshiimeyensan.**
+<span class="l-fiero">**Gaawiin kanage kegoo piitoosiin.**</span>
 
+<span class="l-eng">*Not a single thing did he fetch.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Gaawiin kanage kegoo piitoosiin (not a single thing did he bring).</span>
 
-> <span class="l-gloss">And as for the boy, barely was he alive, so grieved was he at the thought of his dear little brother.</span>
+<span class="l-orig">(490) Mīdạc kạbāt; mīdạc inābit, misiwä owâbạndān kägō ạgōtänig, ạgwāwānạn agōtänig ạgwatcing.</span>
 
-</div>
+<span class="l-fiero">**Mii dash kabet; mii dash inaabit, misiwe owabandan kegoo agootenig, agwaawaanan agootenig agwaching.**</span>
 
+<span class="l-eng">*And then he went ashore; and as he looked, everywhere he saw something hanging, pendant pieces hanging out of doors.*</span>
 
-Aw idash wiin kwiiwisens agaawa pimaatisi (and as for the boy, he was barely alive) epiich-kas\[h\]kendank miikwenimaat oshiimeyensan (so grieved was he at the thought of his dear little brother).
+<span class="l-gloss">Mii dash kabet (and then he went ashore); mii dash inaabit (and as he looked), misiwe owabandan kegoo agootenig (everywhere he saw things hanging), agwaawaanan agootenig agwaching (drying-pieces hanging outdoors).</span>
 
-342) > **Mii dash keget shayiigwa ani-chekisewaat endaanit iniw akiwenziiyan.**
+<span class="l-orig">(491) Kayä ạnipīndigät uwīngä mōckinägwāwäwạg pīndig.</span>
 
+<span class="l-fiero">**Gaye ani-piindiget owiinge mooshkinegwaawewag piindig.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And when he went indoors, brimful of things hanging was the space inside.*</span>
 
-> <span class="l-gloss">And then truly now they slid inshore with their canoe by the dwelling-place of the old man.</span>
+<span class="l-gloss">Gaye ani-piindiget owiinge mooshkinegwaawewag piindig (and when he went indoors, the inside was brimful of things hanging).</span>
 
-</div>
+<span class="l-orig">(492) Mīdec kīwäⁿ a‘kiwäⁿzi kāgwīnawī∙i∙nābit.</span>
 
+<span class="l-fiero">**Mii desh kiiwenh akiwenzi kaa-gwiinawii-inaabit.**</span>
 
-Mii dash keget shayiigwa ani-chekisewaat endaanit iniw akiwenziiyan (and then truly now they slid inshore at the old man’s dwelling-place).
+<span class="l-eng">*And then it is said that the old man knew not where to look.*</span>
 
-343) > **"Mii imaa ayaan," odigoon.**
+<span class="l-gloss">Mii desh kiiwenh akiwenzi kaa-gwiinawii-inaabit (and then, they say, the old man knew not where to look).</span>
 
+<span class="l-orig">(493) Weyābạmāt unīngwạnạn cäcīngicininit wändạbinit, kāwīn kägō i‘kitosī.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Weyaabamaat oniingwanan sheshiingishininit wendabinit, gaawiin kegoo ikitosii.**</span>
 
-> <span class="l-gloss">"At yonder place is where I dwell," he was told.</span>
+<span class="l-eng">*When he saw his son-in-law reclining at his sitting-place, nothing had he to say.*</span>
 
-</div>
-
-
-“Mii imaa ayaan,” odigoon (“over there is where I live,” he was told).
-
-344) > **"Pichiinag awiya kiga-pi-naasikaag," odigoon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"In a little while somebody will come after you," he was told.</span>
-
-</div>
-
-
-“Pichiinag awiya kiga-pi-naasikaag,” odigoon (“in a little while someone will come for you,” he was told).
-
-345) > **Mii dash pane kiinwenh aw akiwenzii eni-\[i\]zhi-kopiit mii desh kiiwenh enaat odaanisa':  
-     > **And then they say on, up from the shore, went the old man. And so it is told that he said to his daughters:
-
-Mii dash pane kiinwenh aw akiwenzii eni-\[i\]zhi-kopiit (and then, they say, up from the shore went the old man) mii desh kiiwenh enaat odaanisa’ (and so, they say, he said to his daughters):
-
-346) > **"Nindaanisitog\! inini nimpinaa.  
-     > **"O my daughters\! a man have I fetched home.
-
-“Nindaanisitog\! inini nimpinaa (“my daughters\! a man I have brought home).
-
-347) > **Awegwen dash nitam ke-bagamibatogwen iwiti nichiimaan atemagak mii iw ket-ayaawaat," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Now, whichever runs to and first reaches the place of my canoe will be the one to have him."</span>
-
-</div>
-
-
-Awegwen dash nitam ke-bagamibatogwen iwiti nichiimaan atemagak (whichever first runs and reaches where my canoe lies) mii iw ket-ayaawaat,” odinaan (she shall be the one to have him,” he said to them).
-
-348) > **"Nas\[h\]ke minawaa awiya kii-niga'aagwen aw koosinaan," ikitoowag pekish ani-pasigonjipa'itiwaat; iingiw oshkiniigiikweg pa'itiwaat chiimaaning.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Maybe upon some other person has our father again inflicted sorrow,"they said, as at the same time they sprang to their feet and ran out of doors together; hither came the maidens, racing to the canoe.</span>
-
-</div>
-
-
-“Nas\[h\]ke minawaa awiya kii-niga’aagwen aw koosinaan,” ikitoowag (“maybe our father has brought sorrow on someone again,” they said) pekish ani-pasigonjipa’itiwaat (springing to their feet and running out together); iingiw oshkiniigiikweg pa’itiwaat chiimaaning (the young women racing to the canoe).
-
-349) > **Mii dash taabishko pagamipa'itiwag.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And both in running got there at the same time.</span>
-
-</div>
-
-
-Mii dash taabishko pagamipa’itiwag (and both reached it running at the same time).
-
-350) > **Mii dash kiiwenh waabamaawaat kwiiwisensan siindanakaang shingishininit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then it is said that they saw the boy lying asleep in the peak of the bow.</span>
-
-</div>
-
-
-Mii dash kiiwenh waabamaawaat kwiiwisensan (and then, they say, they saw the boy) siindanakaang shingishininit (lying asleep in the peak of the bow).
-
-351) > **Mii dash ekitoowaat:  
-     > **Whereupon they said:
-
-Mii dash ekitoowaat (whereupon they said):
-
-352) > **"Aa', aa, keget sa inini wiitogenan nintanenimaa\!" ikitoowag.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Oh, pshaw\! that really he was a sure-enough man was what I thought he was," (thus) they said.</span>
-
-</div>
-
-
-“Aa’, aa, keget sa inini wiitogenan nintanenimaa\!” ikitoowag (“pshaw, I really thought he would be a grown man\!” they said).
-
-353) > **Minawaa eni-\[i\]zhi-kopiiwaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Back from the shore then they went.</span>
-
-</div>
-
-
-Minawaa eni-\[i\]zhi-kopiiwaat (back up from the shore then they went).
-
-354) > **Mii dash kiiwenh aw weshime'imint neyaap ezhi-ashepagisat, ishaat neyaap iwiti chiimaaning.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then it is said that the younger sister turned, swinging quickly round as she went back there to the canoe.</span>
-
-</div>
-
-
-Mii dash kiiwenh aw weshime’imint neyaap ezhi-ashepagisat (and then, they say, the younger sister swung quickly back round), ishaat neyaap iwiti chiimaaning (going back there to the canoe).
-
-355) > **Mii dash ezhi-odaapinaat kwiiwisensan, shawenimaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon she took the boy up in her arms, for she pitied him.</span>
-
-</div>
-
-
-Mii dash ezhi-odaapinaat kwiiwisensan, shawenimaat (thereupon she took the boy up, for she pitied him).
-
-356) > **Mii dash eni-\[i\]zhi-kopiiwinaat endaawaat; piindiganaat wendapit dash opagitinaan iiniw kwiiwisensan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then she took him up from the shore to where they lived; she fetched him inside to the place where she sat, and there put down the boy.</span>
-
-</div>
-
-
-Mii dash eni-\[i\]zhi-kopiiwinaat endaawaat (and then she carried him up from the shore to where they lived); piindiganaat wendapit dash opagitinaan iiniw kwiiwisensan (she brought him inside, and at the place where she sat she set the boy down).
-
-357) > **Ningoding dash kiiwenh a'iindaawaat, aanish inaa aatisookaan, mindido shayiigwa aw kwiiwisens.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And by and by they say, while they were living (there), so the story goes, large grew the boy.</span>
-
-</div>
-
-
-Ningoding dash kiiwenh a’iindaawaat, aanish inaa aatisookaan (and by and by, they say, as they lived there, so the story goes), mindido shayiigwa aw kwiiwisens (the boy grew large now).
-
-358) > **Ningoding idash kiiwenh odinaan akiwenzii iiniw oningwanan:  
-     > **And once on a time they say the old man said to his son-in-law:
-
-Ningoding idash kiiwenh odinaan akiwenzii iiniw oningwanan (and once on a time, they say, the old man said to his son-in-law):
-
-359) > **"Mii sa naa shayiigwa chi-papaa-antoshiipeyangoban," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"It is a good time now for us to go hunting for ducks," (thus) he said to him.</span>
-
-</div>
-
-
-“Mii sa naa shayiigwa chi-papaa-antoshiipeyangoban,” odinaan (“now is a good time for us to go duck-hunting,” he said to him).
-
-360) > **Mii sa kiinwenh keget ezhi-maajaawaat, papaamishkaawaat papaa-antoshipewaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they say that in truth away they went by canoe to hunt for ducks.</span>
-
-</div>
-
-
-Mii sa kiinwenh keget ezhi-maajaawaat (and so, they say, truly off they went) papaamishkaawaat papaa-antoshipewaat (paddling about, hunting for ducks).
-
-361) > **Mii dash aw inini nisidawinang imaa oshimeyensan kaa-onji-naganaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And now the man recognized the place where he had left his dear little brother.</span>
-
-</div>
-
-
-Mii dash aw inini nisidawinang imaa oshimeyensan kaa-onji-naganaat (and now the man recognized the place where he had left his little brother).
-
-362) > **Miish kiiwenh noondawaat awiya tepitaagosinit \[i\]kitonit:  
-     > **Whereupon it is said that he heard the sound of somebody's voice saying:
-
-Miish kiiwenh noondawaat awiya tepitaagosinit \[i\]kitonit (whereupon, they say, he heard someone’s voice saying):
-
-363) > **"Nisayenh"\!  
-     > **"O my big brother\!
-
-“Nisayenh”\! (“my big brother\!)
-
-364) > **shayiigwa ninaa aabita niima'iinganiw\!"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">already have I now become half a wolf\!"</span>
-
-</div>
-
-
-shayiigwa ninaa aabita niima’iinganiw\!” (already now I have become half a wolf\!”)
-
-365) > **Nesing igo tibishko ikitoowan oshiimeyan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Three times, indeed, did his younger brother say the same thing.</span>
-
-</div>
-
-
-Nesing igo tibishko ikitoowan oshiimeyan (three times indeed his little brother said the same thing).
-
-366) > **Mii dash keget aw inini kas\[h\]kendank.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then truly was the man sad.</span>
-
-</div>
-
-
-Mii dash keget aw inini kas\[h\]kendank (and then truly the man was sad).
-
-367) > **Kaawiin kegoo ikitosii.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">But he made no remark.</span>
-
-</div>
-
-
-Kaawiin kegoo ikitosii (but he said nothing).
-
-368) > **Mii dash ezhi-kiiwewaat minawaa.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they went back home again.</span>
-
-</div>
-
-
-Mii dash ezhi-kiiwewaat minawaa (and then they went back home again).
-
-369) > **Mii dash ningoting a'iindaawaat a inini odinaan wiiwan:  
-     > **And then once upon a time, while they were dwelling (there), the man said to his wife:
-
-Mii dash ningoting a’iindaawaat a inini odinaan wiiwan (and then once, while they were living there, the man said to his wife):
-
-370) > **"Ambe, pabaamiskaataa\!" odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Come, let us go out in the canoe\!" he (thus) said to her.</span>
-
-</div>
-
-
-“Ambe, pabaamiskaataa\!” odinaan (“come, let us go out in the canoe\!” he said to her).
-
-371) > **Mii dash kiiwenh keget ezhi-maajaawaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And so it is said that truly did they go.</span>
-
-</div>
-
-
-Mii dash kiiwenh keget ezhi-maajaawaat (and so, they say, truly they went).
-
-372) > **Aw idash kiiwenh akiwenzii kaawiin minwendanzii.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And it is told that the old man was not pleased about it.</span>
-
-</div>
-
-
-Aw idash kiiwenh akiwenzii kaawiin minwendanzii (and it is said the old man was not pleased about it).
-
-373) > **Inaat odaanisan:  
-     > **(And) he said to his daughter:
-
-Inaat odaanisan (he said to his daughter):
-
-374) > **"Nin nintaa-kii-wichiiwaa na'aangii," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"I myself should have gone along with the son-in-law, " he (thus) said to her.</span>
-
-</div>
-
-
-“Nin nintaa-kii-wichiiwaa na’aangii,” odinaan (“I myself should have gone along with my son-in-law,” he said to her).
-
-375) > **"Niyaa\!" ikito ikwe.  
-     > **"Oh, dear\!" said the woman.
-
-“Niyaa\!” ikito ikwe (“oh, dear\!” said the woman).
-
-376) > **"Kaye nin kosha niwii-wiichiiwaa," odinaan oosan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"So was I myself eager to go with him," she said to her father.</span>
-
-</div>
-
-
-“Kaye nin kosha niwii-wiichiiwaa,” odinaan oosan (“but I myself was eager to go with him,” she said to her father).
-
-377) > **Mii dash miinawaa ezhi-maajaawaat pabaamiskaawaat ashodew.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And so another time they went canoeing about along the shore.</span>
-
-</div>
-
-
-Mii dash miinawaa ezhi-maajaawaat pabaamiskaawaat ashodew (and so another time off they went, canoeing along the shore).
-
-378) > **Mii dash kiiwenh enaat iiniw wiiwan, wiindamawaat onji oshiimeyan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then it is said, while speaking to his wife, he was telling her about his little brother.</span>
-
-</div>
-
-
-Mii dash kiiwenh enaat iiniw wiiwan, wiindamawaat onji oshiimeyan (and then, they say, while talking to his wife, he was telling her about his little brother).
-
-379) > **Mii desh kiiwenh megwaa tibaachimot ani-tibishko-kamowaat kaa-onji-pooswebawa'ondibanen.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Whereupon they say, while going on with his story, they were then passing the place opposite to where he had been scooped up into the canoe.</span>
-
-</div>
-
-
-Mii desh kiiwenh megwaa tibaachimot (whereupon, they say, while he was telling the story) ani-tibishko-kamowaat kaa-onji-pooswebawa’ondibanen (they came opposite the place where he had been scooped up into the canoe).
-
-380) > **Mii dash, "Nas\[h\]ke \[i\]naabin\!" odinaan onaapeman.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then, "Oh, look\!" she said to her husband.</span>
-
-</div>
-
-
-Mii dash, “Nas\[h\]ke \[i\]naabin\!” odinaan onaapeman (and then, “oh, look\!” she said to her husband).
-
-381) > **Mii dash kiiwenh aw inini inaabit owaabamaan niiswi maa'ingana' ani-gopipa'itinit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Whereupon it is said that the man looked, and saw three wolves running up from the shore.</span>
-
-</div>
-
-
-Mii dash kiiwenh aw inini inaabit (whereupon, they say, the man looked) owaabamaan niiswi maa’ingana’ ani-gopipa’itinit (and saw three wolves running up from the shore).
-
-382) > **Mii dash enendank:  
-     > **Thereupon he thought:
-
-Mii dash enendank (thereupon he thought):
-
-383) > **"Mii aw nishiim pezhik."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"One of them may be my little brother."</span>
-
-</div>
-
-
-“Mii aw nishiim pezhik.” (“one of them is my little brother.”)
-
-384) > **Komaa apii dash noopiming minawaa oonoondawaan oshiimeyan igot:  
-     > **And then at some distance off in the forest he once more heard his little brother say:
-
-Komaa apii dash noopiming minawaa oonoondawaan oshiimeyan igot (and then at some distance off in the woods he again heard his little brother say to him):
-
-385) > **"Nisayaa\! mii gakina kii-maa'iinganawiyaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"O my big brother\! wholly now have I become a wolf."</span>
-
-</div>
-
-
-“Nisayaa\! mii gakina kii-maa’iinganawiyaan (“my big brother\! wholly now have I become a wolf).
-
-386) > **Kaawiin minawaa kiga-migoskaachisinoon," odinaan osayeyan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Never again shall I bother you," he said to his elder brother.</span>
-
-</div>
-
-
-Kaawiin minawaa kiga-migoskaachisinoon,” odinaan osayeyan (never again will I trouble you,” he said to his elder brother).
-
-387) > **"Tasing wayaabamatwaanin ma'iinganag 'nishiime wayaabamag,' kiigat-inendam," odigoon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"As often as you see the wolves, 'My little brother do I see,' shall you think," (thus) was he told.</span>
-
-</div>
-
-
-“Tasing wayaabamatwaanin ma’iinganag (“as often as you see the wolves) ‘nishiime wayaabamag,’ kiigat-inendam,” odigoon (‘it is my little brother I see,’ you shall think,” he was told).
-
-388) > **Mii dash shkwech kii-waabamaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And that was the last he ever saw of him.</span>
-
-</div>
-
-
-Mii dash shkwech kii-waabamaat (and that was the last he ever saw of him).
-
-389) > **Mii dash kaye kii-nanaa'endank aw inini.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Whereupon the man also felt at ease in his mind.</span>
-
-</div>
-
-
-Mii dash kaye kii-nanaa’endank aw inini (whereupon the man too felt at ease in his mind).
-
-390) > **Mii dash kaa-inaat wiidigemaaganan aw inini kego chi-ikitosinik endaawaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then the man bade his wife not to say anything (about it) at home.</span>
-
-</div>
-
-
-Mii dash kaa-inaat wiidigemaaganan aw inini kego chi-ikitosinik endaawaat (and then the man told his wife to say nothing of it at home).
-
-391) > **Mii dash keget kaa-izhichiget aw ikwe.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And so truly the woman did (as she was told).</span>
-
-</div>
-
-
-Mii dash keget kaa-izhichiget aw ikwe (and so truly the woman did as she was told).
-
-392) > **Ningoding dash kiiwenh a'iindaawaat aw akiwenzii nigoskaashchide'e waabamaat oniingwanan shayiigwa kii-ani-kischi-ininiiwinit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Now, once, it is said, while they were living (at that place), the old man became troubled in his heart to see that his son-in-law was growing into the full stature of a man.</span>
-
-</div>
-
-
-Ningoding dash kiiwenh a’iindaawaat aw akiwenzii nigoskaashchide’e (now, once, they say, as they lived there, the old man grew troubled in his heart) waabamaat oniingwanan shayiigwa kii-ani-kischi-ininiiwinit (seeing his son-in-law growing into a full-grown man).
-
-393) > **Mii dash kiinwenh naanaagatawenimaat aaniin ke-tootamoogwen chi-nisaat; oogoosan dash kaye odaanisan chi-kikenimigot.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they say that he began to lay plans to find out how he might kill him; and yet, too, he feared that his daughter would know that he had done it.</span>
-
-</div>
-
-
-Mii dash kiinwenh naanaagatawenimaat aaniin ke-tootamoogwen chi-nisaat (and then, they say, he pondered how he might kill him); oogoosan dash kaye odaanisan chi-kikenimigot (and yet he feared his daughter would know he had done it).
-
-394) > **Aapiji dash kii-nawiinendam pane oganawaabamaan iiniw oningwanan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Very much was he bothered, all the time was he watching his son-in-law.</span>
-
-</div>
-
-
-Aapiji dash kii-nawiinendam (very much was he troubled) pane oganawaabamaan iiniw oningwanan (all the time watching his son-in-law).
-
-395) > **Ningoting dash kiiwenh ogi-kikesikawaabamigoon odanisan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Now, once, they say, by the glance of an eye was he caught by his daughter at a time when he was looking at him.</span>
-
-</div>
-
-
-Ningoting dash kiiwenh ogi-kikesikawaabamigoon odanisan (now, once, they say, his daughter caught him with a glance of the eye) \[as he was looking at him\].
-
-396) > **Mii dash kiwenh egot:  
-     > **Whereupon it is said that he was asked (by her):
-
-Mii dash kiwenh egot (whereupon, they say, he was asked by her):
-
-397) > **"Aanin sa kiin apane enaabamat aw kaa-ganawaabamat?" odinaan aw ikwe oosan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why are you always looking at him whom you are gazing at?" (thus) said the woman to her father.</span>
-
-</div>
-
-
-“Aanin sa kiin apane enaabamat aw kaa-ganawaabamat?” odinaan aw ikwe oosan (“why are you always staring at him you keep gazing at?” the woman said to her father).
-
-398) > **"Aa, ka, kaa nkontinoon nintanenimaasii kaa-ganawaabamag," ikito.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Oh, for nothing in particular have I him in mind, that I should be gazing at him," he said.</span>
-
-</div>
-
-
-“Aa, ka, kaa nkontinoon nintanenimaasii kaa-ganawaabamag,” ikito (“oh, for nothing in particular do I have him in mind, that I should be gazing at him,” he said).
-
-399) > **"Anishaa go naanaagatawendamaan aaninti ked-ishinantawenjikayaang waabang," shiigwiinawi ikito aw akiwenzhii'ishigoban.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"I was only thinking where we might go hunting for game to-morrow," (thus) by way of an excuse replied that malicious old man.</span>
-
-</div>
-
-
-“Anishaa go naanaagatawendamaan aaninti ked-ishinantawenjikayaang waabang,” shiigwiinawi ikito aw akiwenzhii’ishigoban (“I was only thinking where we might go hunting tomorrow,” by way of excuse said that malicious old man).
-
-400) > **Mii dash keget kiiwenh enaat iiniw oniingwanan:  
-     > **And then truly they say that he said to his son-in-law:
-
-Mii dash keget kiiwenh enaat iiniw oniingwanan (and then truly, they say, he said to his son-in-law):
-
-401) > **"Waabang kiiga-nandawenchigemin," odinaan;  
-     > **"To-morrow let us go hunting for game\!" he said to him.
-
-“Waabang kiiga-nandawenchigemin,” odinaan (“tomorrow let us go hunting,” he said to him);
-
-402) > **"kiigat-awii-noochi'aanaanig namewag," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Let us go to get sturgeon\!" he said to him.</span>
-
-</div>
-
-
-“kiigat-awii-noochi’aanaanig namewag,” odinaan (“let us go to catch sturgeon\!” he said to him).
-
-403) > **"Aye'\!" odigoon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"All right\!" he was told.</span>
-
-</div>
-
-
-“Aye’\!” odigoon (“all right\!” he was told).
-
-404) > **Mii dash kiiwe\[nh\] aw ikwe enaat onaabeman:  
-     > **And then they say the woman said to her husband:
-
-Mii dash kiiwe\[nh\] aw ikwe enaat onaabeman (and then, they say, the woman said to her husband):
-
-405) > **"Aiyaangwaamisin\! kiiwii-nisik aw; aapichi machi-akiwenzhii'ishiwi.  
-     > **"Be careful\! for he wants to kill you; he is such an awfully bad man.
-
-“Aiyaangwaamisin\! kiiwii-nisik aw (“be careful\! he wants to kill you); aapichi machi-akiwenzhii’ishiwi (he is a thoroughly evil old man).
-
-406) > **Mii apane endootank, nisaat awiya.  
-     > **That is what he is always doing, he is murdering somebody.
-
-Mii apane endootank, nisaat awiya (that is what he is always doing, killing someone).
-
-407) > **Aiyaangwamisin dash kiin\!  
-     > **And now do be careful\!
-
-Aiyaangwamisin dash kiin\! (and so be careful, you\!)
-
-408) > **Mii go geget chi-nisik kiishpin kego ezhi-mamaandawizisiiwanen," odinan onaabeman aw ikwa.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">For surely will he kill you if you have not been blessed with the possession of some miraculous power,"(so) said the woman to her husband.</span>
-
-</div>
-
-
-Mii go geget chi-nisik kiishpin kego ezhi-mamaandawizisiiwanen,” odinan onaabeman aw ikwa (he will surely kill you unless you have some miraculous power,” said the woman to her husband).
-
-409) > **Mii dash keget weyaabaninig maajaawaat, poosiwaat, awi-noochinamewewaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then truly in the morning they set out, they embarked in their canoe (and) went away to hunt sturgeon.</span>
-
-</div>
-
-
-Mii dash keget weyaabaninig maajaawaat (and so truly in the morning they set out), poosiwaat (embarking in the canoe), awi-noochinamewewaat (going off to hunt sturgeon).
-
-410) > **Pakite'ank ochiimaan akiwezhii'ish, paabige kichi-waasa kii-tagwishinoog; minawaa pakite'ank ochiimaanish mii gii-pishkoonaagwatinig; minawaa aabinding opakite'aan ochiimaan, mii dash e-tagwishinowaat ezhaawaat wa-tazhi-nooji'aawaat namewan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">When the hateful old man struck his canoe, at once far off were they come;when again he struck his old canoe, then the sight of land went out of view;when once more he struck his canoe, then they arrived at the place where they went to get the sturgeons.</span>
-
-</div>
-
-
-Pakite’ank ochiimaan akiwezhii’ish (when the hateful old man struck his canoe), paabige kichi-waasa kii-tagwishinoog (at once they were come far off); minawaa pakite’ank ochiimaanish (again he struck his miserable canoe) mii gii-pishkoonaagwatinig (then the land went out of sight); minawaa aabinding opakite’aan ochiimaan (once more he struck his canoe), mii dash e-tagwishinowaat ezhaawaat wa-tazhi-nooji’aawaat namewan (and then they arrived at the place where they would hunt sturgeon).
-
-411) > **Mii dash kiiwenh enaat akiwenzhii'ish:  
-     > **Thereupon they say that the mean old man said to him:
-
-Mii dash kiiwenh enaat akiwenzhii’ish (thereupon, they say, the mean old man said to him):
-
-412) > **"Mii omaa ke-dazhi-nootameweyang.  
-     > **"This is the place where we will hunt for sturgeon.
-
-“Mii omaa ke-dazhi-nootameweyang (“this is the place where we will hunt sturgeon).
-
-413) > **Mii ko oomaa endashi-nootamewewaapan aamininiingibaniig," odinaan oniigwanan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">It was at this place where the fishermen of old always used to hunt for sturgeon," (so) he said to his son-inlaw.</span>
-
-</div>
-
-
-Mii ko oomaa endashi-nootamewewaapan aamininiingibaniig,” odinaan oniigwanan (it was here the fishermen of old always used to hunt sturgeon,” he said to his son-in-law).
-
-414) > **Anishaa dash ikito aw akiwenzii, kaawiin wiika awiya, ogii-nooji'aasiin iiniw maji-namewan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">But not the truth was the old man telling, for never had anybody hunted for that evil sturgeon.</span>
-
-</div>
-
-
-Anishaa dash ikito aw akiwenzii (but the old man spoke falsely), kaawiin wiika awiya, ogii-nooji’aasiin iiniw maji-namewan (for never had anyone hunted that evil sturgeon).
-
-415) > **Mii dash kiiwenh aw inini enaat:  
-     > **And it is told that the man said to him:
-
-Mii dash kiiwenh aw inini enaat (and then, they say, the man said to him):
-
-416) > **"Maamakaadakamig kanage nametaajikaatesimik."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"It is strange that there are no signs at all of habitation.</span>
-
-</div>
-
-
-“Maamakaadakamig kanage nametaajikaatesimik.” (“how strange that there are no signs at all of habitation.”)
-
-417) > **"Mewiizha kii-\[i\]shiwebat, ninte-mikawiyaan."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Long ago it happened, as far back as I can remember."</span>
-
-</div>
-
-
-“Mewiizha kii-\[i\]shiwebat, ninte-mikawiyaan.” (“long ago it happened, as far back as I can recall.”)
-
-418) > **"Oonh\!" odinaan a inini.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Really\!" to him said the man.</span>
-
-</div>
-
-
-“Oonh\!” odinaan a inini (“really\!” said the man to him).
-
-419) > **Mii dash kiiwenh akiwenzi ekidito: \[ekido?\]  
-     > **And then they say that the old man said:
-
-Mii dash kiiwenh akiwenzi ekidito \[ekido?\] (and then, they say, the old man said):
-
-420) > **"Ambe, mii sa chi-noochi'angwa\!  
-     > **"Come, let us now hunt for them\!
-
-“Ambe, mii sa chi-noochi’angwa\! (“come, let us now hunt for them\!)
-
-421) > **Mayanaawakweg mii chi-waabamagwaa.  
-     > **Exactly at noon is the time we shall see them.
-
-Mayanaawakweg mii chi-waabamagwaa (exactly at noon is when we shall see them).
-
-422) > **Aapichi mamaanditoowag igiw namewag," odinaan oningwanan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Very big are the sturgeons," he said to his son-in-law.</span>
-
-</div>
-
-
-Aapichi mamaanditoowag igiw namewag,” odinaan oningwanan (very big are those sturgeon,” he said to his son-in-law).
-
-423) > **Mii desh ezhi-maajaawaat baawitigonk.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they started for the rapids.</span>
-
-</div>
-
-
-Mii desh ezhi-maajaawaat baawitigonk (and then they started for the rapids).
-
-424) > **"Mii witi izhaan naawaajiwan," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Over there you go at the middle of the rapids," he said to him.</span>
-
-</div>
-
-
-“Mii witi izhaan naawaajiwan,” odinaan (“go over there to the middle of the rapids,” he said to him).
-
-425) > **"Niin dash oomaa ningat-agom," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"And here will I remain in the canoe," he said to him.</span>
-
-</div>
-
-
-“Niin dash oomaa ningat-agom,” odinaan (“and I will stay here in the canoe,” he said to him).
-
-426) > **Mii dash keget aw inini ezhi-kabaat, ishaat iwiti naawaajiwan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then truly the man went ashore, he went yonder to the middle of the rapids.</span>
-
-</div>
-
-
-Mii dash keget aw inini ezhi-kabaat (and so truly the man went ashore), ishaat iwiti naawaajiwan (going out there to the middle of the rapids).
-
-427) > **Pichiinag idash igo kiiwenh kaa-ani-tagwishing imaa kaa-inint chi-ishaat, mii noondawaat piipaaginit oshimisan ikidonit:  
-     > **And as soon, they say, as he was come at the place where he was told to go, then he heard his father-in-law calling aloud, saying:
-
-Pichiinag idash igo kiiwenh kaa-ani-tagwishing imaa kaa-inint chi-ishaat (and as soon, they say, as he reached the place where he was told to go), mii noondawaat piipaaginit oshimisan ikidonit (then he heard his father-in-law calling aloud, saying):
-
-428) > **"Mishinamegwetog\!  
-     > **"O ye Great-Sturgeons\!
-
-“Mishinamegwetog\! (“O you Great-Sturgeons\!)
-
-429) > **Kitashamininim inini\!" odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">I feed you a man," (thus) he said to them.</span>
-
-</div>
-
-
-Kitashamininim inini\!” odinaan (I feed you a man\!” he said to them).
-
-430) > **Mii dash shigo kaye pakite'ank ochiimaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then he also struck his canoe.</span>
-
-</div>
-
-
-Mii dash shigo kaye pakite’ank ochiimaan (and then he also struck his canoe).
-
-431) > **Aw idash inini inaabit; pane go kaa-bitaawaninit miishinamewan wii-komigot.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon the man looked; and there, with wide-open mouth, was a Great-Sturgeon ready to swallow him.</span>
-
-</div>
-
-
-Aw idash inini inaabit (thereupon the man looked); pane go kaa-bitaawaninit miishinamewan wii-komigot (and there a Great-Sturgeon, mouth wide open, was about to swallow him).
-
-432) > **Mish kiiwenh aw inini ezhi-kanoonaat:  
-     > **And they say the man spoke to him, saying:
-
-Mish kiiwenh aw inini ezhi-kanoonaat (and they say the man spoke to him):
-
-433) > **"Chii, chii, chi, nimishoomis\!  
-     > **"Wait, wait, wait, O my grandfather\!
-
-“Chii, chii, chi, nimishoomis\! (“wait, wait, wait, my grandfather\!)
-
-434) > **Kigii-shawenimimiwaaban," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">You have taken pity upon me in times past," he said to him.</span>
-
-</div>
-
-
-Kigii-shawenimimiwaaban,” odinaan (you have pitied me in times past,” he said to him).
-
-435) > **Mii dash iingiw miishinamewag kaa-inoogiiwaat, kii-shawenimigot.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Whereupon the Great-Sturgeons withdrew (into the deep), for he was pitied by them.</span>
-
-</div>
-
-
-Mii dash iingiw miishinamewag kaa-inoogiiwaat (whereupon the Great-Sturgeons drew back into the deep), kii-shawenimigot (for he was pitied by them).
-
-436) > **Mii dash minawaa kiiwenh kaa-ishikanoonaat, kii-inaat:  
-     > **And then again, so they say, did he speak to one, saying:
-
-Mii dash minawaa kiiwenh kaa-ishikanoonaat, kii-inaat (and then again, they say, he spoke to one, saying):
-
-437) > **"Nimishoomis\! kiiwewishishin endaayaan," odinaan; " kaye dash kiigamiish wenishishig miijim ke-giiwewiitawagwaa niniichaanisag," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"O my grandfather\! carry me back to my home," (thus) he said to him; "and I will give you whatever choice food that I may have to take home to my children," he said to him.</span>
-
-</div>
-
-
-“Nimishoomis\! kiiwewishishin endaayaan,” odinaan (“my grandfather\! carry me back home,” he said to him); “kaye dash kiigamiish wenishishig miijim ke-giiwewiitawagwaa niniichaanisag,” odinaan (and I will give you whatever choice food I may take home to my children,” he said to him).
-
-438) > **Niishinigoban oniichaanisa' aw inini.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">At the time two were the children the man had.</span>
-
-</div>
-
-
-Niishinigoban oniichaanisa’ aw inini (the man had two children at the time).
-
-439) > **Mii dash kiiwenh egot iiniw mishinamewan:  
-     > **And then they say that he was told by the Great-Sturgeon:
-
-Mii dash kiiwenh egot iiniw mishinamewan (and then, they say, he was told by the Great-Sturgeon):
-
-440) > **" 'Aw\!" odigoon; "kigaa-gomin."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"All right\!" (thus) he was told; "I will swallow you."</span>
-
-</div>
-
-
-“’Aw\!” odigoon (“all right\!” he was told); “kigaa-gomin.” (“I will swallow you.”)
-
-441) > **"A\!" ikito kaye wiin inini; "pooch inange nimpimaatis," inendam aw inini.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"All right\!" likewise said the man, on his part; "for such indeed is my fate," (so) thought the man.</span>
-
-</div>
-
-
-“A\!” ikito kaye wiin inini (“all right\!” said the man for his part); “pooch inange nimpimaatis,” inendam aw inini (“for such indeed is my fate,” thought the man).
-
-442) > **Mii dash keget ezhi-komigot.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then truly was he swallowed.</span>
-
-</div>
-
-
-Mii dash keget ezhi-komigot (and then truly he was swallowed).
-
-443) > **Mii dash mikwendam endaawaat aazha nangwana tagwishing.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And now he was mindful that at home was he truly arriving.</span>
-
-</div>
-
-
-Mii dash mikwendam endaawaat aazha nangwana tagwishing (and now he sensed that he was truly arriving home).
-
-444) > **Mii dash kanoonigot omishoomisan igot:  
-     > **And then he was addressed by his grandfather saying:
-
-Mii dash kanoonigot omishoomisan igot (and then he was addressed by his grandfather, saying):
-
-445) > **"Sagishigwanen aw name\!" odigon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Seize that sturgeon by the tail\!" he was told.</span>
-
-</div>
-
-
-“Sagishigwanen aw name\!” odigon (“seize that sturgeon by the tail\!” he was told).
-
-446) > **Mii dash keget aw inini ezhi-sagishigonenaat; mii dash eshi-shashigaakowaanigot iiniw mishnamewan; mii dash iwiti eko mitakamigaaning pangishin.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon the man truly took hold of the tail with his hand, and then was he cast up from the belly of the Great-Sturgeon; and so there upon the shore he fell.</span>
-
-</div>
-
-
-Mii dash keget aw inini ezhi-sagishigonenaat (and then truly the man took hold of the tail); mii dash eshi-shashigaakowaanigot iiniw mishnamewan (whereupon he was cast up out of the Great-Sturgeon’s belly); mii dash iwiti eko mitakamigaaning pangishin (and so there upon the shore he fell).
-
-447) > **Kaawiin kanage nibiiwisii, onameman kaye osagishikonenaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">He was not wet, and his sturgeon he held by the tail.</span>
-
-</div>
-
-
-Kaawiin kanage nibiiwisii (he was not wet at all), onameman kaye osagishikonenaan (and his sturgeon he held by the tail).
-
-448) > **Mii dash mamiigwechiwi'aat omishoomisan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon he gave thanks to his grandfather.</span>
-
-</div>
-
-
-Mii dash mamiigwechiwi’aat omishoomisan (thereupon he gave thanks to his grandfather).
-
-449) > **Mii dash maajaat mishiname kaye dash ani-gopiit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And when the Great-Sturgeon departed, then he too went up from the shore.</span>
-
-</div>
-
-
-Mii dash maajaat mishiname (and when the Great-Sturgeon departed) kaye dash ani-gopiit (then he too went up from the shore).
-
-450) > **Waawishendank ki-pimaatisit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">He was proud for that he had been saved.</span>
-
-</div>
-
-
-Waawishendank ki-pimaatisit (he was glad that he had been saved).
-
-451) > **Mii dash ani-piindiget endaawaat, oogoshko'aan wiiwan, kaye kanoonigot:  
-     > **And when he entered into the place where they lived, he surprised his wife. And he was addressed by her saying:
-
-Mii dash ani-piindiget endaawaat (and when he entered the place where they lived), oogoshko’aan wiiwan (he surprised his wife), kaye kanoonigot (and he was addressed by her):
-
-452) > **"Aaniin\!" odigoon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"What\!" he was told.</span>
-
-</div>
-
-
-“Aaniin\!” odigoon (“what\!” he was asked).
-
-453) > **"Aantish kiwiichiiwaagan?"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Where is your companion?"</span>
-
-</div>
-
-
-“Aantish kiwiichiiwaagan?” (“where is your companion?”)
-
-454) > **Inini dash ikito:  
-     > **And the man said:
-
-Inini dash ikito (and the man said):
-
-455) > **"Aaniini\!" odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why\!" he said to her.</span>
-
-</div>
-
-
-“Aaniini\!” odinaan (“why\!” he said to her).
-
-456) > **"Mii na chi-pwaa-dagwishing?**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Is it possible that he has not yet arrived?</span>
-
-</div>
-
-
-“Mii na chi-pwaa-dagwishing? (“is it possible he has not yet arrived?)
-
-457) > **Mewiizha wiin kii-pimaajaaban," odinaan wiiwan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Long ago was it since he himself started on his way back," he said to his wife.</span>
-
-</div>
-
-
-Mewiizha wiin kii-pimaajaaban,” odinaan wiiwan (long ago did he start on his way back,” he said to his wife).
-
-458) > **Mii dash enaat:  
-     > **And then he said to her:
-
-Mii dash enaat (and then he said to her):
-
-459) > **"Chiibakwen\!" odinaan wiiwan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Cook some food\!" he said to his wife.</span>
-
-</div>
-
-
-“Chiibakwen\!” odinaan wiiwan (“cook some food\!” he said to his wife).
-
-460) > **"Agamiing ningii-naganaa name."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Down by the water have I left a sturgeon."</span>
-
-</div>
-
-
-“Agamiing ningii-naganaa name.” (“down by the water I have left a sturgeon.”)
-
-461) > **Mii dash pasingochiset aw ikwe.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then up leaped the woman.</span>
-
-</div>
-
-
-Mii dash pasingochiset aw ikwe (and then up leaped the woman).
-
-462) > **Ani-odaapinaat odakikoom.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">She went, taking her kettle.</span>
-
-</div>
-
-
-Ani-odaapinaat odakikoom (she went, taking her kettle).
-
-463) > **Mii dash eni-tagwishing agamiing inaabit imaa kii-pagodinaanit namewan onaabeman, epiitishininit namewa'\!**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And when she reached the shore, she looked at the place where her husband had put the sturgeon, and what a huge pile of sturgeons there was\!</span>
-
-</div>
-
-
-Mii dash eni-tagwishing agamiing inaabit imaa kii-pagodinaanit namewan onaabeman (and when she reached the shore, she looked where her husband had set down the sturgeon), epiitishininit namewa’\! (and what a huge pile of sturgeon there was\!)
-
-464) > **Kichi-minwendam aw ikwe.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Very happy was the woman.</span>
-
-</div>
-
-
-Kichi-minwendam aw ikwe (very happy was the woman).
-
-465) > **Kopikitood neyaap aw ikwe, ani-inaat omiseyan:  
-     > **Running back up from the shore, the woman went, and said to her elder sister:
-
-Kopikitood neyaap aw ikwe (running back up from the shore the woman went), ani-inaat omiseyan (saying to her elder sister):
-
-466) > **"Ombe\! kigii-kichi-nibekwa'igomin\!"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Come\! he has fetched us a bountiful supply of food."</span>
-
-</div>
-
-
-“Ombe\! kigii-kichi-nibekwa’igomin\!” (“come\! he has fetched us a bountiful supply of food\!”)
-
-467) > **Pasigonchisegwen kaye wiin omise'imaa, ani-naazibiipatiod.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Then up must have leaped also her elder sister, for down the path to the water she went running.</span>
-
-</div>
-
-
-Pasigonchisegwen kaye wiin omise’imaa (then up too must have leaped her elder sister), ani-naazibiipatiod (for down the path to the water she went running).
-
-468) > **Mii dash kaye wiin waabamaat niibiwa namewa'.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And she also saw the many sturgeons.</span>
-
-</div>
-
-
-Mii dash kaye wiin waabamaat niibiwa namewa’ (and she too saw the many sturgeon).
-
-469) > **Taabishkoo moojigiswaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Both were pleased.</span>
-
-</div>
-
-
-Taabishkoo moojigiswaat (both were glad).
-
-470) > **Mii dash kiiwenh aw inini enendank:  
-     > **And now they say that the man thought:
-
-Mii dash kiiwenh aw inini enendank (and now, they say, the man thought):
-
-471) > **"Wegonen aapiji wenji-moojigisiwaat?" inendam.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why are they so very happy?" he thought.</span>
-
-</div>
-
-
-“Wegonen aapiji wenji-moojigisiwaat?” inendam (“why are they so very happy?” he thought).
-
-472) > **Mii go iiniw mekwenimaat pezhik paapinaat namewan; kaawiin kaye wiin ogikendanziin, kawiin dash kaye kegoo wii-kiikitosii.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">He had in mind only the one sturgeon that he had fetched; for he did not know about (the vast quantity of fish), and he also did not wish to say anything (about his adventure).</span>
-
-</div>
-
-
-Mii go iiniw mekwenimaat pezhik paapinaat namewan (he had in mind only the single sturgeon he had brought); kaawiin kaye wiin ogikendanziin (for he did not know about the rest), kawiin dash kaye kegoo wii-kiikitosii (and he did not wish to say anything either).
-
-473) > **Mii dash kiiwenh iingiw ikweg wewiip kii-oshi'aawaat iiniw namewa'; kii-nametekokaanaawaat; kii-agoonaawaat agwachiing kaye piindig endaawaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they say that the women quickly prepared the sturgeons for use;they smoked them upon drying-frames;they hung them up out of doors and inside of where they dwelt.</span>
-
-</div>
-
-
-Mii dash kiiwenh iingiw ikweg wewiip kii-oshi’aawaat iiniw namewa’ (and then, they say, the women quickly prepared the sturgeon); kii-nametekokaanaawaat (they smoked them on drying-frames); kii-agoonaawaat agwachiing kaye piindig endaawaat (they hung them up outside and inside where they lived).
-
-474) > **Mii dash ki\[i\]-wiisiniwaat niibiwa, kaye namewitaambiin ogii-aamwaawaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they had a great deal to eat, and \[the spinal cord\] of sturgeon they ate.</span>
-
-</div>
-
-
-Mii dash ki\[i\]-wiisiniwaat niibiwa (and then they had much to eat), kaye namewitaambiin ogii-aamwaawaan (and the spinal cord of the sturgeon they ate).
-
-475) > **Iingiy odash abinoojii'ag opapaa-a'iindanamaawaan iiniw wataambiin.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And the children went about outside, eating the spinal cord.</span>
-
-</div>
-
-
-Iingiy odash abinoojii’ag opapaa-a’iindanamaawaan iiniw wataambiin (and the children went about eating the spinal cord).
-
-476) > **Mii dash kiiwenh awe akawenzi tagwishing pichegiset.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And they say, when the old man returned, he came riding his canoe upon the shore.</span>
-
-</div>
-
-
-Mii dash kiiwenh awe akawenzi tagwishing pichegiset (and then, they say, when the old man returned, he rode his canoe up onto the shore).
-
-477) > **Mii dash iigiw abinoochii'ag naasipiipa'itiiwaat pekish tatakonaawaat iiniw otaambiin.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon the children ran racing down the path to the water, at the same time holding in their hands the spinal cord.</span>
-
-</div>
-
-
-Mii dash iigiw abinoochii’ag naasipiipa’itiiwaat (thereupon the children ran racing down to the water) pekish tatakonaawaat iiniw otaambiin (at the same time holding the spinal cord in their hands).
-
-478) > **Me dash kiiwenh enaat iiniw ooshishenya':  
-     > **And then they say that he said to his grandchildren:
-
-Me dash kiiwenh enaat iiniw ooshishenya’ (and then, they say, he said to his grandchildren):
-
-479) > **"Aanti kaa-ondinameg maajiyeg?"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Where did you get what you are eating?"</span>
-
-</div>
-
-
-“Aanti kaa-ondinameg maajiyeg?” (“where did you get what you are eating?”)
-
-480) > **"Nimpaapa'inaan sa ogii-pitoon."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why, our father fetched it."</span>
-
-</div>
-
-
-“Nimpaapa’inaan sa ogii-pitoon.” (“why, our father brought it.”)
-
-481) > **"Wegonen i'iw?" odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"What is it?" he said to them.</span>
-
-</div>
-
-
-“Wegonen i’iw?” odinaan (“what is it?” he said to them).
-
-482) > **"Namewan sa," odigoo'.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why, sturgeon," he was told.</span>
-
-</div>
-
-
-“Namewan sa,” odigoo’ (“sturgeon, of course,” he was told).
-
-483) > **"A\! ikitoowinen\!" ikito akiwenzi.  
-     > **"Pshaw\! what foolishness are they saying\!" (so) said the old man.
-
-“A\! ikitoowinen\!” ikito akiwenzi (“pshaw\! what foolishness they speak\!” said the old man).
-
-484) > **"'Sha, nimpaapaa'inaan\!'  
-     > **"'Oh, it was our father\!'
-
-“‘Sha, nimpaapaa’inaan\!’ (“‘oh, it was our father\!’)
-
-485) > **Noomikena mi(i)shinamewan ogii-komigoon kipaapa.  
-     > **Why, it is some time since that by a big sturgeon was your father swallowed.
-
-Noomikena mi(i)shinamewan ogii-komigoon kipaapa (why, some time ago a great sturgeon swallowed your father).
-
-486) > **Shiga kosha ogashikotaamigoon aw kipaapa'iwaa," odinaan iiniw ooshishenya'.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">In fact, by this time is your father digested," (so) he said to his grandchildren.</span>
-
-</div>
-
-
-Shiga kosha ogashikotaamigoon aw kipaapa’iwaa,” odinaan iiniw ooshishenya’ (in fact, by now your father is digested,” he said to his grandchildren).
-
-487) > **"Mii desh nimpaapaa'inaan sa go kii-tagwishin."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why, our father has already come home."</span>
-
-</div>
-
-
-“Mii desh nimpaapaa’inaan sa go kii-tagwishin.” (“why, our father has already come home.”)
-
-488) > **Aw idash akiwenzi aapiji wenaagos\[h\]ininig tagwishin.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Now, the old man was late in the evening arriving home.</span>
-
-</div>
-
-
-Aw idash akiwenzi aapiji wenaagos\[h\]ininig tagwishin (now the old man arrived home late in the evening).
-
-489) > **Kaawiin kanage kegoo piitoosiin.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Not a single thing did he fetch.</span>
-
-</div>
-
-
-Kaawiin kanage kegoo piitoosiin (not a single thing did he bring).
-
-490) > **Mii dash kabet; mii dash inaabit, misiwe owabandan kegoo agootenig, agwaawaanan agootenig agwaching.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then he went ashore; and as he looked, everywhere he saw something hanging, pendant pieces hanging out of doors.</span>
-
-</div>
-
-
-Mii dash kabet (and then he went ashore); mii dash inaabit (and as he looked), misiwe owabandan kegoo agootenig (everywhere he saw things hanging), agwaawaanan agootenig agwaching (drying-pieces hanging outdoors).
-
-491) > **Kaye ani-piindiget owiinge mooshkinegwaawewag piindig.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And when he went indoors, brimful of things hanging was the space inside.</span>
-
-</div>
-
-
-Kaye ani-piindiget owiinge mooshkinegwaawewag piindig (and when he went indoors, the inside was brimful of things hanging).
-
-492) > **Mii desh kiiwenh akiwenzi kaa-gwiinawii-inaabit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then it is said that the old man knew not where to look.</span>
-
-</div>
-
-
-Mii desh kiiwenh akiwenzi kaa-gwiinawii-inaabit (and then, they say, the old man knew not where to look).
-
-493) > **Weyaabamaat oniingwanan sheshiingishininit wendabinit, kaawiin kegoo ikitosii.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">When he saw his son-in-law reclining at his sitting-place, nothing had he to say.</span>
-
-</div>
-
-
-Weyaabamaat oniingwanan sheshiingishininit wendabinit (when he saw his son-in-law reclining at his sitting-place), kaawiin kegoo ikitosii (nothing had he to say).
-
-494) > **Mii dash kiiwenh minawaa ningoting aanish i(i)naa aatisookaan miinawaa odinaan oningwanan:  
-     > **And now they say that on another occasion, according to the story, he said to his son-in-law:
-
-Mii dash kiiwenh minawaa ningoting aanish i(i)naa aatisookaan (and now, they say, on another occasion, as the story goes) miinawaa odinaan oningwanan (he again said to his son-in-law):
-
-495) > **"Chi-pabaa-nanto-kayaashkwaawaanweyaangoban\!"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Let us go hunting for gull-eggs\!"</span>
-
-</div>
-
-
-“Chi-pabaa-nanto-kayaashkwaawaanweyaangoban\!” (“let us go hunting for gull-eggs\!”)
-
-496) > **Mii dash kiiwenh enaat:  
-     > **Whereupon they say that he said to him:
-
-Mii dash kiiwenh enaat (whereupon, they say, he said to him):
-
-497) > **"Aaniin nangwana\!"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Well, all right\!"</span>
-
-</div>
-
-
-“Aaniin nangwana\!” (“well, all right\!”)
-
-498) > **"Mii sa wabang chi-izhaiyang," odigoon ozhinisan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Then to-morrow will we go," he was told by his father-in-law.</span>
-
-</div>
-
-
-“Mii sa wabang chi-izhaiyang,” odigoon ozhinisan (“then tomorrow we will go,” he was told by his father-in-law).
-
-499) > **"Ningikendaan aniindi aapiji chi-onishishing ayaagin kayaashkwaawanoon," odinaan oningwanan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"I know where there is a fine place for gull-eggs," he said to his son-in-law.</span>
-
-</div>
-
-
-“Ningikendaan aniindi aapiji chi-onishishing ayaagin kayaashkwaawanoon,” odinaan oningwanan (“I know where there is a fine place for gull-eggs,” he said to his son-in-law).
-
-500) > **Mii dash kiiwenh aw inini minawaa aiyaangwaamimigot wiiwan aapiji.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then it is said that the man was again told by his wife to be ever so careful.</span>
-
-</div>
-
-
-Mii dash kiiwenh aw inini minawaa aiyaangwaamimigot wiiwan aapiji (and then, they say, the man was again warned by his wife to be very careful).
-
-501) > **Mii dash maajaawagobanen, poosiwaat minawaa.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon they started away, embarking again in the canoe.</span>
-
-</div>
-
-
-Mii dash maajaawagobanen, poosiwaat minawaa (thereupon they started off, embarking again in the canoe).
-
-502) > **Mii go miinawaa endoodank aw akiwenzhii'ish; pakite'ank ochimaanish, aazha miinawaa paapige wasa pi-tagwishinoog; minawaa pakite'ank ochimaan mii tagwishinowaat kischi-minisaabikonk; kischi-minisaabik.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And so the same thing as before the hateful old man did;he struck his old canoe, and soon they were suddenly a long distance away;again he struck his canoe, whereupon they arrived at a great island of rock; (it was) a great island of rock.</span>
-
-</div>
-
-
-Mii go miinawaa endoodank aw akiwenzhii’ish (and so the same thing as before the hateful old man did); pakite’ank ochimaanish (he struck his miserable canoe), aazha miinawaa paapige wasa pi-tagwishinoog (and at once again they were suddenly far off); minawaa pakite’ank ochimaan (again he struck his canoe) mii tagwishinowaat kischi-minisaabikonk (whereupon they arrived at a great rock-island); kischi-minisaabik (a great island of rock).
-
-503) > **"Mii omaa," odigoon; "miis\[h\] oomaa chi-gabaiyank," odigoon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Here is the place," the other was told; "here is just the place where we will go ashore," the other was told.</span>
-
-</div>
-
-
-“Mii omaa,” odigoon (“here is the place,” he was told); “miis\[h\] oomaa chi-gabaiyank,” odigoon (“right here is where we will go ashore,” he was told).
-
-504) > **Mii desh keget kabaawaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then truly they went ashore.</span>
-
-</div>
-
-
-Mii desh keget kabaawaat (and then truly they went ashore).
-
-505) > **Mii desh pabaamiwinigot ogitaabik.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then the other was guided round to the top.</span>
-
-</div>
-
-
-Mii desh pabaamiwinigot ogitaabik (and then he was guided round to the top of the rock).
-
-506) > **Keget niibiwa omikaanaawa.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Sure enough, many (eggs) they found.</span>
-
-</div>
-
-
-Keget niibiwa omikaanaawa (sure enough, many eggs they found).
-
-507) > **Aniish aw inini wewiip niibiwa odaiyaanan; maa'ojitoonan wawanoon, paa-poositood, naanaasikang miinawaa.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And as for himself, the man soon obtained many; he gathered the eggs, loaded them in the canoe, (and) kept on going after more.</span>
-
-</div>
-
-
-Aniish aw inini wewiip niibiwa odaiyaanan (and as for the man, he soon obtained many); maa’ojitoonan wawanoon (he gathered the eggs), paa-poositood (loading them into the canoe), naanaasikang miinawaa (and kept going after more).
-
-508) > **Mii dash akiwenzi minawaa inaat:  
-     > **And then the old man again said to him :
-
-Mii dash akiwenzi minawaa inaat (and then the old man again said to him):
-
-509) > **"Skomaa iwiti izhaan, na'aangii, naasikan wawanoon\!"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">" Do go yonder, son-inlaw, (and) get those eggs\!"</span>
-
-</div>
-
-
-“Skomaa iwiti izhaan, na’aangii, naasikan wawanoon\!” (“do go over yonder, son-in-law, and get those eggs\!”)
-
-510) > **"Maajaan kin naasikaan\!" odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Go yourself (and) get them\!" he said to him.</span>
-
-</div>
-
-
-“Maajaan kin naasikaan\!” odinaan (“go yourself and get them\!” he said to him).
-
-511) > **"Maajaan, maajaan\!  
-     > **"Go on, go on\!
-
-“Maajaan, maajaan\! (“go on, go on\!)
-
-512) > **Naansikan, kidinin\!"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Go get them, I tell you\!"</span>
-
-</div>
-
-
-Naansikan, kidinin\!” (go get them, I tell you\!”)
-
-513) > **Mii desh keget maanoo izhaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then truly against his wish he went.</span>
-
-</div>
-
-
-Mii desh keget maanoo izhaat (and then truly, against his wish, he went).
-
-514) > **"Maagishaa ninga-gesikawaa," inendam, "chibwaa-ani-tagwishing chiimaaning."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Perhaps I can overtake him," he thought, "before he gets to the canoe. "</span>
-
-</div>
-
-
-“Maagishaa ninga-gesikawaa,” inendam (“perhaps I can overtake him,” he thought), “chibwaa-ani-tagwishing chiimaaning.” (“before he reaches the canoe.”)
-
-515) > **Agaawaakota piichinikaawan pii-nagishkawaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Slow indeed was (the old man) coming when he met him on the way.</span>
-
-</div>
-
-
-Agaawaakota piichinikaawan pii-nagishkawaat (slow indeed was the old man coming when he met him on the way).
-
-516) > **Mii dash kaa-onjii-inendank, "Ningat-eni-mishkawaa."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And that was why he thought, "I will overtake him."</span>
-
-</div>
-
-
-Mii dash kaa-onjii-inendank, “Ningat-eni-mishkawaa.” (and that was why he thought, “I will overtake him.”)
-
-517) > **Payaabamiit idash inaabit aazha mi(i)shawagaan agamoowan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">But when he turned round to look, already far out at sea was the other in the canoe.</span>
-
-</div>
-
-
-Payaabamiit idash inaabit (but when he turned round to look) aazha mi(i)shawagaan agamoowan (already far out at sea was the other in the canoe).
-
-518) > **Mii dash aw inini noondawaat ikidonit:  
-     > **And then the man heard him saying:
-
-Mii dash aw inini noondawaat ikidonit (and then the man heard him saying):
-
-519) > **"Mi(i)shi-kayashkotog, kitashamininim inini; menwiisha ko ezhi-nandawentamawiyeg\!"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"O ye Great-Gulls\! I feed you a man; long have you wished him of me."</span>
-
-</div>
-
-
-“Mi(i)shi-kayashkotog, kitashamininim inini (“O you Great-Gulls\! I feed you a man); menwiisha ko ezhi-nandawentamawiyeg\!” (long have you wished him of me\!”)
-
-520) > **Mii dash keget pane go mishi-kayaashkwag.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon truly was there a great host of Great-Gulls.</span>
-
-</div>
-
-
-Mii dash keget pane go mishi-kayaashkwag (and then truly there was a great host of Great-Gulls).
-
-521) > **Mii desh kiiwenh aw inini minawaa naasaab enaat:  
-     > **And now they say the man said to them the same thing that he had said before:
-
-Mii desh kiiwenh aw inini minawaa naasaab enaat (and now, they say, the man said to them the same as before):
-
-522) > **"Chii, chii, chii\!" odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Hold on, hold on, hold on\!" he said to them.</span>
-
-</div>
-
-
-“Chii, chii, chii\!” odinaan (“hold on, hold on, hold on\!” he said to them).
-
-523) > **"Kigii-shawenimimiwaban kosha," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why, you have taken pity upon me in the past," he said to them.</span>
-
-</div>
-
-
-“Kigii-shawenimimiwaban kosha,” odinaan (“why, you have pitied me in the past,” he said to them).
-
-524) > **Mii dash ezhi-noogiiwaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon they withdrew.</span>
-
-</div>
-
-
-Mii dash ezhi-noogiiwaat (thereupon they drew back).
-
-525) > **Mii dash minawaa enaat:  
-     > **And then again he said to (one):
-
-Mii dash minawaa enaat (and then again he said to one):
-
-526) > **"Nimishoomis, kiiwewishishig endaiyaan," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"O my grandfather\! carry me back to where I live," he said to him.</span>
-
-</div>
-
-
-“Nimishoomis, kiiwewishishig endaiyaan,” odinaan (“my grandfather\! carry me back to where I live,” he said to him).
-
-527) > **"Aye'," odigoon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"All right\!" he was told.</span>
-
-</div>
-
-
-“Aye’,” odigoon (“all right\!” he was told).
-
-528) > **Mii dash awe inini pangi maajiitood wawanoon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then the man took along a few of the eggs.</span>
-
-</div>
-
-
-Mii dash awe inini pangi maajiitood wawanoon (and then the man took along a few eggs).
-
-529) > **Mii dash kiiwenh shayiigwa pipooninit waa-kiwewinigot mi(i)shi-kayaashkwan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon it is said that now came and alighted Great-Gull, by whom he was to be taken home.</span>
-
-</div>
-
-
-Mii dash kiiwenh shayiigwa pipooninit waa-kiwewinigot mi(i)shi-kayaashkwan (thereupon, they say, now came and alighted Great-Gull, by whom he was to be taken home).
-
-530) > **"Aa'aaw," odigoon; "nimpikwonaang owenapi(i)n."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"All right\!" he was told; "upon my back shall you sit."</span>
-
-</div>
-
-
-“Aa’aaw,” odigoon (“all right\!” he was told); “nimpikwonaang owenapi(i)n.” (“upon my back you shall sit.”)
-
-531) > **Mii dash keget ezhi-owenabit mii dash ezhi-maajiiset aw mishi-kayaashk.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And truly, when he was seated, then away went Great-Gull flying.</span>
-
-</div>
-
-
-Mii dash keget ezhi-owenabit (and truly, when he was seated) mii dash ezhi-maajiiset aw mishi-kayaashk (then away flew Great-Gull).
-
-532) > **Mii dash ani-papimiset owabamaan iiniw akiwezhii'ishan aabitawoonag ayatawaashininit piminagamonit pekish paaga'akokwenit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And as he went through the air, he beheld that contemptible old man in the middle of his canoe, lying there upon his back, singing as he went along, at the same time beating time against the canoe.</span>
-
-</div>
-
-
-Mii dash ani-papimiset owabamaan iiniw akiwezhii’ishan (and as he went through the air, he saw that contemptible old man) aabitawoonag ayatawaashininit (in the middle of his canoe, lying on his back) piminagamonit pekish paaga’akokwenit (singing as he went, beating time against the canoe at the same time).
-
-533) > **Mii dash kiiwenh aw mishi-gayaashk kaa-izhi-miijinaat naawaakigan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they say Great-Gull muted upon his chest.</span>
-
-</div>
-
-
-Mii dash kiiwenh aw mishi-gayaashk kaa-izhi-miijinaat naawaakigan (and then, they say, Great-Gull dropped its mute upon his chest).
-
-534) > **Mii dash kiiwenh kaa-izhinaanshibitood kiiminaandank, mii dash kiiwenh ekitot:  
-     > **And then they say that afterwards, when he rubbed his finger in it, he smelled of it.Whereupon they say he said:
-
-Mii dash kiiwenh kaa-izhinaanshibitood kiiminaandank (and then, they say, afterward, when he rubbed his finger in it, he smelled it), mii dash kiiwenh ekitot (whereupon, they say, he said):
-
-535) > **"Pwaa\! mii yeshmaagotinig omo'owaa na'aangii kaa-oomwogot."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Phew\! such is the smell of the mute of the one by whom (my) son-in-law was devoured."</span>
-
-</div>
-
-
-“Pwaa\! mii yeshmaagotinig omo’owaa na’aangii kaa-oomwogot.” (“phew\! such is the smell of the mute of the one that devoured my son-in-law.”)
-
-536) > **Mii dash kiiwenh aw inini kii-tagwishimigot endaat iiniw mi(i)shi-gayaashkwan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And so it is said that the man was conveyed home by Great-Gull.</span>
-
-</div>
-
-
-Mii dash kiiwenh aw inini kii-tagwishimigot endaat iiniw mi(i)shi-gayaashkwan (and so, they say, the man was carried home by Great-Gull).
-
-537) > **Mii dash kii-pagitinigot imaa agamiing.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then he was let down over there at the shore.</span>
-
-</div>
-
-
-Mii dash kii-pagitinigot imaa agamiing (and then he was let down over there at the shore).
-
-538) > **Mii dash kii-ani-gopit kii-ani-piindiget endaawaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon he went on up from the water, and passed on into where he and the others lived.</span>
-
-</div>
-
-
-Mii dash kii-ani-gopit kii-ani-piindiget endaawaat (thereupon he went up from the water and on into where they lived).
-
-539) > **Aapiji dash kiiwenh minwendamon wiiwan kaye oniijaanisan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And very pleased, so they say, were his wife and his children.</span>
-
-</div>
-
-
-Aapiji dash kiiwenh minwendamon wiiwan kaye oniijaanisan (and very pleased, they say, were his wife and his children).
-
-540) > **Pane aw ikwe, "Amanch igo naa niwiitigemaagan, minawaa chi-tagwishinogwen\!" inendam aw ikwe.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Always was the woman (thinking), "I wonder how my husband is, and when again he will be home\!" thought the woman.</span>
-
-</div>
-
-
-Pane aw ikwe, “Amanch igo naa niwiitigemaagan, minawaa chi-tagwishinogwen\!” inendam aw ikwe (the woman was always thinking, “I wonder how my husband is, and when he will be home again\!” thought the woman).
-
-541) > **Mii dash minawaa egot onaabeman:  
-     > **Thereupon again was she told by her husband:
-
-Mii dash minawaa egot onaabeman (thereupon again she was told by her husband):
-
-542) > **"Niwii-wiisin," odigoon.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"I wish to eat," (so) she was told.</span>
-
-</div>
-
-
-“Niwii-wiisin,” odigoon (“I wish to eat,” she was told).
-
-543) > **Mii desh ki-minaat wiiwan wawanoon pangii kaa-pitood.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then he gave to his wife the few eggs that he had fetched.</span>
-
-</div>
-
-
-Mii desh ki-minaat wiiwan wawanoon pangii kaa-pitood (and then he gave his wife the few eggs he had brought).
-
-544) > **Mii dash inaat:  
-     > **And he said to her:
-
-Mii dash inaat (and he said to her):
-
-545) > **"Chiimaaning niibiwa niingii-atoonan wawanoon," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"In the canoe are many eggs I put in," he said to her.</span>
-
-</div>
-
-
-“Chiimaaning niibiwa niingii-atoonan wawanoon,” odinaan (“in the canoe are many eggs that I put in,” he said to her).
-
-546) > **"Oonh\!" ikitoo ikwe.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Oh\!" said the woman.</span>
-
-</div>
-
-
-“Oonh\!” ikitoo ikwe (“oh\!” said the woman).
-
-547) > **Mii dash kiiwenh kii-kiisisangin pangii kaa-pitoonit onaapeman.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they say that she cooked the few that her husband had fetched.</span>
-
-</div>
-
-
-Mii dash kiiwenh kii-kiisisangin pangii kaa-pitoonit onaapeman (and then, they say, she cooked the few that her husband had brought).
-
-548) > **Mii dash kii-wiisiniwaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon they ate.</span>
-
-</div>
-
-
-Mii dash kii-wiisiniwaat (thereupon they ate).
-
-549) > **Mii dash kiiwenh iigiw abinoochiiyag saasaagitapiwaat mii minawa waabamaawaat omishoomisiwaan pitagwishininit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then it is said that the children were sitting out of doors, when again they saw their grandfather coming home.</span>
-
-</div>
-
-
-Mii dash kiiwenh iigiw abinoochiiyag saasaagitapiwaat (and then, they say, the children were sitting outside) mii minawa waabamaawaat omishoomisiwaan pitagwishininit (when again they saw their grandfather coming home).
-
-550) > **Mii dash egoowaat:  
-     > **Thereupon they were asked:
-
-Mii dash egoowaat (thereupon they were asked):
-
-551) > **"Wegonen maajiiyeg?"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"What are you eating?"</span>
-
-</div>
-
-
-“Wegonen maajiiyeg?” (“what are you eating?”)
-
-552) > **"Wawanoon," odinawaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Eggs," they said to him.</span>
-
-</div>
-
-
-“Wawanoon,” odinawaan (“eggs,” they said to him).
-
-553) > **"Wegonen tino wawanoon?" odinaa'.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"What kind of eggs?" he said to them.</span>
-
-</div>
-
-
-“Wegonen tino wawanoon?” odinaa’ (“what kind of eggs?” he said to them).
-
-554) > **"Kayaashkwaawanoon sa," odinaawaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Gull-eggs, to be sure," they said to him.</span>
-
-</div>
-
-
-“Kayaashkwaawanoon sa,” odinaawaan (“gull-eggs, of course,” they said to him).
-
-555) > **"Aanti kaa-ontinameg?"**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Where did you get them?"</span>
-
-</div>
-
-
-“Aanti kaa-ontinameg?” (“where did you get them?”)
-
-556) > **"Nimpaapaanaan sa ogii-piitoonan," odinaawaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why, our father fetched them," they said to him.</span>
-
-</div>
-
-
-“Nimpaapaanaan sa ogii-piitoonan,” odinaawaan (“why, our father brought them,” they said to him).
-
-557) > **"Anh\!" odinaa.  
-     > **"Fie\!" he said to them.
-
-“Anh\!” odinaa (“fie\!” he said to them).
-
-558) > **"Sha, nimpoopoonoon\!'  
-     > **" 'Oh, it was our father\!
-
-“Sha, nimpoopoonoon\!’ (“‘oh, it was our father\!’)
-
-559) > **Noomiikena mi(i)shikayaashkwan ogii-nangwodemigoon a koosiwaa," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">'Why, it has been some time since that your father was digested by Great-Gull," he (thus) said to them.</span>
-
-</div>
-
-
-Noomiikena mi(i)shikayaashkwan ogii-nangwodemigoon a koosiwaa,” odinaan (why, some time ago your father was digested by Great-Gull,” he said to them).
-
-560) > **Mii desh kiiwenh ezhi-oshkipa'itiwaat iigiw abinoochiii'ag ani-kiiwewaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon they say that back sped the children, racing home.</span>
-
-</div>
-
-
-Mii desh kiiwenh ezhi-oshkipa’itiwaat iigiw abinoochiii’ag ani-kiiwewaat (thereupon, they say, the children sped back, racing home).
-
-561) > **Mii dash kiiwenh aw akiwenzhii'ish eni-gopiit; ani-piindiget, keget dash owabamaan oningwanan ayaanit piindik.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And now it is said that the old man went on up from the shore; and when he passed on inside, truly, there he saw his son-in-law, who was within.</span>
-
-</div>
-
-
-Mii dash kiiwenh aw akiwenzhii’ish eni-gopiit (and now, they say, the old man went up from the shore); ani-piindiget (and as he passed inside), keget dash owabamaan oningwanan ayaanit piindik (truly he saw his son-in-law, who was within).
-
-562) > **Mii desh keget kwiinawii-inaabi; kaye inandank aaniin ezhiwebisigwen, aapichi kwiinawi-inenimaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And it was true that he knew not where to look; and he began to wonder what manner of person the other was, so very much was he puzzled in thought concerning him.</span>
-
-</div>
-
-
-Mii desh keget kwiinawii-inaabi (and it was true that he knew not where to look); kaye inandank aaniin ezhiwebisigwen (and he began to wonder what manner of being the other was), aapichi kwiinawi-inenimaan (so very puzzled was he in his thought about him).
-
-563) > **Kewiin dash kegoo ikitosii minawaa. \[kaawiin\]**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">But he had nothing further to say.</span>
-
-</div>
-
-
-Kewiin dash kegoo ikitosii minawaa (but he had nothing more to say).
-
-564) > **Niingoding dash kiiwenh minawaa odinaan oningwanan:  
-     > **And so once on a time they say that he said to his son-in-law:
-
-Niingoding dash kiiwenh minawaa odinaan oningwanan (and so once on a time, they say, he again said to his son-in-law):
-
-565) > **"Na'aangii, mi sa minawaa chi(i)-nandawenjigeyangoban.  
-     > **"Son-in-law, it is now time for us again to go hunting for game.
-
-“Na’aangii, mi sa minawaa chi(i)-nandawenjigeyangoban (“son-in-law, it is now time for us to go hunting again).
-
-566) > **Chi(i)-ando-odikweyang\!" \[ji-(n)ando-adikweyang\]**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Let us go hunting for caribou\!"</span>
-
-</div>
-
-
-Chi(i)-ando-odikweyang\!” (let us go hunting for caribou\!”)
-
-567) > **"Aaniin nangwana\!" odinaan aw inini.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Well, all right\!" to him (thus) said the man.</span>
-
-</div>
-
-
-“Aaniin nangwana\!” odinaan aw inini (“well, all right\!” said the man to him).
-
-568) > **Mii dash enaat wiiwan:  
-     > **Thereupon he said to his wife:
-
-Mii dash enaat wiiwan (thereupon he said to his wife):
-
-569) > **"Oshitoon makisi(i)nan."**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Make some moccasins."</span>
-
-</div>
-
-
-“Oshitoon makisi(i)nan.” (“make some moccasins.”)
-
-570) > **Mii dash keget aw ikwe oshitood.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Whereupon in truth the woman made them.</span>
-
-</div>
-
-
-Mii dash keget aw ikwe oshitood (whereupon truly the woman made them).
-
-571) > **Mii dash kaye wiin akiwenzhii'ish oshishchikaatenig omakizinan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And the mean old man likewise had some moccasins made.</span>
-
-</div>
-
-
-Mii dash kaye wiin akiwenzhii’ish oshishchikaatenig omakizinan (and the mean old man too had moccasins made for himself).
-
-572) > **Mii dash maajaawaad; pipooninigoban.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon they set out; it was in the winter-time.</span>
-
-</div>
-
-
-Mii dash maajaawaad (thereupon they set out); pipooninigoban (it was wintertime).
-
-573) > **Mii dash wasa tagwishinowaat, "Mii sa omaa na'aangii, chii-oshigeyang, " odinaan oningwanan aw akiwenzii.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And when a long way off they were come, "Now this is the place, son-in-law, where we are to camp." (thus) to his son-in-law said the old man.</span>
-
-</div>
-
-
-Mii dash wasa tagwishinowaat (and when they had come a long way off), “Mii sa omaa na’aangii, chii-oshigeyang,” odinaan oningwanan aw akiwenzii (“now this is the place, son-in-law, where we will camp,” the old man said to his son-in-law).
-
-574) > **Mii dash kiiwenh keget imaa oshigewaat, kichi-ashiganegaan oshitoonaawaa.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they say that truly there they made camp, a great sheltercamp they put up.</span>
-
-</div>
-
-
-Mii dash kiiwenh keget imaa oshigewaat (and then, they say, truly there they camped), kichi-ashiganegaan oshitoonaawaa (a great shelter-camp they put up).
-
-575) > **Kaye dash kichi-ishkote nabaneya'ii.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And also a huge fire at one side (was kindled).</span>
-
-</div>
-
-
-Kaye dash kichi-ishkote nabaneya’ii (and also a great fire at one side).
-
-576) > **Mii dash kiiwenh aw akiwrnzhii'ish shayiigwa ki-kiishendank waatoodawaat oniingwanan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And now it is said that the contemptible old man had already, by this time, made up his mind as to what he would do to his son-inlaw.</span>
-
-</div>
-
-
-Mii dash kiiwenh aw akiwrnzhii’ish shayiigwa ki-kiishendank waatoodawaat oniingwanan (and now, they say, the contemptible old man had by now made up his mind what he would do to his son-in-law).
-
-577) > **Mii dash kiiwenh enaat kaa-iishkwa-wiisiniwaat wenaagoshininig:  
-     > **Therefore they say that he said to him, after they had eaten in the evening:
-
-Mii dash kiiwenh enaat kaa-iishkwa-wiisiniwaat wenaagoshininig (therefore, they say, he said to him after they had eaten in the evening):
-
-578) > **"Na'aangii," odinaan, "kischi-poodowen," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Son-in-law," he (thus) said to him, "build up a great fire," he said to him.</span>
-
-</div>
-
-
-“Na’aangii,” odinaan, “kischi-poodowen,” odinaan (“son-in-law,” he said to him, “build up a great fire,” he said to him).
-
-579) > **"Mii dash kii-kichi-poodaweyan mii chi-gagiichiiyang chi-paasamang; ki(i)dai'iiminaanin kii-kataiyagootoomin kaye kimakisinaanin," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"And after you have kindled a big fire, then let us remove our moccasins, so that we can dry them; our clothes will we hang up, and likewise our moccasins," he (thus) said to him.</span>
-
-</div>
-
-
-“Mii dash kii-kichi-poodaweyan mii chi-gagiichiiyang chi-paasamang (“and after you have built a big fire, then let us take off our moccasins to dry them); ki(i)dai’iiminaanin kii-kataiyagootoomin kaye kimakisinaanin,” odinaan (we will hang up our clothes, and our moccasins too,” he said to him).
-
-580) > **Mii dash kiiwenh keget aw inini ezhipasigwiit, keget kischi-poodawet.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon they say that truly the man rose to his feet; in truth, a great fire he built.</span>
-
-</div>
-
-
-Mii dash kiiwenh keget aw inini ezhipasigwiit (thereupon, they say, truly the man rose to his feet), keget kischi-poodawet (truly he built a great fire).
-
-581) > **Eshkwaa-poodawenit idash, odinaan aw akiwenzii oningwanan:  
-     > **After he had the fire going, then said the old man to his son-inlaw:
-
-Eshkwaa-poodawenit idash, odinaan aw akiwenzii oningwanan (and after he had the fire going, the old man said to his son-in-law):
-
-582) > **"Omaa pii-apagitoon mi(i)san aanint, pesho oma ayaayaan.  
-     > **"Here in this place come you, and throw some of the firewood, near here where I am.
-
-“Omaa pii-apagitoon mi(i)san aanint, pesho oma ayaayaan (“throw some of the firewood over here, near where I am).
-
-583) > **Ninga-pagiti(i)naani(i)n aniyaataweg ishkote," odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">I will put it on when the fire gets to burning low," he said to him.</span>
-
-</div>
-
-
-Ninga-pagiti(i)naani(i)n aniyaataweg ishkote,” odinaan (I will put it on when the fire burns low,” he said to him).
-
-584) > **Mii dash keget aw inini kiiwakwaakowebinang chiigaya'ii ayaanit iiniw akiwenzhii'ishan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Thereupon truly did the man heap up a pile near by where the mean old man was.</span>
-
-</div>
-
-
-Mii dash keget aw inini kiiwakwaakowebinang chiigaya’ii ayaanit iiniw akiwenzhii’ishan (thereupon truly the man heaped up a pile near where the mean old man was).
-
-585) > **Mii dash kaye wiin aw inini ezhi-oshiitaad wii-kawishimot.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then the man, in turn, likewise made ready to go to bed.</span>
-
-</div>
-
-
-Mii dash kaye wiin aw inini ezhi-oshiitaad wii-kawishimot (and then the man in turn made ready to go to bed).
-
-586) > **Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan, kaawiin kanage kegoo inendandanzi, "Miimaawin i'iw ningadootaagoo," chi-inendank.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Accordingly he took off his moccasins and hung them up, for of nothing at all was he suspicious that should lead him to think, "Perhaps some evil will be done to me."</span>
-
-</div>
-
-
-Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan (accordingly he took off his moccasins and hung them up), kaawiin kanage kegoo inendandanzi (suspecting nothing at all), “Miimaawin i’iw ningadootaagoo,” chi-inendank (such as to think, “perhaps some evil will be done to me”).
-
-587) > **Mii dash ezhi-ozhishimooniket, kaye wiin dash akiiwenzhii'ish chaachiigs\[h\]koteweshin; kaawiin mashi kagiichiisii.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And while he was making his pallet ready, the hateful old man was himself lying close to the fire; not yet had he taken off his moccasins.</span>
-
-</div>
-
-
-Mii dash ezhi-ozhishimooniket (and while he was making his pallet ready), kaye wiin dash akiiwenzhii’ish chaachiigs\[h\]koteweshin (the hateful old man was himself lying close to the fire); kaawiin mashi kagiichiisii (not yet had he taken off his moccasins).
-
-588) > **Mii dash kiiwenh aw inini enaat:  
-     > **And then truly the man said to him:
-
-Mii dash kiiwenh aw inini enaat (and then, they say, the man said to him):
-
-589) > **"Aaniish inaa\! Ambe kagiichiishiwan chi-agootooyan iiniw iiniw kimaki(i)sinan chi-paateg megwaa kichi-pi(i)skaneg?" odinaan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">"Why, come\! Why are you not taking off your moccasins (and) hanging them up to dry while yet the fire blazes high?" he (thus) said to him.</span>
-
-</div>
-
-
-“Aaniish inaa\! Ambe kagiichiishiwan chi-agootooyan iiniw iiniw kimaki(i)sinan chi-paateg megwaa kichi-pi(i)skaneg?” odinaan (“why, come\! why don’t you take off your moccasins and hang them to dry while the fire still blazes high?” he said to him).
-
-590) > **Mii dash kiiwenh akiwenzi nebaangin izhi-ayaa.**
+<span class="l-gloss">Weyaabamaat oniingwanan sheshiingishininit wendabinit (when he saw his son-in-law reclining at his sitting-place), gaawiin kegoo ikitosii (nothing had he to say).</span>
 
+<span class="l-orig">(494) Mīdạc kīwäⁿ minawā ninguting ānicînā ātisō‘kān mīnawā udinān uningwạnạn:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kiiwenh minawaa ningoting aanish i(i)naa aatisookaan miinawaa odinaan oningwanan:**</span>
 
-> <span class="l-gloss">Now, they say that the old man acted as if he were asleep.</span>
+<span class="l-eng">*And now they say that on another occasion, according to the story, he said to his son-in-law:*</span>
 
-</div>
-
-
-Mii dash kiiwenh akiwenzi nebaangin izhi-ayaa (now, they say, the old man acted as if he were asleep).
-
-591) > **Wiikaa go pimiwaawoniske.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">Some time afterwards he rose (from his pallet).</span>
-
-</div>
-
-
-Wiikaa go pimiwaawoniske (some time afterward he rose from his pallet).
-
-592) > **Aw idash inini shaashingishing mii dash aw akiwenzi pi(i)chiinag ayagootood omakisinishan, pekish kaye ayiintanwewetood.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And while the man was lying down at rest, then the old man later hung up his miserable moccasins, at the same time he kept on talking.</span>
-
-</div>
-
-
-Aw idash inini shaashingishing (and while the man lay resting) mii dash aw akiwenzi pi(i)chiinag ayagootood omakisinishan (then the old man at last hung up his miserable moccasins), pekish kaye ayiintanwewetood (at the same time talking on and on).
-
-593) > **Mii dash kiiwenh aw inini shigwa kaawiin aapiji wii-ni(i)baat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And now they say that the youth, in all this while, was not very eager about going to sleep.</span>
-
-</div>
-
-
-Mii dash kiiwenh aw inini shigwa kaawiin aapiji wii-ni(i)baat (and now, they say, the youth was not very eager to fall asleep).
-
-594) > **Aw idash akiwenzi awanchish kaagiigito, tatibaachimat; onchitagwo pekish tootam shikchi-aiyekwi'aat iiniw oniingwanan.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">But the old man nevertheless kept on talking, he was spinning stories; for a purpose of course was he doing it (which was) to the end that he might tire out his son-in-law.</span>
-
-</div>
-
-
-Aw idash akiwenzi awanchish kaagiigito, tatibaachimat (but the old man nevertheless kept on talking, spinning stories); onchitagwo pekish tootam shikchi-aiyekwi’aat iiniw oniingwanan (on purpose he was doing it, to tire out his son-in-law).
-
-595) > **Apii dash ni(i)baanit, aapiji kischi-kischi-ni(i)baanit.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And when the other fell asleep, into a very deep slumber did he fall.</span>
-
-</div>
-
-
-Apii dash ni(i)baanit, aapiji kischi-kischi-ni(i)baanit (and when the other fell asleep, into a very deep slumber he fell).
-
-596) > **Mii dash kiiwenh keget aw inini kaa-ishiwebisit apii nepaat.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And they say it is true that what the man had done to him happened while he was asleep.</span>
-
-</div>
-
-
-Mii dash kiiwenh keget aw inini kaa-ishiwebisit apii nepaat (and then, they say, truly what was done to the man happened while he slept).
-
-597) > **Mii dash awe akiiwenzii ayaapi ezhikanoonaat wii-kikenimaat chi-ni(i)baanigwen.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And the old man now and then was addressing him to find out if he were asleep.</span>
-
-</div>
-
-
-Mii dash awe akiiwenzii ayaapi ezhikanoonaat wii-kikenimaat chi-ni(i)baanigwen (and the old man now and then spoke to him to find out whether he was asleep).
-
-598) > **Kegapii dash aw inini kii-ni(i)baat, kaawiin noondawaasiin kanoonigot.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">At last the man had fallen asleep, for he did not hear the other when he was spoken to.</span>
-
-</div>
-
-
-Kegapii dash aw inini kii-ni(i)baat (at last the man had fallen asleep), kaawiin noondawaasiin kanoonigot (for he did not hear when he was spoken to).
-
-599) > **Mii dash kiiwenh kaa-ishii-onishkaat aw akiwenzhii-ishigoban, kaa-ishi-otaapinamawaat oningwanan omakisinini, kii-atodin shkodenk.**
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And then they say that after the hateful old man had risen from his pallet, he then later took down the moccasins of his son-in-law (and) put them into the fire.</span>
-
-</div>
-
-
-Mii dash kiiwenh kaa-ishii-onishkaat aw akiwenzhii-ishigoban (and then, they say, after the hateful old man had risen from his pallet), kaa-ishi-otaapinamawaat oningwanan omakisinini (he took down his son-in-law’s moccasins), kii-atodin shkodenk (and put them into the fire).
-
-600) > **Kegaa dash chaagaakidenik mii pichiinag kiigitot akiwezhii'ish, ikitot:  
-     > **And when they were nearly burned completely up, then spoke the base old man, saying:
-
-Kegaa dash chaagaakidenik (and when they were nearly burned right up) mii pichiinag kiigitot akiwezhii’ish, ikitot (then at last the base old man spoke, saying):
-
-601) > **"Paa paa, chaagiteg kegoo\!  
-     > **"Phew\! something is burning up\!
-
-“Paa paa, chaagiteg kegoo\! (“phew\! something is burning up\!)
-
-602) > **Na'aangii\! kimaki(i)sinan chaagitewan\!" odinaan.**
+<span class="l-gloss">Mii dash kiiwenh minawaa ningoting aanish i(i)naa aatisookaan (and now, they say, on another occasion, as the story goes) miinawaa odinaan oningwanan (he again said to his son-in-law):</span>
 
+<span class="l-orig">(495) “Tcipabānạntukayāckwāwānwäyāngubạn!”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Chi-pabaa-nanto-kayaashkwaawaanweyaangoban!”**</span>
 
-> <span class="l-gloss">O son-in-law\! your moccasins are burning up," he (thus) said to him.</span>
+<span class="l-eng">*“Let us go hunting for gull-eggs!”*</span>
 
-</div>
-
+<span class="l-gloss">“Chi-pabaa-nanto-kayaashkwaawaanweyaangoban!” (“let us go hunting for gull-eggs!”)</span>
 
-Na’aangii\! kimaki(i)sinan chaagitewan\!” odinaan (son-in-law\! your moccasins are burning up\!” he said to him).
+<span class="l-orig">(496) Mīdạc kīwäⁿ änāt:</span>
 
-603) > **Pepekaa go pimiwanishkaa aw inini.**
+<span class="l-fiero">**Mii dash kiiwenh enaat:**</span>
 
+<span class="l-eng">*Whereupon they say that he said to him:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh enaat (whereupon, they say, he said to him):</span>
 
-> <span class="l-gloss">Slowly rose the man from his pallet.</span>
+<span class="l-orig">(497) “Ānīn nạngwạna!”</span>
 
-</div>
+<span class="l-fiero">**“Aaniin nangwana!”**</span>
 
+<span class="l-eng">*“Well, all right!”*</span>
 
-Pepekaa go pimiwanishkaa aw inini (slowly the man rose from his pallet).
+<span class="l-gloss">“Aaniin nangwana!” (“well, all right!”)</span>
 
-604) > **Mii dash wabandangin omakisinan chaagitenig; aanawi dash aw akiwenzhii'ish aazha ogii-agwaawebi'aanan.**
+<span class="l-orig">(498) “Mīsa wâbạng tci∙i∙caiyạng,” udigōn ujinisạn.</span>
 
+<span class="l-fiero">**“Mii sa wabang chi-izhaiyang,” odigoon ozhinisan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Then to-morrow will we go,” he was told by his father-in-law.*</span>
 
-> <span class="l-gloss">And then he saw that his moccasins were burned up, for in fact the evil old man had by that time thrown them out (of the fire).</span>
+<span class="l-gloss">“Mii sa wabang chi-izhaiyang,” odigoon ozhinisan (“then tomorrow we will go,” he was told by his father-in-law).</span>
 
-</div>
+<span class="l-orig">(499) “Ningi‘kändān anīndi ā‘pidci tci∙u∙nicicing ayāgin kayāckwāwạnōn,” udinān uningwạnạn.</span>
 
+<span class="l-fiero">**“Ningikendaan aniindi aapiji chi-onishishing ayaagin kayaashkwaawanoon,” odinaan oningwanan.**</span>
 
-Mii dash wabandangin omakisinan chaagitenig (and then he saw that his moccasins were burned up); aanawi dash aw akiwenzhii’ish aazha ogii-agwaawebi’aanan (for in fact the evil old man had by then thrown them out of the fire).
+<span class="l-eng">*“I know where there is a fine place for gull-eggs,” he said to his son-in-law.*</span>
 
-605) > **Mii dash kaa-kanawabandank aw inini iiniw omakisinan kii-kawishimo minawaa.**
+<span class="l-gloss">“Ningikendaan aniindi aapiji chi-onishishing ayaagin kayaashkwaawanoon,” odinaan oningwanan (“I know where there is a fine place for gull-eggs,” he said to his son-in-law).</span>
 
+<span class="l-orig">(500) Mīdạc kīwäⁿ awinini minawā aiyāngwāmimigut wīwạn ā‘pidci.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kiiwenh aw inini minawaa aiyaangwaamimigot wiiwan aapiji.**</span>
 
-> <span class="l-gloss">And then, after the man had taken a look at his moccasins, he lay down on his pallet again.</span>
+<span class="l-eng">*And then it is said that the man was again told by his wife to be ever so careful.*</span>
 
-</div>
+<span class="l-gloss">Mii dash kiiwenh aw inini minawaa aiyaangwaamimigot wiiwan aapiji (and then, they say, the man was again warned by his wife to be very careful).</span>
 
+<span class="l-orig">(501) Mīdạc mādcāwâgubạnän, pōsiwāt minawā.</span>
 
-Mii dash kaa-kanawabandank aw inini iiniw omakisinan (and then, after the man had taken a look at his moccasins) kii-kawishimo minawaa (he lay down on his pallet again).
+<span class="l-fiero">**Mii dash maajaawagobanen, poosiwaat minawaa.**</span>
 
-606) > **Mii dash kiiwenh kegishep kii-pootawet a'kiwenzhii'ish, mii dash enaat oniingwanan:  
-     > **And then they say that in the morning the hateful old man built the fire.Whereupon he said to his son-in-law:
+<span class="l-eng">*Thereupon they started away, embarking again in the canoe.*</span>
 
-Mii dash kiiwenh kegishep kii-pootawet a’kiwenzhii’ish (and then, they say, in the morning the hateful old man built the fire), mii dash enaat oniingwanan (whereupon he said to his son-in-law):
+<span class="l-gloss">Mii dash maajaawagobanen, poosiwaat minawaa (thereupon they started off, embarking again in the canoe).</span>
 
-607) > **"Aaniin ke-tootaman omaki(i)zini(i)siwan chi-giiweyan?  
-     > **"What are you going to do about getting back home, now that you have no moccasins?
+<span class="l-orig">(502) Mīgu mīnawā ändōdạnk aᵘ a‘kiwäⁿjī∙i∙c; pa‘kitä∙ạ∙nk utcīmānic, āja mīnawā pāpigä wâsa pitạgwicinōg; minawā pa‘kitä∙ạ∙nk utcimān mī tạgwicinowāt kiˢtciminisābi‘kunk; kiˢtciminisābi‘k.</span>
 
-“Aaniin ke-tootaman omaki(i)zini(i)siwan chi-giiweyan? (“what will you do about going home, now that you have no moccasins?)
+<span class="l-fiero">**Mii go miinawaa endoodank aw akiwenzhii’ish; pakite’ank ochimaanish, aazha miinawaa paapige wasa pi-tagwishinoog; minawaa pakite’ank ochimaan mii tagwishinowaat kischi-minisaabikonk; kischi-minisaabik.**</span>
 
-608) > **Wasa dash kaye kitayaamin," odinaan.**
+<span class="l-eng">*And so the same thing as before the hateful old man did;he struck his old canoe, and soon they were suddenly a long distance away;again he struck his canoe, whereupon they arrived at a great island of rock; (it was) a great island of rock.*</span>
 
+<span class="l-gloss">Mii go miinawaa endoodank aw akiwenzhii’ish (and so the same thing as before the hateful old man did); pakite’ank ochimaanish (he struck his miserable canoe), aazha miinawaa paapige wasa pi-tagwishinoog (and at once again they were suddenly far off); minawaa pakite’ank ochimaan (again he struck his canoe) mii tagwishinowaat kischi-minisaabikonk (whereupon they arrived at a great rock-island); kischi-minisaabik (a great island of rock).</span>
 
-<div class="four-layer">
+<span class="l-orig">(503) “Mī∙o∙mā,” udigōn; “mīsōmā tcigạbaiyạnk,” udigōn.</span>
 
-> <span class="l-gloss">And a long way off are we, too,” he said to him.</span>
+<span class="l-fiero">**“Mii omaa,” odigoon; “miis[h] oomaa chi-gabaiyank,” odigoon.**</span>
 
-</div>
+<span class="l-eng">*“Here is the place,” the other was told; “here is just the place where we will go ashore,” the other was told.*</span>
 
+<span class="l-gloss">“Mii omaa,” odigoon (“here is the place,” he was told); “miis[h] oomaa chi-gabaiyank,” odigoon (“right here is where we will go ashore,” he was told).</span>
 
-Wasa dash kaye kitayaamin,” odinaan (and a long way off are we, too,” he said to him).
+<span class="l-orig">(504) Mīdec kägä‘t kabāwāt.</span>
 
-609) > **"Kaawiin na niizhwewaan kigii-pitoosinan kimakisinan?"**
+<span class="l-fiero">**Mii desh keget kabaawaat.**</span>
 
+<span class="l-eng">*And then truly they went ashore.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii desh keget kabaawaat (and then truly they went ashore).</span>
 
-> <span class="l-gloss">"Did you not fetch yourself two pairs of moccasins?"</span>
+<span class="l-orig">(505) Mīdec pạbāmiwinigut ugitābik.</span>
 
-</div>
+<span class="l-fiero">**Mii desh pabaamiwinigot ogitaabik.**</span>
 
+<span class="l-eng">*And then the other was guided round to the top.*</span>
 
-“Kaawiin na niizhwewaan kigii-pitoosinan kimakisinan?” (“did you not bring yourself two pairs of moccasins?”)
+<span class="l-gloss">Mii desh pabaamiwinigot ogitaabik (and then he was guided round to the top of the rock).</span>
 
-610) > **"Kaawiin," odinaan.**
+<span class="l-orig">(506) Kägä‘t nībiwa umi‘kānāwa.</span>
 
+<span class="l-fiero">**Keget niibiwa omikaanaawa.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Sure enough, many (eggs) they found.*</span>
 
-> <span class="l-gloss">"No," he said to him.</span>
+<span class="l-gloss">Keget niibiwa omikaanaawa (sure enough, many eggs they found).</span>
 
-</div>
+<span class="l-orig">(507) Anīc awinini wäwīp nībiwa udaiyānạn; mā∙u∙dci‘tōnạn wâwanōn, pāpōsi‘tōd, nānāsi‘kạng mīnawā.</span>
 
+<span class="l-fiero">**Aniish aw inini wewiip niibiwa odaiyaanan; maa’ojitoonan wawanoon, paa-poositood, naanaasikang miinawaa.**</span>
 
-“Kaawiin,” odinaan (“no,” he said to him).
+<span class="l-eng">*And as for himself, the man soon obtained many; he gathered the eggs, loaded them in the canoe, (and) kept on going after more.*</span>
 
-611) > **"Kiiga-wiindamiin, na'aangii, ked-izhishchigeyaan.  
-     > **"I will tell you, son-in-law, what I will do.
+<span class="l-gloss">Aniish aw inini wewiip niibiwa odaiyaanan (and as for the man, he soon obtained many); maa’ojitoonan wawanoon (he gathered the eggs), paa-poositood (loading them into the canoe), naanaasikang miinawaa (and kept going after more).</span>
 
-“Kiiga-wiindamiin, na’aangii, ked-izhishchigeyaan (“I will tell you, son-in-law, what I will do).
+<span class="l-orig">(508) Mīdạc a‘kiwäⁿzi minawā ināt:</span>
 
-612) > **Ninga-kiiwe," odinaan.**
+<span class="l-fiero">**Mii dash akiwenzi minawaa inaat:**</span>
 
+<span class="l-eng">*And then the old man again said to him :*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash akiwenzi minawaa inaat (and then the old man again said to him):</span>
 
-> <span class="l-gloss">I will go back home," he said to him.</span>
+<span class="l-orig">(509) “Skumā iwiti ijān, naᵉāngī, nāsi‘kạn wâwạnōn!”</span>
 
-</div>
+<span class="l-fiero">**“Skomaa iwiti izhaan, na’aangii, naasikan wawanoon!”**</span>
 
+<span class="l-eng">*“ Do go yonder, son-inlaw, (and) get those eggs!”*</span>
 
-Ninga-kiiwe,” odinaan (I will go back home,” he said to him).
+<span class="l-gloss">“Skomaa iwiti izhaan, na’aangii, naasikan wawanoon!” (“do go over yonder, son-in-law, and get those eggs!”)</span>
 
-613) > **"Ninga-naasikaanan kimakisinan," odinaan.**
+<span class="l-orig">(510) “Mādcān kin nāsi‘kān!” udinān.</span>
 
+<span class="l-fiero">**“Maajaan kin naasikaan!” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Go yourself (and) get them!” he said to him.*</span>
 
-> <span class="l-gloss">"I will go fetch you your moccasins," he said to him.</span>
+<span class="l-gloss">“Maajaan kin naasikaan!” odinaan (“go yourself and get them!” he said to him).</span>
 
-</div>
+<span class="l-orig">(511) “Mādcān, mādcān!</span>
 
+<span class="l-fiero">**“Maajaan, maajaan!**</span>
 
-“Ninga-naasikaanan kimakisinan,” odinaan (“I will go fetch you your moccasins,” he said to him).
+<span class="l-eng">*“Go on, go on!*</span>
 
-614) > **Agawaa dash kiiwenh oganoonaan aw inini.**
+<span class="l-gloss">“Maajaan, maajaan! (“go on, go on!)</span>
 
+<span class="l-orig">(512) Nāⁿsi‘kạn, kidinin!”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Naasikan, kidinin!”**</span>
 
-> <span class="l-gloss">Scarcely even an answer, so they say, did the man give him.</span>
+<span class="l-eng">*Go get them, I tell you!”*</span>
 
-</div>
+<span class="l-gloss">Naasikan, kidinin!” (go get them, I tell you!”)</span>
 
+<span class="l-orig">(513) Mīdec kägä‘t mānū ijāt.</span>
 
-Agawaa dash kiiwenh oganoonaan aw inini (scarcely even an answer, they say, did the man give him).
+<span class="l-fiero">**Mii desh keget maanoo izhaat.**</span>
 
-615) > **Mii dash ezhi-maajaat akiiwenhzhii'ish; wiin dash aw inini mii imaa ayaat, aaniish kaawiin kas\[h\]kitoosiin ningochi chii-izhaat.**
+<span class="l-eng">*And then truly against his wish he went.*</span>
 
+<span class="l-gloss">Mii desh keget maanoo izhaat (and then truly, against his wish, he went).</span>
 
-<div class="four-layer">
+<span class="l-orig">(514) “Māgicā ningagäsi‘kawā,” inändạm, “tcibwā∙a∙nitạgwicing tcīmāning.”</span>
 
-> <span class="l-gloss">Thereupon the mean old man started away; while the man himself remained there at the place, for nowhere at all could he go.</span>
+<span class="l-fiero">**“Maagishaa ninga-gesikawaa,” inendam, “chibwaa-ani-tagwishing chiimaaning.”**</span>
 
-</div>
+<span class="l-eng">*“Perhaps I can overtake him,” he thought, “before he gets to the canoe. “*</span>
 
+<span class="l-gloss">“Maagishaa ninga-gesikawaa,” inendam (“perhaps I can overtake him,” he thought), “chibwaa-ani-tagwishing chiimaaning.” (“before he reaches the canoe.”)</span>
 
-Mii dash ezhi-maajaat akiiwenhzhii’ish (thereupon the mean old man started off); wiin dash aw inini mii imaa ayaat (while the man himself remained there), aaniish kaawiin kas\[h\]kitoosiin ningochi chii-izhaat (for nowhere at all could he go).
+<span class="l-orig">(515) Ạgāwākuta pītcini‘kāwạn pīnạgickawāt.</span>
 
-616) > **Mii dash naanaagatawendank aaniin ket-izhishchigegwen, ogikenimaan iiniw aashinisan keget chi-naanzikansininig omakisinan.**
+<span class="l-fiero">**Agaawaakota piichinikaawan pii-nagishkawaat.**</span>
 
+<span class="l-eng">*Slow indeed was (the old man) coming when he met him on the way.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Agaawaakota piichinikaawan pii-nagishkawaat (slow indeed was the old man coming when he met him on the way).</span>
 
-> <span class="l-gloss">And then he pondered what to do, for he knew that his father-in-law would surely not fetch his moccasins.</span>
+<span class="l-orig">(516) Mīdạc kā∙u∙ndcī∙i∙nändạnk, “Ningatänimickawā.”</span>
 
-</div>
+<span class="l-fiero">**Mii dash kaa-onjii-inendank, “Ningat-eni-mishkawaa.”**</span>
 
+<span class="l-eng">*And that was why he thought, “I will overtake him.”*</span>
 
-Mii dash naanaagatawendank aaniin ket-izhishchigegwen (and then he pondered what to do), ogikenimaan iiniw aashinisan keget chi-naanzikansininig omakisinan (for he knew his father-in-law would surely not fetch his moccasins).
+<span class="l-gloss">Mii dash kaa-onjii-inendank, “Ningat-eni-mishkawaa.” (and that was why he thought, “I will overtake him.”)</span>
 
-617) > **Mii dash kiiwenh nindawaach aw ezhi-maajitaad ozhiitaad wii-kiiwet.**
+<span class="l-orig">(517) Payābạmītidạc inābit āja mîcawạgān agamōwạn.</span>
 
+<span class="l-fiero">**Payaabamiit idash inaabit aazha mi(i)shawagaan agamoowan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*But when he turned round to look, already far out at sea was the other in the canoe.*</span>
 
-> <span class="l-gloss">And then they say that accordingly he began getting ready to go back home.</span>
+<span class="l-gloss">Payaabamiit idash inaabit (but when he turned round to look) aazha mi(i)shawagaan agamoowan (already far out at sea was the other in the canoe).</span>
 
-</div>
+<span class="l-orig">(518) Mīdạc aᵘ inini nōndawāt i‘kidunit:</span>
 
+<span class="l-fiero">**Mii dash aw inini noondawaat ikidonit:**</span>
 
-Mii dash kiiwenh nindawaach aw ezhi-maajitaad ozhiitaad wii-kiiwet (and then, they say, accordingly he began making ready to go back home).
+<span class="l-eng">*And then the man heard him saying:*</span>
 
-618) > **Mii kiiwen kaa-izhi-odaapinaat ni(i)swabik asiniin, kaa-izhikizhaabikiswet, kii-ikitot:  
-     > **And so they say that after he had taken three great stones (and) after he had heated them, he then said:
+<span class="l-gloss">Mii dash aw inini noondawaat ikidonit (and then the man heard him saying):</span>
 
-Mii kiiwen kaa-izhi-odaapinaat ni(i)swabik asiniin (and so, they say, after he had taken three great stones), kaa-izhikizhaabikiswet (after he had heated them red-hot), kii-ikitot (he then said):
+<span class="l-orig">(519) “Mîcikayackutug, kitạcamininim inini; mäⁿwīca‘ku äjinạndawäntamawiyäg!”</span>
 
-619) > **"Aaw, nimishoomi'a, ambe, wiitookawishin chi-kiiweyaan\!  
-     > **"Now, my grandfather, come and help me to return home again\!
+<span class="l-fiero">**“Mi(i)shi-kayashkotog, kitashamininim inini; menwiisha ko ezhi-nandawentamawiyeg!”**</span>
 
-“Aaw, nimishoomi’a, ambe, wiitookawishin chi-kiiweyaan\! (“now, my grandfather, come, help me to return home\!)
+<span class="l-eng">*“O ye Great-Gulls! I feed you a man; long have you wished him of me.”*</span>
 
-620) > **Niwiintawabamaag niniichaanisag," ikito.**
+<span class="l-gloss">“Mi(i)shi-kayashkotog, kitashamininim inini (“O you Great-Gulls! I feed you a man); menwiisha ko ezhi-nandawentamawiyeg!” (long have you wished him of me!”)</span>
 
+<span class="l-orig">(520) Mīdạc kägä‘t pạnägu mîcikayāckwạg.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash keget pane go mishi-kayaashkwag.**</span>
 
-> <span class="l-gloss">I long to see my children," he said.</span>
+<span class="l-eng">*Thereupon truly was there a great host of Great-Gulls.*</span>
 
-</div>
+<span class="l-gloss">Mii dash keget pane go mishi-kayaashkwag (and then truly there was a great host of Great-Gulls).</span>
 
+<span class="l-orig">(521) Mīdec kīwäⁿ awinini minawā nāsāb änāt:</span>
 
-Niwiintawabamaag niniichaanisag,” ikito (I long to see my children,” he said).
+<span class="l-fiero">**Mii desh kiiwenh aw inini minawaa naasaab enaat:**</span>
 
-621) > **Mii dash keget ezhi-odaapigwaanaat iiniw mi(i)skwaabiikisonit iiniw asi(i)niin; kwayak idash wa-izhaat, mii iiwiti gwayak ezhiwebowaat.**
+<span class="l-eng">*And now they say the man said to them the same thing that he had said before:*</span>
 
+<span class="l-gloss">Mii desh kiiwenh aw inini minawaa naasaab enaat (and now, they say, the man said to them the same as before):</span>
 
-<div class="four-layer">
+<span class="l-orig">(522) “Tcī, tcī, tcī!” udinān.</span>
 
-> <span class="l-gloss">And then truly he took these stones out (of the fire) red-hot; and directly (in the path) whither he wanted to go, along that course straight (ahead) did he roll them.</span>
+<span class="l-fiero">**“Chii, chii, chii!” odinaan.**</span>
 
-</div>
+<span class="l-eng">*“Hold on, hold on, hold on!” he said to them.*</span>
 
+<span class="l-gloss">“Chii, chii, chii!” odinaan (“hold on, hold on, hold on!” he said to them).</span>
 
-Mii dash keget ezhi-odaapigwaanaat iiniw mi(i)skwaabiikisonit iiniw asi(i)niin (and then truly he took out the red-hot stones); kwayak idash wa-izhaat, mii iiwiti gwayak ezhiwebowaat (and straight in the direction he wished to go, that way straight ahead he rolled them).
+<span class="l-orig">(523) “Kigīcawänimimiwâban kuca,” udinān.</span>
 
-622) > **Mii dash aw asi(i)n keget ezhi-maajiipisot awashi(i)me dash aabita aawaninig kii-noogibiso.**
+<span class="l-fiero">**“Kigii-shawenimimiwaban kosha,” odinaan.**</span>
 
+<span class="l-eng">*“Why, you have taken pity upon me in the past,” he said to them.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Kigii-shawenimimiwaban kosha,” odinaan (“why, you have pitied me in the past,” he said to them).</span>
 
-> <span class="l-gloss">Thereupon the stone truly started going, more than half the distance home it went before it stopped.</span>
+<span class="l-orig">(524) Mīdạc äjinōgīwāt.</span>
 
-</div>
+<span class="l-fiero">**Mii dash ezhi-noogiiwaat.**</span>
 
+<span class="l-eng">*Thereupon they withdrew.*</span>
 
-Mii dash aw asi(i)n keget ezhi-maajiipisot (thereupon the stone truly started going) awashi(i)me dash aabita aawaninig kii-noogibiso (and more than half the distance home it went before it stopped).
+<span class="l-gloss">Mii dash ezhi-noogiiwaat (thereupon they drew back).</span>
 
-623) > **Mii dash kaa-ani-apisot aw asi(i)n mii go kaa-ani-izhi-anitewang; mii dash imaa aw inini kii-ani-pimoset.**
+<span class="l-orig">(525) Mīdạc minawā änāt:</span>
 
+<span class="l-fiero">**Mii dash minawaa enaat:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then again he said to (one):*</span>
 
-> <span class="l-gloss">And in the path where the stone had moved, along that course was the snow melted; accordingly by that way did the man travel.</span>
+<span class="l-gloss">Mii dash minawaa enaat (and then again he said to one):</span>
 
-</div>
+<span class="l-orig">(526) “Nimicōmis, kīwäwicicig ändaiyān,” udinān.</span>
 
+<span class="l-fiero">**“Nimishoomis, kiiwewishishig endaiyaan,” odinaan.**</span>
 
-Mii dash kaa-ani-apisot aw asi(i)n mii go kaa-ani-izhi-anitewang (and along the path where the stone had rolled, there the snow was melted); mii dash imaa aw inini kii-ani-pimoset (and so along that path the man walked).
+<span class="l-eng">*“O my grandfather! carry me back to where I live,” he said to him.*</span>
 
-624) > **Megwaa dash ani-pimoset, odaminisotawaan pimeya'ii awiya; mii dash ezhi-inaabit oowabamaan dash ma'iinganan pimosenit, ogi-onji-kanoonigoon:  
-     > **And while he was walking along, he began to feel the presence of somebody at his side;and as he looked, he beheld a Wolf walking along. And by him, from his place over there, he was addressed:
+<span class="l-gloss">“Nimishoomis, kiiwewishishig endaiyaan,” odinaan (“my grandfather! carry me back to where I live,” he said to him).</span>
 
-Megwaa dash ani-pimoset, odaminisotawaan pimeya’ii awiya (and while he was walking along, he sensed someone at his side); mii dash ezhi-inaabit oowabamaan dash ma’iinganan pimosenit (and as he looked, he saw a wolf walking along), ogi-onji-kanoonigoon (and from over there he was addressed by him):
+<span class="l-orig">(527) “Ayeˢ,” udigōn.</span>
 
-625) > **"Aaniin," odigoon: "ni(i)sayenh?"**
+<span class="l-fiero">**“Aye’,” odigoon.**</span>
 
+<span class="l-eng">*“All right!” he was told.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Aye’,” odigoon (“all right!” he was told).</span>
 
-> <span class="l-gloss">"What," he was told, "my elder brother?"</span>
+<span class="l-orig">(528) Mīdac awä inini pạngi mādcītōd wâwạnōn.</span>
 
-</div>
+<span class="l-fiero">**Mii dash awe inini pangi maajiitood wawanoon.**</span>
 
+<span class="l-eng">*And then the man took along a few of the eggs.*</span>
 
-“Aaniin,” odigoon: “ni(i)sayenh?” (“how are you,” he was told, “my elder brother?”)
+<span class="l-gloss">Mii dash awe inini pangi maajiitood wawanoon (and then the man took along a few eggs).</span>
 
-626) > **Odinaan dash aw inini:  
-     > **And to him said the man:
+<span class="l-orig">(529) Mīdạc kīwäⁿ cayīgwa pipōnīnit wā‘kiwäwinigut mîcikayāckwạn.</span>
 
-Odinaan dash aw inini (and to him said the man):
+<span class="l-fiero">**Mii dash kiiwenh shayiigwa pipooninit waa-kiwewinigot mi(i)shi-kayaashkwan.**</span>
 
-627) > **"Kaawiin kegoo."**
+<span class="l-eng">*Thereupon it is said that now came and alighted Great-Gull, by whom he was to be taken home.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh shayiigwa pipooninit waa-kiwewinigot mi(i)shi-kayaashkwan (thereupon, they say, now came and alighted Great-Gull, by whom he was to be taken home).</span>
 
-<div class="four-layer">
+<span class="l-orig">(530) “‘Ā‘ā’ᵘ,” udigōn; “nimpi‘kwunāng owänạpîn.”</span>
 
-> <span class="l-gloss">"Nothing."</span>
+<span class="l-fiero">**“Aa’aaw,” odigoon; “nimpikwonaang owenapi(i)n.”**</span>
 
-</div>
+<span class="l-eng">*“All right!” he was told; “upon my back shall you sit.”*</span>
 
+<span class="l-gloss">“Aa’aaw,” odigoon (“all right!” he was told); “nimpikwonaang owenapi(i)n.” (“upon my back you shall sit.”)</span>
 
-“Kaawiin kegoo.” (“nothing.”)
+<span class="l-orig">(531) Mīdạc kägä‘t äji∙o∙wänạbit mīdạc äjimādcīsät aᵘ micikayāck.</span>
 
-628) > **"Aantish ezhaiyan?" odigoon.**
+<span class="l-fiero">**Mii dash keget ezhi-owenabit mii dash ezhi-maajiiset aw mishi-kayaashk.**</span>
 
+<span class="l-eng">*And truly, when he was seated, then away went Great-Gull flying.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash keget ezhi-owenabit (and truly, when he was seated) mii dash ezhi-maajiiset aw mishi-kayaashk (then away flew Great-Gull).</span>
 
-> <span class="l-gloss">"Wrhere are you going?" he was asked.</span>
+<span class="l-orig">(532) Mīdạc ạnipạpimisät owâbạmān īni’ᵘ a‘kiwäjī∙i∙cạn ābi‘tawōnạg aya‘tawācininit piminạgạmunit pä‘kic pāga∙a∙‘ku‘kwānit.</span>
 
-</div>
+<span class="l-fiero">**Mii dash ani-papimiset owabamaan iiniw akiwezhii’ishan aabitawoonag ayatawaashininit piminagamonit pekish paaga’akokwenit.**</span>
 
+<span class="l-eng">*And as he went through the air, he beheld that contemptible old man in the middle of his canoe, lying there upon his back, singing as he went along, at the same time beating time against the canoe.*</span>
 
-“Aantish ezhaiyan?” odigoon (“where are you going?” he was asked).
+<span class="l-gloss">Mii dash ani-papimiset owabamaan iiniw akiwezhii’ishan (and as he went through the air, he saw that contemptible old man) aabitawoonag ayatawaashininit (in the middle of his canoe, lying on his back) piminagamonit pekish paaga’akokwenit (singing as he went, beating time against the canoe at the same time).</span>
 
-629) > **"Ninkiiwe," odinaan.**
+<span class="l-orig">(533) Mīdạc kīwäⁿ aᵘ mîcigayāck kā∙i∙jimīdcināt nāwā‘kigạn.</span>
 
+<span class="l-fiero">**Mii dash kiiwenh aw mishi-gayaashk kaa-izhi-miijinaat naawaakigan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then they say Great-Gull muted upon his chest.*</span>
 
-> <span class="l-gloss">"I am going home," he said to him.</span>
+<span class="l-gloss">Mii dash kiiwenh aw mishi-gayaashk kaa-izhi-miijinaat naawaakigan (and then, they say, Great-Gull dropped its mute upon his chest).</span>
 
-</div>
+<span class="l-orig">(534) Mīdạc kīwäⁿ kā∙i∙cināncibitōd kīmināndạnk, mīdạc kīwäⁿ ä‘kitut:</span>
 
+<span class="l-fiero">**Mii dash kiiwenh kaa-izhinaanshibitood kiiminaandank, mii dash kiiwenh ekitot:**</span>
 
-“Ninkiiwe,” odinaan (“I am going home,” he said to him).
+<span class="l-eng">*And then they say that afterwards, when he rubbed his finger in it, he smelled of it.Whereupon they say he said:*</span>
 
-630) > **Mii dash pimiwawiijiwaat iiniw ma'iinganan kaagiigitoowaat.**
+<span class="l-gloss">Mii dash kiiwenh kaa-izhinaanshibitood kiiminaandank (and then, they say, afterward, when he rubbed his finger in it, he smelled it), mii dash kiiwenh ekitot (whereupon, they say, he said):</span>
 
+<span class="l-orig">(535) “Pwā! mī yäcmāgutinig umu‘uwā naˢāngī kā∙ū∙mwugut.”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Pwaa! mii yeshmaagotinig omo’owaa na’aangii kaa-oomwogot.”**</span>
 
-> <span class="l-gloss">And then, as he and the Wolf went along together, they kept up a talk.</span>
+<span class="l-eng">*“Phew! such is the smell of the mute of the one by whom (my) son-in-law was devoured.”*</span>
 
-</div>
+<span class="l-gloss">“Pwaa! mii yeshmaagotinig omo’owaa na’aangii kaa-oomwogot.” (“phew! such is the smell of the mute of the one that devoured my son-in-law.”)</span>
 
+<span class="l-orig">(536) Mīdạc kīwäⁿ awinini kītagwicimigut ändāt īni’ᵘ mîcigayāckwạn.</span>
 
-Mii dash pimiwawiijiwaat iiniw ma’iinganan kaagiigitoowaat (and then, as he and the wolf went along together, they kept up a talk).
+<span class="l-fiero">**Mii dash kiiwenh aw inini kii-tagwishimigot endaat iiniw mi(i)shi-gayaashkwan.**</span>
 
-631) > **Awe nini pimi-pimose aaniindi asi(i)niin kaa-ani-apisonit, aw idash ma'iingan pimeya'ii pimose koonikaang.**
+<span class="l-eng">*And so it is said that the man was conveyed home by Great-Gull.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh aw inini kii-tagwishimigot endaat iiniw mi(i)shi-gayaashkwan (and so, they say, the man was carried home by Great-Gull).</span>
 
-<div class="four-layer">
+<span class="l-orig">(537) Mīdạc kipạgitinigut imā ạgạmīng.</span>
 
-> <span class="l-gloss">Now, the man walked along where the stone had rolled; and the Wolf passed along at the side, on the snow.</span>
+<span class="l-fiero">**Mii dash kii-pagitinigot imaa agamiing.**</span>
 
-</div>
+<span class="l-eng">*And then he was let down over there at the shore.*</span>
 
+<span class="l-gloss">Mii dash kii-pagitinigot imaa agamiing (and then he was let down over there at the shore).</span>
 
-Awe nini pimi-pimose aaniindi asi(i)niin kaa-ani-apisonit (now the man walked along where the stone had rolled), aw idash ma’iingan pimeya’ii pimose koonikaang (and the wolf passed along at the side, on the snow).
+<span class="l-orig">(538) Mīdạc kī∙a∙nigu‘pīt kī∙a∙nipīndigät ändāwāt.</span>
 
-632) > **Mii dash kiiwenh akiwenzhii'ish tegwoshing entaawaat, wikaa go pi(i)chinag kii-ani-tatagoshinoogoban, kaawiin kanage kegoo ikitosii.**
+<span class="l-fiero">**Mii dash kii-ani-gopit kii-ani-piindiget endaawaat.**</span>
 
+<span class="l-eng">*Thereupon he went on up from the water, and passed on into where he and the others lived.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kii-ani-gopit kii-ani-piindiget endaawaat (thereupon he went up from the water and on into where they lived).</span>
 
-> <span class="l-gloss">And they say that when the mean old man arrived at home, for he was a long time reaching home, he had nothing whatever to say.</span>
+<span class="l-orig">(539) Ā‘pidci dạc kīwäⁿ minwändạmōn wiwạn kayä unīdcānisạn.</span>
 
-</div>
+<span class="l-fiero">**Aapiji dash kiiwenh minwendamon wiiwan gaye oniijaanisan.**</span>
 
+<span class="l-eng">*And very pleased, so they say, were his wife and his children.*</span>
 
-Mii dash kiiwenh akiwenzhii’ish tegwoshing entaawaat (and they say that when the mean old man arrived home), wikaa go pi(i)chinag kii-ani-tatagoshinoogoban (for he was a long time reaching home), kaawiin kanage kegoo ikitosii (he had nothing whatever to say).
+<span class="l-gloss">Aapiji dash kiiwenh minwendamon wiiwan gaye oniijaanisan (and very pleased, they say, were his wife and his children).</span>
 
-633) > **Mii dash wiin aw ikwe ezhi-kagwechimaat iiniw oosan:  
-     > **Thereupon the woman herself asked her father:
+<span class="l-orig">(540) Pạnä aᵘ i‘kwä, “Ạmạntcigunā niwītigämāgạn, minawā tcitạgwicinogwän!” inändạm awi‘kwä.</span>
 
-Mii dash wiin aw ikwe ezhi-kagwechimaat iiniw oosan (thereupon the woman herself asked her father):
+<span class="l-fiero">**Pane aw ikwe, “Amanch igo naa niwiitigemaagan, minawaa chi-tagwishinogwen!” inendam aw ikwe.**</span>
 
-634) > **"Aanti dash wiinaa aw kiwiichiwagan?" odinaan.**
+<span class="l-eng">*Always was the woman (thinking), “I wonder how my husband is, and when again he will be home!” thought the woman.*</span>
 
+<span class="l-gloss">Pane aw ikwe, “Amanch igo naa niwiitigemaagan, minawaa chi-tagwishinogwen!” inendam aw ikwe (the woman was always thinking, “I wonder how my husband is, and when he will be home again!” thought the woman).</span>
 
-<div class="four-layer">
+<span class="l-orig">(541) Mīdạc minawā ägut unābämạn:</span>
 
-> <span class="l-gloss">"And where is that companion of yours?" she said to him.</span>
+<span class="l-fiero">**Mii dash minawaa egot onaabeman:**</span>
 
-</div>
+<span class="l-eng">*Thereupon again was she told by her husband:*</span>
 
+<span class="l-gloss">Mii dash minawaa egot onaabeman (thereupon again she was told by her husband):</span>
 
-“Aanti dash wiinaa aw kiwiichiwagan?” odinaan (“and where is that companion of yours?” she said to him).
+<span class="l-orig">(542) “Niwīwīsin,” udigōn.</span>
 
-635) > **"Aa, atibii itog.  
-     > **"Oh, I don't know where.
+<span class="l-fiero">**“Niwii-wiisin,” odigoon.**</span>
 
-“Aa, atibii itog (“oh, I don’t know where).
+<span class="l-eng">*“I wish to eat,” (so) she was told.*</span>
 
-636) > **Pane kaye wiin ningii-pake'igoban papaandawenchiget.  
-     > **He parted company with me, and also went his way hunting for game.
+<span class="l-gloss">“Niwii-wiisin,” odigoon (“I wish to eat,” she was told).</span>
 
-Pane kaye wiin ningii-pake’igoban papaandawenchiget (he parted from me and went off hunting his own way).
+<span class="l-orig">(543) Mīdec kīmināt wīwạn wâwạnōn pạngī kāpītōd.</span>
 
-637) > **Ningii-aapiji-kwiinawi-pii'aa," odinaan.**
+<span class="l-fiero">**Mii desh ki-minaat wiiwan wawanoon pangii kaa-pitood.**</span>
 
+<span class="l-eng">*And then he gave to his wife the few eggs that he had fetched.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii desh ki-minaat wiiwan wawanoon pangii kaa-pitood (and then he gave his wife the few eggs he had brought).</span>
 
-> <span class="l-gloss">I grew very tired waiting for him," he (thus) said to her.</span>
+<span class="l-orig">(544) Mīdac ināt:</span>
 
-</div>
+<span class="l-fiero">**Mii dash inaat:**</span>
 
+<span class="l-eng">*And he said to her:*</span>
 
-Ningii-aapiji-kwiinawi-pii’aa,” odinaan (I grew very tired waiting for him,” he said to her).
+<span class="l-gloss">Mii dash inaat (and he said to her):</span>
 
-638) > **"Mii dash kaa-pi-onjkiiweyaan," odinaan odaanisan.**
+<span class="l-orig">(545) “Tcīmāning nībiwa nīngī∙a∙‘tōnạn wâwạnōn,” udinān.</span>
 
+<span class="l-fiero">**“Chiimaaning niibiwa niingii-atoonan wawanoon,” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“In the canoe are many eggs I put in,” he said to her.*</span>
 
-> <span class="l-gloss">"And that is why I came home," he said to his daughter.</span>
+<span class="l-gloss">“Chiimaaning niibiwa niingii-atoonan wawanoon,” odinaan (“in the canoe are many eggs that I put in,” he said to her).</span>
 
-</div>
+<span class="l-orig">(546) “‘Ūⁿ!” i‘kitō i‘kwä.</span>
 
+<span class="l-fiero">**“Oonh!” ikitoo ikwe.**</span>
 
-“Mii dash kaa-pi-onjkiiweyaan,” odinaan odaanisan (“and that is why I came home,” he said to his daughter).
+<span class="l-eng">*“Oh!” said the woman.*</span>
 
-639) > **"Pichiinag ta-tagwishin," odinaan.**
+<span class="l-gloss">“Oonh!” ikitoo ikwe (“oh!” said the woman).</span>
 
+<span class="l-orig">(547) Mīdạc kīwäⁿ kī‘kisisạngin pạngī kā‘pītōnit unāpămạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kiiwenh kii-kiisisangin pangii kaa-pitoonit onaapeman.**</span>
 
-> <span class="l-gloss">"Anon will he be home," he said to her.</span>
+<span class="l-eng">*And then they say that she cooked the few that her husband had fetched.*</span>
 
-</div>
+<span class="l-gloss">Mii dash kiiwenh kii-kiisisangin pangii kaa-pitoonit onaapeman (and then, they say, she cooked the few that her husband had brought).</span>
 
+<span class="l-orig">(548) Mīdạc kīwīsiniwāt.</span>
 
-“Pichiinag ta-tagwishin,” odinaan (“soon he will be home,” he said to her).
+<span class="l-fiero">**Mii dash kii-wiisiniwaat.**</span>
 
-640) > **Mii dash kiiwenh aw inini megwaa pimi-wiijiwaat oshiimen ma;iinganan aapiji onaanigwentamoog pimi-wiinjiintiwaat; pekish pimi-ani-nagamoowag endoodank sa go awiya menwendangin.**
+<span class="l-eng">*Thereupon they ate.*</span>
 
+<span class="l-gloss">Mii dash kii-wiisiniwaat (thereupon they ate).</span>
 
-<div class="four-layer">
+<span class="l-orig">(549) Mīdạc kīwäⁿ īgi’ᵘ ạbinōtcīyạg sāsāgitạpiwāt mīminawa wābạmāwāt omicōmisiwān pitạgwicininit.</span>
 
-> <span class="l-gloss">And now they say that while the man, and his younger brother the Wolf, were coming hitherward together, very happy were they as they walked along in each other's company; at the same time they went singing on their way in the same manner as one does when in a joyful frame of mind.</span>
+<span class="l-fiero">**Mii dash kiiwenh iigiw abinoochiiyag saasaagitapiwaat mii minawa waabamaawaat omishoomisiwaan pitagwishininit.**</span>
 
-</div>
+<span class="l-eng">*And then it is said that the children were sitting out of doors, when again they saw their grandfather coming home.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh iigiw abinoochiiyag saasaagitapiwaat (and then, they say, the children were sitting outside) mii minawa waabamaawaat omishoomisiwaan pitagwishininit (when again they saw their grandfather coming home).</span>
 
-Mii dash kiiwenh aw inini megwaa pimi-wiijiwaat oshiimen ma’iinganan (and now, they say, while the man was coming along with his younger brother the wolf) aapiji onaanigwentamoog pimi-wiinjiintiwaat (very happy were they in each other’s company); pekish pimi-ani-nagamoowag endoodank sa go awiya menwendangin (at the same time singing as they went, the way one does when in a joyful mood).
+<span class="l-orig">(550) Mīdạc ägōwāt:</span>
 
-641) > **Aw idash inini kaawiin kanage odoonendaziin shaashaagonizitet, aanawi paabaapi.**
+<span class="l-fiero">**Mii dash egoowaat:**</span>
 
+<span class="l-eng">*Thereupon they were asked:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash egoowaat (thereupon they were asked):</span>
 
-> <span class="l-gloss">And the man by no means forgot that he was in bare feet, yet in spite of that he kept on laughing.</span>
+<span class="l-orig">(551) “Wägunen mādcīyäg?”</span>
 
-</div>
+<span class="l-fiero">**“Wegonen maajiiyeg?”**</span>
 
+<span class="l-eng">*“What are you eating?”*</span>
 
-Aw idash inini kaawiin kanage odoonendaziin shaashaagonizitet (and the man by no means forgot that he was barefoot), aanawi paabaapi (yet in spite of that he kept laughing).
+<span class="l-gloss">“Wegonen maajiiyeg?” (“what are you eating?”)</span>
 
-642) > **Mii dash shayiigwa ezhi-oditank omishoomisan minik kaa-izhi-miikanaakaagot.**
+<span class="l-orig">(552) “Wâwanūn,” udinawān.</span>
 
+<span class="l-fiero">**“Wawanoon,” odinawaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Eggs,” they said to him.*</span>
 
-> <span class="l-gloss">And then by this time he was come at the place which was as far as the path had been made for him by his grandfather.</span>
+<span class="l-gloss">“Wawanoon,” odinawaan (“eggs,” they said to him).</span>
 
-</div>
+<span class="l-orig">(553) “Wägunen tino wâwanūn?” udināˢ.</span>
 
+<span class="l-fiero">**“Wegonen tino wawanoon?” odinaa’.**</span>
 
-Mii dash shayiigwa ezhi-oditank omishoomisan minik kaa-izhi-miikanaakaagot (and then by now he reached as far as the path his grandfather had made for him).
+<span class="l-eng">*“What kind of eggs?” he said to them.*</span>
 
-643) > **Kegaa dash eni-tagwishinowaat, odigoon oshiimeyan:  
-     > **And when they were about to arrive, he was asked by his younger brother:
+<span class="l-gloss">“Wegonen tino wawanoon?” odinaa’ (“what kind of eggs?” he said to them).</span>
 
-Kegaa dash eni-tagwishinowaat, odigoon oshiimeyan (and when they were about to arrive, he was asked by his younger brother):
+<span class="l-orig">(554) “Kayāckwāwạnūnsa;” udināwān.</span>
 
-644) > **"Aaniin, miina giin oomaa wii-ayaayan?"**
+<span class="l-fiero">**“Kayaashkwaawanoon sa,” odinaawaan.**</span>
 
+<span class="l-eng">*“Gull-eggs, to be sure,” they said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Kayaashkwaawanoon sa,” odinaawaan (“gull-eggs, of course,” they said to him).</span>
 
-> <span class="l-gloss">"Why are you going to remain in this place?"</span>
+<span class="l-orig">(555) “Ānti kā∙u∙ntinamäg?”</span>
 
-</div>
+<span class="l-fiero">**“Aanti kaa-ontinameg?”**</span>
 
+<span class="l-eng">*“Where did you get them?”*</span>
 
-“Aaniin, miina giin oomaa wii-ayaayan?” (“why, are you going to stay here?”)
+<span class="l-gloss">“Aanti kaa-ontinameg?” (“where did you get them?”)</span>
 
-645) > **Kaawiin dash kegoo ikitosii aw inini.**
+<span class="l-orig">(556) “Nimpāpānānsa ugīpītōnạn,” udināwān.</span>
 
+<span class="l-fiero">**“Nimpaapaanaan sa ogii-piitoonan,” odinaawaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Why, our father fetched them,” they said to him.*</span>
 
-> <span class="l-gloss">But nothing did the man say.</span>
+<span class="l-gloss">“Nimpaapaanaan sa ogii-piitoonan,” odinaawaan (“why, our father brought them,” they said to him).</span>
 
-</div>
+<span class="l-orig">(557) “Aⁿ!” udinā.</span>
 
+<span class="l-fiero">**“Anh!” odinaa.**</span>
 
-Kaawiin dash kegoo ikitosii aw inini (but the man said nothing).
+<span class="l-eng">*“Fie!” he said to them.*</span>
 
-646) > **"Ambe\!" odigoon; "kiigat-ani-wiijiiwi(i)n," odigoon oshiimenyan.**
+<span class="l-gloss">“Anh!” odinaa (“fie!” he said to them).</span>
 
+<span class="l-orig">(558) “‘Ca, nimpōpōnōn!’</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Sha, nimpoopoonoon!’**</span>
 
-> <span class="l-gloss">"Come\!" he was told; "I am going to accompany you," he was told by his younger brother.</span>
+<span class="l-eng">*“ ’Oh, it was our father!*</span>
 
-</div>
+<span class="l-gloss">“Sha, nimpoopoonoon!’ (“‘oh, it was our father!’)</span>
 
+<span class="l-orig">(559) Nōmī‘käna mîcikayāckwạn ugînạngwudämigōn a kōsiwā,” udinān.</span>
 
-“Ambe\!” odigoon (“come\!” he was told); “kiigat-ani-wiijiiwi(i)n,” odigoon oshiimenyan (“I will go along with you,” he was told by his younger brother).
+<span class="l-fiero">**Noomiikena mi(i)shikayaashkwan ogii-nangwodemigoon a koosiwaa,” odinaan.**</span>
 
-647) > **Kaawi(i)n dash ikitosii aw inini.**
+<span class="l-eng">*’Why, it has been some time since that your father was digested by Great-Gull,” he (thus) said to them.*</span>
 
+<span class="l-gloss">Noomiikena mi(i)shikayaashkwan ogii-nangwodemigoon a koosiwaa,” odinaan (why, some time ago your father was digested by Great-Gull,” he said to them).</span>
 
-<div class="four-layer">
+<span class="l-orig">(560) Mīdec kīwäⁿ äji∙u∙ckipa∙i∙tiwāt īgi’ᵘ ạbinōtcī∙a∙g ạnikīwäwāt.</span>
 
-> <span class="l-gloss">But the man did not speak.</span>
+<span class="l-fiero">**Mii desh kiiwenh ezhi-oshkipa’itiwaat iigiw abinoochiii’ag ani-kiiwewaat.**</span>
 
-</div>
+<span class="l-eng">*Thereupon they say that back sped the children, racing home.*</span>
 
+<span class="l-gloss">Mii desh kiiwenh ezhi-oshkipa’itiwaat iigiw abinoochiii’ag ani-kiiwewaat (thereupon, they say, the children sped back, racing home).</span>
 
-Kaawi(i)n dash ikitosii aw inini (but the man did not speak).
+<span class="l-orig">(561) Mīdạc kīwäⁿ aᵘ a‘kiwäⁿjī∙i∙c änigu‘pīt; ạnipīndigät, kägä‘t dạc owâbạmān uningwạnạn ayānit pīndik.</span>
 
-648) > **Mii dash ezhi-shoomiingwetawaat agatendank chi(i)-wiindamawaat iw kaa-izhiwebisit.**
+<span class="l-fiero">**Mii dash kiiwenh aw akiwenzhii’ish eni-gopiit; ani-piindiget, keget dash owabamaan oningwanan ayaanit piindik.**</span>
 
+<span class="l-eng">*And now it is said that the old man went on up from the shore; and when he passed on inside, truly, there he saw his son-in-law, who was within.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw akiwenzhii’ish eni-gopiit (and now, they say, the old man went up from the shore); ani-piindiget (and as he passed inside), keget dash owabamaan oningwanan ayaanit piindik (truly he saw his son-in-law, who was within).</span>
 
-> <span class="l-gloss">And as he smiled at him, he felt ashamed to tell him about what had happened to himself.</span>
+<span class="l-orig">(562) Mīdec kägä‘t kwīnawī∙i∙nābi; kayä inändạnk ānīn äjiwäbisigwän, ā‘pitci kwīnawī∙i∙nänimān.</span>
 
-</div>
+<span class="l-fiero">**Mii desh keget kwiinawii-inaabi; gaye inandank aaniin ezhiwebisigwen, aapichi kwiinawi-inenimaan.**</span>
 
+<span class="l-eng">*And it was true that he knew not where to look; and he began to wonder what manner of person the other was, so very much was he puzzled in thought concerning him.*</span>
 
-Mii dash ezhi-shoomiingwetawaat (and as he smiled at him) agatendank chi(i)-wiindamawaat iw kaa-izhiwebisit (he was ashamed to tell him what had happened to himself).
+<span class="l-gloss">Mii desh keget kwiinawii-inaabi (and it was true that he knew not where to look); gaye inandank aaniin ezhiwebisigwen (and he began to wonder what manner of being the other was), aapichi kwiinawi-inenimaan (so very puzzled was he in his thought about him).</span>
 
-649) > **Mii dash egot iiniw oshiimeyan ma'iinganan:  
-     > **Thereupon was he told by his younger brother, the Wolf:
+<span class="l-orig">(563) Käwīn dạc kägō i‘kitusī minawā.</span>
 
-Mii dash egot iiniw oshiimeyan ma’iinganan (thereupon he was told by his younger brother, the wolf):
+<span class="l-fiero">**Kewiin dash kegoo ikitosii minawaa. [gaawiin]**</span>
 
-650) > **"Ambe\!" odigoon; ani-naanaaba'anishin\!"**
+<span class="l-eng">*But he had nothing further to say.*</span>
 
+<span class="l-gloss">Kewiin dash kegoo ikitosii minawaa (but he had nothing more to say).</span>
 
-<div class="four-layer">
+<span class="l-orig">(564) Nīnguding dạc kīwäⁿ minawā udinān uningwạnạn:</span>
 
-> <span class="l-gloss">"Come\!" he was told, "walk along in my footsteps\!"</span>
+<span class="l-fiero">**Niingoding dash kiiwenh minawaa odinaan oningwanan:**</span>
 
-</div>
+<span class="l-eng">*And so once on a time they say that he said to his son-in-law:*</span>
 
+<span class="l-gloss">Niingoding dash kiiwenh minawaa odinaan oningwanan (and so once on a time, they say, he again said to his son-in-law):</span>
 
-“Ambe\!” odigoon; ani-naanaaba’anishin\!” (“come\!” he was told, “walk along in my footsteps\!”)
+<span class="l-orig">(565) “Naˢāngī, misa minawā tcînạndawändcigäyạnguban.</span>
 
-651) > **Kaye wiin dash aw ma'iingan kaawiin kegoo owii-inaasiin osayeyan.**
+<span class="l-fiero">**“Na’aangii, mi sa minawaa chi(i)-nandawenjigeyangoban.**</span>
 
+<span class="l-eng">*“Son-in-law, it is now time for us again to go hunting for game.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Na’aangii, mi sa minawaa chi(i)-nandawenjigeyangoban (“son-in-law, it is now time for us to go hunting again).</span>
 
-> <span class="l-gloss">Wolf also had nothing more to say to his elder brother.</span>
+<span class="l-orig">(566) Tcî∙a∙ndu∙u∙di‘kwäyạng!”</span>
 
-</div>
+<span class="l-fiero">**Chi(i)-ando-odikweyang!” [ji-(n)ando-adikweyang]**</span>
 
+<span class="l-eng">*Let us go hunting for caribou!”*</span>
 
-Kaye wiin dash aw ma’iingan kaawiin kegoo owii-inaasiin osayeyan (and the wolf too had nothing more to say to his elder brother).
+<span class="l-gloss">Chi(i)-ando-odikweyang!” (let us go hunting for caribou!”)</span>
 
-652) > **Mii dash keget ezhi-maajaat.**
+<span class="l-orig">(567) “Ānīn nạngwạna!” udinān awinini.</span>
 
+<span class="l-fiero">**“Aaniin nangwana!” odinaan aw inini.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Well, all right!” to him (thus) said the man.*</span>
 
-> <span class="l-gloss">It is true that then they started on.</span>
+<span class="l-gloss">“Aaniin nangwana!” odinaan aw inini (“well, all right!” said the man to him).</span>
 
-</div>
+<span class="l-orig">(568) Mīdạc änāt wīwạn:</span>
 
+<span class="l-fiero">**Mii dash enaat wiiwan:**</span>
 
-Mii dash keget ezhi-maajaat (and so truly they started on).
+<span class="l-eng">*Thereupon he said to his wife:*</span>
 
-653) > **Mii dash keget ani-naanaaba'aanaat.**
+<span class="l-gloss">Mii dash enaat wiiwan (thereupon he said to his wife):</span>
 
+<span class="l-orig">(569) “Uci‘tōn ma‘kisînan.”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Oshitoon makisi(i)nan.”**</span>
 
-> <span class="l-gloss">Whereupon truly did he follow in the footsteps of the other.</span>
+<span class="l-eng">*“Make some moccasins.”*</span>
 
-</div>
+<span class="l-gloss">“Oshitoon makisi(i)nan.” (“make some moccasins.”)</span>
 
+<span class="l-orig">(570) Mīdạc kägät awi‘kwä uci‘tōd.</span>
 
-Mii dash keget ani-naanaaba’aanaat (whereupon truly he followed in the other’s footsteps).
+<span class="l-fiero">**Mii dash keget aw ikwe oshitood.**</span>
 
-654) > **Weyiiba go ani-pimiset opiichimaandaan shkote.**
+<span class="l-eng">*Whereupon in truth the woman made them.*</span>
 
+<span class="l-gloss">Mii dash keget aw ikwe oshitood (whereupon truly the woman made them).</span>
 
-<div class="four-layer">
+<span class="l-orig">(571) Mīdạc kayä wīn a‘kiwäⁿjī∙i∙c ucictcikātänig uma‘kizinạn.</span>
 
-> <span class="l-gloss">In a little while, as he went along, he caught the smell of fire.</span>
+<span class="l-fiero">**Mii dash gaye wiin akiwenzhii’ish oshishchikaatenig omakizinan.**</span>
 
-</div>
+<span class="l-eng">*And the mean old man likewise had some moccasins made.*</span>
 
+<span class="l-gloss">Mii dash gaye wiin akiwenzhii’ish oshishchikaatenig omakizinan (and the mean old man too had moccasins made for himself).</span>
 
-Weyiiba go ani-pimiset opiichimaandaan shkote (in a little while, as he went along, he caught the smell of fire).
+<span class="l-orig">(572) Mīdạc mādcāwād; pipōniniguban.</span>
 
-655) > **Mii nangwana shigwa tagwishing endaat.**
+<span class="l-fiero">**Mii dash maajaawaad; pipooninigoban.**</span>
 
+<span class="l-eng">*Thereupon they set out; it was in the winter-time.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash maajaawaad (thereupon they set out); pipooninigoban (it was wintertime).</span>
 
-> <span class="l-gloss">It meant that now he was arriving at home.</span>
+<span class="l-orig">(573) Mīdạc wâsa tạgwicinowāt, “Mīsa omā naˢāngī, tcî∙u∙cigäyạng,” udinān uningwạnạn aᵘ a‘kiwäⁿzī.</span>
 
-</div>
+<span class="l-fiero">**Mii dash wasa tagwishinowaat, “Mii sa omaa na’aangii, chii-oshigeyang, “ odinaan oningwanan aw akiwenzii.**</span>
 
+<span class="l-eng">*And when a long way off they were come, “Now this is the place, son-in-law, where we are to camp.” (thus) to his son-in-law said the old man.*</span>
 
-Mii nangwana shigwa tagwishing endaat (it meant that now he was arriving home).
+<span class="l-gloss">Mii dash wasa tagwishinowaat (and when they had come a long way off), “Mii sa omaa na’aangii, chii-oshigeyang,” odinaan oningwanan aw akiwenzii (“now this is the place, son-in-law, where we will camp,” the old man said to his son-in-law).</span>
 
-656) > **Mii dash iiniw oshiimeyan piwekwaamoninik ominisekanaawaa mii imaa e-izhi-wiinigot iiniw oshiimeyan.**
+<span class="l-orig">(574) Mīdạc kīwäⁿkägä‘t imā ucigäwāt, ki‘tci∙a∙cigạnägān uci‘tōnāwā.</span>
 
+<span class="l-fiero">**Mii dash kiiwenh keget imaa oshigewaat, kichi-ashiganegaan oshitoonaawaa.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then they say that truly there they made camp, a great sheltercamp they put up.*</span>
 
-> <span class="l-gloss">And then to the place where their path for fire-wood forked off was he led by his younger brother.</span>
+<span class="l-gloss">Mii dash kiiwenh keget imaa oshigewaat (and then, they say, truly there they camped), kichi-ashiganegaan oshitoonaawaa (a great shelter-camp they put up).</span>
 
-</div>
+<span class="l-orig">(575) Kayädạc ki‘tci∙i∙ckutä nạbanäya∙ī∙.</span>
 
+<span class="l-fiero">**Gaye dash kichi-ishkote nabaneya’ii.**</span>
 
-Mii dash iiniw oshiimeyan piwekwaamoninik ominisekanaawaa (and then to where their firewood path forked off) mii imaa e-izhi-wiinigot iiniw oshiimeyan (there he was led by his younger brother).
+<span class="l-eng">*And also a huge fire at one side (was kindled).*</span>
 
-657) > **Mii dash egot:  
-     > **Thereupon he was told:
+<span class="l-gloss">Gaye dash kichi-ishkote nabaneya’ii (and also a great fire at one side).</span>
 
-Mii dash egot (thereupon he was told):
+<span class="l-orig">(576) Mīdạc kīwäⁿ aᵘ a‘kiwäⁿjī∙i∙c cayīgwa ki‘kīcändạnk wā‘tōdawāt unīngwạnạn.</span>
 
-658) > **"Mii omaa ke-onji-pake'inaan," odinaan.**
+<span class="l-fiero">**Mii dash kiiwenh aw akiwrnzhii’ish shayiigwa ki-kiishendank waatoodawaat oniingwanan.**</span>
 
+<span class="l-eng">*And now it is said that the contemptible old man had already, by this time, made up his mind as to what he would do to his son-inlaw.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw akiwrnzhii’ish shayiigwa ki-kiishendank waatoodawaat oniingwanan (and now, they say, the contemptible old man had by now made up his mind what he would do to his son-in-law).</span>
 
-> <span class="l-gloss">"It is here that I shall part from you," he said to him.</span>
+<span class="l-orig">(577) Mīdạc kīwäⁿ änāt kā∙i∙ckwâwīsiniwāt wänāgucininig:</span>
 
-</div>
+<span class="l-fiero">**Mii dash kiiwenh enaat kaa-iishkwa-wiisiniwaat wenaagoshininig:**</span>
 
+<span class="l-eng">*Therefore they say that he said to him, after they had eaten in the evening:*</span>
 
-“Mii omaa ke-onji-pake’inaan,” odinaan (“it is here that I will part from you,” he said to him).
+<span class="l-gloss">Mii dash kiiwenh enaat kaa-iishkwa-wiisiniwaat wenaagoshininig (therefore, they say, he said to him after they had eaten in the evening):</span>
 
-659) > **"Eye'\!" odinaan.**
+<span class="l-orig">(578) “Naˢāngī,” udinān, “kiˢtcipōduwän,” udinān.</span>
 
+<span class="l-fiero">**“Na’aangii,” odinaan, “kischi-poodowen,” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Son-in-law,” he (thus) said to him, “build up a great fire,” he said to him.*</span>
 
-> <span class="l-gloss">"All right\!" he said to him.</span>
+<span class="l-gloss">“Na’aangii,” odinaan, “kischi-poodowen,” odinaan (“son-in-law,” he said to him, “build up a great fire,” he said to him).</span>
 
-</div>
+<span class="l-orig">(579) “Mīdạc kī‘ki‘tcipōdawäyạn mî‘tcigagītcīyạng tcipāsạmạng; kîdai∙ī∙minānin kīkataiyagōtōmin kayä kima‘kisinānin,” udinān.</span>
 
+<span class="l-fiero">**“Mii dash kii-kichi-poodaweyan mii chi-gagiichiiyang chi-paasamang; ki(i)dai’iiminaanin kii-kataiyagootoomin gaye kimakisinaanin,” odinaan.**</span>
 
-“Eye’\!” odinaan (“all right\!” he said to him).
+<span class="l-eng">*“And after you have kindled a big fire, then let us remove our moccasins, so that we can dry them; our clothes will we hang up, and likewise our moccasins,” he (thus) said to him.*</span>
 
-660) > **Mii dash egot:  
-     > **And then he was told:
+<span class="l-gloss">“Mii dash kii-kichi-poodaweyan mii chi-gagiichiiyang chi-paasamang (“and after you have built a big fire, then let us take off our moccasins to dry them); ki(i)dai’iiminaanin kii-kataiyagootoomin gaye kimakisinaanin,” odinaan (we will hang up our clothes, and our moccasins too,” he said to him).</span>
 
-Mii dash egot (and then he was told):
+<span class="l-orig">(580) Mīdạc kīwäⁿ kägä‘t awinini äjipasigwīt, kägä‘t kiˢtcipōdawät.</span>
 
-661) > **"Omaa naashi(i)si(i)toon nininchiing kizitan\!"**
+<span class="l-fiero">**Mii dash kiiwenh keget aw inini ezhipasigwiit, keget kischi-poodawet.**</span>
 
+<span class="l-eng">*Thereupon they say that truly the man rose to his feet; in truth, a great fire he built.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh keget aw inini ezhipasigwiit (thereupon, they say, truly the man rose to his feet), keget kischi-poodawet (truly he built a great fire).</span>
 
-> <span class="l-gloss">"Rub your feet here on my hand\!"</span>
+<span class="l-orig">(581) Äckwāpōdawänitidạc, udinān aᵘ a‘kiwäⁿzī uningwạnạn:</span>
 
-</div>
+<span class="l-fiero">**Eshkwaa-poodawenit idash, odinaan aw akiwenzii oningwanan:**</span>
 
+<span class="l-eng">*After he had the fire going, then said the old man to his son-inlaw:*</span>
 
-“Omaa naashi(i)si(i)toon nininchiing kizitan\!” (“rub your feet here on my hand\!”)
+<span class="l-gloss">Eshkwaa-poodawenit idash, odinaan aw akiwenzii oningwanan (and after he had the fire going, the old man said to his son-in-law):</span>
 
-662) > **Mii dash keget aw inini endootank kaa-igot oshiimeyan ma'iinganan.**
+<span class="l-orig">(582) “Omā pī∙a∙pạgitōn mîsạn ānint, päcu omā ayāyān.</span>
 
+<span class="l-fiero">**“Omaa pii-apagitoon mi(i)san aanint, pesho oma ayaayaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Here in this place come you, and throw some of the firewood, near here where I am.*</span>
 
-> <span class="l-gloss">Whereupon in truth the man did as he was told by his younger brother, Wolf.</span>
+<span class="l-gloss">“Omaa pii-apagitoon mi(i)san aanint, pesho oma ayaayaan (“throw some of the firewood over here, near where I am).</span>
 
-</div>
+<span class="l-orig">(583) Ningapạgitînānîn ạniyā‘tawäg ickutä,” udinān.</span>
 
+<span class="l-fiero">**Ninga-pagiti(i)naani(i)n aniyaataweg ishkote,” odinaan.**</span>
 
-Mii dash keget aw inini endootank kaa-igot oshiimeyan ma’iinganan (whereupon truly the man did as his younger brother the wolf told him).
+<span class="l-eng">*I will put it on when the fire gets to burning low,” he said to him.*</span>
 
-663) > **Mii dash keget:  
-     > **And then truly:
+<span class="l-gloss">Ninga-pagiti(i)naani(i)n aniyaataweg ishkote,” odinaan (I will put it on when the fire burns low,” he said to him).</span>
 
-Mii dash keget (and then truly):
+<span class="l-orig">(584) Mīdac kägä‘t awinini kīwa‘kwā‘kuwäbinạng tcīgaya∙i∙ ayānit īni’ᵘ a‘kiwäⁿjī∙i∙cạn.</span>
 
-664) > **"Maajaan wewiip\!" odigoon.**
+<span class="l-fiero">**Mii dash keget aw inini kiiwakwaakowebinang chiigaya’ii ayaanit iiniw akiwenzhii’ishan.**</span>
 
+<span class="l-eng">*Thereupon truly did the man heap up a pile near by where the mean old man was.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash keget aw inini kiiwakwaakowebinang chiigaya’ii ayaanit iiniw akiwenzhii’ishan (thereupon truly the man heaped up a pile near where the mean old man was).</span>
 
-> <span class="l-gloss">"Go with speed\!" he was told.</span>
+<span class="l-orig">(585) Mīdạc kayä wīn awinini äji∙u∙cī‘tād wī‘kawicimut.</span>
 
-</div>
+<span class="l-fiero">**Mii dash gaye wiin aw inini ezhi-oshiitaad wii-kawishimot.**</span>
 
+<span class="l-eng">*And then the man, in turn, likewise made ready to go to bed.*</span>
 
-“Maajaan wewiip\!” odigoon (“go with speed\!” he was told).
+<span class="l-gloss">Mii dash gaye wiin aw inini ezhi-oshiitaad wii-kawishimot (and then the man in turn made ready to go to bed).</span>
 
-665) > **Mii dash keget aw inini maajiibatood.**
+<span class="l-orig">(586) Mīdạc äjikīta‘kisinät äji∙a∙yagōtōd uma‘kisinạn, kāwīn kạnagä kägō inändạndaⁿzi, “Mīmāwin ‘iᵉi’ᵘ ningadōtāgō,” tci∙i∙nändạnk.</span>
 
+<span class="l-fiero">**Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan, gaawiin kanage kegoo inendandanzi, “Miimaawin i’iw ningadootaagoo,” chi-inendank.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Accordingly he took off his moccasins and hung them up, for of nothing at all was he suspicious that should lead him to think, “Perhaps some evil will be done to me.”*</span>
 
-> <span class="l-gloss">Thereupon truly the man started running.</span>
+<span class="l-gloss">Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan (accordingly he took off his moccasins and hung them up), gaawiin kanage kegoo inendandanzi (suspecting nothing at all), “Miimaawin i’iw ningadootaagoo,” chi-inendank (such as to think, “perhaps some evil will be done to me”).</span>
 
-</div>
+<span class="l-orig">(587) Mīdạc äji∙u∙jicimōni‘kät, kayä wīndạc a‘kiwäⁿjī∙i∙c tcātcīgskutäwäcin; kāwin mạci kagītcīsī.</span>
 
+<span class="l-fiero">**Mii dash ezhi-ozhishimooniket, gaye wiin dash akiiwenzhii’ish chaachiigs[h]koteweshin; gaawiin mashi kagiichiisii.**</span>
 
-Mii dash keget aw inini maajiibatood (thereupon truly the man started running).
+<span class="l-eng">*And while he was making his pallet ready, the hateful old man was himself lying close to the fire; not yet had he taken off his moccasins.*</span>
 
-666) > **Mii dash kii-tagwishing endaat ani-piindiget.**
+<span class="l-gloss">Mii dash ezhi-ozhishimooniket (and while he was making his pallet ready), gaye wiin dash akiiwenzhii’ish chaachiigs[h]koteweshin (the hateful old man was himself lying close to the fire); gaawiin mashi kagiichiisii (not yet had he taken off his moccasins).</span>
 
+<span class="l-orig">(588) Mīdạc kīwäⁿ awinini änāt:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kiiwenh aw inini enaat:**</span>
 
-> <span class="l-gloss">And when he arrived at home, he passed on into the lodge.</span>
+<span class="l-eng">*And then truly the man said to him:*</span>
 
-</div>
+<span class="l-gloss">Mii dash kiiwenh aw inini enaat (and then, they say, the man said to him):</span>
 
+<span class="l-orig">(589) “Ānicinā! Ambä kagītcīciwạn tci∙a∙gōtōyan īni’ᵘ īni’ᵘ kima‘kîsinạn tcipā‘täg mägwā ki‘tcipîskạnäg?” udinān.</span>
 
-Mii dash kii-tagwishing endaat ani-piindiget (and when he arrived home, he passed inside).
+<span class="l-fiero">**“Aaniish inaa! Ambe kagiichiishiwan chi-agootooyan iiniw iiniw kimaki(i)sinan chi-paateg megwaa kichi-pi(i)skaneg?” odinaan.**</span>
 
-667) > **Mii pi(i)chinag tashikagiichiid aw akiwenzhii'ish.**
+<span class="l-eng">*“Why, come! Why are you not taking off your moccasins (and) hanging them up to dry while yet the fire blazes high?” he (thus) said to him.*</span>
 
+<span class="l-gloss">“Aaniish inaa! Ambe kagiichiishiwan chi-agootooyan iiniw iiniw kimaki(i)sinan chi-paateg megwaa kichi-pi(i)skaneg?” odinaan (“why, come! why don’t you take off your moccasins and hang them to dry while the fire still blazes high?” he said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(590) Mīdạc kīwäⁿ a‘kiwäⁿzi näbāngin iji∙a∙yā.</span>
 
-> <span class="l-gloss">It was at a time when the hateful old man was in the act of taking off his moccasins.</span>
+<span class="l-fiero">**Mii dash kiiwenh akiwenzi nebaangin izhi-ayaa.**</span>
 
-</div>
+<span class="l-eng">*Now, they say that the old man acted as if he were asleep.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh akiwenzi nebaangin izhi-ayaa (now, they say, the old man acted as if he were asleep).</span>
 
-Mii pi(i)chinag tashikagiichiid aw akiwenzhii’ish (it was just when the hateful old man was taking off his moccasins).
+<span class="l-orig">(591) Wī‘kāgu pimiwāwuniskā.</span>
 
-668) > **"Miina pi(i)chiinag kaye kin?" odinaan oningwanan.**
+<span class="l-fiero">**Wiikaa go pimiwaawoniske.**</span>
 
+<span class="l-eng">*Some time afterwards he rose (from his pallet).*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Wiikaa go pimiwaawoniske (some time afterward he rose from his pallet).</span>
 
-> <span class="l-gloss">"And have you just come, too?" he said to his son-in-law.</span>
+<span class="l-orig">(592) Awidac inini cācingicing mīdạc aᵘ a‘kiwäⁿzi pîtcīnạg ayagōtōd uma‘kisinicạn, pa‘kic kayä ayīntạnwäwä‘tōd.</span>
 
-</div>
+<span class="l-fiero">**Aw idash inini shaashingishing mii dash aw akiwenzi pi(i)chiinag ayagootood omakisinishan, pekish gaye ayiintanwewetood.**</span>
 
+<span class="l-eng">*And while the man was lying down at rest, then the old man later hung up his miserable moccasins, at the same time he kept on talking.*</span>
 
-“Miina pi(i)chiinag kaye kin?” odinaan oningwanan (“and have you just come too?” he said to his son-in-law).
+<span class="l-gloss">Aw idash inini shaashingishing (and while the man lay resting) mii dash aw akiwenzi pi(i)chiinag ayagootood omakisinishan (then the old man at last hung up his miserable moccasins), pekish gaye ayiintanwewetood (at the same time talking on and on).</span>
 
-669) > **Aw idash na'aangii kaawiin kegoo kanage ikitosii.**
+<span class="l-orig">(593) Mīdạc kīwäⁿ awinini cigwa käwīn ā‘pidci wīnîbāt.</span>
 
+<span class="l-fiero">**Mii dash kiiwenh aw inini shigwa gaawiin aapiji wii-ni(i)baat.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And now they say that the youth, in all this while, was not very eager about going to sleep.*</span>
 
-> <span class="l-gloss">But the son-in-law said nothing at all.</span>
+<span class="l-gloss">Mii dash kiiwenh aw inini shigwa gaawiin aapiji wii-ni(i)baat (and now, they say, the youth was not very eager to fall asleep).</span>
 
-</div>
+<span class="l-orig">(594) Awidac a‘kiwäⁿzi awạntcic kāgīgito, tạtibātcimạt; untcitagwu pä‘kic tōtạm ciktci∙a∙iyä‘kwi∙ā∙t īni’ᵘ unīngwạnạn.</span>
 
+<span class="l-fiero">**Aw idash akiwenzi awanchish kaagiigito, tatibaachimat; onchitagwo pekish tootam shikchi-aiyekwi’aat iiniw oniingwanan.**</span>
 
-Aw idash na’aangii kaawiin kegoo kanage ikitosii (but the son-in-law said nothing at all).
+<span class="l-eng">*But the old man nevertheless kept on talking, he was spinning stories; for a purpose of course was he doing it (which was) to the end that he might tire out his son-in-law.*</span>
 
-670) > **Pisaan igo odinaan, "Eye'," ikito.**
+<span class="l-gloss">Aw idash akiwenzi awanchish kaagiigito, tatibaachimat (but the old man nevertheless kept on talking, spinning stories); onchitagwo pekish tootam shikchi-aiyekwi’aat iiniw oniingwanan (on purpose he was doing it, to tire out his son-in-law).</span>
 
+<span class="l-orig">(595) A‘pīdạc nîbānit, ā‘pidci kiˢtcikiˢtcinîbānit.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Apii dash ni(i)baanit, aapiji kischi-kischi-ni(i)baanit.**</span>
 
-> <span class="l-gloss">He simply said to him: "Yes," he (thus) said.</span>
+<span class="l-eng">*And when the other fell asleep, into a very deep slumber did he fall.*</span>
 
-</div>
+<span class="l-gloss">Apii dash ni(i)baanit, aapiji kischi-kischi-ni(i)baanit (and when the other fell asleep, into a very deep slumber he fell).</span>
 
+<span class="l-orig">(596) Mīdạc kīwäⁿ kägä‘t aᵘ inini kā∙i∙ciwäbisit a‘pī näpāt.</span>
 
-Pisaan igo odinaan, “Eye’,” ikito (he just said to him, “yes,” he said).
+<span class="l-fiero">**Mii dash kiiwenh keget aw inini kaa-ishiwebisit apii nepaat.**</span>
 
-671) > **Mii dash kiiwenh aw akiwenzhii'ishigoban kaa-ishkwaa-wiisi(i)niwaat wenaagoshik.**
+<span class="l-eng">*And they say it is true that what the man had done to him happened while he was asleep.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh keget aw inini kaa-ishiwebisit apii nepaat (and then, they say, truly what was done to the man happened while he slept).</span>
 
-<div class="four-layer">
+<span class="l-orig">(597) Mīdạc awä a‘kīwäⁿzī ayā‘pi äjikạnōnāt wī‘ki‘känimāt tcinîbānigwän.</span>
 
-> <span class="l-gloss">And then they say that after the contemptible old man had eaten, it was then evening.</span>
+<span class="l-fiero">**Mii dash awe akiwenzi ayaapii ezhikanoonaat wii-kikenimaat chi-ni(i)baanigwen.**</span>
 
-</div>
+<span class="l-eng">*And the old man now and then was addressing him to find out if he were asleep.*</span>
 
+<span class="l-gloss">Mii dash awe akiwenzi ayaapii ezhikanoonaat wii-kikenimaat chi-ni(i)baanigwen (and the old man now and then spoke to him to find out whether he was asleep).</span>
 
-Mii dash kiiwenh aw akiwenzhii’ishigoban kaa-ishkwaa-wiisi(i)niwaat wenaagoshik (and then, they say, after the contemptible old man had eaten, it was evening).
+<span class="l-orig">(598) Käga‘pīdạc awinini kīnîbāt, kāwīn nōndawāsīn kạnōnigut.</span>
 
-672) > **Mii dash kiiwenh akiwenzi pane kiiwenh okanawabamaan iiniw oniingwanan, kwiinawi-inenamaat.**
+<span class="l-fiero">**Kegapii dash aw inini kii-ni(i)baat, gaawiin noondawaasiin kanoonigot.**</span>
 
+<span class="l-eng">*At last the man had fallen asleep, for he did not hear the other when he was spoken to.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Kegapii dash aw inini kii-ni(i)baat (at last the man had fallen asleep), gaawiin noondawaasiin kanoonigot (for he did not hear when he was spoken to).</span>
 
-> <span class="l-gloss">And so they say that the old man kept gazing constantly at his son-in-law, not knowing what to make of him.</span>
+<span class="l-orig">(599) Mīdạc kīwäⁿ kā∙i∙ci∙u∙nickāt aᵘ a‘kiwäⁿjī∙i∙cigubạn, kā∙i∙ci∙o∙tā‘pinạmawāt uningwạnạn uma‘kisinini, kī∙a∙‘todin ckudänk.</span>
 
-</div>
+<span class="l-fiero">**Mii dash kiiwenh kaa-ishii-onishkaat aw akiwenzhii-ishigoban, kaa-ishi-otaapinamawaat oningwanan omakisinini, kii-atodin shkodenk.**</span>
 
+<span class="l-eng">*And then they say that after the hateful old man had risen from his pallet, he then later took down the moccasins of his son-in-law (and) put them into the fire.*</span>
 
-Mii dash kiiwenh akiwenzi pane kiiwenh okanawabamaan iiniw oniingwanan (and so, they say, the old man kept gazing constantly at his son-in-law), kwiinawi-inenamaat (not knowing what to make of him).
+<span class="l-gloss">Mii dash kiiwenh kaa-ishii-onishkaat aw akiwenzhii-ishigoban (and then, they say, after the hateful old man had risen from his pallet), kaa-ishi-otaapinamawaat oningwanan omakisinini (he took down his son-in-law’s moccasins), kii-atodin shkodenk (and put them into the fire).</span>
 
-673) > **"Amanch ked-anaapinanaawaagen?" odinenimaan.**
+<span class="l-orig">(600) Kägādạc tcāgā‘kidäni‘k mī pitcīnạg kīgitut a‘kiwäjī∙i∙c, i‘kitut:</span>
 
+<span class="l-fiero">**Kegaa dash chaagaakidenik mii pichiinag kiigitot akiwezhii’ish, ikitot:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And when they were nearly burned completely up, then spoke the base old man, saying:*</span>
 
-> <span class="l-gloss">"What in the world can I do to kill him?" was his thought of him.</span>
+<span class="l-gloss">Kegaa dash chaagaakidenik (and when they were nearly burned right up) mii pichiinag kiigitot akiwezhii’ish, ikitot (then at last the base old man spoke, saying):</span>
 
-</div>
+<span class="l-orig">(601) “Pā ‘pa’, tcāgitäg kägō!</span>
 
+<span class="l-fiero">**“Paa paa, chaagiteg kegoo!**</span>
 
-“Amanch ked-anaapinanaawaagen?” odinenimaan (“what in the world can I do to kill him?” was his thought of him).
+<span class="l-eng">*“Phew! something is burning up!*</span>
 
-674) > **Apane oganawabamaan oshkiizhigwaning.**
+<span class="l-gloss">“Paa paa, chaagiteg kegoo! (“phew! something is burning up!)</span>
 
+<span class="l-orig">(602) Naˢāngī! kima‘kîsinạn tcāgitäwạn!” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Na’aangii! kimaki(i)sinan chaagitewan!” odinaan.**</span>
 
-> <span class="l-gloss">ll the time was he gazing at him in the face.</span>
+<span class="l-eng">*O son-in-law! your moccasins are burning up,” he (thus) said to him.*</span>
 
-</div>
+<span class="l-gloss">Na’aangii! kimaki(i)sinan chaagitewan!” odinaan (son-in-law! your moccasins are burning up!” he said to him).</span>
 
+<span class="l-orig">(603) Päpä‘kāgu pimiwạnickā awinini.</span>
 
-Apane oganawabamaan oshkiizhigwaning (all the time he gazed into his face).
+<span class="l-fiero">**Pepekaa go pimiwanishkaa aw inini.**</span>
 
-675) > **Mii dash kegapii ezhi-kanoonigot odaanisan:  
-     > **Thereupon he was addressed by his daughter saying:
+<span class="l-eng">*Slowly rose the man from his pallet.*</span>
 
-Mii dash kegapii ezhi-kanoonigot odaanisan (thereupon at last he was addressed by his daughter):
+<span class="l-gloss">Pepekaa go pimiwanishkaa aw inini (slowly the man rose from his pallet).</span>
 
-676) > **"Aaniin sa enaabamat aw pane?"**
+<span class="l-orig">(604) Mīdạc wâbạndạngin uma‘kîsinạn tcāgitänig; ānawidạc aᵘ a‘kiwäⁿjī∙i∙c āja ugī∙a∙gwāwäbi∙ā∙nạn.</span>
 
+<span class="l-fiero">**Mii dash wabandangin omakisinan chaagitenig; aanawi dash aw akiwenzhii’ish aazha ogii-agwaawebi’aanan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then he saw that his moccasins were burned up, for in fact the evil old man had by that time thrown them out (of the fire).*</span>
 
-> <span class="l-gloss">"Why on earth are you always gazing at him?"</span>
+<span class="l-gloss">Mii dash wabandangin omakisinan chaagitenig (and then he saw that his moccasins were burned up); aanawi dash aw akiwenzhii’ish aazha ogii-agwaawebi’aanan (for in fact the evil old man had by then thrown them out of the fire).</span>
 
-</div>
+<span class="l-orig">(605) Mīdạc kā‘kạnawâbạndạnk awinini īni’ᵘ uma‘kisinạn kī‘kawicimo minawā.</span>
 
+<span class="l-fiero">**Mii dash kaa-kanawabandank aw inini iiniw omakisinan kii-kawishimo minawaa.**</span>
 
-“Aaniin sa enaabamat aw pane?” (“why on earth are you always staring at him?”)
+<span class="l-eng">*And then, after the man had taken a look at his moccasins, he lay down on his pallet again.*</span>
 
-677) > **"Aa, kaawiin kegoo\!" ikito.**
+<span class="l-gloss">Mii dash kaa-kanawabandank aw inini iiniw omakisinan (and then, after the man had taken a look at his moccasins) kii-kawishimo minawaa (he lay down on his pallet again).</span>
 
+<span class="l-orig">(606) Mīdạc kīwäⁿ kägicäp kī‘pōtawät a‘kiwäⁿjī∙i∙c, mīdạc änāt unīngwạnạn:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kiiwenh kegishep kii-pootawet a’kiwenzhii’ish, mii dash enaat oniingwanan:**</span>
 
-> <span class="l-gloss">"Oh, for nothing\!" he said.</span>
+<span class="l-eng">*And then they say that in the morning the hateful old man built the fire.Whereupon he said to his son-in-law:*</span>
 
-</div>
+<span class="l-gloss">Mii dash kiiwenh kegishep kii-pootawet a’kiwenzhii’ish (and then, they say, in the morning the hateful old man built the fire), mii dash enaat oniingwanan (whereupon he said to his son-in-law):</span>
 
+<span class="l-orig">(607) “Ānīn kätōtạmạn uma‘kîzinîsiwạn tcigīwäyạn?</span>
 
-“Aa, kaawiin kegoo\!” ikito (“oh, for nothing\!” he said).
+<span class="l-fiero">**“Aaniin ke-tootaman omaki(i)zini(i)siwan chi-giiweyan?**</span>
 
-678) > **"Anishaa go ninganawabamimaan memiigonisiwan pebaamisenit chiigaya'ii oskiishigonk," odinaan odaanisan.**
+<span class="l-eng">*“What are you going to do about getting back home, now that you have no moccasins?*</span>
 
+<span class="l-gloss">“Aaniin ke-tootaman omaki(i)zini(i)siwan chi-giiweyan? (“what will you do about going home, now that you have no moccasins?)</span>
 
-<div class="four-layer">
+<span class="l-orig">(608) Wâsadạc kayä kitayāmin,” udinān.</span>
 
-> <span class="l-gloss">"I was only watching the dragonfly that was flying close about his face, " he said to his daughter.</span>
+<span class="l-fiero">**Wasa dash gaye kitayaamin,” odinaan.**</span>
 
-</div>
+<span class="l-eng">*And a long way off are we, too,” he said to him.*</span>
 
+<span class="l-gloss">Wasa dash gaye kitayaamin,” odinaan (and a long way off are we, too,” he said to him).</span>
 
-“Anishaa go ninganawabamimaan memiigonisiwan pebaamisenit chiigaya’ii oskiishigonk,” odinaan odaanisan (“I was only watching the dragonfly flying close about his face,” he said to his daughter).
+<span class="l-orig">(609) “Kāwīn na nījwäwān kigīpītōsinạn kima‘kisinạn?”</span>
 
-679) > **Kaawiin dash kegoo miinawa odinaansiin, aanawi ogikenimaan iiniw oosan endootawaanit onaabeman.**
+<span class="l-fiero">**“Gaawiin na niizhwewaan kigii-pitoosinan kimakisinan?”**</span>
 
+<span class="l-eng">*“Did you not fetch yourself two pairs of moccasins?”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Gaawiin na niizhwewaan kigii-pitoosinan kimakisinan?” (“did you not bring yourself two pairs of moccasins?”)</span>
 
-> <span class="l-gloss">But nothing more said she to him, for though she knew what her father had done to her husband.</span>
+<span class="l-orig">(610) “Kāwīn,” udinān.</span>
 
-</div>
+<span class="l-fiero">**“Gaawiin,” odinaan.**</span>
 
+<span class="l-eng">*“No,” he said to him.*</span>
 
-Kaawiin dash kegoo miinawa odinaansiin (but nothing more did she say to him), aanawi ogikenimaan iiniw oosan endootawaanit onaabeman (though she knew what her father had done to her husband).
+<span class="l-gloss">“Gaawiin,” odinaan (“no,” he said to him).</span>
 
-680) > **Mii dash kiiwenh miinawaa ningoting akiwenzii aa-iindawaat enaat oninggwanan ani(i)shnaa aatisookaan:  
-     > **And now they say, on another occasion during the time that they were dwelling there, the old man said to his son-in-law, so the story goes:
+<span class="l-orig">(611) “Kīgawīndamīn, naˢāngī, kädijictcigäyān.</span>
 
-Mii dash kiiwenh miinawaa ningoting akiwenzii aa-iindawaat enaat oninggwanan ani(i)shnaa aatisookaan (and now, they say, on another occasion while they lived there, the old man said to his son-in-law, so the story goes):
+<span class="l-fiero">**“Kiiga-wiindamiin, na’aangii, ked-izhishchigeyaan.**</span>
 
-681) > **"Mii sa shigwa miinawaa chibandawenchigeyangoban," odinaan.**
+<span class="l-eng">*“I will tell you, son-in-law, what I will do.*</span>
 
+<span class="l-gloss">“Kiiga-wiindamiin, na’aangii, ked-izhishchigeyaan (“I will tell you, son-in-law, what I will do).</span>
 
-<div class="four-layer">
+<span class="l-orig">(612) Ningakīwä,” udinān.</span>
 
-> <span class="l-gloss">"It is now time for us again to go hunting for game," he (thus) said to him.</span>
+<span class="l-fiero">**Ninga-kiiwe,” odinaan.**</span>
 
-</div>
+<span class="l-eng">*I will go back home,” he said to him.*</span>
 
+<span class="l-gloss">Ninga-kiiwe,” odinaan (I will go back home,” he said to him).</span>
 
-“Mii sa shigwa miinawaa chibandawenchigeyangoban,” odinaan (“it is now time for us to go hunting again,” he said to him).
+<span class="l-orig">(613) “Ninganāsi‘kānạn kima‘kisinạn,” udinān.</span>
 
-682) > **"Aaniin nangwana," odinaan aw inini.**
+<span class="l-fiero">**“Ninga-naasikaanan kimakisinan,” odinaan.**</span>
 
+<span class="l-eng">*“I will go fetch you your moccasins,” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Ninga-naasikaanan kimakisinan,” odinaan (“I will go fetch you your moccasins,” he said to him).</span>
 
-> <span class="l-gloss">"That is true," (thus) to him said the man.</span>
+<span class="l-orig">(614) Agāwadạc kīwäⁿ oganōnān awinini.</span>
 
-</div>
+<span class="l-fiero">**Agawaa dash kiiwenh oganoonaan aw inini.**</span>
 
+<span class="l-eng">*Scarcely even an answer, so they say, did the man give him.*</span>
 
-“Aaniin nangwana,” odinaan aw inini (“that is true,” said the man to him).
+<span class="l-gloss">Agawaa dash kiiwenh oganoonaan aw inini (scarcely even an answer, they say, did the man give him).</span>
 
-683) > **Mii dash miinawaa enaat wiiwan aw inini:  
-     > **Thereupon again to his wife said the man:
+<span class="l-orig">(615) Mīdạc äjimādcāt a‘kiwäⁿjī∙i∙c; wīndạc awinini mī∙i∙mā ayāt, ānic kāwīn kaskitōsīn ningutci tcī∙i∙cāt.</span>
 
-Mii dash miinawaa enaat wiiwan aw inini (thereupon again the man said to his wife):
+<span class="l-fiero">**Mii dash ezhi-maajaat akiiwenhzhii’ish; wiin dash aw inini mii imaa ayaat, aaniish gaawiin kas[h]kitoosiin ningochi chii-izhaat.**</span>
 
-684) > **"Oshitoon nimakisinan niizhwewaan," odinaan.**
+<span class="l-eng">*Thereupon the mean old man started away; while the man himself remained there at the place, for nowhere at all could he go.*</span>
 
+<span class="l-gloss">Mii dash ezhi-maajaat akiiwenhzhii’ish (thereupon the mean old man started off); wiin dash aw inini mii imaa ayaat (while the man himself remained there), aaniish gaawiin kas[h]kitoosiin ningochi chii-izhaat (for nowhere at all could he go).</span>
 
-<div class="four-layer">
+<span class="l-orig">(616) Mīdạc nānāgatawändạnk ānīn kätijictcigägwän, ugi‘känimān īni’ᵘ ācinisạn kägä‘t tcināⁿzi‘kạnsininig uma‘kisînạn.</span>
 
-> <span class="l-gloss">"Make two pairs of moccasins for me," he said to her.</span>
+<span class="l-fiero">**Mii dash naanaagatawendank aaniin ket-izhishchigegwen, ogikenimaan iiniw aashinisan keget chi-naazikansininig omakisinan.**</span>
 
-</div>
+<span class="l-eng">*And then he pondered what to do, for he knew that his father-in-law would surely not fetch his moccasins.*</span>
 
+<span class="l-gloss">Mii dash naanaagatawendank aaniin ket-izhishchigegwen (and then he pondered what to do), ogikenimaan iiniw aashinisan keget chi-naazikansininig omakisinan (for he knew his father-in-law would surely not fetch his moccasins).</span>
 
-“Oshitoon nimakisinan niizhwewaan,” odinaan (“make me two pairs of moccasins,” he said to her).
+<span class="l-orig">(617) Mīdạc kīwäⁿ nindawātc aᵘ äjimādci‘tād ujī‘tād wī‘kīwät.</span>
 
-685) > **Mii dash keget aw ikwe kaa-izhi-oshitood omakisinan, aapiji weweni ogii-oshitoonan, ogii-piimigitaanan ningotwewaan.**
+<span class="l-fiero">**Mii dash kiiwenh nindawaach aw ezhi-maajitaad ozhiitaad wii-kiiwet.**</span>
 
+<span class="l-eng">*And then they say that accordingly he began getting ready to go back home.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh nindawaach aw ezhi-maajitaad ozhiitaad wii-kiiwet (and then, they say, accordingly he began making ready to go back home).</span>
 
-> <span class="l-gloss">And it was true that when the woman had finished his moccasins, very nice was the work she did on them, she did one pair with porcupine-quills.</span>
+<span class="l-orig">(618) Mī kīwäⁿ kā∙i∙ji∙u∙dā‘pināt nîswâbi‘k asinīn, kā∙i∙jikijābi‘kiswāt, kī∙i∙‘kitut: “</span>
 
-</div>
+<span class="l-fiero">**Mii kiiwen kaa-izhi-odaapinaat ni(i)swabik asiniin, kaa-izhikizhaabikiswet, kii-ikitot:**</span>
 
+<span class="l-eng">*And so they say that after he had taken three great stones (and) after he had heated them, he then said:*</span>
 
-Mii dash keget aw ikwe kaa-izhi-oshitood omakisinan (and it was true that when the woman finished his moccasins), aapiji weweni ogii-oshitoonan (very nicely she made them), ogii-piimigitaanan ningotwewaan (one pair she did with porcupine quills).
+<span class="l-gloss">Mii kiiwen kaa-izhi-odaapinaat ni(i)swabik asiniin (and so, they say, after he had taken three great stones), kaa-izhikizhaabikiswet (after he had heated them red-hot), kii-ikitot (he then said):</span>
 
-686) > **Mii dash maajaawaagobanen miinawaa.**
+<span class="l-orig">(619) ‘Āᵘ. nimicōmia, ạmbä, wītō‘kawicin tcikīwäyān!</span>
 
+<span class="l-fiero">**“Aaw, nimishoomi’a, ambe, wiitookawishin chi-kiiweyaan!**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Now, my grandfather, come and help me to return home again!*</span>
 
-> <span class="l-gloss">Thereupon they set out again.</span>
+<span class="l-gloss">“Aaw, nimishoomi’a, ambe, wiitookawishin chi-kiiweyaan! (“now, my grandfather, come, help me to return home!)</span>
 
-</div>
+<span class="l-orig">(620) Niwīntawâbạmāg ninītcānisạg,” i‘kito.</span>
 
+<span class="l-fiero">**Niwiintawabamaag niniichaanisag,” ikito.**</span>
 
-Mii dash maajaawaagobanen miinawaa (thereupon they set out again).
+<span class="l-eng">*I long to see my children,” he said.*</span>
 
-687) > **Mii dash shigwa miinawaa wasa ki-tagwishinoowaat.**
+<span class="l-gloss">Niwiintawabamaag niniichaanisag,” ikito (I long to see my children,” he said).</span>
 
+<span class="l-orig">(621) Mīdạc kägä‘t äji∙u∙dā‘pigwānāt īni’ᵘ mîskwābī‘kisunit īni’ᵘ asînīn; kwaya‘kidạc wâ∙i∙jāt, mī∙i∙witi gwaya‘k äjiwäbuwāt.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash keget ezhi-odaapigwaanaat iiniw mi(i)skwaabiikisonit iiniw asi(i)niin; kwayak idash wa-izhaat, mii iwiti gwayak ezhiwebowaat.**</span>
 
-> <span class="l-gloss">And so in a little while a longway off they were come.</span>
+<span class="l-eng">*And then truly he took these stones out (of the fire) red-hot; and directly (in the path) whither he wanted to go, along that course straight (ahead) did he roll them.*</span>
 
-</div>
+<span class="l-gloss">Mii dash keget ezhi-odaapigwaanaat iiniw mi(i)skwaabiikisonit iiniw asi(i)niin (and then truly he took out the red-hot stones); kwayak idash wa-izhaat, mii iwiti gwayak ezhiwebowaat (and straight in the direction he wished to go, that way straight ahead he rolled them).</span>
 
+<span class="l-orig">(622) Mīdạc awasîn kägä‘t äjimādcīpisut awạcîmädạc ābi‘ta āwạninig kīnōgibiso.</span>
 
-Mii dash shigwa miinawaa wasa ki-tagwishinoowaat (and so in a little while a long way off they were come).
+<span class="l-fiero">**Mii dash aw asi(i)n keget ezhi-maajiipisot awashi(i)me dash aabita aawaninig kii-noogibiso.**</span>
 
-688) > **Komaapi minawaa oganoonigoon ozhini(i)san wasa kaa-tagwishinowaat, mii dash akiwenzhii'ish enaat oningwanan:  
-     > **By and by again he was addressed by his father-in-law after they had come afar.And this the old man said to his son-in-law:
+<span class="l-eng">*Thereupon the stone truly started going, more than half the distance home it went before it stopped.*</span>
 
-Komaapi minawaa oganoonigoon ozhini(i)san wasa kaa-tagwishinowaat (by and by again he was addressed by his father-in-law after they had come far), mii dash akiwenzhii’ish enaat oningwanan (and this the old man said to his son-in-law):
+<span class="l-gloss">Mii dash aw asi(i)n keget ezhi-maajiipisot (thereupon the stone truly started going) awashi(i)me dash aabita aawaninig kii-noogibiso (and more than half the distance home it went before it stopped).</span>
 
-689) > **"Mii omaa sa chii-oshigeyang.  
-     > **"Now, here is a place for us to make a camp.
+<span class="l-orig">(623) Mīdạc kā∙ạ∙ni∙ạ∙‘pisut awạsîn mīgu kā∙ạ∙ni∙i∙ji∙a∙ni‘täwạng; mīdạc imā aᵘ inini kī∙ạ∙nipimusät.</span>
 
-“Mii omaa sa chii-oshigeyang (“now, here is a place for us to camp).
+<span class="l-fiero">**Mii dash kaa-ani-apisot aw asi(i)n mii go kaa-ani-izhi-anitewang; mii dash imaa aw inini kii-ani-pimoset.**</span>
 
-690) > **Mii dash kaye omaa kewanjiyang chi-aiyandawenchigeyang."**
+<span class="l-eng">*And in the path where the stone had moved, along that course was the snow melted; accordingly by that way did the man travel.*</span>
 
+<span class="l-gloss">Mii dash kaa-ani-apisot aw asi(i)n mii go kaa-ani-izhi-anitewang (and along the path where the stone had rolled, there the snow was melted); mii dash imaa aw inini kii-ani-pimoset (and so along that path the man walked).</span>
 
-<div class="four-layer">
+<span class="l-orig">(624) Mägwādạc ạnipimusät, udạminisutawān pimäya∙ī∙ awiya; mīdạc äji∙i∙nābit ōwâbạmān dạc ma∙ī∙ngạnạn pimusänit, ugi∙u∙ndcikanōnigōn:</span>
 
-> <span class="l-gloss">And also from this place will we go to hunt for game."</span>
+<span class="l-fiero">**Megwaa dash ani-pimoset, odaminisotawaan pimeya’ii awiya; mii dash ezhi-inaabit oowabamaan dash ma’iinganan pimosenit, ogi-onji-kanoonigoon:**</span>
 
-</div>
+<span class="l-eng">*And while he was walking along, he began to feel the presence of somebody at his side;and as he looked, he beheld a Wolf walking along. And by him, from his place over there, he was addressed:*</span>
 
+<span class="l-gloss">Megwaa dash ani-pimoset, odaminisotawaan pimeya’ii awiya (and while he was walking along, he sensed someone at his side); mii dash ezhi-inaabit oowabamaan dash ma’iinganan pimosenit (and as he looked, he saw a wolf walking along), ogi-onji-kanoonigoon (and from over there he was addressed by him):</span>
 
-Mii dash kaye omaa kewanjiyang chi-aiyandawenchigeyang.” (and also from here we will go hunting for game.”)
+<span class="l-orig">(625) “Ānīn,” udigōn: “nîsayäⁿ?”</span>
 
-691) > **Mii dash keget kaa-oshigewaat, kii-ashiganegewaat.**
+<span class="l-fiero">**“Aaniin,” odigoon: “ni(i)sayenh?”**</span>
 
+<span class="l-eng">*“What,” he was told, “my elder brother?”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Aaniin,” odigoon: “ni(i)sayenh?” (“how are you,” he was told, “my elder brother?”)</span>
 
-> <span class="l-gloss">And it was true that they pitched camp, they made a sheltercamp.</span>
+<span class="l-orig">(626) Udinān dạc awinini:</span>
 
-</div>
+<span class="l-fiero">**Odinaan dash aw inini:**</span>
 
+<span class="l-eng">*And to him said the man:*</span>
 
-Mii dash keget kaa-oshigewaat, kii-ashiganegewaat (and truly they pitched camp, they made a shelter-camp).
+<span class="l-gloss">Odinaan dash aw inini (and to him said the man):</span>
 
-692) > **Aw idash inini kii-ayiidanakamigis kii-maniset, wiin dash akiwenzi kii-chaachiikishkoteweshin.**
+<span class="l-orig">(627) “Kāwīn kägō.”</span>
 
+<span class="l-fiero">**“Gaawiin kegoo.”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Nothing.”*</span>
 
-> <span class="l-gloss">And the man worked away gathering fire-wood, while the old man himself lay close by the fire.</span>
+<span class="l-gloss">“Gaawiin kegoo.” (“nothing.”)</span>
 
-</div>
+<span class="l-orig">(628) “Āntic äjaiyạn?” udigōn.</span>
 
+<span class="l-fiero">**“Aantish ezhaiyan?” odigoon.**</span>
 
-Aw idash inini kii-ayiidanakamigis kii-maniset (and the man worked away gathering firewood), wiin dash akiwenzi kii-chaachiikishkoteweshin (while the old man himself lay close by the fire).
+<span class="l-eng">*“Wrhere are you going?” he was asked.*</span>
 
-693) > **Mii dash wenaagoshik kii-shkwaa-wiisiniwaat mii mi'awaa naasaab endodank aw akiwenzhii'ish.**
+<span class="l-gloss">“Aantish ezhaiyan?” odigoon (“where are you going?” he was asked).</span>
 
+<span class="l-orig">(629) “Ninkīwä,” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Ninkiiwe,” odinaan.**</span>
 
-> <span class="l-gloss">Thereupon in the evening, after they had finished eating, then in the same way as before behaved the malicious old man.</span>
+<span class="l-eng">*“I am going home,” he said to him.*</span>
 
-</div>
+<span class="l-gloss">“Ninkiiwe,” odinaan (“I am going home,” he said to him).</span>
 
+<span class="l-orig">(630) Mīdạc pimiwâwīdciwāt īni’ ma∙ī∙ngạnạn kāgīgitōwāt.</span>
 
-Mii dash wenaagoshik kii-shkwaa-wiisiniwaat (thereupon in the evening, after they had finished eating) mii mi’awaa naasaab endodank aw akiwenzhii’ish (then in the same way as before behaved the malicious old man).
+<span class="l-fiero">**Mii dash pimiwawiijiwaat iiniw ma’iinganan kaagiigitoowaat.**</span>
 
-694) > **Kaawiin minawaa kii-izhi-maaminonendanzii aw inini; aapichi maa akiwenzhii'ish owaawiikimaan iiniw oningwanan, mii dash igo aapiji wenji-nitaa-papaameniwaasik.**
+<span class="l-eng">*And then, as he and the Wolf went along together, they kept up a talk.*</span>
 
+<span class="l-gloss">Mii dash pimiwawiijiwaat iiniw ma’iinganan kaagiigitoowaat (and then, as he and the wolf went along together, they kept up a talk).</span>
 
-<div class="four-layer">
+<span class="l-orig">(631) Awä nini pimipimusä ānīndi asînīn kā∙ạ∙ni∙a∙pisunit, awidạc ma∙ī∙ngạn pimäya∙ī∙ pimusä kōni‘kāng.</span>
 
-> <span class="l-gloss">Again was the man not mindful of the wrong that had been done to him, and that was the very reason why he paid no heed to him.</span>
+<span class="l-fiero">**Awe nini pimi-pimose aaniindi asi(i)niin kaa-ani-apisonit, aw idash ma’iingan pimeya’ii pimose koonikaang.**</span>
 
-</div>
+<span class="l-eng">*Now, the man walked along where the stone had rolled; and the Wolf passed along at the side, on the snow.*</span>
 
+<span class="l-gloss">Awe nini pimi-pimose aaniindi asi(i)niin kaa-ani-apisonit (now the man walked along where the stone had rolled), aw idash ma’iingan pimeya’ii pimose koonikaang (and the wolf passed along at the side, on the snow).</span>
 
-Kaawiin minawaa kii-izhi-maaminonendanzii aw inini (again the man was not mindful of the wrong done to him); aapichi maa akiwenzhii’ish owaawiikimaan iiniw oningwanan (the wretched old man kept urging his son-in-law), mii dash igo aapiji wenji-nitaa-papaameniwaasik (and that was the very reason he paid no heed to him).
+<span class="l-orig">(632) Mīdạc kīwäⁿ a‘kiwäⁿjī∙i∙c tägwucing äntāwāt, wi‘kāgu pîtcinạg kī∙ạ∙nitatagucinōgubạn, kāwīn kạnagä kägō i‘kitusī.</span>
 
-695) > **Mii dash minawaa tatibaachimot aw akiwenzi.**
+<span class="l-fiero">**Mii dash kiiwenh akiwenzhii’ish tegwoshing entaawaat, wiikaa go pi(i)chinag kii-ani-tatagoshinoogoban, gaawiin kanage kegoo ikitosii.**</span>
 
+<span class="l-eng">*And they say that when the mean old man arrived at home, for he was a long time reaching home, he had nothing whatever to say.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh akiwenzhii’ish tegwoshing entaawaat (and they say that when the mean old man arrived home), wiikaa go pi(i)chinag kii-ani-tatagoshinoogoban (for he was a long time reaching home), gaawiin kanage kegoo ikitosii (he had nothing whatever to say).</span>
 
-> <span class="l-gloss">Thereupon again the old man began relating stories.</span>
+<span class="l-orig">(633) Mīdạc wīn awi‘kwä äjikagwätcimāt īni’ᵘ ōsạn:</span>
 
-</div>
+<span class="l-fiero">**Mii dash wiin aw ikwe ezhi-kagwechimaat iiniw oosan:**</span>
 
+<span class="l-eng">*Thereupon the woman herself asked her father:*</span>
 
-Mii dash minawaa tatibaachimot aw akiwenzi (thereupon again the old man began telling stories).
+<span class="l-gloss">Mii dash wiin aw ikwe ezhi-kagwechimaat iiniw oosan (thereupon the woman herself asked her father):</span>
 
-696) > **Kaa-izhi-nibaat a inini, mii dash megwaa, nibaat minawaa kanoonaat oningwanan, inaat:  
-     > **After the man had gone to sleep, and while he was slumbering, then again (the old man) addressed his son-in-law, saying to him:
+<span class="l-orig">(634) “Ānti dạc wīnā ‘aᵘ kiwītciwâgạn?” udinān.</span>
 
-Kaa-izhi-nibaat a inini (after the man had gone to sleep), mii dash megwaa, nibaat minawaa kanoonaat oningwanan, inaat (and while he slumbered, again the old man addressed his son-in-law, saying to him):
+<span class="l-fiero">**“Aanti dash wiinaa aw kiwiichiwagan?” odinaan.**</span>
 
-697) > **"Ei, na'aangii\! piichimaagwat, kegoo chaagite minawaa\!"**
+<span class="l-eng">*“And where is that companion of yours?” she said to him.*</span>
 
+<span class="l-gloss">“Aanti dash wiinaa aw kiwiichiwagan?” odinaan (“and where is that companion of yours?” she said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(635) “Ā, ạtibī∙i∙tug.</span>
 
-> <span class="l-gloss">"Hey, son-in-law\! something smells, something is burning up again\!"</span>
+<span class="l-fiero">**“Aa, atibii itog.**</span>
 
-</div>
+<span class="l-eng">*“Oh, I don’t know where.*</span>
 
+<span class="l-gloss">“Aa, atibii itog (“oh, I don’t know where).</span>
 
-“Ei, na’aangii\! piichimaagwat, kegoo chaagite minawaa\!” (“hey, son-in-law\! something smells, something is burning up again\!”)
+<span class="l-orig">(636) Panä kayä wīn ningīpa‘kä∙i∙gubạn papāndawäntcigät.</span>
 
-698) > **Aw idash aw inini kaawiin oganoonaasi; mii kikendank kichaagisamaagot omakisi(i)nan.**
+<span class="l-fiero">**Pane gaye wiin ningii-pake’igoban papaandawenchiget.**</span>
 
+<span class="l-eng">*He parted company with me, and also went his way hunting for game.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Pane gaye wiin ningii-pake’igoban papaandawenchiget (he parted from me and went off hunting his own way).</span>
 
-> <span class="l-gloss">But the man did not speak to him; for he already knew that his moccasins had been burned up by the other.</span>
+<span class="l-orig">(637) Ningī∙ā∙‘pidcikwīnawipī∙ā∙,” udinān.</span>
 
-</div>
+<span class="l-fiero">**Ningii-aapiji-kwiinawi-pii’aa,” odinaan.**</span>
 
+<span class="l-eng">*I grew very tired waiting for him,” he (thus) said to her.*</span>
 
-Aw idash aw inini kaawiin oganoonaasi (but the man did not answer him); mii kikendank kichaagisamaagot omakisi(i)nan (for he already knew that his moccasins had been burned up by the other).
+<span class="l-gloss">Ningii-aapiji-kwiinawi-pii’aa,” odinaan (I grew very tired waiting for him,” he said to her).</span>
 
-699) > **Ogikendaan aw inini keyaabi ningotwewaan ayaat omakisi(i)nan paamigitenig.**
+<span class="l-orig">(638) “Mīdạc kā‘pi∙u∙ndckīwäyān,” udinān udānisạn.</span>
 
+<span class="l-fiero">**“Mii dash kaa-pi-onjkiiweyaan,” odinaan odaanisan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“And that is why I came home,” he said to his daughter.*</span>
 
-> <span class="l-gloss">The man knew that he still had one pair of moccasins which were quilled.</span>
+<span class="l-gloss">“Mii dash kaa-pi-onjkiiweyaan,” odinaan odaanisan (“and that is why I came home,” he said to his daughter).</span>
 
-</div>
+<span class="l-orig">(639) “Pitcīnạg tatạgwicin,” udinān.</span>
 
+<span class="l-fiero">**“Pichiinag ta-tagwishin,” odinaan.**</span>
 
-Ogikendaan aw inini keyaabi ningotwewaan ayaat omakisi(i)nan paamigitenig (the man knew he still had one pair of moccasins, the quilled ones).
+<span class="l-eng">*“Anon will he be home,” he said to her.*</span>
 
-700) > **Mii desh weyabang onishkaawaat mii desh egot oshininsan:  
-     > **And so in the morning, after they had risen, he was told by his father-in-law:
+<span class="l-gloss">“Pichiinag ta-tagwishin,” odinaan (“soon he will be home,” he said to her).</span>
 
-Mii desh weyabang onishkaawaat mii desh egot oshininsan (and so in the morning, after they had risen, he was told by his father-in-law):
+<span class="l-orig">(640) Mīdạc kīwäⁿ awinini mägwā pimiwīdciwāt ucīmän ma∙ī∙ngạnạn ā‘pidci unānigwäntamōg pimiwīndcīntiwāt; pä‘kic pimi∙ạ∙ninạgamōwạg ändōdạnksạgu awiya mänwändạngin.</span>
 
-701) > **"Keget sa na kigichi-izhiwepis chaagitegin apane kimakisinan," odigoon.**
+<span class="l-fiero">**Mii dash kiiwenh aw inini megwaa pimi-wiijiwaat oshiimen ma;iinganan aapiji onaanigwentamoog pimi-wiinjiintiwaat; pekish pimi-ani-nagamoowag endoodank sa go awiya menwendangin.**</span>
 
+<span class="l-eng">*And now they say that while the man, and his younger brother the Wolf, were coming hitherward together, very happy were they as they walked along in each other’s company; at the same time they went singing on their way in the same manner as one does when in a joyful frame of mind.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw inini megwaa pimi-wiijiwaat oshiimen ma’iinganan (and now, they say, while the man was coming along with his younger brother the wolf) aapiji onaanigwentamoog pimi-wiinjiintiwaat (very happy were they in each other’s company); pekish pimi-ani-nagamoowag endoodank sa go awiya menwendangin (at the same time singing as they went, the way one does when in a joyful mood).</span>
 
-> <span class="l-gloss">"Truly are you exceedingly unfortunate to have your moccasins always burning up," he (thus) was told.</span>
+<span class="l-orig">(641) Awidạc inini kāwīn kạnagä udōnändạzīn cācāgunizzität ānawi pābā‘pi.</span>
 
-</div>
+<span class="l-fiero">**Aw idash inini gaawiin kanage odoonendaziin shaashaagonizitet, aanawi paabaapi.**</span>
 
+<span class="l-eng">*And the man by no means forgot that he was in bare feet, yet in spite of that he kept on laughing.*</span>
 
-“Keget sa na kigichi-izhiwepis chaagitegin apane kimakisinan,” odigoon (“truly you are most unlucky, always having your moccasins burn up,” he was told).
+<span class="l-gloss">Aw idash inini gaawiin kanage odoonendaziin shaashaagonizitet (and the man by no means forgot that he was barefoot), aanawi paabaapi (yet in spite of that he kept laughing).</span>
 
-702) > **Kaawiin ikitosii a inini; kii-ani-ozhiitaa kiipiizikank minawaa aanint makisi(i)nan.**
+<span class="l-orig">(642) Mīdạc cayīgwa äji∙u∙di‘tạnk umicōmisạn mini‘k kā∙i∙jimī‘kanā‘kāgut.</span>
 
+<span class="l-fiero">**Mii dash shayiigwa ezhi-oditank omishoomisan minik kaa-izhi-miikanaakaagot.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then by this time he was come at the place which was as far as the path had been made for him by his grandfather.*</span>
 
-> <span class="l-gloss">The man did not speak; he went on making preparations, putting on his other moccasins.</span>
+<span class="l-gloss">Mii dash shayiigwa ezhi-oditank omishoomisan minik kaa-izhi-miikanaakaagot (and then by now he reached as far as the path his grandfather had made for him).</span>
 
-</div>
+<span class="l-orig">(643) Kägādạc änitạgwicinowāt, udigōn ucīmäyạn:</span>
 
+<span class="l-fiero">**Kegaa dash eni-tagwishinowaat, odigoon oshiimeyan:**</span>
 
-Kaawiin ikitosii a inini (the man did not speak); kii-ani-ozhiitaa kiipiizikank minawaa aanint makisi(i)nan (he went on making ready, putting on his other moccasins).
+<span class="l-eng">*And when they were about to arrive, he was asked by his younger brother:*</span>
 
-703) > **Miish miinawaa kii-papaa-nandawenchigewaat.**
+<span class="l-gloss">Kegaa dash eni-tagwishinowaat, odigoon oshiimeyan (and when they were about to arrive, he was asked by his younger brother):</span>
 
+<span class="l-orig">(644) “Ānīn, mīna gīn ōmā wī∙a∙yāyạn?”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Aaniin, miina giin oomaa wii-ayaayan?”**</span>
 
-> <span class="l-gloss">Thereupon again they wandered about, looking for game.</span>
+<span class="l-eng">*“Why are you going to remain in this place?”*</span>
 
-</div>
+<span class="l-gloss">“Aaniin, miina giin oomaa wii-ayaayan?” (“why, are you going to stay here?”)</span>
 
+<span class="l-orig">(645) Kāwīndạc kägō i‘kitusī awinini.</span>
 
-Miish miinawaa kii-papaa-nandawenchigewaat (thereupon again they wandered about hunting for game).
+<span class="l-fiero">**Gaawiin dash kegoo ikitosii aw inini.**</span>
 
-704) > **Minawaa dash wenaagoshininig mi igo minawaa naasaab endootank akiwenzii; minawaa oshiitaawag chi(i)-ni(i)baawaat; mii dash minawaa ayagootoowaat omakisiniwaan chi-paatenig.**
+<span class="l-eng">*But nothing did the man say.*</span>
 
+<span class="l-gloss">Gaawiin dash kegoo ikitosii aw inini (but the man said nothing).</span>
 
-<div class="four-layer">
+<span class="l-orig">(646) “Ambä!” udigōn; “kīgạtaniwīdcīwîn,” udigōn ucīmäⁿyạn.</span>
 
-> <span class="l-gloss">And so, when it was evening, in the same manner as before acted the old man; again they made ready to go to sleep; and so again they hung up their moccasins to dry.</span>
+<span class="l-fiero">**“Ambe!” odigoon; “kiigat-ani-wiijiiwi(i)n,” odigoon oshiimenyan.**</span>
 
-</div>
+<span class="l-eng">*“Come!” he was told; “I am going to accompany you,” he was told by his younger brother.*</span>
 
+<span class="l-gloss">“Ambe!” odigoon (“come!” he was told); “kiigat-ani-wiijiiwi(i)n,” odigoon oshiimenyan (“I will go along with you,” he was told by his younger brother).</span>
 
-Minawaa dash wenaagoshininig mi igo minawaa naasaab endootank akiwenzii (and so when it was evening, again the old man did the same as before); minawaa oshiitaawag chi(i)-ni(i)baawaat (again they made ready to sleep); mii dash minawaa ayagootoowaat omakisiniwaan chi-paatenig (and so again they hung up their moccasins to dry).
+<span class="l-orig">(647) Kāwîndạc i‘kitusī awinini.</span>
 
-705) > **Mii go imaa ayanimikwiinit iiniw ozhi(i)nisan, kii-antagootood oma kisinan; ozhi(i)nisan omakisinini agootenig ogii-agootoonan omakisi(i)nan; meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini.**
+<span class="l-fiero">**Kaawi(i)n dash ikitosii aw inini.**</span>
 
+<span class="l-eng">*But the man did not speak.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Kaawi(i)n dash ikitosii aw inini (but the man did not speak).</span>
 
-> <span class="l-gloss">Then at the place over there, the instant that his father-in-law had turned his back, he then changed the place of his moccasins;the moccasins of his father-in-law were now hanging where he had hung his own moccasins;in the place where his own moccasins had been hanging he now hung the moccasins of the other.</span>
+<span class="l-orig">(648) Mīdạc ạ̈jicōmīngwä‘tawāt agatändạnk tcîwīndạmawāt iᵘ kā∙i∙jiwäbisit.</span>
 
-</div>
+<span class="l-fiero">**Mii dash ezhi-shoomiingwetawaat agatendank chi(i)-wiindamawaat iw kaa-izhiwebisit.**</span>
 
+<span class="l-eng">*And as he smiled at him, he felt ashamed to tell him about what had happened to himself.*</span>
 
-Mii go imaa ayanimikwiinit iiniw ozhi(i)nisan (then, the instant his father-in-law turned his back) kii-antagootood oma kisinan (he changed the place of his moccasins); ozhi(i)nisan omakisinini agootenig ogii-agootoonan omakisi(i)nan (where his father-in-law’s moccasins hung he hung his own); meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini (and where his own moccasins had hung he hung the other’s).
+<span class="l-gloss">Mii dash ezhi-shoomiingwetawaat (and as he smiled at him) agatendank chi(i)-wiindamawaat iw kaa-izhiwebisit (he was ashamed to tell him what had happened to himself).</span>
 
-706) > **Mii dash kaa-izhi-kawishimowaat.**
+<span class="l-orig">(649) Mīdạc ägut īni’ᵘ ucīmäyạn ma∙ī∙ngạnạn:</span>
 
+<span class="l-fiero">**Mii dash egot iiniw oshiimeyan ma’iinganan:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Thereupon was he told by his younger brother, the Wolf:*</span>
 
-> <span class="l-gloss">And then they went to bed.</span>
+<span class="l-gloss">Mii dash egot iiniw oshiimeyan ma’iinganan (thereupon he was told by his younger brother, the wolf):</span>
 
-</div>
+<span class="l-orig">(650) “Ạmbä!” udigōn; “aninānāba∙a∙nicin!”</span>
 
+<span class="l-fiero">**“Ambe!” odigoon; ani-naanaaba’anishin!”**</span>
 
-Mii dash kaa-izhi-kawishimowaat (and then they went to bed).
+<span class="l-eng">*“Come!” he was told, “walk along in my footsteps!”*</span>
 
-707) > **Komaa api dash minawaa aw idash kiiwenh aw inini ogii-pii'aan amanch ket-a'indinigwen.**
+<span class="l-gloss">“Ambe!” odigoon; ani-naanaaba’anishin!” (“come!” he was told, “walk along in my footsteps!”)</span>
 
+<span class="l-orig">(651) Kayä wīndạc aᵘ ma∙ī∙ngạn kāwīn kägō owī∙i∙nāsīn usayäyạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Gaye wiin dash aw ma’iingan gaawiin kegoo owii-inaasiin osayeyan.**</span>
 
-> <span class="l-gloss">And then for some time afterwards, so they say, did the man wait to see what the other would do.</span>
+<span class="l-eng">*Wolf also had nothing more to say to his elder brother.*</span>
 
-</div>
+<span class="l-gloss">Gaye wiin dash aw ma’iingan gaawiin kegoo owii-inaasiin osayeyan (and the wolf too had nothing more to say to his elder brother).</span>
 
+<span class="l-orig">(652) Mīdạc kägä‘t äjimādcāt.</span>
 
-Komaa api dash minawaa aw idash kiiwenh aw inini ogii-pii’aan amanch ket-a’indinigwen (and then for a while afterward, they say, the man waited to see what the other would do).
+<span class="l-fiero">**Mii dash keget ezhi-maajaat.**</span>
 
-708) > **Mii dash keget shayiigwa kiiwenh pimi-onishkaawan.**
+<span class="l-eng">*It is true that then they started on.*</span>
 
+<span class="l-gloss">Mii dash keget ezhi-maajaat (and so truly they started on).</span>
 
-<div class="four-layer">
+<span class="l-orig">(653) Mīdạc kägä‘t ạninānāba∙ā∙nāt.</span>
 
-> <span class="l-gloss">And then truly by now, they say, was he risen from his pallet.</span>
+<span class="l-fiero">**Mii dash keget ani-naanaaba’aanaat.**</span>
 
-</div>
+<span class="l-eng">*Whereupon truly did he follow in the footsteps of the other.*</span>
 
+<span class="l-gloss">Mii dash keget ani-naanaaba’aanaat (whereupon truly he followed in the other’s footsteps).</span>
 
-Mii dash keget shayiigwa kiiwenh pimi-onishkaawan (and then truly by now, they say, he rose from his pallet).
+<span class="l-orig">(654) Weyībạgu ạnipimisät u‘pītcimāndān ckutä.</span>
 
-709) > **"Nibaa," inenimigot.**
+<span class="l-fiero">**Weyiiba go ani-pimiset opiichimaandaan shkote.**</span>
 
+<span class="l-eng">*In a little while, as he went along, he caught the smell of fire.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Weyiiba go ani-pimiset opiichimaandaan shkote (in a little while, as he went along, he caught the smell of fire).</span>
 
-> <span class="l-gloss">"He is asleep," the (youth) was thought to be.</span>
+<span class="l-orig">(655) Mīnạngwạna cigwa tagwicing ändāt.</span>
 
-</div>
+<span class="l-fiero">**Mii nangwana shigwa tagwishing endaat.**</span>
 
+<span class="l-eng">*It meant that now he was arriving at home.*</span>
 
-“Nibaa,” inenimigot (“he is asleep,” the youth was thought to be).
+<span class="l-gloss">Mii nangwana shigwa tagwishing endaat (it meant that now he was arriving home).</span>
 
-710) > **Mii dash pemishipiina'angin iiniw omakisinini, ezhi-pagidi(i)nangin shkoteng.**
+<span class="l-orig">(656) Mīdạc īni’ᵘ ucīmäyạn piwä‘kwāmuninik uminisä‘kạnāwā mī∙i∙mā ä∙i∙jiwinigut īni’ᵘ ucīmäyạn.</span>
 
+<span class="l-fiero">**Mii dash iiniw oshiimeyan piwekwaamoninik ominisekanaawaa mii imaa e-izhi-wiinigot iiniw oshiimeyan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then to the place where their path for fire-wood forked off was he led by his younger brother.*</span>
 
-> <span class="l-gloss">And then he took down the other moccasins (and) he laid them in the fire.</span>
+<span class="l-gloss">Mii dash iiniw oshiimeyan piwekwaamoninik ominisekanaawaa (and then to where their firewood path forked off) mii imaa e-izhi-wiinigot iiniw oshiimeyan (there he was led by his younger brother).</span>
 
-</div>
+<span class="l-orig">(657) Mīdạc ägut:</span>
 
+<span class="l-fiero">**Mii dash egot:**</span>
 
-Mii dash pemishipiina’angin iiniw omakisinini (and then he took down the moccasins), ezhi-pagidi(i)nangin shkoteng (laying them in the fire).
+<span class="l-eng">*Thereupon he was told:*</span>
 
-711) > **Mii dash aw akiwenzhii'ish keshitine ezhi-kawishimot, mii dash ezhi-kiigitot:  
-     > **Whereupon the hateful old man at once lay down, and then said:
+<span class="l-gloss">Mii dash egot (thereupon he was told):</span>
 
-Mii dash aw akiwenzhii’ish keshitine ezhi-kawishimot (whereupon the hateful old man at once lay down), mii dash ezhi-kiigitot (and then said):
+<span class="l-orig">(658) “Mī omä kä∙u∙ndcipa‘kä∙i∙nān,” udinān.</span>
 
-712) > **"Paapa\! kegoo piichimaate.— Na'aangii, kimakisinan\!" odinaan.**
+<span class="l-fiero">**“Mii omaa ke-onji-pake’inaan,” odinaan.**</span>
 
+<span class="l-eng">*“It is here that I shall part from you,” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Mii omaa ke-onji-pake’inaan,” odinaan (“it is here that I will part from you,” he said to him).</span>
 
-> <span class="l-gloss">"Phew\! a smell of something comes this way. — Son-in-law, your moccasins\!" he said to him.</span>
+<span class="l-orig">(659) “Äyeˢ!” udinān.</span>
 
-</div>
+<span class="l-fiero">**“Eye’!” odinaan.**</span>
 
+<span class="l-eng">*“All right!” he said to him.*</span>
 
-“Paapa\! kegoo piichimaate.— Na’aangii, kimakisinan\!” odinaan (“phew\! a smell comes this way. — Son-in-law, your moccasins\!” he said to him).
+<span class="l-gloss">“Eye’!” odinaan (“all right!” he said to him).</span>
 
-713) > **Pasingojiset aw inini awi-nawatinangin omakisinan kaameskotakootoopan, mii dash enat:  
-     > **Quickly springing to his feet, the man went and grabbed his moccasins, which he had hung up in a different place,and then said to the other:
+<span class="l-orig">(660) Mīdạc ägut:</span>
 
-Pasingojiset aw inini awi-nawatinangin omakisinan kaameskotakootoopan (springing up quickly, the man went and grabbed his moccasins that he had hung in a different place), mii dash enat (and then said to him):
+<span class="l-fiero">**Mii dash egot:**</span>
 
-714) > **"Oonoowe sa niin nimakisinan.  
-     > **"Here are my moccasins.
+<span class="l-eng">*And then he was told:*</span>
 
-“Oonoowe sa niin nimakisinan (“here are my moccasins).
+<span class="l-gloss">Mii dash egot (and then he was told):</span>
 
-715) > **Kiin isa kimakisinan kaa-chaagisoman," odinaan.**
+<span class="l-orig">(661) “Omā nācîsîtōn ninintcīng kizitạn!”</span>
 
+<span class="l-fiero">**“Omaa naashi(i)si(i)toon nininchiing kizitan!”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Rub your feet here on my hand!”*</span>
 
-> <span class="l-gloss">It is your moccasins that have been burned up," he said to him.</span>
+<span class="l-gloss">“Omaa naashi(i)si(i)toon nininchiing kizitan!” (“rub your feet here on my hand!”)</span>
 
-</div>
+<span class="l-orig">(662) Mīdạc kägät awinini ändōtạnk kā∙i∙gut ucīmäyạn ma∙ī∙ngạnạn.</span>
 
+<span class="l-fiero">**Mii dash keget aw inini endootank kaa-igot oshiimeyan ma’iinganan.**</span>
 
-Kiin isa kimakisinan kaa-chaagisoman,” odinaan (it is your moccasins that have been burned up,” he said to him).
+<span class="l-eng">*Whereupon in truth the man did as he was told by his younger brother, Wolf.*</span>
 
-716) > **"Kaawiin," ikito. "Kiin kimakisinan," odinaan.**
+<span class="l-gloss">Mii dash keget aw inini endootank kaa-igot oshiimeyan ma’iinganan (whereupon truly the man did as his younger brother the wolf told him).</span>
 
+<span class="l-orig">(663) Mīdạc kägä‘t:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash keget:**</span>
 
-> <span class="l-gloss">"No," he said, "it is your moccasins," he said to him.</span>
+<span class="l-eng">*And then truly:*</span>
 
-</div>
+<span class="l-gloss">Mii dash keget (and then truly):</span>
 
+<span class="l-orig">(664) “Mādcān wäwīp!” udigōn.</span>
 
-“Kaawiin,” ikito. “Kiin kimakisinan,” odinaan (“no,” he said, “it is your moccasins,” he said to him).
+<span class="l-fiero">**“Maajaan wewiip!” odigoon.**</span>
 
-717) > **"Kaawiin," odinaan aw inini.**
+<span class="l-eng">*“Go with speed!” he was told.*</span>
 
+<span class="l-gloss">“Maajaan wewiip!” odigoon (“go with speed!” he was told).</span>
 
-<div class="four-layer">
+<span class="l-orig">(665) Mīdạc kägä‘t awinini mādcība‘tōd.</span>
 
-> <span class="l-gloss">"No," to him said the man.</span>
+<span class="l-fiero">**Mii dash keget aw inini maajiibatood.**</span>
 
-</div>
+<span class="l-eng">*Thereupon truly the man started running.*</span>
 
+<span class="l-gloss">Mii dash keget aw inini maajiibatood (thereupon truly the man started running).</span>
 
-“Kaawiin,” odinaan aw inini (“no,” said the man to him).
+<span class="l-orig">(666) Mīdạc kītạgwicing ändāt ạnipīndigät.</span>
 
-718) > **"Naske\! niin pimigitewan niin nimakisinan," odinaan.**
+<span class="l-fiero">**Mii dash kii-tagwishing endaat ani-piindiget.**</span>
 
+<span class="l-eng">*And when he arrived at home, he passed on into the lodge.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kii-tagwishing endaat ani-piindiget (and when he arrived home, he passed inside).</span>
 
-> <span class="l-gloss">"Look\! worked in quill are my moccasins, " he said to him.</span>
+<span class="l-orig">(667) Mī pîtcīnạg tạcikạgītcīd aᵘ a‘kiwäⁿjī i c.</span>
 
-</div>
+<span class="l-fiero">**Mii pi(i)chinag tashikagiichiid aw akiwenzhii’ish.**</span>
 
+<span class="l-eng">*It was at a time when the hateful old man was in the act of taking off his moccasins.*</span>
 
-“Naske\! niin pimigitewan niin nimakisinan,” odinaan (“look\! quill-worked are my moccasins,” he said to him).
+<span class="l-gloss">Mii pi(i)chinag tashikagiichiid aw akiwenzhii’ish (it was just when the hateful old man was taking off his moccasins).</span>
 
-719) > **"Kaawiin dash kiin piimigitesinoon kimakisinan," odinaan iiniw akiwenzhii'ishan.**
+<span class="l-orig">(668) “Mīna pîtcīnạg kayä kin?” udinān uningwạnạn.</span>
 
+<span class="l-fiero">**“Miina pi(i)chiinag gaye kin?” odinaan oningwanan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“And have you just come, too?” he said to his son-in-law.*</span>
 
-> <span class="l-gloss">"And not quilled are your moccasins," he said to the disagreeable old man.</span>
+<span class="l-gloss">“Miina pi(i)chiinag gaye kin?” odinaan oningwanan (“and have you just come too?” he said to his son-in-law).</span>
 
-</div>
+<span class="l-orig">(669) Awidạc naˢāngi kāwīn kägō kạnạgä i‘kitusī.</span>
 
+<span class="l-fiero">**Aw idash na’aangii gaawiin kegoo kanage ikitosii.**</span>
 
-“Kaawiin dash kiin piimigitesinoon kimakisinan,” odinaan iiniw akiwenzhii’ishan (“and your moccasins are not quilled,” he said to the disagreeable old man).
+<span class="l-eng">*But the son-in-law said nothing at all.*</span>
 
-720) > **Mi idash kiiwenh pi(i)tchiinag kikendank aw akiwenzhii'ish kii-chaagisank tibinawe omakizinan.**
+<span class="l-gloss">Aw idash na’aangii gaawiin kegoo kanage ikitosii (but the son-in-law said nothing at all).</span>
 
+<span class="l-orig">(670) Pisānigu udinān, “Äyeˢ,” i‘kitu.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Pisaan igo odinaan, “Eye’,” ikito.**</span>
 
-> <span class="l-gloss">And then they say not till now did the mean old man realize that his own moccasins had been consumed in the fire.</span>
+<span class="l-eng">*He simply said to him: “Yes,” he (thus) said.*</span>
 
-</div>
+<span class="l-gloss">Pisaan igo odinaan, “Eye’,” ikito (he just said to him, “yes,” he said).</span>
 
+<span class="l-orig">(671) Mīdạc kīwäⁿ aᵘ a‘kiwäⁿjī∙i∙cigubạn kā∙i∙ckwāwīsîniwāt wēnāgucik.</span>
 
-Mi idash kiiwenh pi(i)tchiinag kikendank aw akiwenzhii’ish kii-chaagisank tibinawe omakizinan (and then, they say, not till now did the mean old man realize that his own moccasins had been burned up).
+<span class="l-fiero">**Mii dash kiiwenh aw akiwenzhii’ishigoban kaa-ishkwaa-wiisi(i)niwaat wenaagoshik.**</span>
 
-721) > **Mii dash kiiwenh aw inini kezhti(i)ne oshiitaad wii-ani-kiiwet.**
+<span class="l-eng">*And then they say that after the contemptible old man had eaten, it was then evening.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh aw akiwenzhii’ishigoban kaa-ishkwaa-wiisi(i)niwaat wenaagoshik (and then, they say, after the contemptible old man had eaten, it was evening).</span>
 
-<div class="four-layer">
+<span class="l-orig">(672) Mīdạc kīwäⁿ a‘kiwäⁿzi pạnä kīwäⁿ ukạnawâbạmān īni’ᵘ unīngwạnạn, kwīnawīnänạmāt.</span>
 
-> <span class="l-gloss">Whereupon they say that the man at once made ready to go back home.</span>
+<span class="l-fiero">**Mii dash kiiwenh akiwenzi pane kiiwenh okanawabamaan iiniw oniingwanan, kwiinawi-inenamaat.**</span>
 
-</div>
+<span class="l-eng">*And so they say that the old man kept gazing constantly at his son-in-law, not knowing what to make of him.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh akiwenzi pane kiiwenh okanawabamaan iiniw oniingwanan (and so, they say, the old man kept gazing constantly at his son-in-law), kwiinawi-inenamaat (not knowing what to make of him).</span>
 
-Mii dash kiiwenh aw inini kezhti(i)ne oshiitaad wii-ani-kiiwet (whereupon, they say, the man at once made ready to go back home).
+<span class="l-orig">(673) “Amạntc kädạnā‘pinanāwāgän?” udinänimān.</span>
 
-722) > **Mii dash enaat:  
-     > **And then he said to the other:
+<span class="l-fiero">**“Amanch ked-anaapinanaawaagen?” odinenimaan.**</span>
 
-Mii dash enaat (and then he said to him):
+<span class="l-eng">*“What in the world can I do to kill him?” was his thought of him.*</span>
 
-723) > **"Aaniish mii sa chi-naganinaan," odinaan.**
+<span class="l-gloss">“Amanch ked-anaapinanaawaagen?” odinenimaan (“what in the world can I do to kill him?” was his thought of him).</span>
 
+<span class="l-orig">(674) A‘panä ugạnawâbạmān uckījigwaning.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Apane oganawabamaan oshkiizhigwaning.**</span>
 
-> <span class="l-gloss">" Now, then, I am going to leave you, " he said to him.</span>
+<span class="l-eng">*ll the time was he gazing at him in the face.*</span>
 
-</div>
+<span class="l-gloss">Apane oganawabamaan oshkiizhigwaning (all the time he gazed into his face).</span>
 
+<span class="l-orig">(675) Mīdạc käga‘pī äjikạnōnigut udānisạn:</span>
 
-“Aaniish mii sa chi-naganinaan,” odinaan (“now then, I am going to leave you,” he said to him).
+<span class="l-fiero">**Mii dash kegapii ezhi-kanoonigot odaanisan:**</span>
 
-724) > **Mii dash ekitot aw akiwenzi:  
-     > **Thereupon said the old man:
+<span class="l-eng">*Thereupon he was addressed by his daughter saying:*</span>
 
-Mii dash ekitot aw akiwenzi (thereupon the old man said):
+<span class="l-gloss">Mii dash kegapii ezhi-kanoonigot odaanisan (thereupon at last he was addressed by his daughter):</span>
 
-725) > **"Wiindamawi nindaanis chi(i)-biitoot nimakisi(i)nan."**
+<span class="l-orig">(676) “Ānīnsa änābạmạt aᵘ panä?”</span>
 
+<span class="l-fiero">**“Aaniin sa enaabamat aw pane?”**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Why on earth are you always gazing at him?”*</span>
 
-> <span class="l-gloss">"Tell my daughter to fetch my moccasins."</span>
+<span class="l-gloss">“Aaniin sa enaabamat aw pane?” (“why on earth are you always staring at him?”)</span>
 
-</div>
+<span class="l-orig">(677) “Ā, kāwīn kägō!” i‘kito.</span>
 
+<span class="l-fiero">**“Aa, gaawiin kegoo!” ikito.**</span>
 
-“Wiindamawi nindaanis chi(i)-biitoot nimakisi(i)nan.” (“tell my daughter to fetch my moccasins.”)
+<span class="l-eng">*“Oh, for nothing!” he said.*</span>
 
-726) > **"Aye'\!" odinaan.**
+<span class="l-gloss">“Aa, gaawiin kegoo!” ikito (“oh, for nothing!” he said).</span>
 
+<span class="l-orig">(678) “Ạnicāgu ningạnawâbạmimān mämīgunīsiwạn päbāmisänit tcīgaya∙ī∙ uskīcigunk,” udinān udānisạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Anishaa go ninganawabamimaan memiigonisiwan pebaamisenit chiigaya’ii oskiishigonk,” odinaan odaanisan.**</span>
 
-> <span class="l-gloss">"All right\!" he said to him.</span>
+<span class="l-eng">*“I was only watching the dragonfly that was flying close about his face, “ he said to his daughter.*</span>
 
-</div>
+<span class="l-gloss">“Anishaa go ninganawabamimaan memiigonisiwan pebaamisenit chiigaya’ii oskiishigonk,” odinaan odaanisan (“I was only watching the dragonfly flying close about his face,” he said to his daughter).</span>
 
+<span class="l-orig">(679) Kāwīndạc kägō mīnawa udināⁿsīn, ānawi ugi‘känimān īni’ᵘ ōsạn ändōtawānit unābämạn.</span>
 
-“Aye’\!” odinaan (“all right\!” he said to him).
+<span class="l-fiero">**Gaawiin dash kegoo miinawa odinaansiin, aanawi ogikenimaan iiniw oosan endootawaanit onaabeman.**</span>
 
-727) > **Mii dash ezhi-kiiwet a inini.**
+<span class="l-eng">*But nothing more said she to him, for though she knew what her father had done to her husband.*</span>
 
+<span class="l-gloss">Gaawiin dash kegoo miinawa odinaansiin (but nothing more did she say to him), aanawi ogikenimaan iiniw oosan endootawaanit onaabeman (though she knew what her father had done to her husband).</span>
 
-<div class="four-layer">
+<span class="l-orig">(680) Mīdạc kīwäⁿmīnawā ninguting a‘kiwäⁿzī ā∙ī∙ndawāt änāt uninggwạnạn, ạnîcnā ātisō‘kān:</span>
 
-> <span class="l-gloss">And then back home went the man.</span>
+<span class="l-fiero">**Mii dash kiiwenh miinawaa ningoting akiwenzii aa-iindawaat enaat oninggwanan ani(i)shnaa aatisookaan:**</span>
 
-</div>
+<span class="l-eng">*And now they say, on another occasion during the time that they were dwelling there, the old man said to his son-in-law, so the story goes:*</span>
 
+<span class="l-gloss">Mii dash kiiwenh miinawaa ningoting akiwenzii aa-iindawaat enaat oninggwanan ani(i)shnaa aatisookaan (and now, they say, on another occasion while they lived there, the old man said to his son-in-law, so the story goes):</span>
 
-Mii dash ezhi-kiiwet a inini (and then back home went the man).
+<span class="l-orig">(681) “Mīsa cigwa mīnawā tcibạndawäntcigäyạngubạn,” udinān.</span>
 
-728) > **Mii dash kiiwenh aw akiwezi kaa-ani-maajaanit oningwanan kaye wiin anooch aano-izhichiget.**
+<span class="l-fiero">**“Mii sa shigwa miinawaa chibandawenchigeyangoban,” odinaan.**</span>
 
+<span class="l-eng">*“It is now time for us again to go hunting for game,” he (thus) said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Mii sa shigwa miinawaa chibandawenchigeyangoban,” odinaan (“it is now time for us to go hunting again,” he said to him).</span>
 
-> <span class="l-gloss">Thereupon they say that after the departure of his son-in-law, the old man likewise did all sorts of things.</span>
+<span class="l-orig">(682) “Ānīn nạngwạna,” udinān awinini.</span>
 
-</div>
+<span class="l-fiero">**“Aaniin nangwana,” odinaan aw inini.**</span>
 
+<span class="l-eng">*“That is true,” (thus) to him said the man.*</span>
 
-Mii dash kiiwenh aw akiwezi kaa-ani-maajaanit oningwanan (thereupon, they say, after his son-in-law had departed) kaye wiin anooch aano-izhichiget (the old man too tried all sorts of things in vain).
+<span class="l-gloss">“Aaniin nangwana,” odinaan aw inini (“that is true,” said the man to him).</span>
 
-729) > **Aaniish kaye wiin asiniin otaanogishaapiigiswaan, aaniish wayiiba wiin asi(i)n aateyabikishin.**
+<span class="l-orig">(683) Mīdạc mīnawā änāt wīwạn awinini:</span>
 
+<span class="l-fiero">**Mii dash miinawaa enaat wiiwan aw inini:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Thereupon again to his wife said the man:*</span>
 
-> <span class="l-gloss">He too tried in vain heating a rock, but soon would the rock become cool.</span>
+<span class="l-gloss">Mii dash miinawaa enaat wiiwan aw inini (thereupon again the man said to his wife):</span>
 
-</div>
+<span class="l-orig">(684) “Uci‘tōn nima‘kisinạn nījwäwān,” udinān.</span>
 
+<span class="l-fiero">**“Oshitoon nimakisinan niizhwewaan,” odinaan.**</span>
 
-Aaniish kaye wiin asiniin otaanogishaapiigiswaan (he too tried in vain heating a rock), aaniish wayiiba wiin asi(i)n aateyabikishin (but soon would the rock cool off).
+<span class="l-eng">*“Make two pairs of moccasins for me,” he said to her.*</span>
 
-730) > **Mii dash minawaa aanowii izhigishaabikiswaat, mii go miinawaa wayiba aateyaabikishininit.**
+<span class="l-gloss">“Oshitoon nimakisinan niizhwewaan,” odinaan (“make me two pairs of moccasins,” he said to her).</span>
 
+<span class="l-orig">(685) Mīdạc kägä‘t awi‘kwä kā∙i∙ji∙u∙ci‘tōd uma‘kisinạn, ā‘pidci wäwäni ug∙ī∙uci‘tōnạn, ugīpīmigitānạn ningutwäwān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash keget aw ikwe kaa-izhi-oshitood omakisinan, aapiji weweni ogii-oshitoonan, ogii-piimigitaanan ningotwewaan.**</span>
 
-> <span class="l-gloss">And again he tried heating it, and another time it would quickly become cool.</span>
+<span class="l-eng">*And it was true that when the woman had finished his moccasins, very nice was the work she did on them, she did one pair with porcupine-quills.*</span>
 
-</div>
+<span class="l-gloss">Mii dash keget aw ikwe kaa-izhi-oshitood omakisinan (and it was true that when the woman finished his moccasins), aapiji weweni ogii-oshitoonan (very nicely she made them), ogii-piimigitaanan ningotwewaan (one pair she did with porcupine quills).</span>
 
+<span class="l-orig">(686) Mīdạc mādcāwāgubạnän mīnawā.</span>
 
-Mii dash minawaa aanowii izhigishaabikiswaat (and again he tried heating it), mii go miinawaa wayiba aateyaabikishininit (and once more it would quickly cool off).
+<span class="l-fiero">**Mii dash maajaawaagobanen miinawaa.**</span>
 
-731) > **Keget mii kischi-anokiit wii-kiiwet.**
+<span class="l-eng">*Thereupon they set out again.*</span>
 
+<span class="l-gloss">Mii dash maajaawaagobanen miinawaa (thereupon they set out again).</span>
 
-<div class="four-layer">
+<span class="l-orig">(687) Mīdạc cigwa mīnawā wâsa kitạgwicinōwāt.</span>
 
-> <span class="l-gloss">Truly he worked hard to get back home.</span>
+<span class="l-fiero">**Mii dash shigwa miinawaa wasa ki-tagwishinoowaat.**</span>
 
-</div>
+<span class="l-eng">*And so in a little while a longway off they were come.*</span>
 
+<span class="l-gloss">Mii dash shigwa miinawaa wasa ki-tagwishinoowaat (and so in a little while a long way off they were come).</span>
 
-Keget mii kischi-anokiit wii-kiiwet (truly he worked hard to get back home).
+<span class="l-orig">(688) Kumā‘pi minawā ugạnōnigōn ujinîsạn wâsa kā‘tạgwicinowāt, mīdạc a‘kiwäⁿjī∙i∙c änāt uningwạnạn:</span>
 
-732) > **Mii dash kiiwenh aw inini ani-tagwishin entaawaat.**
+<span class="l-fiero">**Komaapi minawaa oganoonigoon ozhini(i)san wasa kaa-tagwishinowaat, mii dash akiwenzhii’ish enaat oningwanan:**</span>
 
+<span class="l-eng">*By and by again he was addressed by his father-in-law after they had come afar.And this the old man said to his son-in-law:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Komaapi minawaa oganoonigoon ozhini(i)san wasa kaa-tagwishinowaat (by and by again he was addressed by his father-in-law after they had come far), mii dash akiwenzhii’ish enaat oningwanan (and this the old man said to his son-in-law):</span>
 
-> <span class="l-gloss">And now they say that the man kept on till he arrived at home.</span>
+<span class="l-orig">(689) “Mī omāsa tcī∙u∙cigäyạng.</span>
 
-</div>
+<span class="l-fiero">**“Mii omaa sa chii-oshigeyang.**</span>
 
+<span class="l-eng">*“Now, here is a place for us to make a camp.*</span>
 
-Mii dash kiiwenh aw inini ani-tagwishin entaawaat (and now, they say, the man kept on till he arrived home).
+<span class="l-gloss">“Mii omaa sa chii-oshigeyang (“now, here is a place for us to camp).</span>
 
-733) > **Mii dash enaat:  
-     > **Whereupon he said to one (of the women):
+<span class="l-orig">(690) Mīdạc kayä omā käwạndciyạng tci∙ai∙yạndawäntcigäyạng.”</span>
 
-Mii dash enaat (whereupon he said to one of the women):
+<span class="l-fiero">**Mii dash gaye omaa kewanjiyang chi-aiyandawenchigeyang.”**</span>
 
-734) > **"Mii apane iwiti kipaapaa kiinaganag.  
-     > **"Back at yonder place have I left your father.
+<span class="l-eng">*And also from this place will we go to hunt for game.”*</span>
 
-“Mii apane iwiti kipaapaa kiinaganag (“back at yonder place I have left your father).
+<span class="l-gloss">Mii dash gaye omaa kewanjiyang chi-aiyandawenchigeyang.” (and also from here we will go hunting for game.”)</span>
 
-735) > **Okii-chaagasaanan omakisinan," odinaan iiniw wiinimoon.**
+<span class="l-orig">(691) Mīdac kägät kā∙u∙cigäwāt, kī∙a∙ciganägäwāt.</span>
 
+<span class="l-fiero">**Mii dash keget kaa-oshigewaat, kii-ashiganegewaat.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And it was true that they pitched camp, they made a sheltercamp.*</span>
 
-> <span class="l-gloss">All burned were his moccasins," he (thus) said to his sister-in-law.</span>
+<span class="l-gloss">Mii dash keget kaa-oshigewaat, kii-ashiganegewaat (and truly they pitched camp, they made a shelter-camp).</span>
 
-</div>
+<span class="l-orig">(692) Awidạc inini kī∙a∙yīdana‘kạmigis kīmạnisät, wīndạc a‘kiwäⁿzi kītcātcīkickutäwäcin.</span>
 
+<span class="l-fiero">**Aw idash inini kii-ayiidanakamigis kii-maniset, wiin dash akiwenzi kii-chaachiikishkoteweshin.**</span>
 
-Okii-chaagasaanan omakisinan,” odinaan iiniw wiinimoon (his moccasins were all burned up,” he said to his sister-in-law).
+<span class="l-eng">*And the man worked away gathering fire-wood, while the old man himself lay close by the fire.*</span>
 
-736) > **"Oonh\!" odinaan.  
-     > **"Really\!" she said to him.
+<span class="l-gloss">Aw idash inini kii-ayiidanakamigis kii-maniset (and the man worked away gathering firewood), wiin dash akiwenzi kii-chaachiikishkoteweshin (while the old man himself lay close by the fire).</span>
 
-“Oonh\!” odinaan (“really\!” she said to him).
+<span class="l-orig">(693) Mīdạc wänāgucik kīckwāwīsiniwāt mīmi∙a∙wā nāsāb ändodạnk aᵘ a‘kiwäⁿjī∙i∙c.</span>
 
-737) > **"Kegapi idok sa mayaamiikawitootaasot.  
-     > **"And so at last he brought it on himself.
+<span class="l-fiero">**Mii dash wenaagoshik kii-shkwaa-wiisiniwaat mii mi’awaa naasaab endodank aw akiwenzhii’ish.**</span>
 
-“Kegapi idok sa mayaamiikawitootaasot (“and so at last he has brought it on himself).
+<span class="l-eng">*Thereupon in the evening, after they had finished eating, then in the same way as before behaved the malicious old man.*</span>
 
-738) > **Aapiji anooj kii-ayindoodank," ikito aw ikwe.**
+<span class="l-gloss">Mii dash wenaagoshik kii-shkwaa-wiisiniwaat (thereupon in the evening, after they had finished eating) mii mi’awaa naasaab endodank aw akiwenzhii’ish (then in the same way as before behaved the malicious old man).</span>
 
+<span class="l-orig">(694) Kāwīn minawā kī∙i∙jimāminonändạnzī awinini; ā‘pitci mā a‘kiwäⁿjī∙i∙c owāwī‘kimān īni’ᵘ uningwạnạn, mīdạcigu ā‘pidci wändcini‘tāpapāmäniwāsik.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Gaawiin minawaa kii-izhi-maaminonendanzii aw inini; aapichi maa akiwenzhii’ish owaawiikimaan iiniw oningwanan, mii dash igo aapiji wenji-nitaa-papaameniwaasik.**</span>
 
-> <span class="l-gloss">Very persistent is he always in the doing of some sort of mischief," said the woman.</span>
+<span class="l-eng">*Again was the man not mindful of the wrong that had been done to him, and that was the very reason why he paid no heed to him.*</span>
 
-</div>
+<span class="l-gloss">Gaawiin minawaa kii-izhi-maaminonendanzii aw inini (again the man was not mindful of the wrong done to him); aapichi maa akiwenzhii’ish owaawiikimaan iiniw oningwanan (the wretched old man kept urging his son-in-law), mii dash igo aapiji wenji-nitaa-papaameniwaasik (and that was the very reason he paid no heed to him).</span>
 
+<span class="l-orig">(695) Mīdạc minawā tatibātcimut aᵘ a‘kiwäⁿzi.</span>
 
-Aapiji anooj kii-ayindoodank,” ikito aw ikwe (he is always so persistent in doing some sort of mischief,” said the woman).
+<span class="l-fiero">**Mii dash minawaa tatibaachimot aw akiwenzi.**</span>
 
-739) > **Mii dash kiiwenh ekitot minawaa:  
-     > **And then they say that she said again:
+<span class="l-eng">*Thereupon again the old man began relating stories.*</span>
 
-Mii dash kiiwenh ekitot minawaa (and then, they say, she said again):
+<span class="l-gloss">Mii dash minawaa tatibaachimot aw akiwenzi (thereupon again the old man began telling stories).</span>
 
-740) > **"Maamii noomag ta-ayaa iwiti.  
-     > **"Just for a while, now, let him be there.
+<span class="l-orig">(696) Kā∙i∙cinibāt ainini, mīdạc mägwā nibāt minawā kanōnāt uningwạnạn, ināt:</span>
 
-“Maamii noomag ta-ayaa iwiti (“just for a while now let him stay there).
+<span class="l-fiero">**Kaa-izhi-nibaat a inini, mii dash megwaa, nibaat minawaa kanoonaat oningwanan, inaat:**</span>
 
-741) > **Oga-kikendaan iw aapiji anooch kii-a'iindootank," ikito.**
+<span class="l-eng">*After the man had gone to sleep, and while he was slumbering, then again (the old man) addressed his son-in-law, saying to him:*</span>
 
+<span class="l-gloss">Kaa-izhi-nibaat a inini (after the man had gone to sleep), mii dash megwaa, nibaat minawaa kanoonaat oningwanan, inaat (and while he slumbered, again the old man addressed his son-in-law, saying to him):</span>
 
-<div class="four-layer">
+<span class="l-orig">(697) “‘Eⁱ, na‘āngī! pītcimāgwạt, kägō tcāgitä minawā!”</span>
 
-> <span class="l-gloss">He will then realize the consequence of his repeated efforts at doing all kinds of things," she said.</span>
+<span class="l-fiero">**“Ei, na’aangii! piichimaagwat, kegoo chaagite minawaa!”**</span>
 
-</div>
+<span class="l-eng">*“Hey, son-in-law! something smells, something is burning up again!”*</span>
 
+<span class="l-gloss">“Ei, na’aangii! piichimaagwat, kegoo chaagite minawaa!” (“hey, son-in-law! something smells, something is burning up again!”)</span>
 
-Oga-kikendaan iw aapiji anooch kii-a’iindootank,” ikito (he will then learn the consequence of his repeated mischief-making,” she said).
+<span class="l-orig">(698) Awidạc awinini kāwīn ogạnōnāsi; mī ki‘kändạnk kitcāgisạmāgut uma‘kisînạn.</span>
 
-742) > **"Paanimaa wabank ninga-ozhitoowanan makizinan," ikito.**
+<span class="l-fiero">**Aw idash aw inini gaawiin oganoonaasi; mii kikendank kichaagisamaagot omakisi(i)nan.**</span>
 
+<span class="l-eng">*But the man did not speak to him; for he already knew that his moccasins had been burned up by the other.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Aw idash aw inini gaawiin oganoonaasi (but the man did not answer him); mii kikendank kichaagisamaagot omakisi(i)nan (for he already knew that his moccasins had been burned up by the other).</span>
 
-> <span class="l-gloss">\[Later tomorrow I’ll make moccasins,” she said\]</span>
+<span class="l-orig">(699) Ogi‘kändān awinini keyābi ningutwäwān ayāt uma‘kisînan pāmigitänig.</span>
 
-</div>
+<span class="l-fiero">**Ogikendaan aw inini keyaabi ningotwewaan ayaat omakisi(i)nan paamigitenig.**</span>
 
+<span class="l-eng">*The man knew that he still had one pair of moccasins which were quilled.*</span>
 
-“Paanimaa wabank ninga-ozhitoowanan makizinan,” ikito (“later tomorrow I will make moccasins,” she said).
+<span class="l-gloss">Ogikendaan aw inini keyaabi ningotwewaan ayaat omakisi(i)nan paamigitenig (the man knew he still had one pair of moccasins, the quilled ones).</span>
 
-743) > **Mii dash kiiwenh geget weyabaninig kii-ozhitood iiniw makizinan.**
+<span class="l-orig">(700) Mīdec weyâbạng unickāwāt mīdec ägut ucinînsạn:</span>
 
+<span class="l-fiero">**Mii desh weyabang onishkaawaat mii desh egot oshininsan:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And so in the morning, after they had risen, he was told by his father-in-law:*</span>
 
-> <span class="l-gloss">Thereupon they say that truly on the morrow she then made the moccasins.</span>
+<span class="l-gloss">Mii desh weyabang onishkaawaat mii desh egot oshininsan (and so in the morning, after they had risen, he was told by his father-in-law):</span>
 
-</div>
+<span class="l-orig">(701) “Kägätsạna kigi‘tci∙i∙ciwäpis tcāgitägin a‘panä kima‘kisinạn,” udigōn.</span>
 
+<span class="l-fiero">**“Keget sa na kigichi-izhiwepis chaagitegin apane kimakisinan,” odigoon.**</span>
 
-Mii dash kiiwenh geget weyabaninig kii-ozhitood iiniw makizinan (thereupon, they say, truly on the morrow she then made the moccasins).
+<span class="l-eng">*“Truly are you exceedingly unfortunate to have your moccasins always burning up,” he (thus) was told.*</span>
 
-744) > **Mii dash kiiwenh anish naa aatisokaan aw idash kaye ikwe seziikisit, ezhinikazogoban Piidaabanook, mii dash aw ikwe kii-wanapitood iiniw makisinan wii-maajitood.**
+<span class="l-gloss">“Keget sa na kigichi-izhiwepis chaagitegin apane kimakisinan,” odigoon (“truly you are most unlucky, always having your moccasins burn up,” he was told).</span>
 
+<span class="l-orig">(702) Kāwīn i‘kitusī ainini; kī∙a∙ni∙u∙jī‘tā kīpīzi‘kạnk minawā ānint ma‘kisînạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Gaawiin ikitosii a inini; kii-ani-ozhiitaa kiipiizikank minawaa aanint makisi(i)nan.**</span>
 
-> <span class="l-gloss">And now they say, so goes the story, the woman who was older than the other, who bore the name of Coming-Dawn, was the woman who tied the moccasins into a bundle, as if she meant to take them.</span>
+<span class="l-eng">*The man did not speak; he went on making preparations, putting on his other moccasins.*</span>
 
-</div>
+<span class="l-gloss">Gaawiin ikitosii a inini (the man did not speak); kii-ani-ozhiitaa kiipiizikank minawaa aanint makisi(i)nan (he went on making ready, putting on his other moccasins).</span>
 
+<span class="l-orig">(703) Mīc mīnawā kī‘papānạndawäntcigäwāt.</span>
 
-Mii dash kiiwenh anish naa aatisokaan aw idash kaye ikwe seziikisit (and now, they say, so goes the story, the woman who was the elder), ezhinikazogoban Piidaabanook (whose name was Coming-Dawn), mii dash aw ikwe kii-wanapitood iiniw makisinan wii-maajitood (she was the woman who bundled the moccasins, meaning to take them).
+<span class="l-fiero">**Miish miinawaa kii-papaa-nandawenchigewaat.**</span>
 
-745) > **Mii dash kaa-izhi-wonishkaat aw ikwe kegaa chi-wabanininig, mii dash kii-saaga'ank kaa-ishkwaa-sasegaawat.**
+<span class="l-eng">*Thereupon again they wandered about, looking for game.*</span>
 
+<span class="l-gloss">Miish miinawaa kii-papaa-nandawenchigewaat (thereupon again they wandered about hunting for game).</span>
 
-<div class="four-layer">
+<span class="l-orig">(704) Minawādạc wänāgucininig mīgu minawā nāsāb ändōtạnk a‘kiwäⁿzī; minawā ucī‘tāwạg tcînîbāwāt; mīdạc minawā ayạgōtōwāt uma‘kisiniwān tcipā‘tänig.</span>
 
-> <span class="l-gloss">Thereupon, when the woman had risen from her couch at nearly the time of the break of day, then accordingly out she went from the lodge, after she had arrayed herself in fine garments.</span>
+<span class="l-fiero">**Minawaa dash wenaagoshininig mi igo minawaa naasaab endootank akiwenzii; minawaa oshiitaawag chi(i)-ni(i)baawaat; mii dash minawaa ayagootoowaat omakisiniwaan chi-paatenig.**</span>
 
-</div>
+<span class="l-eng">*And so, when it was evening, in the same manner as before acted the old man; again they made ready to go to sleep; and so again they hung up their moccasins to dry.*</span>
 
+<span class="l-gloss">Minawaa dash wenaagoshininig mi igo minawaa naasaab endootank akiwenzii (and so when it was evening, again the old man did the same as before); minawaa oshiitaawag chi(i)-ni(i)baawaat (again they made ready to sleep); mii dash minawaa ayagootoowaat omakisiniwaan chi-paatenig (and so again they hung up their moccasins to dry).</span>
 
-Mii dash kaa-izhi-wonishkaat aw ikwe kegaa chi-wabanininig (thereupon, when the woman rose near daybreak), mii dash kii-saaga’ank kaa-ishkwaa-sasegaawat (then out she went, after she had arrayed herself finely).
+<span class="l-orig">(705) Mīgu imā ayanimi‘kwīnit īni’ᵘ ujînisạn, kī∙ạ∙ntagōtōd uma‘kisinạn; ujînisạn uma‘kisinini agōtänig ugī∙ạ∙gōtōnạn uma‘kisînạn; mäskutidạc wīn agōtänigibạn uma‘kisinạn ogī∙i∙gōtowạn uma‘kisinini.</span>
 
-746) > **Mii dash kaa-izhi-kiigitot pagitoot iiniw makisinan:  
-     > **And so, after she had spoken, she flung the moccasins:
+<span class="l-fiero">**Mii go imaa ayanimikwiinit iiniw ozhi(i)nisan, kii-antagootood oma kisinan; ozhi(i)nisan omakisinini agootenig ogii-agootoonan omakisi(i)nan; meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini.**</span>
 
-Mii dash kaa-izhi-kiigitot pagitoot iiniw makisinan (and so, after she had spoken, she flung the moccasins):
+<span class="l-eng">*Then at the place over there, the instant that his father-in-law had turned his back, he then changed the place of his moccasins;the moccasins of his father-in-law were now hanging where he had hung his own moccasins;in the place where his own moccasins had been hanging he now hung the moccasins of the other.*</span>
 
-747) > **"Oonowe makisinan kitaanis Piitabanook opiitoonan."**
+<span class="l-gloss">Mii go imaa ayanimikwiinit iiniw ozhi(i)nisan (then, the instant his father-in-law turned his back) kii-antagootood oma kisinan (he changed the place of his moccasins); ozhi(i)nisan omakisinini agootenig ogii-agootoonan omakisi(i)nan (where his father-in-law’s moccasins hung he hung his own); meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini (and where his own moccasins had hung he hung the other’s).</span>
 
+<span class="l-orig">(706) Mīdạc kā∙i∙jikawicimowāt.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kaa-izhi-kawishimowaat.**</span>
 
-> <span class="l-gloss">"These moccasins does your daughter Coming-Dawn bring."</span>
+<span class="l-eng">*And then they went to bed.*</span>
 
-</div>
+<span class="l-gloss">Mii dash kaa-izhi-kawishimowaat (and then they went to bed).</span>
 
+<span class="l-orig">(707) Kumā∙a∙‘pidạc minawā awidạc kīwāⁿ awinini ugīpī∙ā∙n amạntc käta∙i∙ndinigwän.</span>
 
-“Oonowe makisinan kitaanis Piitabanook opiitoonan.” (“these moccasins your daughter Coming-Dawn brings.”)
+<span class="l-fiero">**Komaa api dash minawaa aw idash kiiwenh aw inini ogii-pii’aan amanch ket-a’indinigwen.**</span>
 
-748) > **Mii dash igo kaa-ani-apiisikaamagatinig waban mii go imaa kii-ani-ayaamagatinig makisinan, kii-otisigot aw akiwenzhii'ish.**
+<span class="l-eng">*And then for some time afterwards, so they say, did the man wait to see what the other would do.*</span>
 
+<span class="l-gloss">Komaa api dash minawaa aw idash kiiwenh aw inini ogii-pii’aan amanch ket-a’indinigwen (and then for a while afterward, they say, the man waited to see what the other would do).</span>
 
-<div class="four-layer">
+<span class="l-orig">(708) Mīdạc kägä‘t cayīgwa kīwäⁿ pimi∙u∙nickāwạn.</span>
 
-> <span class="l-gloss">Thereupon, at the moment when the light of day was breaking, then to yonder place at the same time went the moccasins, going to the place where the old man was.</span>
+<span class="l-fiero">**Mii dash keget shayiigwa kiiwenh pimi-onishkaawan.**</span>
 
-</div>
+<span class="l-eng">*And then truly by now, they say, was he risen from his pallet.*</span>
 
+<span class="l-gloss">Mii dash keget shayiigwa kiiwenh pimi-onishkaawan (and then truly by now, they say, he rose from his pallet).</span>
 
-Mii dash igo kaa-ani-apiisikaamagatinig waban (thereupon, at the moment the light of day broke) mii go imaa kii-ani-ayaamagatinig makisinan (then at the same time the moccasins went off to that place), kii-otisigot aw akiwenzhii’ish (reaching the hateful old man).
+<span class="l-orig">(709) “Nibā,” inänimigut.</span>
 
-749) > **"Aataa, ni(i)ndaanis Piidaabanook\!"**
+<span class="l-fiero">**“Nibaa,” inenimigot.**</span>
 
+<span class="l-eng">*“He is asleep,” the (youth) was thought to be.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Nibaa,” inenimigot (“he is asleep,” the youth was thought to be).</span>
 
-> <span class="l-gloss">"Good for you, O my daughter Coming-Dawn\!"</span>
+<span class="l-orig">(710) Mīdạc pämicipīna∙ạ∙ngin īni’ᵘ uma‘kisinini, äjipạgidînạngin ckutäng,</span>
 
-</div>
+<span class="l-fiero">**Mii dash pemishipiina’angin iiniw omakisinini, ezhi-pagidi(i)nangin shkoteng.**</span>
 
+<span class="l-eng">*And then he took down the other moccasins (and) he laid them in the fire.*</span>
 
-“Aataa, ni(i)ndaanis Piidaabanook\!” (“good for you, my daughter Coming-Dawn\!”)
+<span class="l-gloss">Mii dash pemishipiina’angin iiniw omakisinini (and then he took down the moccasins), ezhi-pagidi(i)nangin shkoteng (laying them in the fire).</span>
 
-750) > **Mii dash wiipiichiit akiwenzii.**
+<span class="l-orig">(711) Mīdạc aᵘ a‘kiwäⁿjī∙i∙c käcitinä äjikawicimut, mīdạc äjikīgitut:</span>
 
+<span class="l-fiero">**Mii dash aw akiwenzhii’ish keshitine ezhi-kawishimot, mii dash ezhi-kiigitot:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Whereupon the hateful old man at once lay down, and then said:*</span>
 
-> <span class="l-gloss">And then was the old man going to put them on.</span>
+<span class="l-gloss">Mii dash aw akiwenzhii’ish keshitine ezhi-kawishimot (whereupon the hateful old man at once lay down), mii dash ezhi-kiigitot (and then said):</span>
 
-</div>
+<span class="l-orig">(712) “Pā‘pa’! kägō pītcimā‘tä.— Naᵉāngī, kima‘kisinạn!” udinān.</span>
 
+<span class="l-fiero">**“Paapa! kegoo piichimaate.— Na’aangii, kimakisinan!” odinaan.**</span>
 
-Mii dash wiipiichiit akiwenzii (and then the old man was going to put them on).
+<span class="l-eng">*“Phew! a smell of something comes this way. — Son-in-law, your moccasins!” he said to him.*</span>
 
-751) > **Kaa-kiishiitaat kii-ani-maajaa kii-kiiwet; agaawa ogashkitoon pimoset.**
+<span class="l-gloss">“Paapa! kegoo piichimaate.— Na’aangii, kimakisinan!” odinaan (“phew! a smell comes this way. — Son-in-law, your moccasins!” he said to him).</span>
 
+<span class="l-orig">(713) Pasingudcisät awinini awinawatinạngin uma‘kisinạn kāmäskutakōtōpạn, mīdạc änāt:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Pasingojiset aw inini awi-nawatinangin omakisinan kaameskotakootoopan, mii dash enat:**</span>
 
-> <span class="l-gloss">After he was ready, he then started on his way back home; hardly was he able to walk.</span>
+<span class="l-eng">*Quickly springing to his feet, the man went and grabbed his moccasins, which he had hung up in a different place,and then said to the other:*</span>
 
-</div>
+<span class="l-gloss">Pasingojiset aw inini awi-nawatinangin omakisinan kaameskotakootoopan (springing up quickly, the man went and grabbed his moccasins that he had hung in a different place), mii dash enat (and then said to him):</span>
 
+<span class="l-orig">(714) “Ōnōwäsa nīn nima‘kisinạn.</span>
 
-Kaa-kiishiitaat kii-ani-maajaa kii-kiiwet (after he was ready, he started off back home); agaawa ogashkitoon pimoset (hardly could he walk).
+<span class="l-fiero">**“Oonoowe sa niin nimakisinan.**</span>
 
-752) > **Kaa-inachit kitwen ani-kiiwi-pimoset shaashaaganisit.**
+<span class="l-eng">*“Here are my moccasins.*</span>
 
+<span class="l-gloss">“Oonoowe sa niin nimakisinan (“here are my moccasins).</span>
 
-<div class="four-layer">
+<span class="l-orig">(715) Kīnisa kima‘kisinạn kātcāgisumạn,” udinān.</span>
 
-> <span class="l-gloss">His feet had frozen on account of his attempt at walking on the snow in bare feet.</span>
+<span class="l-fiero">**Kiin isa kimakisinan kaa-chaagisoman,” odinaan.**</span>
 
-</div>
+<span class="l-eng">*It is your moccasins that have been burned up,” he said to him.*</span>
 
+<span class="l-gloss">Kiin isa kimakisinan kaa-chaagisoman,” odinaan (it is your moccasins that have been burned up,” he said to him).</span>
 
-Kaa-inachit kitwen ani-kiiwi-pimoset shaashaaganisit (his feet had frozen from trying to walk barefoot on the snow on his way home).
+<span class="l-orig">(716) “Kāwīn,” i‘kito. “Kīn kima‘kisinạn,” udinān.</span>
 
-753) > **Mii dash ani-tagwishin entaawaat.**
+<span class="l-fiero">**“Gaawiin,” ikito. “Kiin kimakisinan,” odinaan.**</span>
 
+<span class="l-eng">*“No,” he said, “it is your moccasins,” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Gaawiin,” ikito. “Kiin kimakisinan,” odinaan (“no,” he said, “it is your moccasins,” he said to him).</span>
 
-> <span class="l-gloss">And now he kept on until he arrived at home.</span>
+<span class="l-orig">(717) “Kāwīn,” udinān awinini.</span>
 
-</div>
+<span class="l-fiero">**“Gaawiin,” odinaan aw inini.**</span>
 
+<span class="l-eng">*“No,” to him said the man.*</span>
 
-Mii dash ani-tagwishin entaawaat (and now he kept on until he arrived home).
+<span class="l-gloss">“Gaawiin,” odinaan aw inini (“no,” said the man to him).</span>
 
-754) > **Kaawiin kago awiya oodikosiin.**
+<span class="l-orig">(718) “Naskä! nīn pimigitäwạn nīn nima‘kisinạn,” udinān.</span>
 
+<span class="l-fiero">**“Naske! niin pimigitewan niin nimakisinan,” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Look! worked in quill are my moccasins, “ he said to him.*</span>
 
-> <span class="l-gloss">Not a single word had any one for him.</span>
+<span class="l-gloss">“Naske! niin pimigitewan niin nimakisinan,” odinaan (“look! quill-worked are my moccasins,” he said to him).</span>
 
-</div>
+<span class="l-orig">(719) “Kāwīn dạc kīn pīmigitäsinōn kima‘kisinạn,” udinān īni’ᵘ a‘kiwäⁿjī∙i∙cạn.</span>
 
+<span class="l-fiero">**“Gaawiin dash kiin piimigitesinoon kimakisinan,” odinaan iiniw akiwenzhii’ishan.**</span>
 
-Kaawiin kago awiya oodikosiin (not a single word had anyone for him).
+<span class="l-eng">*“And not quilled are your moccasins,” he said to the disagreeable old man.*</span>
 
-755) > **Miiy eta minawaa naanaagatawaabamaat iiniw oningwanan; inenimaat aaniin kaa-izhi-kashkii'ot chi-pi-kiiwet, inendam.**
+<span class="l-gloss">“Gaawiin dash kiin piimigitesinoon kimakisinan,” odinaan iiniw akiwenzhii’ishan (“and your moccasins are not quilled,” he said to the disagreeable old man).</span>
 
+<span class="l-orig">(720) Mīdạc kīwäⁿ pîtcīnạg ki‘kändạnk aᵘ a‘kiwäⁿjī∙i∙c kītcāgisạnk tibinawä uma‘kizinạn.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mi idash kiiwenh pi(i)tchiinag kikendank aw akiwenzhii’ish kii-chaagisank tibinawe omakizinan.**</span>
 
-> <span class="l-gloss">What he did again was to keep a constant eye upon his son-in-law; his thought of him was to know how he ever succeeded in getting back home, such was his thought.</span>
+<span class="l-eng">*And then they say not till now did the mean old man realize that his own moccasins had been consumed in the fire.*</span>
 
-</div>
+<span class="l-gloss">Mi idash kiiwenh pi(i)tchiinag kikendank aw akiwenzhii’ish kii-chaagisank tibinawe omakizinan (and then, they say, not till now did the mean old man realize that his own moccasins had been burned up).</span>
 
+<span class="l-orig">(721) Mīdac kīwäⁿ awinini käjtînä ucī‘tād wī∙ạ∙nikīwät.</span>
 
-Miiy eta minawaa naanaagatawaabamaat iiniw oningwanan (all he did again was to keep watching his son-in-law); inenimaat aaniin kaa-izhi-kashkii’ot chi-pi-kiiwet, inendam (wondering how he had ever managed to get back home, such was his thought).
+<span class="l-fiero">**Mii dash kiiwenh aw inini kezhti(i)ne oshiitaad wii-ani-kiiwet.**</span>
 
-756) > **Megwaa dash kanawabamaat mii odaanisan ezhi-megwayabamigot mii dash egot minawaa:  
-     > **And while he was watching him, then by his daughter was he caught looking (at him). Whereupon he was told by her again:
+<span class="l-eng">*Whereupon they say that the man at once made ready to go back home.*</span>
 
-Megwaa dash kanawabamaat mii odaanisan ezhi-megwayabamigot (and while he was watching him, his daughter caught him looking) mii dash egot minawaa (whereupon he was told by her again):
+<span class="l-gloss">Mii dash kiiwenh aw inini kezhti(i)ne oshiitaad wii-ani-kiiwet (whereupon, they say, the man at once made ready to go back home).</span>
 
-757) > **"Aniin sa enabamat kaanabamat?" odinaan.**
+<span class="l-orig">(722) Mīdạc änāt:</span>
 
+<span class="l-fiero">**Mii dash enaat:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then he said to the other:*</span>
 
-> <span class="l-gloss">"Why are you always looking at him whom you are gazing upon?" she said to him.</span>
+<span class="l-gloss">Mii dash enaat (and then he said to him):</span>
 
-</div>
+<span class="l-orig">(723) “Ānīc mīsa tcinạgạninān,” udinān.</span>
 
+<span class="l-fiero">**“Aaniish mii sa chi-naganinaan,” odinaan.**</span>
 
-“Aniin sa enabamat kaanabamat?” odinaan (“why are you always staring at him you keep gazing on?” she said to him).
+<span class="l-eng">*“ Now, then, I am going to leave you, “ he said to him.*</span>
 
-758) > **"Aan kaa\!  
-     > **"Oh, nothing\!
+<span class="l-gloss">“Aaniish mii sa chi-naganinaan,” odinaan (“now then, I am going to leave you,” he said to him).</span>
 
-“Aan kaa\! (“oh, nothing\!)
+<span class="l-orig">(724) Mīdạc ä‘kitut aᵘ a‘kiwäⁿzi:</span>
 
-759) > **Anishaa sa go kanawabamimaan iiniw maskochiisiwan pebaamootenit piinjiiya'ii oskiishigonk," odinaan.**
+<span class="l-fiero">**Mii dash ekitot aw akiwenzi:**</span>
 
+<span class="l-eng">*Thereupon said the old man:*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash ekitot aw akiwenzi (thereupon the old man said):</span>
 
-> <span class="l-gloss">I was merely looking at the whirligig-beetle that was crawling about inside of his eye," he said to her.</span>
+<span class="l-orig">(725) “Wīndạmawi nindānis tcîbītōt nima‘kisînạn.”</span>
 
-</div>
+<span class="l-fiero">**“Wiindamawi nindaanis chi(i)-biitoot nimakisi(i)nan.”**</span>
 
+<span class="l-eng">*“Tell my daughter to fetch my moccasins.”*</span>
 
-Anishaa sa go kanawabamimaan iiniw maskochiisiwan pebaamootenit piinjiiya’ii oskiishigonk,” odinaan (I was merely watching the whirligig-beetle crawling about inside his eye,” he said to her).
+<span class="l-gloss">“Wiindamawi nindaanis chi(i)-biitoot nimakisi(i)nan.” (“tell my daughter to fetch my moccasins.”)</span>
 
-760) > **Minawaa go keyaabi oowii-\[i\]zhi-atawaan oniingwanan.**
+<span class="l-orig">(726) “Ayeᵉ!” udinān.</span>
 
+<span class="l-fiero">**“Aye’!” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“All right!” he said to him.*</span>
 
-> <span class="l-gloss">And still again he wished to contend with his son-in-law.</span>
+<span class="l-gloss">“Aye’!” odinaan (“all right!” he said to him).</span>
 
-</div>
+<span class="l-orig">(727) Mīdạc äjikīwät ainini.</span>
 
+<span class="l-fiero">**Mii dash ezhi-kiiwet a inini.**</span>
 
-Minawaa go keyaabi oowii-\[i\]zhi-atawaan oniingwanan (and still again he wished to contend with his son-in-law).
+<span class="l-eng">*And then back home went the man.*</span>
 
-761) > **Mii dash ezhi-mikwendank oowiti kischi-kiishkaabikaang; mii dash enendank:  
-     > **And then he thought of that great steep cliff yonder.And this he thought:
+<span class="l-gloss">Mii dash ezhi-kiiwet a inini (and then back home went the man).</span>
 
-Mii dash ezhi-mikwendank oowiti kischi-kiishkaabikaang (and then he thought of that great steep cliff yonder); mii dash enendank (and this he thought):
+<span class="l-orig">(728) Mīdac kīwäⁿ aᵘ a‘kiwäzi kā∙ạ∙nimādcānit uningwạnạn kayä wīn ạnōtc ānu∙i∙citcigät.</span>
 
-762) > **"Mii iwiti ked-ishiwinag," inendam.**
+<span class="l-fiero">**Mii dash kiiwenh aw akiwezi kaa-ani-maajaanit oningwanan gaye wiin anooch aano-izhichiget.**</span>
 
+<span class="l-eng">*Thereupon they say that after the departure of his son-in-law, the old man likewise did all sorts of things.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw akiwezi kaa-ani-maajaanit oningwanan (thereupon, they say, after his son-in-law had departed) gaye wiin anooch aano-izhichiget (the old man too tried all sorts of things in vain).</span>
 
-> <span class="l-gloss">"Over there will I bring him," was his thought.</span>
+<span class="l-orig">(729) Ānīc kayä wīn ạsinīn utānugicāpīgiswān, ānīc wayība wīn asîn ā‘täyâbi‘kicin.</span>
 
-</div>
+<span class="l-fiero">**Aaniish gaye wiin asiniin otaanogishaapiigiswaan, aaniish wayiiba wiin asi(i)n aateyabikishin.**</span>
 
+<span class="l-eng">*He too tried in vain heating a rock, but soon would the rock become cool.*</span>
 
-“Mii iwiti ked-ishiwinag,” inendam (“over there I will take him,” was his thought).
+<span class="l-gloss">Aaniish gaye wiin asiniin otaanogishaapiigiswaan (he too tried in vain heating a rock), aaniish wayiiba wiin asi(i)n aateyabikishin (but soon would the rock cool off).</span>
 
-763) > **Mii dash kiiwenh minawaa ayeyaawaat ekitot akiwenzi:  
-     > **And now they say that again, while they were continuing (there), the old man said:
+<span class="l-orig">(730) Mīdạc minawā ānuwī∙i∙cigicābi‘kiswāt, mīgu mīnawā wayība ā‘täyābi‘kicininit.</span>
 
-Mii dash kiiwenh minawaa ayeyaawaat ekitot akiwenzi (and now, they say, again, while they were there, the old man said):
+<span class="l-fiero">**Mii dash minawaa aanowii izhigishaabikiswaat, mii go miinawaa wayiiba aateyaabikishininit.**</span>
 
-764) > **"Ambe sinoonaa, na'aangii, awi-shaashooskochiwetaa oowiti\!" odinaan.**
+<span class="l-eng">*And again he tried heating it, and another time it would quickly become cool.*</span>
 
+<span class="l-gloss">Mii dash minawaa aanowii izhigishaabikiswaat (and again he tried heating it), mii go miinawaa wayiiba aateyaabikishininit (and once more it would quickly cool off).</span>
 
-<div class="four-layer">
+<span class="l-orig">(731) Kägä‘t mī kiˢtci∙ạ∙no‘kīt wī‘kīwät.</span>
 
-> <span class="l-gloss">"I tell you what, son-in-law, let us go tobogganing at yonder place\!" he (thus) said to him.</span>
+<span class="l-fiero">**Keget mii kischi-anokiit wii-kiiwet.**</span>
 
-</div>
+<span class="l-eng">*Truly he worked hard to get back home.*</span>
 
+<span class="l-gloss">Keget mii kischi-anokiit wii-kiiwet (truly he worked hard to get back home).</span>
 
-“Ambe sinoonaa, na’aangii, awi-shaashooskochiwetaa oowiti\!” odinaan (“I tell you what, son-in-law, let us go tobogganing over there\!” he said to him).
+<span class="l-orig">(732) Mīdạc kīwäⁿ awinini ạnitạgwicin äntāwāt.</span>
 
-765) > **"Shaashooskochiwemiwaban kosha ko mewiizha aamininiingibaniin," odinaan.**
+<span class="l-fiero">**Mii dash kiiwenh aw inini ani-tagwishin entaawaat.**</span>
 
+<span class="l-eng">*And now they say that the man kept on till he arrived at home.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh aw inini ani-tagwishin entaawaat (and now, they say, the man kept on till he arrived home).</span>
 
-> <span class="l-gloss">"Down the hill long ago used to slide the men of times gone by," he thus said to him.</span>
+<span class="l-orig">(733) Mīdạc änāt:</span>
 
-</div>
+<span class="l-fiero">**Mii dash enaat:**</span>
 
+<span class="l-eng">*Whereupon he said to one (of the women):*</span>
 
-“Shaashooskochiwemiwaban kosha ko mewiizha aamininiingibaniin,” odinaan (“down the hill the men of old used to slide long ago,” he said to him).
+<span class="l-gloss">Mii dash enaat (whereupon he said to one of the women):</span>
 
-766) > **"Ningikendaan aanti onishishing," odinaan.**
+<span class="l-orig">(734) “Mī a‘panä iwiti kipāpā kīnạgạnạg.</span>
 
+<span class="l-fiero">**“Mii apane iwiti kipaapaa kiinaganag.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Back at yonder place have I left your father.*</span>
 
-> <span class="l-gloss">"I know where there is a fine place," he said to him.</span>
+<span class="l-gloss">“Mii apane iwiti kipaapaa kiinaganag (“back at yonder place I have left your father).</span>
 
-</div>
+<span class="l-orig">(735) Ukītcāgasānạn uma‘kisinạn,” udinān īni’ᵘ wīnimōn.</span>
 
+<span class="l-fiero">**Okii-chaagasaanan omakisinan,” odinaan iiniw wiinimoon.**</span>
 
-“Ningikendaan aanti onishishing,” odinaan (“I know where there is a fine place,” he said to him).
+<span class="l-eng">*All burned were his moccasins,” he (thus) said to his sister-in-law.*</span>
 
-767) > **Mii dash ekitot aw ikwe:  
-     > **And then said the woman:
+<span class="l-gloss">Okii-chaagasaanan omakisinan,” odinaan iiniw wiinimoon (his moccasins were all burned up,” he said to his sister-in-law).</span>
 
-Mii dash ekitot aw ikwe (and then said the woman):
+<span class="l-orig">(736) “Ūⁿ!” udinān.</span>
 
-768) > **"Shigwa kota kiin minawaa\!" odinaan iniw oosan.**
+<span class="l-fiero">**“Oonh!” odinaan.**</span>
 
+<span class="l-eng">*“Really!” she said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Oonh!” odinaan (“really!” she said to him).</span>
 
-> <span class="l-gloss">"There you go again\!" she (thus) said to her father.</span>
+<span class="l-orig">(737) “Käga‘pīduksa mayāmī‘kawitōtāsut.</span>
 
-</div>
+<span class="l-fiero">**“Kegapi idok sa mayaamiikawitootaasot.**</span>
 
+<span class="l-eng">*“And so at last he brought it on himself.*</span>
 
-“Shigwa kota kiin minawaa\!” odinaan iniw oosan (“there you go again\!” she said to her father).
+<span class="l-gloss">“Kegapi idok sa mayaamiikawitootaasot (“and so at last he has brought it on himself).</span>
 
-769) > **"Aa, anishaa sa go ninti(i)naa.  
-     > **"Why, only in jest am I saying it to him.
+<span class="l-orig">(738) Ā‘pidci ạnōdc kī∙a∙yindōdạnk,” i‘kitu awi‘kwa.</span>
 
-“Aa, anishaa sa go ninti(i)naa (“why, only in jest do I say it to him).
+<span class="l-fiero">**Aapiji anooj kii-ayindoodank,” ikito aw ikwe.**</span>
 
-770) > **Ozaam piisaanayaayang peshigwan; kaye dash piichaagiizhigak.  
-     > **So quietly are we continuing in the same place, and, too, the days are so long.
+<span class="l-eng">*Very persistent is he always in the doing of some sort of mischief,” said the woman.*</span>
 
-Ozaam piisaanayaayang peshigwan (so quietly are we staying in the same place); kaye dash piichaagiizhigak (and the days are so long).
+<span class="l-gloss">Aapiji anooj kii-ayindoodank,” ikito aw ikwe (he is always so persistent in doing some sort of mischief,” said the woman).</span>
 
-771) > **Owiti dash chi-awataatiyaang," odinaan odaanisan.**
+<span class="l-orig">(739) Mīdạc kīwäⁿ ä‘kitut minawā:</span>
 
+<span class="l-fiero">**Mii dash kiiwenh ekitot minawaa:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then they say that she said again:*</span>
 
-> <span class="l-gloss">And over there we can go and have a contest," he said to his daughter.</span>
+<span class="l-gloss">Mii dash kiiwenh ekitot minawaa (and then, they say, she said again):</span>
 
-</div>
+<span class="l-orig">(740) “Māmī nōmạg ta∙a∙yā iwiti.</span>
 
+<span class="l-fiero">**“Maamii noomag ta-ayaa iwiti.**</span>
 
-Owiti dash chi-awataatiyaang,” odinaan odaanisan (and over there we could go and hold a contest,” he said to his daughter).
+<span class="l-eng">*“Just for a while, now, let him be there.*</span>
 
-772) > **Kaawiin dash kegoo awiya odikosiin, aanawi ogikenimaawaan wa-izhishchigenit iiniw oosiwaan enendaminit kaye.**
+<span class="l-gloss">“Maamii noomag ta-ayaa iwiti (“just for a while now let him stay there).</span>
 
+<span class="l-orig">(741) Uga‘ki‘kändān īᵘ ā‘pidci ạnōtc kī∙a∙ī∙ndōtạnk,” i‘kitu.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Oga-kikendaan iw aapiji anooch kii-a’iindootank,” ikito.**</span>
 
-> <span class="l-gloss">But there was not a word for him from any one, for well they knew what their father wanted to do and what his thoughts were.</span>
+<span class="l-eng">*He will then realize the consequence of his repeated efforts at doing all kinds of things,” she said.*</span>
 
-</div>
+<span class="l-gloss">Oga-kikendaan iw aapiji anooch kii-a’iindootank,” ikito (he will then learn the consequence of his repeated mischief-making,” she said).</span>
 
+<span class="l-orig">(742) “Pānimā wâbạnk ninga∙u∙ji‘tōwânạn ma‘kizinạn,” i‘kito.</span>
 
-Kaawiin dash kegoo awiya odikosiin (but there was not a word for him from anyone), aanawi ogikenimaawaan wa-izhishchigenit iiniw oosiwaan enendaminit kaye (for well they knew what their father wanted to do and what his thoughts were).
+<span class="l-fiero">**“Paanimaa wabank ninga-ozhitoowanan makizinan,” ikito.**</span>
 
-773) > **Mii dash minawaa kanoonaat onigwanan:  
-     > **And then again he addressed his son-in-law, saying:
+<span class="l-eng">*[Later tomorrow I’ll make moccasins,” she said]*</span>
 
-Mii dash minawaa kanoonaat onigwanan (and then again he addressed his son-in-law, saying):
+<span class="l-gloss">“Paanimaa wabank ninga-ozhitoowanan makizinan,” ikito (“later tomorrow I will make moccasins,” she said).</span>
 
-774) > **"Aaniin, na'aangii, kiiwii-i(i)shaa naa?" odinaan.**
+<span class="l-orig">(743) Mīdạc kīwäⁿ gägä‘t weyâbạninig kī∙u∙ci‘tōd īni’ᵘ ma‘kizinạn.</span>
 
+<span class="l-fiero">**Mii dash kiiwenh geget weyabaninig kii-ozhitood iiniw makizinan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*Thereupon they say that truly on the morrow she then made the moccasins.*</span>
 
-> <span class="l-gloss">"Why, son-in-law, do you want to go?" he said to him.</span>
+<span class="l-gloss">Mii dash kiiwenh geget weyabaninig kii-ozhitood iiniw makizinan (thereupon, they say, truly on the morrow she then made the moccasins).</span>
 
-</div>
+<span class="l-orig">(744) Mīdạc kīwäⁿ ạnicnā ātiso‘kān awidạc kayä i‘kwä säzī‘kisit, äjini‘kāzugubạn Pīdābạnō‘k, mīdạc awi‘kwa kīwạna‘pitōd īni’ᵘ ma‘kisinạn wīmādcitōd.</span>
 
+<span class="l-fiero">**Mii dash kiiwenh anish naa aatisokaan aw idash gaye ikwe seziikisit, ezhinikazogoban Piidaabanook, mii dash aw ikwe kii-wanapitood iiniw makisinan wii-maajitood.**</span>
 
-“Aaniin, na’aangii, kiiwii-i(i)shaa naa?” odinaan (“well, son-in-law, do you want to go?” he said to him).
+<span class="l-eng">*And now they say, so goes the story, the woman who was older than the other, who bore the name of Coming-Dawn, was the woman who tied the moccasins into a bundle, as if she meant to take them.*</span>
 
-775) > **"Aaniin nangwana\!" ikito.**
+<span class="l-gloss">Mii dash kiiwenh anish naa aatisokaan aw idash gaye ikwe seziikisit (and now, they say, so goes the story, the woman who was the elder), ezhinikazogoban Piidaabanook (whose name was Coming-Dawn), mii dash aw ikwe kii-wanapitood iiniw makisinan wii-maajitood (she was the woman who bundled the moccasins, meaning to take them).</span>
 
+<span class="l-orig">(745) Mīdạc kā∙i∙ciwunickāt awi‘kwä kägā tciwâbạnininig, mīdạc kīsāga∙ạ∙nk kā∙i∙ckwāsasägāwạt.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kaa-izhi-wonishkaat aw ikwe kegaa chi-wabanininig, mii dash kii-saaga’ank kaa-ishkwaa-sasegaawat.**</span>
 
-> <span class="l-gloss">"Well, all right\!" he said.</span>
+<span class="l-eng">*Thereupon, when the woman had risen from her couch at nearly the time of the break of day, then accordingly out she went from the lodge, after she had arrayed herself in fine garments.*</span>
 
-</div>
+<span class="l-gloss">Mii dash kaa-izhi-wonishkaat aw ikwe kegaa chi-wabanininig (thereupon, when the woman rose near daybreak), mii dash kii-saaga’ank kaa-ishkwaa-sasegaawat (then out she went, after she had arrayed herself finely).</span>
 
+<span class="l-orig">(746) Mīdạc kā∙i∙jikīgitut pạgitōt īni’ᵘ ma‘kisinạn:</span>
 
-“Aaniin nangwana\!” ikito (“well, all right\!” he said).
+<span class="l-fiero">**Mii dash kaa-izhi-kiigitot pagitoot iiniw makisinan:**</span>
 
-776) > **"Ambe saw\!" odinaan.**
+<span class="l-eng">*And so, after she had spoken, she flung the moccasins:*</span>
 
+<span class="l-gloss">Mii dash kaa-izhi-kiigitot pagitoot iiniw makisinan (and so, after she had spoken, she flung the moccasins):</span>
 
-<div class="four-layer">
+<span class="l-orig">(747) “Ōnu’ʷᵉ ma‘kisinạn kitānis Pītābạnō‘k opītōnạn.”</span>
 
-> <span class="l-gloss">"Then come on\!" he said to him.</span>
+<span class="l-fiero">**“Oonowe makisinan kitaanis Piitabanook opiitoonan.”**</span>
 
-</div>
+<span class="l-eng">*“These moccasins does your daughter Coming-Dawn bring.”*</span>
 
+<span class="l-gloss">“Oonowe makisinan kitaanis Piitabanook opiitoonan.” (“these moccasins your daughter Coming-Dawn brings.”)</span>
 
-“Ambe saw\!” odinaan (“then come on\!” he said to him).
+<span class="l-orig">(748) Mīdạcigu kā∙ạ∙ni∙a∙‘pīsi‘kāmạgatinig wâbạn mīgu’ imā kī∙ạ∙ni∙a∙yāmạgatinig ma‘kisinạn, kī∙u∙tisigut aᵘ a‘kiwäⁿjī∙i∙c.</span>
 
-777) > **Mii dash maajaawaat, maajiinaa odabaanaakoon.**
+<span class="l-fiero">**Mii dash igo kaa-ani-apiisikaamagatinig waban mii go imaa kii-ani-ayaamagatinig makisinan, kii-otisigot aw akiwenzhii’ish.**</span>
 
+<span class="l-eng">*Thereupon, at the moment when the light of day was breaking, then to yonder place at the same time went the moccasins, going to the place where the old man was.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash igo kaa-ani-apiisikaamagatinig waban (thereupon, at the moment the light of day broke) mii go imaa kii-ani-ayaamagatinig makisinan (then at the same time the moccasins went off to that place), kii-otisigot aw akiwenzhii’ish (reaching the hateful old man).</span>
 
-> <span class="l-gloss">And then they set out, taking along their toboggan.</span>
+<span class="l-orig">(749) “Ā‘tā, nîṇdānis Pīdābạnō‘k!”</span>
 
-</div>
+<span class="l-fiero">**“Aataa, ni(i)ndaanis Piidaabanook!”**</span>
 
+<span class="l-eng">*“Good for you, O my daughter Coming-Dawn!”*</span>
 
-Mii dash maajaawaat, maajiinaa odabaanaakoon (and then they set out, taking along their toboggan).
+<span class="l-gloss">“Aataa, ni(i)ndaanis Piidaabanook!” (“good for you, my daughter Coming-Dawn!”)</span>
 
-778) > **Mii dash ishiwinaat oningwanan ket-ishi-shooshooskochiwewaat.**
+<span class="l-orig">(750) Mīdạc wīpī‘tcīt a‘kiwäⁿzī.</span>
 
+<span class="l-fiero">**Mii dash wiipiichiit akiwenzii.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then was the old man going to put them on.*</span>
 
-> <span class="l-gloss">And then he took his son-in-law to the place where they were to coast down the slope.</span>
+<span class="l-gloss">Mii dash wiipiichiit akiwenzii (and then the old man was going to put them on).</span>
 
-</div>
+<span class="l-orig">(751) Kā‘kīcī‘tāt kī∙ạ∙nimādcā kī‘kīwät; agāwa ugạcki‘tōn pimusät.</span>
 
+<span class="l-fiero">**Kaa-kiishiitaat kii-ani-maajaa kii-kiiwet; agaawa ogashkitoon pimoset.**</span>
 
-Mii dash ishiwinaat oningwanan ket-ishi-shooshooskochiwewaat (and then he took his son-in-law to where they were to coast down).
+<span class="l-eng">*After he was ready, he then started on his way back home; hardly was he able to walk.*</span>
 
-779) > **Mii dash kiiwenh shigwa ki-tagwishinowaat, aaniin ked-ishinank aw inini kiishkaabikaani nangwana\!**
+<span class="l-gloss">Kaa-kiishiitaat kii-ani-maajaa kii-kiiwet (after he was ready, he started off back home); agaawa ogashkitoon pimoset (hardly could he walk).</span>
 
+<span class="l-orig">(752) Kā∙i∙nạtcit ki‘twän ạnikīwipimusät cācāgạnisit.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Kaa-inachit kitwen ani-kiiwi-pimoset shaashaaganisit.**</span>
 
-> <span class="l-gloss">And now they say, on the occasion of their arrival, what did the man behold but a steep cliff\!</span>
+<span class="l-eng">*His feet had frozen on account of his attempt at walking on the snow in bare feet.*</span>
 
-</div>
+<span class="l-gloss">Kaa-inachit kitwen ani-kiiwi-pimoset shaashaaganisit (his feet had frozen from trying to walk barefoot on the snow on his way home).</span>
 
+<span class="l-orig">(753) Mīdạc ạnitạgwicin äntāwāt.</span>
 
-Mii dash kiiwenh shigwa ki-tagwishinowaat (and now, they say, when they arrived), aaniin ked-ishinank aw inini kiishkaabikaani nangwana\! (what did the man behold but a steep cliff\!)
+<span class="l-fiero">**Mii dash ani-tagwishin entaawaat.**</span>
 
-780) > **"Aw isa, na'aangii, kii nitam sa kiiga-shaaskochiwe," odinaan.**
+<span class="l-eng">*And now he kept on until he arrived at home.*</span>
 
+<span class="l-gloss">Mii dash ani-tagwishin entaawaat (and now he kept on until he arrived home).</span>
 
-<div class="four-layer">
+<span class="l-orig">(754) Kāwin kägō awiya ūdikusīn.</span>
 
-> <span class="l-gloss">"Now, then, son-in-law, you are the first to go coasting down," (the mean old man) said to him.</span>
+<span class="l-fiero">**Gaawiin kago awiya oodikosiin.**</span>
 
-</div>
+<span class="l-eng">*Not a single word had any one for him.*</span>
 
+<span class="l-gloss">Gaawiin kago awiya oodikosiin (not a single word had anyone for him).</span>
 
-“Aw isa, na’aangii, kii nitam sa kiiga-shaaskochiwe,” odinaan (“now then, son-in-law, you are the first to coast down,” the mean old man said to him).
+<span class="l-orig">(755) Mīyä‘ta minawā nānāgatawābạmāt īni’ᵘ uningwạnạn; inänimāt ānīn kā∙i∙jikacki∙u∙t tcipikīwät, inändạm.</span>
 
-781) > **"Aaniish dash kiin?" odinaan.**
+<span class="l-fiero">**Miiy eta minawaa naanaagatawaabamaat iiniw oningwanan; inenimaat aaniin kaa-izhi-kashkii’ot chi-pi-kiiwet, inendam.**</span>
 
+<span class="l-eng">*What he did again was to keep a constant eye upon his son-in-law; his thought of him was to know how he ever succeeded in getting back home, such was his thought.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Miiy eta minawaa naanaagatawaabamaat iiniw oningwanan (all he did again was to keep watching his son-in-law); inenimaat aaniin kaa-izhi-kashkii’ot chi-pi-kiiwet, inendam (wondering how he had ever managed to get back home, such was his thought).</span>
 
-> <span class="l-gloss">"And why not you?" (the son-in-law) said to him.</span>
+<span class="l-orig">(756) Mägwādạc kanawâbạmāt mī odānisạn äjimägwayâbạmigut mīdac ägut minawā:</span>
 
-</div>
+<span class="l-fiero">**Megwaa dash kanawabamaat mii odaanisan ezhi-megwayabamigot mii dash egot minawaa:**</span>
 
+<span class="l-eng">*And while he was watching him, then by his daughter was he caught looking (at him). Whereupon he was told by her again:*</span>
 
-“Aaniish dash kiin?” odinaan (“and why not you?” the son-in-law said to him).
+<span class="l-gloss">Megwaa dash kanawabamaat mii odaanisan ezhi-megwayabamigot (and while he was watching him, his daughter caught him looking) mii dash egot minawaa (whereupon he was told by her again):</span>
 
-782) > **"Aaniich, paanimaa niin iskwaach," odinaan.**
+<span class="l-orig">(757) “Anīnsa änâbạmạt kānâbạmạt?” udinān.</span>
 
+<span class="l-fiero">**“Aniin sa enabamat kaanabamat?” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Why are you always looking at him whom you are gazing upon?” she said to him.*</span>
 
-> <span class="l-gloss">"Why, not till (you are) done, (then will) I (go)," (the man) said to (his son-in-law).</span>
+<span class="l-gloss">“Aniin sa enabamat kaanabamat?” odinaan (“why are you always staring at him you keep gazing on?” she said to him).</span>
 
-</div>
+<span class="l-orig">(758) “Āⁿ kā!</span>
 
+<span class="l-fiero">**“Aan kaa!**</span>
 
-“Aaniich, paanimaa niin iskwaach,” odinaan (“why, not till you are done, then I go,” the man said to him).
+<span class="l-eng">*“Oh, nothing!*</span>
 
-783) > **"Awaw\!" odinaan.**
+<span class="l-gloss">“Aan kaa! (“oh, nothing!)</span>
 
+<span class="l-orig">(759) Ạnicāsạgu kanawâbạmimān īni’ᵘ maskutcīsiwạn päbāmōtänit pīndcīya∙ī∙ uskīcigunk,” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Anishaa sa go kanawabamimaan iiniw maskochiisiwan pebaamootenit piinjiiya’ii oskiishigonk,” odinaan.**</span>
 
-> <span class="l-gloss">"Come on, now\!" said (the son-in-law) to him.</span>
+<span class="l-eng">*I was merely looking at the whirligig-beetle that was crawling about inside of his eye,” he said to her.*</span>
 
-</div>
+<span class="l-gloss">Anishaa sa go kanawabamimaan iiniw maskochiisiwan pebaamootenit piinjiiya’ii oskiishigonk,” odinaan (I was merely watching the whirligig-beetle crawling about inside his eye,” he said to her).</span>
 
+<span class="l-orig">(760) Minawāgu käyābi ūwīji∙a∙‘tawān unīngwạnạn.</span>
 
-“Awaw\!” odinaan (“come on, now\!” the son-in-law said to him).
+<span class="l-fiero">**Minawaa go keyaabi oowii-[i]zhi-atawaan oniingwanan.**</span>
 
-784) > **"Awisa," odinaan inini.**
+<span class="l-eng">*And still again he wished to contend with his son-in-law.*</span>
 
+<span class="l-gloss">Minawaa go keyaabi oowii-[i]zhi-atawaan oniingwanan (and still again he wished to contend with his son-in-law).</span>
 
-<div class="four-layer">
+<span class="l-orig">(761) Mīdạc äjimi‘kwändạnk ōwiti kistcikīckābi‘kāng; mīdạc änändạnk.</span>
 
-> <span class="l-gloss">"Very well," to him said the man.</span>
+<span class="l-fiero">**Mii dash ezhi-mikwendank oowiti kischi-kiishkaabikaang; mii dash enendank:**</span>
 
-</div>
+<span class="l-eng">*And then he thought of that great steep cliff yonder.And this he thought:*</span>
 
+<span class="l-gloss">Mii dash ezhi-mikwendank oowiti kischi-kiishkaabikaang (and then he thought of that great steep cliff yonder); mii dash enendank (and this he thought):</span>
 
-“Awisa,” odinaan inini (“very well,” the man said to him).
+<span class="l-orig">(762) “Mī∙i∙witi kädiciwinạg,” inändạm.</span>
 
-785) > **Mii dash kiiwenh shayiigwa ezhi-waweshishimaat iiniw odaabaanaakoon, mii dash enaat iiniw oniingwanan.**
+<span class="l-fiero">**“Mii iwiti ked-ishiwinag,” inendam.**</span>
 
+<span class="l-eng">*“Over there will I bring him,” was his thought.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Mii iwiti ked-ishiwinag,” inendam (“over there I will take him,” was his thought).</span>
 
-> <span class="l-gloss">And now they say that already had (the father-in-law) fixed in place his toboggan, whereupon he said to his son-in-law:</span>
+<span class="l-orig">(763) Mīdạc kīwäⁿ minawā ayeyāwāt ä‘kitut a‘kiwäⁿzi:</span>
 
-</div>
+<span class="l-fiero">**Mii dash kiiwenh minawaa ayeyaawaat ekitot akiwenzi:**</span>
 
+<span class="l-eng">*And now they say that again, while they were continuing (there), the old man said:*</span>
 
-Mii dash kiiwenh shayiigwa ezhi-waweshishimaat iiniw odaabaanaakoon (and now, they say, he had already fixed his toboggan in place), mii dash enaat iiniw oniingwanan (whereupon he said to his son-in-law):
+<span class="l-gloss">Mii dash kiiwenh minawaa ayeyaawaat ekitot akiwenzi (and now, they say, again, while they were there, the old man said):</span>
 
-786) > **"Mii ko endootamowaapan aamininiingibaniin, ezhi-takopisot aw washooskochiwet," odinaan.**
+<span class="l-orig">(764) “Ạmbäsinōnā, naᵉāngī, awicācōskutciwätā ōwiti!” udinān.</span>
 
+<span class="l-fiero">**“Ambe sinoonaa, na’aangii, awi-shaashooskochiwetaa oowiti!” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“I tell you what, son-in-law, let us go tobogganing at yonder place!” he (thus) said to him.*</span>
 
-> <span class="l-gloss">"This is what the men of yore used to do, on (the toboggan) was tied the one who was to go coasting down," he said to him.</span>
+<span class="l-gloss">“Ambe sinoonaa, na’aangii, awi-shaashooskochiwetaa oowiti!” odinaan (“I tell you what, son-in-law, let us go tobogganing over there!” he said to him).</span>
 
-</div>
+<span class="l-orig">(765) “Cācōskutciwämiwâbạn kuca‘ku mäwīja āmininīngibạnīn,” udinān.</span>
 
+<span class="l-fiero">**“Shaashooskochiwemiwaban kosha ko mewiizha aamininiingibaniin,” odinaan.**</span>
 
-“Mii ko endootamowaapan aamininiingibaniin (“this is what the men of old used to do), ezhi-takopisot aw washooskochiwet,” odinaan (the one who was to coast down was bound on,” he said to him).
+<span class="l-eng">*“Down the hill long ago used to slide the men of times gone by,” he thus said to him.*</span>
 
-787) > **"Mii dash kaye giin ke-izhi-takopisoyan," odinaan; "maagishaa kiigagitaash," odinaan.**
+<span class="l-gloss">“Shaashooskochiwemiwaban kosha ko mewiizha aamininiingibaniin,” odinaan (“down the hill the men of old used to slide long ago,” he said to him).</span>
 
+<span class="l-orig">(766) “Ningi‘kändān ānti unicicing,” udinān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Ningikendaan aanti onishishing,” odinaan.**</span>
 
-> <span class="l-gloss">"Therefore will you too have to be bound on," he said to him; "lest perhaps you bounce off," he said to him.</span>
+<span class="l-eng">*“I know where there is a fine place,” he said to him.*</span>
 
-</div>
+<span class="l-gloss">“Ningikendaan aanti onishishing,” odinaan (“I know where there is a fine place,” he said to him).</span>
 
+<span class="l-orig">(767) Mīdac ä‘kitut awi‘kwä:</span>
 
-“Mii dash kaye giin ke-izhi-takopisoyan,” odinaan (“therefore you too must be bound on,” he said to him); “maagishaa kiigagitaash,” odinaan (“lest perhaps you bounce off,” he said to him).
+<span class="l-fiero">**Mii dash ekitot aw ikwe:**</span>
 
-788) > **Aaniin, mii dash keget aw inini eshishchiget; mii dash ezhi-takopinigot iiniw ozhiini(i)san odaabaanaakoong.**
+<span class="l-eng">*And then said the woman:*</span>
 
+<span class="l-gloss">Mii dash ekitot aw ikwe (and then said the woman):</span>
 
-<div class="four-layer">
+<span class="l-orig">(768) “Cigwa kutakīn minawā!” udinān īni’ᵘ ōsạn.</span>
 
-> <span class="l-gloss">Well, and so that truly the man did; and so he was bound (with cords) to his toboggan by his father-in-law.</span>
+<span class="l-fiero">**“Shigwa kota kiin minawaa!” odinaan iniw oosan.**</span>
 
-</div>
+<span class="l-eng">*“There you go again!” she (thus) said to her father.*</span>
 
+<span class="l-gloss">“Shigwa kota kiin minawaa!” odinaan iniw oosan (“there you go again!” she said to her father).</span>
 
-Aaniin, mii dash keget aw inini eshishchiget (well, and so truly the man did so); mii dash ezhi-takopinigot iiniw ozhiini(i)san odaabaanaakoong (and so he was bound with cords to his toboggan by his father-in-law).
+<span class="l-orig">(769) “Ā, ạnicāsagu nintînā.</span>
 
-789) > **"Aaw, mii sa ke-izhi-kaanchiwepininaa," odinaan.**
+<span class="l-fiero">**“Aa, anishaa sa go ninti(i)naa.**</span>
 
+<span class="l-eng">*“Why, only in jest am I saying it to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Aa, anishaa sa go ninti(i)naa (“why, only in jest do I say it to him).</span>
 
-> <span class="l-gloss">"All ready, now I am, to push you off," he said to him.</span>
+<span class="l-orig">(770) Ozām pīsānayāyạng päcigwạn; kayädạc pī‘tcāgījiga‘k.</span>
 
-</div>
+<span class="l-fiero">**Ozaam piisaanayaayang peshigwan; gaye dash piichaagiizhigak.**</span>
 
+<span class="l-eng">*So quietly are we continuing in the same place, and, too, the days are so long.*</span>
 
-“Aaw, mii sa ke-izhi-kaanchiwepininaa,” odinaan (“all ready now, I am, to push you off,” he said to him).
+<span class="l-gloss">Ozaam piisaanayaayang peshigwan (so quietly are we staying in the same place); gaye dash piichaagiizhigak (and the days are so long).</span>
 
-790) > **Aaw, aaniish mii sa shaayiigwa aw akiwenzii ezhi-wawezhikaabawit aaniin iw aapiji ke-izhi-kischi-kishiipisogwen inendank.**
+<span class="l-orig">(771) Owitidạc tci∙a∙wa‘tātiyāng,” udinān udināsạn.</span>
 
+<span class="l-fiero">**Owiti dash chi-awataatiyaang,” odinaan odaanisan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And over there we can go and have a contest,” he said to his daughter.*</span>
 
-> <span class="l-gloss">Now, then, now it was that already was the old man standing in place, thinking in what direction (the youth) would be going with such awful speed.</span>
+<span class="l-gloss">Owiti dash chi-awataatiyaang,” odinaan odaanisan (and over there we could go and hold a contest,” he said to his daughter).</span>
 
-</div>
+<span class="l-orig">(772) Kāwīndạc kägō awiya udikusīn, ānawi ugi‘känimāwān wâ∙i∙jictcigänit īni’ᵘ ōsiwān änändạminit kayä.</span>
 
+<span class="l-fiero">**Gaawiin dash kegoo awiya odikosiin, aanawi ogikenimaawaan wa-izhishchigenit iiniw oosiwaan enendaminit gaye.**</span>
 
-Aaw, aaniish mii sa shaayiigwa aw akiwenzii ezhi-wawezhikaabawit (now then, by now the old man was standing in place) aaniin iw aapiji ke-izhi-kischi-kishiipisogwen inendank (wondering in what direction the youth would go with such terrific speed).
+<span class="l-eng">*But there was not a word for him from any one, for well they knew what their father wanted to do and what his thoughts were.*</span>
 
-791) > **Paakaj igo kaasasaka'amiit aw akiwenzhii'ish, mii sa kaanchiwepinat odaabaanaakoon.**
+<span class="l-gloss">Gaawiin dash kegoo awiya odikosiin (but there was not a word for him from anyone), aanawi ogikenimaawaan wa-izhishchigenit iiniw oosiwaan enendaminit gaye (for well they knew what their father wanted to do and what his thoughts were).</span>
 
+<span class="l-orig">(773) Mīdạc minawā kạnōnāt unigwạnạn:</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash minawaa kanoonaat onigwanan:**</span>
 
-> <span class="l-gloss">With great eagerness did the malicious old man dig his feet (into the snow for a purchase to push), and now he began heaving against his toboggan.</span>
+<span class="l-eng">*And then again he addressed his son-in-law, saying:*</span>
 
-</div>
+<span class="l-gloss">Mii dash minawaa kanoonaat onigwanan (and then again he addressed his son-in-law, saying):</span>
 
+<span class="l-orig">(774) “Ānīn, naᵉāngī, kīwī∙î∙cānā?” udinān.</span>
 
-Paakaj igo kaasasaka’amiit aw akiwenzhii’ish (with great eagerness the malicious old man dug his feet in for a purchase), mii sa kaanchiwepinat odaabaanaakoon (and now he heaved against the toboggan).
+<span class="l-fiero">**“Aaniin, na’aangii, kiiwii-i(i)shaa naa?” odinaan.**</span>
 
-792) > **Kaawiin kanage wii-maajaasii aw odaabaanaak, aanawi dash iw kishkaabikaa intigo shoonshaakwat ezhinaagosit awasi(i)n tibi wenchi-nokishkaagwen.**
+<span class="l-eng">*“Why, son-in-law, do you want to go?” he said to him.*</span>
 
+<span class="l-gloss">“Aaniin, na’aangii, kiiwii-i(i)shaa naa?” odinaan (“well, son-in-law, do you want to go?” he said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(775) “Ānīn nạngwana!” i‘kitu.</span>
 
-> <span class="l-gloss">But not at all would the toboggan move, even though the cliff was as smooth as ice, for such was the look of the rock down which (the youth) was to slide, (but the toboggan would not go).</span>
+<span class="l-fiero">**“Aaniin nangwana!” ikito.**</span>
 
-</div>
+<span class="l-eng">*“Well, all right!” he said.*</span>
 
+<span class="l-gloss">“Aaniin nangwana!” ikito (“well, all right!” he said).</span>
 
-Kaawiin kanage wii-maajaasii aw odaabaanaak (but not at all would the toboggan move), aanawi dash iw kishkaabikaa intigo shoonshaakwat ezhinaagosit awasi(i)n tibi wenchi-nokishkaagwen (even though the cliff was as smooth as ice, such was the look of the rock down which he was to slide, yet it would not budge).
+<span class="l-orig">(776) “Ạmbäsaᵘ!” udinān.</span>
 
-793) > **Minawaa enigok oogaanchiwebinaat.**
+<span class="l-fiero">**“Ambe saw!” odinaan.**</span>
 
+<span class="l-eng">*“Then come on!” he said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Ambe saw!” odinaan (“then come on!” he said to him).</span>
 
-> <span class="l-gloss">Again with his might he heaved against it.</span>
+<span class="l-orig">(777) Mīdạc mādcāwāt, mādcīnā∙u∙dạbānā‘kōn.</span>
 
-</div>
+<span class="l-fiero">**Mii dash maajaawaat, maajiinaa odabaanaakoon.**</span>
 
+<span class="l-eng">*And then they set out, taking along their toboggan.*</span>
 
-Minawaa enigok oogaanchiwebinaat (again with all his might he heaved against it).
+<span class="l-gloss">Mii dash maajaawaat, maajiinaa odabaanaakoon (and then they set out, taking along their toboggan).</span>
 
-794) > **Mii dash enendank aw inini:  
-     > **And now willed the man:
+<span class="l-orig">(778) Mīdạc iciwināt uningwạnạn∙ käticicōcōskutciwäwāt.</span>
 
-Mii dash enendank aw inini (and now the man willed):
+<span class="l-fiero">**Mii dash ishiwinaat oningwanan ket-ishi-shooshooskochiwewaat.**</span>
 
-795) > **"Maano, pangii niinga-maajiiyaaboon\!"**
+<span class="l-eng">*And then he took his son-in-law to the place where they were to coast down the slope.*</span>
 
+<span class="l-gloss">Mii dash ishiwinaat oningwanan ket-ishi-shooshooskochiwewaat (and then he took his son-in-law to where they were to coast down).</span>
 
-<div class="four-layer">
+<span class="l-orig">(779) Mīdạc kīwäⁿ cigwa kitạgwicinuwāt, ānīn kädicinạnk awinini kīckābi‘kāni nạngwạna!</span>
 
-> <span class="l-gloss">"Only let me slide but a little way\!"</span>
+<span class="l-fiero">**Mii dash kiiwenh shigwa ki-tagwishinowaat, aaniin ked-ishinank aw inini kiishkaabikaani nangwana!**</span>
 
-</div>
+<span class="l-eng">*And now they say, on the occasion of their arrival, what did the man behold but a steep cliff!*</span>
 
+<span class="l-gloss">Mii dash kiiwenh shigwa ki-tagwishinowaat (and now, they say, when they arrived), aaniin ked-ishinank aw inini kiishkaabikaani nangwana! (what did the man behold but a steep cliff!)</span>
 
-“Maano, pangii niinga-maajiiyaaboon\!” (“only let me slide just a little way\!”)
+<span class="l-orig">(780) “Awisa, naᵉāngī, kīni‘tạmsa kīgacōskutciwä,” udinān.</span>
 
-796) > **Mii dash keget.**
+<span class="l-fiero">**“Aw isa, na’aangii, kii nitam sa kiiga-shaaskochiwe,” odinaan.**</span>
 
+<span class="l-eng">*“Now, then, son-in-law, you are the first to go coasting down,” (the mean old man) said to him.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Aw isa, na’aangii, kii nitam sa kiiga-shaaskochiwe,” odinaan (“now then, son-in-law, you are the first to coast down,” the mean old man said to him).</span>
 
-> <span class="l-gloss">And so he did.</span>
+<span class="l-orig">(781) “Ānic dạc kīn?” udinān.</span>
 
-</div>
+<span class="l-fiero">**“Aaniish dash kiin?” odinaan.**</span>
 
+<span class="l-eng">*“And why not you?” (the son-in-law) said to him.*</span>
 
-Mii dash keget (and so he did).
+<span class="l-gloss">“Aaniish dash kiin?” odinaan (“and why not you?” the son-in-law said to him).</span>
 
-797) > **Mii dash enendank:  
-     > **And then he thought:
+<span class="l-orig">(782) “Ānīc, pānimā nīn iskwātc,” udinān. “</span>
 
-Mii dash enendank (and then he thought):
+<span class="l-fiero">**“Aaniich, paanimaa niin iskwaach,” odinaan.**</span>
 
-798) > **"Kiizhik ningii-shawenimigoban."**
+<span class="l-eng">*“Why, not till (you are) done, (then will) I (go),” (the man) said to (his son-in-law).*</span>
 
+<span class="l-gloss">“Aaniich, paanimaa niin iskwaach,” odinaan (“why, not till you are done, then I go,” the man said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(783) ‘Awaᵘ!” udinān.</span>
 
-> <span class="l-gloss">"The cedar took pity upon me once in times past."</span>
+<span class="l-fiero">**“Awaw!” odinaan.**</span>
 
-</div>
+<span class="l-eng">*“Come on, now!” said (the son-in-law) to him.*</span>
 
+<span class="l-gloss">“Awaw!” odinaan (“come on, now!” the son-in-law said to him).</span>
 
-“Kiizhik ningii-shawenimigoban.” (“the cedar took pity on me once in times past.”)
+<span class="l-orig">(784) “Awisa,” udinān inini.</span>
 
-799) > **Mii dash kaa-izhi-aapiji-nagaaskaat aw otaabaan.**
+<span class="l-fiero">**“Awisa,” odinaan inini.**</span>
 
+<span class="l-eng">*“Very well,” to him said the man.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Awisa,” odinaan inini (“very well,” the man said to him).</span>
 
-> <span class="l-gloss">Thereupon the toboggan stopped in its downward flight.</span>
+<span class="l-orig">(785) Mīdạc kīwäⁿ cayīgwa äjiwawäcicimāt īni’ᵘ udābānā‘kōn, mīdạc änāt īni’ᵘ unīngwạnạn:</span>
 
-</div>
+<span class="l-fiero">**Mii dash kiiwenh shayiigwa ezhi-waweshishimaat iiniw odaabaanaakoon, mii dash enaat iiniw oniingwanan.**</span>
 
+<span class="l-eng">*And now they say that already had (the father-in-law) fixed in place his toboggan, whereupon he said to his son-in-law:*</span>
 
-Mii dash kaa-izhi-aapiji-nagaaskaat aw otaabaan (thereupon the toboggan stopped short in its downward flight).
+<span class="l-gloss">Mii dash kiiwenh shayiigwa ezhi-waweshishimaat iiniw odaabaanaakoon (and now, they say, he had already fixed his toboggan in place), mii dash enaat iiniw oniingwanan (whereupon he said to his son-in-law):</span>
 
-800) > **Naske dash inaabiyok\! tibi ko waabandameg kiishkaabikaa kii-wabamaawa kiizhik patakisot newadaabik.**
+<span class="l-orig">(786) “Mi‘ku ändōtamuwâ‘pạn āmininīngibạnīn, äjita‘kupisut aᵘ wâcōskutciwät,” udinān.</span>
 
+<span class="l-fiero">**“Mii ko endootamowaapan aamininiingibaniin, ezhi-takopisot aw washooskochiwet,” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“This is what the men of yore used to do, on (the toboggan) was tied the one who was to go coasting down,” he said to him.*</span>
 
-> <span class="l-gloss">Therefore now look you\! wherever you behold a high cliff, there you will see a cedar standing near the edge of the rock.</span>
+<span class="l-gloss">“Mii ko endootamowaapan aamininiingibaniin (“this is what the men of old used to do), ezhi-takopisot aw washooskochiwet,” odinaan (the one who was to coast down was bound on,” he said to him).</span>
 
-</div>
+<span class="l-orig">(787) “Mīdạc kayä gīn kä∙i∙jita‘kupisuyạn,” udinān; “māgicā kīgagitāc,” udinān.</span>
 
+<span class="l-fiero">**“Mii dash gaye giin ke-izhi-takopisoyan,” odinaan; “maagishaa kiigagitaash,” odinaan.**</span>
 
-Naske dash inaabiyok\! (so look you\!) tibi ko waabandameg kiishkaabikaa (wherever you see a high cliff) kii-wabamaawa kiizhik patakisot newadaabik (you will see a cedar standing near the edge of the rock).
+<span class="l-eng">*“Therefore will you too have to be bound on,” he said to him; “lest perhaps you bounce off,” he said to him.*</span>
 
-801) > **Mii iiniw kaa-shawenimigot aw Mashoos oniingwanan.**
+<span class="l-gloss">“Mii dash gaye giin ke-izhi-takopisoyan,” odinaan (“therefore you too must be bound on,” he said to him); “maagishaa kiigagitaash,” odinaan (“lest perhaps you bounce off,” he said to him).</span>
 
+<span class="l-orig">(788) Ānin, mīdạc kägä‘t awinini äcictcigät; mīdạc äjita‘kupinigut īni’ᵘ ujīnîsạn udābānākōng. “</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Aaniin, mii dash keget aw inini eshishchiget; mii dash ezhi-takopinigot iiniw ozhiini(i)san odaabaanaakoong.**</span>
 
-> <span class="l-gloss">That was the one by whom was blessed the son-in-law of Mashos.</span>
+<span class="l-eng">*Well, and so that truly the man did; and so he was bound (with cords) to his toboggan by his father-in-law.*</span>
 
-</div>
+<span class="l-gloss">Aaniin, mii dash keget aw inini eshishchiget (well, and so truly the man did so); mii dash ezhi-takopinigot iiniw ozhiini(i)san odaabaanaakoong (and so he was bound with cords to his toboggan by his father-in-law).</span>
 
+<span class="l-orig">(789) ‘Āᵘ, mīsa’ kä∙i∙jikāntciwäpininān,” udinān.</span>
 
-Mii iiniw kaa-shawenimigot aw Mashoos oniingwanan (that was the one who took pity on Mashos’s son-in-law).
+<span class="l-fiero">**“Aaw, mii sa ke-izhi-kaanchiwepininaa,” odinaan.**</span>
 
-802) > **Mii dash kiiwenh kaa-aapiji-pwaanawi'aat chi-maajiiyaapoonit mii kiiwaniskaat aw inini kiiy-aapa'otisot.**
+<span class="l-eng">*“All ready, now I am, to push you off,” he said to him.*</span>
 
+<span class="l-gloss">“Aaw, mii sa ke-izhi-kaanchiwepininaa,” odinaan (“all ready now, I am, to push you off,” he said to him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(790) ‘Āᵘ, ānīc mīsa cāyīgwa aᵘ a‘kiwäⁿzī äjiwawäjikābawit ānīn iᵘ ā‘pidci kä∙i∙jikiˢtcikicīpisugwän inändạnk.</span>
 
-> <span class="l-gloss">And then they say, after (the old man) could not start him coasting down, then did the man get up (and) untie himself.</span>
+<span class="l-fiero">**Aaw, aaniish mii sa shaayiigwa aw akiwenzii ezhi-wawezhikaabawit aaniin iw aapiji ke-izhi-kischi-kishiipisogwen inendank.**</span>
 
-</div>
+<span class="l-eng">*Now, then, now it was that already was the old man standing in place, thinking in what direction (the youth) would be going with such awful speed.*</span>
 
+<span class="l-gloss">Aaw, aaniish mii sa shaayiigwa aw akiwenzii ezhi-wawezhikaabawit (now then, by now the old man was standing in place) aaniin iw aapiji ke-izhi-kischi-kishiipisogwen inendank (wondering in what direction the youth would go with such terrific speed).</span>
 
-Mii dash kiiwenh kaa-aapiji-pwaanawi’aat chi-maajiiyaapoonit (and then, they say, after the old man could not get him started coasting down) mii kiiwaniskaat aw inini kiiy-aapa’otisot (the man got up and untied himself).
+<span class="l-orig">(791) Pā‘kạdcigu kāsasa‘ka∙a∙mīt aᵘ a‘kiwäⁿjī∙i∙c, mīsa’ kāntciwäpināt udābānā‘kōn.</span>
 
-803) > **Mii dash kii-akwamachiwetaabaanaat iiniw taabaanaakoon, mii dash enaat:  
-     > **Thereupon back to the top he fetched his toboggan, (and) said to the other:
+<span class="l-fiero">**Paakaj igo kaasasaka’amiit aw akiwenzhii’ish, mii sa kaanchiwepinat odaabaanaakoon.**</span>
 
-Mii dash kii-akwamachiwetaabaanaat iiniw taabaanaakoon (thereupon he hauled his toboggan back up to the top), mii dash enaat (and said to him):
+<span class="l-eng">*With great eagerness did the malicious old man dig his feet (into the snow for a purchase to push), and now he began heaving against his toboggan.*</span>
 
-804) > **"Aaw, kii\[n\] nitam dash," odinaan.**
+<span class="l-gloss">Paakaj igo kaasasaka’amiit aw akiwenzhii’ish (with great eagerness the malicious old man dug his feet in for a purchase), mii sa kaanchiwepinat odaabaanaakoon (and now he heaved against the toboggan).</span>
 
+<span class="l-orig">(792) Kāwīn kạnạgä wimādcāsī aᵘ udābānā‘k, ānawidạc iᵘ kīckābi‘kā intigu cōncā‘kwạt äjināgusit awạsîn tibi wäntcinō‘kickāgwän.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Gaawiin kanage wii-maajaasii aw odaabaanaak, aanawi dash iw kishkaabikaa intigo shoonshaakwat ezhinaagosit awasi(i)n tibi wenchi-nokishkaagwen.**</span>
 
-> <span class="l-gloss">"Now, then, it is your turn," he (thus) said to him.</span>
+<span class="l-eng">*But not at all would the toboggan move, even though the cliff was as smooth as ice, for such was the look of the rock down which (the youth) was to slide, (but the toboggan would not go).*</span>
 
-</div>
+<span class="l-gloss">Gaawiin kanage wii-maajaasii aw odaabaanaak (but not at all would the toboggan move), aanawi dash iw kishkaabikaa intigo shoonshaakwat ezhinaagosit awasi(i)n tibi wenchi-nokishkaagwen (even though the cliff was as smooth as ice, such was the look of the rock down which he was to slide, yet it would not budge).</span>
 
+<span class="l-orig">(793) Minawā änigu‘k ōgāntciwäbināt.</span>
 
-“Aaw, kii\[n\] nitam dash,” odinaan (“now then, it is your turn,” he said to him).
+<span class="l-fiero">**Minawaa enigok oogaanchiwebinaat.**</span>
 
-805) > **"Awisa\!" ikito akiwenzii.**
+<span class="l-eng">*Again with his might he heaved against it.*</span>
 
+<span class="l-gloss">Minawaa enigok oogaanchiwebinaat (again with all his might he heaved against it).</span>
 
-<div class="four-layer">
+<span class="l-orig">(794) Mīdạc änändạnk aᵘ inini:</span>
 
-> <span class="l-gloss">"All right\!" said the old man.</span>
+<span class="l-fiero">**Mii dash enendank aw inini:**</span>
 
-</div>
+<span class="l-eng">*And now willed the man:*</span>
 
+<span class="l-gloss">Mii dash enendank aw inini (and now the man willed):</span>
 
-“Awisa\!” ikito akiwenzii (“all right\!” said the old man).
+<span class="l-orig">(795) “Mānu, pạngī nīngamādcīyābōn!”</span>
 
-806) > **"Aaniish mii kaye niin ked-ishiwebisiyaan," inendam tibishkoo oniingwanan kaa-izhi-shawenimigoowizinit.**
+<span class="l-fiero">**“Maano, pangii niinga-maajiiyaaboon!”**</span>
 
+<span class="l-eng">*“Only let me slide but a little way!”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Maano, pangii niinga-maajiiyaaboon!” (“only let me slide just a little way!”)</span>
 
-> <span class="l-gloss">"Naturally the same thing will also happen to me," (so) he thought, (believing he would be blessed) in the same way as his son-in-law was blessed.</span>
+<span class="l-orig">(796) Mīdạc kägä‘t.</span>
 
-</div>
+<span class="l-fiero">**Mii dash keget.**</span>
 
+<span class="l-eng">*And so he did.*</span>
 
-“Aaniish mii kaye niin ked-ishiwebisiyaan,” inendam tibishkoo oniingwanan kaa-izhi-shawenimigoowizinit (“naturally the same will happen to me too,” he thought, believing he would be blessed just as his son-in-law was).
+<span class="l-gloss">Mii dash keget (and so he did).</span>
 
-807) > **Mii dash aw inini kaa-izhi-takopinaat odaabaanaakong kaa-iinabinigot sa go.**
+<span class="l-orig">(797) Mīdạc änändạnk:</span>
 
+<span class="l-fiero">**Mii dash enendank:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then he thought:*</span>
 
-> <span class="l-gloss">Thereupon the man bound him to the toboggan in the way that he himself had been tied.</span>
+<span class="l-gloss">Mii dash enendank (and then he thought):</span>
 
-</div>
+<span class="l-orig">(798) “Kījik ningīcawänimigobạn.”</span>
 
+<span class="l-fiero">**“Kiizhik ningii-shawenimigoban.”**</span>
 
-Mii dash aw inini kaa-izhi-takopinaat odaabaanaakong kaa-iinabinigot sa go (thereupon the man bound him to the toboggan just as he himself had been tied).
+<span class="l-eng">*“The cedar took pity upon me once in times past.”*</span>
 
-808) > **Mii dash kiiwenh aa'iindashiikawaat wii-apiichi-maajii'aapooso aw odaabaan.**
+<span class="l-gloss">“Kiizhik ningii-shawenimigoban.” (“the cedar took pity on me once in times past.”)</span>
 
+<span class="l-orig">(799) Mīdạc kā∙i∙ji∙ā∙‘pidcinạgāskāt aᵘ utābān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Mii dash kaa-izhi-aapiji-nagaaskaat aw otaabaan.**</span>
 
-> <span class="l-gloss">And now they say that while he was busy with him, eager was the toboggan to coast away.</span>
+<span class="l-eng">*Thereupon the toboggan stopped in its downward flight.*</span>
 
-</div>
+<span class="l-gloss">Mii dash kaa-izhi-aapiji-nagaaskaat aw otaabaan (thereupon the toboggan stopped short in its downward flight).</span>
 
+<span class="l-orig">(800) Naskädạc inābiyu‘k! tibi‘ku wābạndạmäg kīckābi‘kā kīwâbạmāwa kījik pata‘kisut näwạdābi‘k.</span>
 
-Mii dash kiiwenh aa’iindashiikawaat wii-apiichi-maajii’aapooso aw odaabaan (and now, they say, while he was busy with him, the toboggan was eager to coast away).
+<span class="l-fiero">**Naske dash inaabiyok! tibi ko waabandameg kiishkaabikaa kii-wabamaawa kiizhik patakisot newadaabik.**</span>
 
-809) > **"Aaniish mii sa iw\!" odinaan.**
+<span class="l-eng">*Therefore now look you! wherever you behold a high cliff, there you will see a cedar standing near the edge of the rock.*</span>
 
+<span class="l-gloss">Naske dash inaabiyok! (so look you!) tibi ko waabandameg kiishkaabikaa (wherever you see a high cliff) kii-wabamaawa kiizhik patakisot newadaabik (you will see a cedar standing near the edge of the rock).</span>
 
-<div class="four-layer">
+<span class="l-orig">(801) Mī īni’ᵘ kācawänimigut aᵘ Macōs unīngwạnạn.</span>
 
-> <span class="l-gloss">"All right, now\!" he said to him.</span>
+<span class="l-fiero">**Mii iiniw kaa-shawenimigot aw Mashoos oniingwanan.**</span>
 
-</div>
+<span class="l-eng">*That was the one by whom was blessed the son-in-law of Mashos.*</span>
 
+<span class="l-gloss">Mii iiniw kaa-shawenimigot aw Mashoos oniingwanan (that was the one who took pity on Mashos’s son-in-law).</span>
 
-“Aaniish mii sa iw\!” odinaan (“all ready, now\!” he said to him).
+<span class="l-orig">(802) Mīdạc kīwäⁿ kā∙ā∙‘pidcipwānawi∙ā∙t tcimādcīyāpōnit mī kīwạniskāt awinini kīyāpa∙u∙tisut.</span>
 
-810) > **"Aaw, mii iw\!" ezhikaanchiwebinaat odaabaanaan.**
+<span class="l-fiero">**Mii dash kiiwenh kaa-aapiji-pwaanawi’aat chi-maajiiyaapoonit mii kiiwaniskaat aw inini kiiy-aapa’otisot.**</span>
 
+<span class="l-eng">*And then they say, after (the old man) could not start him coasting down, then did the man get up (and) untie himself.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Mii dash kiiwenh kaa-aapiji-pwaanawi’aat chi-maajiiyaapoonit (and then, they say, after the old man could not get him started coasting down) mii kiiwaniskaat aw inini kiiy-aapa’otisot (the man got up and untied himself).</span>
 
-> <span class="l-gloss">"Go ahead\!" He shoved off the toboggan.</span>
+<span class="l-orig">(803) Mīdạc kī∙a∙‘kwạmạtciwätābānāt īni’ᵘ tābānā‘kōn, mīdạc änāt: “</span>
 
-</div>
+<span class="l-fiero">**Mii dash kii-akwamachiwetaabaanaat iiniw taabaanaakoon, mii dash enaat:**</span>
 
+<span class="l-eng">*Thereupon back to the top he fetched his toboggan, (and) said to the other:*</span>
 
-“Aaw, mii iw\!” ezhikaanchiwebinaat odaabaanaan (“go ahead\!” and he shoved off the toboggan).
+<span class="l-gloss">Mii dash kii-akwamachiwetaabaanaat iiniw taabaanaakoon (thereupon he hauled his toboggan back up to the top), mii dash enaat (and said to him):</span>
 
-811) > **Pane go Mashoos maajiyaaboono, mii sa pane aabidaaboonot akiwenzii.**
+<span class="l-orig">(804) ‘Āᵘ, kīni‘tam dạc,” udinān.</span>
 
+<span class="l-fiero">**“Aaw, kii[n] nitam dash,” odinaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*“Now, then, it is your turn,” he (thus) said to him.*</span>
 
-> <span class="l-gloss">And then old Mashos started sliding off, forever away went coasting the old man.</span>
+<span class="l-gloss">“Aaw, kii[n] nitam dash,” odinaan (“now then, it is your turn,” he said to him).</span>
 
-</div>
+<span class="l-orig">(805) “Awisa!” i‘kito a‘kiwäⁿzī.</span>
 
+<span class="l-fiero">**“Awisa!” ikito akiwenzii.**</span>
 
-Pane go Mashoos maajiyaaboono (and away old Mashos went sliding off), mii sa pane aabidaaboonot akiwenzii (forever away coasting went the old man).
+<span class="l-eng">*“All right!” said the old man.*</span>
 
-812) > **Komaa pii kiiwenh shayiigwa paapiipaagi aw akiwenzi, ikitot:  
-     > **After a time, they say, then with a loud voice the old man began calling:
+<span class="l-gloss">“Awisa!” ikito akiwenzii (“all right!” said the old man).</span>
 
-Komaa pii kiiwenh shayiigwa paapiipaagi aw akiwenzi, ikitot (after a time, they say, then the old man began calling aloud, saying):
+<span class="l-orig">(806) “Ānīc mī kayä nīn kädiciwäbisiyān,” inändạm tibickō unīngwạnạn kā∙i∙jicawänimigōwizinit.</span>
 
-813) > **"Ninchiimaambaan\!" Minawaa, "Ninchiimaabaan\!" Minawaa, "Ninchiimaambaan\!"**
+<span class="l-fiero">**“Aaniish mii gaye niin ked-ishiwebisiyaan,” inendam tibishkoo oniingwanan kaa-izhi-shawenimigoowizinit.**</span>
 
+<span class="l-eng">*“Naturally the same thing will also happen to me,” (so) he thought, (believing he would be blessed) in the same way as his son-in-law was blessed.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Aaniish mii gaye niin ked-ishiwebisiyaan,” inendam tibishkoo oniingwanan kaa-izhi-shawenimigoowizinit (“naturally the same will happen to me too,” he thought, believing he would be blessed just as his son-in-law was).</span>
 
-> <span class="l-gloss">" my canoe\!" Again, "O my canoe\!" Again, " my canoe\!"</span>
+<span class="l-orig">(807) Mīdạc awinini kā∙i∙jita‘kupināt udābānā‘kung kā∙i∙nạbinigutsạgu.</span>
 
-</div>
+<span class="l-fiero">**Mii dash aw inini kaa-izhi-takopinaat odaabaanaakong kaa-iinabinigot sa go.**</span>
 
+<span class="l-eng">*Thereupon the man bound him to the toboggan in the way that he himself had been tied.*</span>
 
-“Ninchiimaambaan\!” Minawaa, “Ninchiimaabaan\!” Minawaa, “Ninchiimaambaan\!” (“my canoe\!” Again, “my canoe\!” Again, “my canoe\!”)
+<span class="l-gloss">Mii dash aw inini kaa-izhi-takopinaat odaabaanaakong kaa-iinabinigot sa go (thereupon the man bound him to the toboggan just as he himself had been tied).</span>
 
-814) > **Mii dash kiiwenh ingiw ikwewag kikenimaawaat shayiigwa oosiwaan kii-pakinawimint.**
+<span class="l-orig">(808) Mīdạc kīwäⁿ ā∙ī∙ndạcī‘kawāt wī∙a∙‘pī‘tcimādcī∙ā∙pōsu aᵘ udābān.</span>
 
+<span class="l-fiero">**Mii dash kiiwenh aa’iindashiikawaat wii-apiichi-maajii’aapooso aw odaabaan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And now they say that while he was busy with him, eager was the toboggan to coast away.*</span>
 
-> <span class="l-gloss">Thereupon it is said that the women knew that now was their father being vanquished in the contest.</span>
+<span class="l-gloss">Mii dash kiiwenh aa’iindashiikawaat wii-apiichi-maajii’aapooso aw odaabaan (and now, they say, while he was busy with him, the toboggan was eager to coast away).</span>
 
-</div>
+<span class="l-orig">(809) “Ānīc mīsa iᵘ!” udinān. “</span>
 
+<span class="l-fiero">**“Aaniish mii sa iw!” odinaan.**</span>
 
-Mii dash kiiwenh ingiw ikwewag kikenimaawaat shayiigwa oosiwaan kii-pakinawimint (thereupon, they say, the women knew that now their father was being vanquished in the contest).
+<span class="l-eng">*“All right, now!” he said to him.*</span>
 
-815) > **Mii dash i'iw ochiimaanini wa-izhi-maajaamagatinig.**
+<span class="l-gloss">“Aaniish mii sa iw!” odinaan (“all ready, now!” he said to him).</span>
 
+<span class="l-orig">(810) ‘Āᵘ, mī∙i∙ᵘ!” äjikāntciwäbināt udābānān.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Aaw, mii iw!” ezhikaanchiwebinaat odaabaanaan.**</span>
 
-> <span class="l-gloss">And then was his canoe eager to go.</span>
+<span class="l-eng">*“Go ahead!” He shoved off the toboggan.*</span>
 
-</div>
+<span class="l-gloss">“Aaw, mii iw!” ezhikaanchiwebinaat odaabaanaan (“go ahead!” and he shoved off the toboggan).</span>
 
+<span class="l-orig">(811) Panägu Micōs mādciyābōnu, mīsa‘pạnä ābidābōnut a‘kiwäⁿzī.</span>
 
-Mii dash i’iw ochiimaanini wa-izhi-maajaamagatinig (and then his canoe was eager to go).
+<span class="l-fiero">**Pane go Mashoos maajiyaaboono, mii sa pane aabidaaboonot akiwenzii.**</span>
 
-816) > **Mii dash iigiw ikwewag kischi-wiinamoowaat, wii-maajaamagatinig aanindi endanenimigonit.**
+<span class="l-eng">*And then old Mashos started sliding off, forever away went coasting the old man.*</span>
 
+<span class="l-gloss">Pane go Mashoos maajiyaaboono (and away old Mashos went sliding off), mii sa pane aabidaaboonot akiwenzii (forever away coasting went the old man).</span>
 
-<div class="four-layer">
+<span class="l-orig">(812) Kumā‘pī kīwäⁿ cavīgwa pāpīpāgi aᵘ a‘kiwäⁿzi, i‘kitut:</span>
 
-> <span class="l-gloss">Whereupon the women tried with great effort to hold it back, (but) it was eager to go where it was thought (the master) was.</span>
+<span class="l-fiero">**Komaa pii kiiwenh shayiigwa paapiipaagi aw akiwenzi, ikitot:**</span>
 
-</div>
+<span class="l-eng">*After a time, they say, then with a loud voice the old man began calling:*</span>
 
+<span class="l-gloss">Komaa pii kiiwenh shayiigwa paapiipaagi aw akiwenzi, ikitot (after a time, they say, then the old man began calling aloud, saying):</span>
 
-Mii dash iigiw ikwewag kischi-wiinamoowaat (whereupon the women tried with great effort to hold it back), wii-maajaamagatinig aanindi endanenimigonit (for it was eager to go to where its master was thought to be).
+<span class="l-orig">(813) “Nintcīmāmbān!” Minawā, “Nintcīmābān!” Minawā, “Nintcīmāmbān!”</span>
 
-817) > **Ani-takwabitoowaat; mii go kiiwenh ezhi-mamadweskaag iw chiimaanish, wa-apiichmaajamagak.**
+<span class="l-fiero">**“Ninchiimaambaan!” Minawaa, “Ninchiimaabaan!” Minawaa, “Ninchiimaambaan!”**</span>
 
+<span class="l-eng">*“ my canoe!” Again, “O my canoe!” Again, “ my canoe!”*</span>
 
-<div class="four-layer">
+<span class="l-gloss">“Ninchiimaambaan!” Minawaa, “Ninchiimaabaan!” Minawaa, “Ninchiimaambaan!” (“my canoe!” Again, “my canoe!” Again, “my canoe!”)</span>
 
-> <span class="l-gloss">They tried in vain to tie it down; but they say that the miserable boat got to creaking, so anxious was it to be off.</span>
+<span class="l-orig">(814) Mīdạc kīwäⁿ ingi’ᵘ i‘kwäwạg ki‘känimāwāt cayīgwa ōsiwān kī‘pa‘kinawimint.</span>
 
-</div>
+<span class="l-fiero">**Mii dash kiiwenh ingiw ikwewag kikenimaawaat shayiigwa oosiwaan kii-pakinawimint.**</span>
 
+<span class="l-eng">*Thereupon it is said that the women knew that now was their father being vanquished in the contest.*</span>
 
-Ani-takwabitoowaat (they tried in vain to tie it down); mii go kiiwenh ezhi-mamadweskaag iw chiimaanish (but, they say, the wretched canoe got to creaking), wa-apiichmaajamagak (so eager was it to be off).
+<span class="l-gloss">Mii dash kiiwenh ingiw ikwewag kikenimaawaat shayiigwa oosiwaan kii-pakinawimint (thereupon, they say, the women knew that now their father was being vanquished in the contest).</span>
 
-818) > **Mii dash kiiwenh aw inini kaa-kwiinawibii'aat, "Mii sa kegapii kii-paata'itisot," odinenimaan.**
+<span class="l-orig">(815) Mīdạc ‘iᵉi’ᵘ utcīmānini wâ∙i∙cimādcāmạgatinig.</span>
 
+<span class="l-fiero">**Mii dash i’iw ochiimaanini wa-izhi-maajaamagatinig.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then was his canoe eager to go.*</span>
 
-> <span class="l-gloss">And now they say that after the man had become tired waiting for the other's return, "Therefore at last has he done harm to himself," was his thought of him.</span>
+<span class="l-gloss">Mii dash i’iw ochiimaanini wa-izhi-maajaamagatinig (and then his canoe was eager to go).</span>
 
-</div>
+<span class="l-orig">(816) Mīdạc īgi’ᵘ i‘kwäwạg kiˢtciwīnạmōwāt, wīmādcāmạgatinig ānindi ändạnänimigunit.</span>
 
+<span class="l-fiero">**Mii dash iigiw ikwewag kischi-wiinamoowaat, wii-maajaamagatinig aanindi endanenimigonit.**</span>
 
-Mii dash kiiwenh aw inini kaa-kwiinawibii’aat (and now, they say, after the man had grown tired waiting for the other’s return), “Mii sa kegapii kii-paata’itisot,” odinenimaan (“so at last he has done harm to himself,” was his thought of him).
+<span class="l-eng">*Whereupon the women tried with great effort to hold it back, (but) it was eager to go where it was thought (the master) was.*</span>
 
-819) > **Mii dash eni-ashikiiwet.**
+<span class="l-gloss">Mii dash iigiw ikwewag kischi-wiinamoowaat (whereupon the women tried with great effort to hold it back), wii-maajaamagatinig aanindi endanenimigonit (for it was eager to go to where its master was thought to be).</span>
 
+<span class="l-orig">(817) Anita‘kwạbitōwāt; mīgu kīwäⁿ äjimạmạdwäskāg iᵘ tcīmānic, wâ∙a∙‘pī‘tcmādcāmạga‘k.</span>
 
-<div class="four-layer">
+<span class="l-fiero">**Ani-takwabitoowaat; mii go kiiwenh ezhi-mamadweskaag iw chiimaanish, wa-apiichmaajamagak.**</span>
 
-> <span class="l-gloss">And then on his way back home he went.</span>
+<span class="l-eng">*They tried in vain to tie it down; but they say that the miserable boat got to creaking, so anxious was it to be off.*</span>
 
-</div>
+<span class="l-gloss">Ani-takwabitoowaat (they tried in vain to tie it down); mii go kiiwenh ezhi-mamadweskaag iw chiimaanish (but, they say, the wretched canoe got to creaking), wa-apiichmaajamagak (so eager was it to be off).</span>
 
+<span class="l-orig">(818) Mīdạc kīwäⁿ awinini kā‘kwīnawibī∙ā∙t, “Mīsa’ käga‘pī kīpā‘ta∙i∙tisut,” udinänimān.</span>
 
-Mii dash eni-ashikiiwet (and then on his way back home he went).
+<span class="l-fiero">**Mii dash kiiwenh aw inini kaa-kwiinawibii’aat, “Mii sa kegapii kii-paata’itisot,” odinenimaan.**</span>
 
-820) > **Eni-tagwishing idash endaawaat owabandaan ezhinaagwatinig imaa kaa-tazhimamaanchikonamowaat iw chiimaan ingiw ikwewag.**
+<span class="l-eng">*And now they say that after the man had become tired waiting for the other’s return, “Therefore at last has he done harm to himself,” was his thought of him.*</span>
 
+<span class="l-gloss">Mii dash kiiwenh aw inini kaa-kwiinawibii’aat (and now, they say, after the man had grown tired waiting for the other’s return), “Mii sa kegapii kii-paata’itisot,” odinenimaan (“so at last he has done harm to himself,” was his thought of him).</span>
 
-<div class="four-layer">
+<span class="l-orig">(819) Mīdạc äni∙a∙cikīwät.</span>
 
-> <span class="l-gloss">And on his arrival there at home, he saw how it looked about the place where the women had striven to hold the canoe.</span>
+<span class="l-fiero">**Mii dash eni-ashikiiwet.**</span>
 
-</div>
+<span class="l-eng">*And then on his way back home he went.*</span>
 
+<span class="l-gloss">Mii dash eni-ashikiiwet (and then on his way back home he went).</span>
 
-Eni-tagwishing idash endaawaat (and on arriving home) owabandaan ezhinaagwatinig imaa kaa-tazhimamaanchikonamowaat iw chiimaan ingiw ikwewag (he saw how it looked at the place where the women had struggled to hold the canoe).
+<span class="l-orig">(820) Änitạgwicingidạc ändāwāt owâbạndān äjināgwạtinig imā kā‘tajimạmāntcikunạmowāt iᵘ tcīmān ingi’ᵘ i‘kwäwạg.</span>
 
-821) > **Mii dash imaa a'iintaawaat, mii dash keyaabi noongom entawagwen.**
+<span class="l-fiero">**Eni-tagwishing idash endaawaat owabandaan ezhinaagwatinig imaa kaa-tazhimamaanchikonamowaat iw chiimaan ingiw ikwewag.**</span>
 
+<span class="l-eng">*And on his arrival there at home, he saw how it looked about the place where the women had striven to hold the canoe.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Eni-tagwishing idash endaawaat (and on arriving home) owabandaan ezhinaagwatinig imaa kaa-tazhimamaanchikonamowaat iw chiimaan ingiw ikwewag (he saw how it looked at the place where the women had struggled to hold the canoe).</span>
 
-> <span class="l-gloss">And there they lived, and perhaps even to this day they may be there.</span>
+<span class="l-orig">(821) Mīdạc imā a∙ī∙ntāwāt, mīdạc keyābi nōngum äntawâgwän.</span>
 
-</div>
+<span class="l-fiero">**Mii dash imaa a’iintaawaat, mii dash keyaabi noongom entawagwen.**</span>
 
+<span class="l-eng">*And there they lived, and perhaps even to this day they may be there.*</span>
 
-Mii dash imaa a’iintaawaat (and there they lived), mii dash keyaabi noongom entawagwen (and perhaps even to this day they may be there).
+<span class="l-gloss">Mii dash imaa a’iintaawaat (and there they lived), mii dash keyaabi noongom entawagwen (and perhaps even to this day they may be there).</span>
 
-822) > **Pinawidis kii-agote Mashoos otaatisookaanan.**
+<span class="l-orig">(822) Pinawidis kī∙a∙gotä Mạcōs utātisō‘kānan.</span>
 
+<span class="l-fiero">**Pinawidis kii-agote Mashoos otaatisookaanan.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*The gizzard of the ruffed grouse now hangs aloft for the story of Mashos.*</span>
 
-> <span class="l-gloss">The gizzard of the ruffed grouse now hangs aloft for the story of Mashos.</span>
+<span class="l-gloss">Pinawidis kii-agote (the gizzard of the ruffed grouse now hangs aloft) Mashoos otaatisookaanan (for the story of Mashos).</span>
 
 </div>
-
-
-Pinawidis kii-agote (the gizzard of the ruffed grouse now hangs aloft) Mashoos otaatisookaanan (for the story of Mashos).

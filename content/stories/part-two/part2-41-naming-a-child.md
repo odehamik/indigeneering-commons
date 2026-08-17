@@ -3,17 +3,19 @@ title: "41. Naming a Child"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
+<div class="four-layer">
+
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-<div class="four-layer">
-
-<span class="l-eng">*(Ojibwe title not printed in 1919 — left for M.)*</span>
+(Ojibwe title not printed in 1919 — left for M.)
 
 NAMING A CHILD.
 
-<span class="l-src">***from Ojibwa Texts collected by William Jones (1919).***</span>
+<span class="l-eng">*Narrated by Penesi — Series 2 (Nos. 4–43), Fort William (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
+
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
 <span class="l-orig">(1) Mī∙i∙’ᵘ äjictcigäwād ō∙o∙māⁿ īgi’ᵘ anicinābäg.</span>
 
@@ -31,7 +33,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Giishpin awiya (when someone) waabamaad abinoojiiyan (sees a child; lit. “sees” — Jones renders “gives birth”) igiw idash weniijaanisiwaad (then they whose child it is; the parents) onandomaawaan (they summon him) bezhig akiwenziiyan (a certain old man), gomaa gaye mindimooyeyan (or else an old woman).</span>
 
-<span class="l-orig">(3) Ogạgwädcimāwān: “Kāwīnina kīdāwīnāsi ‘aᵍa’ᵘ ninīdcānisinān?”</span>
+<span class="l-orig">(3) Ogạgwädcimāwān: “Kāwīnina kīdāwīnāsi ‘aᵉa’ᵘ ninīdcānisinān?”</span>
 
 <span class="l-fiero">**Ogagwejimaawaan: “Gaawiin ina gidaa-wiinaasii a’aw niniijaanisinaan?”**</span>
 
@@ -39,7 +41,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Ogagwejimaawaan (they ask them): “Gaawiin ina (will not?) gidaa-wiinaasii (you would name him; negative) a’aw niniijaanisinaan (that child of ours; exclusive)?”</span>
 
-<span class="l-orig">(4) Kīcpîn dạc “Äyeᵍ” i‘kidot ‘aᵍa’ᵘ a‘kiwäzⁿi, kījā pạngī kägō omīnāwān, mämindagä asämān.</span>
+<span class="l-orig">(4) Kīcpîn dạc “Äyeᵉ” i‘kidot ‘aᵉa’ᵘ a‘kiwäzⁿi, kījā pạngī kägō omīnāwān, mämindagä asämān.</span>
 
 <span class="l-fiero">**Giishpin dash “Eya’” ikidod a’aw akiwenzii, giizhaa bangii gegoo omiinaawaan, memindage asemaan.**</span>
 
@@ -47,9 +49,9 @@ NAMING A CHILD.
 
 <span class="l-gloss">Giishpin dash (and if) “Eya’” (“Yes”) ikidod a’aw akiwenzii (says that old man), giizhaa (in advance) bangii gegoo omiinaawaan (a little something they give him), memindage asemaan (especially tobacco).</span>
 
-<span class="l-eng">*Jones prints “a‘kiwäzⁿi” here, with the raised ⁿ between z and i; everywhere else on this page the word is printed a‘kiwäⁿzī / a‘kiwäⁿzi. Preserved as printed; a printer’s transposition is suspected (cf. the preserved printer’s error in \#30).*</span>
+*Jones prints “a‘kiwäzⁿi” here, with the raised ⁿ between z and i; everywhere else on this page the word is printed a‘kiwäⁿzī / a‘kiwäⁿzi. Preserved as printed; a printer’s transposition is suspected (cf. the preserved printer’s error in #30).*
 
-<span class="l-orig">(5) Mīdạc ‘iᵍi’ᵘ änāwāt tci∙u∙ji‘tōwād wī‘kundiwin.</span>
+<span class="l-orig">(5) Mīdạc ‘iᵉi’ᵘ änāwāt tci∙u∙ji‘tōwād wī‘kundiwin.</span>
 
 <span class="l-fiero">**Mii dash i’iw enaawaad ji-ozhitoowaad wiikondiwin.**</span>
 
@@ -71,9 +73,9 @@ NAMING A CHILD.
 
 <span class="l-eng">*Now, the old man meditates upon what he has dreamed in a fast during his youth.*</span>
 
-<span class="l-gloss">A’awi dash akiwenzii (now that old man) naanaagadawendam (meditates) gaa-bi-ayinaabandang (upon what he has dreamed; changed conjunct, reduplicated) megwaa gii-bi-oshki-bimaadizid (while he was young in life) gii-makadeked (when he fasted).</span>
+<span class="l-gloss">A’awi dash akiwenzii (now that old man) naanaagadawendam (meditates) gaa-bi-ayinaabandang (upon what he has dreamed) megwaa gii-bi-oshki-bimaadizid (while he was young in life) gii-makadeked (when he fasted).</span>
 
-<span class="l-orig">(8) Kījā unānāgạtawänimān īni’ᵘ ạbinōdcīyạn wāᵍwīnāt.</span>
+<span class="l-orig">(8) Kījā unānāgạtawänimān īni’ᵘ ạbinōdcīyạn wāᵉwīnāt.</span>
 
 <span class="l-fiero">**Giizhaa onaanaagadawenimaan iniw abinoojiiyan waa-wiinaad.**</span>
 
@@ -81,7 +83,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Giizhaa (beforehand) onaanaagadawenimaan (he dwells in thought upon) iniw abinoojiiyan (that child) waa-wiinaad (whom he will name).</span>
 
-<span class="l-orig">(9) A‘pī∙i∙dac ‘iᵍiᵘ udcîdcîsäg kījigạt, iwa‘pī kīwāwīndạmowāt wīwīnkugäwāt, a‘pī kā‘kīji‘tōwād iᵘ wī‘kundiwin, unạndumāwān īni’ᵘ a‘kiwäⁿzīyạn.</span>
+<span class="l-orig">(9) A‘pī∙i∙dac ‘iᵉiᵘ udcîdcîsäg kījigạt, iwa‘pī kīwāwīndạmowāt wīwīnkugäwāt, a‘pī kā‘kīji‘tōwād iᵘ wī‘kundiwin, unạndumāwān īni’ᵘ a‘kiwäⁿzīyạn.</span>
 
 <span class="l-fiero">**Apii idash i’iw ojijiseg giizhigad, i’iw apii gii-waawiindamowaad wii-wiikongewaad, apii gaa-giizhitoowaad iw wiikondiwin, onandomaawaan iniw akiwenziiyan.**</span>
 
@@ -89,7 +91,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Apii idash (and when) i’iw ojijiseg giizhigad (the day comes due), i’iw apii gii-waawiindamowaad (the time they had appointed) wii-wiikongewaad (for when they would give the feast), apii gaa-giizhitoowaad (when they have made ready) iw wiikondiwin (the feast), onandomaawaan (they summon) iniw akiwenziiyan (the old man).</span>
 
-<span class="l-eng">*Jones prints “wīwīnkugäwāt”; elsewhere the feast verb is printed with the cluster ‘kungä (cf. ogạwī‘kungä∙ā∙wān, section 21). Preserved as printed; a printer’s transposition of the n is suspected. See the review log.*</span>
+*Jones prints “wīwīnkugäwāt”; elsewhere the feast verb is printed with the cluster ‘kungä (cf. ogạwī‘kungä∙ā∙wān, section 21). Preserved as printed; a printer’s transposition of the n is suspected. See the review log.*
 
 <span class="l-orig">(10) Kägōnidạc omīnāwān ạgwīwin, kayä dạc ‘i‘i’ᵘ mīdcîm kā‘kijitäg omīnāwān.</span>
 
@@ -99,7 +101,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Gegoon idash omiinaawaan (and something they give him) agwiwin (a covering — a blanket), gaye dash (and also) i’iw miijim gaa-giizhideg (the food that has been cooked) omiinaawaan (they give him).</span>
 
-<span class="l-orig">(11) Wīnidạc ‘aᵍa’ᵘ a‘kiwäⁿzī unạndumān ānint ạnicinābän, wīnigu udōnänimān mini‘k känạndumindwa ạnicinābäᵉg.</span>
+<span class="l-orig">(11) Wīnidạc ‘aᵉa’ᵘ a‘kiwäⁿzī unạndumān ānint ạnicinābän, wīnigu udōnänimān mini‘k känạndumindwa ạnicinābäᵉg.</span>
 
 <span class="l-fiero">**Wiin idash a’aw akiwenzii onandomaan aanind anishinaaben, wiin igo odoonenimaan minik genandomindwaa anishinaabeg.**</span>
 
@@ -107,7 +109,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Wiin idash a’aw akiwenzii (the old man himself too) onandomaan aanind anishinaaben (invites some people), wiin igo odoonenimaan (he himself decides) minik genandomindwaa (how many shall be invited) anishinaabeg (people).</span>
 
-<span class="l-orig">(12) Mīdạc iwạ‘pi kāgīgitot ‘aᵍa’ᵘ a‘kiwäⁿzi tạjindạnk i∙i∙ᵘ kägō kāki‘kändạnk mägwā kī∙u∙ckinīgit; owâwīndān i∙i∙ᵘ ina‘ka‘kä wā∙i∙jiwīnāt īni’ᵘ ạbinōdcīyạn.</span>
+<span class="l-orig">(12) Mīdạc iwạ‘pi kāgīgitot ‘aᵉa’ᵘ a‘kiwäⁿzi tạjindạnk i∙i∙ᵘ kägō kāki‘kändạnk mägwā kī∙u∙ckinīgit; owâwīndān i∙i∙ᵘ ina‘ka‘kä wā∙i∙jiwīnāt īni’ᵘ ạbinōdcīyạn.</span>
 
 <span class="l-fiero">**Mii dash iw apii gaagiigidod a’aw akiwenzii dazhindang i’iw gegoo gaa-gikendang megwaa gii-oshkiniigid; owaawiindaan i’iw inagake waa-izhi-wiinaad iniw abinoojiiyan.**</span>
 
@@ -123,7 +125,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Gakina gegoon (all things) wayaabandang anishinaabe (that a person sees) mii imaa wendinamowaad (it is from there that they obtain it) anishinaabeg wiindaawasowaad (people when they give names); gonimaa owe aki (perhaps this earth), gomaa gaye gichigami (or the sea), gomaa gaye baawitig (or the rapids), gomaa gaye endaso-ondaanimak (or every place the wind comes from), gomaa gaye giizisoog (or the suns), anangoog (the stars), aanakwad (cloud), mitigoog (trees), asin (stone), gonimaa gaye gakina igiw awesiiyag (or all the animal-folk), gakina gaye igiw giigoonyag (and all the fishes), gomaa gaye gakina bebaamisejig binesiwag (or all the birds that fly about).</span>
 
-<span class="l-eng">*¹ In a dream while fasting. \[Jones’s note; the marker stands on “sees” in his English, and the note is printed at the foot of the Ojibwe page 332.\] ² Perhaps sun and moon. — T. M. \[Michelson’s note on “suns.”\] Jones prints “anicicinābä” here (doubled ci); preserved as printed — a printer’s error, cf. \#30.*</span>
+*¹ In a dream while fasting. [Jones’s note; the marker stands on “sees” in his English, and the note is printed at the foot of the Ojibwe page 332.] ² Perhaps sun and moon. — T. M. [Michelson’s note on “suns.”] Jones prints “anicicinābä” here (doubled ci); preserved as printed — a printer’s error, cf. #30.*
 
 <span class="l-orig">(14) Mī∙i∙māⁿ ga‘kina wändinạmuwāt wāndawasūwāt.</span>
 
@@ -141,7 +143,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Naaningodinoo (at times) jiingwewidamoog (they speak loud and resounding) anishinaabeg (the people) wiindaawasowaad (when they give names).</span>
 
-<span class="l-orig">(16) Nānīngutinū kayä nagạmu ‘aᵍa’ᵘ anicinābä wāndawasut; mīdạc imāⁿ mägwā nạgạmut ạniwīndạnk ‘iᵍi’ᵘ ijini‘kāsuwin äjini‘kānāt īni’ᵘ abinōdciyạn.</span>
+<span class="l-orig">(16) Nānīngutinū kayä nagạmu ‘aᵉa’ᵘ anicinābä wāndawasut; mīdạc imāⁿ mägwā nạgạmut ạniwīndạnk ‘iᵉi’ᵘ ijini‘kāsuwin äjini‘kānāt īni’ᵘ abinōdciyạn.</span>
 
 <span class="l-fiero">**Naaningodinoo gaye nagamo a’aw anishinaabe wendaawasod; mii dash imaa megwaa nagamod ani-wiindang i’iw izhinikaazowin ezhinikaanaad iniw abinoojiiyan.**</span>
 
@@ -157,7 +159,7 @@ NAMING A CHILD.
 
 <span class="l-gloss">Mii iw gaa-onji-izhichigewaad (that is why they have done this), naaningodinoo (many a time) awiya gii-onji-bimaadizi (someone has therefrom lived — recovered) giishpin gii-wiinzod abinoojii (when a child has been named).</span>
 
-<span class="l-orig">(18) Ka‘kina dạc wī‘kidānāwa ‘iᵍi’ᵘ mīdcîm kā‘kījidänik.</span>
+<span class="l-orig">(18) Ka‘kina dạc wī‘kidānāwa ‘iᵉi’ᵘ mīdcîm kā‘kījidänik.</span>
 
 <span class="l-fiero">**Gakina dash wii-gidaanaawaa i’iw miijim gaa-giizhidenig.**</span>
 

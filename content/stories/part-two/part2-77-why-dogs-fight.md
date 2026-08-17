@@ -3,17 +3,19 @@ title: "77. Why Dogs Fight"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
+<div class="four-layer">
+
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-<div class="four-layer">
+(Ojibwe title not printed in 1919 — left for M.)
 
 WHY DOGS FIGHT, AND WHY PEOPLE ARE ENVIOUS.
 
-Told by Maajiigaaboo (Mādcīgābō) of Leech Lake.
+<span class="l-eng">*Narrated by Maajiigaaboo (Mādcīgābō) of Leech Lake*</span>
 
-<span class="l-src">***from Ojibwa Texts collected by William Jones (1919).***</span>
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
 <span class="l-orig">(1) Päcig aᵘ inini māminunäntạm: “Taga, ningasạgaswä∙ā∙g anicinābäg.”</span>
 
@@ -31,19 +33,19 @@ Told by Maajiigaaboo (Mādcīgābō) of Leech Lake.
 
 <span class="l-gloss">Mii sa gaa-izhi-nandomaad (and so he summoned) iniw ininiwan (the men), o’ow idash odinaan (and this he said to them): “Wenji-zagaswe’inagog (the reason I invite you to smoke is) gaawiin giinawind gidoogimaawisiimin (you and I have no chief). Gakina giiji-bimaadiziinaan (all our fellow living beings) ogimaawi (have a chief). Aga daga (come then), onaakonidiidaa (let us decree among ourselves) ge-ogimaawid (who shall be chief). O’ow idash (and this thing) giga-zhakamoonaanaan (we shall put into the mouth of) ge-ogimaawid (the one who is to be chief), o’o eteg (this that lies here).”</span>
 
-<span class="l-orig">(3) “Ānīc, waᵍa’wisa ta∙u∙gimāwi.”</span>
+<span class="l-orig">(3) “Ānīc, waᵉa’wisa ta∙u∙gimāwi.”</span>
 
 <span class="l-fiero">**“Aaniish, wa’aw isa da-ogimaawi.”**</span>
 
-<span class="l-eng">*“Why, let that one yonder be chief\!”*</span>
+<span class="l-eng">*“Why, let that one yonder be chief!”*</span>
 
-<span class="l-gloss">“Aaniish (why), wa’aw isa (that one there) da-ogimaawi (let him be chief)\!”</span>
+<span class="l-gloss">“Aaniish (why), wa’aw isa (that one there) da-ogimaawi (let him be chief)!”</span>
 
-<span class="l-orig">(4) Päcig mīnawa inini kāgīgitut: “Kikīpādisi, kāwīn tā∙u∙gimāwisī aᵍa’ᵘ. Ānīc, waᵍawisa ta∙u∙gimāwi, mī waᵍa’ᵘ näbwā‘kāt.”</span>
+<span class="l-orig">(4) Päcig mīnawa inini kāgīgitut: “Kikīpādisi, kāwīn tā∙u∙gimāwisī aᵉa’ᵘ. Ānīc, waᵉawisa ta∙u∙gimāwi, mī waᵉa’ᵘ näbwā‘kāt.”</span>
 
 <span class="l-fiero">**Bezhig miinawaa inini gaagiigidod: “Gigiibaadizi, gaawiin daa-ogimaawisii a’aw. Aaniish, wa’aw isa da-ogimaawi, mii wa’aw nebwaakaad.”**</span>
 
-<span class="l-eng">*Another man spoke, saying: “He is a fool, a chief that one could not be. Why, let that one yonder be chief, he that is wise\!”*</span>
+<span class="l-eng">*Another man spoke, saying: “He is a fool, a chief that one could not be. Why, let that one yonder be chief, he that is wise!”*</span>
 
 <span class="l-gloss">Bezhig miinawaa inini (another man) gaagiigidod (spoke, saying): “Gigiibaadizi (he is foolish), gaawiin daa-ogimaawisii (he could not be chief) a’aw (that one). Aaniish, wa’aw isa da-ogimaawi (why, let that one be chief), mii wa’aw nebwaakaad (the one who is wise).”</span>
 
@@ -55,7 +57,7 @@ Told by Maajiigaaboo (Mādcīgābō) of Leech Lake.
 
 <span class="l-gloss">Baanimaa go (then suddenly) bezhig inini (one man) wenji-bazigonjised (leaping up from his place) ezhi-nawadandang (seized in his mouth) i’iw wezhakamoonidiwaad (the thing they were to give one another to swallow).</span>
 
-<span class="l-orig">(6) Äjinawantamint kīwäⁿ, aᵍa’ᵘ kānawandandạnk.</span>
+<span class="l-orig">(6) Äjinawantamint kīwäⁿ, aᵉa’ᵘ kānawandandạnk.</span>
 
 <span class="l-fiero">**Ezhi-nawadamind giiwenh, a’aw gaa-nawadandang.**</span>
 
@@ -69,7 +71,7 @@ Told by Maajiigaaboo (Mādcīgābō) of Leech Lake.
 
 <span class="l-eng">*Thereupon he quickly dropped from his mouth that which he was going to swallow;*</span>
 
-<span class="l-gloss">Mii sa giiwenh (and so, they say) gaa-izhi-gidiskanozed (he let drop from his mouth) i’iw newandandangiban (that which he had been about to swallow; *preterite*).</span>
+<span class="l-gloss">Mii sa giiwenh (and so, they say) gaa-izhi-gidiskanozed (he let drop from his mouth) i’iw newandandangiban (that which he had been about to swallow).</span>
 
 <span class="l-orig">(8) Ningutci kīwäⁿ kībimi∙a∙‘täni ‘i’ᵘi’ᵘ näwandandangibạn.</span>
 
@@ -77,7 +79,7 @@ Told by Maajiigaaboo (Mādcīgābō) of Leech Lake.
 
 <span class="l-eng">*aside then, they say, lay that which he was going to swallow.*</span>
 
-<span class="l-gloss">Ningoji giiwenh (off to one side, they say) gii-bimi-ateni (there it lay) i’iw newandandangiban (the thing he would have swallowed; *preterite*).</span>
+<span class="l-gloss">Ningoji giiwenh (off to one side, they say) gii-bimi-ateni (there it lay) i’iw newandandangiban (the thing he would have swallowed).</span>
 
 <span class="l-orig">(9) Mīsa’ kīwäⁿ kā∙i∙jimīgātiwāt äjiga‘kinaku imā äyāwāt.</span>
 
@@ -93,7 +95,7 @@ Told by Maajiigaaboo (Mādcīgābō) of Leech Lake.
 
 <span class="l-eng">*And then they left one another alone.*</span>
 
-Mii sa gaa-izhi-booni’idiwaad (and then they let one another be).
+<span class="l-gloss">Mii sa gaa-izhi-booni’idiwaad (and then they let one another be).</span>
 
 <span class="l-orig">(11) “Mīsa kinawint i’ᵘi’ᵘ tcikakībātisiyạng, mīsa’ kīnawint ạnimuc kīgatigōmin. Mīsa’ kīnawint tcimāmawikībātisiyạnk. Mīdạc igu nä‘kwä‘kutātiyạngin tcimīkātiyạng. Kāwīn wīn awiya tatōtātisī. Mīdạc i’ᵘ∙i∙’ᵘ kīnawint kīkakībātisiwininān ändōtāguyạng.”</span>
 

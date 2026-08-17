@@ -3,141 +3,116 @@ title: "11. The awl and the cranberry"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 
+<div class="four-layer">
+
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
 
-**11. MEGOOS MASHKIIGIMIN GAYE.**
+> ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-**THE AWL AND THE CRANBERRY.**
+MEGŌS MACGĪGIMIN KAYÄ.
 
+<span class="l-fiero">**MEGOOS MASHKIIGIMIN GAYE.**</span>
 
-<div class="four-layer">
+THE AWL AND THE CRANBERRY.
 
-> <span class="l-eng">*from Ojibwa Texts collected by William Jones (1919).*</span>
+<span class="l-eng">*Narrated by Penesi — Series 2 (Nos. 4–43), Fort William (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
 
-</div>
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
+<span class="l-orig">(1) Ningudingisa’ gīⁿwäⁿ, kī∙i∙dāwạg me’gōs macgīgimin gayä; ạgāmîndä‘kudātiwạg.</span>
 
-*Fiero restoration by Weshki (sites.google.com/site/weshki). Four-layer gloss added by the Jones Corpus project, 2026-06-14 — Weshki’s Fiero and Jones’s English preserved unchanged; gloss line added.*
+<span class="l-fiero">**Ningoding sa giiwenh gii-daawag megoos mashkiigimin gaye; agaamindekodaadiwag.**</span>
 
-1)  > **Ningoding sa giiwenh gii-daawag megoos mashkiigimin gaye; agaamindekodaadiwag.**
+<span class="l-eng">*Now, once on a time, they say, there lived an Awl and a Cranberry; they lived on opposite sides of the fire.*</span>
 
+<span class="l-gloss">Ningoding sa giiwenh (now, once upon a time, they say) gii-daawag (they lived) megoos mashkiigimin gaye (an Awl and a Cranberry); agaamindekodaadiwag (they dwelt on opposite sides of the fire from each other).</span>
 
-<div class="four-layer">
+<span class="l-orig">(2) Mīdạc ä‘kidōwād kạnōnidiwād:</span>
 
-> <span class="l-gloss">Now, once on a time, they say, there lived an Awl and a Cranberry; they lived on opposite sides of the fire.</span>
+<span class="l-fiero">**Mii dash ekidowaad ganoonidiwaad:**</span>
 
-</div>
+<span class="l-eng">*And this they said when they conversed together:*</span>
 
+<span class="l-gloss">Mii dash ekidowaad (and this is what they said) ganoonidiwaad (as they talked with one another):</span>
 
-Ningoding sa giiwenh (now, once upon a time, they say) gii-daawag (they lived) megoos mashkiigimin gaye (an Awl and a Cranberry); agaamindekodaadiwag (they dwelt on opposite sides of the fire from each other).
+<span class="l-orig">(3) “Ānīn kīn kädōdạmạmbạn wī‘pinîsigōyạng?”</span>
 
-2)  > **Mii dash ekidowaad ganoonidiwaad:  
-    > **And this they said when they conversed together:
+<span class="l-fiero">**“Aaniin giin ge-doodamamban wii-bi-nisigooyang?”**</span>
 
-Mii dash ekidowaad (and this is what they said) ganoonidiwaad (as they talked with one another):
+<span class="l-eng">*“What would you do if some one should come to kill us?”*</span>
 
-3)  > **"Aaniin giin ge-doodamamban wii-bi-nisigooyang?"**
+<span class="l-gloss">“Aaniin giin (what about you) ge-doodamamban (would you do) wii-bi-nisigooyang (if someone were to come to kill us)?”</span>
 
-“Aaniin giin (what about you) ge-doodamamban (would you do) wii-bi-nisigooyang (if someone were to come to kill us)?”
+<span class="l-orig">(4) Mēdạc ä‘kidot megōs:</span>
 
+<span class="l-fiero">**Mii dash ekidod megoos:**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And then said Awl:*</span>
 
-> <span class="l-gloss">"What would you do if some one should come to kill us?"</span>
+<span class="l-gloss">Mii dash ekidod megoos (and then Awl said):</span>
 
-</div>
+<span class="l-orig">(5) “Nīndāsāgidcibi∙i∙wäsa nīn.</span>
 
+<span class="l-fiero">**“Nindaa-zaagijibi’iwe sa niin.**</span>
 
-4)  > **Mii dash ekidod megoos:  
-    > **And then said Awl:
+<span class="l-eng">*“I would indeed betake myself outside.*</span>
 
-Mii dash ekidod megoos (and then Awl said):
+<span class="l-gloss">“Nindaa-zaagijibi’iwe sa niin (as for me, I would run out of doors).</span>
 
-5)  > **"Nindaa-zaagijibi'iwe sa niin.  
-    > **"I would indeed betake myself outside.
+<span class="l-orig">(6) Kīnidạc, ānin kädodạmạmbạn?” īnāⁿ mạckīgimin.</span>
 
-“Nindaa-zaagijibi’iwe sa niin (as for me, I would run out of doors).
+<span class="l-fiero">**Giin dash, aaniin ge-doodamamban?” inaanh mashkiigimin.**</span>
 
-6)  > **Giin dash, aaniin ge-doodamamban?" inaanh mashkiigimin.**
+<span class="l-eng">*And as for you, what would you do?” she said to Cranberry.*</span>
 
-Giin dash (and you), aaniin ge-doodamamban (what would you do)?” inaanh mashkiigimin (she said to Cranberry).
+<span class="l-gloss">Giin dash (and you), aaniin ge-doodamamban (what would you do)?” inaanh mashkiigimin (she said to Cranberry).</span>
 
+<span class="l-orig">(7) “Kayänīn nindāsāgạdcibi∙i∙wä.”</span>
 
-<div class="four-layer">
+<span class="l-fiero">**“Gaye giin nindaa-zaagijibi’iwe.”**</span>
 
-> <span class="l-gloss">And as for you, what would you do?" she said to Cranberry.</span>
+<span class="l-eng">*“I would also run outside.”*</span>
 
-</div>
+<span class="l-gloss">“Gaye giin (I too) nindaa-zaagijibi’iwe (would run out of doors).”</span>
 
+<span class="l-orig">(8) Ningudingidạc ạnicinābän udōdisiguwān wīnisîndawa.</span>
 
-7)  > **"Gaye giin nindaa-zaagijibi'iwe."**
+<span class="l-fiero">**Ningoding dash anishinaaben odoodisigowaan wii-nisindwaa.**</span>
 
-“Gaye giin (I too) nindaa-zaagijibi’iwe (would run out of doors).”
+<span class="l-eng">*Now, once by some people were they visited, in order that by them they might be killed.*</span>
 
+<span class="l-gloss">Ningoding dash (now once) anishinaaben odoodisigowaan (by some people they were visited) wii-nisindwaa (so that they might be killed).</span>
 
-<div class="four-layer">
+<span class="l-orig">(9) Mī∙i∙dạc kägä‘t wâ∙i∙jisāgidcibạ‘tōd me’gōs, mēdạc imāⁿ kipạda‘kā‘kwisäd; kāwīn ogīkạskidōsin tcîgītcigwạ‘tād.</span>
 
-> <span class="l-gloss">"I would also run outside."</span>
+<span class="l-fiero">**Mii dash geget waa-izhi-zaagijibatood megoos, mii dash imaanh gii-badakaakwised; gaawiin ogii-gashkitoosiin ji-giichigwataad.**</span>
 
-</div>
+<span class="l-eng">*Accordingly, in truth, out of doors did Awl mean to run, whereupon she stuck into a pole; she was not able to get herself free.*</span>
 
+<span class="l-gloss">Mii dash geget (and so, truly) waa-izhi-zaagijibatood megoos (as Awl meant to run out of doors), mii dash imaanh gii-badakaakwised (she stuck fast there in a pole); gaawiin ogii-gashkitoosiin (she was not able) ji-giichigwataad (to pull herself free).</span>
 
-8)  > **Ningoding dash anishinaaben odoodisigowaan wii-nisindwaa.**
+<span class="l-orig">(10) Kayä wīndạc mạcgigimîn, kīsāgidcibạ‘to, mēdạc imāⁿ ạgwạdcing kipāskidcīcing.</span>
 
-Ningoding dash (now once) anishinaaben odoodisigowaan (by some people they were visited) wii-nisindwaa (so that they might be killed).
+<span class="l-fiero">**Gaye wiin dash mashkiigimin, gii-zaagijibatoo, mii dash imaanh agwajing gii-baashkijiishing.**</span>
 
+<span class="l-eng">*And as for Cranberry, she ran outside, and there out of doors she burst herself.*</span>
 
-<div class="four-layer">
+<span class="l-gloss">Gaye wiin dash mashkiigimin (and as for Cranberry), gii-zaagijibatoo (she ran outside), mii dash imaanh agwajing (and there outdoors) gii-baashkijiishing (she burst herself).</span>
 
-> <span class="l-gloss">Now, once by some people were they visited, in order that by them they might be killed.</span>
+<span class="l-orig">(11) Mīdābîsko kīnîsididisōwād.</span>
 
-</div>
+<span class="l-fiero">**Mii daabishko gii-nisididisoowaad.**</span>
 
+<span class="l-eng">*And so both of them killed themselves.*</span>
 
-9)  > **Mii dash geget waa-izhi-zaagijibatood megoos, mii dash imaanh gii-badakaakwised; gaawiin ogii-gashkitoosiin ji-giichigwataad.**
+<span class="l-gloss">Mii daabishko (and so in like manner) gii-nisididisoowaad (the two of them killed themselves).</span>
 
-Mii dash geget (and so, truly) waa-izhi-zaagijibatood megoos (as Awl meant to run out of doors), mii dash imaanh gii-badakaakwised (she stuck fast there in a pole); gaawiin ogii-gashkitoosiin (she was not able) ji-giichigwataad (to pull herself free).
+<span class="l-orig">(12) Mīsa∙ⁱ∙ ä‘kōsîd.</span>
 
+<span class="l-fiero">**Mii sa ekoozid.**</span>
 
-<div class="four-layer">
+<span class="l-eng">*And now that is the end (of the story).*</span>
 
-> <span class="l-gloss">Accordingly, in truth, out of doors did Awl mean to run, whereupon she stuck into a pole; she was not able to get herself free.</span>
-
-</div>
-
-
-10) > **Gaye wiin dash mashkiigimin, gii-zaagijibatoo, mii dash imaanh agwajing gii-baashkijiishing.**
-
-Gaye wiin dash mashkiigimin (and as for Cranberry), gii-zaagijibatoo (she ran outside), mii dash imaanh agwajing (and there outdoors) gii-baashkijiishing (she burst herself).
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And as for Cranberry, she ran outside, and there out of doors she burst herself.</span>
+<span class="l-gloss">Mii sa ekoozid (and that is the end of it).</span>
 
 </div>
-
-
-11) > **Mii daabishko gii-nisididisoowaad.**
-
-Mii daabishko (and so in like manner) gii-nisididisoowaad (the two of them killed themselves).
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And so both of them killed themselves.</span>
-
-</div>
-
-
-12) > **Mii sa ekoozid.**
-
-Mii sa ekoozid (and that is the end of it).
-
-
-<div class="four-layer">
-
-> <span class="l-gloss">And now that is the end (of the story).</span>
-
-</div>
-
