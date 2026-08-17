@@ -958,4 +958,6 @@ How secure can one feel at the place where one is?”*</span>
 
 *kā∙u∙nsi’tawạnk — ’from where we shall harken to (the rite),’ stem drafted gaa-onji-debisetawang / -doodisetawang, flagged. Closing line: a plain dialogue close (grandfather to grandson) — NOT a binewi-jiid carrier; kin to #62’s narrator’s-own-words / told-about close in the ceremonial cluster. The story ends here; #66 SUN AND MOON follows on p608/609. mitäwit anicinābä — ’the people perform the mystic rite’ (midewi-); named, never explained (firewall).*
 
+65. MIGHTY-ONE, BLACK-TAIL-OF-A-FISH, AND THE MYSTIC RITE.
+
 </div>

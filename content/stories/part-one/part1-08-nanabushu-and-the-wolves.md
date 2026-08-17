@@ -9,1040 +9,738 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-<span class="l-fiero">**(8) Nenabosho and the Wolves**</span>
+8\. NÄNABUSHU AND THE WOLVES.¹
 
-<span class="l-eng">*Fiero restoration by the Ojibwe Project / Baadwewdangig — Alan Corbiere, with Dr. Alana Johns & U-Toronto LIN458 (ojibweproject.weebly.com). Four-layer gloss added by the Jones Corpus project, 2026-06-14 — Corbiere’s Fiero and Jones’s 1919 English preserved verbatim (the source's table layout was rebuilt into clean lines); gloss line added.*</span>
+<span class="l-fiero">**8. NENABOZHO GAYE MA’IINGANAG.**</span>
 
-<span class="l-fiero">**Aaniish Nenabosho aano-inaabid, gaawiin awiya owaabamaasiin ji-abinid moozoon.**</span>
+NÄNABUSHU AND THE WOLVES (1)
 
-Naturally, Nenabosho tried looking about, but to no purpose: he saw nothing of any moose that was there.
+<span class="l-eng">*Narrated by Wâsagunäckạnk — Series 1 (Nos. 1–18), Bois Fort (per Michelson’s roster, Part I Preface p. XX; not credited on the story page itself).*</span>
 
-<span class="l-eng">*Aaniish Nenabosho aano-inaabid (now, when Nenabosho tried looking about in vain), gaawiin awiya owaabamaasiin (he did not see anyone) ji-abinid moozoon (any moose being there).*</span>
+<span class="l-fiero">***from Ojibwa Texts collected by William Jones (1917).***</span>
 
-<span class="l-fiero">**Ningoding zaaga’igan omadaagon\*.**</span>
+<span class="l-orig">(1) Mīdạc ningutinigu pạpāmusät awiya owâbạmān, kuniginin ma∙i∙ganaᵉ īzạn.</span>
 
-Now, by and by he came out upon a frozen lake.
+<span class="l-fiero">**Mii dash ningoding igo babaamosed awiya owaabamaan, goniginiin ma’iinganag izan.**</span>
 
-<span class="l-eng">*Ningoding (by and by) zaaga’igan omadaagon (he came out upon a lake — over the ice).*</span>
+<span class="l-eng">*Now, once on a time as he was travelling about, he saw somebody. Lo, they were wolves!*</span>
 
-<span class="l-fiero">**Ezhi-maajiiyaadagaagod, wabigamaanig beshwaabandang, awiya owaabamaan bimaadagaagopatoonid; aazha miinawaa, niiwiwa’.**</span>
+<span class="l-gloss">Mii dash ningoding igo (and then, once upon a time), babaamosed (as he was walking about), awiya owaabamaan (someone he saw), goniginiin ma’iinganag izan (lo — wolves, as it turned out!).</span>
 
-As he started forth on the ice, as nigh to the narrows of the lake he drew, he saw some one running past over the ice; then some more, four of them.
+*Jones prints the raised sort word-finally in ma∙i∙ganaᵉ; resolved to the proximate plural -g (they are the wolves of the next line, printed ma∙i∙ngạnạg with the full letter). Per M.’s obviative-number ruling, 2026-07-01. — Jones prints this word four ways across the story (ma∙i∙ganaᵉ · ma∙i∙ngạnạg · ma∙ī∙ngạnaᵉ · -ma∙ī∙ngạnạn); the variation is carried in Layer 1, not levelled.*
 
-<span class="l-eng">*Ezhi-maajiiyaadagaagod (as he started off across the ice), wabigamaanig beshwaabandang (drawing near to the narrows of the lake), awiya owaabamaan bimaadagaagopatoonid (he saw someone running past over the ice); aazha miinawaa, niiwiwa’ (and then some more, four of them).*</span>
+<span class="l-orig">(2) Kā∙i∙cipīpāgimāt, kā‘pīciicānit ‘iᵉi’māⁿ ayāt.</span>
 
-<span class="l-fiero">**Goniginiin, mahiingana’\!**</span>
+<span class="l-fiero">**Gaa-izhi-biibaagimaad, gaa-bi-izhi-izhaanid iimaa ayaad.**</span>
 
-Behold (they were) wolves\!
+<span class="l-eng">*After he had called aloud to them, then they came over to where he was.*</span>
 
-<span class="l-eng">*Goniginiin, mahiingana’\! (behold, wolves\!)*</span>
+<span class="l-gloss">Gaa-izhi-biibaagimaad (after he had called out to them), gaa-bi-izhi-izhaanid (they came over), iimaa ayaad (to where he was).</span>
 
-<span class="l-fiero">**Ezhi-biibaagimaad: “Nijiimijaa\* \[nishiimisaa\] akawe, ga-waabamininim\!”**</span>
+<span class="l-orig">(3) O∙ō∙widạc kī∙i∙‘kitōwạg īgi’ᵘ ma∙i∙ngạnạg: “Kägu päcu’ ā‘pitci icā‘kägun, kägō kīwī∙i∙gowā,” ugīināᵉ.</span>
 
-Then he called aloud to them: “O my little brothers\! Wait, I wish to see you.”
+<span class="l-fiero">**O’ow idash gii-ikidowag igiw ma’iinganag: “Gego besho aapiji izhaakegon, gegoo giwii-igowaa,” ogii-inaa.**</span>
 
-<span class="l-eng">*Ezhi-biibaagimaad (then he called aloud to them): “Nijiimijaa\* \[nishiimisaa\] akawe (“my little brothers, wait — \*for nishiimisaa, ‘my little brothers’\*), ga-waabamininim\!” (I want to see you\!”)*</span>
+<span class="l-eng">*And this said the wolves: “Go you not so very close, for he wishes to say something to you,” they said of him.*</span>
 
-<span class="l-fiero">**Geget gii-bijibatoowa’; ezhiwawenabinid ani-naazikawaad.**</span>
+<span class="l-gloss">O’ow idash gii-ikidowag igiw ma’iinganag (and this the wolves said), Gego besho aapiji izhaakegon (do not go too close), gegoo giwii-igowaa (he wants to tell you something), ogii-inaa (so it was said).</span>
 
-To be sure, they came to a sudden halt; then they sat down, while he went up to where they were.
+*8-G1 FLAG (’=g/n, unresolved): ugīināᵉ. Jones’s English reads “they said of him” — plural subject on an obviative object — but the verb shape carries neither -waan nor an unambiguous number. Left as printed; M. to rule. Cf. the resolved cases at §8, §16, §39, §46, §70. — RULED (M., 2026-08-12, deck v6): ogii-inaa — the final ’ removed; neither -g nor -n.*
 
-<span class="l-eng">*Geget gii-bijibatoowa’ (truly they came running to a stop); ezhi-wawenabinid (then they sat down) ani-naazikawaad (as he went up to them).*</span>
+<span class="l-orig">(4) Mīdạc kägä‘t nāgäwāsa wāntcigābāwiwāt kạnonāwāt.</span>
 
-<span class="l-fiero">**Ezhi-ganoonaad: “Niiji-saziikizi, aandi ezhaayeg?”**</span>
+<span class="l-fiero">**Mii dash geget naagewaasa wenji-gaabawiwaad ganoonaawaad.**</span>
 
-Then he spoke to them, saying: “My old friend, whither are you going?”
+<span class="l-eng">*Whereupon truly, at some distance away, was where they stood when they spoke to him.*</span>
 
-<span class="l-eng">*Ezhi-ganoonaad (then he spoke to them): “Niiji-saziikizi (“my old friend), aandi ezhaayeg?” (where are you going?”)*</span>
+<span class="l-gloss">Mii dash geget (and then truly), naagewaasa (some distance off), wenji-gaabawiwaad (was where they stood), ganoonaawaad (when they spoke to him).</span>
 
-<span class="l-fiero">**“Kaa, o’owidi, giizhigadikwaning, mii iwidi ezhaayaang.**</span>
+<span class="l-orig">(5) Wo∙ō∙widạc ugī∙i∙gowān: “Amạntcwīni’ᵘ kītōtạmäg ingutci wayābạminagogun? Kāwīnina indinawämāsīwānān kitinändāmina‘ku?</span>
 
-“Oh, over here, for the place of cedar boughs, is where we are bound.
+<span class="l-fiero">**O’ow idash ogii-igowaan: “Amanj wiin iw gidoodamaaneg ingoji wayaabaminagogwen? Gaawiin ina gidinawemaasiiwaanaan gidinendaamina go?**</span>
 
-<span class="l-eng">*“Kaa, o’owidi (“oh, over this way), giizhigadikwaning (to the place of cedar boughs), mii iwidi ezhaayaang (that is where we are going).*</span>
+<span class="l-eng">*Then this they were told: “I should like to know why you act so whenever I happen to see you anywhere. Is it always your idea that I am not your kinsman?*</span>
 
-<span class="l-fiero">**Niibinong gii-asanjigoobanig ogow gidooshimag, gichi-ayaaben ogii-nisaawaabaniin.**</span>
+<span class="l-gloss">O’ow idash ogii-igowaan (and this they were told by him), Amanj wiin iw gidoodamaaneg (I wonder why you do as you do), ingoji wayaabaminagogwen (wherever I may happen to see you), Gaawiin ina gidinawemaasiiwaanaan (is it that we are not kin to one another?), gidinendaamina go (is that indeed what you think?).</span>
 
-Last summer did these nephews of yours make a cache there, a great bull (moose) they killed then.
+<span class="l-orig">(6) Päcuginīnigu kitinawämininim; mīginīnigu ‘aᵉa’ᵘ kōsiwā nīdcikiwäⁿzi.”</span>
 
-<span class="l-eng">*Niibinong (last summer) gii-asanjigoobanig ogow gidooshimag (these nephews of yours made a cache there; \*preterite\*), gichi-ayaaben ogii-nisaawaabaniin (a great bull moose they killed then; \*preterite\*).*</span>
+<span class="l-fiero">**Besho gwiinini go gidinawemininim; mii gwiinini go a’aw goosiwaa niijikiwenzh.”**</span>
 
-<span class="l-fiero">**Mii dash iwidi ezhaayaang.**</span>
+<span class="l-eng">*Why, I am very closely related to you; now that father of yours is my brother.”*</span>
 
-Now, that is the place (for which) we are bound.”
+<span class="l-gloss">Besho gwiinini go gidinawemininim (very closely indeed am I related to you), mii gwiinini go a’aw goosiwaa niijikiwenzh (why, that father of yours is my fellow old man — my brother).</span>
 
-<span class="l-eng">*Mii dash iwidi ezhaayaang (and that is the place we are going).”*</span>
+*8-F: Päcuginīnigu / mīginīnigu — the -ginīnigu element is drafted here as gwiinini go (an emphatic), on the strength of the two parallel printings in one sentence; not attested elsewhere in the corpus. M.’s eye.*
 
-<span class="l-fiero">**“Ediwe, mii gaye niin iwidi ezhaayaan, giizhigadikwaning, - mii sa i’iw ji-ani-waawiijiiwinagog.**</span>
+<span class="l-orig">(7) O∙ō∙dạc ugī∙i∙nāngōmān īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn: “Nītcizazī‘kizī,” ugī∙i∙nān.</span>
 
-“Why, that is the place, too, for which I am bound, - to the place of the cedar boughs, so therefore it is my wish to go along with you.”
+<span class="l-fiero">**O’ow idash ogii-inaangomaan iniw akiwenzii-ma’iinganan: “Niijizazii’kizi,” ogii-inaan.**</span>
 
-<span class="l-eng">*“Ediwe (“why), mii gaye niin iwidi ezhaayaan (that is where I am going too), giizhigadikwaning (to the place of cedar boughs), mii sa i’iw ji-ani-waawiijiiwinagog (so it is my wish to go along with you).”*</span>
+<span class="l-eng">*And this was the way he told of how he was related to the old Wolf: “He is of my old brother,” he said to them.*</span>
 
-<span class="l-fiero">**Aaniish, mii iw zhigwa w\[e\]naagoshininig.**</span>
+<span class="l-gloss">O’ow idash ogii-inaangomaan (and this is how he named him kin), iniw akiwenzii-ma’iinganan (that old wolf-man), Niijizazii’kizi (my old friend, my fellow elder), ogii-inaan (he said to him).</span>
 
-Well, it was then evening.
+*8-V2: Jones prints nītcizazī‘kizī here and at §61; the same word in #9 (same narrator) prints nītcizạzī‘kisi and stands in that record as niijizazii’kisi. Rendered here to the page, final macron read short per the ī→i rule (42 attestations). Flagged as a cross-story spelling divergence, not corrected.*
 
-<span class="l-eng">*Aaniish, mii iw zhigwa wenaagoshininig (well, it was then evening).*</span>
+<span class="l-orig">(8) Mīdạc kā∙i∙nāt īni’ᵘ ugwisisini īni’ᵘ a‘kiwäⁿzīma∙ī∙ⁿgạnạn. “Ānīc nintōcimạg,” ugī∙i∙nāᵉ ‘iᵉi’ᵘ ma∙ī∙ngạnaᵉ.</span>
 
-<span class="l-fiero">**“Aaniish i’iw, Jiijiigwaanoowis, ani-nanda-oninamaasiwan, maagizhaa da-kisinaa dibikad.**</span>
+<span class="l-fiero">**Mii dash gaa-inaad iniw ogwisisini iniw akiwenzii-ma’iiganan. “Aaniish nindoozhimag,” ogii-inaag i’iw ma’iinganag.**</span>
 
-“Now, Thin-Tail, do you go find a place where to camp, for perhaps it will be cold in the night.
+<span class="l-eng">*And this was what he said to the son of the old Wolf: “Why (you are) my nephews,” he said to the Wolves.*</span>
 
-<span class="l-eng">*“Aaniish i’iw, Jiijiigwaanoowis (“now then, Thin-Tail), ani-nanda-oninamaasiwan (go find a place to camp), maagizhaa da-kisinaa dibikad (for perhaps it will be cold in the night).*</span>
+<span class="l-gloss">Mii dash gaa-inaad iniw ogwisisini (and this he said to his son), iniw akiwenzii-ma’iiganan (of the old wolf-man), Aaniish nindoozhimag (why, my nephews), ogii-inaag i’iw ma’iinganag (he said to the wolves).</span>
 
-<span class="l-fiero">**Daga, gi-mishoome’iwaa dani-andoo-oninamaa.”**</span>
+*Word-final raised sort resolved per M.’s obviative-number ruling: ugī∙i∙nāᵉ → ogii-inaag, ma∙ī∙ngạnaᵉ → ma’iinganag (plural object). The identical frame is resolved the same way in #9 §9 (ugī∙i∙nāᵉ … utōcimaᵉ → ogii-inaag … odoozhimaag). Per M., 2026.*
 
-I say, let your uncle find a place where to camp.”
+<span class="l-orig">(9) Wo∙ō∙widạc ugī∙i∙nān: “Ānindi äcāyäg? ugī∙i∙nān.”</span>
 
-<span class="l-eng">*Daga, gi-mishoome’iwaa dani-andoo-oninamaa.” (I say, let your uncle find a place to camp.”)*</span>
+<span class="l-fiero">**O’ow idash ogii-inaan: “Aaniindi ezhaayeg?” ogii-inaan.**</span>
 
-<span class="l-fiero">**Aaniish, mii sa geget Nenabosho ani-nanda’oninamaad.**</span>
+<span class="l-eng">*And this he said to them: “Whither are you going?” he said to them.*</span>
 
-So thereupon, truly did Nenabosho go to find a place to camp.
+<span class="l-gloss">O’ow idash ogii-inaan (and this he said to him), Aaniindi ezhaayeg (where are you going?), ogii-inaan (he said to him).</span>
 
-<span class="l-eng">*Aaniish, mii sa geget Nenabosho ani-nanda’oninamaad (so truly Nenabosho went to find a place to camp).*</span>
+*8-P1 printer’s error, preserved: the 1917 page closes the quotation after the speech-tag — “Ānindi äcāyäg? ugī∙i∙nān.” — carrying ugī∙i∙nān inside the quotation marks. Layer 1 stands as printed; the Fiero and English close the quotation at the question.*
 
-<span class="l-fiero">**Gaaw\[ii\] saa nitaawosesii, aano-wiijiiwaad i’iw mahiingana’. Ezhi-ganoonind Nenabosho: “Ambe sinoo, endoodamaang igo bimibatooyaang, mii gaye giin ge-doodaman.”**</span>
+<span class="l-orig">(10) “Wo∙ō∙witi nībinunk kini‘tāgäbạnīg īgi’ᵘ kitōcimạg, mīdạc iiwiti äcāyāng.</span>
 
-Not at all was he familiar with (their way of) travelling, as he tried going along with the Wolves. Then was Nenabosho told: “Come, as we do when we run along, so in like manner should you do too.”
+<span class="l-fiero">**“O’owidi niibinong gii-nitaagebaniig igiw gidoozhimag, mii dash iwidi ezhaayaang.**</span>
 
-<span class="l-eng">*Gaaw\[ii\] saa nitaawosesii (not at all was he skilled at travelling), aano-wiijiiwaad i’iw mahiingana’ (as he tried in vain to go along with the wolves). Ezhi-ganoonind Nenabosho (then Nenabosho was told): “Ambe sinoo (“come now), endoodamaang igo bimibatooyaang (as we do when we run along), mii gaye giin ge-doodaman.” (so you too should do.”)*</span>
+<span class="l-eng">*“Off over here last summer your nephews did some killing, and it is thither we are going:*</span>
 
-<span class="l-fiero">**Taayaa, gaye wiin doodam.**</span>
+<span class="l-gloss">O’owidi (over this way), niibinong gii-nitaagebaniig igiw gidoozhimag (last summer these nephews of yours made a kill), mii dash iwidi ezhaayaang (and that is where we are going).</span>
 
-Ah, and he did the same.
+<span class="l-orig">(11) Mīdạc a‘pạnä iwiti ki∙a∙sạntcikuyāngibạn ugīmī‘kawiāwābạnin.</span>
 
-<span class="l-eng">*Taayaa, gaye wiin doodam (ah, and he did the same).*</span>
+<span class="l-fiero">**Mii dash apane iwidi gii-asanjigooyaangiban ogii-mikawi’aawaabaniin.**</span>
 
-<span class="l-fiero">**Aaniish mii dash iw gaawiin gegoo i’iw ozoow, mii dash i’iw wiinag i’iw wezoowaad.**</span>
+<span class="l-eng">*for it was always there that we have cached what (my children) have found.*</span>
 
-Naturally, there was nothing in the way of a tail, therefore his penis was what he used for a tail.
+<span class="l-gloss">Mii dash apane iwidi (and always over there), gii-asanjigooyaangiban (was where we made our cache), ogii-mikawi’aawaabaniin (what they had found).</span>
 
-<span class="l-eng">*Aaniish mii dash iw gaawiin gegoo i’iw ozoow (now, there was nothing in the way of a tail), mii dash i’iw wiinag i’iw wezoowaad (so his penis was what he used for a tail).*</span>
+*8-F: ugīmī‘kawiāwābạnin — drafted ogii-mikawi’aawaabaniin (mikaw- ‘find’ + preterite obviative). The medial -i∙ā∙- is carried, not dissolved; M.’s eye.*
 
-<span class="l-fiero">**Gaawiin ganage noomag zhigwa ani-mashkawaakwadininig.**</span>
+<span class="l-orig">(12) Mīdạcigu iwiti ka‘kina kāici∙a∙sạntcikuyāngibạn mīdạc iwiti ānubimi∙i∙cāyānk.”</span>
 
-It was but a very little while before it was frozen stiff.
+<span class="l-fiero">**Mii dash igo iwidi gakina gaa-izhi-asanjigooyaangiban mii dash iwidi aano-bimi-izhaayaang.”**</span>
 
-<span class="l-eng">*Gaawiin ganage noomag (it was not at all a long while) zhigwa ani-mashkawaakwadininig (before it then froze stiff).*</span>
+<span class="l-eng">*Therefore over to the place where we had cached away everything is where we are endeavoring to go.”*</span>
 
-<span class="l-fiero">**“Geget mii maawiin iw ji-nibod gi-mishoomenaan, mashkawaakwadininig i’iw wiinag.**</span>
+<span class="l-gloss">Mii dash igo iwidi gakina (and so over there, all of it), gaa-izhi-asanjigooyaangiban (where we had cached it away), mii dash iwidi aano-bimi-izhaayaang (and that is where we are trying to get to).</span>
 
-“Surely now without doubt will our uncle die, for that his penis is frozen stiff.
+<span class="l-orig">(13) Ō∙o∙dạc ugī∙i∙nāᵉ ‘aᵉa’ᵘ Nänabucu: “Mī gayä nīn ‘i‘i’witi pämi∙i∙cāyān, mīsa∙i∙ī∙sạn kätạniciwītcīwinaguk,” ugīmāᵉ.</span>
 
-<span class="l-eng">*“Geget mii maawiin iw ji-nibod gi-mishoomenaan (“surely without doubt our uncle will die), mashkawaakwadininig i’iw wiinag (his penis being frozen stiff).*</span>
+<span class="l-fiero">**O’ow idash ogii-inaag a’aw Nenabozho: “Mii gaye niin iwidi bemi-izhaayaan, mii sa izan ge-ani-izhi-wiijiiwinagog,” ogii-imaa’.**</span>
 
-<span class="l-fiero">**Indawaa giizhoodoowaadaa.”**</span>
+<span class="l-eng">*And this to them said Nänabushu: “So am I bound for that place too, therefore I will go along with you,” he said to them.*</span>
 
-Therefore let us warm it for him.”
+<span class="l-gloss">O’ow idash ogii-inaag a’aw Nenabozho (and this Nenabozho said to them), Mii gaye niin iwidi bemi-izhaayaan (that is where I too am bound), mii sa izan ge-ani-izhi-wiijiiwinagog (so then I shall go along with you), ogii-imaa’ (he said to them).</span>
 
-<span class="l-eng">*Indawaa giizhoodoowaadaa.” (therefore let us warm it for him.”)*</span>
+*ugī∙i∙nāᵉ resolved to ogii-inaag (plural object — the wolves) per M.’s obviative-number ruling, as at §8. Per M., 2026. — 8-H2 HARD: the page prints ugīmāᵉ where the five other speech-tags in this story print ugī∙i∙nāᵉ / ugī∙i∙nān. Drafted ogii-imaa’ (treating -m- as the speech final), every letter carried; a printer’s error for ugī∙i∙nāᵉ is the competing reading. M. to rule. — RULED (M., 2026-08-12): the draft ogii-imaa’ STANDS.*
 
-<span class="l-fiero">**Mii dash a’aw bezhig mahiingan obiidawazhaan\* ezhi-wiiwakwepijigaadenig.**</span>
+<span class="l-orig">(14) Ānīc, mīsa kägä‘t cigwa kī∙ạ∙niwāwītciwāt. Ānīc kāwin kecīca’ utibi∙ā∙sīn ạniwīdciwāt. Ta‘kāsinini pimusäwāt.</span>
 
-Accordingly, with the top blanket of one of the wolves was it wrapped about the head.
+<span class="l-fiero">**Aaniish, mii sa geget zhigwa gii-ani-waa-wiijiiwaad. Aaniish gaawiin gezhiizhaa odibi’aasiin ani-wiijiiwaad. Dakaasinini bimosewaad.**</span>
 
-<span class="l-eng">*Mii dash a’aw bezhig mahiingan obiidawazhaan\* (then with one wolf’s top blanket; \*obiidawazhaan, ‘the wolf’s blanket / outer covering’\*) ezhi-wiiwakwepijigaadenig (it was wrapped about it).*</span>
+<span class="l-eng">*Well, it was true that he then went with them upon their journey. To be sure, he could hardly keep up as he travelled along with them. A cold wind was blowing as they went.*</span>
 
-<span class="l-fiero">**Aapiji igo wasitaawinaagozi aano-pimibatood.**</span>
+<span class="l-gloss">Aaniish, mii sa geget zhigwa gii-ani-waa-wiijiiwaad (well, truly then he set off along with them), Aaniish gaawiin gezhiizhaa odibi’aasiin (he could not travel fast enough to catch them up), ani-wiijiiwaad (as he went along with them), Dakaasinini bimosewaad (a cold wind blew as they walked).</span>
 
-And very awkward was his aspect as he tried in vain to run along.
+*8-H4 HARD: kecīca’ — drafted gezhiizhaa’ (gizhi- ‘fast’ + izhaa ‘go’, initial change; intervocalic c = zh per the key). The word-final raised sort is unresolved. M. to rule. — RULED (M., 2026-08-12): gezhiizhaa — the final ’ removed.*
 
-<span class="l-eng">*Aapiji igo wasitaawinaagozi (very awkward was his appearance) aano-pimibatood (as he tried in vain to run along).*</span>
+<span class="l-orig">(15) Mīdạc cigwa unāgucininig, “Mīmāwīni i∙ᵘ cigwa tcinạntagabäcīyạnk,” i‘kitōwạg. Mīdạc kägä‘t ạninạntakạbäciwāt.</span>
 
-<span class="l-fiero">**Zhigwa sa omikaan aapiji dabinawaanig.\***</span>
+<span class="l-fiero">**Mii dash zhigwa onaagoshininig, “Mii maawiin iw zhigwa ji-nanda-gabeshiyang,” ikidowag. Mii dash geget ani-nanda-gabeshiwaad.**</span>
 
-In time he found where there was excellent shelter from the wind.
+<span class="l-eng">*And then as evening was coming on, “It is perhaps now time for us to look for a place to camp,” they said. Thereupon they truly went seeking for a place to camp.*</span>
 
-<span class="l-eng">*Zhigwa sa omikaan aapiji dabinawaanig.\* (in time he found a place very well sheltered from the wind.)*</span>
+<span class="l-gloss">Mii dash zhigwa onaagoshininig (and then as it came on evening), Mii maawiin iw zhigwa ji-nanda-gabeshiyang (it must be time now to look for a camping place), ikidowag (they said), Mii dash geget ani-nanda-gabeshiwaad (and truly they went looking for a place to camp).</span>
 
-<span class="l-fiero">**“Mii sa omaa ji-nibaayang.” “Ii\! Gaawe sa, gidaa-giikajimin.”**</span>
+<span class="l-orig">(16) Kägä‘t cigwa umi‘kānāwa imāⁿ kabäciwāt; ạnōtc imāⁿ apạgata∙a∙nunk wäntci∙u∙ninạmānit. “Mīsa umā,” i‘kitōwaᵉ.</span>
 
-“Now, here is where we will sleep,” said Nenabosho. “Why, impossible\! We might be cold.”
+<span class="l-fiero">**Geget zhigwa omiikaanaawaa imaa gabeshiwaad; anooj imaa abagata’aanong wenji-oninamaanid. “Mii sa omaa,” ikidowag.**</span>
 
-<span class="l-eng">*“Mii sa omaa ji-nibaayang.” (“now, here is where we will sleep.”) “Ii\! Gaawe sa, gidaa-giikajimin.” (“why, no\! we would be cold.”)*</span>
+<span class="l-eng">*Very soon they found a place where they were to camp; all about a spot where the wind had full sweep was where they prepared a place to camp. “Here is a place,” they said.*</span>
 
-<span class="l-fiero">**“Daga, giin Jiijiigwaanoowis,” inimaawan iniw akiwenzii mahiinganan.**</span>
+<span class="l-gloss">Geget zhigwa omiikaanaawaa imaa gabeshiwaad (truly they soon found where to camp), anooj imaa abagata’aanong (all about there, where the wind sweeps through), wenji-oninamaanid (was where they made it ready), Mii sa omaa (here is the place), ikidowag (they said).</span>
 
-‘I say you, Thin-Tail, (go look for a camping place),’ thus to one said the old Wolf.
+*8-N5: apạgata∙a∙nunk — no corpus attestation; drafted abagata’aanong from Jones’s English (“where the wind had full sweep”). New lexeme, M.’s eye. — i‘kitōwaᵉ resolved to ikidowag (3p) per M.’s number ruling.*
 
-<span class="l-eng">*“Daga, giin Jiijiigwaanoowis,” (“I say you, Thin-Tail \[go look for a camping place\],”) inimaawan iniw akiwenzii mahiinganan (thus said the old wolf to one).*</span>
+<span class="l-orig">(17) Cigwa wī‘kacimōwạg; cayīgwa mīdạc kā∙i∙cikicipāgābawinit ‘iᵉi’ᵘ kawicimonit ānīc mīgu gayä wīn ändōtạnk ‘iᵉi’ᵘ kawicimunit.</span>
 
-<span class="l-fiero">**Geget mii dash i’iw nando-gabeshid aapiji omikaan enaasa’amanininig.**</span>
+<span class="l-fiero">**Zhigwa wii-gawishimowag; zhayiigwa mii dash gaa-izhi-giizhibaagaabawinid i’iw gawishimonid aaniish mii go gaye wiin endoodang i’iw gawishimonid.**</span>
 
-It was so that when he looked for a place to camp, he found a place that was exceedingly windy.
+<span class="l-eng">*At once they made ready to lie down; so after they had (each) circled a spot in which they were to lie, then the same thing did he when he lay down to sleep.*</span>
 
-<span class="l-eng">*Geget mii dash i’iw nando-gabeshid (truly, when he looked for a place to camp) aapiji omikaan enaasa’amanininig (he found a place that was very windy).*</span>
+<span class="l-gloss">Zhigwa wii-gawishimowag (now they made ready to lie down), zhayiigwa mii dash gaa-izhi-giizhibaagaabawinid (and then, after each had circled his place standing), i’iw gawishimonid (where they were to lie), aaniish mii go gaye wiin endoodang (and he did the same himself), i’iw gawishimonid (when he lay down).</span>
 
-<span class="l-fiero">**“Mii sa omaa ji-nibaayang.”**</span>
+<span class="l-orig">(18) O∙ō∙ ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙i∙ngạnạn: “Miziwä iᵘ īgi’ᵘ kitōcimạg i∙i∙māⁿ cingicimuwāt icikawicimun kayä; kuntigu kigī‘kạtc.”</span>
 
-“Here is where we will sleep.”
+<span class="l-fiero">**O’ow ogii-igoon iniw akiwenzii-ma’iinganan: “Miziwe iw igiw gidoozhimag iimaa zhingishimowaad izhi-gawishimon gaye; gondi go gigiikaj.”**</span>
 
-<span class="l-eng">*“Mii sa omaa ji-nibaayang.” (“here is where we will sleep.”)*</span>
+<span class="l-eng">*This he was told by the old Wolf: “In among where lie your nephews do you lie too; it seems as if you were cold.”*</span>
 
-<span class="l-fiero">**Aaniish misan odookwaakowebinaanan.**</span>
+<span class="l-gloss">O’ow ogii-igoon iniw akiwenzii-ma’iinganan (this he was told by the old wolf-man), Miziwe iw igiw gidoozhimag iimaa zhingishimowaad (right in among where your nephews are lying), izhi-gawishimon gaye (lie down there too), gondi go gigiikaj (it seems you are cold).</span>
 
-So a great pile of fire-wood he heaped on.
+*8-H5 HARD: kuntigu — drafted gondi go (particle + go). Not attested in the corpus; Jones’s English gives “it seems as if.” M. to rule. — RULED (M., 2026-08-12): the draft gondi go STANDS.*
 
-<span class="l-eng">*Aaniish misan odookwaakowebinaanan (so a great pile of firewood he heaped on).*</span>
+<span class="l-orig">(19) “Äyeᵉ, kägä‘t ningīkạtc.” Ānīc mīgu iᵘ äcimạdwäsininig īni’ᵘ wībitạn ‘aᵉa’ᵘ Nänabucu, ā‘pītcikī‘kạtcit.</span>
 
-<span class="l-fiero">**“A\[h\]aaw, Nenabosho, boodawen,” inaa Nenabosho.**</span>
+<span class="l-fiero">**“Eye’, geget ningiikaj.” Aaniish mii go iw ezhi-madwesininig iniw wiibidan a’aw Nenabozho, aapiiji-giikajid.**</span>
 
-‘All right, Nenabosho, do you kindle the fire,’ was told Nenabosho.
+<span class="l-eng">*“Yes, indeed I am cold.” Now, then the chatter of Nänabushu’s teeth could he heard, so very cold was he.*</span>
 
-<span class="l-eng">*“A\[h\]aaw, Nenabosho, boodawen,” (“all right, Nenabosho, kindle the fire,”) inaa Nenabosho (was Nenabosho told).*</span>
+<span class="l-gloss">Eye’, geget ningiikaj (yes, truly I am cold), Aaniish mii go iw ezhi-madwesininig iniw wiibidan (and so then the sound of his teeth was heard), a’aw Nenabozho, aapiiji-giikajid (Nenabozho, being very cold).</span>
 
-<span class="l-fiero">**Aaniish mii sa Nenabosho aanawi-boodawed.**</span>
+*8-P2 printer’s error, preserved: the 1917 English page (p. 77) prints “could he heard” for “could be heard.” Layer 3 stands as printed.*
 
-So accordingly Nenabosho tried in vain to kindle the fire.
+<span class="l-orig">(20) Mīdạc kägä‘t kā∙i∙cikawicimut i∙i∙māⁿ nisawicininit, ō∙o∙dạc kī‘kitowạn īni’ᵘ a‘kiwäⁿzīma∙i∙ngạnạn: “Tạga, kimicōmäiwā awi∙i∙‘k kibī‘tawacāniwān.”</span>
 
-<span class="l-eng">*Aaniish mii sa Nenabosho aanawi-boodawed (so Nenabosho tried in vain to kindle the fire).*</span>
+<span class="l-fiero">**Mii dash geget gaa-izhi-gawishimod iimaa nisawishininid, o’ow idash gii-ikidowan iniw akiwenzii-ma’iinganan: “Daga, gimishoomewaa awi’ik gibiitawashaaniwaan.”**</span>
 
-<span class="l-fiero">**Akawe giizhikisagoon ogii-shibaawebinaan.**</span>
+<span class="l-eng">*Thereupon truly, after he had lain down in the midst of where they lay, this then said the old Wolf: “Pray, let your uncle have the top-covering.”*</span>
 
-He first tried twirling a piece of cedar wood.
+<span class="l-gloss">Mii dash geget gaa-izhi-gawishimod (and so truly, when he had lain down), iimaa nisawishininid (there in the midst of where they lay), o’ow idash gii-ikidowan iniw akiwenzii-ma’iinganan (this then the old wolf-man said), Daga, gimishoomewaa awi’ik gibiitawashaaniwaan (come, lend your uncle your top-covering).</span>
 
-<span class="l-eng">*Akawe giizhikisagoon ogii-shibaawebinaan (first he tried twirling a piece of cedar wood).*</span>
+*Jones’s footnote ¹ (p. 75, on the facing English page): “Referring to the tail.” — 8-N1: kibī‘tawacāniwān / u‘pī‘tawacān, drafted gibiitawashaaniwaan / obiitawashaan (biitawa- ‘in a layer over’). New lexeme, M.’s eye. — awi∙i∙‘k read as awi’ik, 2p imperative of awi’- ‘lend to s.o.’; the same verb negated at §25.*
 
-<span class="l-fiero">**Ezhi-ganoonind: “Nenabosho, aaniin naa endoodaman wii-boodaweyan?”**</span>
+<span class="l-orig">(21) Mīdạc kägä‘t pīnānowäniwạn īni’ᵘ pācig, mīnawa īni’ᵘ pācig; mītugigu kāuntcinibāt. Kägä‘tsa kīcūngwān.</span>
 
-Then he was addressed: “Nenabosho, how do you go about it when you want to make a fire?
+<span class="l-fiero">**Mii dash geget bi-inaanowenwan iniw bezhig, miinawaa iniw bezhig; mii dog igo gaa-onji-nibaad. Geget sa giizhoongwaan.**</span>
 
-<span class="l-eng">*Ezhi-ganoonind (then he was addressed): “Nenabosho, aaniin naa endoodaman wii-boodaweyan? (“Nenabosho, how do you go about it when you want to make a fire?)*</span>
+<span class="l-eng">*Thereupon truly one of them tossed his tail over him, and the same (did) another; so in that way he went to sleep. Truly, very warm he slept.*</span>
 
-<span class="l-fiero">**Nashke sa, ganawaabamishin endoodaming waa-boodawengin.”**</span>
+<span class="l-gloss">Mii dash geget bi-inaanowenwan iniw bezhig (and truly one of them laid his tail over hither), miinawaa iniw bezhig (and another likewise), mii dog igo gaa-onji-nibaad (and that, it seems, is how he slept), Geget sa giizhoongwaan (truly he slept warm).</span>
 
-Just look, observe me (and see) the way it is done when fire is made.”
+*8-N2: the -aanowe- ‘tail’ verb family — bi-inaanowenwan here, gaa-izhi-inaanowenid at §26; cf. the tail-name Jiijiigwanowizh in #30. New to the ledger. — giizhoongwaan carries the page’s final -n (standard Fiero -ngwaam); not levelled.*
 
-<span class="l-eng">*Nashke sa, ganawaabamishin (just look, watch me) endoodaming waa-boodawengin.” (the way it is done when fire is made.”)*</span>
+<span class="l-orig">(22) Mīdạc ningutinigu kuckusit, kägä‘tsa ạbwäso. Ō∙ō∙widạc kī∙i∙‘kitō: “Kägä‘tsa, nintạbwäckāgunan īni’ᵘ animowāniuwucạn!”</span>
 
-<span class="l-fiero">**Goniginiin iniw akiwenzii mahiinganan bazigwiiwan, okwaakwishininig iniw misan ezhi-paashijigwaashkwaninid; mii sa ishkode ezhi-biskaakonenig.**</span>
+<span class="l-fiero">**Mii dash ningoding igo goshkozid, geget sa abwezo. O’ow idash gii-ikido: “Geget sa, nindabweshkaagonan iniw animowaaniowozhan!”**</span>
 
-Behold, the old Wolf then rose to his feet, (and) over where lay piled the heap of fire-wood he leaped; thereupon the fire blazed up.
+<span class="l-eng">*And now, when once he woke, he truly was in a sweat. So this he said: “Forsooth, but now I am made to sweat by these old dog-tails!”*</span>
 
-<span class="l-eng">*Goniginiin iniw akiwenzii mahiinganan bazigwiiwan (behold, the old wolf rose to his feet), okwaakwishininig iniw misan ezhi-paashijigwaashkwaninid (over where the firewood lay piled he leaped); mii sa ishkode ezhi-biskaakonenig (and thereupon the fire blazed up).*</span>
+<span class="l-gloss">Mii dash ningoding igo goshkozid (and then once, when he woke), geget sa abwezo (truly he was sweating), O’ow idash gii-ikido (and this he said), Geget sa, nindabweshkaagonan iniw animowaaniowozhan (truly, these old dog-tails are making me sweat).</span>
 
-<span class="l-fiero">**Zhigwa sa dibikadini, ezhi-kawishimod Nenabosho.**</span>
+*8-F: animowāniuwucạn — drafted animowaaniowozhan, every letter carried (animw- ‘dog’ + the -aanow- ‘tail’ medial + the pejorative, obviative plural). M.’s eye on the vowel run -niuwu-.*
 
-It was getting night, when down to sleep lay Nenabosho.
+<span class="l-orig">(23) Ningutci kā∙i∙ci∙a∙‘pạgita∙u∙t, ō∙ō∙dạc ugīmạdwä∙i∙gōn īni’ᵘ a‘kiwäⁿzīmaīngạnạn: “Kägätsa kitimīgāmāg īgi’ᵘ kitōcimạg,” ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnan.</span>
 
-<span class="l-eng">*Zhigwa sa dibikadini (it was getting night), ezhi-kawishimod Nenabosho (when Nenabosho lay down to sleep).*</span>
+<span class="l-fiero">**Ningoji gaa-izhi-apagida’od, o’ow idash ogii-madwe-igoon iniw akiwenzii-ma’iinganan: “Geget sa gidimaagimaag igiw gidoozhimag,” ogii-igoon iniw akiwenzii-ma’iinganan.**</span>
 
-<span class="l-fiero">**Edawaa Nenabosho\! Aapiji noondaagozi, epiichi-giikajid.**</span>
+<span class="l-eng">*When aside he had flung them, this he heard said to him by the old Wolf: “In truth, very shamefully you use your nephews,” he was told by the old Wolf.*</span>
 
-Poor Nenabosho\! He was heard making a very loud noise, he was so cold.
+<span class="l-gloss">Ningoji gaa-izhi-apagida’od (when he had flung them aside), o’ow idash ogii-madwe-igoon iniw akiwenzii-ma’iinganan (this he heard the old wolf-man say to him), Geget sa gidimaagimaag igiw gidoozhimag (truly you speak your nephews down to pitifulness), ogii-igoon iniw akiwenzii-ma’iinganan (he was told by the old wolf-man).</span>
 
-<span class="l-eng">*Edawaa Nenabosho\! (poor Nenabosho\!) Aapiji noondaagozi (very loud he was heard), epiichi-giikajid (he was so cold).*</span>
+*8-H1 HARD: the page prints kitimīgāmāg. Drafted gidimaagimaag (gidimaagi- ‘be pitiful’ + the -m final ‘by speech’), which answers Jones’s English “shamefully you use.” Three other printings in this story — kidinigāmāg §67, kitinigāmāg §74, kigī∙i∙nigāmā §59 — carry inigaa- ‘harm’ with the same -m final, all Englished “by saying that.” A vowel transposition (kitimāgimāg) is the competing reading. M. to rule; nothing levelled. — RULED (M., 2026-08-12): the draft gidimaagimaag STANDS.*
 
-<span class="l-fiero">**“Ishte, gi-mishoomenaan mii maawiin iw wii-kawajid, indawaa biidawashe’ig.”**</span>
+<span class="l-orig">(24) Ānīc wībạgu mīnawā ạnigī‘kạtci, ānīc cigwa mīnawā mạdwäwäsininig īni’ᵘ wībitạn.</span>
 
-“I declare, our uncle no doubt is about freezing to death, therefore put another cover over him.”
+<span class="l-fiero">**Aaniish wiiba go miinawaa ani-giikaji, aaniish zhigwa miinawaa madwewesininig iniw wiibidan.**</span>
 
-<span class="l-eng">*“Ishte, gi-mishoomenaan mii maawiin iw wii-kawajid (“I declare, our uncle no doubt is about to freeze to death), indawaa biidawashe’ig.” (therefore put a cover over him.”)*</span>
+<span class="l-eng">*So when in a little while he was again becoming cold, then already again the chatter of his teeth could be heard.*</span>
 
-<span class="l-fiero">**Bezhig ba-izhi-naanaweninid.**</span>
+<span class="l-gloss">Aaniish wiiba go miinawaa ani-giikaji (well, before long he grew cold again), aaniish zhigwa miinawaa madwewesininig iniw wiibidan (and then again the sound of his teeth was heard).</span>
 
-One then laid his tail over him.
+<span class="l-orig">(25) “Mīmāwīnigu cayīgwa tcigawạtcit ‘aᵉa’ᵘ kimicōmä∙i∙wā. Āninta wīni’ᵘ mīnawā awi∙ā∙siwäg mī∙i’∙ᵘ kibī‘tawacāniwā?”</span>
 
-<span class="l-eng">*Bezhig ba-izhi-naanaweninid (one then laid his tail over him).*</span>
+<span class="l-fiero">**“Mii maawiin igo zhayiigwa ji-gawadid a’aw gimishoomewaa. Aaniin dash wiin iw miinawaa awi’aasiweg mii iw gibiitawashaaniwaa?”**</span>
 
-<span class="l-fiero">**Wiiba go amajibiizo.**</span>
+<span class="l-eng">*“Without doubt your uncle is already freezing to death. Why do you not again let him have your top-coverings?”*</span>
 
-In a little while he became awake because of the warmth.
+<span class="l-gloss">Mii maawiin igo zhayiigwa ji-gawadid a’aw gimishoomewaa (surely your uncle is freezing to death by now), Aaniin dash wiin iw miinawaa awi’aasiweg (why then do you not lend him again), mii iw gibiitawashaaniwaa (that top-covering of yours?).</span>
 
-<span class="l-eng">*Wiiba go amajibiizo (in a little while he awoke from the warmth).*</span>
+<span class="l-orig">(26) Mīdạc kägä‘t ‘aᵉa’ᵘ pācig kā∙i∙ciinānuwänit, minawā ‘aᵉa’ᵘ pācig. Ānīc mīgu mīnawā kī∙ạ∙nikīcōsit.</span>
 
-<span class="l-fiero">**“Shii, geget sa ow animwaanoowish nindabweshkaagon\!”**</span>
+<span class="l-fiero">**Mii dash geget a’aw bezhig gaa-izhi-inaanowenid, miinawaa a’aw bezhig. Aaniish mii go miinawaa gii-ani-giizhoozid.**</span>
 
-“Oh, how really much am I made to sweat by this confounded tail of a dog\!”
+<span class="l-eng">*Thereupon truly, after one had tossed his tail over him, then another (did) likewise. Naturally then again he was warmed.*</span>
 
-<span class="l-eng">*“Shii, geget sa ow animwaanoowish nindabweshkaagon\!” (“oh, how I am made to sweat by this confounded dog’s tail\!”)*</span>
+<span class="l-gloss">Mii dash geget a’aw bezhig gaa-izhi-inaanowenid (and truly, after the one had laid his tail over), miinawaa a’aw bezhig (and then the other), Aaniish mii go miinawaa gii-ani-giizhoozid (and so again he grew warm).</span>
 
-<span class="l-fiero">**Aaniish wiiba go miinawaa giikaji. Ezhi-noondaagozid, “Aaniinde, biidawazhe’ig miinawaa gi-mishoome’iwaa.”**</span>
+<span class="l-orig">(27) Ānīc, mīdạc cīgwa tciwâbạninig, anic cay∙ī∙gwa wīmādcāwạg mīnawa.</span>
 
-So in a little while he was again cold. When he was heard making a noise, “Why, put another cover over your uncle,” (said the old Wolf).
+<span class="l-fiero">**Aaniish, mii dash zhigwa ji-waabaninig, aaniish zhayiigwa wii-maajaawag miinawaa.**</span>
 
-<span class="l-eng">*Aaniish wiiba go miinawaa giikaji (so in a little while he was cold again). Ezhi-noondaagozid (when he was heard making a noise), “Aaniinde, biidawazhe’ig miinawaa gi-mishoome’iwaa.” (“why, put another cover over your uncle,” \[said the old wolf\].)*</span>
+<span class="l-eng">*Well, it was now time for the morrow to come, so of course they were already anxious to be off again.*</span>
 
-<span class="l-fiero">**Bezhig ezhi-gii-ikidod: “Ingoji gosha ogii-apagidoon aano-biidawazhe’ag.”**</span>
+<span class="l-gloss">Aaniish, mii dash zhigwa ji-waabaninig (well, now it was near daybreak), aaniish zhayiigwa wii-maajaawag miinawaa (and already they wanted to be off again).</span>
 
-One then spoke up: “Why, off he flung the cover when I tried to put it over him.”
+<span class="l-orig">(28) Ānīc cayīgwa ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzima∙ī∙ngạnan: “Mīsa nōngum wunāgwucig tcitạgwicinạng iwiti pämī∙i∙cāyạnk kīcpîn kicī‘kāyạnk.”</span>
 
-<span class="l-eng">*Bezhig ezhi-gii-ikidod (one then spoke up): “Ingoji gosha ogii-apagidoon (“why, off he flung it) aano-biidawazhe’ag.” (when I tried to put it over him.”)*</span>
+<span class="l-fiero">**Aaniish zhayiigwa ogii-igoon iniw akiwenzii-ma’iinganan: “Mii sa noongom wenaagoshig ji-dagwishinang iwidi bemi-izhaayang giishpin gizhiikaayang.”**</span>
 
-<span class="l-fiero">**Geget miinawaa ba-izhii’inanooweninid iniw mahiinganan.**</span>
+<span class="l-eng">*So presently he was told by the old Wolf: “It is this evening that we shall arrive at the place for which we are bound, if only we hasten.”*</span>
 
-Truly again the wolf laid his tail (over him).
+<span class="l-gloss">Aaniish zhayiigwa ogii-igoon iniw akiwenzii-ma’iinganan (presently he was told by the old wolf-man), Mii sa noongom wenaagoshig ji-dagwishinang (it is this evening that we shall arrive), iwidi bemi-izhaayang (yonder where we are bound), giishpin gizhiikaayang (if we hurry).</span>
 
-<span class="l-eng">*Geget miinawaa ba-izhii’inanooweninid iniw mahiinganan (truly again the wolf laid his tail over him).*</span>
+<span class="l-orig">(29) Mīdạc kägä‘t kānicimādcāwāt, mīdạc ānupimiba‘tōt Nänabucu.</span>
 
-<span class="l-fiero">**Mii dash naa iw ezhi-waabaninig.**</span>
+<span class="l-fiero">**Mii dash geget gaa-ni-izhi-maajaawaad, mii dash aano-bimibatood Nenabozho.**</span>
 
-And so by that time it was day.
+<span class="l-eng">*Thereupon truly, as on their way they started, then with effort went Nänabushu running.*</span>
 
-<span class="l-eng">*Mii dash naa iw ezhi-waabaninig (and so by then it was day).*</span>
+<span class="l-gloss">Mii dash geget gaa-ni-izhi-maajaawaad (and truly, when they had started off), mii dash aano-bimibatood Nenabozho (Nenabozho ran along as best he could).</span>
 
-<span class="l-fiero">**Zhigwa gikizheb ezhi-ganoonind Nenabosho: “Naawkweg mii apii ge-oditamang i’iw asanjigon.”**</span>
+<span class="l-orig">(30) Ningutinigu bạpimusäwāt, “Mīmāwīn cigwa tcigīwīsiniyạnguban,” udigōn īni’ᵘ a‘kiwäⁿzīma∙i∙ngạnạn.</span>
 
-Then in the morning was Nenabosho addressed: “By noon is when we shall arrive at the cache.”
+<span class="l-fiero">**Ningoding igo babimosewaad, “Mii maawiin zhigwa ji-gii-wiisiniyanguban,” odigoon iniw akiwenzii-ma’iinganan.**</span>
 
-<span class="l-eng">*Zhigwa gikizheb ezhi-ganoonind Nenabosho (then in the morning Nenabosho was addressed): “Naawkweg mii apii ge-oditamang i’iw asanjigon.” (“by noon is when we shall reach the cache.”)*</span>
+<span class="l-eng">*Now, once as they were walking along, “It surely must be time for us to have eaten,” he was told by the old Wolf.*</span>
 
-<span class="l-fiero">**Ezhi-maajaawaad, odaanaang bimosewag iniw wiidakiwenziiyan moozhag oniigaanii’igoon.**</span>
+<span class="l-gloss">Ningoding igo babimosewaad (once, as they were walking along), Mii maawiin zhigwa ji-gii-wiisiniyanguban (it must be time we had eaten), odigoon iniw akiwenzii-ma’iinganan (he is told by the old wolf-man).</span>
 
-When they started, behind walked he and his old companion who always had him keep ahead.
+<span class="l-orig">(31) Mīsa kägä‘t cayīgwa Nänabucu inā: “Tạga, ạni∙a∙‘pītcipōdawän.”</span>
 
-<span class="l-eng">*Ezhi-maajaawaad (when they started), odaanaang bimosewag iniw wiidakiwenziiyan (behind walked he and his old companion) moozhag oniigaanii’igoon (who always had him keep ahead).*</span>
+<span class="l-fiero">**Mii sa geget zhayiigwa Nenabozho inaa: “Daga, ani-a’piichi-boodawen.”**</span>
 
-<span class="l-fiero">**Ningoding igo oganoonigoon akiwenzii mahiinganan: “Nenabosho, ambe sa noo, indawaa, gegoo osoowaaken i’iwe giinag, ozaam maazhimaagwad.**</span>
+<span class="l-eng">*It was true that presently Nänabushu was told: “Pray, go on ahead and have a fire built up.”*</span>
 
-And once he was told by the old Wolf: “Nenabosho, I beg of you, really, do not use your penis for a tail, for it smells too vile.
+<span class="l-gloss">Mii sa geget zhayiigwa Nenabozho inaa (truly then Nenabozho was told), Daga, ani-a’piichi-boodawen (come, go on and get a fire going).</span>
 
-<span class="l-eng">*Ningoding igo oganoonigoon akiwenzii mahiinganan (and once he was told by the old wolf): “Nenabosho, ambe sa noo, indawaa (“Nenabosho, I beg of you, really), gegoo osoowaaken i’iwe giinag (do not use your penis for a tail), ozaam maazhimaagwad (for it smells too vile).*</span>
+*8-F: ạni∙a∙‘pītcipōdawän — drafted ani-a’piichi-boodawen; the middle element is read as a’piichi- ‘to that degree / on ahead’ rather than aapiji ‘very’ (which Jones spells ā‘pitci at §3). M.’s eye.*
 
-<span class="l-fiero">**Indawaa go ezhichigeyamban mii iw izhichigen ji-bimoseyan.”**</span>
+<span class="l-orig">(32) Mīsa kägä‘t kā∙u∙‘kwā‘kwisitōt, mīdạc nạtunäwāt īni’ᵘ utickutä‘kānạn.</span>
 
-Therefore, according to the manner you are accustomed (to), so you do when you travel.
+<span class="l-fiero">**Mii sa geget gaa-okwaakwisidood, mii dash nandonewaad iniw odishkodekaanan.**</span>
 
-<span class="l-eng">*Indawaa go ezhichigeyamban mii iw izhichigen ji-bimoseyan.” (therefore, as you are accustomed, so do when you travel.”)*</span>
+<span class="l-eng">*Thereupon truly, after he had gathered his wood into a pile, he then sought for his flint.*</span>
 
-<span class="l-fiero">**Nenabosho mii sa geget ezhichiged, mii sa bijiinag mino-bimosed.**</span>
+<span class="l-gloss">Mii sa geget gaa-okwaakwisidood (truly, after he had piled up the wood), mii dash nandonewaad iniw odishkodekaanan (he then looked for his fire-striker).</span>
 
-Nenabosho then truly did so, whereupon he then travelled with ease.
+<span class="l-orig">(33) “Ānīn äcictcigäyạn?” udigōn īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnan.</span>
 
-<span class="l-eng">*Nenabosho mii sa geget ezhichiged (Nenabosho then truly did so), mii sa bijiinag mino-bimosed (whereupon he then travelled with ease).*</span>
+<span class="l-fiero">**“Aaniin ezhichigeyan?” odigoon iniw akiwenzii-ma’iinganan.**</span>
 
-<span class="l-fiero">**Aapiji go odibi’aa i’iw mahiingana’.**</span>
+<span class="l-eng">*“What are you doing?” he was asked by the old Wolf.*</span>
 
-And very well he kept pace with the Wolves.
+<span class="l-gloss">Aaniin ezhichigeyan (what are you doing?), odigoon iniw akiwenzii-ma’iinganan (he is asked by the old wolf-man).</span>
 
-<span class="l-eng">*Aapiji go odibi’aa i’iw mahiingana’ (and very well he kept pace with the wolves).*</span>
+<span class="l-orig">(34) Cigwa kanōnimān īni’ᵘ pācig: “Tạga, kīn, pōtawän,” inimāwạn.</span>
 
-<span class="l-fiero">**Zhigwa sa dagwishinoog asanjigoning.**</span>
+<span class="l-fiero">**Zhigwa ganoonimaan iniw bezhig: “Daga, giin, boodawen,” inimaawan.**</span>
 
-In time they arrived at the cache.
+<span class="l-eng">*Presently (the old Wolf) addressed one (of his sons): “I say, you kindle the fire,” thus (the son) was told.*</span>
 
-<span class="l-eng">*Zhigwa sa dagwishinoog asanjigoning (in time they arrived at the cache).*</span>
+<span class="l-gloss">Zhigwa ganoonimaan iniw bezhig (presently he spoke to one of them), Daga, giin, boodawen (come, you, make the fire), inimaawan (so he was told).</span>
 
-<span class="l-fiero">**Aazha danakamigiziwa’ moona’aminid asanjigon.**</span>
+*8-F: the page prints kanōnimān without the personal prefix u-; carried as printed and rendered ganoonimaan. M.’s eye.*
 
-Already were the others busily at work digging up the cache.
+<span class="l-orig">(35) Mīdạc kägä‘t pimiijāwạn i∙i∙māⁿ kī∙u∙kwā‘kwisitōt īni’ᵘ mi‘tigōn; cayīgwa äcipācitcikwāskwanutạminit, panägum ämiskwa‘kunänig.</span>
 
-<span class="l-eng">*Aazha danakamigiziwa’ moona’aminid asanjigon (already the others were busy digging up the cache).*</span>
+<span class="l-fiero">**Mii dash geget bimi-izhaawan iimaa gii-okwaakwisidood iniw mitigoon; zhayiigwa ezhi-baazhijigwaashkwanodaminid, banaagom emiskwaakonenig.**</span>
 
-<span class="l-fiero">**Oganoonigoon wiidakiwenziiyan: “Nenabosho, mii sa zhigwa ji-wiisiniyang.**</span>
+<span class="l-eng">*Thereupon (the young Wolf) went over to where (Nänabushu) had gathered the wood into a pile; the instant he leaped over (the wood), up then blazed the fire.*</span>
 
-He was addressed by his old companion: “Nenabosho it is now time for us to eat.
+<span class="l-gloss">Mii dash geget bimi-izhaawan iimaa (and truly he went over there), gii-okwaakwisidood iniw mitigoon (where he had piled the wood), zhayiigwa ezhi-baazhijigwaashkwanodaminid (the moment he leaped across it), banaagom emiskwaakonenig (straightway it blazed up red).</span>
 
-<span class="l-eng">*Oganoonigoon wiidakiwenziiyan (he was addressed by his old companion): “Nenabosho, mii sa zhigwa ji-wiisiniyang (“Nenabosho, it is now time for us to eat).*</span>
+*8-H3 HARD: panägum — carried whole as banaagom. In #9 (same narrator) the page prints pạnägu, which stands in that record as banaa go ‘nothing but / straightway’; the final -m here is unexplained. Not split, not levelled. M. to rule. — RULED (M., 2026-08-12): the draft banaagom STANDS.*
 
-<span class="l-fiero">**Ahaaw, wiijii’iwen ji-mooka’asanjigong.”**</span>
+<span class="l-orig">(36) “Na’, mīsai iᵘ äcictcigänk i∙i∙ᵘ wâpō‘tawängin.”</span>
 
-Come, go aid in the work of opening the cache.”
+<span class="l-fiero">**“Na, mii sa iw ezhichigeng i’iw waa-boodawengin.”**</span>
 
-<span class="l-eng">*Ahaaw, wiijii’iwen ji-mooka’asanjigong.” (come, help in opening the cache.”)*</span>
+<span class="l-eng">*“There, that is the way to do when one intends to make a fire.”*</span>
 
-<span class="l-fiero">**Geget Nenabosho wiijii’iwe i’iw mooka’igaadenig asanjigon.**</span>
+<span class="l-gloss">Na (there now), mii sa iw ezhichigeng (that is how it is done), i’iw waa-boodawengin (when one means to build a fire).</span>
 
-Truly, Nenabosho aided them in the work of opening the cache.
+*8-F: the page prints mīsai iᵘ — mii sa with a trailing -i running into the following demonstrative. Rendered mii sa iw; the printed -i is carried in Layer 1.*
 
-<span class="l-eng">*Geget Nenabosho wiijii’iwe i’iw mooka’igaadenig asanjigon (truly Nenabosho helped in the opening of the cache).*</span>
+<span class="l-orig">(37) Mīsa’ kā∙i∙ciwīsiniwāt i∙i∙māⁿ, mīdạc cigwa kī∙ạ∙nimādcāwāt; ānīc wī‘kagwätätạguicinōg.</span>
 
-<span class="l-fiero">**Zhayiigwa owaabandaanan Nenabosho.**</span>
+<span class="l-fiero">**Mii sa gaa-izhi-wiisiniwaad iimaa, mii dash zhigwa gii-ani-maajaawaad; aaniish wii-gagwe-dedagwishinoog.**</span>
 
-In a while Nenabosho saw (what was there).
+<span class="l-eng">*And so after they had eaten there, then presently upon their way they started; for they were trying to arrive there (that day).*</span>
 
-<span class="l-eng">*Zhayiigwa owaabandaanan Nenabosho (in a while Nenabosho saw what was there).*</span>
+<span class="l-gloss">Mii sa gaa-izhi-wiisiniwaad iimaa (and so after they had eaten there), mii dash zhigwa gii-ani-maajaawaad (they started on their way), aaniish wii-gagwe-dedagwishinoog (for they meant to try to get there).</span>
 
-<span class="l-fiero">**Etawaa, wadoobaakonisagoon gaye i’iw anagekwan gedaawananid.**</span>
+<span class="l-orig">(38) Kāwīn kạnagä ānugīpạngicimunit, nāwạntcic pimusäwạg.</span>
 
-Why, it was choice fire-wood and some bark that they were taking out.
+<span class="l-fiero">**Gaawiin ganage aano-gii-bangishimonid, naawanjizh bimosewag.**</span>
 
-<span class="l-eng">*Etawaa, wadoobaakonisagoon gaye i’iw anagekwan gedaawananid (why, it was choice firewood and some bark that they were taking out).*</span>
+<span class="l-eng">*They did not stop even when the sun went down, right on they kept going.*</span>
 
-<span class="l-fiero">**“Dawad, dawad,\* aweneniiwinenag ogow\!**</span>
+<span class="l-gloss">Gaawiin ganage aano-gii-bangishimonid (not even when the sun went down), naawanjizh bimosewag (straight on they walked).</span>
 
-“Stop, stop, you rascals\!
+*8-F: nāwạntcic — drafted naawanjizh (‘straight on, rather’); no corpus attestation. M.’s eye.*
 
-<span class="l-eng">*“Dawad, dawad,\* aweneniiwinenag ogow\! (“stop, stop, you rascals\! — \*dawad, ‘stop / leave it’\*)*</span>
+<span class="l-orig">(39) “Ānīc, mī∙i∙ᵘ päcu’ cigwa,” utigōᵉ. Mīdạc uskitibi‘kạtini a‘pī wạdi‘tamuwāt.</span>
 
-<span class="l-fiero">**Mii iw gaawiin wiin wiikaa miijisiim iniw mitigoshan\!”**</span>
+<span class="l-fiero">**“Aaniish, mii iw besho zhigwa,” odigoog. Mii dash oshki-dibikadini apii wadi’tamowaad.**</span>
 
-Why never is this wretched wood to be eaten.”
+<span class="l-eng">*“Well, it is a little way now,” he was told. And it was in the twilight when they arrived there.*</span>
 
-<span class="l-eng">*Mii iw gaawiin wiin wiikaa miijisiim iniw mitigoshan\!” (this wretched wood is never to be eaten\!”)*</span>
+<span class="l-gloss">Aaniish, mii iw besho zhigwa (well, it is close now), odigoog (he is told by them), Mii dash oshki-dibikadini apii wadi’tamowaad (and it was early night when they got there).</span>
 
-<span class="l-fiero">**“Nenabosho, gego ikidoken.**</span>
+*utigōᵉ resolved to odigoog (plural agent) per M.’s obviative-number ruling. Per M., 2026.*
 
-“Nenabosho, do not say that.
+<span class="l-orig">(40) Ānīc mīdạc i∙i∙māⁿ kā∙i∙cikabäciwāt kī∙u∙cikäwạg. Cigwasa nātasạntcigōwạg.</span>
 
-<span class="l-eng">*“Nenabosho, gego ikidoken (“Nenabosho, do not say that).*</span>
+<span class="l-fiero">**Aaniish mii dash iimaa gaa-izhi-gabeshiwaad gii-ozhigewag. Zhigwa sa naadasanjigoowag.**</span>
 
-<span class="l-fiero">**Nashke bijiinag gikizheb, giga-minowiisin.”**</span>
+<span class="l-eng">*Now, it was after they had gone into camp there that they built a shelter. Presently they went after (the contents of) the cache.*</span>
 
-Just you wait till in the morning, you will have nice food to eat.”
+<span class="l-gloss">Aaniish mii dash iimaa gaa-izhi-gabeshiwaad (and so there, when they had made camp), gii-ozhigewag (they built a lodge), Zhigwa sa naadasanjigoowag (presently they went to fetch the cache).</span>
 
-<span class="l-eng">*Nashke bijiinag gikizheb (just wait till the morning), giga-minowiisin.” (you will eat well.”)*</span>
+<span class="l-orig">(41) Ānīc kayä wīn minā aya∙ī∙, utō‘pā‘kunisạg mīnā. Mīnawā wạcạckwätowạn mīnā Nänabucu.</span>
 
-<span class="l-fiero">**Bangii miinawaa i’iw odoobaakonisag gaye iw anagekwan.**</span>
+<span class="l-fiero">**Aaniish gaye wiin miinaa ayi’ii, odoopaakonizag miinaa. Miinawaa wazhashkwedoon miinaa Nenabozho.**</span>
 
-A little was given him of the choice wood and the bark.
+<span class="l-eng">*And as for (Nänabushu) himself, he was given a certain thing, some choice firewood was he given. Besides, some fungus was given Nänabushu.*</span>
 
-<span class="l-eng">*Bangii miinawaa i’iw odoobaakonisag gaye iw anagekwan (a little of the choice wood and the bark was given him again).*</span>
+<span class="l-gloss">Aaniish gaye wiin miinaa ayi’ii (and he too was given a thing), odoopaakonizag miinaa (choice firewood he was given), Miinawaa wazhashkwedoon miinaa Nenabozho (and fungus was given Nenabozho).</span>
 
-<span class="l-fiero">**“Gego wiin noondaa dibik waabandangen. Baamaa gikizheb ga-wiisinimin.”**</span>
+*odoopaakonizag matches the same object in #30 §23 (utō‘pā‘kunisạg → odoopaakonizag), the parallel telling of this episode.*
 
-“Do not look at it during the night. Not till in the morning shall we eat.”
+<span class="l-orig">(42) “Kägu wīn kä∙ā∙pītcitibi‘kạk wâbạndangän; pāmāgu kigīcäp kīgawâbạndān,” kī∙i∙nā. Mīdạc kā∙i∙nint: “Pāmā kigicäp.”</span>
 
-<span class="l-eng">*“Gego wiin noondaa dibik waabandangen (“do not look at it during the night). Baamaa gikizheb ga-wiisinimin.” (not till the morning shall we eat.”)*</span>
+<span class="l-fiero">**“Gego wiin ge-aapiichi-dibikak waabandangen; baamaa go gigizheb giga-waabandaan,” gii-inaa. Mii dash gaa-inind: “Baamaa gigizheb.”**</span>
 
-<span class="l-fiero">**Mii sa zhigwa dibikadinig Nenabosho eni-kweshing odatoon i’iw gaa-miinind.**</span>
+<span class="l-eng">*“Don’t you look at it during the night time; not till in the morning shall you look at it,” he was told. And so this was what he was told: “Not till in the morning.”*</span>
 
-Thereupon, when it was night, then Nenabosho placed where he lay his head that which had been given him.
+<span class="l-gloss">Gego wiin ge-aapiichi-dibikak waabandangen (do not look at it through the night), baamaa go gigizheb giga-waabandaan (not until morning shall you look at it), gii-inaa (he was told), Mii dash gaa-inind (and this is what he was told), Baamaa gigizheb (not till morning).</span>
 
-<span class="l-eng">*Mii sa zhigwa dibikadinig (thereupon, when it was night) Nenabosho eni-kweshing odatoon i’iw gaa-miinind (Nenabosho placed at his head that which had been given him).*</span>
+<span class="l-orig">(43) Mīsa äcinānōntāyagäntạnk tcibwāwâbạninig. “Tạgapina, ningawâbạndān,” kī∙i∙nändạnk.</span>
 
-<span class="l-fiero">**Ezhi-nibaad Nenabosho.**</span>
+<span class="l-fiero">**Mii sa ezhi-naanoontaayagendang jibwaa-waabaninig. “Daga bina, ninga-waabandaan,” gii-inendang.**</span>
 
-Then to sleep went Nenabosho.
+<span class="l-eng">*And as he grew restless waiting for the morning before it was time to come, “Now, really, I should like to see it,” he (thus) thought.*</span>
 
-<span class="l-eng">*Ezhi-nibaad Nenabosho (then Nenabosho went to sleep).*</span>
+<span class="l-gloss">Mii sa ezhi-naanoontaayagendang (and so he grew restless in his mind), jibwaa-waabaninig (before daybreak), Daga bina, ninga-waabandaan (come now, I will have a look at it), gii-inendang (he thought).</span>
 
-<span class="l-fiero">**Ningoding igo dibikadinig wegoneniiwinen owaabandaan i’iwe gaa-miinind.**</span>
+*8-F: äcinānōntāyagäntạnk — drafted ezhi-naanoontaayagendang from Jones’s English (“grew restless waiting”); no corpus attestation. M.’s eye.*
 
-By and by, in the night, what should he do but look at that which had been given him.
+<span class="l-orig">(44) Mīsa kägä‘t kā∙i∙ciwâbạndạnk, ānīn kä∙i∙cinạnk wäyābandạnk kạgwānisạgimiˢtcā‘kwatini ‘iᵉi’ᵘ mōⁿsonạgic!</span>
 
-<span class="l-eng">*Ningoding igo dibikadinig (by and by, in the night) wegoneniiwinen owaabandaan i’iwe gaa-miinind (what should he do but look at that which had been given him).*</span>
+<span class="l-fiero">**Mii sa geget gaa-izhi-waabandang, aaniin ge-izhinang wayaabandang gagwaanisagi-michaakwadini i’iw moozonagizh!**</span>
 
-<span class="l-fiero">**Etiwe, goniginiin, moozonagish mii iwe iw wadoopaakonisagong gaa-izhinang, miinawaa wanagekwan mii iniw oshoobiin.**</span>
+<span class="l-eng">*It was true that after he had seen it, what should he behold as he looked at it but an enormously large moose-gut!*</span>
 
-Why, behold, a moose-gut was that which had appeared to him as choice fire-wood, and the bark was tenderloin.
+<span class="l-gloss">Mii sa geget gaa-izhi-waabandang (and truly, when he had looked at it), aaniin ge-izhinang wayaabandang (what should he see as he looked), gagwaanisagi-michaakwadini i’iw moozonagizh (but a terribly great moose-gut).</span>
 
-<span class="l-eng">*Etiwe, goniginiin, moozonagish (why, behold, a moose-gut) mii iwe iw wadoopaakonisagong gaa-izhinang (was what had appeared to him as choice firewood), miinawaa wanagekwan mii iniw oshoobiin (and the bark was tenderloin).*</span>
+*8-S1: the page prints the superior-ˢ in kạgwānisạgimiˢtcā‘kwatini. Per M.’s ruling of 2026-07-19 the superior-ˢ is the aspiration class (= spiritus ‘) with no distinct Fiero value; rendered michaa-.*
 
-<span class="l-fiero">**Mii go i’iw ezhi-pakwendang, geget ominopidaan.**</span>
+<span class="l-orig">(45) Mīdạc kā∙i∙cipa‘kwändạnk, mīdạc kā∙i∙ciwâbạninik, cayīgwa kwä‘kitāwạn; ānīn kä∙i∙cinawāt kagwānisạgimiˢtcā‘kwạtini ‘iᵉi’ᵘ mōⁿsunạgic!</span>
 
-Accordingly, when he bit off (a piece), he truly found it savory.
+<span class="l-fiero">**Mii dash gaa-izhi-bakwendang, mii dash gaa-izhi-waabaninig, zhayiigwa gwekitaawan; aaniin ge-izhinawaad gagwaanisagi-michaakwadini i’iw moozonagizh!**</span>
 
-<span class="l-eng">*Mii go i’iw ezhi-pakwendang (so then when he bit off a piece), geget ominopidaan (he truly found it savory).*</span>
+<span class="l-eng">*And now, after he had bitten off a piece, and then after he had looked at it, that moment (from where they sat) did they turn about to reach for something; (and) what was he to see but them (in the act of reaching hold of) a wonderfully large moose-gut!*</span>
 
-<span class="l-fiero">**Mii sa miinawaa ezhi-apikweshimod.**</span>
+<span class="l-gloss">Mii dash gaa-izhi-bakwendang (and after he had bitten a piece off), mii dash gaa-izhi-waabaninig (and then when day came), zhayiigwa gwekitaawan (they turned about), aaniin ge-izhinawaad (what should he see of them), gagwaanisagi-michaakwadini i’iw moozonagizh (but a terribly great moose-gut).</span>
 
-And then he used it again for a pillow.
+*8-F1: the Ojibwe kā∙i∙ciwâbạninik reads gaa-izhi-waabaninig ‘when it dawned’; Jones’s English gives “after he had looked at it.” Both layers stand as they are; the divergence is Jones’s, not the pipeline’s. — RULED (M., 2026-08-12): the gloss follows the Ojibwe (‘when it dawned’).*
 
-<span class="l-eng">*Mii sa miinawaa ezhi-apikweshimod (and then he used it again for a pillow).*</span>
+<span class="l-orig">(46) Ānīc cayīgwa kayä wīn kwä‘ki‘tā, ō∙o∙dạc ūgī∙i∙gōᵉ: “Intigōguca tibi‘kunk kīmạdwäntcigänābạn.”</span>
 
-<span class="l-fiero">**Zhigwa sa waabanini, pane go gaa-moojigizinid i’iw mahiingana’, wendago geget mino-wiisiniwa’.**</span>
+<span class="l-fiero">**Aaniish zhayiigwa gaye wiin gwekitaa, o’ow idash ogii-igoog: “Indigo gosha dibikong gii-madwenjigenaaban.”**</span>
 
-In time came the morning, and forthwith pleased were the Wolves, and very heartily indeed did they eat.
+<span class="l-eng">*So then also turned he in his seat to reach for something, and this he was told: “It truly seemed by the sound you made last night that you had been eating.”*</span>
 
-<span class="l-eng">*Zhigwa sa waabanini (in time came the morning), pane go gaa-moojigizinid i’iw mahiingana’ (and forthwith pleased were the wolves), wendago geget mino-wiisiniwa’ (and very heartily indeed did they eat).*</span>
+<span class="l-gloss">Aaniish zhayiigwa gaye wiin gwekitaa (so then he too turned about), o’ow idash ogii-igoog (and this he was told by them), Indigo gosha dibikong gii-madwenjigenaaban (it sounded for all the world as if you were eating last night).</span>
 
-<span class="l-fiero">**“Ahaaw, Nenabosho, gaye giin aabiiginan gida-shamigoowin.”**</span>
+*ūgī∙i∙gōᵉ resolved to ogii-igoog (plural agent) per M.’s obviative-number ruling. Per M., 2026. — 8-F: kīmạdwäntcigänābạn drafted gii-madwenjigenaaban (madwe- ‘audibly’ + -njige ‘eat’).*
 
-“Now, then, Nenabosho, do you too unwrap the food that was given you.”
+<span class="l-orig">(47) Cayīgwasa kayäwīn udānumạtäsitōn ‘iᵉ∙i’∙ᵘ kayä wīn kāmīnt.</span>
 
-<span class="l-eng">*“Ahaaw, Nenabosho, gaye giin aabiiginan gida-shamigoowin.” (“now then, Nenabosho, you too unwrap the food that was given you.”)*</span>
+<span class="l-fiero">**Zhayiigwa sa gaye wiin odaano-madesidoon i’iw gaye wiin gaa-miinind.**</span>
 
-<span class="l-fiero">**Nenabosho ezhi-waabandang, etawaa, mii geyaabi odoobaakonisag gaye i’iw wanagekwan.**</span>
+<span class="l-eng">*Already now was he too trying to take out the things that had been given to him.*</span>
 
-When Nenabosho looked at it, why, it was yet choice fire-wood and the bark.
+<span class="l-gloss">Zhayiigwa sa gaye wiin (now he too), odaano-madesidoon i’iw (tried in vain to set it out), gaye wiin gaa-miinind (what had been given him as well).</span>
 
-<span class="l-eng">*Nenabosho ezhi-waabandang (when Nenabosho looked at it), etawaa, mii geyaabi odoobaakonisag gaye i’iw wanagekwan (why, it was still choice firewood and the bark).*</span>
+*8-F: udānumạtäsitōn — drafted odaano-madesidoon (aano- ‘in vain’ + -sidoon ‘set, place’); no corpus attestation. M.’s eye.*
 
-<span class="l-fiero">**Ezhi-ganoonind Nenabosho: “Dibikong sa gigii-waabandaan o’ow.”**</span>
+<span class="l-orig">(48) Kīyänābitäcin ‘iᵉi’ᵘ tō‘pā‘kunisạg, kayä īni’ᵘ wạcackwätowạn kīyänābitäcin. Mīdạc ubā‘pi∙i∙gon.</span>
 
-Nenabosho was then told: “Last night you really looked at this.”
+<span class="l-fiero">**Giiyenaabideshin i’iw doopaakonizag, gaye iniw wazhashkwedoon giiyenaabideshin. Mii dash obaapi’igoon.**</span>
 
-<span class="l-eng">*Ezhi-ganoonind Nenabosho (Nenabosho was then told): “Dibikong sa gigii-waabandaan o’ow.” (“last night you really looked at this.”)*</span>
+<span class="l-eng">*The mark of his teeth was on the choice firewood, and on the fungus was the mark of his teeth. Thereupon fun was made of him.*</span>
 
-<span class="l-fiero">**“Gaawiin ningii-waabandaziin.”**</span>
+<span class="l-gloss">Giiyenaabideshin i’iw doopaakonizag (the tooth-mark lay on the choice firewood), gaye iniw wazhashkwedoon giiyenaabideshin (and on the fungus too the tooth-mark lay), Mii dash obaapi’igoon (and so he was laughed at).</span>
 
-“I did not look at it.”
+*8-N4: kīyänābitäcin — drafted giiyenaabideshin (the -aabide- ‘tooth’ medial + -shin ‘lie’); no corpus attestation. New lexeme, M.’s eye.*
 
-<span class="l-eng">*“Gaawiin ningii-waabandaziin.” (“I did not look at it.”)*</span>
+<span class="l-orig">(49) “Ānīn wändcitotạmạn ‘iᵉi’ᵘ kī∙i∙cictcigäyạn? kāwīn kitāgipạpāmändanzīn ä‘pī‘tcitibi‘kạk, nackädạc äji∙i∙nīgā∙i∙tisuyạn.</span>
 
-<span class="l-fiero">**“Nenabosho, gidenaabideshin dibikong i’iw gii-pakwendamoowanaan.”**</span>
+<span class="l-fiero">**“Aaniin wenji-doodaman i’iw gii-izhichigeyan? Gaawiin gidaa-gii-babaamendanziin e-aapiichi-dibikak, nashke dash ezhi-inigaa’idizoyan.**</span>
 
-“Nenabosho, you have left the mark of your teeth on what you must have taken a bite last night.”
+<span class="l-eng">*“For what reason did you do what you did? You should not have bothered with it during the night, for behold the disappointment you have done yourself!*</span>
 
-<span class="l-eng">*“Nenabosho, gidenaabideshin dibikong i’iw gii-pakwendamoowanaan.” (“Nenabosho, you left the mark of your teeth where you must have taken a bite last night.”)*</span>
+<span class="l-gloss">Aaniin wenji-doodaman i’iw gii-izhichigeyan (why did you do what you did?), Gaawiin gidaa-gii-babaamendanziin e-aapiichi-dibikak (you should not have troubled with it in the night), nashke dash ezhi-inigaa’idizoyan (look now how you have harmed yourself).</span>
 
-<span class="l-fiero">**“Indawaa, ashamig gi-mishoome’iwaa.”**</span>
+<span class="l-orig">(50) Kägätsa kāwīn kīni‘tānōntạⁿzī, iwidạc inigā‘tōyạn ‘iᵉi’ᵘ kimisạt. Ānīc, wägunäc wīn kämīdcit?”</span>
 
-“However, do you feed your uncle.”
+<span class="l-fiero">**Geget sa gaawiin ginitaa-noondanzii, iw idash inigaatooyan i’iw gimisad. Aaniish, wegonesh wiin ge-miijid?”**</span>
 
-<span class="l-eng">*“Indawaa, ashamig gi-mishoome’iwaa.” (“however, feed your uncle.”)*</span>
+<span class="l-eng">*Truthfully are you not good at giving heed, and on that account have you disappointed the craving of your belly. Why, what on earth is he going to eat?”*</span>
 
-<span class="l-fiero">**Mii sa geget ashamaa, wendago geget Nenabosho de-wiisini.**</span>
+<span class="l-gloss">Geget sa gaawiin ginitaa-noondanzii (truly you are not good at heeding), iw idash inigaatooyan i’iw gimisad (and so you bring your belly to grief), Aaniish, wegonesh wiin ge-miijid (well, what is he to eat then?).</span>
 
-Thereupon truly he was fed, and thoroughly indeed was Nenabosho satisfied with food.
+<span class="l-orig">(51) Mīsa intawā äci∙ạ∙camigut mīnawā ‘iᵉi’ᵘ. Ānīc umisawinạmawān. Mīdạc kā∙i∙ci∙a∙camigut, ānīc, mīsa’ kīwīsinit kayä wīn.</span>
 
-<span class="l-eng">*Mii sa geget ashamaa (thereupon truly he was fed), wendago geget Nenabosho de-wiisini (and thoroughly indeed was Nenabosho filled with food).*</span>
+<span class="l-fiero">**Mii sa indawaa ezhi-ashamigod miinawaa i’iw. Aaniish omisawinamawaan. Mii dash gaa-izhi-ashamigod, aaniish, mii sa gii-wiisinid gaye wiin.**</span>
 
-<span class="l-fiero">**Zhigwa sa ezhi-ganoonind Nenabosho: “Indawaa giiwen.**</span>
+<span class="l-eng">*And so accordingly was he again given that to eat. Now he felt a desire for (what they had). And after he was given food, why, he ate too.*</span>
 
-Presently was Nenabosho addressed: “Thereupon go you back home.
+<span class="l-gloss">Mii sa indawaa ezhi-ashamigod miinawaa i’iw (and so he was fed that again), Aaniish omisawinamawaan (he coveted what they had), Mii dash gaa-izhi-ashamigod (and when he had been fed), aaniish, mii sa gii-wiisinid gaye wiin (why, he ate too).</span>
 
-<span class="l-eng">*Zhigwa sa ezhi-ganoonind Nenabosho (presently Nenabosho was addressed): “Indawaa giiwen (“therefore go back home).*</span>
+<span class="l-orig">(52) Ō∙o∙dạc ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙ī∙ⁿgạnạn: “Ambäsạnō, papāmigusitā,” ugī∙i∙gōn.</span>
 
-<span class="l-fiero">**Gamaajiida’igoo gi-mindimoo’\[ye\]mish ge-miijid.”**</span>
+<span class="l-fiero">**O’ow idash ogii-igoon iniw akiwenzii-ma’iiganan: “Ambesanoo, babaamigozidaa,” ogii-igoon.**</span>
 
-We will send by you some food for your old woman to eat.”
+<span class="l-eng">*And this he was told by the old Wolf: “Pray, let us go travelling about with all our possessions,” he (thus) was told.*</span>
 
-<span class="l-eng">*Gamaajiida’igoo gi-mindimoo’\[ye\]mish ge-miijid.” (we will send food by you for your old woman to eat.”)*</span>
+<span class="l-gloss">O’ow idash ogii-igoon iniw akiwenzii-ma’iiganan (and this he was told by the old wolf-man), Ambesanoo, babaamigozidaa (please, let us move camp about), ogii-igoon (he was told).</span>
 
-<span class="l-fiero">**“Gaawiin ozaam bakade.**</span>
+<span class="l-orig">(53) “Wa∙a∙wä pājig kitōcîm kigapạpanạntawäntcigäm, mīgu iᵘ pā‘pic mīninān. Kägä‘t umāci∙ā∙n īni’ᵘ awäsīyạn.”</span>
 
-“No, she is too hungry.
+<span class="l-fiero">**“Wa’aw bezhig gidoozhim giga-babaa-nandawenjigem, mii go iw baapish miininaan. Geget omaazhi’aan iniw awesiiyan.”**</span>
 
-<span class="l-eng">*“Gaawiin ozaam bakade (“no, she is too hungry).*</span>
+<span class="l-eng">*“Along with all of these nephews of yours shall you go as you journey about hunting for game, and this gift I make you for all time. Truly, he is good in getting game.”*</span>
 
-<span class="l-fiero">**Maanoo ga-wiijiiwininim.”**</span>
+<span class="l-gloss">Wa’aw bezhig gidoozhim (this one nephew of yours), giga-babaa-nandawenjigem (you two will go about hunting), mii go iw baapish miininaan (and so far as that goes, I give him to you), Geget omaazhi’aan iniw awesiiyan (truly he overcomes the game).</span>
 
-Please let me go along with you.”
+*8-F2: the Ojibwe reads wa∙a∙wä pājig kitōcîm — “this ONE nephew of yours,” which is what §9’s continuation confirms (“One of my sons I give to you”); Jones’s English here reads “all of these nephews of yours.” Both layers stand as they are. — pā‘pic / mīninān drafted baapish / miininaan; M.’s eye. — RULED (M., 2026-08-12): the gloss follows the Ojibwe (‘this one nephew’).*
 
-<span class="l-eng">*Maanoo ga-wiijiiwininim.” (please let me go along with you.”)*</span>
+<span class="l-orig">(54) Mīdạc kägä‘t kā∙i∙cikusiwāt, a‘pạnä kāmādcānit ‘iᵉi’ᵘ utōckinawämiwā. Wī‘kāgunā pitcīnạg kānimādcāwäd.</span>
 
-<span class="l-fiero">**“Aaw, Nenabsohso, ga-wiijiiwigoo.**</span>
+<span class="l-fiero">**Mii dash geget gaa-izhi-goziwaad, apane gaa-maajaanid i’iw odoshkinawemiwaa. Wiikaa gonaa bijiinag gaa-ni-maajaawed.**</span>
 
-“Very well, Nenabosho, you may go along with us.
+<span class="l-eng">*It was true that when (he and the Wolf) left the camp, already off had gone their companions. Not for a while afterwards did they leave.*</span>
 
-<span class="l-eng">*“Aaw, Nenabsohso, ga-wiijiiwigoo (“very well, Nenabosho, you may go along with us).*</span>
+<span class="l-gloss">Mii dash geget gaa-izhi-goziwaad (and truly, when they moved camp), apane gaa-maajaanid i’iw odoshkinawemiwaa (their young men had already gone on), Wiikaa gonaa bijiinag gaa-ni-maajaawed (only after a good while did they set out).</span>
 
-<span class="l-fiero">**Aayaangwaamizin, gwayak wii-izhiwebizin.**</span>
+*8-V1: kusiwāt is rendered goziwaad here (goz- ‘move camp’, Jones s = z). The same Jones token stands as gozhiiwaad in the #9 record; flagged as a cross-story divergence for M., nothing altered in #9.*
 
-Do you be careful, in the right way do you conduct yourself.
+<span class="l-orig">(55) A‘pạnä ä∙i∙ci‘kawänit ‘iᵉi’ᵘ utōckinawämiwā mīdạc ạnipạpima∙ạ∙nāwāt.</span>
 
-<span class="l-eng">*Aayaangwaamizin, gwayak wii-izhiwebizin (be careful, conduct yourself rightly).*</span>
+<span class="l-fiero">**Apane e-izhi-gawenid i’iw odoshkinawemiwaa mii dash ani-babima’anaawaad.**</span>
 
-<span class="l-fiero">**Waabang giga-gozimin.**</span>
+<span class="l-eng">*Ever in the trail of their companions did they keep as they followed along behind.*</span>
 
-Tomorrow we will move camp.
+<span class="l-gloss">Apane e-izhi-gawenid i’iw odoshkinawemiwaa (always on the track of their young men), mii dash ani-babima’anaawaad (they went along following the trail).</span>
 
-<span class="l-eng">*Waabang giga-gozimin (tomorrow we will move camp).*</span>
+*8-F: ä∙i∙ci‘kawänit — drafted e-izhi-gawenid, on the -kawe- ‘track’ medial (cf. okawi’- in #74). M.’s eye.*
 
-<span class="l-fiero">**Wii-andawenjigewag ogow gidoozhimag, moozoon wii-andawaabamaawaan.”**</span>
+<span class="l-orig">(56) Mīdạc cigwa ningutingigu ạnipima∙ạ∙nāwāt, ninguting anī∙i∙nābiwāt, ugīwābạndānāwa upimwäckītīwinini kā∙u∙ntcimādcība‘tōnit.</span>
 
-For some game do these nephews of yours intend to hunt, for moose do they expect to hunt.”
+<span class="l-fiero">**Mii dash zhigwa ningoding igo ani-bima’anaawaad, ningoding ani-inaabiwaad, ogii-waabandaanaawaa obimweshkidiwinini gaa-onji-maajiibatoonid.**</span>
 
-<span class="l-eng">*Wii-andawenjigewag ogow gidoozhimag (these nephews of yours intend to hunt game), moozoon wii-andawaabamaawaan.” (for moose they expect to look.”)*</span>
+<span class="l-eng">*And then occasionally while they continued holding the trail of the others, once in a while as they looked when going along, they beheld the fresh droppings (in places) from which (their companions) started running (again).*</span>
 
-<span class="l-fiero">**Mii sa weyaabaninig ezhi-goziwaad.**</span>
+<span class="l-gloss">Mii dash zhigwa ningoding igo ani-bima’anaawaad (and then, now and again, as they held the trail), ningoding ani-inaabiwaad (once in a while looking as they went), ogii-waabandaanaawaa obimweshkidiwinini (they saw his droppings), gaa-onji-maajiibatoonid (from where he had started to run).</span>
 
-And so on the morrow they moved camp.
+<span class="l-orig">(57) Ō∙o∙dạc ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn: “Ạnī∙a∙yāmuˣ kitōcîm ‘iᵉi’ᵘ u‘pī‘tawacān.”</span>
 
-<span class="l-eng">*Mii sa weyaabaninig ezhi-goziwaad (and so on the morrow they moved camp).*</span>
+<span class="l-fiero">**O’ow idash ogii-igoon iniw akiwenzii-ma’iinganan: “Ani-ayaamo gidoozhim i’iw obiitawashaan.”**</span>
 
-<span class="l-fiero">**Aapiji gikizheb maajaawa’ i’iw odooshkinawemiwaa; wiikaa dash ani-maajaawag Nenabosho iniw wiidakiwenziiyan \[wiijiakiwenziiyan?\] maada’anaawaad mahiingana’.**</span>
+<span class="l-eng">*Now, this he was told by the old Wolf: “As you go, take with you the top-covering of your nephew.”*</span>
 
-Very early in the morning started the youths; and a long while afterwards departed Nenabosho and his old companion, they followed the path of the wolves.
+<span class="l-gloss">O’ow idash ogii-igoon iniw akiwenzii-ma’iinganan (and this he was told by the old wolf-man), Ani-ayaamo gidoozhim i’iw obiitawashaan (take along your nephew’s top-covering as you go).</span>
 
-<span class="l-eng">*Aapiji gikizheb maajaawa’ i’iw odooshkinawemiwaa (very early in the morning the youths started); wiikaa dash ani-maajaawag Nenabosho iniw wiidakiwenziiyan \[wiijiakiwenziiyan?\] (and a long while after, Nenabosho and his old companion departed) maada’anaawaad mahiingana’ (following the path of the wolves).*</span>
+*8-X1 HARD ⭐ NEW SORT (second corpus attestation): the page prints Ạnī∙a∙yāmuˣ with a raised x. The only other raised-x in the corpus is 15-X1 mōˣⁱ (P1 #15 §42), still open on M.’s docket. Drafted ani-ayaamo; the raised sort is carried in Layer 1 and given no Fiero value. M. to rule. — CLOSED (M., 2026-08-12): the Jones layer is a visual reference — the raised sort carries as printed, no ruling needed; Fiero ani-ayaamo stands.*
 
-<span class="l-fiero">**Nayaawakwenig mii iw oshikawaanigobanen i’iw moozoo.**</span>
+<span class="l-orig">(58) “Säⁿ! Ānīn kätotạmān i∙i∙ᵘ mackitīwinic käniayāyạn?” i‘kito ‘aᵉa’ᵘ Nänabucu.</span>
 
-At about noon was when they laid plans how to get at the moose.
+<span class="l-fiero">**“Senh! Aaniin ge-doodamaan iw mashkidiiwinish ge-ni-ayaayan?” ikido a’aw Nenabozho.**</span>
 
-<span class="l-eng">*Nayaawakwenig (at about noon) mii iw oshikawaanigobanen i’iw moozoo (was when they planned how to get at the moose; \*preterite\*).*</span>
+<span class="l-eng">*“Disgusting! What should I do with the yielding filth that I should take it along?” said Nänabushu.*</span>
 
-<span class="l-fiero">**Bezhig idash igo gii-maajiniizhawaanigoban,\* mii sa bima’anaawaad.**</span>
+<span class="l-gloss">Senh (faugh!), Aaniin ge-doodamaan iw mashkidiiwinish (what am I to do with that wretched dropping), ge-ni-ayaayan (that I should take it along?), ikido a’aw Nenabozho (said Nenabozho).</span>
 
-Now, one pursued after the moose, whereupon they trailed after (the moose and wolf).
+*8-N3: mackitīwin(ic) — drafted mashkidiiwin(ish), keyed to the -shkidiwin element already in the record at §56 (upimwäckītīwinini → obimweshkidiwinini). New lexeme, M.’s eye.*
 
-<span class="l-eng">*Bezhig idash igo gii-maajiniizhawaanigoban\* (now, one set off in pursuit of the moose; \*gii-maajiniizhawaanigoban, ‘he started chasing it’ — preterite\*), mii sa bima’anaawaad (whereupon they trailed after them).*</span>
+<span class="l-orig">(59) O∙ō∙widạc udigōn ini’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn: “Māmindạgä kigī∙i∙nigāmā ‘aᵉa’ᵘ kitōcîm.”</span>
 
-<span class="l-fiero">**Ningoding igo obimweshkidiwinini iniw mahiinganan gii-ani-ateni.**</span>
+<span class="l-fiero">**O’ow idash odigoon iniw akiwenzii-ma’iinganan: “Memindage gigii-inigaamaa a’aw gidoozhim.”**</span>
 
-And once some fresh dropping of the Wolf lay along the way.
+<span class="l-eng">*And this he was told by the old Wolf: “Miserably pitiful have you made your nephew by saying that.”*</span>
 
-<span class="l-eng">*Ningoding igo obimweshkidiwinini iniw mahiinganan gii-ani-ateni (and once some fresh droppings of the wolf lay along the way).*</span>
+<span class="l-gloss">O’ow idash odigoon iniw akiwenzii-ma’iinganan (and this he is told by the old wolf-man), Memindage gigii-inigaamaa a’aw gidoozhim (most sorely have you wronged your nephew by what you said).</span>
 
-<span class="l-fiero">**Nenabosho ezhi-ganoonind: “Nenabosho, ani-dakonaw iniw obiidawashaan aw gidoozhim.”**</span>
+*inigaam- = inigaa- ‘harm’ + the -m final ‘by speech’ — which is why Jones Englishes all four printings of this verb with “by saying that.” Ledger entry proposed.*
 
-Nenabosho was told: “Nenabosho, as you go along, pick up the top blanket of your nephew.”
+<span class="l-orig">(60) Obimināsi‘kạmini ‘iᵉi’ᵘ mackitīwin; äc∙i∙ōdā‘pinạminit mīdạc äcibā‘pāwäbinạminit; wābōyān idac ugīta‘kunạmini.</span>
 
-<span class="l-eng">*Nenabosho ezhi-ganoonind (Nenabosho was told): “Nenabosho, ani-dakonaw iniw obiidawashaan aw gidoozhim.” (“Nenabosho, as you go, pick up your nephew’s top blanket.”)*</span>
+<span class="l-fiero">**Obimi-naazikaminid i’iw mashkidiiwin; ezhi-odaapinaminid mii dash ezhi-baapaawebinaminid; waabooyaan idash ogii-dakonamini.**</span>
 
-<span class="l-fiero">**“Aaniinda ge-doodamaan animo-mooowish ge-ani-dakonamaan?”**</span>
+<span class="l-eng">*Then he went to where the fresh dropping was; when he reached (and) took it up, he then gave it a shaking; then a (white) blanket he was holding in his hand.*</span>
 
-“What am I to do with the foul dropping of a dog, that I should pick it up as I go along?”
+<span class="l-gloss">Obimi-naazikaminid i’iw mashkidiiwin (he went over to the dropping), ezhi-odaapinaminid (as he picked it up), mii dash ezhi-baapaawebinaminid (and then shook it out), waabooyaan idash ogii-dakonamini (and a blanket he was holding).</span>
 
-<span class="l-eng">*“Aaniinda ge-doodamaan animo-mooowish ge-ani-dakonamaan?” (“what am I to do with a dog’s foul dropping, that I should pick it up?”)*</span>
+*The whole section is obviative (-nid / -mini): it is the old Wolf who goes, takes and shakes, as §61 confirms when Nänabushu asks him to bring it over.*
 
-<span class="l-fiero">**“Tayaa, Nenabosho\! Gaawiin gidaa-ikidosii.”**</span>
+<span class="l-orig">(61) “Ictä! Pīdōn, nītcizazī‘kizī, ningạnipimūntān,” ugī∙i∙nān.</span>
 
-“O Nenabosho\! You should not say that.”
+<span class="l-fiero">**“Ishte! Biidoon, niijizazii’kizi, ninga-ni-bimoondaan,” ogii-inaan.**</span>
 
-<span class="l-eng">*“Tayaa, Nenabosho\! Gaawiin gidaa-ikidosii.” (“O Nenabosho\! you should not say that.”)*</span>
+<span class="l-eng">*“(I) declare! Fetch it hither, my old friend, I will carry it along upon my back,” (Nänabushu) said to him.*</span>
 
-<span class="l-fiero">**Mahiingan ezhi-odaapinang, goniginiin, makadewegin odoonji-mamoonini; iniw mahiinaganan baapaawiwebinaminid.**</span>
+<span class="l-gloss">Ishte (well now!), Biidoon, niijizazii’kizi (bring it here, my old friend), ninga-ni-bimoondaan (I will carry it along on my back), ogii-inaan (he said to him).</span>
 
-When the Wolf picked it up, lo, a black cloth he picked up from the place; the Wolf then gave it a shaking.
+<span class="l-orig">(62) Mīdạc kägä‘t kā‘pījimīnigut mīdạc ạnipimōndạnk. Ānīc, mīsa’ mīnawā kānīcimādcāwāt.</span>
 
-<span class="l-eng">*Mahiingan ezhi-odaapinang (when the wolf picked it up), goniginiin, makadewegin odoonji-mamoonini (behold, a black cloth he took up from the place); iniw mahiinaganan baapaawiwebinaminid (the wolf then gave it a shaking).*</span>
+<span class="l-fiero">**Mii dash geget gaa-bi-izhi-miinigod mii dash ani-bimoondang. Aaniish, mii sa miinawaa gaa-ni-izhi-maajaawaad.**</span>
 
-<span class="l-fiero">**“Nishiimisaa, niin ninga-nipimiwidoowaan nindoozhim i’iw obiidawashaan.”**</span>
+<span class="l-eng">*Whereupon truly hither came the other, who then gave it to him, and accordingly then went he on his way carrying it upon his back. Well, so then again were they off on their way.*</span>
 
-“My little brother, let me carry for my nephew his top blanket.”
+<span class="l-gloss">Mii dash geget gaa-bi-izhi-miinigod (and truly, when it had been brought and given him), mii dash ani-bimoondang (he went on carrying it on his back), Aaniish, mii sa miinawaa gaa-ni-izhi-maajaawaad (well, so again they were off).</span>
 
-<span class="l-eng">*“Nishiimisaa, niin ninga-nipimiwidoowaan nindoozhim i’iw obiidawashaan.” (“my little brother, let me carry my nephew’s top blanket for him.”)*</span>
+<span class="l-orig">(63) Ningutingigu ạnipạpimusäwāt utanī∙i∙gōn īni’ᵘ a‘kiwäⁿzīyạn; wo∙o∙ udigōn: “Mīsa iᵘ īni’ᵘ tci∙ō∙nītcāniwạn pāminīcawāwā īgi’ᵘ kidōcimạg. Ānīc, mīsa gägä‘t cigwa ạnigā‘kiāwāt īgi’ᵘ kidōcimạg.”</span>
 
-<span class="l-fiero">**Mii sa enizhi-dakonamawaad.**</span>
+<span class="l-fiero">**Ningoding igo ani-babimosewaad odani-igoon iniw akiwenziiyan; o’ow odigoon: “Mii iw iniw ji-oonijaaniwan baaminizha’waawaa igiw gidoozhimag. Aaniish, mii sa geget zhigwa ani-gaakii’aawaad igiw gidoozhimag.”**</span>
 
-Thereupon as he went along, he carried it for him.
+<span class="l-eng">*Now once while they were walking along, he was addressed by the old (Wolf). This he was told: “It is a big cow that your nephews are after. Why, it is true that now are your nephews pressing close upon it.”*</span>
 
-<span class="l-eng">*Mii sa enizhi-dakonamawaad (thereupon as he went along he carried it for him).*</span>
+<span class="l-gloss">Ningoding igo ani-babimosewaad (once, as they walked along), odani-igoon iniw akiwenziiyan (he is told by the old man as they go), o’ow odigoon (this he is told), Mii iw iniw ji-oonijaaniwan (it is one with young), baaminizha’waawaa igiw gidoozhimag (that your nephews are pursuing), Aaniish, mii sa geget zhigwa ani-gaakii’aawaad igiw gidoozhimag (and truly now your nephews are closing on it).</span>
 
-<span class="l-fiero">**Mii sa i’iw eni-izhi-niizha’igekawenid eni-izhaawaad iniw mahiingana’.**</span>
+*8-F: pāminīcawāwā and ạnigā‘kiāwāt drafted baaminizha’waawaa (‘pursue’) and ani-gaakii’aawaad (‘press close upon’) from Jones’s English; neither is attested in the corpus. M.’s eye.*
 
-And so along the trail the Wolves made in their pursuit was the way (Nenabosho and the old Wolf) went.
+<span class="l-orig">(64) Ningutingigu kīnibạtạgā‘kwisinini ‘iᵉi’ᵘ wībitāni.</span>
 
-<span class="l-eng">*Mii sa i’iw eni-izhi-niizha’igekawenid eni-izhaawaad iniw mahiingana’ (and so along the trail the wolves made in pursuit was the way they went).*</span>
+<span class="l-fiero">**Ningoding igo gii-nibadagaakwisinini i’iw wiibidaani.**</span>
 
-<span class="l-fiero">**Ningoding igo mitigong badakaakwisinini i’iw wiibidaani iniw mahiinaganan.**</span>
+<span class="l-eng">*And presently (he saw) sticking in a tree the tooth (of one of his nephews).*</span>
 
-Now, once there was sticking out of a tree the tooth of a wolf.
+<span class="l-gloss">Ningoding igo gii-nibadagaakwisinini i’iw wiibidaani (once, there stood his tooth fast in the wood).</span>
 
-<span class="l-eng">*Ningoding igo mitigong badakaakwisinini i’iw wiibidaani iniw mahiinaganan (now, once there stuck out of a tree the tooth of a wolf).*</span>
+<span class="l-orig">(65) “Nạginīn, Nänabucu, mīdugōma ānu∙ạ∙nipimwâwâgwän īni’ᵘ mōⁿsōn. Nänabucu, tạga ạni∙a∙yāᵘ ‘iᵉi’ᵘ ubikwa‘k ‘aᵉa’ᵘ kidōcîm.”</span>
 
-<span class="l-fiero">**“Nashke gosha\! Gidoozhim gaa-bidaakwa’egwen.**</span>
+<span class="l-fiero">**“Naginiin, Nenabozho, mii dog omaa aano-ani-bimwaawaagwen iniw moozoon. Nenabozho, daga ani-ayaaw i’iw obikwak a’aw gidoozhim.”**</span>
 
-“Oh, look\! Your nephew must have struck the tree accidentally.
+<span class="l-eng">*“Look, Nänabushu! perhaps here may have been where they shot at a moose, but failed to hit it. Nänabushu, pray, take that arrow of your nephew’s as you go.”*</span>
 
-<span class="l-eng">*“Nashke gosha\! Gidoozhim gaa-bidaakwa’egwen (“oh, look\! your nephew must have struck the tree).*</span>
+<span class="l-gloss">Naginiin, Nenabozho (look here, Nenabozho), mii dog omaa aano-ani-bimwaawaagwen iniw moozoon (it must be here they shot at the moose and missed), Nenabozho, daga ani-ayaaw i’iw obikwak a’aw gidoozhim (Nenabozho, take your nephew’s arrow along as you go).</span>
 
-<span class="l-fiero">**Daga giijigobidoon, Nenabosho, gidoozhim i’iw omitigwanwi ani-dakwonamaw.”**</span>
+*8-H6 HARD: Nạginīn. Drafted Naginiin; Jones Englishes it “Look,” which is the office of kuniginīn (goniginiin ‘behold’) twice elsewhere in this story (§68, §71). A printer’s error for that word is the competing reading. M. to rule; nothing levelled. — RULED (M., 2026-08-12): the draft Naginiin STANDS.*
 
-I say, pull it out, Nenabosho, carry along your nephew’s arrow\!”
+<span class="l-orig">(66) “Sä, bina! Ānīnda kätōtamān ‘iᵉi’ᵘ ạnimwâbidic käniayāyān?”</span>
 
-<span class="l-eng">*Daga giijigobidoon, Nenabosho (I say, pull it out, Nenabosho), gidoozhim i’iw omitigwanwi ani-dakwonamaw.” (carry along your nephew’s arrow\!”)*</span>
+<span class="l-fiero">**“Sa, bina! Aaniin dash ge-doodamaan i’iw animwaabidish ge-ni-ayaayaan?”**</span>
 
-<span class="l-fiero">**“Aaniinda ge-doodamaan animwaabidish ge-ni-dakonamaan?”**</span>
+<span class="l-eng">*“Pshaw! What am I to do with that old dog-tooth, that I should take it along?”*</span>
 
-“What am I to do with the miserable tooth of a dog, that I should carry it as I go along?”
+<span class="l-gloss">Sa, bina (pshaw, now!), Aaniin dash ge-doodamaan i’iw animwaabidish (what am I to do with that miserable dog-tooth), ge-ni-ayaayaan (that I should carry it along?).</span>
 
-<span class="l-eng">*“Aaniinda ge-doodamaan animwaabidish ge-ni-dakonamaan?” (“what am I to do with a wretched dog’s tooth, that I should carry it?”)*</span>
+*animwaabidish = animw- ‘dog’ + the -aabid ‘tooth’ medial + the pejorative -ish; the same pejorative shape as animowaaniowozhan ‘old dog-tails’ at §22. Ledger entry proposed.*
 
-<span class="l-fiero">**“Nenabosho, gego ikidiken.”**</span>
+<span class="l-orig">(67) “Kägätsa kidinigāmāg īgiᵘ kitōcimạg.”</span>
 
-“Nenabosho, do not say that.”
+<span class="l-fiero">**“Geget sa gidinigaamaag igiw gidoozhimag.”**</span>
 
-<span class="l-eng">*“Nenabosho, gego ikidiken.” (“Nenabosho, do not say that.”)*</span>
+<span class="l-eng">*“Truly, indeed, have you done your nephews a wrong by saying that.”*</span>
 
-<span class="l-fiero">**Akiwenzii-mahiingan ezhi-giijigwandang.**</span>
+<span class="l-gloss">Geget sa gidinigaamaag igiw gidoozhimag (truly you have wronged your nephews by what you said).</span>
 
-“The old Wolf took it out with his mouth.
+<span class="l-orig">(68) Äjibīmi∙a∙yāminit nāni‘kākubitōnit īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn. Mīdạc äjipawiwäpinạminit, kuniginīn, kägä‘t pikwa‘k ugīta‘kunạmini!</span>
 
-<span class="l-eng">*Akiwenzii-mahiingan ezhi-giijigwandang (the old wolf took it out with his mouth).*</span>
+<span class="l-fiero">**Ezhi-biimi-ayaaminid naanikaakobidoonid iniw akiwenzii-ma’iinganan. Mii dash ezhi-bawiwebinaminid, goniginiin, geget bikwak ogii-dakonamini!**</span>
 
-<span class="l-fiero">**Goniginiin, mitigwanwi odoonji-mamoon.**</span>
+<span class="l-eng">*By giving it a twist the old Wolf pulled it out; and when he shook it, lo, an arrow was he truly holding in his hand!*</span>
 
-Behold, an arrow he took out.
+<span class="l-gloss">Ezhi-biimi-ayaaminid (as he gave it a twist), naanikaakobidoonid iniw akiwenzii-ma’iinganan (the old wolf-man drew it out), Mii dash ezhi-bawiwebinaminid (and when he shook it), goniginiin, geget bikwak ogii-dakonamini (behold, truly an arrow he was holding!).</span>
 
-<span class="l-eng">*Goniginiin, mitigwanwi odoonji-mamoon (behold, an arrow he took out).*</span>
+<span class="l-orig">(69) “Pīdōn, tạga,” ugī∙i∙nān. Mīdạc kägä‘t kā∙i∙jimīnigut; kā∙i∙jipimiwitōt.</span>
 
-<span class="l-fiero">**“Daga, niin ninga-ni-dakonaan.”**</span>
+<span class="l-fiero">**“Biidoon, daga,” ogii-inaan. Mii dash geget gaa-izhi-miinigod; gaa-izhi-bimiwidood.**</span>
 
-“I say, let me carry it along.”
+<span class="l-eng">*“Fetch it hither, please,” he said to (the old Wolf). It was true that it was given to him; after which he took it along.*</span>
 
-<span class="l-eng">*“Daga, niin ninga-ni-dakonaan.” (“I say, let me carry it along.”)*</span>
+<span class="l-gloss">Biidoon, daga (bring it here, please), ogii-inaan (he said to him), Mii dash geget gaa-izhi-miinigod (and truly it was given him), gaa-izhi-bimiwidood (and he carried it along).</span>
 
-<span class="l-fiero">**“Nenabosho, gego wiin ingoji pagidooken.**</span>
+<span class="l-orig">(70) Cigwa ninguting ugīwâbamāwān cingicininit udōjimaᵉ. Kāwīn kanạgä ningutci tcimiskwīwākunagānig.</span>
 
-“Nenabosho, don’t you fling it away
+<span class="l-fiero">**Zhigwa ningoding ogii-waabamaawaan zhingishininid odoozhimaag. Gaawiin ganage ningoji ji-miskwiiwaagonagaanig.**</span>
 
-<span class="l-eng">*“Nenabosho, gego wiin ingoji pagidooken (“Nenabosho, don’t you fling it away).*</span>
+<span class="l-eng">*Then by and by they saw his nephews lying down. Nowhere at all was there snow on the ground.*</span>
 
-<span class="l-fiero">**Giga-zanagi’aa gidoozhim giishpin ingoji apagidoowad.”**</span>
+<span class="l-gloss">Zhigwa ningoding ogii-waabamaawaan zhingishininid odoozhimaag (by and by they saw his nephews lying down), Gaawiin ganage ningoji ji-miskwiiwaagonagaanig (nowhere at all was the snow bloodied).</span>
 
-You will make things difficult for your nephew if you throw it away.”
+*udōjimaᵉ resolved to odoozhimaag (plural) per M.’s obviative-number ruling; the identical token is so resolved in #9 §9. Per M., 2026. — 8-F3: the Ojibwe carries miskwi- ‘blood’ (‘bloodied snow’); Jones’s English gives only “snow on the ground.” Both layers stand as they are.*
 
-<span class="l-eng">*Giga-zanagi’aa gidoozhim giishpin ingoji apagidoowad.” (you will make trouble for your nephew if you throw it away.”)*</span>
+<span class="l-orig">(71) Kuniginīn, Nānabucu kanōnā: “Kāni‘tāgäwāgwän īgi’ᵘ kitōcimạg. Mīsa iᵘ ändōtạmuwāt mä‘kawāwātcin īni’ᵘ mōⁿzōn.”</span>
 
-<span class="l-fiero">**Ningoding igo bapima’anaawaad i’iw goniginiin, aapiji bezhigini odaadaagwanesewan niibideyaabanigozinid.**</span>
+<span class="l-fiero">**Goniginiin, Nenabozho ganoonaa: “Gaa-nitaagewaagwen igiw gidoozhimag. Mii iw endoodamowaad mekawaawaajin iniw moozoon.”**</span>
 
-<span class="l-gloss">Then presently, while trailing after the Wolves (and the moose), lo, (they saw that) one of them went with dragging feet through the snow as they moved abreast in line.</span>
+<span class="l-eng">*Behold, Nänabushu was addressed (in these words): “Some game must your nephews have killed. That is the way they act whenever they have found a moose.”*</span>
 
-<span class="l-eng">*Ningoding igo bapima’anaawaad i’iw (then while they were trailing along), goniginiin, aapiji bezhigini odaadaagwanesewan niibideyaabanigozinid (lo, one of them went with dragging feet through the snow as they moved abreast in line).*</span>
+<span class="l-gloss">Goniginiin, Nenabozho ganoonaa (behold, Nenabozho was spoken to), Gaa-nitaagewaagwen igiw gidoozhimag (your nephews must have made a kill), Mii iw endoodamowaad mekawaawaajin iniw moozoon (that is what they do whenever they find a moose).</span>
 
-<span class="l-fiero">**Nenabosho ganoonaa: “Awenen giin gezhiikaagwen gidinendam?”**</span>
+*8-P3: the page prints the name Nānabucu here (long Ā), against Nänabucu at eight other printings in this story. Carried as printed in Layer 1; the Fiero is not split.*
 
-Nenabosho was addressed: “Which one do you think is swifter?”
+<span class="l-orig">(72) Kāmōtcigisinit īni’ᵘ a‘kiwäⁿsīyạn. “‘Āᵘ, ‘āᵘ, Nänabucu, wīkīci‘tōtā i∙i∙māⁿ kätaciwiyāsikäyạnk.”</span>
 
-<span class="l-eng">*Nenabosho ganoonaa (Nenabosho was addressed): “Awenen giin gezhiikaagwen gidinendam?” (“which one do you think is swifter?”)*</span>
+<span class="l-fiero">**Gaa-moojigizinid iniw akiwenziiyan. “Haaw, haaw, Nenabozho, wii-giizhi’toodaa iimaa ge-dazhi-wiiyaasikeyang.”**</span>
 
-<span class="l-fiero">**Odizhinoowaan iniw mejikawe’aad, ezhi-giigidod: “Naabisa nashwiina aw mindimooyenzh wiin a’aw.**</span>
+<span class="l-eng">*Then happy was the old (Wolf). “Come on, Nänabushu! let us make a place where we can prepare the meat.”*</span>
 
-He pointed to the one that trailed along in difficulty, then he said: “Why, this one here is nothing but an old hag.
+<span class="l-gloss">Gaa-moojigizinid iniw akiwenziiyan (the old man was glad), Haaw, haaw, Nenabozho (come now, come, Nenabozho), wii-giizhi’toodaa iimaa ge-dazhi-wiiyaasikeyang (let us finish a place there where we will work the meat).</span>
 
-<span class="l-eng">*Odizhinoowaan iniw mejikawe’aad (he pointed to the one that trailed along in difficulty), ezhi-giigidod (then he said): “Naabisa nashwiina aw mindimooyenzh wiin a’aw (“why, this one is nothing but an old hag).*</span>
+*8-P4: the page prints a‘kiwäⁿsīyạn here with s, against a‘kiwäⁿzī- elsewhere in the story. Carried as printed.*
 
-<span class="l-fiero">**Ogow wijago\* mii wa gogo\* ge-nagashiwewaad.”\***</span>
+<span class="l-orig">(73) “Wägunän i∙i∙ᵘ käwiyāsi‘kātạmạnk?”</span>
 
-Now these are the ones that will lead in the run.”
+<span class="l-fiero">**“Wegonen i’iw ge-wiiyaasikaadamang?”**</span>
 
-<span class="l-eng">*Ogow wijago\* mii wa gogo\* ge-nagashiwewaad.”\* (now these are the ones that will lead in the run.” — \*the bracketed forms are uncertain in the source; the English line supplies the sense\*)*</span>
+<span class="l-eng">*“Where in the world is the meat for us to dry?”*</span>
 
-<span class="l-fiero">**“Gaawiin, mii sa wa’aw ge-nagashiwed.”**</span>
+<span class="l-gloss">Wegonen i’iw ge-wiiyaasikaadamang (what meat is there for us to work?).</span>
 
-“No, this is the one that will be in the lead
+<span class="l-orig">(74) Mīdạc ägut īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạn: “Kägätsa kitinigāmāg kitōcimạg.”</span>
 
-<span class="l-eng">*“Gaawiin, mii sa wa’aw ge-nagashiwed.” (“no, this is the one that will be in the lead.”)*</span>
+<span class="l-fiero">**Mii dash egod iniw akiwenzii-ma’iingan: “Geget sa gidinigaamaag gidoozhimag.”**</span>
 
-<span class="l-fiero">**Ani-babimosewaad.**</span>
+<span class="l-eng">*Whereupon was he told by the old Wolf: “Truly, indeed, pitiful have you made your nephews by saying that.”*</span>
 
-On then they went walking.
+<span class="l-gloss">Mii dash egod iniw akiwenzii-ma’iingan (and this he was told by the old wolf-man), Geget sa gidinigaamaag gidoozhimag (truly you have wronged your nephews by what you said).</span>
 
-<span class="l-eng">*Ani-babimosewaad (on then they went walking).*</span>
+<span class="l-orig">(75) Mīdạc kägä‘t sībickātc wītci∙ā∙t ucigäwāt.</span>
 
-<span class="l-fiero">**Zhigwa aapiji gaa-ki’aanigoban.\***</span>
+<span class="l-fiero">**Mii dash geget ziibishkaaj wiiji’aad ozhigewaad.**</span>
 
-Now, very hard were they pressing the pursuit.
+<span class="l-eng">*Thereupon truly, much against his will, (Nänabushu) helped them make the lodge.*</span>
 
-<span class="l-eng">*Zhigwa aapiji gaa-ki’aanigoban.\* (now, very hard were they pressing the pursuit; \*gaa-ki’aanigoban, ‘they were driving it hard’ — preterite\*)*</span>
+<span class="l-gloss">Mii dash geget ziibishkaaj (and truly, against his will), wiiji’aad ozhigewaad (he helped them build the lodge).</span>
 
-<span class="l-fiero">**Ningoding igo owaabamaawa’ zhingishininid.**</span>
+*8-N6: sībickātc — drafted ziibishkaaj from Jones’s English (“much against his will”); no corpus attestation. New lexeme, M.’s eye.*
 
-Then by and by they beheld the others lying down.
+<span class="l-orig">(76) Kāwin kạnagä tcimādcicininit, pīnic pānimā kākīcigäwāt pāpīndigäwag.</span>
 
-<span class="l-eng">*Ningoding igo owaabamaawa’ zhingishininid (then by and by they saw the others lying down).*</span>
+<span class="l-fiero">**Gaawiin ganage ji-maajishininid, biinish baanimaa gaa-giizhigewaad baa-biindigewag.**</span>
 
-<span class="l-fiero">**“E, e, ii, gaawiin ina wiin gigigegoosiimin.\***</span>
+<span class="l-eng">*Not at all did he move from where he lay, (which he continued to do) till later on, when they had finished the lodge, (and) one by one they were coming in.*</span>
 
-“Halloo\! Why, they are getting us something to eat
+<span class="l-gloss">Gaawiin ganage ji-maajishininid (not at all did he stir from where he lay), biinish baanimaa gaa-giizhigewaad (until at last they had finished the lodge), baa-biindigewag (and came in one after another).</span>
 
-<span class="l-eng">*“E, e, ii, gaawiin ina wiin gigigegoosiimin.\* (“halloo\! why, they are getting us something to eat. — \*gigigegoosiimin, source uncertain; English gives the sense\*)*</span>
+<span class="l-orig">(77) Ānīn käicinạnk? Cigwa unawi∙ā∙ kayä wīn, ābi‘tagu wīnin ‘iᵉi’ᵘ wänawi∙i∙nt.</span>
 
-<span class="l-fiero">**Ahaaw, Nenabosho, ozhiitaan, gedazhimoosokeyang ga-wi-zhitoomin.”**</span>
+<span class="l-fiero">**Aaniin ge-izhinang? Zhigwa onawi’aa gaye wiin, aabita go wiinin i’iw wenawi’ind.**</span>
 
-Come on, Nenabosho, get ready\! A place for us to dress the moose we will make.
+<span class="l-eng">*What was he now to see? Already was he allotted a share, half of the fat was the share given him.*</span>
 
-<span class="l-eng">*Ahaaw, Nenabosho, ozhiitaan (come on, Nenabosho, get ready), gedazhimoosokeyang ga-wi-zhitoomin.” (a place for us to dress the moose we will make.”)*</span>
+<span class="l-gloss">Aaniin ge-izhinang (what should he see?), Zhigwa onawi’aa gaye wiin (already he too was given a portion), aabita go wiinin i’iw wenawi’ind (half the fat was what was allotted him).</span>
 
-<span class="l-fiero">**Aaniish mii eta go iw omiskwiiwaagonagaanig weyaabandang.**</span>
+*8-N7: unawi∙ā∙ / wänawi∙i∙nt — drafted onawi’aa / wenawi’ind (the allotting of a share); no corpus attestation. New lexeme, M.’s eye.*
 
-Now, the only thing he saw was some blood on the snow.
+<span class="l-orig">(78) Mīsa pitcīnạg ī i∙māⁿ kīminwändạnk “Mīnạngwạna iᵘ tciwīsiniyān kayä nīn,” kī∙i∙nändạm.</span>
 
-<span class="l-eng">*Aaniish mii eta go iw omiskwiiwaagonagaanig weyaabandang (now, the only thing he saw was some blood on the snow).*</span>
+<span class="l-fiero">**Mii sa bijiinag iimaa gii-minwendang “Miinangwana iw ji-wiisiniyaan gaye niin,” gii-inendam.**</span>
 
-<span class="l-fiero">**Aapiji sa dadebisiniiwa’.**</span>
+<span class="l-eng">*So then was he well pleased over it. “It is certain that I shall eat too,” he thought.*</span>
 
-Thoroughly sated was each one with food.
+<span class="l-gloss">Mii sa bijiinag iimaa gii-minwendang (and so at last he was pleased about it), Miinangwana iw ji-wiisiniyaan gaye niin (so it is that I shall eat too), gii-inendam (he thought).</span>
 
-<span class="l-eng">*Aapiji sa dadebisiniiwa’ (thoroughly sated was each one with food).*</span>
+*8-P5: the page prints ī i∙māⁿ, spaced; carried as printed in Layer 1 and read iimaa.*
 
-<span class="l-fiero">**Nenabosho ezhi-manaazhided, mii dash imaa ezhaad ayidaag zhingishininid iniw bezhig iniw mahiinganan.**</span>
+<span class="l-orig">(79) “Wändcitạgu kägä‘tigunā minu∙a∙yāng.”</span>
 
-Then Nenabosho went for some balsam boughs, and the way he went was directly where one of the Wolves lay.
+<span class="l-fiero">**“Wenjida go geget igonaa mino-ayaang.”**</span>
 
-<span class="l-eng">*Nenabosho ezhi-manaazhided (then Nenabosho went for balsam boughs), mii dash imaa ezhaad ayidaag zhingishininid iniw bezhig iniw mahiinganan (and the way he went was right where one of the wolves lay).*</span>
+<span class="l-eng">*“Truly, very excellently are we now living.”*</span>
 
-<span class="l-fiero">**Wegoneniiwinen obapasigonjiwebishkawaan.**</span>
+<span class="l-gloss">Wenjida go geget igonaa mino-ayaang (truly indeed we are living well now).</span>
 
-What should he do but give him a kick to make him stand up.
-
-<span class="l-eng">*Wegoneniiwinen obapasigonjiwebishkawaan (what should he do but give him a kick to make him stand up).*</span>
-
-<span class="l-fiero">**“Ajimaajiishta’a\! Minik gii-gidaanawe?”**</span>
-
-For goodness sake\! Have you eaten so much as that?”
-
-<span class="l-eng">*“Ajimaajiishta’a\! Minik gii-gidaanawe?” (“for goodness sake\! have you eaten that much?”)*</span>
-
-<span class="l-fiero">**Jaangaakwenowan.**</span>
-
-Up he raised his head.
-
-<span class="l-eng">*Jaangaakwenowan (up he raised his head).*</span>
-
-<span class="l-fiero">**“Geget sa giwaawiisagishkaw, Nenabosho.**</span>
-
-“Really, you hurt me with your kick, Nenabosho.
-
-<span class="l-eng">*“Geget sa giwaawiisagishkaw, Nenabosho (“really, you hurt me with your kick, Nenabosho).*</span>
-
-<span class="l-fiero">**Gego izhichigeken, Nenabosho.”**</span>
-
-Don’t do that again, Nenabosho.”
-
-<span class="l-eng">*Gego izhichigeken, Nenabosho.” (do not do that again, Nenabosho.”)*</span>
-
-<span class="l-fiero">**Ganoonaa Nenabosho: “ Bizaanayaan.**</span>
-
-Nenabosho was told: “Be quiet.
-
-<span class="l-eng">*Ganoonaa Nenabosho (Nenabosho was told): “Bizaanayaan (“be quiet).*</span>
-
-<span class="l-fiero">**Giishpin miinawaa gegoo wii-doodaman, mii iw gaawiin giga-shamigoosii.”**</span>
-
-If you intend doing anything (like that) again, then you will not be fed.”
-
-<span class="l-eng">*Giishpin miinawaa gegoo wii-doodaman (if you intend doing anything like that again), mii iw gaawiin giga-shamigoosii.” (then you will not be fed.”)*</span>
-
-<span class="l-fiero">**Aatayaa, Nenabosho enigok anokii.**</span>
-
-Oh, but Nenabosho laboured hard.
-
-<span class="l-eng">*Aatayaa, Nenabosho enigok anokii (oh, but Nenabosho laboured hard).*</span>
-
-<span class="l-fiero">**Gaawanabii\* ogiizhiikaanaawaa i’iw waa-dazhi-moosokewaad.**</span>
-
-In a little while they finished working on where they intended to dress the moose.
-
-<span class="l-eng">*Gaawanabii\* ogiizhiikaanaawaa i’iw waa-dazhi-moosokewaad (in a little while they finished where they intended to dress the moose; \*gaawanabii, ‘in a little while’\*).*</span>
-
-<span class="l-fiero">**Ezhi-ganoonaawaad: “Mii sa iw gii-giizhiitaayaang.”**</span>
-
-Then they said to him: “Therefore are we ready.”
-
-<span class="l-eng">*Ezhi-ganoonaawaad (then they said to him): “Mii sa iw gii-giizhiitaayaang.” (“therefore are we ready.”)*</span>
-
-<span class="l-fiero">**Bapazigwiiwa’ bimi-izhaawa’ i’imaa gii-apishimoonikewaad.**</span>
-
-Then up they rose to their feet (and) came over to the place where they had spread out the balsams.
-
-<span class="l-eng">*Bapazigwiiwa’ (then up they rose to their feet) bimi-izhaawa’ i’imaa gii-apishimoonikewaad (and came over to where they had spread out the balsams).*</span>
-
-<span class="l-fiero">**Zhigwa bezhig zhishigagowewan, mii go iw bezhig i’iw ozagiini\* ezhi-miziwe-pangisininig.**</span>
-
-Presently one began to vomit, whereupon the whole of one foreleg fell.
-
-<span class="l-eng">*Zhigwa bezhig zhishigagowewan (presently one began to vomit), mii go iw bezhig i’iw ozagiini\* ezhi-miziwe-pangisininig (whereupon a whole foreleg fell out; \*ozagiini, ‘its foreleg’\*).*</span>
-
-<span class="l-fiero">**Geget maamakaadendam Nenabosho, geget minwendam; wendago bekish nanagamoosiwi, epiichi-minwendang a’aw Nenabosho.**</span>
-
-To be sure, amazed was Nenabosho, really pleased he was; and during all the while he hummed a song, so very pleased was Nenabosho.
-
-<span class="l-eng">*Geget maamakaadendam Nenabosho (truly amazed was Nenabosho), geget minwendam (truly pleased he was); wendago bekish nanagamoosiwi (and all the while he hummed a song), epiichi-minwendang a’aw Nenabosho (so very pleased was Nenabosho).*</span>
-
-<span class="l-fiero">**“Ambe sa, agwaawaanaakokedaa.”**</span>
-
-“Come, let us make a meat-rack\!”
-
-<span class="l-eng">*“Ambe sa, agwaawaanaakokedaa.” (“come, let us make a meat-rack\!”)*</span>
-
-<span class="l-fiero">**Gaawanapii ogii-zhitoonaawaa i’iw agwaawaanaak.**</span>
-
-In a little while they completed the meat rack.
-
-<span class="l-eng">*Gaawanapii ogii-zhitoonaawaa i’iw agwaawaanaak (in a little while they completed the meat-rack).*</span>
-
-<span class="l-fiero">**Mii sa bijiinag giizhisekwewaad Nenabosho aapiji sa dewiisini.**</span>
-
-Thereupon, when they had finished cooking, Nenabosho became thoroughly sated with food.
-
-<span class="l-eng">*Mii sa bijiinag giizhisekwewaad (thereupon, when they had finished cooking) Nenabosho aapiji sa dewiisini (Nenabosho became thoroughly sated with food).*</span>
-
-<span class="l-fiero">**Abaapish debikadinig, ezhi-nibaawaad.**</span>
-
-When it began to grow dark, then they went to sleep.
-
-<span class="l-eng">*Abaapish debikadinig (when it began to grow dark), ezhi-nibaawaad (they went to sleep).*</span>
-
-<span class="l-fiero">**Zhigwa waabanini.**</span>
-
-In time the morrow came.
-
-<span class="l-eng">*Zhigwa waabanini (in time the morrow came).*</span>
-
-<span class="l-fiero">**Gikizheb igo giigidoowan iniw akiwenzii-mahiinganan: “Mii sa zhigwa ji-gii’akeyaambaan.**</span>
-
-And in the morning up spoke the old Wolf: “Therefore now will I make some grease from the bones.
-
-<span class="l-eng">*Gikizheb igo giigidoowan iniw akiwenzii-mahiinganan (and in the morning up spoke the old wolf): “Mii sa zhigwa ji-gii’akeyaambaan (“therefore now I will make grease from the bones).*</span>
-
-<span class="l-fiero">**Aaniish gaawiin wiikaa awiya nin-ganawaabamigoosii i’iw waa-yakeyaanin.**</span>
-
-Of course, by no one am I ever observed while boiling grease from the bones.
-
-<span class="l-eng">*Aaniish gaawiin wiikaa awiya nin-ganawaabamigoosii i’iw waa-yakeyaanin (of course, by no one am I ever watched while I boil grease from the bones).*</span>
-
-<span class="l-fiero">**Indawaa akawe badagwiingweshinog.”**</span>
-
-On that account you shall first cover up your faces.”
-
-<span class="l-eng">*Indawaa akawe badagwiingweshinog.” (on that account you shall first cover up your faces.”)*</span>
-
-<span class="l-fiero">**Geget badagwiingweshinowag.**</span>
-
-To be sure, they covered up their faces.
-
-<span class="l-eng">*Geget badagwiingweshinowag (truly they covered up their faces).*</span>
-
-<span class="l-fiero">**Aaniish Nenabosho gaye wiin badagwiingweshin.**</span>
-
-Now, Nenabosho covered up his face too.
-
-<span class="l-eng">*Aaniish Nenabosho gaye wiin badagwiingweshin (now, Nenabosho covered up his face too).*</span>
-
-<span class="l-fiero">**Indigonada\* madwe-ganaganjige, inendam Nenabosho.**</span>
-
-It seemed that he heard the sound of bones being cracked with teeth, so thought Nenabosho.
-
-<span class="l-eng">*Indigonada\* madwe-ganaganjige (it seemed he heard the sound of bones being cracked with the teeth; \*indigonada, ‘it seemed as if’\*), inendam Nenabosho (so thought Nenabosho).*</span>
-
-<span class="l-fiero">**Wegoneniiwinen bangii odoonji-ganawaabamaan na’idaak odazhi-gagwaadigwandamini iw okan.**</span>
-
-What would he do but take a little peep at him at the very moment when he was gnawing ravenously upon a bone.
-
-<span class="l-eng">*Wegoneniiwinen bangii odoonji-ganawaabamaan (what would he do but take a little peep at him) na’idaak odazhi-gagwaadigwandamini iw okan (at the very moment he was gnawing ravenously on a bone).*</span>
-
-<span class="l-fiero">**Wegoneniiwinen ezhi-pishagwandaminid. Edawaa\! Aapiji i’imaa oshkiizhigong ezhi-pangisininig.**</span>
-
-<span class="l-gloss">What should (the Wolf) do but let (the bone) slip from his teeth. Poor (Nenabosho)\! Right square across his eyes it fell.</span>
-
-<span class="l-eng">*Wegoneniiwinen ezhi-pishagwandaminid (what should the wolf do but let it slip from his teeth). Edawaa\! (poor Nenabosho\!) Aapiji i’imaa oshkiizhigong ezhi-pangisininig (right square across his eyes it fell).*</span>
-
-<span class="l-fiero">**Nenabosho mii sa ezhi-giiwashkweshkaagod.**</span>
-
-Nenabosho was then knocked out of his senses.
-
-<span class="l-eng">*Nenabosho mii sa ezhi-giiwashkweshkaagod (Nenabosho was then knocked out of his senses).*</span>
-
-<span class="l-fiero">**Anishaa go dakaabaawanind wenji-mikawid.**</span>
-
-It was only by having water splashed upon him that he was revived.
-
-<span class="l-eng">*Anishaa go dakaabaawanind wenji-mikawid (it was only by being splashed with cool water that he was revived).*</span>
-
-<span class="l-fiero">**Gaa-mikawid, ganoonaa: “Nenabosho, ganawaabamiwaamban i’iw akeyaan.”**</span>
-
-After he had revived, he was addressed: “Nenabosho, you must have watched me while I made grease from the bones.”
-
-<span class="l-eng">*Gaa-mikawid, ganoonaa (after he had revived, he was told): “Nenabosho, ganawaabamiwaamban i’iw akeyaan.” (“Nenabosho, you must have watched me while I made grease from the bones.”)*</span>
-
-<span class="l-fiero">**Mii sa iw miinawaa ezhi-dibikadinig; zhigwa waabanini.**</span>
-
-And so it was night; then came the morrow.
-
-<span class="l-eng">*Mii sa iw miinawaa ezhi-dibikadinig (and so again it was night); zhigwa waabanini (then came the morrow).*</span>
-
-<span class="l-fiero">**Aapiji gikizheb giigido Nenabosho: “Miijajigwa \[Mii sa azhigwa?\] wii-akeyaan.**</span>
-
-Very early in the morning up spoke Nenabosho: “And now I want to make some grease from the bones.
-
-<span class="l-eng">*Aapiji gikizheb giigido Nenabosho (very early in the morning up spoke Nenabosho): “Miijajigwa \[Mii sa azhigwa?\] wii-akeyaan (“and now I want to make grease from the bones).*</span>
-
-<span class="l-fiero">**Gaawiin anishaa wiikaa nin-ganawaabamigoo\[s\]ii i’iw waa-akeyaanin.**</span>
-
-Never for mere sake of observing am I watched when making grease from bones.
-
-<span class="l-eng">*Gaawiin anishaa wiikaa nin-ganawaabamigoo\[s\]ii i’iw waa-akeyaanin (never for mere sake of watching am I observed when I make grease from bones).*</span>
-
-<span class="l-fiero">**Indawaa badagwiingweshinog.”**</span>
-
-Therefore cover up your faces.”
-
-<span class="l-eng">*Indawaa badagwiingweshinog.” (therefore cover up your faces.”)*</span>
-
-<span class="l-fiero">**Aaniish, gakina ezhi-padagwiingweshinowaad, Nenabosho madwewe’ige biigwa’ang iniw okanan.**</span>
-
-Now, when all covered their faces, Nenabosho could be heard breaking up the bones.
-
-<span class="l-eng">*Aaniish, gakina ezhi-padagwiingweshinowaad (now, when all covered their faces), Nenabosho madwewe’ige biigwa’ang iniw okanan (Nenabosho could be heard breaking up the bones).*</span>
-
-<span class="l-fiero">**Aaniish, aapiji bimidikweshinoon iniw akiwenzii-mahiinganan.**</span>
-
-Now, in plain view, with his head resting on his side (facing Nenabosho), lay the old Wolf.
-
-<span class="l-eng">*Aaniish, aapiji bimidikweshinoon iniw akiwenzii-mahiinganan (now, in plain view, lying on his side, was the old wolf).*</span>
-
-<span class="l-fiero">**Wegoneniiwinen odani-naazikawaan.**</span>
-
-What should he do but go over to where (the Wolf was).
-
-<span class="l-eng">*Wegoneniiwinen odani-naazikawaan (what should he do but go over to where the wolf was).*</span>
-
-<span class="l-fiero">**Gaa-mamood odookanim, gichi-enigok okweganaaning ezhi-bakite’owaad.**</span>
-
-When he had picked up his bone, then with all his might upon the back of his neck he struck him.
-
-<span class="l-eng">*Gaa-mamood odookanim (when he had picked up his bone), gichi-enigok okweganaaning ezhi-bakite’owaad (with all his might he struck him upon the back of the neck).*</span>
-
-<span class="l-fiero">**Wendago geget mii iw ezhi-deyaabidaganaamaad.**</span>
-
-To be sure, he then laid him out completely with the blow.
-
-<span class="l-eng">*Wendago geget mii iw ezhi-deyaabidaganaamaad (to be sure, he then laid him out completely with the blow).*</span>
-
-<span class="l-fiero">**Geget sa zegiziwag igiw we\[y\]oosiwaad.**</span>
-
-Really scared were they who were his children.
-
-<span class="l-eng">*Geget sa zegiziwag igiw we\[y\]oosiwaad (really scared were those who were his children).*</span>
-
-<span class="l-fiero">**Tawaa\! Ezhi-dakaabaawanaawaad.**</span>
-
-Poor fellow\! They then dashed cool water on him.
-
-<span class="l-eng">*Tawaa\! Ezhi-dakaabaawanaawaad (poor fellow\! they then dashed cool water on him).*</span>
-
-<span class="l-fiero">**Geget bangii gegoo inaa mekawinid: “Nenabosho, indawaa mii iw izhi-shkwaataan, ozaam wiijiiwigooyan, anooj igo gidizhiwebis.”**</span>
-
-<span class="l-gloss">Indeed, a little something was said (to Nenabosho) after (the Wolf) had revived: “Nenabosho, therefore now you had better cease, too much have you been in our company, and you do things you should not.”</span>
-
-<span class="l-eng">*Geget bangii gegoo inaa mekawinid (truly, a little something was said to him after the wolf had revived): “Nenabosho, indawaa mii iw izhi-shkwaataan (“Nenabosho, therefore now you had better cease), ozaam wiijiiwigooyan (too much have you been in our company), anooj igo gidizhiwebis.” (and you do all sorts of things you should not.”)*</span>
-
-<span class="l-fiero">**“Gaawiin maanoo go gii-wiijiiwininim\!”**</span>
-
-“Nay, please let me go with you\!”
-
-<span class="l-eng">*“Gaawiin maanoo go gii-wiijiiwininim\!” (“nay, please let me go with you\!”)*</span>
-
-<span class="l-fiero">**“Aaw, Nenabosho, bizaanayan ga-wiijiiwigoo.”**</span>
-
-“Very well, Nenabosho; if you behave, you may go along.”
-
-<span class="l-eng">*“Aaw, Nenabosho, bizaanayan ga-wiijiiwigoo.” (“very well, Nenabosho; if you behave, you may go along.”)*</span>
-
-<span class="l-fiero">**Wayaabaninig gabe-giizhig wiisiniwag.**</span>
-
-On the morrow throughout the whole day were they eating.
-
-<span class="l-eng">*Wayaabaninig gabe-giizhig wiisiniwag (on the morrow, throughout the whole day, they were eating).*</span>
-
-<span class="l-fiero">**Zhigwa wenaagoshininig giigidoowan iniw akiwenzii-mahiinganan: “Indawaa sa waabang ga-maajaamin ji-goziyang.”**</span>
-
-When evening came on, then up spoke the old Wolf: “Therefore tomorrow will we depart to find another place to camp.”
-
-<span class="l-eng">*Zhigwa wenaagoshininig giigidoowan iniw akiwenzii-mahiinganan (when evening came on, up spoke the old wolf): “Indawaa sa waabang ga-maajaamin ji-goziyang.” (“therefore tomorrow we will depart to move camp.”)*</span>
-
-<span class="l-fiero">**Aaniish Nenabosho nawaj igo zhiingenimaa.**</span>
-
-Now, Nenabosho was somewhat disliked.
-
-<span class="l-eng">*Aaniish Nenabosho nawaj igo zhiingenimaa (now, Nenabosho was somewhat disliked).*</span>
-
-<span class="l-fiero">**“Nenabosho, ambe sa, waabang gwii-bakewinigoo.”**</span>
-
-“Nenabosho, come\! Tomorrow we will part company with you.”
-
-<span class="l-eng">*“Nenabosho, ambe sa, waabang gwii-bakewinigoo.” (“Nenabosho, come\! tomorrow we will part company with you.”)*</span>
-
-<span class="l-fiero">**“Gaawiin. Ambe sa noo a’aw bezhig nindoozhim ninga-wiijii’ayaawaa \[wiijiiwaa\] giishpin inendaman.**</span>
-
-“Nay. Please let me remain with one of my nephews if it will be your will.
-
-<span class="l-eng">*“Gaawiin. Ambe sa noo a’aw bezhig nindoozhim ninga-wiijii’ayaawaa \[wiijiiwaa\] (“nay. please let me stay with one of my nephews) giishpin inendaman (if it be your will).*</span>
-
-<span class="l-fiero">**Gaawiin wiikaa gegoo de-izhiwebizisii.”**</span>
-
-Never will anything (harmful) happen to him.”
-
-<span class="l-eng">*Gaawiin wiikaa gegoo de-izhiwebizisii.” (never will anything harmful happen to him.”)*</span>
-
-<span class="l-fiero">**“Aaniish naa, Nenabosho, ga-miinin a’aw ni-niijaanis.**</span>
-
-“Of course, Nenabosho, I will give you one of my children.
-
-<span class="l-eng">*“Aaniish naa, Nenabosho, ga-miinin a’aw ni-niijaanis (“of course, Nenabosho, I will give you one of my children).*</span>
-
-<span class="l-fiero">**Gi-gikenimin manidoowiyan, mii iw waa-onji-miininaan.”**</span>
-
-I know that you are a manitou, for such is the reason why I give him to you.”
-
-<span class="l-eng">*Gi-gikenimin manidoowiyan (I know that you are a manidoo), mii iw waa-onji-miininaan.” (and that is why I give him to you.”)*</span>
+*The story stops here, without a closing formula: it is not a carrier, and no mii-sa or ekoozid close is printed. Jones’s #9 — “Nänabushu and the Wolves, Continued” — takes up the same telling on the same page (p. 85), which is why the ending is open.*
 
 </div>
