@@ -38,7 +38,7 @@ Indigenous engineers. Language-reclamation warriors. People building Indigenous 
 
 | | |
 |---|---|
-| **21,752** | verified Jones↔Fiero word pairs |
+| **21,724** | verified Jones↔Fiero word pairs |
 | **16,207** | unique Anishinaabemowin headwords |
 | **992** | morpheme ledger entries — obviation, tense, valence, initial change, each tied to an attested example and a source |
 | **419** | variants kept as the *no-standard-orthography record* — variation is data, never noise |
