@@ -5,7 +5,7 @@ description: An independent, adversarial assurance pass on the project's decisio
 
 # How This Was Built & Audited
 
-*A reader's guide for reviewers. Anishinaabemowin / Jones Corpus Project · corpus state: 140 four-layer stories; lexicon at 10,743 rule-grade rows (`lexicon_rulegrade.tsv` md5 `338c20a611ff5a71a232c5d806f5331e`). The living data itself is **not** published here — it moves only by relation. → [Request access](request-access). This page is the assurance record: how to judge whether the decisions were principled, without holding the data.*
+*A reader's guide for reviewers. Anishinaabemowin / Jones Corpus Project · corpus state: 142 four-layer stories — both volumes complete; lexicon at 21,752 rule-grade rows (`lexicon_rulegrade.tsv` md5 `d83512533bb66ea696e97fbb5219f43f`). The living data itself is **not** published here — it moves only by relation. → [Request access](request-access). This page is the assurance record: how to judge whether the decisions were principled, without holding the data.*
 
 > **A fuller record is held for community-level review — not on this site.** A complete decision ledger (145 reconstructed decisions) and the review of **how ceremonial texts were handled** are held for review with the communities, Elders, and knowledge keepers whose stories and protocols these are — not published on the open web. Airing the handling of sacred material in public would itself break the protocol it documents. Reviewers who need that depth reach it by relation, not by download.
 

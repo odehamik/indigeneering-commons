@@ -21,17 +21,31 @@ Indigenous engineers. Language-reclamation warriors. People building Indigenous 
 
 ## What it took *(by the numbers)*
 
+**The corpus — what was restored**
+
 | | |
 |---|---|
-| **10,743** | verified Jones↔Fiero word pairs |
-| **10,204** | unique Anishinaabemowin headwords |
-| **548** | morpheme ledger entries — obviation, tense, valence, initial change, each tied to an attested example and a source (Part II + a high-confidence Part I pass; the deep Part I pass still to come) |
-| **420** | variants kept as the *no-standard-orthography record* — variation is data, never noise |
-| **71** | evidence-derived character-substitution rules |
-| **140** | four-layer stories built (78 Part II · 62 Part I) — Part I all still in draft review; the DRAFT tag *is* the line-review tracker, so "built" is not yet "finished" |
-| **1,232** | recurring-novel pairs flagged for a linguist's eye (714 Part II · 518 Part I) — the human-review queue. The machine hands the uncertain *up*; this number is flag-never-guess made visible, not a backlog. |
+| **142** | four-layer stories built (78 Part II · 63 Part I · one parallel reading) — **the whole of Jones’s *Ojibwa Texts*, both volumes, complete**. Every story wears the word *draft*: the DRAFT tag *is* the line-review tracker, so “built” is not yet “finished.” |
+| **7,471** | sections — the working unit: one Jones passage, re-typed, restored, translated, glossed |
+| **84,312** | **Layer 1** word tokens — Jones’s 1919 orthography, re-typed by eye from the page scans. Never OCR. |
+| **94,495** | **Layer 2** word tokens — the Fiero restoration. **This is the number that matters most: living-orthography Anishinaabemowin that did not exist in readable form before this work.** |
+| **211,625** | **Layer 3** word tokens — Jones’s 1919 English, verbatim, as a historical artifact. Not corrected, not modernized. |
+| **271,918** | **Layer 4** word tokens — the gloss, written phrase-by-phrase against the restored line |
+| **662,350** | word tokens across all four layers |
+| **178,807** | of those are Anishinaabemowin (Layers 1 + 2) |
 
-*Live snapshot, counted from the lodge on 2026-06-15. These grow as the work does — a moving count, not a finish line; flag-never-guess applies here too, so nothing still in human review is counted as done.*
+**The lexicon, the grammar, the rules**
+
+| | |
+|---|---|
+| **21,752** | verified Jones↔Fiero word pairs |
+| **16,207** | unique Anishinaabemowin headwords |
+| **992** | morpheme ledger entries — obviation, tense, valence, initial change, each tied to an attested example and a source |
+| **419** | variants kept as the *no-standard-orthography record* — variation is data, never noise |
+| **71** | evidence-derived character-substitution rules |
+| **1,232** | recurring-novel pairs flagged for a linguist’s eye (714 Part II · 518 Part I) — the human-review queue. The machine hands the uncertain *up*; this number is flag-never-guess made visible, not a backlog. |
+
+*Counted from the lodge on 2026-08-18, file by file. These grow as the work does — a moving count, not a finish line; flag-never-guess applies here too, so nothing still in human review is counted as done.*
 
 Every one of those was built under a single fastener: **flag, never guess.** A flagged uncertainty is a finished state, not a placeholder. The machine that confidently fills a gap puts a wrong word in a learner's mouth, at machine scale, in a language with few enough speakers left that the wrong thing becomes the remembered thing. So it doesn't.
 
@@ -46,7 +60,9 @@ The machine did not finish the language; it built the room where humans finish i
 | **150**   | vowel-length variants — confirm the spelling                |
 | **102**   | pairings that need a human look                             |
 | **54**    | multi-sense words — which sense?                            |
-| **5,475** | held single-attestation rare words — the deep pile          |
+| **2,484** | held single-attestation rare words — the deep pile (915 Part II · 1,569 Part I) |
+
+*These two piles together held **10,735** words in June. A machine pass tested every held word against every corroboration source the system had grown — the other part’s pile, the live lexicon, the crosswalk, and page co-occurrence across all 142 records — and graduated what the evidence could actually reach. What is left is not a backlog: it is a **census of rarity**, words that stand once in the whole surviving corpus. No amount of machine cleverness graduates those. They wait on human eyes, or on more Anishinaabemowin that does not exist yet.*
 
 ## How this Commons is built (and what it refuses)
 
