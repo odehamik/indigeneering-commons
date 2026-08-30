@@ -21,7 +21,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash giiwenh a’iin daawaad Nenaboozhoo ookomisan gaye.**</span>
 
-<span class="l-eng">*And so it is said that Nanabushu and his grandmother continued living there.*</span>
+<span class="l-eng">*And so it is said that Nänabushu and his grandmother continued living there.*</span>
 
 <span class="l-gloss">Mii dash giiwenh (and so they say) a’iin daawaad (they were dwelling there) Nenaboozhoo ookomisan gaye (Nenaboozhoo and his grandmother too).</span>
 
@@ -29,7 +29,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Ningoding giiwenh Nenaboozhoo ezhi-naanaagadawendang inendam:**</span>
 
-<span class="l-eng">*Once on a time they say that while Nanabushu was meditating, he thought :*</span>
+<span class="l-eng">*Once on a time they say that while Nänabushu was meditating, he thought :*</span>
 
 <span class="l-gloss">Ningoding giiwenh (once they say) Nenaboozhoo ezhi-naanaagadawendang (as Nenaboozhoo was pondering deeply) inendam (he thought).</span>
 
@@ -37,7 +37,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**“Indige sa mii go niin gaa-izhi-bezhigowaanen,” inendam Nenaboozhoo.**</span>
 
-<span class="l-eng">*“I am curious to know if I was the only one,” thought Nanabushu.*</span>
+<span class="l-eng">*“I am curious to know if I was the only one,” thought Nänabushu.*</span>
 
 <span class="l-gloss">“Indige sa (“I wonder indeed) mii go niin gaa-izhi-bezhigowaanen,” (whether I am the only one) inendam Nenaboozhoo (thought Nenaboozhoo).</span>
 
@@ -213,7 +213,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash ezhinikaazod aw gi-sayen’iban Nenaapaadam.**</span>
 
-<span class="l-eng">*And the name of your elder brother was Nanapatam.*</span>
+<span class="l-eng">*And the name of your elder brother was Nänā‘pātạm.*</span>
 
 <span class="l-gloss">Mii dash ezhinikaazod aw gi-sayen’iban (and the name of that late elder brother of yours) Nenaapaadam (was Nenaapaadam).</span>
 
@@ -221,7 +221,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash gaye giin gaa-izhi-wiinigooyan Nenaboozhoo,” odigoon ookomisan.**</span>
 
-<span class="l-eng">*And so the name Nanabushu was what you were called,” he was told by his grandmother.*</span>
+<span class="l-eng">*And so the name Nänabushu was what you were called,” he was told by his grandmother.*</span>
 
 <span class="l-gloss">Mii dash gaye giin gaa-izhi-wiinigooyan Nenaboozhoo,” (and the name you were given was Nenaboozhoo,”) odigoon ookomisan (he was told by his grandmother).</span>
 
@@ -229,7 +229,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo gichi-naanaagadawendam, gashkendam gaye mikwenimaad nangwana gii-osayen’id.**</span>
 
-<span class="l-eng">*Thereupon Nanabushu seriously began pondering, sad too he became at the thought that forsooth he had an elder brother.*</span>
+<span class="l-eng">*Thereupon Nänabushu seriously began pondering, sad too he became at the thought that forsooth he had an elder brother.*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo gichi-naanaagadawendam (thereupon Nenaboozhoo pondered deeply), gashkendam gaye (and he grew sad too) mikwenimaad nangwana gii-osayen’id (remembering that he had indeed had an elder brother).</span>
 
@@ -237,7 +237,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo zhayiigwa gii-wawenendang aaniin waa-izhichiged, mii dash e-naad ookomisan:**</span>
 
-<span class="l-eng">*And then Nanabushu straightway made up his mind what he would do, and so he said to his grandmother :*</span>
+<span class="l-eng">*And then Nänabushu straightway made up his mind what he would do, and so he said to his grandmother :*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo zhayiigwa gii-wawenendang (and then Nenaboozhoo at once made up his mind) aaniin waa-izhichiged (what he would do), mii dash e-naad ookomisan (and so he said to his grandmother).</span>
 
@@ -257,7 +257,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">“Onjida sa gaawiin gegoo gigii-wiiwiindamawasinoon,” (“it was on purpose that I told you nothing,”) odigoon ookomisan (he was told by his grandmother).</span>
 
-<span class="l-orig">(31) “anicā tcikaskändạmạn, kayä tcigwī∙i∙nawi∙i∙nändansiyạn,” udigōn ō‘kumisạn.</span>
+<span class="l-orig">(31) “ạnicā tcikaskändạmạn, kayä tcigwī∙i∙nawi∙i∙nändansiyạn,” udigōn ō‘kumisạn.</span>
 
 <span class="l-fiero">**“anishaa ji-kahkendaman, gaye ji-gwii’inawi’inendanziyan,” odigoon ookomisan.**</span>
 
@@ -285,11 +285,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo zhayiigwa inaad ookomisan:**</span>
 
-<span class="l-eng">*Thereupon Nanabushu presently said to his grandmother :*</span>
+<span class="l-eng">*Thereupon Nänabushu presently said to his grandmother :*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo zhayiigwa inaad ookomisan (thereupon Nenaboozhoo presently said to his grandmother).</span>
 
-<span class="l-orig">(35) “Nō‘kumis,” udinān, “ninganạntupanī.</span>
+<span class="l-orig">(35) “Nō‘kumis,” udinān, “ninganạntupạnī.</span>
 
 <span class="l-fiero">**“Nookomis,” odinaan, “ninga-nandobani.**</span>
 
@@ -333,7 +333,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash ezhi-maajaad Nenaboozhoo awi-pisa’ang wii-ozhitood bikwakoon gaye sawaanan.**</span>
 
-<span class="l-eng">*So then off went Nanabushu, he went to seek (for a small straight tree, easy) to split, to the end that he might make some arrows and some spears.*</span>
+<span class="l-eng">*So then off went Nänabushu, he went to seek (for a small straight tree, easy) to split, to the end that he might make some arrows and some spears.*</span>
 
 <span class="l-gloss">Mii dash ezhi-maajaad Nenaboozhoo (so then Nenaboozhoo set off) awi-bisa’ang (going to split wood) wii-ozhitood bikwakoon gaye sawaanan (so that he might make arrows and spears).</span>
 
@@ -357,7 +357,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**“Gaawiin gegoo,” ikido Nenaboozhoo.**</span>
 
-<span class="l-eng">*“Nothing,” said Nanabushu.*</span>
+<span class="l-eng">*“Nothing,” said Nänabushu.*</span>
 
 <span class="l-gloss">“Gaawiin gegoo,” ikido Nenaboozhoo (“nothing,” said Nenaboozhoo).</span>
 
@@ -397,7 +397,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash ezhi-odaapinang Nenaboozhoo, mii dash ezhi-maajii-asiboojiged.**</span>
 
-<span class="l-eng">*Whereupon over reached Nanabushu, taking it, and then he began the work of sharpening (the axe).*</span>
+<span class="l-eng">*Whereupon over reached Nänabushu, taking it, and then he began the work of sharpening (the axe).*</span>
 
 <span class="l-gloss">Mii dash ezhi-odaapinang Nenaboozhoo (whereupon Nenaboozhoo reached and took it), mii dash ezhi-maajii-asiboojiged (and then he began whetting).</span>
 
@@ -405,7 +405,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo gomaa apii megwaa asiboojiged mii noondang e-god:**</span>
 
-<span class="l-eng">*And so later on, while Nanabushu was at work with the whetstone, he then heard that which he was told:*</span>
+<span class="l-eng">*And so later on, while Nänabushu was at work with the whetstone, he then heard that which he was told:*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo gomaa apii megwaa asiboojiged (and so after a while, as Nenaboozhoo was whetting) mii noondang e-god (he then heard it saying to him).</span>
 
@@ -445,7 +445,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Aapiji Nenaboozhoo nishkaadizi.**</span>
 
-<span class="l-eng">*Exceedingly angry was Nanabushu.*</span>
+<span class="l-eng">*Exceedingly angry was Nänabushu.*</span>
 
 <span class="l-gloss">Aapiji Nenaboozhoo nishkaadizi (exceedingly angry was Nenaboozhoo).</span>
 
@@ -469,7 +469,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**“Gaawiin,” odinaan Nenaboozhoo, “anishaa go ninga-gaanjigidemigon.”**</span>
 
-<span class="l-eng">*“No,” to her said Nanabushu, “simply am I chided to anger.”*</span>
+<span class="l-eng">*“No,” to her said Nänabushu, “simply am I chided to anger.”*</span>
 
 <span class="l-gloss">“Gaawiin,” odinaan Nenaboozhoo (“no,” said Nenaboozhoo to her), “anishaa go ninga-gaanjigidemigon.” (“it is goading me to anger for no reason.”)</span>
 
@@ -477,7 +477,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo geget nishkaadizid.**</span>
 
-<span class="l-eng">*Thereupon Nanabushu truly was angry.*</span>
+<span class="l-eng">*Thereupon Nänabushu truly was angry.*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo geget nishkaadizid (thereupon Nenaboozhoo was truly angry).</span>
 
@@ -537,7 +537,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">Anishinaa aadizookaan (so far as the sacred story tells).</span>
 
-<span class="l-orig">(66) kāwīn tibātutcigātäsinōn wägunän kāyōgwän kī∙u∙jī‘tōd ki‘tci nībiwa ūbīgwa‘kōn kayä odasawānạn,</span>
+<span class="l-orig">(66) kāwīn tibātutcigātäsinōn wägunän kāyōgwän kī∙u∙ji‘tōd ki‘tci nībiwa ūbīgwa‘kōn kayä odasawānạn,</span>
 
 <span class="l-fiero">**gaawiin dibaajigaadesinoon wegonen gaayoogwen gii-ozhitood gichi-niibiwa obikwakoon gaye odasawaanan,**</span>
 
@@ -565,7 +565,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash giiwenh Nenaboozhoo ezhi-maajaad.**</span>
 
-<span class="l-eng">*And so it is said that Nanabushu started away.*</span>
+<span class="l-eng">*And so it is said that Nänabushu started away.*</span>
 
 <span class="l-gloss">Mii dash giiwenh Nenaboozhoo ezhi-maajaad (and so they say Nenaboozhoo started off).</span>
 
@@ -577,7 +577,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">Ishte, mii gaye iwe e-naajimind! (look, this too is what is told of him!)</span>
 
-<span class="l-orig">(71) Kī∙u∙jī‘tōd tcīmān;</span>
+<span class="l-orig">(71) Kī∙u∙ji‘tōd tcīmān;</span>
 
 <span class="l-fiero">**Gii-ozhitood jiimaan;**</span>
 
@@ -601,7 +601,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">eniginid igo ogii-inikokwaadoon inaa (the size of himself he made it, so it is told).</span>
 
-<span class="l-orig">(74) Mīdạc kīmawināwāt micinạmägwän.</span>
+<span class="l-orig">(74) Mīdạc kīmawinäwāt micinạmägwän.</span>
 
 <span class="l-fiero">**Mii dash gii-mawinewaad mishi-namegwen.**</span>
 
@@ -613,7 +613,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash giiwenh Nenaboozhoo ezhi-maajaad, boozhoo’aad(2) ookomisan.**</span>
 
-<span class="l-eng">*And so they say that Nanabushu set out, bidding farewell to his grandmother.(2)*</span>
+<span class="l-eng">*And so they say that Nänabushu set out, bidding farewell to his grandmother.(2)*</span>
 
 <span class="l-gloss">Mii dash giiwenh Nenaboozhoo ezhi-maajaad (and so they say Nenaboozhoo set out), boozhoo’aad(2) ookomisan (bidding farewell to his grandmother).(2)</span>
 
@@ -641,11 +641,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">“Gaawiin, nookomis, ninga-dagwishin miinawaa omaa,” (“no, my grandmother, I shall come back here again,”) odinaan (he said to her).</span>
 
-<span class="l-orig">(79) Mīsa’ Nänabucu cayīgwa äjipa‘kubīnạng utcīnān, mādcāt kwaya‘k ki‘tcimicawagām;</span>
+<span class="l-orig">(79) Mīsa´ Nänabucu cayīgwa äjipa‘kubīnạng utcīnān, mādcāt kwaya‘k ki‘tcimicawagām;</span>
 
 <span class="l-fiero">**Mii sa Nenaboozhoo zhayiigwa ezhi-pakobiinang ojiimaan, maajaad gwayak gichi-mishawagaam;**</span>
 
-<span class="l-eng">*And as Nanabushu now shoved his canoe into the water, he proceeded straight out to sea;*</span>
+<span class="l-eng">*And as Nänabushu now shoved his canoe into the water, he proceeded straight out to sea;*</span>
 
 <span class="l-gloss">Mii sa Nenaboozhoo zhayiigwa ezhi-bakobiinang ojiimaan (and so now as Nenaboozhoo pushed his canoe into the water), maajaad gwayak gichi-mishawagaam (he set off straight out into the open water).</span>
 
@@ -693,7 +693,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash geget Nenaboozhoo enigok nagamod:**</span>
 
-<span class="l-eng">*Thereupon truly Nanabushu sang aloud :*</span>
+<span class="l-eng">*Thereupon truly Nänabushu sang aloud :*</span>
 
 <span class="l-gloss">Mii dash geget Nenaboozhoo enigok nagamod (thereupon truly Nenaboozhoo sang with all his might).</span>
 
@@ -757,7 +757,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash giiwenh madwe-kichi-sagaswe’idiwaad, madwe-kichi-gaye aanimitaagozinid; maamayawenid iw gii-komind.**</span>
 
-<span class="l-eng">*And now they say that (Nanabushu) heard them holding a great smoker among themselves, and he also heard them holding forth with much talk ; they were giving thanks for that he was swallowed.*</span>
+<span class="l-eng">*And now they say that (Nänabushu) heard them holding a great smoker among themselves, and he also heard them holding forth with much talk ; they were giving thanks for that he was swallowed.*</span>
 
 <span class="l-gloss">Mii dash giiwenh madwe-kichi-sagaswe’idiwaad (and now they say he heard them holding a great gathering among themselves), madwe-kichi-gaye aanimitaagozinid (and he heard them sounding forth with much talk); maamayawenid iw gii-komind (rejoicing that he had been swallowed).</span>
 
@@ -765,7 +765,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Ningoding dash giiwenh megwaa nandodang, gegoo owaabandaan Nenaboozhoo bishaagiwiinigod.**</span>
 
-<span class="l-eng">*Now, once they say that while he was listening, some thing Nanabushu saw that caught his attention.*</span>
+<span class="l-eng">*Now, once they say that while he was listening, some thing Nänabushu saw that caught his attention.*</span>
 
 <span class="l-gloss">Ningoding dash giiwenh megwaa nandodang (now once, they say, while he was listening), gegoo owaabandaan Nenaboozhoo bishaagiwiinigod (Nenaboozhoo saw something moving before him).</span>
 
@@ -789,7 +789,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Nenaboozhoo owaabandaan giiwenh gegoo bishaagibidenig, mii nangwana aw mishi-namegwe ode benga’aninig.**</span>
 
-<span class="l-eng">*(Nevertheless) they say that Nanabushu saw something in motion, and it happened to be the heart of the Great Sturgeon that was beating.*</span>
+<span class="l-eng">*(Nevertheless) they say that Nänabushu saw something in motion, and it happened to be the heart of the Great Sturgeon that was beating.*</span>
 
 <span class="l-gloss">Nenaboozhoo owaabandaan giiwenh gegoo bishaagibidenig (Nenaboozhoo, they say, saw something pulsing), mii nangwana aw mishi-namegwe ode benga’aninig (and it turned out to be the Great Sturgeon’s heart beating).</span>
 
@@ -817,7 +817,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">“Aataa, geget sa naa ni-maazhide’e.”(3) (“oh, truly indeed I am sick at heart.”)(3)</span>
 
-<span class="l-orig">(101) Mīdạc mädwä∙i∙cinạntutamawāt wīwạn tciminạ∙i∙gut kägō kä∙u∙ndcicigaguwät.</span>
+<span class="l-orig">(101) Mīdạc mädwä∙i∙cinạntutamawāt wīwạn tcimina∙i∙gut kägō kä∙u∙ndcicigaguwät.</span>
 
 <span class="l-fiero">**Mii dash medwe-izhi-nandodamawaad wiiwan ji-mina’igod gegoo ge-onji-shigagowed.**</span>
 
@@ -837,7 +837,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash medwe-ikidod: “Gaawesa, Nenaboozhoo ni-maanikaag,” ikido.**</span>
 
-<span class="l-eng">*And then he heard him saying: “Impossible, for Nanabushu is making me sick at my stomach,” he said.*</span>
+<span class="l-eng">*And then he heard him saying: “Impossible, for Nänabushu is making me sick at my stomach,” he said.*</span>
 
 <span class="l-gloss">Mii dash medwe-ikidod (and then he heard him say): “Gaawesa, Nenaboozhoo ni-maanikaag,” ikido (“it is no use, Nenaboozhoo is making me sick inside,” he said).</span>
 
@@ -845,7 +845,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Aanawi geget gichi-anokii Nenaboozhoo ji-shashigagowaanaasiwind; mii gaa-izhi-pimidaakwanang omitigwaabiin, mii dash iniw menjimaakwiid Nenaboozhoo.**</span>
 
-<span class="l-eng">*True was it, indeed, that hard worked Nanabushu to keep from being cast out; so then crosswise he placed his arrows, and so by them he held on.*</span>
+<span class="l-eng">*True was it, indeed, that hard worked Nänabushu to keep from being cast out; so then crosswise he placed his arrows, and so by them he held on.*</span>
 
 <span class="l-gloss">Aanawi geget gichi-anokii Nenaboozhoo ji-shashigagowaanaasiwind (truly indeed Nenaboozhoo worked hard not to be cast out); mii gaa-izhi-bimidaakwanang omitigwaabiin (so then crosswise he braced his bow-staves), mii dash iniw menjimaakwiid Nenaboozhoo (and by them Nenaboozhoo held himself fast).</span>
 
@@ -861,7 +861,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Ni-maanikaag Nenaboozhoo,” ikido.**</span>
 
-<span class="l-eng">*I am in distress inside on account of Nanabushu,” he said.*</span>
+<span class="l-eng">*I am in distress inside on account of Nänabushu,” he said.*</span>
 
 <span class="l-gloss">Ni-maanikaag Nenaboozhoo,” ikido (“Nenaboozhoo is making me ill inside,” he said).</span>
 
@@ -869,11 +869,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash wayiiba gii-nibod, gii-nisaad Nenaboozhoo.**</span>
 
-<span class="l-eng">*And so in a little while he was dead, him had Nanabushu slain.*</span>
+<span class="l-eng">*And so in a little while he was dead, him had Nänabushu slain.*</span>
 
 <span class="l-gloss">Mii dash wayiiba gii-nibod (and so in a little while he was dead), gii-nisaad Nenaboozhoo (Nenaboozhoo had killed him).</span>
 
-<span class="l-orig">(108) Ānīc ānawi ka‘kina mini‘k wādä‘tōwāt kīwī‘kundiwag tciwī‘pimātcī∙ā∙wāt otōgimāmiwạn, ānīc kāwīn;</span>
+<span class="l-orig">(108) Ānīc ānawi ka‘kina mini‘k wādä‘tōwāt kīwī‘kundiwạg tciwī‘pimātcī∙ā∙wāt otōgimāmiwạn, ānīc kāwīn;</span>
 
 <span class="l-fiero">**Aaniish aanawi gakina minik waadetoowaad gii-wiikondiwag ji-wii-pimaajii’aawaad odoogimaamiwan, aaniish gaawiin;**</span>
 
@@ -901,7 +901,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash wiin Nenaboozhoo, imaa ayaad.**</span>
 
-<span class="l-eng">*And as for Nanabushu, there he remained.*</span>
+<span class="l-eng">*And as for Nänabushu, there he remained.*</span>
 
 <span class="l-gloss">Mii dash wiin Nenaboozhoo, imaa ayaad (and as for Nenaboozhoo, there he stayed).</span>
 
@@ -945,7 +945,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">Mii dash indawaaj giiwenh zhayiigwa bagidenimaawaad (and so accordingly, they say, when they laid him away), nawaj naawij aandi aapiji dimiiyaag gichi-gami (farther out where the great water was very deep) mii imaa awi-bagidenimaawaad (there they went to lay him away).</span>
 
-<span class="l-orig">(117) A‘pidci ki‘tcimạnidō‘kāsowạg.</span>
+<span class="l-orig">(117) Ā‘pidci ki‘tcimạnidō‘kāsowạg.</span>
 
 <span class="l-fiero">**Aapiji gichi-manidookaazowag.**</span>
 
@@ -957,7 +957,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Gakina dash wiin Nenaboozhoo ogikendaan enakamigadinig, wiin dash gaawiin awiya ogikenimigosiin imaa ayaad bimaadizid gaye.**</span>
 
-<span class="l-eng">*Now, Nanabushu knew everything that was happening, but yet by no one was it known that he was there and alive.*</span>
+<span class="l-eng">*Now, Nänabushu knew everything that was happening, but yet by no one was it known that he was there and alive.*</span>
 
 <span class="l-gloss">Gakina dash wiin Nenaboozhoo ogikendaan enakamigadinig (now Nenaboozhoo knew everything that was going on), wiin dash gaawiin awiya ogikenimigosiin imaa ayaad bimaadizid gaye (but no one knew that he was there and alive).</span>
 
@@ -989,7 +989,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash giiwenh wiin Nenaboozhoo endazhi-wawenendag aaniin ged-izhi-kashkitood ji-saaga’ang imaa biinjaya’ii giigoonying gaye gii-ningwa’omind.**</span>
 
-<span class="l-eng">*In the mean while they say that Nanabushu had been thinking out a plan how he might succeed in getting out from the inside of the fish which now was also lying buried.*</span>
+<span class="l-eng">*In the mean while they say that Nänabushu had been thinking out a plan how he might succeed in getting out from the inside of the fish which now was also lying buried.*</span>
 
 <span class="l-gloss">Mii dash giiwenh wiin Nenaboozhoo endazhi-wawenendang (meanwhile, they say, Nenaboozhoo was working out a plan) aaniin ged-izhi-gashkitood ji-saaga’ang (how he might manage to get out) imaa biinjaya’ii giigoonying gaye gii-ningwa’omind (from inside the fish that now lay buried too).</span>
 
@@ -997,7 +997,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash zhayiigwa Nenaboozhoo gikendang aaniin ge-doodang, mii dash e-kidod:**</span>
 
-<span class="l-eng">*And so, now that Nanabushu knew what he would do, he thereupon said:*</span>
+<span class="l-eng">*And so, now that Nänabushu knew what he would do, he thereupon said:*</span>
 
 <span class="l-gloss">Mii dash zhayiigwa Nenaboozhoo gikendang aaniin ge-doodang (and so now that Nenaboozhoo knew what he would do), mii dash e-kidod (he thereupon said).</span>
 
@@ -1013,7 +1013,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo gii-sagaswe’aad niiwing inakakeyaa wendabinid manidoo’.**</span>
 
-<span class="l-eng">*Whereupon Nanabushu made a smoke offering toward the four directions where sit the manitous.*</span>
+<span class="l-eng">*Whereupon Nänabushu made a smoke offering toward the four directions where sit the manitous.*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo gii-sagaswe’aad niiwing inakakeyaa wendabinid manidoo’ (whereupon Nenaboozhoo made a smoke offering toward the four directions where the manidoog sit).</span>
 
@@ -1037,7 +1037,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash gaye wiin Nenaboozhoo, gii-moonaadaawangaa’ininig i’imaa ayaad;**</span>
 
-<span class="l-eng">*And as for Nanabushu, the sand (of the mound) where he had been was washed away ;*</span>
+<span class="l-eng">*And as for Nänabushu, the sand (of the mound) where he had been was washed away ;*</span>
 
 <span class="l-gloss">Mii dash gaye wiin Nenaboozhoo (and as for Nenaboozhoo too), gii-moonaadaawangaa’ininig i’imaa ayaad (the sand where he had lain was washed away).</span>
 
@@ -1061,7 +1061,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash ningoding igo Nenaboozhoo ayaad imaa anaamaya’ii giigoonying onoondaan gegoo aapiji minotaagodinig;**</span>
 
-<span class="l-eng">*Now once, when Nanabushu was inside of the fish, he heard something that sounded very pleasantly;*</span>
+<span class="l-eng">*Now once, when Nänabushu was inside of the fish, he heard something that sounded very pleasantly;*</span>
 
 <span class="l-gloss">Mii dash ningoding igo Nenaboozhoo ayaad imaa anaamaya’ii giigoonying (now once, when Nenaboozhoo was there inside the fish) onoondaan gegoo aapiji minotaagodinig (he heard something that sounded very pleasant).</span>
 
@@ -1085,7 +1085,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**“Ambe,” mii dash e-nendang Nenaboozhoo, “ninga-ganoonaag,” inendam.**</span>
 
-<span class="l-eng">*“Well,” thus thought Nanabushu, “I will speak to them,” he thought.*</span>
+<span class="l-eng">*“Well,” thus thought Nänabushu, “I will speak to them,” he thought.*</span>
 
 <span class="l-gloss">“Ambe,” mii dash e-nendang Nenaboozhoo (“well,” thus thought Nenaboozhoo), “ninga-ganoonaag,” inendam (“I will speak to them,” he thought).</span>
 
@@ -1117,7 +1117,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii Nenaboozhoo gaa-izhi-nawadinangin otawagan, gaa-izhi-kipitenidisod.**</span>
 
-<span class="l-eng">*Whereupon Nanabushu seized his ears (and) closed them with the hands (to keep from hearing the din).*</span>
+<span class="l-eng">*Whereupon Nänabushu seized his ears (and) closed them with the hands (to keep from hearing the din).*</span>
 
 <span class="l-gloss">Mii Nenaboozhoo gaa-izhi-nawadinangin otawagan (whereupon Nenaboozhoo seized his ears), gaa-izhi-kipitenidisod (and stopped them up).</span>
 
@@ -1165,7 +1165,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash gayaashkwag ezhi-ganoonidiwaad: “Nenaboozhoo imaa ayaa.”**</span>
 
-<span class="l-eng">*Thereupon the gulls spoke one with another, saying: “Nanabushu is there.”*</span>
+<span class="l-eng">*Thereupon the gulls spoke one with another, saying: “Nänabushu is there.”*</span>
 
 <span class="l-gloss">Mii dash gayaashkwag ezhi-ganoonidiwaad (thereupon the gulls spoke among themselves): “Nenaboozhoo imaa ayaa.” (“Nenaboozhoo is in there.”)</span>
 
@@ -1173,7 +1173,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Gakina gonda awiya gii-gikenimigoon aw Nenaboozhoo.**</span>
 
-<span class="l-eng">*Indeed, by every creature was Nanabushu known.*</span>
+<span class="l-eng">*Indeed, by every creature was Nänabushu known.*</span>
 
 <span class="l-gloss">Gakina gonda awiya gii-gikenimigoon aw Nenaboozhoo (indeed by every creature was Nenaboozhoo known).</span>
 
@@ -1221,7 +1221,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozho gaa-izhi-saagidooded, gaye zaagiji-daabaadang ojiimaan mitigoon gaa-wiimbigawaapan.**</span>
 
-<span class="l-eng">*And then afterwards Nanabushu crawled out, and he drew out his canoe which he had hewn from a log.*</span>
+<span class="l-eng">*And then afterwards Nänabushu crawled out, and he drew out his canoe which he had hewn from a log.*</span>
 
 <span class="l-gloss">Mii dash Nenaboozho gaa-izhi-saagidooded (and then Nenaboozhoo crawled out), gaye zaagiji-daabaadang ojiimaan (and dragged out his canoe) mitigoon gaa-wiimbigawaapan (the log he had hollowed out).</span>
 
@@ -1301,7 +1301,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo gaa-izhi-maajitaad gii-bi-giishkizhwaad iniw giigoonyan.**</span>
 
-<span class="l-eng">*And then afterwards Nanabushu began cutting up the fish with a knife.*</span>
+<span class="l-eng">*And then afterwards Nänabushu began cutting up the fish with a knife.*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo gaa-izhi-maajitaad gii-bi-giishkizhwaad iniw giigoonyan (and then Nenaboozhoo set about cutting up that fish).</span>
 
@@ -1349,7 +1349,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo ezhi-giiwe’od nandawaabamaad ookomisan.**</span>
 
-<span class="l-eng">*Thereupon Nanabushu paddled home in his canoe to find his granmother.*</span>
+<span class="l-eng">*Thereupon Nänabushu paddled home in his canoe to find his grandmother.*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo ezhi-giiwe’od nandawaabamaad ookomisan (thereupon Nenaboozhoo paddled home seeking his grandmother).</span>
 
@@ -1365,7 +1365,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash eni-zhi-dapaabid, mii’sh e-naad: “Nookomis, nindagwishin,” odinaan.**</span>
 
-<span class="l-eng">*And as he peeped into the lodge, he said to her: U O my grandmother ! I have now come home,” he said to her.*</span>
+<span class="l-eng">*And as he peeped into the lodge, he said to her: “O my grandmother ! I have now come home,” he said to her.*</span>
 
 <span class="l-gloss">Mii dash eni-zhi-dapaabid (and as he peeped in), mii’sh e-naad (he said to her): “Nookomis, nindagwishin,” odinaan (“my grandmother, I have come home,” he said to her).</span>
 
@@ -1389,7 +1389,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Niin gosha, Nenaboozhoo, goozhis, ba-dagwishin.”**</span>
 
-<span class="l-eng">*It is really myself, Nanabushu, your grandson, who has now come home.”*</span>
+<span class="l-eng">*It is really myself, Nänabushu, your grandson, who has now come home.”*</span>
 
 <span class="l-gloss">Niin gosha, Nenaboozhoo, goozhis, ba-dagwishin.” (“it is really I, Nenaboozhoo, your grandson, who has come home.”)</span>
 
@@ -1405,7 +1405,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash owaabamaad ookomisan agaawaa onzaabinid, apane iidog gii-mawinid.**</span>
 
-<span class="l-eng">*Thereupon he saw that his grand mother was barely able to see, (showing) that perhaps all the while she had been weeping.*</span>
+<span class="l-eng">*Thereupon he saw that his grandmother was barely able to see, (showing) that perhaps all the while she had been weeping.*</span>
 
 <span class="l-gloss">Mii dash owaabamaad ookomisan agaawaa onzaabinid (thereupon he saw that his grandmother could barely see), apane iidog gii-mawinid (showing she had perhaps been weeping all the while).</span>
 
@@ -1413,9 +1413,9 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo aapiji zhawenimaad ookomisan.**</span>
 
-<span class="l-eng">*So then Nenaboozhoo really pitied his grandmother.*</span>
-
 <span class="l-gloss">Mii dash Nenaboozhoo aapiji zhawenimaad ookomisan (so then Nenaboozhoo deeply pitied his grandmother).</span>
+
+*⚠️ ⭐ PAGE-VERIFIED ABSENCE, 2026-08-29 — **Jones genuinely printed no English for this section.** The Ojibwe `Mīdạc Nänabucu ā‘pidci cawänimāt ō‘kumisạn.` is printed on **p.482 l.8** (re-cropped at 3.6×), and the facing **p.483** runs straight from *“…the while she had been weeping.”* into *“And then afterwards he had made her younger.”* — the translation of §174 into the translation of §176, with nothing between them (re-cropped at 4.0×). The sentence was left untranslated by Jones. The `---` marker is therefore removed and the field left empty, per the rule that a no-content marker must never stand where the print is simply silent. This cell was NOT written by a retrofit — it pre-dates this record’s sweeps. **Nothing else in this record was touched**; its Fiero and gloss here are unchanged, and the standing docx-versus-record divergences of needs-eyes §10 were not gone near.*
 
 <span class="l-orig">(176) Mīdạc nawạtc kā∙i∙ji∙ā∙ntci∙u∙skinīgi∙ā∙t.</span>
 
@@ -1425,13 +1425,13 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">Mii dash nawaj gaa-izhi-aanji-oskiniigi’aad (and then afterwards he made her young again).</span>
 
-<span class="l-gloss">(1) For other versions see Nos. 7 (pp. 49), 28 (pp. 207), 29 (pp. 215)</span>
+<span class="l-gloss">(1) For other versions see Nos. 7 (p. 49), 28 (p. 207), 29 (p. 215).</span>
 
-(2) Boozhoo’aad, “bidding farewell to . . . ,” a verb from the French *bon jour*, and used in Ojibwa to greet or to bid farewell.
+(2) Boozhoo’aad, “bidding farewell to . . . ,” a verb from the French bon jour, and used in Ojibwa to greet or to bid farewell.
 
 (3) Nimaashide’e, “I am sick at heart,” perhaps too literally rendered; “I am feeling qualmish” is nearer the sense.
 
-(4) Nishiimisaa, “O my younger brothers\!” the ending -isaa occurs in story, and usually in the mouth of Nenaboozhoo.
+(4) Nishiimisaa, “O my younger brothers!” the ending -isaa occurs in story, and usually in the mouth of Nenaboozhoo.
 
 (5) Nishim, “my younger brothers,” a vocative singular noun rendered by the plural; a common construction.
 

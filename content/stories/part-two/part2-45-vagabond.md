@@ -15,11 +15,11 @@ MẠTCININIWÂGÄ.
 
 VAGABOND.
 
-<span class="l-eng">*Narrated by Wāsāgunäckạnk — Series 3 (Nos. 44–61), Bois Fort (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
+<span class="l-eng">*Narrated by *</span>
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Ānīc Mạtcininiwāgä äjini‘kāsut. Kāwīn ningutci owīgiwām ayāsinini; mōjạg mīyä‘ta pạnä papimusät. Ninguting pạpimusät sāga∙i∙gạn owâbạndān; kāmạtāpīt iᵘ sāga∙i∙gạn, äja∙ī∙nābit, pạcu’ owâbạmāᵉ ạnicinābäᵉ utạminonit. Ki‘tcipā‘tinīnōwa; ānīnd pāga∙ā∙towäwaᵉ; kayä pasi‘kawäwaᵉ iᵉiwisa i‘kwäwaᵉ; ānind kayä kwāckwāckwänạtowäwaᵉ; mīnawā ānint pä‘päcinitiwaᵉ.</span>
+<span class="l-orig">(1) Ānīc Mạtcininiwāgä äjini‘kāsut.  Kāwīn ningutci owīgiwām ayāsinini;  mōjạg mīyä‘ta pạnä papimusät.  Ninguting pạpimusät sāga∙i∙gạn owâbạndān;  kāmạtāpīt iᵘ sāga∙i∙gạn, äja∙ī∙nābit, pạcu’ owâbạmāᵉ ạnicinābäᵉ utạminonit.  Ki‘tcipā‘tinīnōwa;  ānīnd pāga∙ā∙towäwaᵉ;  kayä pasi‘kawäwaᵉ iᵉiwisa i‘kwäwaᵉ;  ānind kayä kwāckwāckwänạtowäwaᵉ;  mīnawā ānint pä‘päcinitiwaᵉ.</span>
 
 <span class="l-fiero">**Aaniish Majininiwaage ezhinikaazod. Gaawiin ningoji owiigiwaam ayaasinini; moozhag miiy eta apane babimosed. Ningoding babimosed zaaga’igan owaabandaan; gaa-madaabiid iw zaaga’igan, ezhi-ayinaabid, besho owaabamaag anishinaabeg odaminonid. Gichi-baatiininowa; aanind baaga’adowewag; gaye basikawewag igiw isa ikwewag; aanind gaye gwaashkwaashkwanadowewag; miinawaa aanind bebezhinidiwag.**</span>
 
@@ -29,7 +29,7 @@ VAGABOND.
 
 *¹ A game of tag. The players draw sticks from a bundle held in the hand of a certain one. The one getting the longest stick is “it;” the one he tags becomes his partner, and his side increases in number as fast as the players are tagged; and the last one left is then “it.” Thus the game continues of itself. [Jones’s note; the marker stands on “tagging the head” in his English (p. 349), and the note is printed at the foot of the Ojibwe page 348, continuing on 349.] — Word-final ’ resolved per M.’s obviative-number ruling: owaabamaa’ → owaabamaag; anishinaabe’ → anishinaabeg. Per M., 2026.*
 
-<span class="l-orig">(2) Mīdạc iᵉiᵘ änīcimādcāt, utạnināsi‘kawaᵉ; payäcwābamāt, mīcigwa iᵉiᵘ ạniku‘pīnit; ā‘pitcigu payäcwâbạmāt mī cigwa iᵘ ka‘kina kī∙a∙nigu‘pinīt. “Ānīc wini∙i∙ᵘ wäntcitōtamuwāt?” inändạm. “Mīnōtcisạgu ningaku‘pī.” Änīcigu‘pi‘pa‘tōd i∙i∙ᵘ umī‘kạnāni. Kā∙ạ∙gwitā‘kīwät ugīwâbandānạn īni’ᵘ wīgiwāmạn. Iᵉi’wä nä‘tạmickạng iᵘ wīgiwām äcita‘pāpit, kāwīn gạnagä awiya owâbạmāsīn. Mīgu’ iᵉi’ᵘ äcipijijiwa‘tänig, intawā änīcimādcāt. Cigwa ugīwâbandān cāpundawān; äjita‘pābit, kāwīn gạnạgä mīnawā awiya abisīwạn. Inābit pīndik anā‘kanạn mīgu i’ᵘ äcitạtạngisininig. Kägätsa omisawinānạn. “Ạmbäsạnō, ningakīmōt.” Äcipīndigät. Ā‘pitcidạc wänicicininig äji∙o∙dā‘pinạng. Ānīc mīdạc iᵘ äcipạgitciwạnät īni’ᵘ udạsämān pämōmāt; mīdạc imāⁿ äcitatibä∙i∙gināt imāⁿ utanā‘kaning, äci∙ō∙cowani‘kānāt; äci∙ō∙mbīwạnät mīnawā, änīcisāga∙ạ∙nk. Nawạtcigwa animādcīpa‘tō. Päcu änitạgwicing, awīya onōndawān: “Ä∙ē∙e∙’ᵘ! Mạtcininiwāgä kitanā‘kaniminān kīkimotcimigunān! Ha‘a’ᵘ, piminicawātā!”</span>
+<span class="l-orig">(2) Mīdạc iᵉiᵘ änīcimādcāt, utạnināsi‘kawaᵉ;  payäcwābamāt, mīcigwa iᵉiᵘ ạniku‘pīnit;  ā‘pitcigu payäcwâbạmāt mī cigwa iᵘ ka‘kina kī∙a∙nigu‘pinīt.  “Ānīc wini∙i∙ᵘ wäntcitōtamuwāt?” inändạm.  “Mīnōtcisạgu ningaku‘pī.”  Änīcigu‘pi‘pa‘tōd i∙i∙ᵘ umī‘kạnāni.  Kā∙ạ∙gwitā‘kīwät ugīwâbandānạn īni’ᵘ wīgiwāmạn.  Iᵉi’wä nä‘tạmickạng iᵘ wīgiwām äcita‘pāpit, kāwīn gạnagä awiya owâbạmāsīn.  Mīgu’ iᵉi’ᵘ äcipijijiwa‘tänig, intawā änīcimādcāt.  Cigwa ugīwâbandān cāpundawān;  äjita‘pābit, kāwīn gạnạgä mīnawā awiya abisīwạn.  Inābit pīndik anā‘kanạn mīgu i’ᵘ äcitạtạngisininig.  Kägätsa omisawinānạn.  “Ạmbäsạnō, ningakīmōt.”  Äcipīndigät.  Ā‘pitcidạc wänicicininig äji∙o∙dā‘pinạng.  Ānīc mīdạc iᵘ äcipạgitciwạnät īni’ᵘ udạsämān pämōmāt;  mīdạc imāⁿ äcitatibä∙i∙gināt imāⁿ utanā‘kaning, äci∙ō∙cowani‘kānāt;  äci∙ō∙mbīwạnät mīnawā, änīcisāga∙ạ∙nk.  Nawạtcigwa animādcīpa‘tō.  Päcu änitạgwicing, awīya onōndawān:  “Ä∙ē∙e∙’ᵘ!  Mạtcininiwāgä kitanā‘kaniminān kīkimotcimigunān!  Ha‘a’ᵘ, piminicawātā!”</span>
 
 <span class="l-fiero">**Mii dash i’iw eni-izhi-maajaad, odani-naazikawaag; bayeshwaabamaad, mii zhigwa i’iw ani-gopiinid; aapiji go bayeshwaabamaad mii zhigwa iw gakina gii-ani-gopiinid. “Aaniish wiin i’iw wenji-doodamowaad?” inendam. “Miinooj sa go ninga-gopii.” Eni-izhi-gopiibatood i’iw omiikanaani. Gaa-agwidaakiiwed ogii-waabandaanan iniw wiigiwaaman. I’iwe netamishkang iw wiigiwaam ezhi-dapaabid, gaawiin ganage awiiya owaabamaasiin. Mii go i’iw ezhi-bizhizhiwatenig, indawaa eni-izhi-maajaad. Zhigwa ogii-waabandaan zhaabondawaan; ezhi-dapaabid, gaawiin ganage miinawaa awiiya abisiiwan. Inaabid biindig anaakanan mii go iw ezhi-dadangisininig. Geget sa omisawinaanan. “Ambesanoo, ninga-giimood.” Ezhi-biindiged. Aapiji dash wenishishininig ezhi-odaapinang. Aaniish mii dash iw ezhi-bagijiwaned iniw odasemaan bemoomaad; mii dash imaa ezhi-dadibe’iginaad imaa odanaakaning, ezhi-oozhowanikaanaad; ezhi-oombiiwaned miinawaa, eni-izhi-zaaga’ang. Nawaj igwa ani-maajiibatoo. Besho ani-dagwishing, awiiya onoondawaan: “Ä∙ē∙e∙’ᵍ! Majininiwaage gidanaakaniminaan gigiimoojimigonaan! Ha’aw, biminizhawaadaa!”**</span>
 
@@ -39,7 +39,7 @@ VAGABOND.
 
 *asemaa (tobacco) is animate throughout this passage — Vagabond’s mat-wrapping and pack-making verbs take animate objects: the tobacco is a him, not an it. — Word-final ’ resolved per M.’s obviative-number ruling: odani-naazikawaa’ → odani-naazikawaag. Per M., 2026.*
 
-<span class="l-orig">(3) Äjimādcāt ki‘tci änigu‘k, pạnägu pizāzā‘kwānit; ạnimādcā ki‘tci änigu‘k. Kägä‘t käga‘pī∙i∙gu päcu’ ābạnābit, owâbạmāᵉ ininiwaᵉ; misa cigwa sägisit. Intawā unạntawâbamān mi‘tigōn tciwīmbini‘kisinit; päcu’ ogīwâbạmān mi‘tigōn wīmbini‘kisinit, äcipīndigäpa‘tōt. Kā‘pīndigät mīsa iᵉi’ᵘ äci∙ā∙ba∙a∙nk iᵉi’ᵘ pimiwạnān; utasämān äcikipicimāt iwiti kāpi∙u∙ndcipīndigät; ācawa∙ī∙ utạnā‘kạnim äcī∙i∙jīkisitōt.</span>
+<span class="l-orig">(3) Äjimādcāt ki‘tci änigu‘k, pạnägu pizāzā‘kwānit;  ạnimādcā ki‘tci änigu‘k.  Kägä‘t käga‘pī∙i∙gu päcu’ ābạnābit, owâbạmāᵉ ininiwaᵉ;  misa cigwa sägisit.  Intawā unạntawâbamān mi‘tigōn tciwīmbini‘kisinit;  päcu’ ogīwâbạmān mi‘tigōn wīmbini‘kisinit, äcipīndigäpa‘tōt.  Kā‘pīndigät mīsa iᵉi’ᵘ äci∙ā∙ba∙a∙nk iᵉi’ᵘ pimiwạnān;  utasämān äcikipicimāt iwiti kāpi∙u∙ndcipīndigät;  ācawa∙ī∙ utạnā‘kạnim äcī∙i∙jīkisitōt.</span>
 
 <span class="l-fiero">**Ezhi-maajaad gichi-enigok, apane go bizaazaakwaanid; ani-maajaa gichi-enigok. Geget gegapii igo besho aabanaabid, owaabamaag ininiwag; mii sa zhigwa zegizid. Indawaa onandawaabamaan mitigoon ji-wiimbinikizinid; besho ogii-waabamaan mitigoon wiimbinikizinid, ezhi-biindigebatood. Gaa-biindiged mii sa i’iw ezhi-aaba’ang i’iw bimiwanaan; odasemaan ezhi-gibishimaad iwidi gaa-bi-onji-biindiged; aazhawa’ii odanaakanim ezhi-izhiigisidood.**</span>
 
@@ -49,7 +49,7 @@ VAGABOND.
 
 *Word-final ’ resolved per M.’s obviative-number ruling: owaabamaa’ → owaabamaag; ininiwa’ → ininiwag. Per M., 2026.*
 
-<span class="l-orig">(4) Mīdạc īgi’ᵘ anicinābäg ä‘kitowāt: “Mīsa’ imāⁿ tcīwanawạnk. Hā‘a’ᵘ nātciwāgāgwạtwäg!”</span>
+<span class="l-orig">(4) Mīdạc īgi’ᵘ anicinābäg ä‘kitowāt:  “Mīsa’ imāⁿ tcīwanawạnk.  Hā‘a’ᵘ nātciwāgāgwạtwäg!”</span>
 
 <span class="l-fiero">**Mii dash igiw anishinaabeg ekidowaad: “Mii sa imaa ji-wanawang. Haa’aw naajiwaagaakwadweg!”**</span>
 
@@ -57,7 +57,7 @@ VAGABOND.
 
 <span class="l-gloss">Mii dash igiw anishinaabeg (and then the people) ekidowaad (said): “Mii sa imaa (it is there) ji-wanawang (that we shall club him to death). Haa’aw (come!) naajiwaagaakwadweg! (go get your axes!)”</span>
 
-<span class="l-orig">(5) Kägä‘t äcinātciwāgāgwạtwäwāt. Cīgwasa’ opīdōnāwān īni’ᵘ wâgā‘kwatōn; ci’gwa mādcigawā aᵉa’ᵘ mi‘tig.</span>
+<span class="l-orig">(5) Kägä‘t äcinātciwāgāgwạtwäwāt.  Cīgwasa’ opīdōnāwān īni’ᵘ wâgā‘kwatōn;  ci’gwa mādcigawā aᵉa’ᵘ mi‘tig.</span>
 
 <span class="l-fiero">**Geget ezhi-naajiwaagaakwadwewaad. Zhigwa sa obiidoonaawaan iniw waagaakwadoon; zhigwa maajigawaa a’aw mitig.**</span>
 
@@ -67,7 +67,7 @@ VAGABOND.
 
 *ci’gwa (third word of the last clause) is printed with an apostrophe inside the word, against cigwa / Cīgwasa’ elsewhere on the same page — preserved as printed; a printer’s slip is suspected.*
 
-<span class="l-orig">(6) “Mīmāwīni’ᵘ kägä‘t tcinisigōyān,” inändạm. Otasämān äcimockina∙ā∙t īni’ᵘ otō‘pwāgạn. Äci∙a∙ī∙nā‘kunigät mīdạc äjikīkitut: “Ambäsạnō ogawipwāwīgawāwān!”</span>
+<span class="l-orig">(6) “Mīmāwīni’ᵘ kägä‘t tcinisigōyān,” inändạm.  Otasämān äcimockina∙ā∙t īni’ᵘ otō‘pwāgạn.  Äci∙a∙ī∙nā‘kunigät mīdạc äjikīkitut:  “Ambäsạnō ogawipwāwīgawāwān!”</span>
 
 <span class="l-fiero">**“Mii maawiin i’iw geget ji-nisigooyaan,” inendam. Odasemaan ezhi-mooshkina’aad iniw odoopwaagan. Ezhi-ayinaakoniged mii dash ezhi-giigidod: “Ambesanoo oga-wii-bwaawigawaawaan!”**</span>
 
@@ -75,7 +75,7 @@ VAGABOND.
 
 <span class="l-gloss">“Mii maawiin i’iw (perhaps it is that) geget (surely) ji-nisigooyaan (I shall be slain),” inendam (he thought). Odasemaan (with his tobacco) ezhi-mooshkina’aad (he filled) iniw odoopwaagan (his pipe). Ezhi-ayinaakoniged (then he gestured toward the various directions) mii dash ezhi-giigidod (and this he spoke, saying): “Ambesanoo (now, pray) oga-wii-bwaawigawaawaan! (may they fail to cut him down!)”</span>
 
-<span class="l-orig">(7) Kägä‘t īgi’ᵘ anicinābäg utā‘pitcipwāwigawāwān. “Ānīcitug nā kạgī‘tōtạmạng?”</span>
+<span class="l-orig">(7) Kägä‘t īgi’ᵘ anicinābäg utā‘pitcipwāwigawāwān.  “Ānīcitug nā kạgī‘tōtạmạng?”</span>
 
 <span class="l-fiero">**Geget igiw anishinaabeg odaapiji-bwaawigawaawaan. “Aaniish idog naa ge-gii-doodamang?”**</span>
 
@@ -91,7 +91,7 @@ VAGABOND.
 
 <span class="l-gloss">“Daga bina (why, just) mitig (the tree) bazhiba’ok. (pierce him.)”</span>
 
-<span class="l-orig">(9) Ca∙ī∙gwạdạc äcipạciba‘∙u∙nt. Kägō owâbạndānâwa īgi’ᵘ anicinābäg. Mīdạc äjikīgitōwāt: “Mīnāwini∙i∙ᵘ iᵉiyo‘pạn. Mīsa’ iᵉi’ᵘ gīnisạnk.”</span>
+<span class="l-orig">(9) Ca∙ī∙gwạdạc äcipạciba‘∙u∙nt.  Kägō owâbạndānâwa īgi’ᵘ anicinābäg.  Mīdạc äjikīgitōwāt:  “Mīnāwini∙i∙ᵘ iᵉiyo‘pạn.  Mīsa’ iᵉi’ᵘ gīnisạnk.”</span>
 
 <span class="l-fiero">**Zhayiigwa dash ezhi-bazhiba’ond. Gegoo owaabandaanaawaa igiw anishinaabeg. Mii dash ezhi-giigidowaad: “Mii maawiin i’iw opan. Mii sa i’iw gii-nisang.”**</span>
 
@@ -109,7 +109,7 @@ VAGABOND.
 
 <span class="l-gloss">Asemaan dash (but the tobacco) wiin iniw (it was that).</span>
 
-<span class="l-orig">(11) “Mīsa iᵉi’ᵘ ạni∙i∙cikīwätā!” i‘kitowạg. Änijigīwäwāt, mīsa cigwa kīsāgitōtät. Äcimādcāt, mīnawā sāga∙i∙gạn owâbạndān; inābit, nāwạgām mīnisinatāwạngā owâbạndān. “Tạga, ninga∙ī∙cā,” inändạm. Kägä‘t äji∙i∙jāt äjiwâbandạnk awīya pimi‘kawänit. “Ạmạntcigic wīwâbạmạg awägwän ayāwigwän!” Mīsa iᵉi’ᵘ näyāb iwiti äcī∙i∙cāt iwiti kā‘pi∙u∙ndatābīt. Äjikāsut, mīdạc äji∙a∙‘kạndōt; wīpạgu awīya untcimōckạmuwạn, wâbickisiwạn. Kuniginīn micībicīn! Äciyāba‘wāt īni’ᵘ otasämān äcimōckina∙ā∙t. “Ạmbäsano, tạwi ki‘tcipōsāngwāmut! Kayä dạc tawikisinā, nigu∙u∙tuni‘k tawī∙a∙‘pi‘tatin! Mī∙i∙’ᵘ pitcīnạg kä∙i∙cikuskusit.”</span>
+<span class="l-orig">(11) “Mīsa iᵉi’ᵘ ạni∙i∙cikīwätā!” i‘kitowạg.  Änijigīwäwāt, mīsa cigwa kīsāgitōtät.  Äcimādcāt, mīnawā sāga∙i∙gạn owâbạndān;  inābit, nāwạgām mīnisinatāwạngā owâbạndān.  “Tạga, ninga∙ī∙cā,” inändạm.  Kägä‘t äji∙i∙jāt äjiwâbandạnk awīya pimi‘kawänit.  “Ạmạntcigic wīwâbạmạg awägwän ayāwigwän!”  Mīsa iᵉi’ᵘ näyāb iwiti äcī∙i∙cāt iwiti kā‘pi∙u∙ndatābīt.  Äjikāsut, mīdạc äji∙a∙‘kạndōt;  wīpạgu awīya untcimōckạmuwạn, wâbickisiwạn.  Kuniginīn micībicīn!  Äciyāba‘wāt īni’ᵘ otasämān äcimōckina∙ā∙t.  “Ạmbäsano, tạwi ki‘tcipōsāngwāmut!  Kayä dạc tawikisinā, nigu∙u∙tuni‘k tawī∙a∙‘pi‘tatin!  Mī∙i∙’ᵘ pitcīnạg kä∙i∙cikuskusit.”</span>
 
 <span class="l-fiero">**“Mii sa i’iw ani-izhi-giiwedaa!” ikidowag. Eni-izhi-giiwewaad, mii sa zhigwa gii-saagidooded. Ezhi-maajaad, miinawaa zaaga’igan owaabandaan; inaabid, naawagaam miinisinataawangaa owaabandaan. “Daga, ninga-izhaa,” inendam. Geget ezhi-izhaad ezhi-waabandang awiiya bimikawenid. “Amanj igish wii-waabamag awegwen ayaawigwen!” Mii sa i’iw neyaab iwidi ezhi-izhaad iwidi gaa-bi-ondadaabiid. Ezhi-gaazod, mii dash ezhi-akandood; wiiba go awiiya onji-mooshkamowan, waabishkiziwan. Goniginiin mishiibizhiin! Ezhi-aaba’waad iniw odasemaan ezhi-mooshkina’aad. “Ambesano, da-wii-gichi-boozaangwaamod! Gaye dash da-wii-gisinaa, ningodonik da-wii-apiitadin! Mii iw bijiinag ge-izhi-goshkozid.”**</span>
 
@@ -119,7 +119,7 @@ VAGABOND.
 
 *¹ The water-monster. [Jones’s note; the marker stands on “great Lynx” in his English (p. 353), and the note is printed at the foot of the Ojibwe page 352.] — In the print of this section, awīya carries a stray dot over the a (ȧwīya); a flaw in the type is suspected and the reading awiiya kept.*
 
-<span class="l-orig">(12) Kägä‘t iᵉi’ᵘ anīgạskatāgamạtinini iᵘ sāga∙i∙gạn, ki‘tcinībiwa anigackatinini; nōntāgusi mī‘kwạm. Kägä‘t iᵉi’ᵘ äji∙a∙‘pītatink.</span>
+<span class="l-orig">(12) Kägä‘t iᵉi’ᵘ anīgạskatāgamạtinini iᵘ sāga∙i∙gạn, ki‘tcinībiwa anigackatinini;  nōntāgusi mī‘kwạm.  Kägä‘t iᵉi’ᵘ äji∙a∙‘pītatink.</span>
 
 <span class="l-fiero">**Geget i’iw ani-gashkataagamadinini iw zaaga’igan, gichi-niibiwa ani-gashkadinini; noondaagozi miikwam. Geget i’iw ezhi-apiitading.**</span>
 
@@ -127,7 +127,7 @@ VAGABOND.
 
 <span class="l-gloss">Geget i’iw (truly then) ani-gashkataagamadinini (began to freeze over) iw zaaga’igan (the lake), gichi-niibiwa ani-gashkadinini (very thick did it freeze over); noondaagozi miikwam (the ice could be heard). Geget i’iw ezhi-apiitading (truly to that extent did it freeze).</span>
 
-<span class="l-orig">(13) Mī∙i∙’ᵘ pitcīnạg kuskusit aᵉa’ᵘ micipicī. “Ēⁱ, nintūsāmigwām!” Ca∙ī∙gwa wīpimipa‘kupī, kuniginīn äjijōⁿcā‘kwisät. Äjiki‘tcimawit, mạdwägīgitōwạn: “Ạmbäsạnō, ninkạnāwāpamigubạnku kistci∙a∙sin. Kīcigunkigu undcipisut.”</span>
+<span class="l-orig">(13) Mī∙i∙’ᵘ pitcīnạg kuskusit aᵉa’ᵘ micipicī.  “Ēⁱ, nintūsāmigwām!”  Ca∙ī∙gwa wīpimipa‘kupī, kuniginīn äjijōⁿcā‘kwisät.  Äjiki‘tcimawit, mạdwägīgitōwạn:  “Ạmbäsạnō, ninkạnāwāpamigubạnku kistci∙a∙sin.  Kīcigunkigu undcipisut.”</span>
 
 <span class="l-fiero">**Mii iw bijiinag goshkozid a’aw mishibizhii. “Ēⁱ, nindoosaamigwaam!” Zhayiigwa wii-bimibakobii, goniginiin ezhi-zhoonshaakwised. Ezhi-gichi-mawid, madwe-giigidowan: “Ambesanoo, ninganawaabamigoban go gichi-asin. Giizhigong igo onji-bizod.”**</span>
 
@@ -137,7 +137,7 @@ VAGABOND.
 
 *kistci∙a∙sin is printed with -st- where ki‘tci- stands everywhere else — preserved as printed; a printer’s error is suspected, and the conversion reads gichi-asin.*
 
-<span class="l-orig">(14) Käga‘ät pīdwäwäbisowạn. Cigwasa’ äcipạngicing, kāwīn gạnagä wī‘twāsäsī.</span>
+<span class="l-orig">(14) Käga‘ät pīdwäwäbisowạn.  Cigwasa’ äcipạngicing, kāwīn gạnagä wī‘twāsäsī.</span>
 
 <span class="l-fiero">**Geget biidwewebizowan. Zhigwa sa ezhi-bangishing, gaawiin ganage wii-dwaasesii.**</span>
 
@@ -147,7 +147,7 @@ VAGABOND.
 
 *Käga‘ät is printed where Kägä‘t (geget) stands throughout the story — preserved as printed; a printer’s transposition is suspected.*
 
-<span class="l-orig">(15) Mīnawā äjikīkitut: “Keyābi ābiting nạwạtcitạc tạmintito aᵉaᵘ ạsin!”</span>
+<span class="l-orig">(15) Mīnawā äjikīkitut:  “Keyābi ābiting nạwạtcitạc tạmintito aᵉaᵘ ạsin!”</span>
 
 <span class="l-fiero">**Miinawaa ezhi-giigidod: “Geyaabi aabiding nawaj idash da-mindido a’aw asin!”**</span>
 
@@ -155,7 +155,7 @@ VAGABOND.
 
 <span class="l-gloss">Miinawaa ezhi-giigidod (again then he spoke, saying): “Geyaabi aabiding (yet once more) nawaj idash da-mindido (and let it be larger) a’aw asin! (that stone!)”</span>
 
-<span class="l-orig">(16) Mīdạc kägä‘t nawạtc kicīwäwäbisōwạn. Äcipạngicink, kāwīn kạnạgä twāsäsī. Mīdạc iᵘ a‘pi mạdwäki‘tcimawinit. Cigwa mạdwäkīckuwäwạn. “Mīsa’ kägä‘t niboyān,” mạdwä∙i∙‘kitōwạn. Pīdwäwäbisowạn īni’yasinīn, ā‘pitcisa miniditōwạn īni’yasinīn. Mīdạc kägä‘t iᵉi’ᵘ mạdwäki‘tcimawinit.</span>
+<span class="l-orig">(16) Mīdạc kägä‘t nawạtc kicīwäwäbisōwạn.  Äcipạngicink, kāwīn kạnạgä twāsäsī.  Mīdạc iᵘ a‘pi mạdwäki‘tcimawinit.  Cigwa mạdwäkīckuwäwạn.  “Mīsa’ kägä‘t niboyān,” mạdwä∙i∙‘kitōwạn.  Pīdwäwäbisowạn īni’yasinīn, ā‘pitcisa miniditōwạn īni’yasinīn.  Mīdạc kägä‘t iᵉi’ᵘ mạdwäki‘tcimawinit.</span>
 
 <span class="l-fiero">**Mii dash geget nawaj gizhiiwewebizowan. Ezhi-bangishing, gaawiin ganage dwaasesii. Mii dash iw apii madwe-gichi-mawinid. Zhigwa madwe-giishkowewan. “Mii sa geget niboyaan,” madwe-ikidowan. Biidwewebizowan iniw asiniin, aapiji sa mindidowan iniw asiniin. Mii dash geget i’iw madwe-gichi-mawinid.**</span>
 
@@ -165,7 +165,7 @@ VAGABOND.
 
 *iᵍi’ᵍ in the last sentence is printed with a final superscript ᵍ where iᵍi’ᵘ (i’iw) stands everywhere else — preserved as printed; a printer’s error is suspected.*
 
-<span class="l-orig">(17) Kākīckowänit mạdwägīgitōwan: “Indạckā mätāsagunīyān mī∙i∙’ᵘ pawānạgipạn a∙a∙kitcipi‘kwā‘kōcîp. Cāwạnungidạc mī∙i∙’witi pimāmādcāt. Ninạntawänimā omāⁿ tcipitạgwicing.” Cigwa pīdwäwäyānimạtini cāwạnung ina‘ka käyā, onōndawān pīdwäwäpisunit. Cigwa imāⁿ tibickōtcaya∙ī∙ owâbạmān tcipi‘kwā‘kōcipạn. Owâbạndān gayä mi nibī‘kānig inābit iwiti wä‘kwāgạmīwạninig iᵘ sāga∙i∙gạn; inābit pibīguckāwạn īni’ᵘ mi‘kwạmīn. Cigwa imāⁿ nạmạtạbinit īni’ᵘ micipicīn, mīdạc imāⁿ cigwa tạgwicinūn īni’ᵘ mi‘kwạmīn pibīkuskānit imāⁿ nạmạtạbit.</span>
+<span class="l-orig">(17) Kākīckowänit mạdwägīgitōwan:  “Indạckā mätāsagunīyān mī∙i∙’ᵘ pawānạgipạn a∙a∙kitcipi‘kwā‘kōcîp.  Cāwạnungidạc mī∙i∙’witi pimāmādcāt.  Ninạntawänimā omāⁿ tcipitạgwicing.”  Cigwa pīdwäwäyānimạtini cāwạnung ina‘ka käyā, onōndawān pīdwäwäpisunit.  Cigwa imāⁿ tibickōtcaya∙ī∙ owâbạmān tcipi‘kwā‘kōcipạn.  Owâbạndān gayä mi nibī‘kānig inābit iwiti wä‘kwāgạmīwạninig iᵘ sāga∙i∙gạn;  inābit pibīguckāwạn īni’ᵘ mi‘kwạmīn.  Cigwa imāⁿ nạmạtạbinit īni’ᵘ micipicīn, mīdạc imāⁿ cigwa tạgwicinūn īni’ᵘ mi‘kwạmīn pibīkuskānit imāⁿ nạmạtạbit.</span>
 
 <span class="l-fiero">**Gaa-giishkowenid madwe-giigidowan: “Indashkaa medaaso-goniiyaan mii iw bawaanagiban aa gichi-bikwaakoshib. Zhaawanong idash mii iwidi bimaamaajaad. Ninandawenimaa omaa ji-bi-dagwishing.” Zhigwa biidweweyaanimadini zhaawanong inagake gaye, onoondawaan biidwewebizonid. Zhigwa imaa dibishkoojaya’ii owaabamaan jibikwaakoshiban. Owaabandaan gaye mii nibikaanig inaabid iwidi wekwaagamiiwaninig iw zaaga’igan; inaabid bi-biigoshkaawan iniw mikwamiin. Zhigwa imaa namadabinid iniw mishibizhiin, mii dash imaa zhigwa dagwishinoon iniw mikwamiin bi-biigoshkaanid imaa namadabid.**</span>
 
@@ -175,7 +175,7 @@ VAGABOND.
 
 *tcipi‘kwā‘kōcipạn (fifth sentence) is printed without the ki‘- that the same name carries two sentences earlier (kitcipi‘kwā‘kōcîp) — preserved as printed; a printer’s omission of the syllable is suspected (cf. the dropped g in #53 §14). käyā is printed where kayä (gaye) stands elsewhere in the story — preserved as printed; a transposition of the two diacritics is suspected.*
 
-<span class="l-orig">(18) Mīdạc äcipa‘kubīt. Kägä‘t ki‘tciminwäntạm äjikīgitut: “Ạmbäsạnō tawi ki‘tci∙o∙sāmạnimut! Tạga ombācim ki∙a∙‘pī‘tānima‘k aᵉa’ᵘ Mạtcininiwāgä!”</span>
+<span class="l-orig">(18) Mīdạc äcipa‘kubīt.  Kägä‘t ki‘tciminwäntạm äjikīgitut:  “Ạmbäsạnō tawi ki‘tci∙o∙sāmạnimut!  Tạga ombācim ki∙a∙‘pī‘tānima‘k aᵉa’ᵘ Mạtcininiwāgä!”</span>
 
 <span class="l-fiero">**Mii dash ezhi-bakobiid. Geget gichi-minwendam ezhi-giigidod: “Ambesanoo da-wii-gichi-osaamanimod! Daga ombaashim gi-apiitanimak a’aw Majininiwaage!”**</span>
 
@@ -183,7 +183,7 @@ VAGABOND.
 
 <span class="l-gloss">Mii dash ezhi-bakobiid (and then into the water he went). Geget gichi-minwendam (truly pleased was he) ezhi-giigidod (when he spoke, saying): “Ambesanoo da-wii-gichi-osaamanimod! (now, may there rise an exceedingly great wind!) Daga ombaashim (pray, waft him aloft) gi-apiitanimak (with such force of wind) a’aw Majininiwaage! (that Vagabond!)”</span>
 
-<span class="l-orig">(19) Mīdạc iᵉi’ᵘ animādcīpa‘tōt. Kägätsa mạmitāwäntạm wī∙u∙mbācit. Käga‘pī äcimindcimā‘kwīt mi‘tigōnsig, äcipa‘kwa‘kīyāsinig. Mīnawādec mi‘tigunk iwiti icpiming ānugitā‘kwi; äciwäpāsininig īniyo ugigickāganạn pingwācāgit. Käga‘pīgu iᵉi’ᵘ uniciciwaᵉ äcipa‘kwatācinit. Ānīc nā ugạnawâpạmigōn īniᵘ micipicīn.</span>
+<span class="l-orig">(19) Mīdạc iᵉi’ᵘ animādcīpa‘tōt.  Kägätsa mạmitāwäntạm wī∙u∙mbācit.  Käga‘pī äcimindcimā‘kwīt mi‘tigōnsig, äcipa‘kwa‘kīyāsinig.  Mīnawādec mi‘tigunk iwiti icpiming ānugitā‘kwi;  äciwäpāsininig īniyo ugigickāganạn pingwācāgit.  Käga‘pīgu iᵉi’ᵘ uniciciwaᵉ äcipa‘kwatācinit.  Ānīc nā ugạnawâpạmigōn īniᵘ micipicīn.</span>
 
 <span class="l-fiero">**Mii dash i’iw ani-maajiibatood. Geget sa mamidaawendam wii-ombaashid. Gegapii ezhi-minjimaakwiid mitigoonsig, ezhi-bakwakiiyaasinig. Miinawaa dash mitigong iwidi ishpiming aano-gidaakwii; ezhi-webaasininig iniyo ogigishkaaganan bingwaashaagid. Gegapii go i’iw onishishiwag ezhi-bakwataashinid. Aaniish naa oganawaabamigoon iniw mishibizhiin.**</span>
 
@@ -193,7 +193,7 @@ VAGABOND.
 
 *Word-final ’ resolved per M.’s obviative-number ruling: onishishiwa’ → onishishiwag. Per M., 2026.*
 
-<span class="l-orig">(20) Mīdạc iᵉi’ᵘ äjikīkitut: “Ānīc, misa iᵉi’ᵘ kä∙i∙cipōni∙ạ∙g aᵉa’ᵘ Mạtcininiwâgä. Ānīc nā, kayä wīn wâwīyạc ningītōtāg, mīdạc iᵉi’ᵘ wâwiyạc wäntcitōtawạg.”</span>
+<span class="l-orig">(20) Mīdạc iᵉi’ᵘ äjikīkitut:  “Ānīc, misa iᵉi’ᵘ kä∙i∙cipōni∙ạ∙g aᵉa’ᵘ Mạtcininiwâgä.  Ānīc nā, kayä wīn wâwīyạc ningītōtāg, mīdạc iᵉi’ᵘ wâwiyạc wäntcitōtawạg.”</span>
 
 <span class="l-fiero">**Mii dash i’iw ezhi-giigidod: “Aaniish, mii sa i’iw ge-izhi-booni’ag a’aw Majininiwaage. Aaniish naa, gaye wiin waawiyazh ningii-doodaag, mii dash i’iw waawiyazh wenji-doodawag.”**</span>
 

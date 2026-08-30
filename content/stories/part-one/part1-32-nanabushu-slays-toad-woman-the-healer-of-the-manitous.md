@@ -54,7 +54,7 @@ Nenabosho slays Toad-Woman, the healer of the Manitous (2)
 <span class="l-fiero">**“Aki ekwaag nimbishinawishin, nimbishinawishin saa  
 Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
-<span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, saa (X2)”*</span>
+<span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, saa (X2)”(1)*</span>
 
 <span class="l-gloss">(song carried verbatim, sung again) “Aki ekwaag (from the ends of the earth) nimbishinawishin, nimbishinawishin, saa.”</span>
 
@@ -110,7 +110,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Nookoo, aaniin wenji-nagamoyan?”**</span>
 
-<span class="l-eng">*“O my grandmother! For what reason are you singing?”*</span>
+<span class="l-eng">*“O my grandmother! for what reason are you singing?”*</span>
 
 <span class="l-gloss">“Nookoo (O my grandmother), aaniin wenji-nagamoyan? (why is it you are singing?)”</span>
 
@@ -118,7 +118,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Kaa, Nenabosho gosha wii-nandobikaaso.**</span>
 
-<span class="l-eng">*“Oh, a snare is really to be laid for Nenabosho.*</span>
+<span class="l-eng">*“Oh, a snare is really to be laid for Nänabushu.*</span>
 
 <span class="l-gloss">“Kaa (oh), Nenabosho gosha (for Nenabosho indeed) wii-nandobikaaso (a snare is to be set).</span>
 
@@ -134,7 +134,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Nenabosho gosha wiin gaa-bimwaad iiniw ogimaa mishibizhiin.”**</span>
 
-<span class="l-eng">*It was Nenabosho who really shot the chief of the big lynxes.”*</span>
+<span class="l-eng">*It was Nänabushu who really shot the chief of the big lynxes.”*</span>
 
 <span class="l-gloss">Nenabosho gosha wiin (it was Nenabosho indeed) gaa-bimwaad (who shot) iiniw ogimaa mishibizhiin (the chief of the big lynxes).”</span>
 
@@ -142,7 +142,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Nookoo, aaniin wiin i’iw waa-onji-nandoobikaazod a’aw Nenabosho?”**</span>
 
-<span class="l-eng">*“O my grandmother! Pray, why is a snare to be set for Nenabosho?”*</span>
+<span class="l-eng">*“O my grandmother! pray, why is a snare to be set for Nänabushu?”*</span>
 
 <span class="l-gloss">“Nookoo (O my grandmother), aaniin wiin i’iw (why is it) waa-onji-nandoobikaazod (that a snare is to be set for) a’aw Nenabosho? (that Nenabosho?)”</span>
 
@@ -150,7 +150,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Kaa, gaawiin ash wiin mii go iw ezhi-saagisininig i’iw obikwak a’aw Nenabosho.**</span>
 
-<span class="l-eng">*“Oh, well! It is for the arrow of Nenabosho, which is now sticking out of (the chief of the big lynxes).*</span>
+<span class="l-eng">*“Oh, well! it is for the arrow of Nänabushu, which is now sticking out of (the chief of the big lynxes).*</span>
 
 <span class="l-gloss">“Kaa, gaawiin ash wiin (oh, well — *editorial query carried*) mii go iw ezhi-saagisininig (it is because it is sticking out) i’iw obikwak (that arrow) a’aw Nenabosho (of Nenabosho).</span>
 
@@ -174,11 +174,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Nookomis! Aaniin dash wiin i’iw i’iwe gibiminagamoyan?”**</span>
 
-<span class="l-eng">*“O my grandmother! Pray, what was that you were singing about?”*</span>
+<span class="l-eng">*“O my grandmother! pray, what was that you were singing about?”*</span>
 
 <span class="l-gloss">“Nookomis! (O my grandmother!) Aaniin dash wiin i’iw i’iwe (and what was that) gibiminagamoyan? (that you were singing along?)”</span>
 
-<span class="l-orig">(21) “Kā, kāwīnạc wīn nīnạnāntawi∙ā∙nān ‘aᵉa’ᵘ ugimā, mīdạc iᵘ äna∙ạ∙mān ‘iᵉi’wä nạnāndawi∙ạ∙g :</span>
+<span class="l-orig">(21) “Kā, kāwīnac wīn nīnạnāntawi∙ā∙nān ‘aᵉa’ᵘ ugimā, mīdạc iᵘ äna∙ạ∙mān ‘iᵉi’wä nạnāndawi∙ạ∙g :</span>
 
 <span class="l-fiero">**“Kaa, gaawiin-ash wiin niinanaandawi’aanaan a’aw ogimaa, mii dash iw ena’amaan i’iwe nanaandawi’ag:**</span>
 
@@ -186,11 +186,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-gloss">“Kaa, gaawiin-ash wiin (oh, why) niinanaandawi’aanaan a’aw ogimaa (we are doctoring the chief), mii dash iw ena’amaan (and this is what I sing) i’iwe nanaandawi’ag (when I am healing him):</span>
 
-<span class="l-orig">(22) “‘A‘kiā‘kwāg nimbicinawicin.’</span>
+<span class="l-orig">(22) “‘A‘kiä‘kwāg nimbicinawicin.’</span>
 
 <span class="l-fiero">**‘Aki ekwaag nimbishinawashin.’**</span>
 
-<span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles”*</span>
+<span class="l-eng">*“‘From the ends of the earth do I come with the sound of my rattles.’*</span>
 
 <span class="l-gloss">(song carried verbatim) ‘Aki ekwaag (from the ends of the earth) nimbishinawashin (I come with the sound of my rattles).’</span>
 
@@ -198,7 +198,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Mii sa iw aapiji giniin niminotaagoo.**</span>
 
-<span class="l-eng">*It is so much pleasure I impart when I sing.*</span>
+<span class="l-eng">*“It is so much pleasure I impart when I sing.*</span>
 
 <span class="l-gloss">“Mii sa iw aapiji giniin (it is so much) niminotaagoo (pleasing is the sound of me when I sing).</span>
 
@@ -214,7 +214,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Nookoo! Aandi dinong namadabiyan?”**</span>
 
-<span class="l-eng">*“O my grandmother! At what place do you sit?”*</span>
+<span class="l-eng">*“O my grandmother! at what place do you sit?”*</span>
 
 <span class="l-gloss">“Nookoo! (O my grandmother!) Aandi dinong (at what place) namadabiyan? (do you sit?)”</span>
 
@@ -222,7 +222,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Aapiji go mayaawishkaand mii go imaa endanabiyaan.**</span>
 
-<span class="l-eng">*“In the very middle of the doorway is where I always sit.*</span>
+<span class="l-eng">*In the very middle of the doorway is where I always sit.*</span>
 
 <span class="l-gloss">“Aapiji go mayaawishkaand (right in the very middle of the doorway) mii go imaa endanabiyaan (that is where I always sit).</span>
 
@@ -230,7 +230,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Iw idash gaa-izhichigewaad, aabita gashkiikibide; mii dash iwiti awasaya’ii zhingishing a’aw nindoo-gimaaminaan.”**</span>
 
-<span class="l-eng">*Now, this is what they have done: a partition divides the space in two equal parts; and so over on the other side lies the chief of ours.”*</span>
+<span class="l-eng">*Now, this is what they have done: a partition divides the space in  two equal parts; and so over on the other side lies that chief of ours.”*</span>
 
 <span class="l-gloss">Iw idash gaa-izhichigewaad (now this is what they have done), aabita gashkiikibide (a partition divides it in half); mii dash iwiti awasaya’ii (and so over on the other side) zhingishing a’aw nindoo-gimaaminaan (lies that chief of ours).”</span>
 
@@ -270,7 +270,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Nookoo! Aaniin wiin ii’iw gaa-izhinawe’aad iiniw Nenaboshowan?”**</span>
 
-<span class="l-eng">*“O my grandmother! How was it that (the chief) angered Nenabosho?”*</span>
+<span class="l-eng">*“O my grandmother! how was it that (the chief) angered Nänabushu?”*</span>
 
 <span class="l-gloss">“Nookoo! (O my grandmother!) Aaniin wiin ii’iw (how was it) gaa-izhinawe’aad (that he angered) iiniw Nenaboshowan? (that Nenabosho?)”</span>
 
@@ -286,7 +286,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Aapiji Nenabosho ozaagi’aabaniin iiniw odoozhiman.**</span>
 
-<span class="l-eng">*Very fond was Nenabosho of his nephew.*</span>
+<span class="l-eng">*Very fond was Nänabushu of his nephew.*</span>
 
 <span class="l-gloss">Aapiji Nenabosho ozaagi’aabaniin (very fond was Nenabosho) iiniw odoozhiman (of his nephew).</span>
 
@@ -294,7 +294,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Mii dash i’iw gii-nishki’aad, gaa-onji-pimogod.”**</span>
 
-<span class="l-eng">*It was on that account (the chief) angered him, which was why he was shot (by Nenabosho).”*</span>
+<span class="l-eng">*It was on that account (the chief) angered him, which was why he was shot (by Nänabushu).”*</span>
 
 <span class="l-gloss">Mii dash i’iw gii-nishki’aad (it was on that account that he angered him), gaa-onji-pimogod (which was why he was shot by him).”</span>
 
@@ -310,7 +310,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Gaawiin sa wiin agaanhsi manidoowisii a’aw Nenabosho ezhinikaazod.”**</span>
 
-<span class="l-eng">*By no means a small manitou is he who goes by the name of Nenabosho.”*</span>
+<span class="l-eng">*By no means a small manitou is he who goes by the name of Nänabushu.”*</span>
 
 <span class="l-gloss">Gaawiin sa wiin agaanhsi manidoowisii (by no means a small manidoo is he) a’aw Nenabosho ezhinikaazod (the one called Nenabosho).”</span>
 
@@ -318,7 +318,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Odaadaganaabamigoon: Nyaanh, maagizhaa giin Nenabosho!”**</span>
 
-<span class="l-eng">*“She lifted her head and looked up at him: “Ah, me! Perhaps you are Nenabozho!”*</span>
+<span class="l-eng">*She lifted her head and looked up at him: “Ah, me! perhaps you are Nänabushu!”*</span>
 
 <span class="l-gloss">Odaadaganaabamigoon (she lifted her head and looked up at him): “Nyaanh (ah, me), maagizhaa giin Nenabosho! (perhaps you are Nenabosho!)”</span>
 
@@ -326,7 +326,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**“Tediwe! Gaawiin minik i’iw gidaa-kaganoonigosii Nenabosho aawid.**</span>
 
-<span class="l-eng">*“Nonsense! Not so long as this would you be held in conversation if it were Nenabosho.*</span>
+<span class="l-eng">*“Nonsense! Not so long as this would you be held in conversation if it were Nänabushu.*</span>
 
 <span class="l-gloss">“Tediwe! (nonsense!) Gaawiin minik i’iw (not so long as this) gidaa-kaganoonigosii (would you be held in talk) Nenabosho aawid (if it were Nenabosho).</span>
 
@@ -334,7 +334,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Mewizha gidaa-niiwana’og giishpin aawiyaan Nenabosho.**</span>
 
-<span class="l-eng">*Long ago would you have been clubbed to death if I were Nenabosho.*</span>
+<span class="l-eng">*Long ago would you have been clubbed to death if I were Nänabushu.*</span>
 
 <span class="l-gloss">Mewizha gidaa-niiwana’og (long ago you would have been clubbed to death) giishpin aawiyaan Nenabosho (if I were Nenabosho).</span>
 
@@ -342,7 +342,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Nookoo! Daga, miinawaa maajii’an ginagamon!**</span>
 
-<span class="l-eng">*O my grandmother! Do start that song of yours once more!*</span>
+<span class="l-eng">*O my grandmother! do start that song of yours once more!*</span>
 
 <span class="l-gloss">Nookoo! (O my grandmother!) Daga, miinawaa maajii’an ginagamon! (come, start your song once more!)</span>
 
@@ -358,7 +358,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-fiero">**Aaniish geyaabi:**</span>
 
-<span class="l-eng">*so once more:*</span>
+<span class="l-eng">*So once more:*</span>
 
 <span class="l-gloss">Aaniish geyaabi (well, once more):</span>
 
@@ -375,7 +375,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Wegoneniiwinen Nenabosho oniiwanawaan.**</span>
 
-<span class="l-eng">*What did Nenabosho do but club her to death.*</span>
+<span class="l-eng">*What did Nänabushu do but club her to death.*</span>
 
 <span class="l-gloss">Wegoneniiwinen Nenabosho (what did Nenabosho do but) oniiwanawaan (club her to death).</span>
 
@@ -391,7 +391,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Aatayaa, Nenabosho omaajiikawaan i’iw bakonaad, wawiinge obakonaan.**</span>
 
-<span class="l-eng">*Ah, Nenabosho then set to work flaying her, from every part he removed the skin.*</span>
+<span class="l-eng">*Ah! Nänabushu then set to work flaying her, from every part he removed the skin.*</span>
 
 <span class="l-gloss">Aatayaa (ah), Nenabosho omaajiikawaan (Nenabosho set to work on her) i’iw bakonaad (flaying her), wawiinge obakonaan (thoroughly he skinned her).</span>
 
@@ -399,7 +399,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Gaagiizhi-pakonaad, aapiji agaashiinyikaaso Nenabosho.**</span>
 
-<span class="l-eng">*After he had finished flaying her, very small then Nenabosho made himself.*</span>
+<span class="l-eng">*After he had finished flaying her, very small then Nänabushu made himself.*</span>
 
 <span class="l-gloss">Gaagiizhi-pakonaad (after he had finished skinning her), aapiji agaashiinyikaaso Nenabosho (very small Nenabosho made himself).</span>
 
@@ -431,16 +431,16 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Aah, Nenabosho ezhi-gwaashkwanid ezhi-maajii’ang:**</span>
 
-<span class="l-eng">*Ah! As Nenabosho went leaping along, he then began to sing:*</span>
+<span class="l-eng">*Ah! as Nänabushu went leaping along, he then began to sing:*</span>
 
 <span class="l-gloss">Aah, Nenabosho ezhi-gwaashkwanid (ah, as Nenabosho went leaping along) ezhi-maajii’ang (he then started up the song):</span>
 
-<span class="l-orig">(53) “A‘ki∙a∙‘kwāg nimbicinawicin, nimbicinawicin, sāⁿ. A‘ki∙a∙‘kwāg nimbicinawicin, nimbicinawicin, sāⁿ.”</span>
+<span class="l-orig">(53) “A‘ki∙ä∙‘kwāg nimbicinawicin, nimbicinawicin, sāⁿ. A‘ki∙ä∙‘kwāg nimbicinawicin, nimbicinawicin, sāⁿ.”</span>
 
 <span class="l-fiero">**“Aki ekwaag nimbishinawishin, nimbishinawishin, saa.  
 Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
-<span class="l-eng">*“From the ends of the earth do I come with the sound of rattles, saa.”*</span>
+<span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, saa.”*</span>
 
 <span class="l-gloss">(song carried verbatim, sung again) “Aki ekwaag (from the ends of the earth) nimbishinawishin, nimbishinawishin, saa.”</span>
 
@@ -488,7 +488,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Aaniish aapiji enigok biminagamo, noondawaa biminagamod.**</span>
 
-<span class="l-eng">*Now ever so loud he sang as he went; he was heard as he went singing along.*</span>
+<span class="l-eng">*Now, ever so loud he sang as he went; he was heard as he went singing along.*</span>
 
 <span class="l-gloss">Aaniish aapiji enigok biminagamo (now ever so loud he sang as he went), noondawaa biminagamod (he was heard going along singing).</span>
 
@@ -520,7 +520,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**“Nooko, gidagwishin ina?”**</span>
 
-<span class="l-eng">*“O my grandmother! Have you come home?”*</span>
+<span class="l-eng">*“O my grandmother! have you come home?”*</span>
 
 <span class="l-gloss">“Nooko (O my grandmother), gidagwishin ina? (have you arrived home?)”</span>
 
@@ -540,7 +540,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-gloss">Eni-izhi-piindiged (as she entered), wagijijiingwan namadabiwag i’iw ooshisa (upon her lap sat her grandchildren).</span>
 
-<span class="l-orig">(66) Wägunänīwinän päcig īni’ᵘ ōsisan owâbamigōn i∙i∙mā kīkā‘kikickawāt īni’ᵘ umaka‘kīwayānạn.</span>
+<span class="l-orig">(66) Wägunänīwinän päcig īni’ᵘ ōsisan owâbạmigōn i∙i∙mā kīkā‘kikickawāt īni’ᵘ umaka‘kīwayānạn.</span>
 
 <span class="l-fiero">**Wegoneniiwinen bezhig iiniw ooshisan owaabamigoon i’imaa giigaagikiishkawaad* iiniw omakakiiwayaanan.**</span>
 
@@ -552,7 +552,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**“Nooko, aaniin wiin i’imaa gii-izhinaagoziyan?**</span>
 
-<span class="l-eng">*“O my grandmother! Why do you look that way there?*</span>
+<span class="l-eng">*“O my grandmother! why do you look that way there?*</span>
 
 <span class="l-gloss">“Nooko (O my grandmother), aaniin wiin i’imaa (why is it there) gii-izhinaagoziyan? (that you look that way?)</span>
 
@@ -568,7 +568,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**“Kaa, nimbigwadagii izhiikamaaniko iiniw wiigobiin wii-andawaabikaazod a’aw Nenabosho.”**</span>
 
-<span class="l-eng">*“Oh I wore it through while at work on the bast (to be used for a snare) that is to be laid for Nenabosho.”*</span>
+<span class="l-eng">*“Oh, I wore it through while at work on the bast (to be used for a snare) that is to be laid for Nänabushu.”*</span>
 
 <span class="l-gloss">“Kaa, nimbigwadagii (oh, I wore it ragged) izhiikamaaniko iiniw wiigobiin (while at work on the basswood bark) wii-andawaabikaazod a’aw Nenabosho (with which a snare is to be sought for Nenabosho).”</span>
 
@@ -584,7 +584,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Mii sa geget gaa-bii-izhi-sagaswe’ind, mii dash gaa-izhi-maajaad.**</span>
 
-<span class="l-eng">*Thereupon truly was she invited to the assembly to smoke, accordingly then she went.*</span>
+<span class="l-eng">*Thereupon truly was she invited to the assembly to smoke. Accordingly then she went.*</span>
 
 <span class="l-gloss">Mii sa geget gaa-bii-izhi-sagaswe’ind (thereupon truly she was invited to come and smoke), mii dash gaa-izhi-maajaad (and so then she went).</span>
 
@@ -596,13 +596,15 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-gloss">Zhigwa gookoonaan obeshwaabandaan* i’iw wiigiwaam (presently our grandmother drew near in sight of the wigwam — *editorial mark carried*).</span>
 
-<span class="l-orig">(73) Ä‘tawā, ckwāntänk ānīn kä∙i∙cinạnk udōcimiwayānạn kipickwāntäigäwān.</span>
+<span class="l-orig">(73) Ä‘tawā, ckwāntänk ānīn kä∙i∙cinạnk udōcimiwayānạn kipickwāntäigäwän.</span>
 
 <span class="l-fiero">**Etawaa, shkwaandeng aaniin ge-zhinang odoozhimiwayaanan gibishkwaande’igewen.**</span>
 
-<span class="l-eng">*Oh, in the doorway what should he behold but the skin of his nephew then being used for a flap over the entry-way.*</span>
+<span class="l-eng">*Oh, in the doorway what should he(3) behold but the skin of his nephew then being used for a flap over the entry-way.*</span>
 
 <span class="l-gloss">Etawaa (oh), shkwaandeng (in the doorway) aaniin ge-zhinang (what should he behold but) odoozhimiwayaanan (his nephew’s skin) gibishkwaande’igewen (being used as a door-flap).</span>
+
+*⭐ Layer-1 correction, 2026-08-28 (B30’s blind control chunk). p.268 l.3 prints kipickwāntäigäwän — the mark over the final a is a DIAERESIS (two separated dots), settled at 40× in a crop that holds all three sorts inside this one word: the solid macron of wā, the diaereses of täi and gä, and this mark, identical in form to those two and plainly unlike the bar of wā. The record read kipickwāntäigäwān. Fixed under register §1.1 (a Jones-layer defect is fixed outright, with its witness). ⚠️ The Fiero was already right — it reads gibishkwaande’igewen, with the e — so nothing in Layer 2 or 4 was touched and this is not an escalation.*
 
 <span class="l-orig">(74) Mīgu iᵘ wīpitāni äcigigisininik.</span>
 
@@ -616,7 +618,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Etiwe Nenabosho! Mii go iw ezhi-siigisenig iiniw oshkiinzhigoon.**</span>
 
-<span class="l-eng">*Sorrowful Nenabosho! Then did tears pour from his eyes.*</span>
+<span class="l-eng">*Sorrowful Nänabushu! then did tears pour from his eyes.*</span>
 
 <span class="l-gloss">Etiwe Nenabosho! (poor Nenabosho!) Mii go iw ezhi-siigisenig iiniw oshkiinzhigoon (then tears poured from his eyes).</span>
 
@@ -624,7 +626,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Gegaa go ezhi-gichi-mawid, waawiizhwiin apii eni-baakindenang.**</span>
 
-<span class="l-eng">*And almost did he weep aloud, especially when he opened the flap on his way in.*</span>
+<span class="l-eng">*And almost did he weep aloud, especially when opened the flap on his way in.*</span>
 
 <span class="l-gloss">Gegaa go ezhi-gichi-mawid (and almost he wept aloud), waawiizhwiin apii eni-baakindenang (especially when he opened the flap going in).</span>
 
@@ -644,15 +646,15 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-gloss">Ishkwaandeng ezhi-wonabid (by the doorway he sat down).</span>
 
-<span class="l-orig">(79) Kägä‘t owâbandān ‘iᵉi’ᵘ kacki‘kipitänik, mīdạc iwiti äntạnwäwitạminit īni’ᵘ ugimān mạmātwänit.</span>
+<span class="l-orig">(79) Kägä‘t owâbạndān ‘iᵉi’ᵘ kacki‘kipitänik, mīdạc iwiti äntạnwäwitạminit īni’ᵘ ugimān mạmātwänit.</span>
 
 <span class="l-fiero">**Geget owaabandaan i’iw gashkikibidenig, mii dash iwidi endanwewidaminid iiniw ogimaan mamaadwenid.**</span>
 
-<span class="l-eng">*Sure enough, he saw that there was a partition, and it was over beyond he could hear the sound of the chief as he groaned in pain.*</span>
+<span class="l-eng">*Sure enough, he saw that there was a partition, and it was over  beyond he could hear the sound of the chief as he groaned in pain.*</span>
 
 <span class="l-gloss">Geget owaabandaan i’iw gashkikibidenig (sure enough he saw there was a partition), mii dash iwidi endanwewidaminid iiniw ogimaan mamaadwenid (and over beyond he could hear the chief groaning in pain).</span>
 
-<span class="l-orig">(80) Cigwasa‘ mādci‘tāwaᵉ nänātawi∙i∙wänit.</span>
+<span class="l-orig">(80) Cigwasa’ mādci‘tāwaᵉ nänātawi∙i∙wänit.</span>
 
 <span class="l-fiero">**Zhigwa sa maajitaawag nenaadawi’iwenid.**</span>
 
@@ -660,7 +662,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-gloss">Zhigwa sa maajitaawag nenaadawi’iwenid (already those who were to heal began).</span>
 
-<span class="l-orig">(81) Mīsa iᵘ äjipācitcita‘ku‘kīwāt iwiti äntạnwäwitaminit īni’ᵘ mwā‘kunänit.</span>
+<span class="l-orig">(81) Mīsa iᵘ äjipācitcita‘ku‘kīwāt iwiti äntạnwäwitạminit īni’ᵘ mwā‘kunänit.</span>
 
 <span class="l-fiero">**Mii sa iw ezhi-baazhijidakokiiwaad iwidi endanwewidaminid iiniw mwaakonenid.**</span>
 
@@ -688,7 +690,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-fiero">**Aatayaa, Nenabosho ezhi-maajitaad, omaajiwebinaan iiniw zhiishiigwanan, aapiji enigok nagamo:**</span>
 
-<span class="l-eng">*Well, when Nenabosho began, he began wielding the rattles with a swing, very loud he sang:*</span>
+<span class="l-eng">*Well, when Nänabushu began, he began wielding the rattles with a swing, very loud he sang:*</span>
 
 <span class="l-gloss">Aatayaa (well), Nenabosho ezhi-maajitaad (when Nenabosho began), omaajiwebinaan iiniw zhiishiigwanan (he swung the rattles into motion), aapiji enigok nagamo (very loud he sang):</span>
 
@@ -697,8 +699,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 <span class="l-fiero">**“Aki ekwaag nimbishinawishin, nimbishinawishin, saa.  
 Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
-<span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, saa.”  
-Ina’am ((thus) he sang).*</span>
+<span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, saa.”*</span>
 
 <span class="l-gloss">(song carried verbatim, sung again) “Aki ekwaag (from the ends of the earth) nimbishinawishin, nimbishinawishin, saa.”</span>
 
@@ -718,7 +719,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-gloss">Zhayiigwa basigwii (presently he rose to his feet) ezhi-izhaad ogimaamishibizhiin (when he went over to the chief big-lynx).</span>
 
-<span class="l-orig">(88) Ä‘tawā, a‘pī äni∙ō∙nabī‘tawāt, wäntcidạgu wācä‘pīnit ‘iᵉi‘wä ubikwa‘k kīsāgā‘kusinini.</span>
+<span class="l-orig">(88) Ä‘tawā, a‘pī äni∙ō∙nabī‘tawāt, wäntcidạgu wācä‘pīnit ‘iᵉi’wä ubikwa‘k kīsāgā‘kusinini.</span>
 
 <span class="l-fiero">**Etawaa, apii eni-oonabiidawaad, wenjida go waazhebiinid i’iwe obikwak gii-saagaakosinini.**</span>
 
@@ -734,11 +735,11 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-gloss">Mii go iw bagidanaamonid (accordingly when he breathed out), enaagoshkaanig (the arrow swayed to and fro).</span>
 
-<span class="l-orig">(90) Wäwänigu udōta‘pinān ‘iᵉi’ᵘ ubikwa‘k äcicicigwänawāt.</span>
+<span class="l-orig">(90) Wäwänigu udōta‘pinān iᵉi’ᵘ ubikwa‘k äcicicigwänawāt.</span>
 
 <span class="l-fiero">**Weweni go odoodabinaan i’iw obikwak ezhi-shishigwenawaad.**</span>
 
-<span class="l-eng">*Now with care (Nenabosho) seized the arrow, which he worked back and forth into him.*</span>
+<span class="l-eng">*Now with care (Nänabushu) seized the arrow, which he worked back and forth into him.*</span>
 
 <span class="l-gloss">Weweni go odoodabinaan i’iw obikwak (carefully he took hold of the arrow), ezhi-shishigwenawaad (working it back and forth in him).</span>
 
@@ -746,19 +747,19 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Aataa, Nenabosho ezhi-basigonjised, ezhi-kaakikiwebishkawaad iiniw omakakiiwayaanan, mii go imaa wenji-pabiishigonind.**</span>
 
-<span class="l-eng">*Ah! When Nenabosho sprang to his feet, he thus tore up that toad-skin of his, whereupon they tried in vain to catch him there.*</span>
+<span class="l-eng">*Ah! when Nänabushu sprang to his feet, he thus tore up that  toad-skin of his, whereupon they tried in vain to catch him there.*</span>
 
 <span class="l-gloss">Aataa (ah), Nenabosho ezhi-basigonjised (when Nenabosho sprang up), ezhi-kaakikiwebishkawaad iiniw omakakiiwayaanan (tearing off that toad-skin of his), mii go imaa wenji-pabiishigonind (whereupon there they grabbed at him in vain).</span>
 
-<span class="l-orig">(92) “‘Ä‘ä‘ēi! mīsa iᵘ piyā‘pitcinạnāt ‘aᵉa’ᵘ Nänabucu īni’ᵘ kitōgimāminānin.”</span>
+<span class="l-orig">(92) “‘Ä‘ä‘ēⁱ! mīsa iᵘ piyā‘pitcinạnāt ‘aᵉa’ᵘ Nänabucu īni’ᵘ kitōgimāminānin.”</span>
 
 <span class="l-fiero">**“E’e’ii! Mii sa iw bi-yaabijinanaad a’aw nenabosho iiniw gidoo-gimaaminaanin.”**</span>
 
-<span class="l-eng">*“Alas! It was to kill this chief of ours that Nenabosho came.”*</span>
+<span class="l-eng">*“Alas! it was to kill this chief of ours that Nänabushu came.”*</span>
 
 <span class="l-gloss">“E’e’ii! (alas!) Mii sa iw bi-yaabijinanaad a’aw nenabosho (it was to finish off that Nenabosho came) iiniw gidoo-gimaaminaanin (this chief of ours).”</span>
 
-<span class="l-orig">(93) Mīgu imā äni∙ō∙ntcipa‘kibinät īni’ᵘ udōcimiwayānạn.</span>
+<span class="l-orig">(93) Mīgu imā äni∙ō∙ntcipa‘kibināt īni’ᵘ udōcimiwayānạn.</span>
 
 <span class="l-fiero">**Mii go imaa eni-oonji-pakibinaad iiniw odoozhimiwayaanan.**</span>
 
@@ -774,7 +775,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-gloss">Etawaa (oh), mii go iw baa-akobiinig bimooshkaaninig (thereupon as the flood came rolling in), aano-naajiba’iwed i’iw odaanosaagan (he fled in vain seeking his raft).</span>
 
-<span class="l-orig">(95) Ä‘tawā, mintcimigu cigwa’ udānupäcwäntān, cayigwasa mīdạc ä‘ta ustigwān änisāgibatōt.</span>
+<span class="l-orig">(95) Ä‘tawā, mintcimigu cigwa’ udānupäcwäntān, cayīgwasa mīdạc ä‘ta ustigwān änisāgibatōt.</span>
 
 <span class="l-fiero">**Etawaa, minjimigo zhigwa odaanopeshwendaan, zhayiigwa sa mii dash eta oshtigwaan eni-saagibatood.**</span>
 
@@ -782,11 +783,11 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-gloss">Etawaa (oh), minjimigo zhigwa odaanopeshwendaan (at the very moment he felt he was nearing it), zhayiigwa sa mii dash eta oshtigwaan eni-saagibatood (already then only his head was running out above the water).</span>
 
-<span class="l-orig">(96) Cayīgwa udäbābạndān, ạgāwa udōdi‘tān; mīdạc äcipōsit ‘iᵉi’ᵘ udānusāgạn, ä‘tawā Nänabucu, skwatci nä‘kibīni‘k wạtciwạn.</span>
+<span class="l-orig">(96) Cayīgwa udäbābạndān, ạgāwa udōdi‘tān; mīdạc äcipōsit iᵉi’ᵘ udānusāgạn, ä‘tawā Nänabucu, skwatci nä‘kibīni‘k wạtciwạn.</span>
 
 <span class="l-fiero">**Zhayiigwa odebaabandaan, agaawa odooditaan; mii dash ezhi-poozid i’iw odaanosaagan, etawaa Nenabosho, shkwaji nekibiinig wajiwan.**</span>
 
-<span class="l-eng">*Presently he came in sight of it, barely did he get to it; and when he got aboard his raft, poor Nenabosho (saw that) now under water were the mountains.*</span>
+<span class="l-eng">*Presently he came in sight of it, barely did he get to it; and when he got aboard his raft, poor Nänabushu (saw that) now under water were the mountains.*</span>
 
 <span class="l-gloss">Zhayiigwa odebaabandaan (presently he caught sight of it), agaawa odooditaan (barely he reached it); mii dash ezhi-poozid i’iw odaanosaagan (and when he got aboard his raft), etawaa Nenabosho (poor Nenabosho), shkwaji nekibiinig wajiwan (the mountains were last going under the water).</span>
 
@@ -834,11 +835,11 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Mii maawiin i’iw geget baataajigeyaan,” inendam.**</span>
 
-<span class="l-eng">*“Perhaps it is true that I have done a wrong (which may never be repaired), he thought.*</span>
+<span class="l-eng">*“Perhaps it is true that I have done a wrong (which may never be repaired),” he thought.*</span>
 
 <span class="l-gloss">Mii maawiin i’iw geget baataajigeyaan (perhaps it is true that I have done wrong),” inendam (he thought).</span>
 
-<span class="l-orig">(103) Ogạnōnāᵉ awäsīyaᵉ: “Ä‘tawā mīsa iᵘ kīwạnī‘käyān ‘iᵉi’ᵘ a‘ki.</span>
+<span class="l-orig">(103) Ogạnōnāᵉ awäsīyaᵉ: “Ä‘tawā mīsa iᵘ kīwạnī‘käyān iᵉi’ᵘ a‘ki.</span>
 
 <span class="l-fiero">**Oganoonaa awesiinya: “Etawaa mii sa iw gii-waniikeyaan i’iw aki.**</span>
 
@@ -846,7 +847,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-gloss">Oganoonaa awesiinya (he spoke to the animal-kind): “Etawaa mii sa iw gii-waniikeyaan i’iw aki (pity it is that I forgot the earth).</span>
 
-<span class="l-orig">(104) Ạmbägic pạngī pi∙a∙yāyạmbān ‘iᵉi’ᵘ a‘ki!</span>
+<span class="l-orig">(104) Ạmbägic pạngī pi∙a∙yāyāmbān ‘iᵉi’ᵘ a‘ki!</span>
 
 <span class="l-fiero">**Ambegish bangii bi-ayaayaambaan i’iw aki!**</span>
 
@@ -890,7 +891,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Mii dash a’aw maang nitam genoonid: “Daga. Giin, nitam nandawaabandan i’iw aki.**</span>
 
-<span class="l-eng">*Accordingly the loon was the first to be addressed: “I say, you, do you first go seek for some earth.*</span>
+<span class="l-eng">*Accordingly the Loon was the first to be addressed: “I say, you, do you first go seek for some earth.*</span>
 
 <span class="l-gloss">Mii dash a’aw maang nitam genoonid (accordingly the loon was the first addressed): “Daga. Giin, nitam nandawaabandan i’iw aki (I say, you, first go seek the earth).</span>
 
@@ -906,7 +907,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Aaniish, miinooj sa” ikido a’aw maang.**</span>
 
-<span class="l-eng">*“Well, I will try,” said the loon.*</span>
+<span class="l-eng">*“Well, I will try,” said the Loon.*</span>
 
 <span class="l-gloss">“Aaniish, miinooj sa (well, I will try),” ikido a’aw maang (said the loon).</span>
 
@@ -914,7 +915,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Etaa, a’aw maang noondaagozi: “Aa, wiiwiiwi!”**</span>
 
-<span class="l-eng">*Lo, a cry the loon was heard to give: “Aah, wiiwiiwi!”*</span>
+<span class="l-eng">*Lo, a cry the Loon was heard to give: “Ā, wīwīwi!”*</span>
 
 <span class="l-gloss">Etaa, a’aw maang noondaagozi (lo, the loon was heard to cry): “Aa, wiiwiiwi!” (cry carried verbatim)</span>
 
@@ -938,7 +939,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Etawaa ashimaangwan wedaapinaad.**</span>
 
-<span class="l-eng">*It was a poor dead loon (Nenabosho) then picked up.*</span>
+<span class="l-eng">*It was a poor dead loon (Nänabushu) then picked up.*</span>
 
 <span class="l-gloss">Etawaa ashimaangwan wedaapinaad (it was a poor dead loon he then took up).</span>
 
@@ -946,7 +947,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Nenabosho gaa-odaapinaad, ezhi-babwedaanaad, mii sa neyaap gii-bimaadizinid.**</span>
 
-<span class="l-eng">*After Nenabosho had picked him up, he then breathed upon him, wherat back to life he came.*</span>
+<span class="l-eng">*After Nänabushu had picked him up, he then breathed upon him, whereat back to life he came.*</span>
 
 <span class="l-gloss">Nenabosho gaa-odaapinaad (after Nenabosho had taken him up), ezhi-babwedaanaad (he breathed upon him), mii sa neyaap gii-bimaadizinid (whereupon back to life he came).</span>
 
@@ -954,7 +955,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Ezhi-ganoonaad: “Aaniin, gaawiin inaa gigii-debaabandaziin i’iw aki?”**</span>
 
-<span class="l-eng">*Then (Nenabosho) spoke to him saying: “How now? Did you not come in sight of the earth?”*</span>
+<span class="l-eng">*Then (Nänabushu) spoke to him, saying: “How now? Did you not come in sight of the earth?”*</span>
 
 <span class="l-gloss">Ezhi-ganoonaad (then he spoke to him): “Aaniin, gaawiin inaa gigii-debaabandaziin i’iw aki? (how now, did you not catch sight of the earth?)”</span>
 
@@ -962,7 +963,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Ezhi-kanoonigod Nenabosho: “Gaawiin ganage ningii-debaadandaziin, mii apii gaa-izhi-wanendamaan.”**</span>
 
-<span class="l-eng">*Then was Nenabosho told: “Not even did I come in sight of it, for when (on the way down) did I become insensible.”*</span>
+<span class="l-eng">*Then was Nänabushu told: “Not even did I come in sight of it, for when (on the way down) did I become insensible.”*</span>
 
 <span class="l-gloss">Ezhi-kanoonigod Nenabosho (then Nenabosho was answered): “Gaawiin ganage ningii-debaadandaziin (not even did I catch sight of it), mii apii gaa-izhi-wanendamaan (that was when I lost my senses).”</span>
 
@@ -970,7 +971,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Aapiji zegizi Nenabosho.**</span>
 
-<span class="l-eng">*Very much afraid became Nenabosho.*</span>
+<span class="l-eng">*Very much afraid became Nänabushu.*</span>
 
 <span class="l-gloss">Aapiji zegizi Nenabosho (very much afraid was Nenabosho).</span>
 
@@ -978,7 +979,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Ambe sa, giin amik, daga giin.**</span>
 
-<span class="l-eng">*“Now, you beaver, do you (go).*</span>
+<span class="l-eng">*“Now, you, Beaver, do you (go).*</span>
 
 <span class="l-gloss">“Ambe sa, giin amik (now, you beaver), daga giin (come, you go).</span>
 
@@ -1002,7 +1003,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Aateyaa, mii sa gaye wiin akawe noondaagozid amik.**</span>
 
-<span class="l-eng">*Lo, therefore the beaver too, before (he went), was heard giving forth a cry.*</span>
+<span class="l-eng">*Lo, therefore the Beaver too, before (he went), was heard giving forth a cry.*</span>
 
 <span class="l-gloss">Aateyaa, mii sa gaye wiin akawe noondaagozid amik (lo, so the beaver too first was heard to cry out).</span>
 
@@ -1010,7 +1011,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Apan kwaagid a’aw amik.**</span>
 
-<span class="l-eng">*Then down dived the beaver.*</span>
+<span class="l-eng">*Then down dived the Beaver.*</span>
 
 <span class="l-gloss">Apan kwaagid a’aw amik (then down dived that beaver).</span>
 
@@ -1018,7 +1019,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Etawaa! Babimakwashiwed a’aw amik, mii go iw zhigwa wanendang; aano-tebaabamaad i’iw mitigoo, mii sa gaa-izhi-wanendang.**</span>
 
-<span class="l-eng">*Alas! As down through the water the beaver was going, then was when he became unconscious; (it was when) he tried in vain to get sight of the trees that he lost his wits.*</span>
+<span class="l-eng">*Alas! as down through the water the Beaver was going, then was when he became unconscious; (it was when) he tried in vain to get sight of the trees that he lost his wits.*</span>
 
 <span class="l-gloss">Etawaa! (alas!) Babimakwashiwed a’aw amik (as the beaver was making his way down through the water), mii go iw zhigwa wanendang (then he lost his senses); aano-tebaabamaad i’iw mitigoo (trying in vain to catch sight of the trees), mii sa gaa-izhi-wanendang (that was when he lost his wits).</span>
 
@@ -1026,7 +1027,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Mii sa Nenabosho, ayakawaabid.**</span>
 
-<span class="l-eng">*And now Nenabosho was keeping watch.*</span>
+<span class="l-eng">*And now Nänabushu was keeping watch.*</span>
 
 <span class="l-gloss">Mii sa Nenabosho, ayakawaabid (and so Nenabosho was watching for him).</span>
 
@@ -1034,7 +1035,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Etawaa! Ningoding igo gii-onjaaboshka’agonjisewan miinawaa odagwaashimaan iiniw amikwan ojiimaaning.**</span>
 
-<span class="l-eng">*Alas! By and by up to the surface he came, and he drew the beaver up into his canoe.*</span>
+<span class="l-eng">*Alas! by and by up to the surface he came, and he drew the Beaver up into his canoe.*</span>
 
 <span class="l-gloss">Etawaa! (alas!) Ningoding igo gii-onjaaboshka’agonjisewan (by and by he floated up to the surface), miinawaa odagwaashimaan iiniw amikwan ojiimaaning (and he drew the beaver up into his canoe).</span>
 
@@ -1050,7 +1051,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Mii sa miinawaa gaa-izhi-pabwedaanaad, mii sa neyaap gii-bimaadizinid.**</span>
 
-<span class="l-eng">*And so again, when he had breathed upon him, then accordingly, as before (the beaver) came back to life.*</span>
+<span class="l-eng">*And so again, when he had breathed upon him, then accordingly, as before, (the Beaver) came back to life.*</span>
 
 <span class="l-gloss">Mii sa miinawaa gaa-izhi-pabwedaanaad (and so again, when he had breathed upon him), mii sa neyaap gii-bimaadizinid (then back to life as before he came).</span>
 
@@ -1058,7 +1059,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Ezhi-ganoonaad: “Aaniin gaa-zhiwebiziyan?”**</span>
 
-<span class="l-eng">*Then he spoke to him saying: “How did you fare?”*</span>
+<span class="l-eng">*Then he spoke to him, saying: “How did you fare?”*</span>
 
 <span class="l-gloss">Ezhi-ganoonaad (then he spoke to him): “Aaniin gaa-zhiwebiziyan? (how did you fare?)”</span>
 
@@ -1066,7 +1067,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Etawaa, mii go i’iw debaabamagwaa mitigoog, mii apii gaa-izhi-wanendamaan.”**</span>
 
-<span class="l-eng">*“Why, just as I was coming into view ofthe trees did I become insensible.”*</span>
+<span class="l-eng">*“Why, just as I was coming into view of the trees, then did I become insensible.”*</span>
 
 <span class="l-gloss">“Etawaa, mii go i’iw debaabamagwaa mitigoog (why, just as I was sighting the trees), mii apii gaa-izhi-wanendamaan (then was when I lost my senses).”</span>
 
@@ -1074,7 +1075,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Aaniish naa, mii sa geget niboyang.**</span>
 
-<span class="l-eng">*Well, then, it is certain that now we shall die.*</span>
+<span class="l-eng">*“Well, then, it is certain that now we shall die.*</span>
 
 <span class="l-gloss">“Aaniish naa, mii sa geget niboyang (well then, it is certain we shall now die).</span>
 
@@ -1106,7 +1107,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Aaniish inendam nigig ji-biidood i’iw aki.**</span>
 
-<span class="l-eng">*Now the otter thought that he would fetch the earth.*</span>
+<span class="l-eng">*Now the Otter thought that he would fetch the earth.*</span>
 
 <span class="l-gloss">Aaniish inendam nigig ji-biidood i’iw aki (now the otter thought he would bring the earth).</span>
 
@@ -1114,7 +1115,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Zhigwa akawe nawajimoowag, apan kwaagiinid, aateyaa, ji-ayanagoojininid.**</span>
 
-<span class="l-eng">*So before starting they (all) whooped, then down they dived, (being gone), oh, till they (were drowned and) came floating to the surface.*</span>
+<span class="l-eng">*So before starting they (all) whooped, then down they dived, (being gone) oh, till they (were drowned and) came floating to the surface.*</span>
 
 <span class="l-gloss">Zhigwa akawe nawajimoowag (then first they all whooped), apan kwaagiinid (down they dived), aateyaa, ji-ayanagoojininid (oh, until they came floating up).</span>
 
@@ -1126,11 +1127,11 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-gloss">Minik bebimakwashiwewaad (as many as went down through the water), aanind igo jibwaa-debaabandamowaad (some, before they could sight it) mii iw ezhi-wanendamowaad (then lost their senses).</span>
 
-<span class="l-orig">(139) Āninti dạc kayä äbi‘tawā‘tig mi‘tigunk mī∙i’∙ᵘ äjiwạnäntạmowāt; mīsa’ kāwīn kanagä pạngī awīya ubīdōsīn ‘iᵉi’ᵘ a‘ki.</span>
+<span class="l-orig">(139) Āninti dạc kayä äbi‘tawā‘tig mi‘tigunk mī∙i’∙ᵘ äjiwạnäntạmōwāt; mīsa’ kāwīn kanagä pạngī awīya ubīdōsīn ‘iᵉi’ᵘ a‘ki.</span>
 
 <span class="l-fiero">**Aanindi dash gaye aabitawaatig mitigong mii iw ezhi-wanendamowaad; mii sa gaawiin ganage bangii awiiya obiidoosiin i’iw aki.**</span>
 
-<span class="l-eng">*And now some were halfway down the trees when they then lost their wits; whereupon not even a small bit of earth did any one fetch.*</span>
+<span class="l-eng">*And now some were halfway down the trees when they then lost their  wits; whereupon not even a small bit of earth did any one fetch.*</span>
 
 <span class="l-gloss">Aanindi dash gaye aabitawaatig mitigong (and now some, halfway down the trees) mii iw ezhi-wanendamowaad (then lost their senses); mii sa gaawiin ganage bangii awiiya obiidoosiin i’iw aki (so not even a little earth did any of them bring).</span>
 
@@ -1162,7 +1163,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Nigig idash giigido: “Niin sa niindaano-gii-peshwaabandaan.”**</span>
 
-<span class="l-eng">*And the otter spoke up: “I myself tried to get within easy view of it, but without success.”*</span>
+<span class="l-eng">*And the Otter spoke up: “I myself tried to get within easy view of it, but without success.”*</span>
 
 <span class="l-gloss">Nigig idash giigido (and the otter spoke up): “Niin sa niindaano-gii-peshwaabandaan (I myself tried in vain to get a near sight of it).”</span>
 
@@ -1186,15 +1187,15 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Daga, miinawaa nigig.”**</span>
 
-<span class="l-eng">*“I say, once more otter.”*</span>
+<span class="l-eng">*“I say, once more, Otter.”*</span>
 
 <span class="l-gloss">“Daga, miinawaa nigig (I say, once more, otter).”</span>
 
-<span class="l-orig">(147) Mīsa gägä‘t äjikōgīt, pabima‘kwaciwät; tcibwāgua‘kwạnābāwät, mī∙i’∙ᵘ cigwa täbābạndạnk ‘iᵉi’ᵘ a‘ki mindci migu päcwâbandạnk, äciwạnäntạnk.</span>
+<span class="l-orig">(147) Mīsa gägä‘t äjikōgīt, pabima‘kwaciwät; tcibwāgua‘kwạnābāwät, mī∙i’∙ᵘ cigwa täbābạndạnk ‘iᵉi’ᵘ a‘ki mindci migu päcwâbandạnk, äciwanäntạnk.</span>
 
-<span class="l-fiero">**Mii sa geget ezhi-googiid babimakwashiwed; jibwaa-gwakwanaabaawed, mii iw zhigwa debaabandang i’iw aki minjimigo beshwaabandang ezhi-wanendang.**</span>
+<span class="l-fiero">**Mii sa geget ezhi-googiid babimakwashiwed; jibwaa-gwakwanaabaawed, mii iw zhigwa debaabandang i’iw aki minjimigo beshwaabandang  ezhi-wanendang.**</span>
 
-<span class="l-eng">*Whereupon truly down he dived, down into the water he went; and before he was out of breath, then he came in sight of the earth, and the moment that he got within easy reach of it, then he became insensible.*</span>
+<span class="l-eng">*Whereupon truly down he dived, down into the water he went; and before he was out of breath, then he came in sight of the earth. And the moment that he got within easy reach of it, then he became insensible.*</span>
 
 <span class="l-gloss">Mii sa geget ezhi-googiid babimakwashiwed (whereupon truly he dived, going down through the water); jibwaa-gwakwanaabaawed (before he was out of breath), mii iw zhigwa debaabandang i’iw aki (then he came in sight of the earth) minjimigo beshwaabandang ezhi-wanendang (and the moment he got near it he lost his senses).</span>
 
@@ -1202,7 +1203,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Etawaa! Nenabosho onji-aabooshka’agonjisewan.**</span>
 
-<span class="l-eng">*Alas! Nenabosho (saw) him come floating on the water.*</span>
+<span class="l-eng">*Alas! Nänabushu (saw) him come floating on the water.*</span>
 
 <span class="l-gloss">Etawaa! (alas!) Nenabosho onji-aabooshka’agonjisewan (Nenabosho saw him come floating up to the surface).</span>
 
@@ -1218,7 +1219,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Indawaa neyaap odoodaapinaan.**</span>
 
-<span class="l-eng">*Consequently, just as before, he took (the otter) up.*</span>
+<span class="l-eng">*Consequently, just as before, he took (the Otter) up.*</span>
 
 <span class="l-gloss">Indawaa neyaap odoodaapinaan (consequently, as before, he took him up).</span>
 
@@ -1234,7 +1235,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Mii sa onjida gaawiin nindaa-gashkitoosiin niin ji-biidooyaambaan.”**</span>
 
-<span class="l-eng">*“Why it seemed fated for me not to be able to fetch home (some earth).”*</span>
+<span class="l-eng">*“Why, it seemed fated for me not to be able to fetch home (some earth).”*</span>
 
 <span class="l-gloss">“Mii sa onjida gaawiin nindaa-gashkitoosiin (why, it seemed fated I would not be able) niin ji-biidooyaambaan (to bring it home myself).”</span>
 
@@ -1242,7 +1243,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Etawaa Nenabosho! Mii sa geget zegizid.**</span>
 
-<span class="l-eng">*Poor Nenabosho! Thereupon truly was he scared.*</span>
+<span class="l-eng">*Poor Nänabushu! thereupon truly was he scared.*</span>
 
 <span class="l-gloss">Etawaa Nenabosho! (poor Nenabosho!) Mii sa geget zegizid (thereupon truly was he afraid).</span>
 
@@ -1250,7 +1251,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Tiwe, ogiimikwenimaan iiniw wazhaskwan.**</span>
 
-<span class="l-eng">*Behold, he remembered the muskrat.*</span>
+<span class="l-eng">*Behold, he remembered the Muskrat.*</span>
 
 <span class="l-gloss">Tiwe, ogiimikwenimaan iiniw wazhaskwan (behold, he remembered the muskrat).</span>
 
@@ -1258,7 +1259,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Daga, giin. Minooch, wazhashk, googiin.”**</span>
 
-<span class="l-eng">*“Now you, despite our failure, muskrat, do you dive into the water.”*</span>
+<span class="l-eng">*“Now you, despite our failure, Muskrat, do you dive into the water.”*</span>
 
 <span class="l-gloss">“Daga, giin (now, you). Minooch, wazhashk, googiin (despite all, muskrat, you dive).”</span>
 
@@ -1266,7 +1267,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Aaniish, miinoch maanoo gaye niin ninga-nisaabaawe.”**</span>
 
-<span class="l-eng">*“Well, anyhow, I will try but I too shall drown.”*</span>
+<span class="l-eng">*“Well, anyhow, I will try; but I too shall drown.”*</span>
 
 <span class="l-gloss">“Aaniish, miinoch maanoo gaye niin (well, anyhow, let me too) ninga-nisaabaawe (I shall drown / I will go drown).”</span>
 
@@ -1274,15 +1275,15 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Ahaaw, wazhashk, ayaangwaamizin.”**</span>
 
-<span class="l-eng">*“Good, muskrat, do all you can.”*</span>
+<span class="l-eng">*“Good, Muskrat, do all you can.”*</span>
 
 <span class="l-gloss">“Ahaaw, wazhashk, ayaangwaamizin (good, muskrat, do all you can).”</span>
 
-<span class="l-orig">(158) Tā, waja‘ck ōsōᵘ ōdōmpinān; cayīgwa, kwạtcạk! inwäwägamicinōn.</span>
+<span class="l-orig">(158) Tā, waja’ck ōsōᵘ ōdōmpinān; cayīgwa, kwạtcạk! inwäwägamicinōn.</span>
 
 <span class="l-fiero">**Taa, wazhashk oozoow oodoompinaan; zhayiigwa, ‘kwajak!’(4) inwewegamishinoon.**</span>
 
-<span class="l-eng">*Ay! The muskrat lifted his tail; then “kwajak!” was the sound he made as he dived into the water.*</span>
+<span class="l-eng">*Ay! the Muskrat lifted his tail; then “kwạtcạk!”(4) was the sound he made as he dived into the water.*</span>
 
 <span class="l-gloss">Taa, wazhashk oozoow oodoompinaan (ay! the muskrat lifted his tail); zhayiigwa, ‘kwajak!’(4) inwewegamishinoon (then ‘kwajak!’ was the sound he made diving in — *cry carried; footnote callout preserved*).</span>
 
@@ -1290,7 +1291,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Aataa! Wazhashk babimakwashiwed, ningoding igo odebaabamaa mitigoo.**</span>
 
-<span class="l-eng">*Ah! As the muskrat was on his way through the water, he by and by came in sight of the trees.*</span>
+<span class="l-eng">*Ah! as the Muskrat was on his way through the water, he by and by came in sight of the trees.*</span>
 
 <span class="l-gloss">Aataa! (ah!) Wazhashk babimakwashiwed (as the muskrat made his way down through the water), ningoding igo odebaabamaa mitigoo (by and by he caught sight of the trees).</span>
 
@@ -1302,7 +1303,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-gloss">Gaawiin aanawi aapiji akwanaabaawesii (not so very out of breath was he for all that).</span>
 
-<span class="l-orig">(161) Cigwa ābi‘tawātig mi‘tigunk ododi‘tān; mīgu’ cigwa’ wạnäntạnk tagwicing iwiti a‘kīng.</span>
+<span class="l-orig">(161) Cigwa ābi‘tawātig mi‘tigunk odōdi‘tān; mīgu’ cigwa’ wạnäntạnk tagwicing iwiti a‘kīng.</span>
 
 <span class="l-fiero">**Zhigwa aabitawaatig mitigong odooditaan; mii go zhigwa wa-nendang dagwishing iwidi akiing.**</span>
 
@@ -1330,7 +1331,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Megwaa go Nenabosho akawaabamaad, etiwe ningoding igo onji-aaboshka’agonjisewan wenjidoogo gaa-pikwaakwadagonjininidigo.**</span>
 
-<span class="l-eng">*Now while Nenabosho was watching for him, by and by (he saw) the poor creature floating on the water (looking) quite (like) a ball that was carried on the flood.*</span>
+<span class="l-eng">*Now, while Nänabushu was watching for him, why, by and by (he saw) the  poor creature floating on the water (looking) quite (like) a ball that was carried on the flood.*</span>
 
 <span class="l-gloss">Megwaa go Nenabosho akawaabamaad (now while Nenabosho was watching for him), etiwe ningoding igo onji-aaboshka’agonjisewan (poor thing, by and by he floated up to the surface) wenjidoogo gaa-pikwaakwadagonjininidigo (just like a ball borne up on the flood).</span>
 
@@ -1338,7 +1339,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Miinooch oodoodaapinen Nenabosho.**</span>
 
-<span class="l-eng">*Even so Nenabosho reached down and picked him up.*</span>
+<span class="l-eng">*Even so Nänabushu reached down and picked him up.*</span>
 
 <span class="l-gloss">Miinooch oodoodaapinen Nenabosho (even so Nenabosho took him up).</span>
 
@@ -1346,7 +1347,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Anishaa doodang, obaakaakininjiibinaan.**</span>
 
-<span class="l-eng">*Doing it in play, he opened out (the muskrat’s) paws.*</span>
+<span class="l-eng">*Doing it in play, he opened out (the Muskrat’s) paws.*</span>
 
 <span class="l-gloss">Anishaa doodang (doing it in play), obaakaakininjiibinaan (he opened out his paws).</span>
 
@@ -1354,7 +1355,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Etawaa! Aki ogii-gashkaakoninjaandamini.**</span>
 
-<span class="l-eng">*Why, (the muskrat) was holding fast to some earth in his clinched paw.*</span>
+<span class="l-eng">*Why, (the Muskrat) was holding fast to some earth in his clinched paw.*</span>
 
 <span class="l-gloss">Etawaa! (why!) Aki ogii-gashkaakoninjaandamini (he was clutching earth fast in his closed paw).</span>
 
@@ -1368,9 +1369,9 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-orig">(169) Imā udcitcā‘kayānink udici∙ạ∙ntawâbandạmawān, käyābi a‘ki umi‘kwunạmawān; kayä iwiti pindcikunä’ᵘ nawatc nībiwa udōntcimi‘kạmawān.</span>
 
-<span class="l-fiero">**Imaa ojijaakayaaning odizhi-andawaabandamawaan, geyaabi aki omikwonamawaan; gaye iwidi binjigonew nawaj niibiwa odoonjimikamawaan.**</span>
+<span class="l-fiero">**Imaa ojijaakayaaning odizhi-andawaabandamawaan, geyaabi aki  omikwonamawaan; gaye iwidi binjigonew nawaj niibiwa odoonjimikamawaan.**</span>
 
-<span class="l-eng">*There in his groins he sought to find him with it, even more earth he found upon him, and there in his throat too he found him with much more.*</span>
+<span class="l-eng">*There in his groins he sought to find him with it, even more earth  he found upon him; and there in his throat too he found him with much more.*</span>
 
 <span class="l-gloss">Imaa ojijaakayaaning odizhi-andawaabandamawaan (there in his groins he sought it out on him), geyaabi aki omikwonamawaan (still more earth he found on him); gaye iwidi binjigonew nawaj niibiwa odoonjimikamawaan (and there in his throat too he found much more on him).</span>
 
@@ -1386,7 +1387,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Ezhi-baasang i’iw aki, “Mii sa i’iw gegaa ji-gii-zhitooyaan i’iw aki.”**</span>
 
-<span class="l-eng">*When he had dried the earth (he found on the muskrat), “therefore now am I about to create the earth.”*</span>
+<span class="l-eng">*When he had dried the earth (he found on the Muskrat), “Therefore now am I about to create the earth.”*</span>
 
 <span class="l-gloss">Ezhi-baasang i’iw aki (when he had dried that earth), “Mii sa i’iw gegaa ji-gii-zhitooyaan i’iw aki (therefore now am I about to make the earth).”</span>
 
@@ -1394,7 +1395,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Nenabosho ezhi-boodaadang, goniginiin! Minisens gii-agwandeni.**</span>
 
-<span class="l-eng">*When Nenabosho blew his breath upon it, behold! A small island floated on the water.*</span>
+<span class="l-eng">*When Nänabushu blew his breath upon it, behold! a small island floated on the water.*</span>
 
 <span class="l-gloss">Nenabosho ezhi-boodaadang (when Nenabosho blew his breath upon it), goniginiin! (behold!) Minisens gii-agwandeni (a small island floated up).</span>
 
@@ -1402,7 +1403,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Mii go aazha wii-bimi’agwaadaanid i’iw manidoowenzha, ezhi-ganoowaad: “Bekaa, baamaa nawaj michaag agwaadaakeg.”**</span>
 
-<span class="l-eng">*Accordingly afterwards the small animal-folk were eager to go out upon it, when he then spoke to them saying: “Wait! Not till it is larger may you go out upon it.”*</span>
+<span class="l-eng">*Accordingly afterwards the small animal-folk were eager to go out  upon it, when he then spoke to them, saying: “Wait! not till it is  larger may you go out upon it.”*</span>
 
 <span class="l-gloss">Mii go aazha wii-bimi’agwaadaanid i’iw manidoowenzha (accordingly the small animal-folk were already eager to climb out onto it), ezhi-ganoowaad (when he spoke to them): “Bekaa, baamaa nawaj michaag agwaadaakeg (wait, not until it is larger may you go out on it).”</span>
 
@@ -1418,7 +1419,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Mii dash imaa gichi-baataniinadining gaa-izhi-boodaadang, mii sa zhigwa bimaadiziiwagenimonid i’iw manitoowenzha.**</span>
 
-<span class="l-eng">*And so upon the place where he had blown his breath there was much earth, whereupon then began the little animal-kind to feel themselves secure.*</span>
+<span class="l-eng">*And so upon the place where he had blown his breath there was much  earth, whereupon then began the little animal-kind to feel themselves secure.*</span>
 
 <span class="l-gloss">Mii dash imaa gichi-baataniinadining gaa-izhi-boodaadang (and so where he had blown his breath there was much earth), mii sa zhigwa bimaadiziiwagenimonid i’iw manitoowenzha (whereupon then the little animal-kind began to feel themselves secure).</span>
 
@@ -1434,7 +1435,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Ezhi-ganoonaad iiniw gezhiisenid gekekwan: “Daga, giiwitaasen o’ow aki amanj enigokwaagwen o’ow aki.”**</span>
 
-<span class="l-eng">*Then he spoke to the swift-flying bird-hawk, saying: “Now fly you round about this earth and see how large this earth is.”*</span>
+<span class="l-eng">*Then he spoke to the swift-flying Bird-Hawk, saying: “Now fly you round about this earth and see how large this earth is.”*</span>
 
 <span class="l-gloss">Ezhi-ganoonaad iiniw gezhiisenid gekekwan (then he spoke to the swift-flying hawk): “Daga, giiwitaasen o’ow aki (now, fly round about this earth) amanj enigokwaagwen o’ow aki (and how large this earth may be).”</span>
 
@@ -1442,7 +1443,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Geget ezhi-maajaad gekek.**</span>
 
-<span class="l-eng">*Sure enough, away went the bird-hawk.*</span>
+<span class="l-eng">*Sure enough, away went the Bird-Hawk.*</span>
 
 <span class="l-gloss">Geget ezhi-maajaad gekek (sure enough, away went the hawk).</span>
 
@@ -1458,7 +1459,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Gaawiin aapiji midaasinoon (michaasinoon*).”**</span>
 
-<span class="l-eng">*“Not so very large is (the earth).”*</span>
+<span class="l-eng">*Then was (Nänabushu) told by him, “Not so very large is (the earth.)”*</span>
 
 <span class="l-gloss">“Gaawiin aapiji midaasinoon (michaasinoon*) (not so very large is it — *editorial spelling variant carried*).”</span>
 
@@ -1466,7 +1467,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**(Miinawaa ezhi-boodaadang, gabeya’ii dazhitaa babwedaadang.**</span>
 
-<span class="l-eng">*When again (Nenabosho) breathed upon it, for a long while was he busy breathing upon it.*</span>
+<span class="l-eng">*When again (Nänabushu) breathed upon it, for a long while was he busy breathing upon it.*</span>
 
 <span class="l-gloss">(Miinawaa ezhi-boodaadang (when again he blew his breath upon it), gabeya’ii dazhitaa babwedaadang (for a long while he was busy breathing upon it).</span>
 
@@ -1474,7 +1475,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Miinawaa oganoonaan iiniw gaagaakiwan: “Daga, giin gaagaagi, wiikikendan amanj enigokwaagwen i’iw aki.”**</span>
 
-<span class="l-eng">*Next he spoke to the raven, saying: “Now, you, raven, do you find out how big this earth is.”*</span>
+<span class="l-eng">*Next he spoke to the Raven, saying: “Now, you, Raven, do you find out how big this earth is.”*</span>
 
 <span class="l-gloss">Miinawaa oganoonaan iiniw gaagaakiwan (next he spoke to the raven): “Daga, giin gaagaagi (now, you, raven), wiikikendan amanj enigokwaagwen i’iw aki (find out how big this earth may be).”</span>
 
@@ -1482,7 +1483,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Geget ezhi-maajaad a’aw gaagaagi.**</span>
 
-<span class="l-eng">*Truly then away started the raven.*</span>
+<span class="l-eng">*Truly then away started the Raven.*</span>
 
 <span class="l-gloss">Geget ezhi-maajaad a’aw gaagaagi (truly away started that raven).</span>
 
@@ -1490,7 +1491,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Amanj iidog daso giizis enendid gaagaagi; wiikaa dagwishin.**</span>
 
-<span class="l-eng">*It is not known for certain how many moons the raven was gone; after a long time he returned.*</span>
+<span class="l-eng">*It is not known for certain how many moons the Raven was gone; after a long time he returned.*</span>
 
 <span class="l-gloss">Amanj iidog daso giizis enendid gaagaagi (it is not known how many moons the raven was gone); wiikaa dagwishin (after a long time he returned).</span>
 
@@ -1506,7 +1507,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Nenabosho dash ezhi-ganoonaat iiniw gaagaagiwan: “Ambe sa ji-bishigenimoyan gii-ga’izhi’in.**</span>
 
-<span class="l-eng">*So Nenabosho then spoke to the raven, saying: “Come, so that you may be proud of yourself will I make you.*</span>
+<span class="l-eng">*So Nänabushu then spoke to the Raven, saying: “Come, so that you may be proud of yourself will I make you.*</span>
 
 <span class="l-gloss">Nenabosho dash ezhi-ganoonaat iiniw gaagaagiwan (so Nenabosho then spoke to the raven): “Ambe sa ji-bishigenimoyan gii-ga’izhi’in (come, I will make you so that you may be proud of yourself).</span>
 
@@ -1522,7 +1523,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**“Nenabosho, i’iwe gii-mizhakwak gaa-izhinaagwak giiyoozhaawashkwaag, mii iw ambegish izhi’iyan.”**</span>
 
-<span class="l-eng">*“Nenabosho, as it looks on a clear day when the sky is blue, so I would have you make me.”*</span>
+<span class="l-eng">*“Nänabushu, as it looks on a clear day when the sky is blue, so would I have you make me.”*</span>
 
 <span class="l-gloss">“Nenabosho, i’iwe gii-mizhakwak gaa-izhinaagwak (as it looks on a clear day) giiyoozhaawashkwaag (when the sky is blue), mii iw ambegish izhi’iyan (so I would that you make me).”</span>
 
@@ -1530,7 +1531,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Mii sa geget Nenabosho gii-oozhaawashkonaad.**</span>
 
-<span class="l-eng">*Thereupon truly Nenabosho colored him blue.*</span>
+<span class="l-eng">*Thereupon truly Nänabushu colored him blue.*</span>
 
 <span class="l-gloss">Mii sa geget Nenabosho gii-oozhaawashkonaad (thereupon truly Nenabosho colored him blue).</span>
 
@@ -1538,7 +1539,7 @@ Ina’am ((thus) he sang).*</span>
 
 <span class="l-fiero">**Gaagaagi dash gaa-izhinaagozid mii iw iiniw Nenaboshoowan.**</span>
 
-<span class="l-eng">*Now such is the look of the raven, he was made so by Nenabosho.*</span>
+<span class="l-eng">*Now such is the look of the Raven, he was made so by Nänabushu.*</span>
 
 <span class="l-gloss">Gaagaagi dash gaa-izhinaagozid (and such is how the raven looks) mii iw iiniw Nenaboshoowan (he was made so by that Nenabosho).</span>
 

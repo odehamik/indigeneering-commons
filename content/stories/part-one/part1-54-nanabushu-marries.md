@@ -17,7 +17,7 @@ Nanabushu Marries
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1917).***</span>
 
-<span class="l-orig">(1) Ānic, ningudingsa kīⁿwäⁿ Nänabucu kībabimusä pạbāmādisit, wīnä‘tagu nici‘kä.</span>
+<span class="l-orig">(1) Ānīc, ningudingsa kīⁿwäⁿ Nänabucu kībabimusä pạbāmādisit, wīnä‘tagu nici‘kä.</span>
 
 <span class="l-fiero">**Aaniish, ningoding sa giiwenh Nenaboozhoo gii-babimose babaamaadizid, wiin eta go nishike.**</span>
 
@@ -25,7 +25,7 @@ Nanabushu Marries
 
 <span class="l-gloss">Aaniish, ningoding sa giiwenh (well, once upon a time, they say) Nenaboozhoo gii-babimose (Nenaboozhoo went walking along) babaamaadizid (travelling about from place to place), wiin eta go nishike (he all alone by himself).</span>
 
-<span class="l-orig">(2) Käga‘pī ninguding ạnicinābäᵉ odōtisān; imā dạc ayāwāt īgi’ᵘ anicinābäᵉg u‘pimaya∙ī∙ dạc imā owâbandān wīgiwāmäns ayānik.</span>
+<span class="l-orig">(2) Käga‘pī ninguding ạnicinābäᵉ odōtisān; imā dạc ayāwāt īgi’ᵘ anicinābäᵉg u‘pimäya∙ī∙ dạc imā owâbandān wīgiwāmäns ayānik.</span>
 
 <span class="l-fiero">**Gegapii ningoding anishinaaben odoodisaan; imaa dash ayaawaad igiw anishinaabeg opimeya’ii dash imaa owaabandaan wiigiwaamens ayaanig.**</span>
 
@@ -65,7 +65,7 @@ Nanabushu Marries
 
 <span class="l-gloss">“Gego biindigeken,” (“do not come in,”) odigoon (she told him).</span>
 
-<span class="l-orig">(7) “Kāwīn awiya omāⁿ tapindikäsī.”</span>
+<span class="l-orig">(7) “Kāwīn awiya omāⁿ tapīndikäsī.”</span>
 
 <span class="l-fiero">**“Gaawiin awiya omaa da-piindigesii.”**</span>
 
@@ -109,7 +109,7 @@ Nanabushu Marries
 
 <span class="l-fiero">**“Niyaa,” ikido aw mindimoye; “megwaa gosha manidoo’o!**</span>
 
-<span class="l-eng">*“Dear me!” said the old woman; “why, she is not in the condition of manitou! (3)*</span>
+<span class="l-eng">*“Dear me!” said the old woman; “why, she is now in the condition of a manitou! (3)*</span>
 
 <span class="l-gloss">“Niyaa,” ikido aw mindimoye (“dear me!” said the old woman); “megwaa gosha manidoo’o! (“why, she is right now manidoo’o!)</span>
 
@@ -169,7 +169,7 @@ Nanabushu Marries
 
 <span class="l-gloss">Apii idash eni-oditang iwe wiigiwaamens (and when he reached that little wigwam) owaabandaan (he saw it), weweni biinichjigaadenig (all neatly tidied up).</span>
 
-<span class="l-orig">(20) A‘pī∙i∙dạc tä‘pābạndạnk iwä wīgiwāmäns, ubiganawābạmigōn īni’ᵘ i‘kwäwạn.</span>
+<span class="l-orig">(20) A‘pī∙i∙dac tä‘pābạndạnk iwä wīgiwāmäns, ubiganawābạmigōn īni’ᵘ i‘kwäwạn.</span>
 
 <span class="l-fiero">**Apii idash depaabandang iwe wiigiwaamens, obi-ganawaabamigoon iniw ikwewan.**</span>
 
@@ -217,7 +217,7 @@ Nanabushu Marries
 
 <span class="l-gloss">Ninga anidash gii-pi-dagwishin aw ikwe (and beforehand that woman had come back home).</span>
 
-<span class="l-orig">(26) A‘pī∙i∙dạc tägucinuwāt īgiwä ki‘tci∙ạ∙nicinābäᵉg, owâbạmāwān Nänabucōn nạmạdạbinit agāmindäsīng.</span>
+<span class="l-orig">(26) A‘pī∙i∙dac tägucinuwāt īgiwä ki‘tci∙ạ∙nicinābäᵉg, owâbạmāwān Nänabucōn nạmạdạbinit agāmindäsīng.</span>
 
 <span class="l-fiero">**Apii idash degoshinowaad igiw gichi-anishinaabeg, owaabamaawaan Nenaboozhoon namadabinid agaamindesing.**</span>
 
@@ -265,7 +265,7 @@ Nanabushu Marries
 
 <span class="l-gloss">Mii dash gaa-izhi-pazigwiid a’aw akiwenzii (and so, rising to his feet, that old man) ogii-saginikenaan odaanisan (took his daughter by the arm), Nenaboozhoon dash namadabinid ogii-onabi’aan (and where Nenaboozhoo sat he seated her beside him).</span>
 
-<span class="l-orig">(32) Mī∙i∙dạc kīkagī‘kạmāwāt īni’ᵘ udānisiwān wäwäni tciwī‘pimādisinit.</span>
+<span class="l-orig">(32) Mī∙i∙dac kīkagī‘kạmāwāt īni’ᵘ udānisiwān wäwäni tciwī‘pimādisinit.</span>
 
 <span class="l-fiero">**Mii dash gii-kagiikamaawaad iniw odaanisiwaan weweni ji-wii-bimaadizinid.**</span>
 
@@ -309,7 +309,7 @@ Nanabushu Marries
 
 <span class="l-fiero">**Wiiba dash igo Nenaboozhoo gii-ikido: “Wiikondiwin ji-ozhichigaadenig awesiinh miijim, mizise gaye, gakina go endaswewaanagiziwaad, binewa’ gaye.”**</span>
 
-<span class="l-eng">*So in a little while Nänabushu said: “A feast there shall be of game-food, and of turkeys, and of every kind of game there is, and of ruffed grouse.*</span>
+<span class="l-eng">*So in a little while Nänabushu said: “A feast there shall be of game-food, and of turkeys, and of every kind of game there is, and of ruffed grouse.”*</span>
 
 <span class="l-gloss">Wiiba dash igo Nenaboozhoo gii-ikido (so before long Nenaboozhoo said): “Wiikondiwin ji-ozhichigaadenig (“a feast shall be made) awesiinh miijim, mizise gaye, (of game-meat, and of turkeys too,) gakina go endaswewaanagiziwaad, binewa’ gaye.” (of every kind there is, and of ruffed grouse too.”)</span>
 
@@ -337,7 +337,7 @@ Nanabushu Marries
 
 <span class="l-gloss">Ikwewag gaye bakaan gii-odaminowag (the women too played a different game), gii-papasikawewag (they played the double-ball game).</span>
 
-<span class="l-orig">(41) Mīdạc kā∙i‘kidunk: “Mīsa∙i’∙ᵘ Nänabucū uwīdigäwin nōngum wändci∙u∙dạminuwin.</span>
+<span class="l-orig">(41) Mīdạc kā∙i∙‘kidunk: “Mīsa∙i’∙ᵘ Nänabucū uwīdigäwin nōngum wändci∙u∙dạminuwin.</span>
 
 <span class="l-fiero">**Mii dash gaa-ikidong: “Mii sa iw Nenaboozhoo owiidigewin noongom wenji-odaminowin.**</span>
 
@@ -345,7 +345,7 @@ Nanabushu Marries
 
 <span class="l-gloss">Mii dash gaa-ikidong (for it was said): “Mii sa iw Nenaboozhoo owiidigewin (“this is Nenaboozhoo’s wedding) noongom wenji-odaminowin. (and that is why today we play.)</span>
 
-<span class="l-orig">(42) Mī gädiciwäba‘k awīya käwīdigädin,” kī∙i‘kitowạg.</span>
+<span class="l-orig">(42) Mī gädiciwäba‘k awīya käwīdigädin,” kī∙i∙‘kitowạg.</span>
 
 <span class="l-fiero">**Mii ged-izhiwebak awiya ge-wiidigedin,” gii-ikidowag.**</span>
 
@@ -363,9 +363,9 @@ Nanabushu Marries
 
 (54) Nanabushu Marries
 
-(1) Reference is to a menstrual lodge.
+(1) Reference is to the menstrual lodge.
 
-(2) Man is forbidden to enter a mentrual lodge; usually an old woman is about, who looks after the wants of the woman
+(2) Man is forbidden to enter a menstrual lodge; usually an old woman is about, who looks after the wants of the woman.
 
 (3) A woman menstruating is to be avoided for the evil power she then is said to have.
 
@@ -379,7 +379,7 @@ Nanabushu Marries
 
 (8) These words are purely formal, and have no meaning. a parent uses them, no matter how capable his daughter is, but he does not permit any one else to say the same thing of her.
 
-(9) Another formal statement which serves to put the responsibility of the man.
+(9) Another formal statement which serves to put the responsibility on the man.
 
 (10) As a rule, a man and his wife do not go away at once to live by themselves; they live a while either with his parents or else with hers.
 

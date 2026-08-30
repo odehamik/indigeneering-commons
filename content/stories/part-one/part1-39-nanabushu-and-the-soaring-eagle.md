@@ -1095,7 +1095,7 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-eng">*And so now the buttocks of the ruffed grouse hang aloft.*</span>
 
-<span class="l-gloss">Mii sa binewijiid egoodeg. (and so binewi-jiid hangs aloft.) *(the closing that leaves the story to the listener’s wondering)*.</span>
+<span class="l-gloss">Mii sa binewijiid egoodeg. (and so binewi-jiid hangs aloft.) ⟨i⟩(the closing that leaves the story to the listener’s wondering)⟨/i⟩.</span>
 
 *“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
 

@@ -105,7 +105,7 @@ Nanabushu finds Cranberries and Big Cherries
 
 <span class="l-gloss">Ani-daatagikwenid (as he went along with head tilted up), gegoo obi-taakoskaanan oshkiizhigong (something brushed against him on the eye/face); mii dash ezhi-andoojiibijiged (and as he felt about for them), mii nangwana miinan (they turned out to be berries).</span>
 
-<span class="l-orig">(12) Mīdạc äji∙o∙dā‘pinạng, äjiwâbanda∙ā∙t ō‘kumisạn, ināt: “Wägunän owä?” udinān ō‘kumisạn wâbanda∙ā∙t.</span>
+<span class="l-orig">(12) Mīdạc äji∙o∙dā‘pinạng, äjiwâbanda∙ā∙t ō‘kumisạn, ināt: “Wägunän owä?” udinān ō‘kumisạn wâbạnda∙ā∙t.</span>
 
 <span class="l-fiero">**Mii dash ezhi-odaapinang, ezhi-waabanda’aad ookomisan, inaad: “Wegonen owe?” odinaan ookomisan waabanda’aad.**</span>
 

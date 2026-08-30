@@ -359,22 +359,20 @@ The Origin of Likeness of Nenabosho
 
 *“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
 
-(55) The Origin of Likeness of Nenabosho
+(1) Pointed with a single barb. The shaft is longer than the barb, and has a hole at one end through which to fasten the cord (Jones 1917, p.428).
 
-<span class="l-gloss">(1) Pointed with a single barb. The shaft is longer than the barb, and has a hole at one end through which to fasten the cord (Jones 1917, p.428).</span>
+(2) West and not far from Fort William (Jones 1917, p. 429).
 
-<span class="l-gloss">(2) West and not far from Fort William (Jones 1917, p. 429).</span>
+(3) North of Sault Ste. Marie (Jones 1917, p. 429).
 
-<span class="l-gloss">(3) North of Sualt Ste. Marie (Jones 1917, p. 429).</span>
+(4) At the head of Sault Ste. Marie. By destroying it, the rapids were made (Jones 1917, p.430).
 
-<span class="l-gloss">(4) At the head of Sault Ste. Marie. By destroying it, the rapids were made (Jones 1917, p.430).</span>
+(5) The usual expression is “my nephews,” which implied also “my aunts,” meaning the people (Jones 1917, p.430).
 
-<span class="l-gloss">(5) The usual expression is “my nephews,” which implied also “my aunts,” meaning the people (Jones 1917, p.430).</span>
+(7) The otter on the spit can be seen, so it is said, as a shaft of rock on the Wisconsin shore of Lake Superior (Jones 1917, p. 431).
 
-<span class="l-gloss">(7) The otter on the spit can be seen, so it is said, as a shaft of rock on the Wisconsin shore of Lake Superior (Jones 1917, p. 431).</span>
+(8) Another name for Mother Earth, or the grandmother of Nenabosho (Jones 1917, p. 431).
 
-<span class="l-gloss">(8) Another name for Mother Earth, or the grandmother of Nenabosho (Jones 1917, p. 431).</span>
-
-<span class="l-gloss">(9) In various places in the Ojibwa country may be observed a rock, island, or high land looking like a human being either reclining or seated, when seen from the distance, and it is generally called Nenabosho (Jones 1917, p.432).</span>
+(9) In various places in the Ojibwa country may be observed a rock, island, or high land looking like a human being either reclining or seated, when seen from the distance, and it is generally called Nenabosho (Jones 1917, p.432).
 
 </div>

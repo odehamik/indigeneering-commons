@@ -9,7 +9,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-47\. The Scattering of the Animals and the Regulation of Nature.
+47\. THE SCATTERING OF THE ANIMALS AND THE REGULATION OF NATURE.
 
 <span class="l-fiero">**Gaa-biiwidooyaad bineshiinyag gaye awesiinyag, gaye gaa-naaniizaaniigak akiing — Nanabozho**</span>
 
@@ -19,10 +19,10 @@ The Scattering of the Animals and the Regulation of Nature.
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1917).***</span>
 
-<span class="l-orig">(1) Mī∙i∙dac imāⁿ kī∙a∙yāwäd minising, Nänabujūdec kī∙pō∙dādcigä kiwi∙tāya∙i∙ minising; miidec äskạm kī∙a∙nimistcīg a‘ki. Mīgū iᵘ kā∙tōdạng kinwäⁿj. Kāningudwāsugunaga‘ki-dac ugi∙a∙nōnān ạdi‘kwạn, “Skomāⁿ kiwitāskạn ‘ō∙o∙‘ᵘ a‘ki.”  
-Kīmādcādạc ạdi‘k. Ä‘pitci kī∙a∙∙kiwäⁿziyuᵉ a‘pī dägucing.</span>
+<span class="l-orig">(1) Mī∙i∙dac îmāⁿ kī∙a∙yāwād minising, Nänabujūdec kī‘pōdādcigä kiwi‘tāya∙ī∙ minising; mīidec äskạm kī∙ạ∙nimistcāg a‘ki. Mīgū iᵘ kā‘tōdạng kinwäⁿj. Kāningudwāsugunaga‘kidac ugi∙ạ∙nōnān ạdi‘kwạn, “Skomāⁿ kiwitāskạn ‘ōᵉo´ᵘ a‘ki.”  
+Kīmādcādạc ạdi‘k. Ā‘pitci ki∙a∙‘kiwäⁿzīyuⁱ ā‘pī dägucing.</span>
 
-<span class="l-fiero">**Mii i’idash imaa gii-ayaawaad minising, Nanabozhodash gii-boodaajige giiwitaaya’ii minising; miidash eshkam gii-animishtigwaaki aki. Miigo i’iw gaa-doodang ginwenzh. Gaa-ningodwaasoginagak idash ogi-anoonaan adikwan, *flagged: “Skomaaⁿ” — vocable/interjection carried verbatim* giiwitaaskan o’ow aki.  
+<span class="l-fiero">**Mii i’idash imaa gii-ayaawaad minising, Nanabozhodash gii-boodaajige giiwitaaya’ii minising; miidash eshkam gii-animishtigwaaki aki. Miigo i’iw gaa-doodang ginwenzh. Gaa-ningodwaasoginagak idash ogi-anoonaan adikwan, *flagged: “Skomaaⁿ” — vocable/interjection carried verbatim* giiwitaaskan o’ow aki.    
 Gii-maajaadash adik. Aapiji gii-akiwenziiw apii dagoshing.**</span>
 
 <span class="l-eng">*And so they remained there on the island, and Nānabushu breathed all over the island; and all the while larger grew the earth. Now, that was what he was doing for a long while. And when the sixth day was up, he then employed a caribou. “I would have you go round this earth.”  
@@ -30,7 +30,7 @@ So away started the caribou. It was very old when it returned.*</span>
 
 <span class="l-gloss">Mii i’idash imaa (and so it was there) ∙ gii-ayaawaad minising (they remained on the island) ∙ Nanabozhodash gii-boodaajige (and Nanabozho breathed/blew) ∙ giiwitaaya’ii minising (all around the island) ∙ miidash eshkam gii-animishtigwaaki aki (and gradually the land grew larger) ∙ miigo i’iw gaa-doodang ginwenzh (that is what he did for a long while) ∙ gaa-ningodwaasoginagak idash (and when the sixth day came) ∙ ogi-anoonaan adikwan (he employed/hired a caribou) ∙ Skomaaⁿ (interjection, carried) ∙ giiwitaaskan o’ow aki (go around this earth) ¶ Gii-maajaadash adik (and away started the caribou) ∙ aapiji gii-akiwenziiw (it was very old) ∙ apii dagoshing (when it arrived back).</span>
 
-<span class="l-orig">(2) Minawādec ma∙i∙ngạnạn ugi∙a∙nōnān, kayäwindec ma∙i∙ngạn ä‘pitci kī∙a∙‘kiwäⁿziyuᵉ a‘pī tägucing. Ini‘widec awäⁿsiyạn kā‘pōsi∙ā∙‘pạn ä‘pitci kīpā‘ta∙i∙nowạn, kayä wīnawāgu ạnicinābäg äja kīạnipa‘ta∙i∙nowạg; päpāmisätcig kayä pinäcⁿyạg. Nānabujūdec ugiwäwinān kädijini∙käsowäd awäsiyạg; kayägu päbämisäwäd pinäcⁿyạg ugiwäwinān kädijini∙käsowäd; kīgōⁿyạn gayä. Kayädec kīgidōwạg kädạciwäd kīzisōg ningobibōn, kayädec kä∙u∙ndānimạk kiwi‘tāgījik cwä‘tcing tci∙u∙ndānimạk. Mī∙i∙dec kā∙i∙‘kot: “Änīc, mīsa ka‘kina kī∙u∙ji‘tōyān känōndcipimadisiwäd ạnicinābäg.”</span>
+<span class="l-orig">(2) Mīnawādac ma∙ī∙ngạnạn ugī∙a∙nōnān, kayäwīndac ma∙ī∙ngạn ā‘pitci kī∙a∙‘kiwäⁿziyuⁱ a‘pī tägucing. Īni´widac awäⁿsīyạn kā‘pōsi∙ā∙‘pạn ā‘pitci kīpā‘ta∙ī∙nowạn, kayä wīnawāgu ạnicinābäg āja kīạnipa‘ta∙i∙nowạg; päpāmisätcig kayä pinäcīⁿyạg. Nänabujūdac ogīwāwīnān kädijini‘kāsowād awäsīyạg; kayägu päbāmisäwād pinäcīⁿyạg ugīwāwīnān kädijini‘kāsowād; kīgōⁿyạn gayä. Kayädac kīgidōwạg kädạciwād kīzisōg ningobibōn, kayädạc kä∙u∙ndānimạk kīwi‘tāgījik cwā‘tcing tci∙u∙ndānimạk. Mī∙i∙dac kā∙i∙‘kot: “Ānīc, mīsa ka‘kina kī∙u∙ji‘tōyān känōndcipimadisiwād ạnicinābēg.”</span>
 
 <span class="l-fiero">**Minawaadash maiinganan ogi-anoonaan, gaye wiindash maiingan aapiji gii-akiwenziiw apii dagoshing. Iniwidash awensiyan gaa-boosi-aabaⁿ aapiji gii-baata’iinowan, gaye wiinawaago anishinaabeg eya gii-aanibaataainowag; bebaamisedjig gaye bineshiinyag. Nanabozhodash ogiiwewinaan gaa-dizhinikaazowaad awesiinyag; gaye go bebaamisewaad bineshiinyag ogiiwewinaan gaa-dizhinikaazowaad; giigoonyan gaye. Gayedash gii-gidoowag gaa-dazhiwaad*flagged* giizisoog ningo-biboon, gayedash gaa-ondaanimak giiwitaagiizhig ezhwaaching*flagged* ji-ondaanimak. Mii i’idash gaa-ikod: “Aaniish, miisa gakina gii-ozhitooyaan ge-onji-bimaadisiwaad anishinaabeg.”**</span>
 
@@ -38,7 +38,7 @@ So away started the caribou. It was very old when it returned.*</span>
 
 <span class="l-gloss">Minawaadash maiinganan ogi-anoonaan (next he employed a wolf) ∙ gaye wiindash maiingan aapiji gii-akiwenziiw apii dagoshing (and the wolf too was very old when it returned) ∙ iniwidash awensiyan gaa-boosi-aabaⁿ (those game animals that had been put aboard) ∙ aapiji gii-baataainowan (were very numerous) ∙ gaye wiinawaago anishinaabeg eya gii-aanibaataainowag (and the people themselves were also increasing in number) ∙ bebaamisedjig gaye bineshiinyag (the birds that fly about too) ∙ Nanabozhodash ogiiwewinaan gaa-dizhinikaazowaad awesiinyag (and Nanabozho named the game-animals by what they were to be called) ∙ gaye go bebaamisewaad bineshiinyag ogiiwewinaan gaa-dizhinikaazowaad (and also the birds that fly, he named them by what they were to be called) ∙ giigoonyan gaye (the fishes too) ∙ gayedash gii-gidoowag (and they decreed/spoke) ∙ giizisoog ningo-biboon (how many moons in one year) ∙ gayedash gaa-ondaanimak giiwitaagiizhig (and from where the wind would blow around the sky) ∙ ezhwaaching ji-ondaanimak (from eight [directions] the wind would blow) ∙ mii i’idash gaa-ikod (so this is what he said) ∙ Aaniish, miisa gakina gii-ozhitooyaan (well, now I have made everything) ∙ ge-onji-bimaadisiwaad anishinaabeg (from which the people will derive life).</span>
 
-<span class="l-orig">(3) Mēdạc iwa‘pi kīsiswä∙i∙diwäd miziwe a‘king. Kā∙i∙jimā∙dcāwäd, kayä wīndạc Nänabuju kīmādcā.</span>
+<span class="l-orig">(3) Mēdạc iwa‘pi kīsiswä∙i∙diwād miziwe a‘king. Kā∙i∙jimādcāwād, kayä wīndạc Nänabuju kīmādcā.</span>
 
 <span class="l-fiero">**Miidash iwa’pii gii-zhiziswei’idiwaad miziwe akiing. Gaa-izhi-maajaawaad, gaye wiindash Nanabozho gii-maajaa.**</span>
 
@@ -46,7 +46,7 @@ So away started the caribou. It was very old when it returned.*</span>
 
 <span class="l-gloss">Miidash iwa’pii (and that was the time) ∙ gii-zhiziswei’idiwaad miziwe akiing (they scattered to all parts of the earth) ∙ gaa-izhi-maajaawaad (after they had gone away) ∙ gaye wiindash Nanabozho gii-maajaa (then Nanabozho himself went away).</span>
 
-<span class="l-orig">(4) Mīsa ä∙‘kosid.</span>
+<span class="l-orig">(4) Mīsa ä‘kosid.</span>
 
 <span class="l-fiero">**Miisa e-gozid.**</span>
 

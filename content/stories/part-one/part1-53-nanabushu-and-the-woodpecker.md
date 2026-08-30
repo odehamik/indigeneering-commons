@@ -57,7 +57,7 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-gloss">Oganawaabamaan (he watched him) endoodaminid iniw memen (what that red-head was doing).</span>
 
-<span class="l-orig">(6) Ạnigagwäti‘kwä∙u∙ īmāⁿ mi‘tigung; ā‘pidcidạc spîmīng kitci∙ä∙nigu‘k mạdwä‘kwä∙u∙t mī∙i∙māⁿ wändcipạngicininit äsibạnạn.</span>
+<span class="l-orig">(6) Ạnigagwäti‘kwä∙u∙ imāⁿ mi‘tigung; ā‘pidcidạc spîmīng kitci∙ä∙nigu‘k mạdwä’kwä∙u∙t mī∙i∙māⁿ wändcipạngicininit äsibạnạn.</span>
 
 <span class="l-fiero">**Ani-gagwedikwe’o imaa mitigong; aapiji dash ishpiming gichi-enigok madwekwe’od mii imaa wenji-pangishininid esiban.**</span>
 
@@ -65,7 +65,7 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-gloss">Ani-gagwedikwe’o (he kept testing where to peck — *stem flagged*) imaa mitigong (there on the tree); aapiji dash ishpiming (and very high up) gichi-enigok (with all his might) madwekwe’od (the sound of him pecking was heard — *stem flagged*) mii imaa wenji-pangishininid esiban (then from there came falling a raccoon).</span>
 
-<span class="l-orig">(7) Mīwạnini kā‘kijiswād kī∙a∙cạmād Nänabujūn.</span>
+<span class="l-orig">(7) Mīwạnini kā‘kījiswād kī∙a∙cạmād Nänabujūn.</span>
 
 <span class="l-fiero">**Mii wa nini gaa-kiizhizwaad gii-ashamaad Nenaboozhoon.**</span>
 
@@ -97,7 +97,7 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-gloss">Mii dash gaa-izhi-zhiga’ang eyiidawaya’ii (and so when he had sharpened them at both ends), mii dash gii-atood (then he placed them) odenigomaang (in his nostrils).</span>
 
-<span class="l-orig">(11) Mēdạc a‘kwāndawät īmāⁿ mi‘tigung käya wīn kagwäti‘kwäᵘ.</span>
+<span class="l-orig">(11) Mēdạc a‘kwāndawät imāⁿ mi‘tigung käya wīn kagwäti‘kwäᵘ.</span>
 
 <span class="l-fiero">**Mii dash akwaandawed imaa mitigong gaye wiin gagwedikwe.**</span>
 
@@ -137,7 +137,7 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-gloss">Memen dash ogii-pimaaji’igoon (and by the red-head he was brought back to life).</span>
 
-<span class="l-orig">(16) Mī∙i’∙u kī∙ạ∙nimādcad.</span>
+<span class="l-orig">(16) Mī∙i’∙ᵘ kī∙ạ∙nimādcad.</span>
 
 <span class="l-fiero">**Mii iw gii-ani-maajad.**</span>
 
@@ -145,7 +145,7 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-gloss">Mii iw gii-ani-maajad (and so on his way he went).</span>
 
-<span class="l-orig">(17) Mīsạgunā ä‘kōzit.</span>
+<span class="l-orig">(17) Mīsạgunā ä‘kōzịt.</span>
 
 <span class="l-fiero">**Mii sa go naa ekoozid.**</span>
 
@@ -153,6 +153,6 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-gloss">Mii sa go naa ekoozid (and that is as far as it goes).</span>
 
-<span class="l-gloss">(1) For other versions see Nos. 35 (p. 305) and 42 (p. 357).</span>
+(1) For other versions see Nos. 35 (p. 305) and 42 (p. 357).
 
 </div>

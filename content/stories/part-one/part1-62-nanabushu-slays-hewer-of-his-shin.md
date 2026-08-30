@@ -173,7 +173,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Ningoding dash giiwenh Nenaboozhoo ani-babimishkaad, zhigwa geget gegoo onoondam gwayak e-zhaad.**</span>
 
-<span class="l-eng">*Now, by and by, they say, as Nänabushuwent paddling along (in his canoe), presently something he truly heard straight (on the way) whither he was going.*</span>
+<span class="l-eng">*Now, by and by, they say, as Nänabushu went paddling along (in his canoe), presently something he truly heard straight (on the way) whither he was going.*</span>
 
 <span class="l-gloss">Ningoding dash giiwenh (now by and by, they say) Nenaboozhoo ani-babimishkaad (as Nänabushu went paddling along), zhigwa geget gegoo onoondam (presently truly he heard something) gwayak e-zhaad (straight ahead where he was going).</span>
 
@@ -189,7 +189,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**“Denh denh,” inidam. Mii e-nendang: “Na! mii iwe nookomis gaa-izhid,” inendam.**</span>
 
-<span class="l-eng">*“Tän, tän,” (such) was the sound he heard. Thereupon he thought: “Hark! that is what my grandmother told me,” he thought.*</span>
+<span class="l-eng">*“Täⁿ, täⁿ,” (such) was the sound he heard. Thereupon he thought: “Hark! that is what my grandmother told me,” he thought.*</span>
 
 <span class="l-gloss">“Denh denh,” inidam (such was the sound he heard). Mii e-nendang (and so he thought): “Na! mii iwe (hark! that is it) nookomis gaa-izhid (what my grandmother told me),” inendam (he thought).</span>
 
@@ -213,7 +213,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**“Dwenh dwenh, dwenh,” (1) initam.**</span>
 
-<span class="l-eng">*“Twän, twän, twän,” (1) was what he heard.*</span>
+<span class="l-eng">*“Twäⁿ, twäⁿ, twäⁿ,” (1) was what he heard.*</span>
 
 <span class="l-gloss">“Dwenh dwenh, dwenh,” (1) initam (such was what he heard).</span>
 
@@ -229,7 +229,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Ningoding igo miinawaa ani-ayinaabid, gego owaabandaan oniigaaniimi; indigo gegoo bemibeshibii’igaadeg; mii dash ayinaabid, “Mii maawiin i’iw zhayiigwa dayebinaagwak minis e-zhaayaan,” inendam.**</span>
 
-<span class="l-eng">*Another time, as he was looking about, he saw something in the way ahead of him; it was an object like a line drawn across his course; and then, as he looked, “Perhaps that is which is now coming into view is the island for which I am bound,” he thought.*</span>
+<span class="l-eng">*Another time, as he was looking about, he saw something in the way ahead of him; it was an object like a line drawn across his course; and then, as he looked, “Perhaps that which is now coming into view is the island for which I am bound,” he thought.*</span>
 
 <span class="l-gloss">Ningoding igo miinawaa ani-ayinaabid (another time, as he looked about), gego owaabandaan oniigaaniimi (he saw something ahead of him); indigo gegoo bemibeshibii’igaadeg (like something drawn as a line across); mii dash ayinaabid (and so as he looked), “Mii maawiin i’iw (perhaps that) zhayiigwa dayebinaagwak (now coming into view) minis e-zhaayaan (is the island I am going to),” inendam (he thought).</span>
 
@@ -245,7 +245,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Gomaapii dash miinawaa nandotam, mii geyaapi enitang. “Dwiinh dwiinh,” (2) initam.**</span>
 
-<span class="l-eng">*Farther on he listened again for the sound, and he heard it the same as before. “Twin, twin,” (2) was the sound he heard.*</span>
+<span class="l-eng">*Farther on he listened again for the sound, and he heard it the same as before. “Twiⁿ, twiⁿ,” (2) was the sound he heard.*</span>
 
 <span class="l-gloss">Gomaapii dash miinawaa nandotam (and after a while again he listened), mii geyaapi enitang (and still he heard it the same). “Dwiinh dwiinh,” (2) initam (such was the sound he heard).</span>
 
@@ -253,7 +253,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Mii imaa gwayak endanitang bi-midii bi-naagwadinig aki.**</span>
 
-<span class="l-eng">*Straight from the yonder place where the land was coming into view he heard the sound.*</span>
+<span class="l-eng">*Straight from yonder place where the land was coming into view he heard the sound.*</span>
 
 <span class="l-gloss">Mii imaa gwayak endanitang (from straight over there he heard it) bi-midii bi-naagwadinig aki (where the land was coming into view).</span>
 
@@ -277,7 +277,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**“Dwiinh dwiinh,” (3) initam.**</span>
 
-<span class="l-eng">*“Twin, twin,” (3) was what he heard.*</span>
+<span class="l-eng">*“Twiⁿ, twiⁿ,” (3) was what he heard.*</span>
 
 <span class="l-gloss">“Dwiinh dwiinh,” (3) initam (such was what he heard).</span>
 
@@ -289,7 +289,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-gloss">Mii go ezhi-goshkwaagamiseg nibi (and then the water trembled — *goshkwaagamise- stem flagged*) epiichi-gizhiiweganaadang iw ogakwan (so loud was he hewing upon his shin — *gizhiiweganaad- stem flagged*) aw manidoo (that manidoo).</span>
 
-<span class="l-orig">(35) Mīdạc kīwäⁿ Nänabucu cayīgwa ạnitcägisät imā kwaya‘k ändạni‘tạnk; kägä‘t änigạbāt owâbạndān undạmuninik mī‘kana.</span>
+<span class="l-orig">(35) Mīdac kīwäⁿ Nänabucu cayīgwa ạnitcägisät imā kwaya‘k ändạni‘tạnk; kägä‘t änigạbāt owâbạndān undạmuninik mī‘kana.</span>
 
 <span class="l-fiero">**Mii dash giiwenh Nenaboozhoo zhayiigwa ani-jegised imaa gwayak endanitang; geget eni-gabaad owaabandaan ondamoninig miikana.**</span>
 
@@ -333,7 +333,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Gomaapii dash bi-gwekitaawan mii dash e-god: (4) “A-a-a Nenaboozhoo! Gi-bi-nandopanidaw ina?” odigoon.**</span>
 
-<span class="l-eng">*After a while the other then turned about, and said: (4) “Aha, aha, aha, Nänabushu! Have you some to make war upon me?” he was told.*</span>
+<span class="l-eng">*After a while the other then turned about, and said: (4) “Aha, aha, aha, Nänabushu! Have you come to make war upon me?” he was told.*</span>
 
 <span class="l-gloss">Gomaapii dash bi-gwekitaawan (after a while the other turned about) mii dash e-god (and so he was told): (4) “A-a-a Nenaboozhoo! (aha, aha, aha, Nänabushu!) Gi-bi-nandopanidaw ina? (have you come to make war on me?)” odigoon (he was told).</span>
 
@@ -405,7 +405,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Dedaataganaabid gaye wiin Nenaboozhoo; gii-owenigaabawi, odashwiiwin dakonam, mitigwaabiin gaye.**</span>
 
-<span class="l-eng">*And up into the air looked Nänabushu; he stood in his place, his shield he barried [carried?], so too his bow and arrows.*</span>
+<span class="l-eng">*And up into the air looked Nänabushu; he stood in his place, his shield he carried, so too his bow and arrows.*</span>
 
 <span class="l-gloss">Dedaataganaabid gaye wiin Nenaboozhoo (and Nänabushu too looked up into the air — *dedaataganaab- stem flagged*); gii-owenigaabawi (he stood in his place — *owenigaabawi stem flagged*), odashwiiwin dakonam (his shield he held), mitigwaabiin gaye (and his bow and arrows too).</span>
 
@@ -453,7 +453,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Mii dash gaye wiin Nenaboozhoo, bepimojiget.**</span>
 
-<span class="l-eng">*And so for Nänabushu, he too was active with his shooting.*</span>
+<span class="l-eng">*And as for Nänabushu, he too was active with his shooting.*</span>
 
 <span class="l-gloss">Mii dash gaye wiin Nenaboozhoo (and so as for Nänabushu too), bepimojiget (he was busy shooting all the while).</span>
 
@@ -509,7 +509,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Mii dash geget Nenaboozhoo ezhi-bimwaad iniw Jaagaga’aminid-ogakwan imaa gaa-inind ji-bimwaad, anzapidenig obikwanaang wiinizisan; mii dash ezhi-mizhwaad.**</span>
 
-<span class="l-eng">*Thereupon truly Nänabushu shot the Hewer-of-his-Shin there where he was told to shoot him, there were his hair was tied in a bunch at the back; whereupon he hit him (with the arrow).*</span>
+<span class="l-eng">*Thereupon truly Nänabushu shot the Hewer-of-his-Shin there where he was told to shoot him, there where his hair was tied in a bunch at the back; whereupon he hit him (with the arrow).*</span>
 
 <span class="l-gloss">Mii dash geget Nenaboozhoo ezhi-bimwaad (and so truly Nänabushu shot him) iniw Jaagaga’aminid-ogakwan (that Hewer-of-His-Shin) imaa gaa-inind ji-bimwaad (there where he was told to shoot him), anzapidenig obikwanaang wiinizisan (where his hair was tied in a bunch at the back of his head — *anzapide- stem flagged*); mii dash ezhi-mizhwaad (and so he hit him).</span>
 
@@ -637,7 +637,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Mii dash geget Nenaboozhoo naazikang; gaawiin gaye opagidinaasiin omitigwaabiin.**</span>
 
-<span class="l-eng">*Thereupon Nänabushu truly went to fetch it; but he did not lay aside his bows and arrows.*</span>
+<span class="l-eng">*Thereupon Nänabushu truly went to fetch it; but he did not lay aside his bow and arrows.*</span>
 
 <span class="l-gloss">Mii dash geget Nenaboozhoo naazikang (and so truly Nänabushu went to it); gaawiin gaye opagidinaasiin omitigwaabiin (but he did not lay aside his bow and arrows).</span>
 
@@ -653,7 +653,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Mii dash ge-doodaman: giga-baazagwaakowaa aw mitig biinish ji-waabamad mitigoowid; mii dash mitigoons gedizhi-jekinaman o’ow omaa makakoonsing eteg; mii dash ged-izhi-shishoo’aman imaa gii-baazkaanagekowad aw mitig,” odinaan.**</span>
 
-<span class="l-eng">*Now, this you shall do: you shall scratch the bark from the tree until you see the part in the wood; and then a stick shall you dip into this that is contained here in the little wooden pail; and then shall you rub it upon the place where you have scraped the bark from the tree,” he said to him.*</span>
+<span class="l-eng">*Now, this you shall do: you shall scratch the bark from the tree until you see the part in wood; and then a stick shall you dip into this that is contained here in the little wooden pail; and then shall you rub it upon the place where you have scraped the bark from the tree,” he said to him.*</span>
 
 <span class="l-gloss">Mii dash ge-doodaman (now this you shall do): giga-baazagwaakowaa aw mitig (you shall scratch the bark of the tree) biinish ji-waabamad mitigoowid (until you see the bare wood); mii dash mitigoons gedizhi-jekinaman (and then a little stick you shall dip) o’ow omaa makakoonsing eteg (into this that is here in the little pail); mii dash ged-izhi-shishoo’aman (and then you shall rub it) imaa gii-baazkaanagekowad aw mitig (there where you scraped the bark from the tree),” odinaan (he said to him).</span>
 
@@ -709,7 +709,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Mii dash ezhi-saswewebinaad, bebakaan gakina ezhi-ayapaginaad; dash waawiinaad gedaawinidi, bebaamiba’idiwaad akiing aya’awashensag, gaye bebaamisejig, gichi-awesiiyag gaye.**</span>
 
-<span class="l-eng">*And as he scattered the pieces about, in all the various direction he flung them; then he named them what they were to be, they that run about upon the earth as the little animal-folk, and they that fly about in the air, and also the large animal-folk.*</span>
+<span class="l-eng">*And as he scattered the pieces about, in all the various directions he flung them; then he named them what they were to be, they that run about upon the earth as the little animal-folk, and they that fly about in the air, and also the large animal-folk.*</span>
 
 <span class="l-gloss">Mii dash ezhi-saswewebinaad (and so as he scattered the pieces about — *saswewebin- stem flagged*), bebakaan gakina ezhi-ayapaginaad (in all directions he flung them — *ayapagin- stem flagged*); dash waawiinaad gedaawinidi (then he named them what they would be), bebaamiba’idiwaad akiing aya’awashensag (those that run about on the earth, the little animal-folk), gaye bebaamisejig (and those that fly about), gichi-awesiiyag gaye (and the great animals too).</span>
 
@@ -725,7 +725,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-fiero">**Bijiinag igo bezhig gaa-toodawaad mitigoon, baabige gii-niibawi imaa inini.**</span>
 
-<span class="l-eng">*As soon as he had done it to one tree, straightaway there stood in the place a man.*</span>
+<span class="l-eng">*As soon as he had done it to one tree, straightway there stood in the place a man.*</span>
 
 <span class="l-gloss">Bijiinag igo bezhig gaa-toodawaad mitigoon (as soon as he had done it to one tree), baabige gii-niibawi imaa inini (straightaway there stood a man).</span>
 
@@ -745,11 +745,11 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-gloss">Miinawaa niibiwa gii-izhichige (again to many he did it).</span>
 
-<span class="l-orig">(92) Ninguding idạcigu mī gīmi‘kawāt ōsạn ogīn kayä, osayäⁿyạn kayä Näna‘pādamạn.</span>
+<span class="l-orig">(92) Ninguding idạcigu mī gīmi‘kawāt ōsạn ogīn kayä, osayäⁿyạn kayä Näna‘pādạmạn.</span>
 
 <span class="l-fiero">**Ningoding idash igo mii gii-mikawaad oosan ogiin gaye, osayenyan gaye Nenapaadaman.**</span>
 
-<span class="l-eng">*And then by and by he found his father and his mother, and his elder brother Nänā`pādam.*</span>
+<span class="l-eng">*And then by and by he found his father and his mother, and his elder brother Nänā‘pādam.*</span>
 
 <span class="l-gloss">Ningoding idash igo (and then by and by) mii gii-mikawaad oosan ogiin gaye (he found his father and his mother too), osayenyan gaye Nenapaadaman (and his elder brother Nänāpādam).</span>
 
@@ -803,12 +803,12 @@ Nänabushu slays Hewer-of-his-Shin
 
 (1) Uttered with a slow, deep, nasal voice.
 
-(2) Uttered with a slow, deep, nasal voice.
+(2) Uttered with a slow deep nasal voice.
 
 (3) Gomaapiidash bigwekidaawan mii dash e-god, “after a while the other turned about and said.” This is a very free rendering. A closer translation would be: “After a certain length of time by the one that turned about and looked up at him, he was told”...
 
-(4) Minange gipapaapini’in\! “You surely do not think that I am merely trifling with you\!” More literally: “Why, of course I am making fun of you\!” But the sense is better with the freer rendering.
+(4) Minange gipapaapini’in! “You surely do not think that I am merely trifling with you!” More literally: “Why, of course I am making fun of you!” But the sense is better with the freer rendering.
 
-(5) Anim, “Dog”... The rendering is literal, but the sense is better with some such words as “wretch.”
+(5) Anim, “Dog”... The rendering is literal, but the sense is better with some such word as “wretch.”
 
 </div>

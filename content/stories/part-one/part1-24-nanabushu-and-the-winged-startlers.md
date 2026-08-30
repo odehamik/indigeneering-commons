@@ -25,7 +25,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Mii sa iw (and so it was) ezhi-maajaad Nenaboozhoo (that Nenaboozhoo set out) babimosed (walking about).</span>
 
-<span class="l-orig">(2) kumāgu a‘pitäkucink owâbạmāᵉ pinäⁿsaᵉ wạdiswạning, ā‘pidcigu mōckinäwaᵉ i∙i∙mā wasiswạning.</span>
+<span class="l-orig">(2) kumāgu a‘pī täkucink owâbạmāᵉ pinäⁿsaᵉ wạdiswạning, ā‘pidcigu mōckinäwaᵉ i∙i∙mā wasiswạning.</span>
 
 <span class="l-fiero">**gomaago apii degoshing owaabamaa’ binensa’ wadiswaning, aapiji go mooshkinewa’ i’imaa wadiswaning.**</span>
 
@@ -73,7 +73,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Aaniish zegiziwag (naturally they were afraid) igiw binensag (those little grouse).</span>
 
-<span class="l-orig">(8) Kāwīn ugạcki‘tōsināwāᵉ tcigīkitōwāt.</span>
+<span class="l-orig">(8) Kāwīn ugạcki‘tōsīnāwāᵉ tcigīkitōwāt.</span>
 
 <span class="l-fiero">**Gaawiin ogashkitoosiinaawaa’ ji-giigidowaad.**</span>
 
@@ -81,7 +81,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Gaawiin ogashkitoosiinaawaa’ (they were not able) ji-giigidowaad (to speak).</span>
 
-<span class="l-orig">(9) Pācig gīkitō: “Kāwīn niwīsusīmin.”</span>
+<span class="l-orig">(9) Pācīg gīkitō: “Kāwīn niwīsusīmin.”</span>
 
 <span class="l-fiero">**Bezhig giigido: “Gaawiin ni-wiinzosiimin.”**</span>
 
@@ -89,7 +89,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Bezhig giigido (one spoke up): “Gaawiin ni-wiinzosiimin (we have no name).”</span>
 
-<span class="l-orig">(10) Nänabucu niskātcikigitō:</span>
+<span class="l-orig">(10) Nänabucu niskātcikīgitō:</span>
 
 <span class="l-fiero">**Nenaboozhoo niskaaji-giigidoo:**</span>
 
@@ -105,7 +105,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">“Aaniin gegii zhinaagwag (how can it be) ge-wiinzosiweg? (that you would have no name?)</span>
 
-<span class="l-orig">(12) Kīcpîn tibātcimusiwäg äcini‘kāsuyäg, kạnāniwạnu∙i∙nim.”</span>
+<span class="l-orig">(12) Kīcpîn tibātcimusiwäg äcini‘kāsuyäg, kạnānīwạnu∙i∙nim.”</span>
 
 <span class="l-fiero">**Giishpin dibaajimosiweg e-zhinikaazoyeg, ganaaniiwano’inim.”**</span>
 
@@ -169,7 +169,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">“Naapisawogo goshkongeshiins!(2) (Yes indeed, a little frightener you are!) Mwn! (Phew!)” inwe Nenaboozhoo (so said Nenaboozhoo) ezhi-gichi-baapi’aad (laughing hard at them).</span>
 
-<span class="l-orig">(20) “Wäwäni wīndamawi‘k kimāmạ∙i∙wā tạgwicing.”</span>
+<span class="l-orig">(20) “Wäwäni wīndamawi‘k kimāmā∙i∙wā tagwicing.”</span>
 
 <span class="l-fiero">**“Weweni wiindamawik gi-maamaa’iwaa dagwishing.”**</span>
 
@@ -185,7 +185,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Mii sa go iw (and so it was) e-ni-izhi-maajaad Nenaboozhoo (that Nenaboozhoo went on his way);</span>
 
-<span class="l-orig">(22) päcugu änitạgwicing, pạnägu micawābạmināgwạtini ä∙i∙cāt.</span>
+<span class="l-orig">(22) päcugu änitạgwicing, panägu micawābạmināgwạtini ä∙i∙cāt.</span>
 
 <span class="l-fiero">**Besho go eni-dagwishing, bane go mishawaabaminaagwadini e-izhaad.**</span>
 
@@ -193,7 +193,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Besho go eni-dagwishing (a little way along when he arrived), bane go mishawaabaminaagwadini (suddenly a wide view opened out) e-izhaad (where he was headed).</span>
 
-<span class="l-orig">(23) “Undcitạmāwin sāgạ∙i∙gạn mädābīyān,” inändạm.</span>
+<span class="l-orig">(23) “Undcitạmāwīn sāga∙i∙gạn mädābīyān,” inändạm.</span>
 
 <span class="l-fiero">**“Onjida maawiin zaaga’igan medaabiiyaan,” inendam.**</span>
 
@@ -201,7 +201,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">“Onjida maawiin (it must be on purpose) zaaga’igan medaabiiyaan (that I come out upon a lake),” inendam (he thought).</span>
 
-<span class="l-orig">(24) Kägä‘t sāgạ∙i∙gạn umạdābīn, ā‘pidcisa’ kīckābi‘kāni.</span>
+<span class="l-orig">(24) Kägä‘t sāga∙i∙gạn umạdābīn, ā‘pidcisa’ kīckābi‘kāni.</span>
 
 <span class="l-fiero">**Geget zaaga’igan omadaabiin, aapiji sa giishkaabikaani.**</span>
 
@@ -209,7 +209,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Geget zaaga’igan omadaabiin (truly he came out upon a lake), aapiji sa giishkaabikaani (and there was a very steep cliff).</span>
 
-<span class="l-orig">(25) Kägä‘t nāwināgwạtini ‘iᵉī’ᵘ nibi.</span>
+<span class="l-orig">(25) Kägä‘t nāwināgwạtini ‘iᵉi’ᵘ nibi.</span>
 
 <span class="l-fiero">**Geget naawinaagwadini i’iw nibi.**</span>
 
@@ -233,7 +233,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Aapiji i’imaa egookiishkaabikaanig (right there at the edge of the cliff) gaa-izhaad (when he had gone), ezhi-waaniinigaadenid Nenaboozhoo (Nenaboozhoo swung his leg out over) ezhi-giigidod (and said):</span>
 
-<span class="l-orig">(28) “A‘tiwä, ạmbägicsa a‘tāting, māmwä‘tcigu wäckinigit a∙i∙‘kwä a‘tāting, kayägu ta‘tā‘kutcingwạnät, ā‘pidcigu kayä minugit;</span>
+<span class="l-orig">(28) “A‘tiwä, ạmbägicsa a‘tāting, māmwä‘tcigu wäckinīgit a∙i∙‘kwä a‘tāting, kayägu ta‘tā‘kutcingwạnät, ā‘pidcigu kayä minugit;</span>
 
 <span class="l-fiero">**“Etiwe, ambegish sa ataading, maamwechi go weshkiniigid ikwe ataading, gaye go dataakojiingwaned, aapiji go gaye minogid;**</span>
 
@@ -257,7 +257,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Gwayak igo nindaa-izhigwaashgon (truly I would jump off).”</span>
 
-<span class="l-orig">(31) Mīgu minawā äciwānīnigātänit.</span>
+<span class="l-orig">(31) Mīgu mīnawā äciwānīnigātänit.</span>
 
 <span class="l-fiero">**Mii go miinawaa ezhi-waaniinigaadenid.**</span>
 
@@ -273,7 +273,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">“Onjida nindaa-izhigwaashgon (on purpose I would leap off).</span>
 
-<span class="l-orig">(33) Cigwadạc iwiti pinä upītawāᵉ kämīdcinit unīdcānisaᵉ, ạnīn kä∙i∙cinawāt unīdcānisaᵉ!</span>
+<span class="l-orig">(33) Cigwạdạc iwiti pinä upītawāᵉ kämīdcinit unīdcānisaᵉ, ạnīn kä∙i∙cinawāt unīdcānisaᵉ!</span>
 
 <span class="l-fiero">**Zhigwa dash iwidi bine obiidawaa’ ge-miijinid oniijaanisa’, aaniin ge-izhinawaad oniijaanisa’!**</span>
 
@@ -321,7 +321,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">“Aaniin e-zhinikaazoyeg? (How are you called?) ikido (he said).</span>
 
-<span class="l-orig">(39) ‘Kuskungäcīns,’ nintinānābạn, mīdạc ‘iᵉī’ᵘ kā∙i∙cimīdcicīyạngit.</span>
+<span class="l-orig">(39) ‘Kuskungäcīns,’ nintinānābạn, mīdạc ‘iᵉi’ᵘ kā∙i∙cimīdcicīyạngit.</span>
 
 <span class="l-fiero">**‘Goshkongeshiins,’ nindinaanaaban, mii dash i’iw gaa-izhi-miijishiiyangid.**</span>
 
@@ -337,7 +337,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Apii dash eni-maajaad (and when he was leaving) gichi-baapi’igonaan (he laughed at us greatly).</span>
 
-<span class="l-orig">(41) Ningīkạnōnigunān dạc: ‘Wäwäni wīndamawi‘k kimāmạ∙i∙wā tạgwicin.’</span>
+<span class="l-orig">(41) Ningīkạnōnigunān dạc: ‘Wäwäni wīndamawi‘k kimāma∙i∙wā tạgwicin.’</span>
 
 <span class="l-fiero">**Ningii-kanoonigonaan dash: ‘Weweni wiindamawik gi-maama’iwaa dagwishin.’**</span>
 
@@ -345,7 +345,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Ningii-kanoonigonaan dash (and he spoke to us): ‘Weweni wiindamawik (rightly tell) gi-maama’iwaa (your mother) dagwishin (when she arrives).’</span>
 
-<span class="l-orig">(42) Mīdạc ‘iᵉī’ᵘ kā∙ạ∙nicimādcāt äjikīgitut.</span>
+<span class="l-orig">(42) Mīdạc ‘iᵉi’ᵘ kā∙ạ∙nicimādcāt äjikīgitut.</span>
 
 <span class="l-fiero">**Mii dash i’iw gaa-ani-zhi-maajaad ezhi-giigidod.**</span>
 
@@ -353,7 +353,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Mii dash i’iw gaa-ani-zhi-maajaad (and so when he was setting out) ezhi-giigidod (he said):</span>
 
-<span class="l-orig">(43) ‘Näpisạnä kuckungäcīns!’ nintigunān.”</span>
+<span class="l-orig">(43) ‘Näpisạnä kuskungäcīns!’ nintigunān.”</span>
 
 <span class="l-fiero">**‘Nepisane goshkongeshiins!’ nindigonaan.”**</span>
 
@@ -361,7 +361,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">‘Nepisane goshkongeshiins! (Yes indeed, a little frightener!)’ nindigonaan (we were told).”</span>
 
-<span class="l-orig">(44) Ā‘tayä, pinä unawạtạmān pācig kayä udōdä‘pinān pācig;</span>
+<span class="l-orig">(44) Ā‘tayä, pinä unawạtạmān päcig kayä udōdä‘pinān päcig;</span>
 
 <span class="l-fiero">**Ataaya, bine onawadamaan bezhig gaye odoodebinaan bezhig;**</span>
 
@@ -369,7 +369,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Ataaya (well), bine onawadamaan bezhig (the Ruffed Grouse took up one in her mouth) gaye odoodebinaan bezhig (and another with her claws);</span>
 
-<span class="l-orig">(45) äcipạsigu∙u∙t, sāgạ∙i∙gạnīng udiciwinān kisībīginät.</span>
+<span class="l-orig">(45) äcipạsigu∙u∙t, sāga∙i∙gạnīng udiciwinān kisībīgināt.</span>
 
 <span class="l-fiero">**Ezhi-bazigo’od, zaaga’iganing odizhiwinaan giziibiiginaad.**</span>
 
@@ -393,7 +393,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">mii sa gwa pane gaa-toodawaad (the same she did to each) biinish ashi-niizh dashinid (until the twelve of them).</span>
 
-<span class="l-orig">(48) Unītcanisaᵉ ka‘kina kā∙i∙jikisībīginät, abā‘pic kā‘kīji‘tät, äjikīkitut:</span>
+<span class="l-orig">(48) Unītcanisaᵉ ka‘kina kā∙i∙jikisībīgināt, abā‘pic kā‘kīji‘tät, äjikīkitut:</span>
 
 <span class="l-fiero">**Oniijanisa’ gakina gaa-izhi-gisiibiiginaad, abaapish gaa-kiizhiitaad, ezhi-giigidod:**</span>
 
@@ -409,7 +409,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">“Ambe sa (come now), ninga-noosone’waa a’aw Nenaboozhoo (I will track down that Nenaboozhoo), gaye wiin wawiyazh niwii-doodawaa (and on him too I mean to play a trick).”</span>
 
-<span class="l-orig">(50) Äjimādcāt omādạ∙ạ∙nān.</span>
+<span class="l-orig">(50) Äjimādcāt omāda∙ạ∙nān.</span>
 
 <span class="l-fiero">**Ezhi-maajaad omaada’anaan.**</span>
 
@@ -417,7 +417,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Ezhi-maajaad omaada’anaan (when she set out, she followed his trail).</span>
 
-<span class="l-orig">(51) Ningutingigu mī∙i∙mā tayōc udäbi‘tawān mädwäkāgīkitōnit īni’ᵘ Nänabucōwạn.</span>
+<span class="l-orig">(51) Ningutingigu mī∙i mā tayōc udäbi‘tawān mädwäkāgīkitōnit īni’ᵘ Nänabucōwạn.</span>
 
 <span class="l-fiero">**Ningoding igo mii i’imaa dayoozh odebitawaan medwe-gaagiigidoonid iniw Nenaboozhoowan.**</span>
 
@@ -425,7 +425,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Ningoding igo (by and by) mii i’imaa dayoozh odebitawaan (she came within hearing of him) medwe-gaagiigidoonid iniw Nenaboozhoowan (Nenaboozhoo, who could be heard talking).</span>
 
-<span class="l-orig">(52) Tiwä, undcita guca inābit na∙i∙tā pimiwāninigātānowạn.</span>
+<span class="l-orig">(52) Tiwä, undcita guca inābit na∙i∙tā pimiwāninigātänowạn.</span>
 
 <span class="l-fiero">**Diwe, onjida gosha inaabid na’idaa bimiwaaniinigaadenowan.**</span>
 
@@ -441,7 +441,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Bine inendam (the Ruffed Grouse thought): “Wiikaa ge miinawaa da-doodam (would that he do it once again).”</span>
 
-<span class="l-orig">(54) Nawạtc pācu’ ạnī∙i∙cā.</span>
+<span class="l-orig">(54) Nawạtc päcu’ ạnī∙i∙cā.</span>
 
 <span class="l-fiero">**Nawaj besho ani-izhaa.**</span>
 
@@ -449,7 +449,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Nawaj besho ani-izhaa (nearer she went).</span>
 
-<span class="l-orig">(55) Cigwa mīnawā uniniganiwạn wägunänīwinän äcipạsiguut;</span>
+<span class="l-orig">(55) Cigwa mīnawā uninigäniwạn wägunänīwinän äcipạsiguut;</span>
 
 <span class="l-fiero">**Zhigwa miinawaa oniinigeniwan wegoneniiwinen ezhi-bazigo’od;**</span>
 
@@ -493,7 +493,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-fiero">**Mii dash iw gaa-mizhakiised, gichi-enigok gii-ziinjigamii;**</span>
 
-<span class="l-eng">*And so when he got up to the surface ;*</span>
+<span class="l-eng">*And so when he got to the bottom, all his strength he used in pushing back up to the surface;*</span>
 
 <span class="l-gloss">Mii dash iw gaa-mizhakiised (and so when he sank), gichi-enigok gii-ziinjigamii (with great effort he struggled in the water);</span>
 
@@ -501,11 +501,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-fiero">**Agaawaa mooshkamo, aapiji gegaa wayekwaanaamo.**</span>
 
-<span class="l-eng">*barely was he able to reach the surface, to the bottom, all his strength he used in pushing back almost was he on the very point of losing his breath.*</span>
+<span class="l-eng">*barely was he able to reach the surface, almost was he on the very point of losing his breath.*</span>
 
 <span class="l-gloss">Agaawaa mooshkamo (barely did he reach the surface), aapiji gegaa wayekwaanaamo (very nearly was he out of breath).</span>
 
-<span class="l-orig">(62) Ānīc mī∙i’∙ᵘ pinä namạdạbit kạnawâbamāt Nänabucōwạn.</span>
+<span class="l-orig">(62) Ānīc mī∙i’∙ᵘ pinä nạmạdạbit kạnawâbạmāt Nänabucōwạn.</span>
 
 <span class="l-fiero">**Aaniish mii i’iw bine namadabid ganawaabamaad Nenaboozhoowan.**</span>
 
@@ -521,7 +521,7 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-gloss">Zhigwa mooshkamowan (when he came up), deye (ah), mii go iwidi gaa-pi-inaabinid (then up from there he looked) giigidowan (saying):</span>
 
-<span class="l-orig">(64) “Iⁱ, kägätsa kuckungäci.”</span>
+<span class="l-orig">(64) “Īⁱ, kägätsa kuckungäci.”</span>
 
 <span class="l-fiero">**“Iii, geget sa goshkongeshi.”**</span>
 
@@ -563,8 +563,8 @@ Nänabushu and the Winged Startlers (2)
 
 (1) For another version see No. 5.
 
-(2) Naapisawogo goshkongeshiins\! “Yes, you are a little frightener\!” This could have been given in other ways; as, “Like the deuce you are a little frightener\!” “The idea of your being a little frightener\!” etc.
+(2) Naapisawogo goshkongeshiins! “Yes, you are a little frightener!” This could have been given in other ways; as, “Like the deuce you are a little frightener!” “The idea of your being a little frightener!” etc.
 
-(3) “D\!” trill with the lips, imitating the whir of the grouse in flight.
+(3) “D!” trill with the lips, imitating the whir of the grouse in flight.
 
 </div>

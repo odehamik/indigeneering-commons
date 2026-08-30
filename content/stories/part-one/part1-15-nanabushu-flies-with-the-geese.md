@@ -29,7 +29,7 @@ Nanabush Flies with the Geese
 
 <span class="l-fiero">**Geget sa omisawinawaa’, aaniish ezhi-ganoonaad: “Ambe sa noo, giga-wiijiiwininim,” odinaa’**</span>
 
-<span class="l-eng">*Truly much he envied them, so he then addressed them saying: “I pray you, let me in among you,” he said to them.*</span>
+<span class="l-eng">*Truly much he envied them, so he then addressed them, saying: “I pray you, let me in among you,” he said to them.*</span>
 
 <span class="l-gloss">Geget sa (truly indeed) omisawinawaa’ (he envied them, longed for what they had), aaniish (so, well then) ezhi-ganoonaad (the way he addressed/spoke to them): “Ambe sa noo (come now, do please), giga-wiijiiwininim (I will go along with you / let me accompany you),” odinaa’ (he said to them).</span>
 
@@ -37,15 +37,15 @@ Nanabush Flies with the Geese
 
 <span class="l-fiero">**“Awawa, Nenaboozhoo,” odigoo’. “Mii go i’iw akawe ozhitooyaang waa-nawapoyaang.”**</span>
 
-<span class="l-eng">*“Very well, Nanabushu,” he was told. “But we first are laying in store the food that we shall eat on the way.”*</span>
+<span class="l-eng">*“Very well, Nänabushu,” he was told. “But we first are laying in store the food that we shall eat on the way.”*</span>
 
 <span class="l-gloss">“Awawa (very well, all right), Nenaboozhoo,” odigoo’ (he was told by them). “Mii go i’iw (it is just that) akawe (first, beforehand) ozhitooyaang (we are preparing/making) waa-nawapoyaang (the food we will eat as provisions on the journey).”</span>
 
-<span class="l-orig">(4) Ānīc äcipa‘kubīt kayä wīn Nänabucu. Mīsa kayä wīn äntōtaminit ānutōtạnk, mīsa’ kāwīn umi‘kōbīga∙ā∙ⁿsin ‘iᵉi’ᵘ manōmin.</span>
+<span class="l-orig">(4) Ānīc äcipa‘kubīt kayä wīn Nänabucu. Mīsa kayä wīn äntōtaminit ānutōtạnk, mīsa’ kāwīn umi‘kōbīga∙ā∙ⁿsīn ‘iᵉi’ᵘ manōmin.</span>
 
 <span class="l-fiero">**Aaniish ezhi-bakobiid gaye wiin Nenaboozhoo. Mii sa gaye wiin endoodaminid aano-doodang, mii sa gaawiin omikoobiigaansiin i’iw manoomin.**</span>
 
-<span class="l-eng">*So into the water went Nanabushu too. And what they did he tried to do too, but he found no rice in the water.*</span>
+<span class="l-eng">*So into the water went Nänabushu too. And what they did he tried to do too, but he found no rice in the water.*</span>
 
 <span class="l-gloss">Aaniish (so, well) ezhi-bakobiid (the way he went down into the water) gaye wiin (he too, also) Nenaboozhoo. Mii sa gaye wiin (and so he too) endoodaminid (what they were doing) aano-doodang (he tried in vain to do), mii sa gaawiin (and so not) omikoobiigaansiin (he did not find it by groping in the water) i’iw manoomin (the rice).</span>
 
@@ -53,7 +53,7 @@ Nanabush Flies with the Geese
 
 <span class="l-fiero">**“Aaniin, Nenaboozhoo? indigoo gosha go gibwaanawitoon i’iw manoomin.”**</span>
 
-<span class="l-eng">*“What, Nanabushu? Seemingly, indeed, are you without success in finding rice.”*</span>
+<span class="l-eng">*“What, Nänabushu? Seemingly, indeed, are you without success in finding rice.”*</span>
 
 <span class="l-gloss">“Aaniin (what, how is it), Nenaboozhoo? indigoo gosha go (so he was told indeed) gibwaanawitoon (you are unable to do it / without success) i’iw manoomin (the rice).”</span>
 
@@ -65,7 +65,7 @@ Nanabush Flies with the Geese
 
 <span class="l-gloss">“Eye’ (yes, ay), nimbwaanawitoon (I cannot manage it / I am without success).”</span>
 
-<span class="l-orig">(7) “‘Ā‘a’ᵘ, intawā mī∙i∙ᵘ mīni‘k. Päpạngīns ‘iᵉi’ᵘ manōmin,” itiwaᵉ i∙i’∙ᵘ ni‘ka‘.</span>
+<span class="l-orig">(7) “‘Ā‘a’ᵘ, intawā mī∙i∙ᵘ mīni‘k. Päpạngīns ‘iᵉi’ᵘ mạnōmin,” itiwaᵉ i∙i’∙ᵘ ni‘ka‘.</span>
 
 <span class="l-fiero">**“Aa Aw, indawaa mii iw minik. Bebangiins i’iw manoomin.” idiwaa’ i’iw nika.**</span>
 
@@ -77,7 +77,7 @@ Nanabush Flies with the Geese
 
 <span class="l-fiero">**Ningoding igo zhigwa odigoo’: “Mii sa waabang wii-maajaayaang.” odigoo’ i’iw nika.**</span>
 
-<span class="l-eng">*And presently then he was told: “Therefore on the morrow shall we expect to start,” he was told by the Geese.*</span>
+<span class="l-eng">*And presently then was he told: “Therefore on the morrow shall we expect to start,” he was told by the Geese.*</span>
 
 <span class="l-gloss">Ningoding igo (presently, at one point) zhigwa (now) odigoo’ (he was told): “Mii sa (therefore, and so) waabang (tomorrow, on the morrow) wii-maajaayaang (we intend to start/depart).” odigoo’ (he was told) i’iw nika (by the geese).</span>
 
@@ -93,7 +93,7 @@ Nanabush Flies with the Geese
 
 <span class="l-fiero">**“Nenaboozhoo, aanawi giga-gashkii’igoo ji-bimiseyan, gaawiin idash gidaa-bizindanzii i’iw ge-igooyambam.”**</span>
 
-<span class="l-eng">*“Nanabushu, it is quite within our power to fix you up so that you can fly, but you would not listen to what would be told you.”*</span>
+<span class="l-eng">*“Nänabushu, it is quite within our power to fix you up so that you can fly, but you would not listen to what would be told you.”*</span>
 
 <span class="l-gloss">“Nenaboozhoo, aanawi (to be sure, even so) giga-gashkii’igoo (you can be fixed up / it can be done for you) ji-bimiseyan (that you may fly), gaawiin idash (but not) gidaa-bizindanzii (you would not listen to / heed) i’iw ge-igooyambam (that which would be told to you).”</span>
 
@@ -121,7 +121,7 @@ Nanabush Flies with the Geese
 
 <span class="l-gloss">Apii imaa (when there) ani-dagwishinang (as we arrive), Gego inaabiken (do not look), Giga-saakwaanigonaanig (they will whoop/holler at us). Ayaangwaamizin (be careful), gego inaabiken (do not look); mii go i’iw (it is just that) ji-bangishinan (you will fall) giishpin inaabiyan (if you look). Mii eta go i’imaa (that is the only thing) ezhi-zhaagwenimigooyan (that we are anxious/fearful about you),” odigoo’ (he was told).</span>
 
-<span class="l-orig">(14) Mīdạc äntạcinit ka‘kina päpäjik umīgwạnini kā∙i∙ciminigut.</span>
+<span class="l-orig">(14) Mīdạc äntạcinit ka‘kina päpäjik umīgwạnini kā∙i∙cimīnigut.</span>
 
 <span class="l-fiero">**Mii dash endazhinid gakina bebezhig omiigwanini gaa-izhi-miinigod.**</span>
 
@@ -145,15 +145,15 @@ Nanabush Flies with the Geese
 
 <span class="l-gloss">Mii dash geget (and so truly) gaa-izhi-bazigwa’od (the way he rose up on the wing), gaa-izhi-giiwitaagaamesed (the way he flew around over the lake).</span>
 
-<span class="l-orig">(17) “Mīsa’ iᵘ tciwītciwigōyạn. Mīsa’ wâbạnk tcimādcāyạng.”</span>
+<span class="l-orig">(17) ““Mīsa’ iᵘ tciwītciwigōyạn. Mīsa’ wâbạnk tcimādcāyạng.”</span>
 
 <span class="l-fiero">**“Mii sa iw ji-wiijiiwigooyan. Mii sa waabang ji-maajaayang.”**</span>
 
-<span class="l-eng">*“Therefore now you may go with us. Now, tomorrow is when we shall start.”*</span>
+<span class="l-eng">*“Therefore now you may go with us. Now, to-morrow is when we shall start.”*</span>
 
 <span class="l-gloss">“Mii sa iw (therefore, that is it) ji-wiijiiwigooyan (that you may be taken along / go with us). Mii sa waabang (it is tomorrow) ji-maajaayang (that we shall start).”</span>
 
-<span class="l-orig">(18) Cigwa wâbạnini, cigwa pạsigwa∙ō∙waᵉ; ā‘pidci nāwaya∙i∙ icinō∙ạ∙mawā.</span>
+<span class="l-orig">(18) Cigwa wâbạnini, cigwa pạsigwa∙ō∙waᵉ; ā‘pidci nāwaya∙ī∙ icinō∙ạ∙mawā.</span>
 
 <span class="l-fiero">**Zhigwa waabanini, zhigwa bazigwa’ owa’ aapiji naawaya’ii izhinoo’amawaa.**</span>
 
@@ -177,11 +177,11 @@ Nanabush Flies with the Geese
 
 <span class="l-gloss">Zhigwa geget (now truly) oganoonigoon (he was addressed/spoken to): “Mii zhigwa (it is now) debaabandamang (that we come into view of) i’imaa ayaawaad (the place where they are) igiw anishinaabeg (those people).”</span>
 
-<span class="l-orig">(21) Cayīgwa gägä‘t mạdwäsā‘kwāniguwāᵉ: “Ä‘ē‘e’, ni‘kạg! Nänabucu uwīdcisāmā!” mạdwä∙i∙nā.</span>
+<span class="l-orig">(21) Cayīgwa gägä‘t mạdwäsā‘kwāniguwāᵉ: “Ä∙ē‘e’, ni‘kạg! Nänabucu uwīdcisāmā!” mạdwä∙i∙nā.</span>
 
 <span class="l-fiero">**Zhayiigwa geget madwe-saakwaanigowaa’: “E e e, nikag! Nenaboozhoo owiijisemaa!” madwe’inaa.**</span>
 
-<span class="l-eng">*Already could they truly hear (the people) whooping at them: “Halloo, Geese! Nanabushu is flying along with them!” was the sound of them speaking to him.*</span>
+<span class="l-eng">*Already could they truly hear (the people) whooping at them: “Halloo, Geese! Nänabushu is flying along with them!” was the sound of them speaking of him.*</span>
 
 <span class="l-gloss">Zhayiigwa geget (already truly) madwe-saakwaanigowaa’ (they could be heard whooping/hollering at them): “E e e (halloo, hey), nikag (geese)! Nenaboozhoo owiijisemaa (Nanabushu flies along with them)!” madwe’inaa (was the sound of what was said to him).</span>
 
@@ -197,7 +197,7 @@ Nanabush Flies with the Geese
 
 <span class="l-fiero">**“Gego inaabiken, Nenaboozhoo,” odigoo i’iw nika’.**</span>
 
-<span class="l-eng">*“Don’t you look, Nanabushu,” he was told by the Geese.*</span>
+<span class="l-eng">*“Don’t you look, Nänabushu,” he was told by the Geese.*</span>
 
 <span class="l-gloss">“Gego inaabiken (do not look), Nenaboozhoo,” odigoo (he was told) i’iw nika’ (by the geese).</span>
 
@@ -209,17 +209,17 @@ Nanabush Flies with the Geese
 
 <span class="l-gloss">Gegapii (finally, at last) madwe-nagamowan (they could be heard singing)—</span>
 
-<span class="l-orig">(25) “Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.  
-Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.  
-Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.”</span>
+<span class="l-orig">(25) “Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpangicin.  
+Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpangicin.  
+Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpangicin.”</span>
 
 <span class="l-fiero">**“Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin. Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin. Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin.”**</span>
 
-<span class="l-eng">*“Nanabushu flies in company with his little brothers, with his little brothers. May he fall. Nanabushu flies in company with his little brothers, with his little brothers. May he fall. Nanabushu flies in company with his little brothers, with his little brothers. May he fall.”*</span>
+<span class="l-eng">*“Nänabushu flies in company with his little brothers, with his little brothers. May he fall.   Nänabushu flies in company with his little brothers, with his little brothers. May he fall.   Nänabushu flies in company with his little brothers, with his little brothers. May he fall.”*</span>
 
 <span class="l-gloss">[song, carried verbatim] “Nenaboozhoo owiijisemaa (Nanabushu flies along with them) oshiimisa’ (his little brothers), oshiimisa’ (his little brothers). Da-bangishin (may he fall / he will fall). Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin. Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin.”</span>
 
-<span class="l-orig">(26) “Taga pina’, ningạ∙i∙nāb,” inäntạm.</span>
+<span class="l-orig">(26) “Taga pina’, ninga∙i∙nāb,” inäntạm.</span>
 
 <span class="l-fiero">**“Daga bina, ninga- inaab,” inendam.**</span>
 
@@ -255,7 +255,7 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.”</span>
 
 <span class="l-fiero">**Mii sa geget gaa-izhi-miijinind, gakina minik imaa waadetoonid omiijinigoo.à**</span>
 
-<span class="l-eng">*Whereupon truly was he then eased upon, by everyone there in the town was he eased upon.*</span>
+<span class="l-eng">*Whereupon truly was he then eased upon, by every one there in the town was he eased upon.*</span>
 
 <span class="l-gloss">Mii sa geget (and so truly) gaa-izhi-miijinind (the way he was relieved upon), gakina minik (all of them, the whole number) imaa waadetoonid (those dwelling there in the town) omiijinigoo (relieved themselves upon him).</span>
 
@@ -263,7 +263,7 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.”</span>
 
 <span class="l-fiero">**Abaapish zhigwa negashkijinigod zhiipidoonenid.**</span>
 
-<span class="l-eng">*In the course of time he became engulfed so deep in the dung that he had to purse his lips.*</span>
+<span class="l-eng">*In course of time he became engulfed so deep in the dung that he had to purse his lips.*</span>
 
 <span class="l-gloss">Abaapish zhigwa (in the course of time, by and by) negashkijinigod (as he was buried/engulfed by it) zhiipidoonenid (so that he pursed/drew in his lips).</span>
 
@@ -299,6 +299,8 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.”</span>
 
 <span class="l-gloss">Ezhi-ganoonaad (the way he spoke to them): “Omaa nindayaa (here I am),” odinaa’ (he said to them). Zhigwa odoodisigo (then they came to where he was).</span>
 
+*Udōtisigu, “to where he was they came;” more literally, “he was come to.”*
+
 <span class="l-orig">(36) Cayīgwa uwīmītcinigōn īni’ᵘ mindimōyäyạn, äcikạnōnāt: “Ic,” utinān; “Kāgicwīn, guca mīgu ‘iᵉi’ᵘ wā∙i∙cimītciciyạn? A‘kawä nīni‘ku nintāpā∙u∙gu wāmītciniguwānin.”</span>
 
 <span class="l-fiero">**Zhayiigwa owii-miijinigoon iniw mindimooyeyan, ezhi-ganoonaad: “ish,” odinaan; “Gaagishwiin, gosha mii go i’iw waa-izhi-miijishiyan? Akawe niin iko nindaapaa’ogo waa-miijinigowaanin.”**</span>
@@ -331,6 +333,8 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.”</span>
 
 <span class="l-gloss">Gaa-kiizhiikaagod (when he was finished being freed/loosed) ezhi-naaniiwanowaad (the way he clubbed them to death, one after another).</span>
 
+*Äcinānīwanuwāt, “he clubbed them to death, first one, then the other.” “First one, then the other,” is the sense of the reduplication nāni-.*
+
 <span class="l-orig">(40) Äni∙i∙cimādcāt ōmāⁿ.</span>
 
 <span class="l-fiero">**Eni-izhi-maajaad o’omaa.**</span>
@@ -347,7 +351,7 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.”</span>
 
 <span class="l-gloss">Ani-babimosed (as he walked along) zaaga’igan (a lake) omadaabiin (he came out into the open toward it), mii go iw (and so) ezhi-bakobiid (the way he went into the water) ezhi-giziibiigid (and washed himself).</span>
 
-<span class="l-orig">(42) Kạnawâbạndạnk ‘iᵉi’ᵘ nibi mīgu iᵘ äcipimạngutänik ‘iᵉi’ᵘ mōˢⁱ.</span>
+<span class="l-orig">(42) Kạnawâbạndạnk ‘iᵉi’ᵘ nibi mīgu iᵘ äcipimạngutänik ‘iᵉi’ᵘ mōˣⁱ.</span>
 
 <span class="l-fiero">**Ganawaabandang i’iw nibi mii go iw ezhi-bimangodenig i’iw moo.**</span>
 
@@ -355,12 +359,16 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpạngicin.”</span>
 
 <span class="l-gloss">Ganawaabandang i’iw nibi (while looking at the water) mii go iw (and so) ezhi-bimangodenig (the way it was floating along/drifting) i’iw moo (the dung).</span>
 
-<span class="l-orig">(43) Kā∙ạ∙gwāsīt mīdạc ä‘kitut: “Kā∙i∙cini‘kātamowāt ạnicinābäg nicicäⁿyạg — ‘ēⁱ, wīnipīg!”³ tä∙i∙cini‘kātä iᵘ sāga∙i∙gạn.</span>
+<span class="l-orig">(43) Kā∙ạ∙gwāsīt mīdạc ä‘kitut: “Kä∙i∙cini‘kātamowāt ạnicinābäg nicicäⁿyạg — ‘ēⁱ, wīnipīg!’³ tä∙i∙cini‘kātä iᵘ sāga∙i∙gạn.”</span>
 
 <span class="l-fiero">**Gaa agwaasiid mii dash ekidod: “Ge-izhinikaadamowaad anishinaabeg nizhisheyag, Wiinibiig!’ Da-izhinikaade iw zaaga’igan.”**</span>
 
-<span class="l-eng">*When he came out of the water , this then he said: “The name which the people my uncles shall call it – ‘ah, filthy water! such shall be the name of the lake.”*</span>
+<span class="l-eng">*When he came out of the water, this then he said: “The name which the people my uncles shall call it – ‘ah, filthy water!’ such shall be the name of the lake.”*</span>
 
 <span class="l-gloss">Gaa agwaasiid (when he came up out of the water) mii dash ekidod (then this he said): “Ge-izhinikaadamowaad (the name they shall give it) anishinaabeg nizhisheyag (the people, my uncles), Wiinibiig (Filthy-Water, dirty water)!’ Da-izhinikaade iw zaaga’igan (such shall be the name of that lake).”</span>
+
+*Wīnipīg! “filthy water!” — the name of various lakes in the Ojibwa country; Lake Winnipeg is one of them.*
+
+(1) For another version see No. 56.
 
 </div>

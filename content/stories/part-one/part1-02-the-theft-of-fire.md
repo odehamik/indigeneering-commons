@@ -30,7 +30,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(2) Mīsa iᵘ cayīgwa ugī∙i∙nān ini’ᵘ ō‘kumisạn: “Kāwīnîna ningutci anicinābäg kiki‘känimāsīg tci∙ạ∙yāwāt?”</span>
 
-<span class="l-fiero">**Mii sa iw zhayiigwai ogii-inaan iniw ookomisan: “Gaawiin ina ningoji anishinaabeg gi-kikenimaasiig ji-ayaawaad?”**</span>
+<span class="l-fiero">**Mii sa iw zhayiigwai ogii-inaan iniw ookomisan: “Gaawiin ina ningoji anishinaabeg  gi-kikenimaasiig ji-ayaawaad?”**</span>
 
 <span class="l-eng">*And so by and by he said to his grandmother: “Don’t you know of a place where there are some people.”*</span>
 
@@ -38,7 +38,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(3) “Äyeᵉ,” ugī∙i∙gōn īni ō‘kumisạn. “O∙o∙widi’ agāmiki‘tcigạmi ayāwag īgi’ᵘ anīcinābäg.”</span>
 
-<span class="l-fiero">**“Eye,” ogii-igoon iniw ookomisan. “O’owidi agaami-kichigami ayaawag igiw anishinaabeg.”**</span>
+<span class="l-fiero">**“Eye,” ogii-igoon iniw ookomisan. “O’owidi agaami-kichigami ayaawag igiw  anishinaabeg.”**</span>
 
 <span class="l-eng">*“Yes,” he was told by his grandmother. “In yonder direction on the farther shore of the sea are some people.”*</span>
 
@@ -62,9 +62,9 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(6) O∙o∙widac ugī∙i∙nān īni’ᵘ ō‘kumisạn: “Ạmbäsanō, ninganāsi‘kān ‘iᵉi’ᵘ ickudä,” ugi∙i∙nān īni’ᵘ</span>
 
-<span class="l-fiero">**O’owidi dash ogii-inaan iniw ookomisan: “Ambe sa noo, ninga-naazikaaniii i’iw ishkode,” ogii-inaan ookomisan.**</span>
+<span class="l-fiero">**O’owidi dash ogii-inaan iniw ookomisan: “Ambe sa noo, ninga-naazikaaniii i’iw  ishkode,” ogii-inaan ookomisan.**</span>
 
-<span class="l-eng">*Now, this was what he said to his grandmother: “Please let me go fetch the fire,” he said to his grandmother.*</span>
+<span class="l-eng">*Now, this was what he said to his grandmother: “Please let me go fetch the fire,” he said  to his grandmother.*</span>
 
 <span class="l-gloss">O’owidi dash ogii-inaan iniw ookomisan (and this he said to his grandmother): “Ambe sa noo (please now), ninga-naazikaan i’iw ishkode (let me go to that fire),” ogii-inaan ookomisan (he said to his grandmother).</span>
 
@@ -118,7 +118,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(13) O∙o∙widạc ugī∙i∙nān īni’ᵘ ō‘kumisan: “Mā’nū ninga∙i∙jā,” ogī∙i∙nān īni’ᵘ ō‘kumisạn.</span>
 
-<span class="l-fiero">**O’ow idash ogii-inaan iniw ookomisan: “Maanoo ninga-izhaa,” ogii-inaan iniw ookomisan.**</span>
+<span class="l-fiero">**O’ow idash ogii-inaan iniw ookomisan: “Maanoo ninga-izhaa,” ogii-inaan iniw  ookomisan.**</span>
 
 <span class="l-eng">*And this he said to his grandmother: “Nevertheless I will go,” he said to his grandmother.*</span>
 
@@ -192,9 +192,9 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(22) Mīdạc imā kā∙i∙jitạgwicing i∙i∙mā wända∙i∙bīnit, o∙o∙widạc kī∙i∙nändạm: “Ạmbägicsa pinibinātit a∙a∙wi‘kwä,” kī∙i∙nändạm.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-dagwishing i’imaa wenda’ibiinid, o’ow idash gii-inendam: “Ambegish sa bi-nibi-naadid a’aw ikwe,” gii-inendam.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-dagwishing i’imaa wenda’ibiinid, o’ow idash gii-inendam:  “Ambegish sa bi-nibi-naadid a’aw ikwe,” gii-inendam.**</span>
 
-<span class="l-eng">*And so after he was come at the place where they drew water, this then he thought: “I wish that for water some woman would come,” he thought.*</span>
+<span class="l-eng">*And so after he was come at the place where they drew water, this then he thought: “I  wish that for water some woman would come,” he thought.*</span>
 
 <span class="l-gloss">Mii dash gaa-izhi-dagwishing i’imaa wenda’ibiinid (and so when he arrived there at the watering place), o’ow idash gii-inendam (this then he thought): “Ambegish sa bi-nibi-naadid a’aw ikwe (would that a woman come to fetch water),” gii-inendam (he thought).</span>
 
@@ -208,9 +208,9 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(24) mīdạc kā∙i∙ji∙a∙gwāwäba∙u∙gut ‘iᵉi’ᵘ ki‘tcigạmi mī∙i∙māⁿ kīti‘tipā∙u∙gut mī∙i∙mā īni ‘kwäwạn kä∙u∙ndcigwāba∙i∙bīnit.</span>
 
-<span class="l-fiero">**mii dash gaa-izhi-agwaaweba’ogod i’iw gichigami mii imaa gii-titiba’ogod mii imaa iniw kwewan ge-onji-gwaaba’ibiinid.**</span>
+<span class="l-fiero">**mii dash gaa-izhi-agwaaweba’ogod i’iw gichigami mii imaa gii-titiba’ogod mii imaa  iniw kwewan ge-onji-gwaaba’ibiinid.**</span>
 
-<span class="l-eng">*that after he was washed up by the waves of the sea, then he was tossed rolling to the place from which the woman was to draw water.*</span>
+<span class="l-eng">*that after he was washed up by the waves of the sea, then he was tossed rolling to the  place from which the woman was to draw water.*</span>
 
 <span class="l-gloss">mii dash gaa-izhi-agwaaweba’ogod i’iw gichigami (so that he was washed ashore by the sea) mii imaa gii-titiba’ogod (there he was rolled along by the waves) mii imaa iniw kwewan ge-onji-gwaaba’ibiinid (there where that woman would draw water).</span>
 
@@ -242,7 +242,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-fiero">**Mii dash zhigwa imaa dagwishinoon imaa sa ayaad, zhayiigwa ogii-gwaaba’aminid.**</span>
 
-<span class="l-eng">*Thereupon soon was she come at the place where he was, at once she dipped out the water.*</span>
+<span class="l-eng">*Thereupon soon was she come at the place where he was, at once she dipped out the  water.*</span>
 
 <span class="l-gloss">Mii dash zhigwa imaa dagwishinoon imaa sa ayaad (and so then she arrived there where he was), zhayiigwa ogii-gwaaba’aminid (and at once she dipped up the water).</span>
 
@@ -258,7 +258,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-fiero">**Mii dash i’iw gaa-izhi-siikoobiiginigodxii gaa-izhi-kiiwewinigod o’owidi gaa-izhi piindoomowindxiii iw wiiyaw.2**</span>
 
-<span class="l-eng">*And after the water had been rubbed from him, then was he taken over there to her home; in the bosom of her garment she put the creature.*</span>
+<span class="l-eng">*And after the water had been rubbed from him, then was he taken over there to her home;  in the bosom of her garment she put the creature.*</span>
 
 <span class="l-gloss">Mii dash i’iw gaa-izhi-siikoobiiginigod (and so then the water was wrung out of him) gaa-izhi-kiiwewinigod (then he was carried home) o’owidi gaa-izhi-piindoomowind iw wiiyaw (over there his body was tucked into the bosom of her garment).</span>
 
@@ -280,7 +280,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(33) O∙o∙widạc ogī∙i∙nān ‘aᵉawi‘kwä īni’ᵘ ōmisäyạn: “Nackäginīn,” ugī∙i∙nān kīmōdc īni’ᵘ omisäyạn.</span>
 
-<span class="l-fiero">**O’ow idash ogii-inaan a’aw ikwe iniw omisenyan: “Nashke giniin,” ogii-inaan giimooch iniw omisenyan.**</span>
+<span class="l-fiero">**O’ow idash ogii-inaan a’aw ikwe iniw omisenyan: “Nashke giniin,” ogii-inaan  giimooch iniw omisenyan.**</span>
 
 <span class="l-eng">*And this said the woman to her elder sister: “I say,” said she in secret to her elder sister,*</span>
 
@@ -314,7 +314,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-fiero">**O’ow idash ogii-igoon iniw omisenyan: “Giga-ayaawigonaan koosinaan giga onsomigonaan,xvi” ogii-igoon inow misenyan;**</span>
 
-<span class="l-eng">*Now, this was she told by her elder sister: “We shall be scolded by our father, on account of it shall we be taken to task,” she was told by her elder sister;*</span>
+<span class="l-eng">*Now, this was she told by her elder sister: “We shall be scolded by our father, on account  of it shall we be taken to task,” she was told by her elder sister;*</span>
 
 <span class="l-gloss">O’ow idash ogii-igoon iniw omisenyan (and this she was told by her elder sister): “Giga-ayaawigonaan koosinaan (our father will scold us for it) giga-onsomigonaan (we will be taken to task over it),” ogii-igoon inow misenyan (she was told by her elder sister);</span>
 
@@ -330,7 +330,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-fiero">**Mii dash i’iw gaa-izhi-nandobagwidxvii gaa-izhi-pagidinigod i’imaa jiigi-ishkode wii pengwaawesagod.**</span>
 
-<span class="l-eng">*Accordingly, after she had searched in the bosom of her garment, then was he placed there beside the fire, that from the heat his hair might become dry.*</span>
+<span class="l-eng">*Accordingly, after she had searched in the bosom of her garment, then was he placed  there beside the fire, that from the heat his hair might become dry.*</span>
 
 <span class="l-gloss">Mii dash i’iw gaa-izhi-nandobagwid (and so then she searched in the bosom of her garment) gaa-izhi-pagidinigod i’imaa jiigi-ishkode (and set him down there beside the fire) wii-pengwaawesagod (so that he might dry from the heat).</span>
 
@@ -344,7 +344,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(41) Äjiki‘känimiguwāt īni’ᵘ ōsiwān. “Kitōmbīgisim,” ugī∙i∙guwān īni’ᵘ ōsiwān.</span>
 
-<span class="l-fiero">**Ezhi-kikenimigowaad iniw oosiwaan. “Gidoombiigizim,xviii” ogii-igoowaan iniw oosiwaan.**</span>
+<span class="l-fiero">**Ezhi-kikenimigowaad iniw oosiwaan. “Gidoombiigizim,xviii” ogii-igoowaan iniw  oosiwaan.**</span>
 
 <span class="l-eng">*Then they were found out by their father. “You are noisy,” they were told by their father.*</span>
 
@@ -386,7 +386,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-fiero">**Gaa na mii aw bezhig aawisiidog. Awi-asig,”xix ogii-igowaan iniw oosiwaan.**</span>
 
-<span class="l-eng">*Perhaps this might be one of them. Go put it where you got it,” they were told by their father.*</span>
+<span class="l-eng">*Perhaps this might be one of them. Go put it where you got it,” they were told by their  father.*</span>
 
 <span class="l-gloss">Gaa na mii aw bezhig aawisiidog (perhaps this might be one of them). Awi-asig,” (go put it back,”) ogii-igowaan iniw oosiwaan (they were told by their father).</span>
 
@@ -400,7 +400,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(48) O∙o∙widạc kī∙i∙‘kito awi‘kwä: “Ätạtạkuca nīwawiyatänimā ‘aᵉa’wisa wâbōsōns.”</span>
 
-<span class="l-fiero">**O’ow idash gii-ikido aw ikwe: “Etata gosha ni-wawiyadenimaaxx a’aw isa waaboozoons.”**</span>
+<span class="l-fiero">**O’ow idash gii-ikido aw ikwe: “Etata gosha ni-wawiyadenimaaxx a’aw isa  waaboozoons.”**</span>
 
 <span class="l-eng">*And this said the woman: “Such a precious pet do I think this little bunny!”*</span>
 
@@ -432,9 +432,9 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(52) Oᵉowidạc kīicitcigä ‘aᵉa’ᵘ i‘kwä, nawandicigu ogī∙a∙biswān īni’ᵘ wâbōzōnsạn;</span>
 
-<span class="l-fiero">**O’ow idash gii-izhichige a’aw ikwe nawanj igo ogii-abizwaanxxii iniw waaboozoonsan;**</span>
+<span class="l-fiero">**O’ow idash gii-izhichige a’aw ikwe nawanj igo ogii-abizwaanxxii iniw  waaboozoonsan;**</span>
 
-<span class="l-eng">*Now, this the woman did: in spite of what she was told, she exposed the little bunny to the heat of the fire;*</span>
+<span class="l-eng">*Now, this the woman did: in spite of what she was told, she exposed  the little bunny to the heat of the fire;*</span>
 
 <span class="l-gloss">O’ow idash gii-izhichige a’aw ikwe (and this the woman did) nawanj igo ogii-abizwaan iniw waaboozoonsan (all the more she warmed the little hare at the fire);</span>
 
@@ -448,7 +448,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(54) O∙o∙widạc kī∙i∙nändam ‘aᵉa’ᵘ Nänabucu: “Mīmāwīni∙i∙ᵘ cigwa pängwāwäsowānän.”</span>
 
-<span class="l-fiero">**O’ow idash gii-inendam a’aw Nenabosho: “Mii maawiin iw zhigwa bengwaawesowaanen.”**</span>
+<span class="l-fiero">**O’ow idash gii-inendam a’aw Nenabosho: “Mii maawiin iw zhigwa  bengwaawesowaanen.”**</span>
 
 <span class="l-eng">*And this thought Nänabushu: “By this time surely must I be dry from the heat.”*</span>
 
@@ -488,9 +488,9 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(59) Ō∙o∙widac kī∙i∙‘kitōwạg īgi’ᵘ i‘kwäwạg. “Nạckäginīn, osāgitcipạtwātān ‘iᵉi’ᵘ ickutä!” utināwān īni’ᵘ ōsiwān.</span>
 
-<span class="l-fiero">**O’ow idash gii-ikidowag igiw ikwewag, “Nashke giniin, ozaagijibadwaadaanxxvi i’iw ishkode!” odinaawaan iniw oosiwaan.**</span>
+<span class="l-fiero">**O’ow idash gii-ikidowag igiw ikwewag, “Nashke giniin, ozaagijibadwaadaanxxvi i’iw  ishkode!” odinaawaan iniw oosiwaan.**</span>
 
-<span class="l-eng">*And this said the women: “Look at him, out of doors is he running with the fire!” they said to their father.*</span>
+<span class="l-eng">*And this said the women: “Look at him, out of doors is he running with the fire!” they  said to their father.*</span>
 
 <span class="l-gloss">O’ow idash gii-ikidowag igiw ikwewag (and this the women said), “Nashke giniin (look at him), ozaagijibadwaadaan i’iw ishkode! (he is running outside with the fire!)” odinaawaan iniw oosiwaan (they said to their father).</span>
 
@@ -538,7 +538,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-fiero">**Mii dash anishaa go gaa-izhi-ganawaabamaawaad mishawi-gichigami ani ozhaawashkwaakonenid,**</span>
 
-<span class="l-eng">*And all they could do was to watch (the hare) far out on the great expanse burning with a blue flame,*</span>
+<span class="l-eng">*And all they could do was to watch (the hare) far out on the great expanse burning with a  blue flame,*</span>
 
 <span class="l-gloss">Mii dash anishaa go gaa-izhi-ganawaabamaawaad (and so all they could do was watch him) mishawi-gichigami ani-ozhaawashkwaakonenid (far out on the great sea, glowing with a blue flame),</span>
 
@@ -560,9 +560,9 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(68) Mīdạc cīgwa otäbâbạndān ändāwāt ² wuᵉ∙ō∙widạc ogī∙i∙nān īni’ᵘ ō‘kumisạn tcibwāmādcāt:</span>
 
-<span class="l-fiero">**Mii dash zhigwa odebaabandaan endaawaad wo’ow idash ogii-inaan iniw ookomisan jibwaa-maajaad:**</span>
+<span class="l-fiero">**Mii dash zhigwa odebaabandaan endaawaad wo’ow idash ogii-inaan iniw  ookomisan jibwaa-maajaad:**</span>
 
-<span class="l-eng">*And then presently he was coming in sight of his home. Now, this he had said to his grandmother before he started away:*</span>
+<span class="l-eng">*And then presently he was coming in sight of his home.  Now, this he had said to his grandmother before he started away:*</span>
 
 <span class="l-gloss">Mii dash zhigwa odebaabandaan endaawaad (and so then he came in sight of their home) wo’ow idash ogii-inaan iniw ookomisan jibwaa-maajaad (and this he had said to his grandmother before he set out):</span>
 
@@ -570,7 +570,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-fiero">**“ashwiin, maagizhaa geget biidooyaan i’iw ishkode,” ogii-inaan iniw ookomisan.**</span>
 
-<span class="l-eng">*“Be prepared if perchance I truly happen to fetch the fire,” he (thus) had said to his grandmother.*</span>
+<span class="l-eng">*“Be prepared if perchance I truly happen to fetch the fire,” he (thus) had said to his  grandmother.*</span>
 
 <span class="l-gloss">“ashwiin (be ready), maagizhaa geget biidooyaan i’iw ishkode (in case I truly bring the fire),” ogii-inaan iniw ookomisan (he said to his grandmother).</span>
 
@@ -578,7 +578,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-fiero">**Gaa-izhi-kanoonaad apii debaabandang i’iw endaawaad, o’ow ogii-inaan abi baandigesed iniw ookomisan:**</span>
 
-<span class="l-eng">*Afterwards he addressed her when he was coming in sight of their home, and this he said to his grandmother when he came flying in:*</span>
+<span class="l-eng">*Afterwards he addressed her when he was coming in sight of their home, and this he said  to his grandmother when he came flying in:*</span>
 
 <span class="l-gloss">Gaa-izhi-kanoonaad apii debaabandang i’iw endaawaad (then he called to her as he came in sight of their home), o’ow ogii-inaan abi-baandigesed iniw ookomisan (and this he said to his grandmother as he came flying in):</span>
 
@@ -608,7 +608,7 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <span class="l-orig">(74) O∙o∙widac kī∙i∙‘kitō ‘aᵉa’ᵘ Nänabucu: “Mīsa iᵘ kä∙i∙jināgusit ‘aᵉa’ᵘ wâbōs ‘iᵉi’ᵘ tcinībink.” ¹</span>
 
-<span class="l-fiero">**O’ow idash gii-ikido a’aw Nenabosho: “Mii sa iw gaa-izhinaagozid a’aw waabooz i’iw ji-niibing.”5**</span>
+<span class="l-fiero">**O’ow idash gii-ikido a’aw Nenabosho: “Mii sa iw gaa-izhinaagozid a’aw waabooz  i’iw ji-niibing.”5**</span>
 
 <span class="l-eng">*And this said Nänabushu: “Therefore such shall be the look of the hare in the summer-time.”*</span>
 
@@ -616,13 +616,13 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 (2) Gii-gimoodid ishkode Nenabosho
 
-<sup>2</sup> Kāijipīndōmowint iw wīyau, “in the bosom of her garment she put the creature;” literally, “in the bosom of her garment was put its body.” \[Jones p. 10\]
+<sup>2</sup> Kāijipīndōmowint iw wīyau, “in the bosom of her garment she put the creature;” literally, “in the bosom  of her garment was put its body.” [Jones p. 10]
 
-<sup>3</sup> Ānīn kägīijināgwak, “how is it possible for…” more literally, “how would it look or seem for…” \[Jones p. 11\]
+<sup>3</sup> Ānīn kägīijināgwak, “how is it possible for…” more literally, “how would it look or seem for…” [Jones  p. 11]
 
-<sup>4</sup> Mīya’a päjik manitō, “it is one of the manitous,” more literally, “it is a certain Manitou.” \[Jones p. 12\]
+<sup>4</sup> Mīya’a päjik manitō, “it is one of the manitous,” more literally, “it is a certain Manitou.” [Jones p. 12]
 
-<sup>5</sup> That is, as if he had been scorched by fire. \[Jones p. 14\]
+<sup>5</sup> That is, as if he had been scorched by fire. [Jones p. 14]
 
 <sup>i</sup> Suggested replacement gomaapiich.
 
@@ -656,11 +656,11 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <sup>xvi</sup> Manitoulin alternative: “ga-nchii’gonaa”.
 
-<sup>xvii</sup> Manitoulin alternative for nandobagwid is ndabinigod and suggested alternative for bengwaawesagod is wii-baasigod.
+<sup>xvii</sup> Manitoulin alternative for nandobagwid is ndabinigod and suggested alternative for bengwaawesagod is  wii-baasigod.
 
 <sup>xviii</sup> Gdoombiizim in Manitoulin dialect means ‘shut up’ and the suggested alternative is gdoo-nwaatoom – ‘you are noisy’.
 
-<sup>xix</sup> Suggested words to correspond to the English translation by adding ‘awi-asig neyaab gaa-ndineg’ to mean ‘put him back where you found him’.
+<sup>xix</sup> Suggested words to correspond to the English translation by adding ‘awi-asig neyaab gaa-ndineg’ to  mean ‘put him back where you found him’.
 
 <sup>xx</sup> Suggested alternative to above “gegeti gosha ndi-waawnenmaa…”
 
@@ -668,9 +668,9 @@ Aaniish mii sa iw zhigwa gii-nitaawigi’aad a’aw mindimooyenh.**</span>
 
 <sup>xxii</sup> Either ogii-abizwaan or gii-awaz’o is understandable.
 
-<sup>xxiii</sup> The un-reduplicated form was preferred, so ‘kwekshimaad’ is preferred to kwekwekshimaad. <sup>xxiv</sup> Suggested replacement for ninga-pakines with nga-bskane and the next line ezhi-pakinezod with ezhi bskaned.
+<sup>xxiii</sup> The un-reduplicated form was preferred, so ‘kwekshimaad’ is preferred to kwekwekshimaad. xxiv Suggested replacement for ninga-pakines with nga-bskane and the next line ezhi-pakinezod with ezhi bskaned.
 
-<sup>xxv</sup> Suggested replacement line “gaa-zhi-noodizod gaa-izhi-zaagjigwaashkwanid”. <sup>xxvi</sup> Suggested replacement ‘zaagjibtoowaadaan’.
+<sup>xxv</sup> Suggested replacement line “gaa-zhi-noodizod gaa-izhi-zaagjigwaashkwanid”. xxvi Suggested replacement ‘zaagjibtoowaadaan’.
 
 <sup>xxvii</sup> Suggested wording for Manitoulin: “g-makmigonaa”.
 

@@ -13,7 +13,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-fiero">**Nenabozho gaye ma’iinganag, ani-aabita’igaadeg**</span>
 
-9. Nänabushu and the Wolves, Continued.
+9\. Nänabushu and the Wolves, Continued.
 
 <span class="l-eng">*Narrated by Wâsagunäckạnk — Series 1 (Nos. 1–18), Bois Fort (per Michelson’s roster, Part I Preface p. XX; not credited on the story page itself).*</span>
 
@@ -43,11 +43,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Mii dash geget (and so it was, truly).</span>
 
-<span class="l-orig">(4) Ānīc Nänabucu u‘kunācic äcikackackīwicink, mīsa pisindawāwāt, indigunạndagu mạdwäganä‘pi‘tcigä. “Tạga pina, ninga∙i∙nāb,” inändạm Nänabucu. Kägä‘t äci∙a∙gwasäiginạnk ‘iᵉi’ᵘ u‘kunācic, cigwa kägä‘t owâbạmān naitā i∙i∙ᵘ ubigwā‘kugạnānini na∙i∙tā utōwawicācạnätamini; kägāgu mica‘kīgābīgạgōtäni i∙i∙ᵘ usībickanāmōwinini. Mīdạc kạnawâbạmāt, ningutingigu äciku‘tigwandạminit ā‘pidci i∙i∙māⁿ uckīncigunk äcipạngisininig. Pạnägu, tcōⁿ, tōⁿ kāini‘tạnk. “Cigwadạc, Nänabucu ningwāckwägạnä∙ạ∙mawā!” Mīdạc ä‘kidut ‘aᵉa’ᵘ a‘kiwäⁿzī: “Ayāwi‘k kimicōmä∙ī∙wā, ta‘kābāwạni‘k!”</span>
+<span class="l-orig">(4) Ānīc Nänabucu u‘kunācic äcikackackīwicink, mīsa pisindawāwāt, indigunạndagu mạdwäganä‘pi‘tcigä. “Tạga pina, ninga∙i∙nāb,” inändạm Nänabucu. Kägä‘t äci∙a∙gwasäiginạnk ‘iᵉi’ᵘ u‘kunācic, cigwa kägä‘t owâbạmān na∙i∙tā i∙i∙ᵘ ubigwā‘kugạnānini na∙i∙tā utōwawicācạnätamini; kägāgu mica‘kīgābīgạgōtäni i∙i∙ᵘ usībickanāmōwinini. Mīdạc kạnawâbạmāt, ningutingigu äciku‘tigwandạminit ā‘pidci i∙i∙māⁿ uckīncigunk äcipạngisininig. Pạnägu, tcōⁿ, tōⁿ kāini‘tạnk. “Cigwadạc, Nänabucu ningwāckwägạnä∙ạ∙mawā!” Mīdạc ä‘kidut ‘aᵉa’ᵘ a‘kiwäⁿzī: “Ayāwi‘k kimicōmä∙ī∙wā, ta‘kābāwạni‘k!”</span>
 
 <span class="l-fiero">**Aaniish Nenabozho okonaazhish ezhi-gashkagashkiiwizhing, mii sa bizindawaawaad, indigo nandago madwe-gane’ichige. “Daga bina, ninga-inaab,” inendam Nenabozho. Geget ezhi-agwaaze’iginang iw okonaazhish, zhigwa geget owaabamaan naa idaa iw obigwaakoganaanini naa idaa odoowawizhaazhaanedamini; gegaa go mizhakii-gaabiigagoodeni iw oziibishkanaamoowinini. Mii dash ganawaabamaad, ningoding igo ezhi-godigwandaminid aapiji iimaa oshkiinzhigong ezhi-bangisininig. Banaa go, *tcōⁿ*, *tōⁿ* gaa-initang. “Zhigwa dash, Nenabozho ningwaashkwagane’amawaa!” Mii dash ekidod a’aw akiwenzii: “Ayaawik gimishoomewaa, da-gaabaawanik!”**</span>
 
-<span class="l-eng">*Now, as Nänabushu lay wrapped in his old soiled blanket, and as they listened to (their father), it seemed by the sound as if he were gnawing upon a bone. “I say, now, I will take a look,” (thus) thought Nänabushu. Truly, as he quietly lifted his old soiled blanket, he saw him at the very moment when he was biting on an ulna, but at just the time when it slipped from his mouth; and nearly to the ground was stringing the (old Wolf’s) saliva. And now, as he was watching him, then of a sudden (the old Wolf) lost his hold (on the bone) in his mouth, (and) straight yonder into (Nänabushu’s) eye it struck. Then nothing but tcōⁿ, tcōⁿ, was the sound he heard. “Oh, to Nänabushu slipped a bone from my mouth!” Whereupon said the old (Wolf): “Attend to your uncle, cool him with water!”*</span>
+<span class="l-eng">*Now, as Nänabushu lay wrapped in his old soiled blanket, and as they listened to (their father), it seemed by the sound as if he were gnawing upon a bone. “I say, now, I will take a look,” (thus) thought Nänabushu. Truly, as he quietly lifted his old soiled blanket, he saw him at the very moment when he was biting on an ulna, but at just the time when it slipped from his mouth; and nearly to the ground was stringing the (old Wolf’s) saliva. And now, as he was watching him, then of a sudden (the old Wolf) lost his hold (on the bone) in his mouth, (and) straight yonder into (Nänabushu’s) eye it struck. Then nothing but tcōⁿ, tōⁿ, was the sound he heard. “Oh, to Nänabushu slipped a bone from my mouth!” Whereupon said the old (Wolf): “Attend to your uncle, cool him with water!”*</span>
 
 <span class="l-gloss">Aaniish Nenabozho okonaazhish (now Nenabozho, his old soiled blanket) ∙ ezhi-gashkagashkiiwizhing (as he lay wrapped up) ∙ mii sa bizindawaawaad (and so they listened to him) ∙ indigo nandago madwe-gane’ichige (as if, by the sound, he were gnawing on something) ∙ Daga bina, ninga-inaab (I say now, I will take a look) ∙ inendam Nenabozho (thought Nenabozho) ∙ geget ezhi-agwaaze’iginang iw okonaazhish (truly, as he lifted up that old blanket) ∙ zhigwa geget owaabamaan (now truly he saw him) ∙ iw obigwaakoganaanini (the ulna/arm-bone) ∙ odoowawizhaazhaanedamini (as it slipped from his mouth) ∙ gegaa go mizhakii-gaabiigagoodeni iw oziibishkanaamoowinini (nearly to the ground hung his saliva) ∙ mii dash ganawaabamaad (and so as he watched him) ∙ ningoding igo ezhi-godigwandaminid (suddenly he lost his hold in his mouth) ∙ aapiji iimaa oshkiinzhigong ezhi-bangisininig (right there into his eye it fell) ∙ banaa go (nothing but) ∙ *tcōⁿ, tōⁿ* gaa-initang (was the sound he heard) ∙ Zhigwa dash, Nenabozho ningwaashkwagane’amawaa (now then, to Nenabozho a bone slipped from my mouth) ∙ mii dash ekidod a’aw akiwenzii (and so said the old man) ∙ Ayaawik gimishoomewaa (attend to your uncle) ∙ da-gaabaawanik (cool him with water).</span>
 
@@ -59,7 +59,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Mii dash geget gii-da-gaabaawinind (and so truly he was cooled off with water) ∙ mii dash gaa-izhi-mikawid (and then he came to / was revived) ∙ mii dash gaa-igod iniw akiwenziiyan (and then he was told by the old man) ∙ Nenabozho, ganawaabamiwaambanza (Nenabozho, you really were watching me).</span>
 
-<span class="l-orig">(6) “Kāwin, kāwin!”</span>
+<span class="l-orig">(6) “Kāwīn, kāwīn!”</span>
 
 <span class="l-fiero">**“Gaawiin, gaawiin!”**</span>
 
@@ -83,7 +83,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Aaniish zhigwa gigizheb (now then in the morning) ∙ aaniin eyaa’piichisigwaanig bimide (how thick the grease was frozen) ∙ Aaniish odazhamigowaan gigizheb (so they were fed in the morning) ∙ iw odakaanini (that bone-grease of his).</span>
 
-<span class="l-orig">(9) Cigwa udinān: “Ạmbäsạnō, nīn ni‘tạm ninga∙a∙‘kä,” udināᵉ. Mīdạc kägä‘t a‘kät. “Ānīc mīgu gayä nīn, kāwīn wī‘kā ninganawâbạmigōsī ‘iᵉi’ᵘ a‘käyān. Ānīc mīcigwa tcigackackīwicinäg.” Ānīc tca∙ī∙gwa umādcīpīsiganäānạn īni’ᵘ a‘kạnạn. Kägätsa pimitäwikanạgạtiniwạn. Mīgunā ạnisīwäganātạnk ‘iᵉi’ᵘ mini‘k pämitäwikanạgạtini‘k, cigwa kumāa‘pī pīti‘kwäcinōn kackackīwicininit īni’ᵘ a‘kiwäⁿzīma∙ī∙ganan. Wäwänigu ugī∙u∙nābạndān ‘iᵉi’ᵘ mängikanagạtinig u‘kạn kā∙i∙ci∙ā∙cōganä∙a∙nk, kā∙i∙cipaki‘tä∙o∙wāt īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn. Ānīc mīsa’ äcinīwạnawāt. Oᵉōdạc ugī∙i∙nāᵉ ‘iᵉi’ᵘ utōcimaᵉ: “Nackäna, ta‘kābāwạni‘k!” ugī∙i∙nān. Mēdạc kā∙i∙nāt: “Kạnawâbamīwāmbạnisa nītcizạzī‘kisi. Mīsa’ äci∙a∙yāyān awīya känawâbamitcin.”</span>
+<span class="l-orig">(9) Cigwa udinān: “Ạmbäsạnō, nīn ni‘tạm ninga∙a∙‘kä,” udināᵉ. Mīdạc kägä‘t a‘kät. “Ānīc mīgu gayä nīn, kāwīn wī‘kā ninganawâbạmigōsī ‘iᵉi’ᵘ a‘käyān. Ānīc mīcigwa tcigackackīwicinäg.” Ānīc tca∙ī∙gwa umādcīpīsiganäānạn īni’ᵘ a‘kạnạn. Kägätsa pimitäwikanạgạtiniwạn. Mīgunā ạnisīwäganātạnk ‘iᵉi’ᵘ mini‘k pämitäwikanagạtini‘k, cigwa kumāa‘pī pīti‘kwäcinōn kackackīwicininit īni’ᵘ a‘kiwäⁿzīma∙ī∙ganan. Wäwänigu ugī∙u∙nābạndān ‘iᵉi’ᵘ mängikanagạtinig u‘kạn kā∙i∙ci∙ā∙cōganä∙a∙nk, kā∙i∙cipaki‘tä∙o∙wāt īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn. Ānīc mīsa’ äcinīwạnawāt. Oᵉōdạc ugī∙i∙nāᵉ ‘iᵉi’ᵘ utōcimaᵉ: “Nackäna, ta‘kābāwạni‘k!” ugī∙i∙nān. Mēdạc kā∙i∙nāt: “Kạnawâbamīwāmbạnisa nītcizạzī‘kisi. Mīsa’ äci∙a∙yāyān awīya känawâbamitcin.”</span>
 
 <span class="l-fiero">**Zhigwa odinaan: “Ambesanoo, niin nitam ninga-a’ge,” odinaag. Mii dash geget a’ged. “Aaniish mii go gaye niin, gaawiin wiikaa ninganawaabamigoosii iw a’geyaan. Aaniish mii zhigwa ji-gashkagashkiiwizhineg.” Aaniish ja-iigwa omaajiibiisiganeaanan iniw akanan. Geget sa bimidewikanagadiniwan. Mii go naa anisiiwegaanaatang iw minik bemidewikanagadinik, zhigwa goomaa-apii biidikweshinoon gashkagashkiiwizhininid iniw akiwenzii-ma’iiganan. Wewenii go ogii-onaabandaan iw mengikanagadinig okan gaa-izhi-aazhoogane’ang, gaa-izhi-bakite’owaad iniw akiwenzii-ma’iinganan. Aaniish mii sa ezhi-niiwanawaad. O’ow idash ogii-inaag iw odoozhimaag: “Nashke naa, da-gaabaawanik!” ogii-inaan. Mii dash gaa-inaad: “Ganawaabamiiwaambaniza niijizazii’kisi. Mii sa ezhi-ayaayaan awiya genawaabamijin.”**</span>
 
@@ -93,21 +93,23 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *Word-final ’ resolved per M.’s obviative-number ruling: odinaa’ → odinaag; ogii-inaa’ → ogii-inaag; odoozhimaa’ → odoozhimaag. Per M., 2026.*
 
-<span class="l-orig">(10) Ānīc mī∙i∙ᵘ cigwa kīmi‘kawit waᵉa’ᵘ a‘kiwäⁿzīma∙ī∙ngạn. Woᵉōwidạc ki∙i∙‘kito: “Nänabucu nimpạki‘tä∙u∙‘k,” kī∙i∙kito; “untcitạgu nimpaki‘tä∙u∙k,” kī∙i∙‘kito wa∙a∙ᵘ a‘kiwäⁿzīma∙ī∙ngạn. “Kāwīn kuca ānawi ningạnawâbamāsībạn,” kī∙i∙‘kito waᵉaᵘ a‘kiwäⁿzīma∙ī∙ngạn. “Ānīc pāmāsạna kayä nīn kīga∙ạ∙cạmininim.”</span>
+<span class="l-orig">(10) Ānīc mī∙i∙ᵘ cigwa kīmi‘kawit waᵉa’ᵘ a‘kiwäⁿzīma∙ī∙ngạn. Woᵉōwidạc ki∙i∙‘kito: “Nänabucu nimpạki‘tä∙u∙‘k,” kī∙i∙‘kito; “untcitạgu nimpaki‘tä∙u∙‘k,” kī∙i∙‘kito wa∙a∙ᵘ a‘kiwäⁿzīma∙ī∙ngạn. “Kāwīn kuca ānawi ningạnawâbamāsībạn,” kī∙i∙‘kito waᵉaᵘ a‘kiwäⁿzīma∙ī∙ngạn. “Ānīc pāmāsạna kayä nīn kīga∙a∙cạmininim.”</span>
 
 <span class="l-fiero">**Aaniish mii iw zhigwa gii-mikawid wa’aw akiwenzii-ma’iingan. Wo’ow idash gii-ikido: “Nenabozho nimbakite’ok,” gii-ikido; “onjida go nimbakite’ok,” gii-ikido wa’aw akiwenzii-ma’iingan. “Gaawiin gosha aanawi ninganawaabamaasiiban,” gii-ikido wa’aw akiwenzii-ma’iingan. “Aaniish baamaa sa naa gaye niin giga-ashamininim.”**</span>
 
-<span class="l-eng">*So then presently was the old Wolf revived. And this he said: “By Nänabushu was I struck,” he said; “purposely was I hit by him,” said the old Wolf. “No attempt whatever did I make to watch him,” said the old Wolf. “... not till after a while will I feed you.”*</span>
+<span class="l-eng">*So then presently was the old Wolf revived. And this he said: “By Nänabushu was I struck,” he said; “purposely was I hit by him,” said the old Wolf. “No attempt whatever did I make to watch him,” said the old Wolf. “So not till after a while will I feed you.”*</span>
 
 <span class="l-gloss">Aaniish mii iw zhigwa gii-mikawid wa’aw akiwenzii-ma’iingan (so now the old wolf came to / revived) ∙ wo’ow idash gii-ikido (and this he said) ∙ Nenabozho nimbakite’ok (Nenabozho struck me) ∙ gii-ikido (he said) ∙ onjida go nimbakite’ok (on purpose he hit me) ∙ Gaawiin gosha aanawi ninganawaabamaasiiban (I made no attempt at all to watch him) ∙ Aaniish baamaa sa naa gaye niin giga-ashamininim (well, only after a while will I feed you).</span>
 
-<span class="l-orig">(11) Mīdạc kägä‘t kigicäp. Cigwa ānīc nā īni’ᵘ uda‘ki‘kōn kanạbạtc wīgwāsạba‘kwāng a‘pī‘tcisigwāni ‘iᵉi’ᵘ upimitä‘kān. Cigwasa minawā udạcamā īni’ᵘ udōcimaᵉ. Ānīc misa’ cigwa kidạmwāwāt īni’ᵘ umōⁿzumiwān, “Mīmāwīn cigwa tcigusīyang,” utigōn īni’ᵘ a‘kiwäⁿzīyạn. Mīdạc ägut īni’ᵘ a‘kiwäⁿzīyạn: “Päcik kimīnin waᵉa’ᵘ ningwisis,” utigōn.</span>
+<span class="l-orig">(11) Mīdạc kägä‘t kigicäp. Cigwa ānīc nā īni’ᵘ uda‘ki‘kōn kanạbạtc wīgwāsạba‘kwāng a‘pī‘tcisigwāni ‘iᵉi’ᵘ upimitä‘kān. Cigwasa minawā udạcamā ‘iᵉi’ᵘ udōcimaᵉ. Ānīc mīsa’ cigwa kidạmwāwāt īni’ᵘ umōⁿzumiwān, “Mīmāwīn cigwa tcigusīyang,” utigōn īni’ᵘ a‘kiwäⁿzīyạn. Mīdạc ägut īni’ᵘ a‘kiwäⁿzīyạn: “Päcik kimīnin waᵉa’ᵘ ningwisis,” utigōn.</span>
 
 <span class="l-fiero">**Mii dash geget gigizheb. Zhigwa aaniish naa iniw odakikoon ganabaj wiigwaasabakwaang aapiichisigwaani iw obimideakaan. Zhigwa sa minawaa odazhamaa iniw odoozhiman. Aaniish mii sa zhigwa gidamwaawaad iniw omoonzomiwaan, “Mii maawiin zhigwa ji-gozhiiyang,” odigoon iniw akiwenziiyan. Mii dash egod iniw akiwenziiyan: “Bezhig gimiinin wa’aw ningwisis,” odigoon.**</span>
 
 <span class="l-eng">*Thereupon truly was it now morning. According to the story, the grease in his kettle was frozen as thick as a sheet of birch-bark covering of the lodge. Now, again he fed his nephews on it. So by the time they had eaten up their moose, “It must be time for us now to move camp,” he was told by the old (Wolf). And so he was told by the old (Wolf): “One of my sons I give to you,” he was told.*</span>
 
 <span class="l-gloss">Mii dash geget gigizheb (and so truly it was morning) ∙ zhigwa aaniish naa iniw odakikoon (now then, in his kettle) ∙ ganabaj wiigwaasabakwaang aapiichisigwaani (frozen about as thick as a birch-bark lodge-covering) ∙ iw obimideakaan (that bone-grease of his) ∙ zhigwa sa minawaa odazhamaa iniw odoozhiman (now again he fed his nephews) ∙ mii sa zhigwa gidamwaawaad iniw omoonzomiwaan (so when they had eaten up their moose) ∙ Mii maawiin zhigwa ji-gozhiiyang (it must now be time for us to move camp) ∙ odigoon iniw akiwenziiyan (he was told by the old man) ∙ mii dash egod iniw akiwenziiyan (and this he was told by the old man) ∙ Bezhig gimiinin wa’aw ningwisis (one son I give to you) ∙ odigoon (he was told).</span>
+
+*⚑ 9-B3-1 (page sweep 2026-08-18): p.86 l.33 prints udạcamā ‘iᵉi’ᵘ udōcimaᵉ — the demonstrative i’iw, not īni’ᵘ; Layer 1 corrected at 26×. The inherited Fiero reads iniw odoozhiman, which follows the superseded īni’ᵘ and also singularises a word the raised sort marks as plural (cf. §9, where the same frame stands as odoozhimaag). FLAGGED, not changed — rides to the lexicon stage.*
 
 <span class="l-orig">(12) Ānīc unanā‘kumān. “Mīsadạc īzạn i∙i∙ᵘ kä∙u∙ndcimino ayayāyān. Intawā mīgu omā kä∙u∙ndcīt,” udinān īni’ᵘ a‘kiwäⁿzyạn.</span>
 
@@ -125,13 +127,15 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Aaniish, mii sa go iw waabang ji-gozhiiyang (well, it is tomorrow that we will move camp) ∙ odigoon iniw akiwenziiyan (he was told by the old man).</span>
 
-<span class="l-orig">(14) Ānīc mīsa gägä‘t cigwa kusiwāt. “Nāmāguna ayā ‘aᵉa’ᵘ käwâbanicimi‘k,” ugī∙i∙gōn īni’ᵘ a‘kiwäⁿziyạn.</span>
+<span class="l-orig">(14) Ānīc mīsa gägät cigwa kusiwāt. “Nāmāguna ayā ‘aᵉa’ᵘ käwâbanicimi‘k,” ugī∙i∙gōn īniᵘ a‘kiwäziyạn.</span>
 
 <span class="l-fiero">**Aaniish mii sa geget zhigwa gozhiiwaad. “Naa maagonaa ayaa a’aw ge-waabanizhimik,” ogii-igoon iniw akiwenziiyan.**</span>
 
 <span class="l-eng">*So it was true that then they moved. “I am leaving you one who will keep you supplied with food throughout the winter,” he was told by the old (Wolf).*</span>
 
 <span class="l-gloss">Aaniish mii sa geget zhigwa gozhiiwaad (so truly then they moved camp) ∙ Naa maagonaa ayaa a’aw ge-waabanizhimik (here, there is the one who will see you through the winter) ∙ ogii-igoon iniw akiwenziiyan (he was told by the old man).</span>
+
+*Page sweep 2026-08-18: p.88 l.9 prints a‘kiwäziyạn — no superior ⁿ — where every other printing of this word in #8/#9 carries one. Layer 1 mirrors the page token by token (register §2). The Fiero keeps akiwenziiyan: that n is a real consonant, not the nasal-vowel environment (nasal ⁿ note, the akiwenzii/ginwenzh/mewinzha list). No Fiero change, no flag.*
 
 <span class="l-orig">(15) Mīdạc kägä‘t.</span>
 
@@ -140,7 +144,5 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 <span class="l-eng">*And it was true.*</span>
 
 <span class="l-gloss">Mii dash geget (and so it was, truly).</span>
-
-9. Nänabushu and the Wolves, Continued.
 
 </div>

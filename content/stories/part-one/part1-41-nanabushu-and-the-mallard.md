@@ -19,7 +19,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1917).***</span>
 
-<span class="l-orig">(1) Wäyābạninig äjimädcät kīyusät, kāwäsa kägō uni’tōsin. Mōⁿcag änuki∙u∙sä, mīsōntcita kāwīn kägō uni’tōsī. Misa’ ā‘pidci pa‘kadät. Cigwa wäyābạninig äjimädcät Nänabucu, mīdạc ‘i¹i’ᵘ pạbāạntakīyōtät. Ninguting utō‘kawi∙ā∙n ạnicinābä⁵, omāta∙ạ∙nāt. Kumāgu a‘pī tägwicink, owābạndän ändänit. Änijipīndigät ininiwạn nāmadapiwạn, kayä win i‘kwäwạn kayä ‘i¹i’ᵘ unidcänisini. Ājikạnōnint : “ ‘A’a’ᵘ, nāmạdạpīn !” inä Nänabucu.</span>
+<span class="l-orig">(1) Wäyābạninig äjimādcāt kīyusät, kāwäsā kägō uni‘tōsīn. Mōⁿcạg ānukī∙u∙sä, mīsōntcita kāwīn kägō uni‘tōsī. Mīsa´ ā‘pidci pa‘kadät. Cigwa wäyābạninig äjimādcāt Nänabucu, mīdạc ‘iᵉi´ᵘ pạbāạntakīyōtät. Ninguting utō‘kawi∙ā∙n ạnicinābäᵉ, omāta∙ạ∙nāt. Kumāgu a‘pī tägwicink, owâbạndān ändānit. Änijipīndigät ininiwạn nāmadapiwạn, kayä wīn i‘kwäwạn kayä ‘iᵉi´ᵘ unīdcānisini. Äjikạnōnint: “ ‘A‘a´ᵘ, nāmạdạpîn!” inā Nänabucu.</span>
 
 <span class="l-fiero">**Waabaninig ezhi-maajaad giiyosed, gaawesa gegoo o-nita-oosin. Moozhag anokii-osed, miisozhtigo gaawiin gegoo o-nita-oosii. Mii sa aapidji bakaded. Zhigwa waabaninig ezhi-maajaad Nenabozho, mii dash iwedi babaa-andakiiyaad. Ningoding odo-okawi-aanan anishinaabe, omaadaaanaad. Gomaa go apii dagwishing, owaabandaan endaanid. Ani-zhi-biindiged ininiwan namadabiwan, gaye wiin ikwewan gaye iniw oodaanisini. Ezhi-ganoonind: “Aaw, namadabin!” ina Nenabozho.**</span>
 
@@ -27,7 +27,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Waabaninig ezhi-maajaad giiyosed (when morning came, off he went hunting) ∙ gaawesa gegoo o-nita-oosin (not a thing did he manage to kill) ∙ Moozhag anokii-osed (continually as he hunted) ∙ miisozhtigo gaawiin gegoo o-nita-oosii (do all he might, nothing did he kill) ∙ Mii sa aapidji bakaded (then very hungry he became) ∙ Zhigwa waabaninig ezhi-maajaad Nenabozho (now next morning off went Nenabozho) ∙ mii dash iwedi babaa-andakiiyaad (and there he went about visiting) ∙ Ningoding odo-okawi-aanan anishinaabe (once he came on the tracks of people) ∙ omaadaaanaad (he followed their trail) ∙ Gomaa go apii dagwishing (some way on when he arrived) ∙ owaabandaan endaanid (he saw where they lived) ∙ Ani-zhi-biindiged (going in he entered) ∙ ininiwan namadabiwan (a man who was seated) ∙ gaye wiin ikwewan gaye iniw oodaanisini (and also a woman and their children) ∙ Ezhi-ganoonind: “Aaw, namadabin!” (he was addressed: “All right, sit down!”) ∙ ina Nenabozho (was Nenabozho told).</span>
 
-<span class="l-orig">(2) Kīgitōwạn inī’ᵘ ininiwan : “Wägunäcinā kägīgä∙ạ∙nk aᵘ pīwitä? Taga, mīnōtc nibi ạnạgōtōn,” inimäwạn inī’ᵘ i‘kwäwạn.</span>
+<span class="l-orig">(2) Kīgitōwạn īni´ᵘ ininiwan: “Wägunäcinā kägīgä∙ạ∙nk aᵘ pīwitä? Tạga, mīnōtc nibi ạnạgōtōn,” inimāwạn īni´ᵘ i‘kwäwạn.</span>
 
 <span class="l-fiero">**Giigidowan iniw ininiwan: “Wegonen-zhinaa ge-giigaag a’aw biiwide? Daga, miinotch nibi anagotoon,” inimaawan iniw ikwewan.**</span>
 
@@ -35,25 +35,25 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Giigidowan iniw ininiwan (then spoke the man) ∙ “Wegonen-zhinaa ge-giigaag a’aw biiwide? (what is there for that visitor to have?) ∙ Daga, miinotch nibi anagotoon,” (well, anyhow, hang up some water) ∙ inimaawan iniw ikwewan (he said to the woman).</span>
 
-<span class="l-orig">(3) Kägä’t, agi‘kwạn äciwanạgōnāt a∙i∙‘kwä. Mägwāgu nạmạdapinit inī’ᵘ ininiwạn, undcipạsigu∙ō∙wạn, nōndāgusiwạn : “Kwänk, kwänk, kwänk !” inwäwän. Mīdạc imāⁿ midā‘kupitciganing äcipōninint, nōndāgusint : “Kwänk, kwänk,” inwänit. Ä‘tawä, kuniginīn äcimisinint imāⁿ a‘kikunk, kīgitōwạn : “ ‘A’a’ᵘ mīnōtc anä∙ạ∙n !”</span>
+<span class="l-orig">(3) Kägä‘t, ạgi‘kwạn äciwanạgōnāt a∙i∙‘kwä. Mägwāgu nạmạdạpinit īni´ᵘ ininiwạn, undcipạsigu∙ō∙wạn, nōndāgusiwạn: “Kwänk, kwänk, kwänk,” inwäwän. Mīdạc imāⁿ midā‘kupitcigạning äcipōnīnint, nōndāgusint: “Kwänk, kwänk,” inwänit. Ä‘tawā, kuniginīn äcimīsinint īmāⁿ a‘kikunk, kīgitōwạn: “ ‘A‘a´ᵘ mīnōtc anä∙ạ∙n!”</span>
 
 <span class="l-fiero">**Gegget, agii’kwan ezhi-wanagoonaad a-i’kwe. Megwaa go namadabinid iniw ininiwan, ondji-bazigwiiwan, noondaagosiwan: “Gwaank, gwaank, gwaank!” inwewan. Mii dash imaa midaakupijiganing*flagged* ezhi-booninind, noondaagozid: “Gwaank, gwaank,” inwenid. Ah-tawe, goniginiin ezhi-misinind*flagged* imaa akikong, giigidowan: “Aaw miinotch anaa-an!”**</span>
 
-<span class="l-eng">*Truly, a kettle did the woman hang up. And while the man was seated, up he flew, and was heard to say, “Kwänk, kwänk, kwänk!” (such) was what he uttered. And then yonder upon the cross-pole (above the fire) he alighted, being heard to say, “Kwänk, kwänk!” (such) was the sound he uttered. Oh, how strange that when he muted into the kettle, he was saying, “Come on, pay no heed, but keep it stirring!”*</span>
+<span class="l-eng">*Truly, then a kettle did the woman hang up. And while the man was seated, up he flew, and was heard to say, “Kwänk, kwänk, kwänk!” (such) was what he uttered. And then yonder upon the cross-pole (above the fire) he alighted, being heard to say, “Kwänk, kwänk!” (such) was the sound he uttered. Oh, how strange that when he muted into the kettle, he was saying, “Come on, pay no heed, but keep it stirring!”*</span>
 
 <span class="l-gloss">Gegget, agii’kwan ezhi-wanagoonaad a-i’kwe (truly a kettle the woman hung up) ∙ Megwaa go namadabinid iniw ininiwan (while the man was sitting) ∙ ondji-bazigwiiwan (up he flew) ∙ noondaagosiwan: “Gwaank, gwaank, gwaank!” inwewan (heard, “Gwaank…”, such his cry) ∙ Mii dash imaa midaakupijiganing ezhi-booninind (then there on the cross-pole he lit) ∙ noondaagozid: “Gwaank, gwaank,” inwenid (heard saying, “Gwaank, gwaank”) ∙ Ah-tawe, goniginiin (oh, lo and behold) ∙ ezhi-misinind imaa akikong (he let go into the kettle there) ∙ giigidowan: “Aaw miinotch anaa-an!” (he said: “All right, never mind, keep stirring it!”)</span>
 
-<span class="l-orig">(4) [no separable Ojibwe — see footnote]</span>
+<span class="l-orig">(4) Kägä‘t ‘aᵉa´ᵘ udạnä∙ā∙n. Mägwāgu änä∙ạ∙nk, kuniginīn, mạnōmin ā‘pidci mōckinä i∙i∙māⁿ a‘ki‘kunk; kayä pänkutä. “ ‘Aᵘ, mī∙i´∙ᵘ ici∙ạ∙gwācîm.” Mīdạc ‘iᵉi´ᵘ äcinīsipōnīnint. “Mīsagunā iᵘ kayä nīn ä∙i∙cīyān wāwīsiniyānin.” Mīnangwạna īninciban wätisāt. Kāwunạbinit, “Ạmbäsa´, unagạnink a‘tōn,” īnimāwạn īni´ᵘ i‘kwäwạn, “ā‘pidcigu mōckinā‘tōn.”</span>
 
 <span class="l-fiero">**[no separable Ojibwe — see footnote]**</span>
 
-<span class="l-eng">*Truly he stirred it. And while she was stirring it, lo, very full of rice was the kettle, and how dry it cooked! The Mallard then came down by him, and how strange the sound when by him was said, “Come, into a vessel do you put it!” It happened to be a Mallard whom he had come to visit. After the Mallard was seated, “Come, into a vessel do you put it!” he said to the woman, “and very full do you fill it.”*</span>
+<span class="l-eng">*Truly she stirred it. And while she was stirring it, lo, very full of rice was the kettle there; and it was cooked dry. “All right! now take it off the fire.” And then down he flew, alighting. “Now, this is only a way I have whenever I want to eat.” It happened to be a Mallard whom he had come to visit. After the Mallard was seated, “Come, into a vessel do you put it!” he said to the woman, “and very full do you fill it.”*</span>
 
 <span class="l-gloss">ALIGNMENT FLAG — no separable Ojibwe carried for this English paragraph. On the Ojibwe page (printed p.350) the ‘Gwaank/kettle/keep-stirring’ episode is told once (rendered in §3); Jones’s facing English then spreads that single Ojibwe stretch across two paragraphs — the §3 ‘keep it stirring’ beat and this §4 ‘he stirred it / Mallard came down / put it in a vessel and fill it full’ beat. Per FLAG-NEVER-GUESS the Layer-1 jones field is left as a placeholder rather than fabricating or duplicating text. M. to confirm against the scan whether any Ojibwe sentence here was omitted by the printer.</span>
 
-*ALIGNMENT FLAG — English-only paragraph: Jones’s Ojibwe (p.350) carries the kettle/stirring episode once (see §3); this facing-page English paragraph has no independently printed Ojibwe. Layer 1/2 intentionally left empty (not duplicated). FLAGGED for M.*
+*RESTORED PASSAGE — batch B32, 2026-08-29. Jones DOES print independent Ojibwe for this paragraph: p.350 ll.18–24 set it in full, 44 words, and it matches this English sentence for sentence. The record’s earlier flag on this section asserted the opposite ("no independently printed Ojibwe") and that assertion is FALSE — it was a placeholder wearing the uniform of data (register §5 law 13), and it told every later reader not to look. Layer 1 is now the printed page. Layer 3 has ALSO been restored: the English carried here until today was a rewrite, not Jones’s printed English (the page reads "Truly she stirred it… and it was cooked dry. ‘All right! now take it off the fire.’ And then down he flew, alighting. ‘Now, this is only a way I have whenever I want to eat.’"). ⚠️ The FIERO and GLOSS cells still hold the superseded placeholder text and have NOT been touched — nothing was drafted, nothing was standardised. FLAG 41-G1, M.’s.*
 
-<span class="l-orig">(5) Kägä’t i‘kwä omōckina‘tōn ‘i¹i’ᵘ unāgạn. “ ‘Aa’ᵘ, Nänabucu, wisinīn !” Nänabucu äjimätạntcigät. Ā‘pidci täwīsinit, äjänici‘tạnk.</span>
+<span class="l-orig">(5) Kägä‘t i‘kwä omōckina‘tōn ‘iᵉi´ᵘ unāgạn. “ ‘Aa´ᵘ, Nänabucu, wīsinîn!” Nänabucu äjimātạntcigät. Ā‘pidci täwīsinit, äjānici‘tạnk.</span>
 
 <span class="l-fiero">**Gegget ikwe omooshkina’toon iniw onaagan. “Aaw, Nenabozho, wiisinin!” Nenabozho ezhi-maadanjiged. Aapidji dewiisinid, ezhi-aanizhi’tang*flagged*.**</span>
 
@@ -61,7 +61,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Gegget ikwe omooshkina’toon iniw onaagan (truly the woman filled up the bowl) ∙ “Aaw, Nenabozho, wiisinin!” (“All right, Nenabozho, eat!”) ∙ Nenabozho ezhi-maadanjiged (Nenabozho then began to eat) ∙ Aapidji dewiisinid (when he had eaten his fill) ∙ ezhi-aanizhi’tang (then he left off).</span>
 
-<span class="l-orig">(6) “Mīna’ mini‘k wäsiniyạn ?”</span>
+<span class="l-orig">(6) “Mīna´ mini‘k wāsinīyạn?”</span>
 
 <span class="l-fiero">**“Miinaa minik we-wiisiniyan?”**</span>
 
@@ -69,7 +69,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">“Miinaa minik we-wiisiniyan?” (“Is that the amount you will eat?”).</span>
 
-<span class="l-orig">(7) “Änīn dạc kä∙i∙cikagāntạckinēyän ?”</span>
+<span class="l-orig">(7) “Ānīn dạc kä∙i∙cikagāntạckinēyān?”</span>
 
 <span class="l-fiero">**“Aaniin dash ge-izhi-gagaandashkineyaan?”*flagged***</span>
 
@@ -77,23 +77,23 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">“Aaniin dash ge-izhi-…?” (“And how then am I to make myself eat more?”) — *flagged* the verb gagaandashkine- (to cram/force oneself full) not in rulegrade lexicon; reading from Jones’s English.</span>
 
-<span class="l-orig">(8) “Nänabucu, migu∙i∙ᵘ icikīwäwic waᵉa’ᵘ tcibā‘kwän. Mägicä kinitcänisạg pītạmaᵘ.”</span>
+<span class="l-orig">(8) “Nänabucu, mīgu∙i∙ᵘ icikīwäwic waᵉa´ᵘ tcībā‘kwān. Māgicā kinītcānisạg pītạmaᵘ.”</span>
 
 <span class="l-fiero">**“Nenabozho, mii go iw izhi-giiwewish*flagged* a’aw jiibaakwaan. Maagizhaa giniijaanisag biidamaw.”**</span>
 
-<span class="l-eng">*“Nänabushu, therefore then do you take back to them at home the rest of the cooked food. Perhaps to your children you take it home.”*</span>
+<span class="l-eng">*“Nänabushu, therefore then do you take back to them at home the rest of the cooked food. Perhaps to your children do you take it home.”*</span>
 
 <span class="l-gloss">“Nenabozho, mii go iw izhi-giiwewish a’aw jiibaakwaan (Nenabozho, so then carry home that cooked food) ∙ Maagizhaa giniijaanisag biidamaw” (perhaps bring it to your children) — *flagged* giiwewish (take home, deprecatory/‘the leavings’) reconstructed from Jones’s ‘the rest of the cooked food’.</span>
 
-<span class="l-orig">(9) Nänabucu äjikīgitut : “Mīcigwa wī‘kīwäyān.” Mīgu∙i∙māⁿ, wạnimō‘k, wäntcicägunāt ‘i¹i’ᵘ ugicō‘tä∙u∙naᵉ. Äjisāga∙ạ∙nk, pācu’ äni∙a∙yāt.</span>
+<span class="l-orig">(9) Nänabucu äjikīgitut: “Mīcigwa wī‘kīwäyān.” Mīgu∙i∙māⁿ, wạnimō‘k, wäntcicägunāt ‘iᵉi´ᵘ ugīcō‘tä∙u∙naᵉ. Äjisāga∙ạ∙nk, päcu´ äni∙a∙yāt.</span>
 
 <span class="l-fiero">**Nenabozho ezhi-giigidod: “Mii zhigwa wii-giiweyaan.” Mii go imaa, wanimook, waanjichigaanaad*flagged* iniw ogichoodaanan*flagged*. Ezhi-zaaga’ang, besho ani-ayaad.**</span>
 
-<span class="l-eng">*Nänabushu then spoke, saying: “It is now time for me to go (pack) home.” And so, when no one was looking, in under (the mat) he pushed his mittens. When he went outside, then near by did he tarry.*</span>
+<span class="l-eng">*Nänabushu then spoke, saying: “It is now time for me to go back home.” And so, when no one was looking, in under (the mat) he pushed his mittens. When he went outside, then near by did he tarry.*</span>
 
 <span class="l-gloss">Nenabozho ezhi-giigidod: “Mii zhigwa wii-giiweyaan.” (Nenabozho spoke: “Now I will go home.”) ∙ Mii go imaa, wanimook (and right there, when none were looking) ∙ waanjichigaanaad iniw ogichoodaanan (he tucked away/hid his mittens) ∙ Ezhi-zaaga’ang (then he went outside) ∙ besho ani-ayaad (close by he stayed) — *flagged* ‘mitten’ stem (Jones ugicō‘tä∙u∙n) and the hiding verb reconstructed from Jones’s English ‘pushed his mittens in under’.</span>
 
-<span class="l-orig">(10) Miwini∙i∙ᵘ ä‘kitut ‘aᵉa’ᵘ inini : “Ạmbäsinō, kạgu iciwitawä‘käg ‘i¹i’ᵘ ugicō‘tä∙u∙na ‘aᵉa’ᵘ Nänabucu.”</span>
+<span class="l-orig">(10) Mīwīni∙i´∙ᵘ ä‘kitut ‘aᵉa´ᵘ inini: “Ạmbäsinō, kägu iciwī‘tawā‘käg ‘iᵉi´ᵘ ugīcō‘tä∙u∙na ‘aᵉa´ᵘ Nänabucu.”</span>
 
 <span class="l-fiero">**Mii wini iw ekidod a’aw inini: “Ambesino*flagged*, gego izhiwidawekeg*flagged* iniw ogichoodaanan*flagged* a’aw Nenabozho.”**</span>
 
@@ -101,7 +101,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Mii wini iw ekidod a’aw inini (and this is what the man said) ∙ “Ambesino, gego izhiwidawekeg iniw ogichoodaanan a’aw Nenabozho.” (“Please, do not (any of you) carry his mittens to Nenabozho.”) — *flagged* ambesino (entreaty particle ‘please’), the carrying verb, and the ‘mitten’ stem (Jones ugicō‘tä∙u∙n) reconstructed from Jones’s English.</span>
 
-<span class="l-orig">(11) Mīsa kägä’t kāwīn iciwitawāsī. Cigwa Nänabucu kwīnawīpi∙u∙ tcibīciwitawint. Äcipīpāgit : “Nīwunitcigāgimä !” Kāwīn ạnubisiskitawāsī. Ạckạm änigu‘k äjipīpāgit. Gäga’pī, “Mānū, iciwitawi‘k ; wâsa undci∙a∙pagitawi‘k ‘i¹i’ᵘ ugicō‘tä∙u∙na.”</span>
+<span class="l-orig">(11) Mīsa kägä‘t kāwīn iciwītawāsī. Cigwa Nänabucu kwīnawīpi∙u∙ tcibīciwītawint. Äcipīpāgit: “Nīwunitcigāgimä!” Kāwīn ānubisiskitawāsī. Äckạm änigu‘k äjipīpāgit. Gäga‘pī, “Mānū, iciwitawi‘k; wâsa undci∙a∙pagitawi‘k ‘iᵉi´ᵘ ugīcō‘tä∙u∙na.”</span>
 
 <span class="l-fiero">**Mii sa gegget gaawiin izhiwidawaasii. Zhigwa Nenabozho gwiinawii-bii’o ji-bi-izhiwidawind. Ezhi-biibaagid: “Niwanichigaagime*flagged*!” Gaawiin aano-bizindawaasii. Ashkam aanigok ezhi-biibaagid. Gegaapii, “Maanoo, izhiwidawik; waasa ondji-a-bagidawik iniw ogichoodaanan.”**</span>
 
@@ -111,15 +111,17 @@ Nänabushu and the Mallard (2)
 
 *bizindawaasii — the page prints ạnubisiskitawāsī; the Fiero goes with bizindawaasii (“heed/listen to”) by M.’s decision, the Jones word’s letters notwithstanding. Per M., 2026.*
 
-<span class="l-orig">(12) Cigwa owābạmā kwiwisänsa⁵. “Ietä, pācu’ pīcāyu‘k ! Minạngwạna iᵘ äcipa‘kadäyā‘k. Kāwin nimpạ‘kudisi.”</span>
+<span class="l-orig">(12) Cigwa owâbạmā kwīwisänsaᵉ. “Ictä, päcu´ pīcāyu‘k! Mīnạngwạna iᵘ äcipa‘kadäyä‘k. Kāwīn nīmpạ‘kudäsī. Wâbạnk kōsiwā tạbīcā mämwätcigu nāwa‘kwänig.” Mīdạc ‘iᵉi´ᵘ änīcimādcāt Nänabucu. Kā‘tạgwicink äntāt, kägä‘t mōtcigisiwaᵉ unīdcānisaᵉ wīsininit, kayä īni´ᵘ wīwạn; ā‘pidci täwīsiniwạg. Wäyābạninig mīsa cigwa äjipī∙u∙t īni´ᵘ pīwitämạn, pī∙ā∙t nāwa‘kwänig. Cigwa tagwicinōn. Kāwunạbinit, “Wägunäcina kä∙ạ∙camạnk ‘aᵉa´ᵘ pīwitä? mīnōtc a‘ki‘k unạgōc.”</span>
 
 <span class="l-fiero">**Zhigwa owaabamaa gwiiwizensan. “Iyetaa, besho biizhaayog! Mii-nangwana iw ezhi-bakadeyayog. Gaawiin nimba-kowadizii*flagged*.”**</span>
 
-<span class="l-eng">*Presently he saw the boys. “Why, come you up close! And so it is a fact that you are without food. I am not hungry. To-morrow let your father come over exactly at noon.”*</span>
+<span class="l-eng">*Presently he saw the boys. “Why, come you up close! And so it is a fact that you are without food. I am not hungry. To-morrow let your father come over exactly at noon.” Thereupon away then went Nänabushu. When he was come at where he lived, truly pleased were his children to have food to eat, so the same with his wife; thoroughly were they satisfied with food. On the morrow he then waited for his guest, he waited for him at noon. Soon he was come. When he was seated, “What have we to feed the guest? Anyway, hang up the kettle.”*</span>
 
 <span class="l-gloss">Zhigwa owaabamaa gwiiwizensan (now he saw the little boys) ∙ “Iyetaa, besho biizhaayog! (“Hey, come close!”) ∙ Mii-nangwana iw ezhi-bakadeyayog (so it is that you are hungry) ∙ Gaawiin nimba-kowadizii” (I am not hungry myself) — *flagged* final verb (Jones nimpạ‘kudisi) reconstructed; Jones renders ‘I am not hungry.’</span>
 
-<span class="l-orig">(13) Kägä’t, Nänabucu wīwạn utōnạgōtōn ‘i¹i’ᵘ nipi.</span>
+*RESTORED PASSAGE — batch B32, 2026-08-29. The record’s Jones for this section stopped at "Kāwīn nīmpạ‘kudäsī." and lost the rest of Jones’s own printed paragraph, p.352 ll.19–26 (46 words) — including the sentence this section’s English already carried. The 70 printed English words that go with it (p.353) were missing too and are restored. ⚠️ The FIERO and GLOSS cover only the first three sentences and now lag the section. Nothing drafted, nothing touched. FLAG 41-G2, M.’s.*
+
+<span class="l-orig">(13) Kägä‘t, Nänabucu wīwạn utōnạgōtōn ‘iᵉi´ᵘ nipi.</span>
 
 <span class="l-fiero">**Gegget, Nenabozho wiiwan odoonagotoon iniw nibi.**</span>
 
@@ -127,15 +129,15 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Gegget, Nenabozho wiiwan odoonagotoon iniw nibi (to be sure, Nenabozho’s wife hung up the water).</span>
 
-<span class="l-orig">(14) “Änigu‘k pạgitīnisän, wäwīp tạ’wanso aᵘ a‘kik,” Tayā… mägwāgu nạmạdapit Nänabucu, undcipạsingutciᵉisä nōndāgusit : “Kwänk, kwänk, kwänk !” inwät Nänabucu. Kistciwi‘kä äjikạcki∙u∙t imāⁿ mitā‘kupitciganing Nänabucu. Kāwänạgōsit imāⁿ mi‘tā‘kupitciganing, änigu‘k kintcitạnāmu ānuwi‘kwatcimīsit ; ubwānawi‘tōn. Ningutingigu umisä‘kutcān äjipạngisinini’t i∙i∙māⁿ a‘ki‘kunk, ugạnōnān wīwạn : “Mīnōtc anä∙ạ∙n.”</span>
+<span class="l-orig">(14) “Änigu‘k pạgitînisän, wäwīp tạ´wanso aᵘ a‘kik.” Tayā, mägwāgu nạmạdạpit Nänabucu undcīpạsingutcisä nōndāgusit: “Kwänk, kwänk, kwänk!” inwät Nänabucu. Kistciwī‘kā äjikạcki∙u∙t imāⁿ mitā‘kupitcigạning Nänabucu. Kāwänạgōsit imāⁿ mi‘tā‘kupitciganing, änigu‘k kintcitạnāmu ānuwī‘kwatcimīsīt; ubwānawi‘tōn. Ningutingigu umisā‘kutcān äjipạngisinini‘t i∙i∙māⁿ a‘ki‘kunk, ugạnōnān wīwạn: “Mīnōtc! anä∙ạ∙n.”</span>
 
 <span class="l-fiero">**“Aanigok bagidinisen, waewiib daa-wanzo a’aw akik,” Tayaa… megwaa go namadabid Nenabozho, ondji-bazingotchii’ise*flagged* noondaagosid: “Gwaank, gwaank, gwaank!” inwed Nenabozho. Gichi-wiikaa ezhi-gashki-od imaa midaakupijiganing Nenabozho. Gaa-wanagoosid*flagged* imaa midaakupijiganing, aanigok gichi-dinaamo*flagged* aanawi-gwajimiisid*flagged*; obwaanawi’toon. Ningoding go omisekojaan*flagged* ezhi-bangishininid i-imaa akikong, oganoonaan wiiwan: “Miinotch anaa-an.”**</span>
 
-<span class="l-eng">*“With much wood do you build up the fire, soon let the kettle boil.” Aha! now, while Nänabushu was yet seated, up he sprang, being heard to say: “Kwänk, kwänk!” (such) was the sound Nänabushu uttered. It was a great while before Nänabushu was able to mount the cross-pole (over the fire). After he was perched up there on the cross-pole, then with much effort did he grunt in vainly trying to ease himself; he could not do it. But when by and by a lump of solid dung dropped into the kettle, then he spoke to his wife, saying: “Never mind! but keep stirring.”*</span>
+<span class="l-eng">*“With much wood do you build up the fire, soon let the kettle boil.” Aha! now, while Nänabushu was yet seated, up he sprang, being heard to say: “Kwänk, kwänk, kwänk!” (such) was the sound Nänabushu uttered. It was a great while before Nänabushu was able to mount the cross-pole (over the fire). After he was perched up there on the cross-pole, then with much effort did he grunt in vainly trying to ease himself; he could not do it. But when by and by a lump of solid dung dropped into the kettle, he addressed his wife, saying: “Never mind! but keep it stirring.”*</span>
 
 <span class="l-gloss">“Aanigok bagidinisen, waewiib daa-wanzo a’aw akik” (“Build the fire hard, the kettle should soon boil”) ∙ Tayaa… megwaa go namadabid Nenabozho (Aha!… while Nenabozho was seated) ∙ ondji-bazingotchii’ise (up he sprang) ∙ noondaagosid: “Gwaank, gwaank, gwaank!” inwed Nenabozho (heard saying “Gwaank…”, such Nenabozho’s cry) ∙ Gichi-wiikaa ezhi-gashki-od imaa midaakupijiganing (a long while before he managed up the cross-pole) ∙ aanigok gichi-dinaamo (with great effort he strained) ∙ aanawi-gwajimiisid; obwaanawi’toon (trying in vain; he could not do it) ∙ Ningoding go… ezhi-bangishininid i-imaa akikong (by and by a lump fell into the kettle) ∙ oganoonaan wiiwan: “Miinotch anaa-an” (he told his wife: “Never mind, keep stirring”) — *flagged* several physical-action stems (Jones umisä‘kutcān, kintcitạnāmu, ‘kwatcimīsit) reconstructed from Jones’s English.</span>
 
-<span class="l-orig">(15) Äjikīgitut awi‘kwä : “Ācamādci, mạdci ạnim ! kīgagwānisạgi∙ā∙ ‘aᵉa’ᵘ kita‘ki‘kunān ! Intawä äjipimipạsigwit awi‘kwä, pimipina‘ᵒwāt inī’ᵘ a‘ki‘kwạn ; pạnä agwạtcing icät awisigwāpinạnk ‘i¹i’ᵘ nibi. Kāijikisiyabi‘kinät inī’ᵘ uta‘kikowā, pīpīndigä a∙i∙‘kwä. Nänabucu tayōc agōs pimitā‘kupitciganing ; kāwin kacki∙o∙sī ānawinīsāntawāt. Äjikạnōnāt wīwạn : “Kāwāsa ningạcki∙o∙sī ānawinīsāntawäyān.”</span>
+<span class="l-orig">(15) Äjikīgitut awi‘kwä: “Ācamādcī, mạdci ạnîm! kīgagwānisạgi∙ā∙ ‘aᵉa´ᵘ kita‘ki‘kunān! Intawā äjipimipạsigwīt awi‘kwä, pimipina∙ᵒ∙wāt īni´ᵘ a‘ki‘kwan; pạnä ạgwạtcing icāt awisīgwäpinạnk ‘iᵉi´ᵘ nibi. Kāijikisiyābi‘kināt īni´ᵘ uta‘kikowā, pipīndigä a∙i∙‘kwä. Nänabucu tayōc agōs pimitā‘kupitciganing; kāwīn kacki∙o∙sī ānawīnīsāntawät. Äjikạnōnāt wīwạn: “Kāwāsā ningạcki∙o∙sī ānawinīsāntawäyān.”</span>
 
 <span class="l-fiero">**Ezhi-giigidod awi-ikwe: “Aazhamaadji*flagged*, maji-anim! gii-gagwaanisagi-aa a’aw gida-akikonaan! Indawe ezhi-bimibazigwid awi-ikwe, bimibina’owaad iniw akikwan; banaa agwajiing izhaad awi-zigwaabinang iniw nibi. Gaa-izhi-gizhiyaabikinaad iniw odakikowaa, biibiindige a-i’kwe. Nenabozho dayooch agoos bimidaakupijiganing; gaawiin gashki-oosii aanawi-niisaandawaad. Ezhi-ganoonaad wiiwan: “Gaawesa ningashki-oosii aanawi-niisaandawaayaan.”**</span>
 
@@ -143,7 +145,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Ezhi-giigidod awi-ikwe (then the woman spoke) ∙ “maji-anim! (“vile dog!”) ∙ gii-gagwaanisagi-aa a’aw gida-akikonaan! (you will ruin our kettle!) ∙ Indawe ezhi-bimibazigwid awi-ikwe (so up sprang the woman) ∙ bimibina’owaad iniw akikwan (she took down the kettle) ∙ agwajiing izhaad awi-zigwaabinang iniw nibi (outdoors she went to pour out the water) ∙ Gaa-izhi-gizhiyaabikinaad iniw odakikowaa (after she cleaned their kettle) ∙ biibiindige a-i’kwe (the woman came back in) ∙ Nenabozho dayooch agoos bimidaakupijiganing (Nenabozho still hung on the cross-pole) ∙ gaawiin gashki-oosii aanawi-niisaandawaad (he could not climb down) ∙ Ezhi-ganoonaad wiiwan (he spoke to his wife) ∙ “Gaawesa ningashki-oosii aanawi-niisaandawaayaan” (“Not at all can I manage to climb down”).</span>
 
-<span class="l-orig">(16) Kägä’t ā‘pidci nickātisi ‘aᵉa’ᵘ i‘kwä, nạnāntạwīpạgạmäganät ; a∙i∙‘kwä cigwa umi‘kān mi‘tig. Nänabucōwạn äjiạgōsinit, kīgitō i‘kwä : “Nạckä kuca, ninganīwana’wä kīmidcinät inī’ᵘ a‘ki‘kwạn.”</span>
+<span class="l-orig">(16) Kägä‘t ā‘pidci nîckātisi ‘aᵉa´ᵘ i‘kwä, nạnāntạwīpạgạmāganät; ‘a∙i∙‘kwä cigwa umi‘kān mi‘tig. Nänabucōwạn äjiạgōsinit, kīgito i‘kwä: “Nạckä kuca, ninganīwana‘wā kīmīdcināt īni´ᵘ a‘ki‘kwạn.”</span>
 
 <span class="l-fiero">**Gegget aapidji nishkaadizi a’aw ikwe, nanaandawiibagamaaganed*flagged*; a-i’kwe zhigwa omikaan mitig. Nenabozhowan ezhi-agoosinid, giigido ikwe: “Nashke gosha, ninga-niiwana’we*flagged* gii-midjinaad iniw akikwan.”**</span>
 
@@ -151,7 +153,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Gegget aapidji nishkaadizi a’aw ikwe (truly very angry was that woman) ∙ nanaandawiibagamaaganed (looking about for a club) ∙ a-i’kwe zhigwa omikaan mitig (the woman soon found a stick) ∙ Nenabozhowan ezhi-agoosinid (with Nenabozho perched up there) ∙ giigido ikwe: “Nashke gosha, (the woman said: “Look here,) ∙ ninga-niiwana’we gii-midjinaad iniw akikwan” (I will club to death the one who fouled the kettle”) — *flagged* niiwana’we (club to death) and the club-noun stem reconstructed from Jones’s English.</span>
 
-<span class="l-orig">(17) Cigwa wīpa‘kitä∙u∙nt Nänabucu, mīgu iwiti wäntcipisut ; pi∙ạ∙nigwāckwanit, mīsạnā kīnōgābamint Nänabucu.</span>
+<span class="l-orig">(17) Cigwa wīpa‘kitä∙u∙nt Nänabucu, mīgu iwiti wäntcipisut; pi∙ạ∙nigwāckwanit, mīsạnā kīnōgābamint Nänabucu.</span>
 
 <span class="l-fiero">**Zhigwa wii-bakite’ond Nenabozho, mii go iwidi wenji-bizod; bi-aanigwaashkwanid, mii sa naa giinoogaabamind*flagged* Nenabozho.**</span>
 
@@ -159,7 +161,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Zhigwa wii-bakite’ond Nenabozho (when Nenabozho was about to be struck) ∙ mii go iwidi wenji-bizod (then from there he fell) ∙ bi-aanigwaashkwanid (he leaped down) ∙ mii sa naa giinoogaabamind Nenabozho (just as she made to strike at him) — *flagged* the final verb (Jones kīnōgābamint) reconstructed from Jones’s ‘when she made as if to hit him’.</span>
 
-<span class="l-orig">(18) Ä‘tawä ! abā‘pic kīnạnāmạdapi pīwitä. Ā‘pidci wiwīsini, mīdạc äjikīgitut : “Taga, mīnōtc anạgōc aᵘ kīta‘ki‘kowā.”</span>
+<span class="l-orig">(18) Ä‘tawā! abā‘pic kīnạnāmạdạpi pīwitä. Ā‘pidci wīwīsini, mīdạc äjikīgitut: “Tạga, mīnōtc anạgōc aᵘ kīta‘ki‘kowā.”</span>
 
 <span class="l-fiero">**Ah-tawe! abaapish gii-nanaamadabi biiwide. Aapidji wii-wiisini, mii dash ezhi-giigidod: “Daga, miinotch anagoosh a’aw gida-akikowaa.”**</span>
 
@@ -167,7 +169,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Ah-tawe! abaapish gii-nanaamadabi biiwide (alas! cheerlessly sat the guest) ∙ Aapidji wii-wiisini (very much he wished to eat) ∙ mii dash ezhi-giigidod (then he spoke) ∙ “Daga, miinotch anagoosh a’aw gida-akikowaa” (“Come, never mind, hang up your kettle”) — *flagged* abaapish (without cheer / sad) reconstructed from Jones’s ‘without cheer’.</span>
 
-<span class="l-orig">(19) Kägä’t, a∙i∙‘kwä udagōnān īniyōda‘ki‘towän ; cigwasa ōᵉsōwạn.</span>
+<span class="l-orig">(19) Kägä‘t, a∙i´∙‘kwä udagōnān īniyōda‘ki‘towān; cigwasa ōⁿsōwạn.</span>
 
 <span class="l-fiero">**Gegget, a-i’kwe odagonaan iniw oda-akikowan; zhigwa sa oosowan*flagged*.**</span>
 
@@ -175,15 +177,17 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Gegget, a-i’kwe odagonaan iniw oda-akikowan (truly the woman hung up their kettle) ∙ zhigwa sa oosowan (presently it boiled) — *flagged* the boiling verb (Jones ō⁸sōwạn) reconstructed from Jones’s ‘began boiling’.</span>
 
-<span class="l-orig">(20) Kuniginīn, undcipạsigwa∙ō∙wạn, kayāgu nōntāgusinit : “Kwänk, kwänk, kwänk,” inwänit. Misa’ äcipōninint īmāⁿ pimitā‘kupitciganing pä‘kic nōndāgusinit : “Kwänk, kwänk,” inwänit. Mīstwạn äjikạnōnigowät : “Mīnōtc anä∙ạ∙mu‘k.”</span>
+*LAYER-1 CORRECTION — batch B32, 2026-08-29. p.354 l.24 at 34× prints "ōⁿsōwạn" with a superior ⁿ, the NASAL VOWEL mark; the record carried "ōᵉsōwạn". A nasal vowel had been overwritten. Corrected in Layer 1 only. ⚠️ The Fiero for this section ("oosowan", marked *flagged*) was written against the record’s wrong reading and no longer mirrors its page. Not drafted over. FLAG 41-N1, M.’s — the 40-N1 class.*
+
+<span class="l-orig">(20) Kuniginīn, undcipạsigwa∙ō∙wạn, kayägu nōntāgusinit: “Kwänk, kwänk, kwänk,” inwänit. Mīsa´ äcipōnīnint iimāⁿ pimitā‘kupitcigạning pä‘kic nōndāgusinit: “Kwänk, kwänk,” inwänit. Mīsīwạn äjikạnōnigowāt: “Mīnōtc! anä∙a∙mu‘k.”</span>
 
 <span class="l-fiero">**Goniginiin, ondji-bazigwiiwan, gaye go noondaagosinid: “Gwaank, gwaank, gwaank,” inwenid. Mii sa ezhi-booninind imaa bimidaakupijiganing baekizh*flagged* noondaagosinid: “Gwaank, gwaank,” inwenid. Mii-(i)stwan*flagged* ezhi-ganoonigowaad: “Miinotch anaa-amog.”**</span>
 
-<span class="l-eng">*At that moment up flew (the guest) from his place, and was heard saying: “Kwänk, kwänk, kwänk,” (such) was the sound he uttered. Thereupon he alighted yonder on the cross-pole (over the fire) at the same time that he was heard saying: “Kwänk, kwänk,” (such) was the sound he uttered. By him muting were they wondrously addressed: “Never you mind! only do you keep it stirring.”*</span>
+<span class="l-eng">*At that moment up flew (the guest) from his place, and was heard saying: “Kwänk, kwänk, kwänk,” (such) was the sound he uttered. Thereupon he alighted yonder on the cross-pole (over the fire) at the same time that he was heard saying: “Kwänk, kwänk,” (such) was the sound he uttered. By him while muting were they addressed: “Never you mind! only do you keep it stirring.”*</span>
 
 <span class="l-gloss">Goniginiin, ondji-bazigwiiwan (lo, up he flew) ∙ gaye go noondaagosinid: “Gwaank, gwaank, gwaank,” inwenid (and was heard, “Gwaank…”, such his cry) ∙ Mii sa ezhi-booninind imaa bimidaakupijiganing (then he lit there on the cross-pole) ∙ baekizh noondaagosinid: “Gwaank, gwaank,” inwenid (the while heard saying, “Gwaank, gwaank”) ∙ Mii… ezhi-ganoonigowaad: “Miinotch anaa-amog” (then they were addressed: “Never mind, keep stirring it”) — *flagged* mīstwạn opening particle-cluster and baekizh reconstructed.</span>
 
-<span class="l-orig">(21) Misa’ kägä’t ạnä∙a∙mowāt, ä‘tawä kuniginīn mạnōmin ā‘pidci mōckinätänig, kayä pängwạninig !</span>
+<span class="l-orig">(21) Mīsa kägä‘t ạnä∙ạ∙mowāt, ä‘tawā kuniginīn mạnōmin ā‘pidci mōckinätänig, kayä pängwạninig!</span>
 
 <span class="l-fiero">**Mii sa gegget anaa-amowaad, ah-tawe goniginiin manoomin aapidji mooshkinedenig, gaye baangwaninig*flagged*!**</span>
 
@@ -191,7 +195,7 @@ Nänabushu and the Mallard (2)
 
 <span class="l-gloss">Mii sa gegget anaa-amowaad (truly, as they kept stirring) ∙ ah-tawe goniginiin manoomin aapidji mooshkinedenig (lo, the rice filled it right up) ∙ gaye baangwaninig! (and how dry it cooked!) — *flagged* baangwaninig (cooked/dried out) reconstructed from Jones’s ‘how dry it cooked’.</span>
 
-<span class="l-orig">(22) “ ‘Aᵘ, mi∙i∙’ᵉ iciạgwāsitōk.” Kägä’t udagwāsitōn a∙i∙‘kwä. Mīsa’ntawä sāga∙ạ∙mōn inī’ᵉ upiwitämiwān. Mīsa’ cigwa wīsiniwāt Nänabucu.</span>
+<span class="l-orig">(22) “ ‘Aᵘ, mī∙i´∙ᵘ iciagwāsitōk.” Kägä‘t udagwāsitōn a∙i∙‘kwä. Mīsa´ntawā sāga∙ạ∙mōn īni´ᵘ upīwitämiwān. Mīsa´ cigwa wīsiniwāt Nänabucu.</span>
 
 <span class="l-fiero">**“Aaw, mii i’e izhi-agwaasidoog.” Gegget odagwaasidoon a-i’kwe. Mii sa naa zaaga’amon iniw obiiwidemiwaan. Mii sa zhigwa wiisiniwaad Nenabozho.**</span>
 

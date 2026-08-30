@@ -45,11 +45,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Geget sa omisawenimaan.**</span>
 
-<span class="l-eng">*and so he (Nanabushu) wanted to get him.*</span>
+<span class="l-eng">*and so he (Nänabushu) wanted to get him.*</span>
 
 <span class="l-gloss">Geget sa omisawenimaan (and truly he wanted him).</span>
 
-<span class="l-orig">(5) “Ạmạntcigic kä∙i∙nä‘pinanāwạgipanän?”</span>
+<span class="l-orig">(5) “Ạmạntcigic kä∙i∙nā‘pinanāwạgipanän?”</span>
 
 <span class="l-fiero">**“Amanj igo’sh ge-inaapinanaawagipanen?”**</span>
 
@@ -57,15 +57,15 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">“Amanj igo’sh ge-inaapinanaawagipanen?” (“wonder how I could get hold of him!”)</span>
 
-<span class="l-orig">(6) Äciwâbạmigut, “Intacitug käpasämit,” inändạm ‘aᵘ ạdi‘k.</span>
+<span class="l-orig">(6) Äciwâbạmigut, “Intacītug käpasämit,” inändạm ‘aᵘ ạdi‘k.</span>
 
 <span class="l-fiero">**Ezhi-waabamigod, “Indash iidog ge-pasemid,” inendam aw adik.**</span>
 
-<span class="l-eng">*When (Nanabushu) was seen, “Without fail he will have something to say to me,” thought the Caribou.*</span>
+<span class="l-eng">*When (Nänabushu) was seen, “Without fail he will have something to say to me,” thought the Caribou.*</span>
 
 <span class="l-gloss">Ezhi-waabamigod (when he was seen by him), “Indash iidog ge-pasemid,” (“without fail he will have something to say to me,”) inendam aw adik (thought the caribou).</span>
 
-<span class="l-orig">(7) “Tạgạntawā ninga∙a∙cimā,” ạnimādciba‘tō ‘aᵉa’ᵘ ạdi‘k.</span>
+<span class="l-orig">(7) “Tạgạntawā ninga∙a∙cimā,” ạnimādcība‘tō ‘aᵉa’ᵘ ạdi‘k.</span>
 
 <span class="l-fiero">**“Daga ndawaa ninga-ashimaa,” ani-maajiibatoo a’aw adik.**</span>
 
@@ -73,11 +73,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">“Daga ndawaa ninga-ashimaa,” (“come, I think I will draw him on,”) ani-maajiibatoo a’aw adik (off running started the caribou).</span>
 
-<span class="l-orig">(8) Cigwa kägä‘t umadwäkạnōnigōn: “‘Ai, nicīmisa’, amantcwin ‘iᵉi’ᵘ kītōtạmạn ningutci wayāpaminānin?</span>
+<span class="l-orig">(8) Cigwa kägä‘t umadwäkạnōnigōn: “‘Ai, nicīmisa’, amantcwīn ‘iᵉi’ᵘ kītōtạmạn ningutci wayāpaminānin?</span>
 
 <span class="l-fiero">**Zhigwa geget omadwe-kanoonigoon: “Ai, ni-shiimisa, amanj wiin i’iw gii-doodaman ningoji wayaabaminaanin?**</span>
 
-<span class="l-eng">*The truly the voice of Nanabushu was heard saying to him: “Hey, my little brother, would that I knew why you act so whenever I see you anywhere!*</span>
+<span class="l-eng">*Then truly the voice of Nänabushu was heard saying to him: “Hey, my little brother, would that I knew why you act so whenever I see you anywhere!*</span>
 
 <span class="l-gloss">Zhigwa geget omadwe-kanoonigoon (then truly the voice of the other was heard calling to him): “Ai, ni-shiimisa, (“hey, my little brother,) amanj wiin i’iw gii-doodaman (wonder why you do that) ningoji wayaabaminaanin? (wherever I see you?)</span>
 
@@ -117,7 +117,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Mii dash geget gaa-bi-izhi-izhaanid i’imaa ayaad.**</span>
 
-<span class="l-eng">*It was true that he went to where (Nanabushu) was.*</span>
+<span class="l-eng">*It was true that he went to where (Nänabushu) was.*</span>
 
 <span class="l-gloss">Mii dash geget gaa-bi-izhi-izhaanid (and so truly he went over) i’imaa ayaad (to where the other was).</span>
 
@@ -173,7 +173,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**“Mishanim Nenaboozhoo!**</span>
 
-<span class="l-eng">*“Confound Nanabushu!*</span>
+<span class="l-eng">*“Confound Nänabushu!*</span>
 
 <span class="l-gloss">“Mishanim Nenaboozhoo! (“confound Nanabushu!)</span>
 
@@ -185,7 +185,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Geget aana gii-nenimagiban.” (truly, that was just what I thought he would do.”)</span>
 
-<span class="l-orig">(22) Ānīc mīsa’ kā∙i∙cinisāt, äcimātci‘kawāt.</span>
+<span class="l-orig">(22) Ānīc mīsa’ kā∙i∙cinisāt, äcimātcī‘kawāt.</span>
 
 <span class="l-fiero">**Aaniish mii sa gaa-izhi-nisaad, ezhi-maajiikawaad.**</span>
 
@@ -229,11 +229,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Gaa maawiin nindaa-minochigesii, nindaa-paapi’igoog niinimooshenyag (3) ogii-ashewebamaan,” gii-inendam.**</span>
 
-<span class="l-eng">*Perhaps it would not be proper for me to do that, for I should be made fun of by my loves on account of my having begun at the opposite end,” (thus) he thought.*</span>
+<span class="l-eng">*Perhaps it would not be proper for me to do that, for I should be made fun of by my loves (3) on account of my having begun at the opposite end,” (thus) he thought.*</span>
 
 <span class="l-gloss">Gaa maawiin nindaa-minochigesii, (perhaps it would not be right for me to do that,) nindaa-paapi’igoog niinimooshenyag (I would be laughed at by my loves) ogii-ashewebamaan,” (for starting at the wrong end,”) gii-inendam (he thought).</span>
 
-<span class="l-orig">(28) “Nindābā‘pī∙i∙gōg ninimocäⁿyạg,” kīnändạm.</span>
+<span class="l-orig">(28) “Nindābā‘pi∙i∙gōg nīnimōcäⁿyạg,” kīnändạm.</span>
 
 <span class="l-fiero">**“Nindaa-baapi’igoog niinimooshenyag,” gii-nendam.**</span>
 
@@ -249,7 +249,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">“Amanj isa wiin i’iwidi obikwanaang ondamag? (“wonder if it would be well to eat of him at the back?)</span>
 
-<span class="l-orig">(30) Kāwīnsa, kạnạbạtc nindābā‘pī∙i∙gōg.</span>
+<span class="l-orig">(30) Kāwīnsa, kạnạbạtc nindābā‘pi∙i∙gōg.</span>
 
 <span class="l-fiero">**Gaawiin sa, ganabaj nindaa-baapi’igoog.**</span>
 
@@ -273,7 +273,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Amanj isa wiin bimichaya’ii ondamag?” (wonder if it would be well to eat of him at the side?”) gii-inendam (he thought).</span>
 
-<span class="l-orig">(33) “Kāwīnsa, kạnạbạtc nindāpā‘pī∙i∙gōk.</span>
+<span class="l-orig">(33) “Kāwīnsa, kạnạbạtc nindāpā‘pī∙‘i∙gōk.</span>
 
 <span class="l-fiero">**“Gaawiin sa, ganabaj nindaa-paabi’igoog.**</span>
 
@@ -293,11 +293,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Megwaa go danwewetood miziwe jiigaatig ogii-babaa-atoon omama’ibimaan.**</span>
 
-<span class="l-eng">*And while engage in this talk, he laid round about the foot of a tree all the grease (which he had boiled down).*</span>
+<span class="l-eng">*And while engaged in this talk, he laid round about the foot of a tree all the grease (which he had boiled down).*</span>
 
 <span class="l-gloss">Megwaa go danwewetood (and while he kept talking away) miziwe jiigaatig ogii-babaa-atoon omama’ibimaan (he went about laying all his rendered grease around the foot of a tree).</span>
 
-<span class="l-orig">(36) Mīdạc a‘pī äjinōndāgwatinig kisībā‘kwạt, “Kägä‘tsa ningi‘tcisasiskimigun.</span>
+<span class="l-orig">(36) Mīdạc ạ‘pī äjinōndāgwatinig kisībā‘kwạt, “Kägä‘tsa ningi‘tcisasiskimigun.</span>
 
 <span class="l-fiero">**Mii dash apii ezhi-noondaagwadinig giziibaakwad, “Geget sa nin-gichi-sasiskimigon.**</span>
 
@@ -321,15 +321,15 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Gaa-pakwezhwaad i’imaa owiininoowinid (after slicing off a piece from a fatty part of him), ezhi-akwaandawed (then up the tree he climbed).</span>
 
-<span class="l-orig">(39) Mīdạc iwiti awipōsinạng;¹ kayägu wīninōn ugisindā‘kwicimān.</span>
+<span class="l-orig">(39) Mīdạc iwiti awipōsinạng;¹ kayägu wīninōn ugīsindā‘kwicimān.</span>
 
 <span class="l-fiero">**Mii dash iwidi awi-poozinang; (4) gaye go wiininoon ogiziindaakwishimaan.**</span>
 
-<span class="l-eng">*And so there he went and placed the fat; and he put the fat in where it was creaking.*</span>
+<span class="l-eng">*And so there he went and placed the fat; (4) and he put the fat in where it was creaking.*</span>
 
 <span class="l-gloss">Mii dash iwidi awi-poozinang; (and so there he went and set the fat;) gaye go wiininoon ogiziindaakwishimaan (and he wedged the fat into where it was creaking).</span>
 
-<span class="l-orig">(40) Äciki‘tcipītānimạdinik, äcita‘kwạmigut ‘iᵉi’ᵘ kisībā‘kwat.</span>
+<span class="l-orig">(40) Äciki‘tcipītānimạdînik, äcita‘kwạmigut ‘iᵉi’ᵘ kisībā‘kwat.</span>
 
 <span class="l-fiero">**Ezhi-gichi-piidaanimadinig, ezhi-dakwamigod i’iw giziibaakwad.**</span>
 
@@ -345,7 +345,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Ay, mii sa imaa e-indanagoozid! (ah, and so there he hung!)</span>
 
-<span class="l-orig">(42) Pinicigu kabäya∙ī∙ agōsi.</span>
+<span class="l-orig">(42) Pīnicigu kabäya∙ī∙ ạgōsi.</span>
 
 <span class="l-fiero">**Biinish igo gabeya’ii agoozi.**</span>
 
@@ -357,19 +357,19 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Ningoding igo inaabid iwidi wayekwaakosiw ma’iingana’ ondadaabiipa’idiwa’, mii dash ezhi-ganoonaad: “Gego wiin o’omaa bi-izhaakegon!”**</span>
 
-<span class="l-eng">*The suddenly, while looking toward the other end of the meadow, (he saw) some wolves running hitherward into the meadow, whereupon he addressed them, saying: “Don’t you come this way!”*</span>
+<span class="l-eng">*Then suddenly, while looking toward the other end of the meadow, (he saw) some wolves running hitherward into the meadow, whereupon he addressed them, saying: “Don’t you come this way!”*</span>
 
 <span class="l-gloss">Ningoding igo inaabid iwidi wayekwaakosiw (then suddenly, as he looked off to the far end of the meadow) ma’iingana’ ondadaabiipa’idiwa’, (some wolves came running this way into the meadow,) mii dash ezhi-ganoonaad: (whereupon he called to them:) “Gego wiin o’omaa bi-izhaakegon!” (“don’t you come this way!”)</span>
 
-<span class="l-orig">(44) Kägō māwīn ugīni‘tōnātug Nänabucu.</span>
+<span class="l-orig">(44) “Kägō māwīn ugīni‘tōnātug Nänabucu.</span>
 
 <span class="l-fiero">**“Gegoo maawiin ogii-nitoonaadog Nenaboozhoo.**</span>
 
-<span class="l-eng">*“Something doubtless must Nanabushu have slain.*</span>
+<span class="l-eng">*“Something doubtless must Nänabushu have slain.*</span>
 
 <span class="l-gloss">“Gegoo maawiin ogii-nitoonaadog Nenaboozhoo. (“Nanabushu must surely have killed something.)</span>
 
-<span class="l-orig">(45) ‘A‘a’ᵘ, tạga a‘pa∙i∙titā!</span>
+<span class="l-orig">(45) ‘A‘a’ᵘ, tạga a‘pa∙i∙titā!”</span>
 
 <span class="l-fiero">**A’aw, daga apa’ididaa!”**</span>
 
@@ -385,7 +385,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Indigomi gii-bi-gagwejikanidiwa’ (it seemed as though they tried to race one another there).</span>
 
-<span class="l-orig">(47) Cayīgwa pạgạmisäwaᵉ, äciwâbạmānit īni’ᵘ udadi‘kumạn.</span>
+<span class="l-orig">(47) Cayigwa pạgạmisäwaᵉ, äciwâbạmānit īni’ᵘ udadi‘kumạn.</span>
 
 <span class="l-fiero">**Zhayiigwa bagamisewa’, ezhi-waabamaanid iniw odadikoman.**</span>
 
@@ -405,7 +405,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Aiii, aaniish ge-gii-doodang mii sa apane odadikoman.**</span>
 
-<span class="l-eng">*Alas! Naturally was there nothing for him to do, for entirely gone was his caribou.*</span>
+<span class="l-eng">*Alas! naturally was there nothing for him to do, for entirely gone was his caribou.*</span>
 
 <span class="l-gloss">Aiii, aaniish ge-gii-doodang (alas, what could he do) mii sa apane odadikoman (for his caribou was entirely gone).</span>
 
@@ -413,7 +413,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Ezhi-ganoonaad: “Ni-shiimisa, gego wiin jaajiigaatig baa-inaabikegon!”**</span>
 
-<span class="l-eng">*Then he addressed them, saying: “O my little brothers! Don’t you come and look round about this tree!”*</span>
+<span class="l-eng">*Then he addressed them, saying: “O my little brothers! don’t you come and look round about this tree!”*</span>
 
 <span class="l-gloss">Ezhi-ganoonaad: (then he called to them:) “Ni-shiimisa, gego wiin jaajiigaatig baa-inaabikegon!” (“my little brothers, don’t you go looking around the foot of this tree!”)</span>
 
@@ -481,7 +481,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Ezhi-niisaandawed (then down he climbed).</span>
 
-<span class="l-orig">(59) Mīsa’ ānugwīnawī∙i∙cī‘kạnk, ānīc mī∙ä‘ta utōctigwānim ä‘tänig.</span>
+<span class="l-orig">(59) Mīsa’ ānugwīnawī∙i∙cī‘kạnk, ānīc mī∙ä∙‘ta utōctigwānim ä‘tänig.</span>
 
 <span class="l-fiero">**Mii sa aano-gwiinawii-izhiikang, aaniish mii eta odoo-shtigwaanim etenig.**</span>
 
@@ -513,7 +513,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Aaniish ogwiinawii-inaapinadoon (naturally he had no way of getting at it).</span>
 
-<span class="l-orig">(63) “Taga intawā, ningakinäbi‘kōnsi‘käs,” kī∙i∙näntạm.</span>
+<span class="l-orig">(63) “Taga intawā, ningakinäbi‘kōnsi‘kās,” kī∙i∙näntạm.</span>
 
 <span class="l-fiero">**“Daga indawaa, ninga-kinebigoonsikaas,” gii-inendam.**</span>
 
@@ -541,7 +541,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Mii dash ezhi-odeshkaniimagadinig, ay, aaniish ge-izhichiged!**</span>
 
-<span class="l-eng">*And so when there were horns (upon his head), ah, what was then to do!*</span>
+<span class="l-eng">*And so when there were horns (upon his head), ah, what was he then to do!*</span>
 
 <span class="l-gloss">Mii dash ezhi-odeshkaniimagadinig, (and so when there were horns upon him,) ay, aaniish ge-izhichiged! (ah, what was he to do!)</span>
 
@@ -585,7 +585,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Miinawaa ezhi-pidaakwishing, (again he bumped against a tree,) “Gidawenenaatigo, ni-shiimisa?” (“what kind of tree are you, my little brother?”)</span>
 
-<span class="l-orig">(72) “Nīnîsa‘ku wạdciwink kānānibawiyān.”</span>
+<span class="l-orig">(72) “Nīnîsa‘ku wạdciwink kānānībawiyān.”</span>
 
 <span class="l-fiero">**“Niin isa go wajiwing gaa-naaniibawiyaan.”**</span>
 
@@ -633,7 +633,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Eni-izhi-maajaad (then on his way he went).</span>
 
-<span class="l-orig">(78) Mīnawā äcipitā‘kwicink, “Kitawänänā‘tigu, nicīmisa?”</span>
+<span class="l-orig">(78) Minawā äcipitā‘kwicink, “Kitawänänā‘tigu, nicīmisa?”</span>
 
 <span class="l-fiero">**Miinawaa ezhi-pi-daakwishing, “Gidawenenaatigo, ni-shiimisa?”**</span>
 
@@ -713,7 +713,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Eni-izhi-maajaad, (then on his way he started,) bijiinag igo eni-oda’amiid ezhi-pakobiidakokiid (and the moment he took another step he walked into the water).</span>
 
-<span class="l-orig">(88) Ānīc mīgu äcipạna‘kinạnk äcimādcīyātạgāt.</span>
+<span class="l-orig">(88) Ānīc mīgu äcipạna‘kīnạnk äcimādcīyātạgāt.</span>
 
 <span class="l-fiero">**Aaniish mii go ezhi-panakiinang ezhi-maajiiyaadagaad.**</span>
 
@@ -745,7 +745,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">Aaniish mii sa geget mawinada-ond (so truly they went after it).</span>
 
-<span class="l-orig">(92) Ānīc kāwīn nạntạgänimusī pimātạgāt.</span>
+<span class="l-orig">(92) Ānīc kāwīn nạntạgänimusī pimātagāt.</span>
 
 <span class="l-fiero">**Aaniish gaawiin nandagenimosii bimaadagaad.**</span>
 
@@ -769,7 +769,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">“Eyii’ii. Gi-mishaganigonaan!” (“halloo, he will beat us to the shore!”)</span>
 
-<span class="l-orig">(95) “Mīnangwana cigwa ānawi päcwâbatạmowānän,” inäntạm.</span>
+<span class="l-orig">(95) “Mīnangwana cigwa ānawi päcwâbatạmowänän,” inäntạm.</span>
 
 <span class="l-fiero">**“Mii nangwana zhigwa aanawi beshwaabadamowaanen,” inendam.**</span>
 
@@ -829,7 +829,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**Inaabiwaad igiw anishinaabeg, Nenaboozhoowan ani-onji-giigidowan: “Geget igo adik bemaadagaad, geget igo adik bemaadagaad,” ani-ikidowan Nenaboozhoowan, ani-gagawaapiwan.**</span>
 
-<span class="l-eng">*As the people looked, (they saw) Nanabushu, who said as he went running from there: “Truly it was a caribou swimming along, truly it was a caribou swimming along,” said Nanabushu as he went, as he fell headlong laughing.*</span>
+<span class="l-eng">*As the people looked, (they saw) Nänabushu, who said as he went running from there: “Truly it was a caribou swimming along, truly it was a caribou swimming along,” said Nänabushu as he went, as he fell headlong laughing.*</span>
 
 <span class="l-gloss">Inaabiwaad igiw anishinaabeg, (as the people looked,) Nenaboozhoowan ani-onji-giigidowan: (Nanabushu spoke as he went off from there:) “Geget igo adik bemaadagaad, geget igo adik bemaadagaad,” (“truly it was a caribou swimming, truly it was a caribou swimming,”) ani-ikidowan Nenaboozhoowan, (said Nanabushu as he went,) ani-gagawaapiwan (laughing as he went).</span>
 

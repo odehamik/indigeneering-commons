@@ -105,7 +105,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-gloss">“Gagwaanisagizi (“he is hopeless), endogwen ji-inendang.” (who knows what he would think.”)</span>
 
-<span class="l-orig">(12) “Tạgackumā, awī∙i∙ni‘k,” udināᵉ; “‘Ninbī∙i∙cinica∙u∙gō ninīgī∙i∙gōk,’” udināᵉ iᵘ i‘kwäwaᵉ.</span>
+<span class="l-orig">(12) “Tạgackumā, awī∙i∙ni‘k,” udināᵉ; “‘Ninbi∙i∙cinica∙u∙gō ninīgī∙i∙gōk,’” udināᵉ iᵘ i‘kwäwaᵉ.</span>
 
 <span class="l-fiero">**“Daga shkomaa, awii-inik,” odinaa’; “Nin-bi-izhi-nisha’ogoo ni-niigi’igoog,’” odinaa’ iw ikwewa’.**</span>
 
@@ -129,7 +129,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-gloss">E-kidod a’aw ikwe (then said the woman) mayaajii’aajimod (who had carried the message): “Biiwide omaa ayaa.” (“a stranger is here.”)</span>
 
-<span class="l-orig">(15) Ōdac i‘kito: “Nimbī∙i∙cinica∙u∙gō ninīgī∙i∙gōk,” i‘kito.</span>
+<span class="l-orig">(15) Ōdạc i‘kito: “Nimbī∙i∙cinica∙u∙gō ninīgī∙i∙gōk,” i‘kito.</span>
 
 <span class="l-fiero">**O’ow dash ikido: “Nimbi-izhinizha’ogoo ni-niigi’igoog,” ikido.**</span>
 
@@ -161,7 +161,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-gloss">Mii dash e-kidod aw mindimooye (thereupon the old woman said): “Aaniin dash i’iw andawaabamaasiweg,” (“why is it you do not go seek her,”) odinaa’ i’iw odaanisa’ (she said to her daughters).</span>
 
-<span class="l-orig">(19) Mīdạc kägä‘t pa∙i∙cinạntawÂbạmāwāt īgi’ᵘ i‘kwäwạg, mīsa’ kā∙i∙kīwäwītcīwāwāt īgi’ᵘ i‘kwäwạg.</span>
+<span class="l-orig">(19) Mīdạc kägä‘t pa∙i∙cinạntawâbạmāwāt īgi’ᵘ i‘kwäwạg, mīsa’ kā∙i∙kīwäwītcīwāwāt īgi’ᵘ i‘kwäwạg.</span>
 
 <span class="l-fiero">**Mii dash geget ba-izhi-nandawaabamaawaad igiw ikwewag, mii sa gaa-giiwewiijiiwaawaad igiw ikwewag. (1)**</span>
 
@@ -189,7 +189,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-fiero">**Zhigwa owiishaamaa’ odaangweya’ ji-manisewaad(5).**</span>
 
-<span class="l-eng">*By and by she wished her sisters-in-law to go with her to gather firewood(5).*</span>
+<span class="l-eng">*By and by she wished her sisters-in-law to go with her to gather fire-wood(5).*</span>
 
 <span class="l-gloss">Zhigwa owiishaamaa’ odaangweya’ (by and by she invited her sisters-in-law along) ji-manisewaad (so that they would gather firewood).</span>
 
@@ -197,7 +197,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-fiero">**Aaniish ajina go gii-mamadwe’igewan, aazha niibiwa misan.**</span>
 
-<span class="l-eng">*So in a little while after the sound of her chopping was heard, already (was there) much firewood.*</span>
+<span class="l-eng">*So in a little while after the sound of her chopping was heard, already (was there) much fire-wood.*</span>
 
 <span class="l-gloss">Aaniish ajina go gii-mamadwe’igewan (now, in just a little while the sound of her chopping was heard), aazha niibiwa misan (already there was much firewood).</span>
 
@@ -213,7 +213,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-fiero">**“Geget sa gii-zhi-nshawisii a’aw nindaangwewaan.” (6)**</span>
 
-<span class="l-eng">*“Truly a good worker is our sister in law.” (6)*</span>
+<span class="l-eng">*“Truly a good worker is our sister-in-law.” (6)*</span>
 
 <span class="l-gloss">“Geget sa gii-zhi-nshawisii a’aw nindaangwewaan.” (“truly such a good worker is our sister-in-law.”)</span>
 
@@ -265,11 +265,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-gloss">Mii dash geget gaa-izhichigenid (and that truly was what it did),</span>
 
-<span class="l-orig">(32) ta‘kubinät äcictcigät mīyä‘ta ‘iᵉi’∙māⁿ skījiguning saga‘pinät; ta‘kubinät pimūmāwisut.</span>
+<span class="l-orig">(32) ta‘kubinät äcictcigät mīyä‘ta ‘i∙ᵉi’∙māⁿ skījiguning saga‘pinät; ta‘kubinät pimūmāwisut.</span>
 
 <span class="l-fiero">**dakobinaad ezhichiged mii eta i’imaa shkiinzhigoning zagapinaad; dakobinaad bimoomaawizod.**</span>
 
-<span class="l-eng">*When she had it strapped to the cradle-board, her arrangement was such that she has it bound up as far as over the eyes; with it bound to the cradle-board, she played the nurse carrying it about on her back.*</span>
+<span class="l-eng">*When she had it strapped to the cradle-board, her arrangement was such that she had it bound up as far as over the eyes; with it bound to the cradle-board, she played the nurse carrying it about on her back.*</span>
 
 <span class="l-gloss">dakobinaad ezhichiged (binding it up, her way of doing it) mii eta i’imaa shkiinzhigoning zagapinaad (was to lash it only as far as over the eyes); dakobinaad bimoomaawizod (binding it up, she carried it about on her back as a nurse).</span>
 
@@ -293,11 +293,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-fiero">**“Dagwaagishoob niwii-amwaa,’ ikidon i’iw ji-mamawiyan,” ogii-inaan.**</span>
 
-<span class="l-eng">*“Some tenderloin do I wish to eat,’ do you say, so that you may cry,” she said to it.*</span>
+<span class="l-eng">*“‘Some tenderloin do I wish to eat,’ do you say, so that you may cry,” she said to it.*</span>
 
 <span class="l-gloss">“Dagwaagishoob niwii-amwaa,’ (“‘some tenderloin I want to eat,’) ikidon i’iw ji-mamawiyan,” (say it so that you will cry,”) ogii-inaan (she said to it).</span>
 
-<span class="l-orig">(36) Mīdạc kägä‘t änwät ‘aᵉa’ᵘ abinōdcī.</span>
+<span class="l-orig">(36) Mīdạc kägä‘t änwät ‘aᵉa’ᵘ ạbinōdcī.</span>
 
 <span class="l-fiero">**Mii dash geget enwed a’aw abinoojii.**</span>
 
@@ -321,7 +321,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-gloss">Zhayiigwa nisidotawaa (presently he was understood).</span>
 
-<span class="l-orig">(39) Ānīc cigwa sāgitōwạn usinisạn, ānīc ugimāwiwạn; pō‘tc kīcitcigänit ‘iᵉi’ᵘ anicinābä kä∙i∙‘kitut ‘aᵉa’ᵘ a‘kiwäⁿzī.</span>
+<span class="l-orig">(39) Ānīc cigwa sāgitōwạn usinisạn, ānīc ugimāwiwạn; pō‘tc kīcitcigänit ‘iᵉi’ᵘ ạnicinābä kä∙i∙‘kītut ‘aᵉa’ᵘ a‘kiwäⁿzī.</span>
 
 <span class="l-fiero">**Aaniish zhigwa zaagidoowan ozhinisan, aaniish ogimaawiwan; booch gii-zhichigenid i’iw anishinaabe ge-ikidod a’aw akiwenzii.**</span>
 
@@ -333,7 +333,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-fiero">**“Aaniish, anishinaabedog, e-kidod wa’aw noozhishenh, ‘dagwaagishoob niwii-amwaa,’” ikido.**</span>
 
-<span class="l-eng">*“Now, O ye people! Thus says my grandchild, ‘Some tenderloin do I want to eat,’” he said.*</span>
+<span class="l-eng">*“Now, O ye people! thus says my grandchild, ‘Some tenderloin do I want to eat,’” he said.*</span>
 
 <span class="l-gloss">“Aaniish, anishinaabedog (“now then, O people), e-kidod wa’aw noozhishenh (thus says this grandchild of mine), ‘dagwaagishoob niwii-amwaa,’” (‘some tenderloin I want to eat,’”) ikido (he said).</span>
 
@@ -349,7 +349,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-fiero">**Bizaan apii gaa-onizhishininig maajid.**</span>
 
-<span class="l-eng">*It hushed while it was given something good to eat.*</span>
+<span class="l-eng">*It hushed when it was given something good to eat.*</span>
 
 <span class="l-gloss">Bizaan apii gaa-onizhishininig maajid (it grew quiet while it was given something good to eat).</span>
 
@@ -357,7 +357,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-fiero">**Mii dash waawiidigemaad iniw ininiwan, zhigwa ogikenimaan bigishkananinid iniw obiinisagosiin.**</span>
 
-<span class="l-eng">*And so while she (Nanabushu) continues living (as a wife) with the man, she then became aware that the spleen was decaying.*</span>
+<span class="l-eng">*And so while she (Nanabushu) continued living (as a wife) with the man, she then became aware that the spleen was decaying.*</span>
 
 <span class="l-gloss">Mii dash waawiidigemaad iniw ininiwan (and so while she went on living as wife to that man), zhigwa ogikenimaan bigishkananinid iniw obiinisagosiin (she then became aware that the spleen was rotting).</span>
 
@@ -389,7 +389,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-fiero">**Geget mamiidaawendam; e-zhi-bazigwiid, aano-anishigaskabenid.**</span>
 
-<span class="l-eng">*Truly was she worried about it; when she rose to her feet, in vain she tried to keep it from falling.*</span>
+<span class="l-eng">*Truly was she worried about it. When she rose to her feet, in vain she tried to keep it from falling.*</span>
 
 <span class="l-gloss">Geget mamiidaawendam (truly she was troubled about it); e-zhi-bazigwiid (when she rose to her feet), aano-anishigaskabenid (in vain she tried to hold it from falling).</span>
 

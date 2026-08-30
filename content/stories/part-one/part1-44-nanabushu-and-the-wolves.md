@@ -253,7 +253,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Miinawa biibaagi: “Bekaa, bekaa, niijii! Bii’ishin akawe, giwii-kanoonin!”**</span>
 
-<span class="l-eng">*Once more he cried aloud: “Hold on, hold on, my friends! Wait for me awhile, I wish to speak to you!”*</span>
+<span class="l-eng">*Once more he cried aloud: “Hold on, hold on, my friends! Wait for me awhile, I wish to speak with you!”*</span>
 
 <span class="l-gloss">Miinawa biibaagi (again he called out): “Bekaa, bekaa, niijii! (“hold on, hold on, my friends!) Bii’ishin akawe, giwii-kanoonin!” (“wait for me awhile, I want to speak to you!”)</span>
 
@@ -341,7 +341,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**“Niibinong gii-kii’osewag gidoozhimag; niibiwa awesiiyan ogii-nisaawaan; mii dash niibiwa wiiyaas baateg bimide gaye mii dash gii-asanjigowaad; mii wendazhi-izhaayang.**</span>
 
-<span class="l-eng">*“Last summer on a hunt were your nephews; much game they killed, and a good deal of dry meat and grease was what they cached; that is what they are going there for.*</span>
+<span class="l-eng">*“Last summer on a hunt were your nephews; much game they killed, and a good deal of dry meat and grease was what they cached; that is what we are going there for.*</span>
 
 <span class="l-gloss">“Niibinong gii-kii’osewag gidoozhimag (“last summer your nephews went on a hunt); niibiwa awesiiyan ogii-nisaawaan (much game they killed); mii dash niibiwa wiiyaas baateg bimide gaye (and a lot of dried meat and grease) mii dash gii-asanjigowaad (is what they cached); mii wendazhi-izhaayang. (“that is why we are going there.)</span>
 
@@ -413,7 +413,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**“Bikwaandag da-izhinikaade ji-ani-akiiwang.”**</span>
 
-<span class="l-eng">*“Pinus resinosa (red pine?) shall it be called till the end of the world.”*</span>
+<span class="l-eng">*“Pinus resinosa (?) shall it be called till the end of the world.”*</span>
 
 <span class="l-gloss">“Bikwaandag da-izhinikaade ji-ani-akiiwang.” (“‘knotty-bough/jack-pine’ shall it be called to the end of the world.” — *plant-name carried; Jones’s English ‘Pinus resinosa (red pine?)’ is his own gloss-note*)</span>
 
@@ -453,7 +453,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Nenaboozhoo gaye owe doodam onikan owe babimipatood.**</span>
 
-<span class="l-eng">*And Nänabushu was using his hand [arm] as he went running by.*</span>
+<span class="l-eng">*And Nänabushu was using his hand as he went running by.*</span>
 
 <span class="l-gloss">Nenaboozhoo gaye owe doodam onikan (and Nenaboozhoo was doing this with his arm) owe babimipatood (as he ran along).</span>
 
@@ -469,7 +469,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Aa, baapiwag anishinaabeg!**</span>
 
-<span class="l-eng">*Og, how the people laughed!*</span>
+<span class="l-eng">*Oh, how the people laughed!*</span>
 
 <span class="l-gloss">Aa, baapiwag anishinaabeg! (oh, how the people laughed!)</span>
 
@@ -581,7 +581,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Mii dash e-kidod, ningoji odapagidoon ma’iingan ozow: “Diwe! geget gichi-abweskaagoon animwaano.”**</span>
 
-<span class="l-eng">*Whereupon he said, as he flung aside the wold-tail: “Good gracious! certainly a great producer of sweat is the dog tail.”*</span>
+<span class="l-eng">*Whereupon he said, as he flung aside the wolf-tail: “Good gracious! certainly a great producer of sweat is the dog-tail.”*</span>
 
 <span class="l-gloss">Mii dash e-kidod (and then he said), ningoji odapagidoon ma’iingan ozow (as he flung the Wolf’s tail aside): “Diwe! geget gichi-abweskaagoon animwaano.” (“good gracious! truly a great sweat-maker is the dog-tail.”)</span>
 
@@ -629,7 +629,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Aa! Mii dash miinawaa gii-giikajid Nenaboozhoo.**</span>
 
-<span class="l-eng">*Ah! there once more Nänabushu became cold.*</span>
+<span class="l-eng">*Ah! then once more Nänabushu became cold.*</span>
 
 <span class="l-gloss">Aa! Mii dash miinawaa gii-giikajid Nenaboozhoo (ah! and so again Nenaboozhoo grew cold).</span>
 
@@ -717,7 +717,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Ayaabitaa-dibikak gii-madwe-onishkaawag oshkinaweg ma’iinganag, giikajiwag.**</span>
 
-<span class="l-eng">*In the middle of the night there arouse a sound of the young Wolves getting up, for they were cold.*</span>
+<span class="l-eng">*In the middle of the night there arose a sound of the young Wolves getting up, for they were cold.*</span>
 
 <span class="l-gloss">Ayaabitaa-dibikak gii-madwe-onishkaawag oshkinaweg ma’iinganag (in the middle of the night the young Wolves could be heard getting up), giikajiwag (they were cold).</span>
 
@@ -801,7 +801,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Mii dash e-kidod akiwenzii-ma’iingan (and then the old Wolf spoke).</span>
 
-<span class="l-orig">(99) Ogạnōnān Nänabujon: “Mī∙i´∙ᵘ wâbạng tciodi‘tamạng äjāyạng.”</span>
+<span class="l-orig">(99) Ogạnōnān Nänabujon: “Mī∙i´∙ᵘ wâbạng tciodi‘tạmạng äjāyạng.”</span>
 
 <span class="l-fiero">**Oganoonaan Nenaboozhoon: ”Mii iw waabang ji-oditamang e-zhaayang.”**</span>
 
@@ -1009,7 +1009,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Mii dash e-kidod Nenaboozhoo (and Nenaboozhoo said): “Aaniin ge-doodamaan animo-moo?” (“what would I do with dog-dung?”)</span>
 
-<span class="l-orig">(125) Mīdac a‘kiwäⁿzi ugi∙u∙dā‘pinạn. Mīdac kipā‘pāwinạng, mīdạc mạdatāsạn kā∙u∙ndināt.</span>
+<span class="l-orig">(125) Mīdac a‘kiwäⁿzi ugi∙u∙dā‘pinạn.  Mīdac kipā‘pāwinạng, mīdạc mạdatāsạn kā∙u∙ndināt.</span>
 
 <span class="l-fiero">**Mii dash akiwenzii ogii-odaapinang. Mii dash gii-pabawinang, mii dash madadaasan gaa-ondinaad.**</span>
 
@@ -1025,7 +1025,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Apii dash Nenaboozhoo wayaabamaad madadaasan (and when Nenaboozhoo saw the game-meat), ikido (he said): “Niin daga, ningad-ani-dakonaan nindoozhim omadadaasan!” (“let me carry along my nephew’s kill as we go!”)</span>
 
-<span class="l-orig">(127) Mīdac ä‘kidot a‘kiwäⁿzi: “Nōngum guca ạnîmōmoⁱ kiditān. Ạnimādcānigu.”</span>
+<span class="l-orig">(127) Mīdac ä‘kidot a‘kiwäⁿzi: “Nōngum guca ạnîmōmoⁱ kiditān.  Ạnimādcānigu.”</span>
 
 <span class="l-fiero">**Mii dash e-kidod akiwenzii: “Noongom gosha animomoo gid-idaan. Ani-maajaan igo.”**</span>
 
@@ -1081,7 +1081,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Mii dash e-kidod akiwenzii-ma’iingan (then the old Wolf said): “Ozhitoodaa gabeshiwin!” (“let us make a camp!”)</span>
 
-<span class="l-orig">(134) Ā, Nänabuju ki‘tîmi! Ạgāwādac uwīdci∙ā∙n ma∙ī∙ngạnạn kạbäcinit kā‘kicidōwād dạc kạbäciwîn, mī∙i´∙ᵘ pēbạsigwīwād uskinawäg ma∙ī∙ngạnạg.</span>
+<span class="l-orig">(134) Ā, Nänabuju ki‘tîmi!  Ạgāwādac uwīdci∙ā∙n ma∙ī∙ngạnạn kạbäcinit kā‘kicidōwād dạc kạbäciwîn, mī∙i´∙ᵘ pēbạsigwīwād uskinawäg ma∙ī∙ngạnạg.</span>
 
 <span class="l-fiero">**Aa, Nenaboozhoo gitimi! Agaawaa dash owiiji’aan ma’iinganan gabeshinid gaa-kiizhitoowaad dash gabeshiwin, mii iw bi-bazigwiiwaad oshkinaweg ma’iinganag.**</span>
 
@@ -1101,11 +1101,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Mii dash Nenaboozhoo gichi-minwendang ji-wiisinid.**</span>
 
-<span class="l-eng">*Whereupon Nänabushu was greatly delighted with he thought of eating.*</span>
+<span class="l-eng">*Whereupon Nänabushu was greatly delighted with the thought of eating.*</span>
 
 <span class="l-gloss">Mii dash Nenaboozhoo gichi-minwendang ji-wiisinid (and Nenaboozhoo was very glad at the thought of eating).</span>
 
-<span class="l-orig">(137) Ā! mīdạc tcībā‘kwäwād. Ā! Nänaboju kägä‘t tciwīsini.</span>
+<span class="l-orig">(137) Ā! mīdạc tcībā‘kwäwād.  Ā! Nänaboju kägä‘t tciwīsini.</span>
 
 <span class="l-fiero">**Aah! mii dash jiibaakwewaad. Aah! Nenaboozhoo geget gichi-wiisini.**</span>
 
@@ -1173,7 +1173,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Mii dash gii-kawishimowaad, mii dash eta awe oshkinawe ma’iingan nemadabid osiganed.**</span>
 
-<span class="l-eng">*Thereupon they went to bed, except only the young Wolf that was seated breaking the bones (to boild them for the marrow).*</span>
+<span class="l-eng">*Thereupon they went to bed, except only the young Wolf that was seated breaking the bones (to boil them for the marrow).*</span>
 
 <span class="l-gloss">Mii dash gii-kawishimowaad (so they lay down), mii dash eta awe oshkinawe ma’iingan nemadabid osiganed (only that young Wolf sat cracking the bones for marrow).</span>
 
@@ -1229,7 +1229,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-fiero">**Mii dash miinawaa ningoding niibiwa e-yaawaad okanan, mii e-kidod akiwenzii-ma’iingan: “Daga naa, giinitam, Nenaboozhoo, osiganen.”**</span>
 
-<span class="l-eng">*And another time, when they had many bones , then said the old Wolf: “Come, now, (it is) your turn, Nänabushu, to crack the bones (for the marrow).*</span>
+<span class="l-eng">*And now another time, when they had many bones, then said the old Wolf: “Come, now, (it is) your turn, Nänabushu, to crack the bones (for the marrow).*</span>
 
 <span class="l-gloss">Mii dash miinawaa ningoding niibiwa e-yaawaad okanan (and again once when they had many bones), mii e-kidod akiwenzii-ma’iingan (the old Wolf said): “Daga naa, giinitam, Nenaboozhoo, osiganen.” (“come now, it is your turn, Nenaboozhoo, to crack the bones for marrow.”)</span>
 
@@ -1249,7 +1249,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Nenaboozhoo dash ogii-mikwendaan gaa-doodaagod (now Nenaboozhoo remembered what had been done to him), gegaa gii-nisigod (that he had nearly been killed).</span>
 
-<span class="l-orig">(155) Mēdac ä‘kidot Nänabujo: “Kāwicimoyuk. Kägu awiya ningakạnawâbamigusi. Pạdạgwingwäcinuk.”</span>
+<span class="l-orig">(155) Mēdac ä‘kidot Nänabujo: “Kāwicimoyuk.  Kägu awiya ningakạnawâbamigusi.  Pạdạgwingwäcinuk.”</span>
 
 <span class="l-fiero">**Mii dash e-kidod Nenaboozhoo: “Gawishimoyog. Gego awiya ninga-ganawaabamigosii. Badagwiingweshinog.”**</span>
 
@@ -1305,7 +1305,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">“Geget gi-pakitewaa, gigii-ganawaabamin gosha.” (“truly you did hit him, for I was watching you.”)</span>
 
-<span class="l-orig">(162) “Kāwīn,” i‘kido Nänabuju. “Kạnạbạtc kīmōtcⁱ ningīkạnawâbạmigōbạn, mēidạc ki‘kutigwạndạmān i we pigwā‘kugạn.”</span>
+<span class="l-orig">(162) “Kāwīn,” i‘kido Nänabuju.  “Kạnạbạtc kīmōtcⁱ ningīkạnawâbạmigōbạn, mēidạc ki‘kutigwạndạmān i we pigwā‘kugạn.”</span>
 
 <span class="l-fiero">**”Gaawiin,” ikido Nenaboozhoo. „Ganabaj giimooj ningii-kanawaabamigoban, mii dash gii-kodigwandamaan iwe bigwaakogan.”**</span>
 
@@ -1345,7 +1345,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Bezhig giga-miinin gidoozhim (“one of your nephews I will give you), mii aw gaye giin ge-wiijiiwad ji-nandawenjiged. (“and he will be the one to go with you when he hunts.)</span>
 
-<span class="l-orig">(167) Päjig kayä ningawīdcīwā. Kīgamīnin îskudä.”</span>
+<span class="l-orig">(167) Päjig kayä ningawīdcīwā.  Kīgamīnin îskudä.”</span>
 
 <span class="l-fiero">**Bezhig gaye ninga-wiijiiwaa. Giga-miinin ishkode.”**</span>
 
@@ -1353,7 +1353,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Bezhig gaye ninga-wiijiiwaa. (“one I too will go with.) Giga-miinin ishkode.” (“I will give you fire.”)</span>
 
-<span class="l-orig">(168) Mēdạc äjipōgidîd a‘kiwänzi. “Mī awä a‘pis.”</span>
+<span class="l-orig">(168) Mēdạc äjipōgidîd a‘kiwänzi.  “Mī awä a‘pis.”</span>
 
 <span class="l-fiero">**Mii dash ezhi-boogidid akiwenzii. “Mii awe apis.”**</span>
 
@@ -1361,7 +1361,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Mii dash ezhi-boogidid akiwenzii (thereupon the old one broke wind). “Mii awe apis.” (“that is a flint.”)</span>
 
-<span class="l-orig">(169) Mīnawā kīpōgidi a‘kiwänzi. “Mī awe sạgạ‘tāgạn.”</span>
+<span class="l-orig">(169) Mīnawā kīpōgidi a‘kiwänzi.  “Mī awe sạgạ‘tāgạn.”</span>
 
 <span class="l-fiero">**Miinawaa gii-boogidi akiwenzii. “Mii awe zagataagan.”**</span>
 
@@ -1369,7 +1369,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Miinawaa gii-boogidi akiwenzii (again the old one broke wind). “Mii awe zagataagan.” (“that is the punk.”)</span>
 
-<span class="l-orig">(170) Mīnawā gīpōgidi. “Mī∙i∙we kī∙i∙mạn.”</span>
+<span class="l-orig">(170) Mīnawā gīpōgidi.  “Mī∙i∙we kī∙i∙mạn.”</span>
 
 <span class="l-fiero">**Miinawaa gii-boogidi. “Mii iwe gii-iman.”**</span>
 
@@ -1377,7 +1377,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-gloss">Miinawaa gii-boogidi (again he broke wind). “Mii iwe gii-iman.” (“that is kindling.”)</span>
 
-<span class="l-orig">(171) Mīnawā gīpōgidi. “Mī awe wīgwās.¹ Pānimāgu, kī‘kạpäciyạn kī∙a∙‘tōyạn mîsạn, mī iᵘ kädicipājidcigwāskuniyạn îmāⁿ mîsạn a‘täg, mī iᵘ kädîci pîskạnäsäg îckodä.</span>
+<span class="l-orig">(171) Mīnawā gīpōgidi.  “Mī awe wīgwās.¹  Pānimāgu, kī‘kạpäciyạn kī∙a∙‘tōyạn mîsạn, mī iᵘ kädicipājidcigwāskuniyạn îmāⁿ mîsạn a‘täg, mī iᵘ kädîci pîskạnäsäg îckodä.</span>
 
 <span class="l-fiero">**Miinawaa gii-boogidi. „Mii awe wiigwaas. (2) Baanimaa go, gii-kapeshiyan gii-atooyan misan, mii iw ged-izhi-paazhijigwaashkoniyan i’imaa misan ateg, mii iw ged-izhi-biskanesag ishkode.**</span>
 

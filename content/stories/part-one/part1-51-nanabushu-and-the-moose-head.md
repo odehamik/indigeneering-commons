@@ -137,7 +137,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-gloss">Ginwenzh aanawi (a long while, even so) ogii-saagitaagoon (it was withheld from him), gegapii ogii-miinigoon (at last it was given to him).</span>
 
-<span class="l-orig">(16) Mī∙i∙dạc kā∙i∙jinābisitōd ī∙i∙māⁿ ạtcābīnk; mī∙i∙dạc kạgwätāgibinät Nänabucū mi‘tigwâbin, mī∙i’∙ᵘ kā∙i∙jipîmwād īni’ᵘ ininiwạn kānạgickawā‘pạn.</span>
+<span class="l-orig">(16) Mī∙i∙dạc kā∙i∙jinābisitōd ī∙i∙māⁿ ạtcābīnk; mī∙i∙dạc kạgwätāgibināt Nänabucū mi‘tigwâbin, mī∙i’∙ᵘ kā∙i∙jipîmwād īni’ᵘ ininiwạn kānạgickawā‘pạn.</span>
 
 <span class="l-fiero">**Mii idash gaa-izhi-naabisidood i’imaa ajaabiing; mii idash gagwedaagibiinaad Nenaboozhoo mitigwaabiin, mii iw gaa-izhi-bimwaad iniw iniwan gaa-nagishkawaapan.**</span>
 
@@ -161,7 +161,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-gloss">Gichi-minwendam Nenaboozhoo (greatly pleased was Nanabushu) gichi-wiisinid (to eat a great deal).</span>
 
-<span class="l-orig">(19) Mī∙i∙dạc kā∙i∙jipigickijwād īni’ᵘ mōⁿzōn, ā‘pidcidạc wänicicink wīyās ugīkijizān wāmīdcit; pimidä gayä.</span>
+<span class="l-orig">(19) Mī∙i∙dạc kā∙i∙jipigickijwād īni’ᵘ mōⁿzōn, ā‘pidcidạc wänicicink wīyās ugīkījizān wāmīdcit; pimidä gayä.</span>
 
 <span class="l-fiero">**Mii idash gaa-izhi-pi-gishkizhwaad iniw moozoon, aapiji dash wenizhishing wiiyaas ogii-kiizhizaan waa-miijid; bimide gaye.**</span>
 
@@ -297,7 +297,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-gloss">Mii dash ezhi-waabamaad wawaabiganoojiiya’ (then he saw mice) biindigenid imaan mooz oshtigwaaning (going into there, the moose’s head).</span>
 
-<span class="l-orig">(36) Owâbandạn pạngī a‘tänig winindîp.</span>
+<span class="l-orig">(36) Owâbạndạn pạngī a‘tänig winindîp.</span>
 
 <span class="l-fiero">**Owaabandaan bangii atenig wiinindib.**</span>
 
@@ -329,7 +329,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-gloss">“Ozaam gi-mindid (you are too big),” odigoon (he was told).</span>
 
-<span class="l-orig">(40) “Ā, mānū kayänīn niwīpīndigä imāⁿ mōⁿs ustigwāning!”</span>
+<span class="l-orig">(40) “Ā, mānū kayänīn nīwīpīndigä imāⁿ mōⁿs ustigwāning!”</span>
 
 <span class="l-fiero">**“Aa, maanoo gaye niin niwii-piindige imaa mooz oshtigwaaning!”**</span>
 
@@ -385,7 +385,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-gloss">Ozaam idash Nenaboozhoo gii-ombikweni (but too much Nanabushu raised his head), mii dash gaa-izhi-michaanig oshtigwaan (and so his head grew large).</span>
 
-<span class="l-orig">(47) Kāwin kīkacki∙u∙sī tcigītcîgu‘tād.</span>
+<span class="l-orig">(47) Kāwīn kīkacki∙u∙sī tcîgītcîgu‘tād.</span>
 
 <span class="l-fiero">**Gaawiin gii-gashki’osii ji-giichigotaad.**</span>
 
@@ -409,7 +409,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-gloss">Gakina mitigoon betaakoshing (every tree he bumped into) ogagwejimaan (he asked it): “Awenen giin (who are you)?”</span>
 
-<span class="l-orig">(50) Mina∙i∙k nāningudīnō; wigwās nāningutīnō; azātiwạn ninguting.</span>
+<span class="l-orig">(50) Mina∙i∙k nāningudînō; wīgwās nānīngutînō; azātiwạn ninguting.</span>
 
 <span class="l-fiero">**Mina’ig naaningodinoo; wiigwaas naaningodinoo; azaadiwan ningoding.**</span>
 
@@ -457,7 +457,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-gloss">Mii dash igo gwayak gaa-ani-izhi-niiminaasiid (and so when he went straight in), gii-ani-bimaadage gwayak igo e-zhaad (he swam straight along the way he was going).</span>
 
-<span class="l-orig">(56) Awiya unūndawān pīpāginit ạnicinābän: “Äᵉē, näcka kuca’, mōⁿs pämādạgät! ‘Aa’ᵘ! mawinạdawātāwᵉ!”</span>
+<span class="l-orig">(56) Awiya unūndawān pīpāginit ạnicinābän: “Äᵉē, näcka kuca’, mōⁿs pämādạgät! ‘Aa’ᵘ! mawinạdawātāʷᵉ!”</span>
 
 <span class="l-fiero">**Awiya onoondawaan biipaaginid anishinaaben: “E’ii, nashke gosha, mooz bemaadaged! Aaw! Mawinanaadaa!”**</span>
 
@@ -505,7 +505,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-gloss">Anishinaabeg zhigwa besho bi-ayaawag (the people now were getting close).</span>
 
-<span class="l-orig">(62) Mīdạc Nänabujū cigwa täba‘kīnạnk, mīdạc äcimādcīpa‘tōd pạgwạna, kāwīn owâbandaⁿzīn äpa‘tōd.</span>
+<span class="l-orig">(62) Mīdạc Nänabujū cīgwa täba‘kīnạnk, mīdạc äcimādcīpa‘tōd pạgwạna, kāwīn owâbandaⁿzīn äpa‘tōd.</span>
 
 <span class="l-fiero">**Mii dash Nenaboozhoo zhigwa debakiinang, mii dash ezhi-maajiibatood bagwana, gaawiin owaabandanziin e-patood.**</span>
 

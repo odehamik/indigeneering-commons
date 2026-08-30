@@ -19,7 +19,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1917).***</span>
 
-<span class="l-orig">(1) Mīdạc ningutinigu pạpāmusät awiya owâbạmān, kuniginin ma∙i∙ganaᵉ īzạn.</span>
+<span class="l-orig">(1) Mīdạc ningutinigu pạpāmusät awiya owâbạmān, kuniginīn ma∙i∙ganaᵉ īzạn.</span>
 
 <span class="l-fiero">**Mii dash ningoding igo babaamosed awiya owaabamaan, goniginiin ma’iinganag izan.**</span>
 
@@ -29,7 +29,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 *Jones prints the raised sort word-finally in ma∙i∙ganaᵉ; resolved to the proximate plural -g (they are the wolves of the next line, printed ma∙i∙ngạnạg with the full letter). Per M.’s obviative-number ruling, 2026-07-01. — Jones prints this word four ways across the story (ma∙i∙ganaᵉ · ma∙i∙ngạnạg · ma∙ī∙ngạnaᵉ · -ma∙ī∙ngạnạn); the variation is carried in Layer 1, not levelled.*
 
-<span class="l-orig">(2) Kā∙i∙cipīpāgimāt, kā‘pīciicānit ‘iᵉi’māⁿ ayāt.</span>
+<span class="l-orig">(2) Kā∙i∙cipīpāgimāt, kā‘pīciicānit ‘iᵉi’māⁿ ayät.</span>
 
 <span class="l-fiero">**Gaa-izhi-biibaagimaad, gaa-bi-izhi-izhaanid iimaa ayaad.**</span>
 
@@ -37,7 +37,9 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-gloss">Gaa-izhi-biibaagimaad (after he had called out to them), gaa-bi-izhi-izhaanid (they came over), iimaa ayaad (to where he was).</span>
 
-<span class="l-orig">(3) O∙ō∙widạc kī∙i∙‘kitōwạg īgi’ᵘ ma∙i∙ngạnạg: “Kägu päcu’ ā‘pitci icā‘kägun, kägō kīwī∙i∙gowā,” ugīināᵉ.</span>
+*⚑ 8-B3-1 (page sweep 2026-08-18): Jones prints ayät here — two clear dots at 40× ink-threshold, against the solid macron of māⁿ on the same line. Layer 1 corrected to the page (it read ayāt). ayät is unattested elsewhere in the corpus, where this word prints ayāt (31×) and äyāt (→ eyaad). The inherited Fiero reads ayaad, which follows the superseded ayāt. FLAGGED, not changed — a linguist’s eye; rides to the lexicon stage.*
+
+<span class="l-orig">(3) O∙ō∙widạc kī∙i∙‘kitōwạg īgi’ᵘ ma∙i∙nganạg: “Kägu päcu’ ā‘pitci icā‘kägun, kägō kīwī∙i∙gowā,” ugīināᵉ.</span>
 
 <span class="l-fiero">**O’ow idash gii-ikidowag igiw ma’iinganag: “Gego besho aapiji izhaakegon, gegoo giwii-igowaa,” ogii-inaa.**</span>
 
@@ -93,7 +95,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 *Word-final raised sort resolved per M.’s obviative-number ruling: ugī∙i∙nāᵉ → ogii-inaag, ma∙ī∙ngạnaᵉ → ma’iinganag (plural object). The identical frame is resolved the same way in #9 §9 (ugī∙i∙nāᵉ … utōcimaᵉ → ogii-inaag … odoozhimaag). Per M., 2026.*
 
-<span class="l-orig">(9) Wo∙ō∙widạc ugī∙i∙nān: “Ānindi äcāyäg? ugī∙i∙nān.”</span>
+<span class="l-orig">(9) Wo∙ō∙widạc ugī∙i∙nān: “Ānīndi äcāyäg? ugī∙i∙nān.”</span>
 
 <span class="l-fiero">**O’ow idash ogii-inaan: “Aaniindi ezhaayeg?” ogii-inaan.**</span>
 
@@ -139,7 +141,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 *ugī∙i∙nāᵉ resolved to ogii-inaag (plural object — the wolves) per M.’s obviative-number ruling, as at §8. Per M., 2026. — 8-H2 HARD: the page prints ugīmāᵉ where the five other speech-tags in this story print ugī∙i∙nāᵉ / ugī∙i∙nān. Drafted ogii-imaa’ (treating -m- as the speech final), every letter carried; a printer’s error for ugī∙i∙nāᵉ is the competing reading. M. to rule. — RULED (M., 2026-08-12): the draft ogii-imaa’ STANDS.*
 
-<span class="l-orig">(14) Ānīc, mīsa kägä‘t cigwa kī∙ạ∙niwāwītciwāt. Ānīc kāwin kecīca’ utibi∙ā∙sīn ạniwīdciwāt. Ta‘kāsinini pimusäwāt.</span>
+<span class="l-orig">(14) Ānīc, mīsa kägä‘t cigwa kī∙ạ∙niwāwītcīwāt. Ānīc kāwin kecīca’ utibi∙ā∙sīn ạniwīdcīwāt. Ta‘kāsinini pimusäwāt.</span>
 
 <span class="l-fiero">**Aaniish, mii sa geget zhigwa gii-ani-waa-wiijiiwaad. Aaniish gaawiin gezhiizhaa odibi’aasiin ani-wiijiiwaad. Dakaasinini bimosewaad.**</span>
 
@@ -175,7 +177,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-gloss">Zhigwa wii-gawishimowag (now they made ready to lie down), zhayiigwa mii dash gaa-izhi-giizhibaagaabawinid (and then, after each had circled his place standing), i’iw gawishimonid (where they were to lie), aaniish mii go gaye wiin endoodang (and he did the same himself), i’iw gawishimonid (when he lay down).</span>
 
-<span class="l-orig">(18) O∙ō∙ ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙i∙ngạnạn: “Miziwä iᵘ īgi’ᵘ kitōcimạg i∙i∙māⁿ cingicimuwāt icikawicimun kayä; kuntigu kigī‘kạtc.”</span>
+<span class="l-orig">(18) O∙ō∙ ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙i∙nganạn: “Miziwä iᵘ īgi’ᵘ kitōcimạg i∙i∙māⁿ cingicimuwāt icikawicimun kayä; kuntigu kigī‘kạtc.”</span>
 
 <span class="l-fiero">**O’ow ogii-igoon iniw akiwenzii-ma’iinganan: “Miziwe iw igiw gidoozhimag iimaa zhingishimowaad izhi-gawishimon gaye; gondi go gigiikaj.”**</span>
 
@@ -189,13 +191,13 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-fiero">**“Eye’, geget ningiikaj.” Aaniish mii go iw ezhi-madwesininig iniw wiibidan a’aw Nenabozho, aapiiji-giikajid.**</span>
 
-<span class="l-eng">*“Yes, indeed I am cold.” Now, then the chatter of Nänabushu’s teeth could he heard, so very cold was he.*</span>
+<span class="l-eng">*“Yes, indeed I am cold.” Now, then the chatter of Nänabushu’s teeth could be heard, so very cold was he.*</span>
 
 <span class="l-gloss">Eye’, geget ningiikaj (yes, truly I am cold), Aaniish mii go iw ezhi-madwesininig iniw wiibidan (and so then the sound of his teeth was heard), a’aw Nenabozho, aapiiji-giikajid (Nenabozho, being very cold).</span>
 
-*8-P2 printer’s error, preserved: the 1917 English page (p. 77) prints “could he heard” for “could be heard.” Layer 3 stands as printed.*
+*Page-sweep correction, 2026-08-18: this section’s English was carrying the printer’s error that belongs to §24. Printed p. 75 reads “could be heard” (b, at 26×); the error “could he heard” is printed on p. 77 and now sits at §24, where it belongs.*
 
-<span class="l-orig">(20) Mīdạc kägä‘t kā∙i∙cikawicimut i∙i∙māⁿ nisawicininit, ō∙o∙dạc kī‘kitowạn īni’ᵘ a‘kiwäⁿzīma∙i∙ngạnạn: “Tạga, kimicōmäiwā awi∙i∙‘k kibī‘tawacāniwān.”</span>
+<span class="l-orig">(20) Mīdạc kägä‘t kā∙i∙cikawicimut i∙i∙māⁿ nisawicininit, ō∙o∙dạc kī‘kitowạn īni’ᵘ a‘kiwäⁿzīma∙i∙nganạn: “Tạga, kimicōmäiwā awi∙i∙‘k kibī‘tawacāniwān.”</span>
 
 <span class="l-fiero">**Mii dash geget gaa-izhi-gawishimod iimaa nisawishininid, o’ow idash gii-ikidowan iniw akiwenzii-ma’iinganan: “Daga, gimishoomewaa awi’ik gibiitawashaaniwaan.”**</span>
 
@@ -239,11 +241,13 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-fiero">**Aaniish wiiba go miinawaa ani-giikaji, aaniish zhigwa miinawaa madwewesininig iniw wiibidan.**</span>
 
-<span class="l-eng">*So when in a little while he was again becoming cold, then already again the chatter of his teeth could be heard.*</span>
+<span class="l-eng">*So when in a little while he was again becoming cold, then already again the chatter of his teeth could he heard.*</span>
 
 <span class="l-gloss">Aaniish wiiba go miinawaa ani-giikaji (well, before long he grew cold again), aaniish zhigwa miinawaa madwewesininig iniw wiibidan (and then again the sound of his teeth was heard).</span>
 
-<span class="l-orig">(25) “Mīmāwīnigu cayīgwa tcigawạtcit ‘aᵉa’ᵘ kimicōmä∙i∙wā. Āninta wīni’ᵘ mīnawā awi∙ā∙siwäg mī∙i’∙ᵘ kibī‘tawacāniwā?”</span>
+*8-P2 printer’s error, preserved: the 1917 English page (p. 77) prints “could he heard” for “could be heard” — pixel-verified at 26×, 2026-08-18. Layer 3 stands as printed. (Until the 2026-08-18 page sweep this note and the misprint were attached to §19, whose page — p. 75 — prints “could be heard” correctly.)*
+
+<span class="l-orig">(25) “Mīmāwīnigu cayīgwa tcigawạtcit ‘aᵉa’ᵘ kimicōmä∙i∙wā. Āninta wīniᵘ mīnawā awi∙ā∙siwäg mī∙i’∙ᵘ kibī‘tawacāniwā?”</span>
 
 <span class="l-fiero">**“Mii maawiin igo zhayiigwa ji-gawadid a’aw gimishoomewaa. Aaniin dash wiin iw miinawaa awi’aasiweg mii iw gibiitawashaaniwaa?”**</span>
 
@@ -267,7 +271,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-gloss">Aaniish, mii dash zhigwa ji-waabaninig (well, now it was near daybreak), aaniish zhayiigwa wii-maajaawag miinawaa (and already they wanted to be off again).</span>
 
-<span class="l-orig">(28) Ānīc cayīgwa ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzima∙ī∙ngạnan: “Mīsa nōngum wunāgwucig tcitạgwicinạng iwiti pämī∙i∙cāyạnk kīcpîn kicī‘kāyạnk.”</span>
+<span class="l-orig">(28) Ānīc cayīgwa ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnan: “Mīsa nōngum wunāgwucig tcitạgwicinạng iwiti pämī∙i∙cāyạnk kīcpîn kicī‘kāyạnk.”</span>
 
 <span class="l-fiero">**Aaniish zhayiigwa ogii-igoon iniw akiwenzii-ma’iinganan: “Mii sa noongom wenaagoshig ji-dagwishinang iwidi bemi-izhaayang giishpin gizhiikaayang.”**</span>
 
@@ -283,7 +287,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-gloss">Mii dash geget gaa-ni-izhi-maajaawaad (and truly, when they had started off), mii dash aano-bimibatood Nenabozho (Nenabozho ran along as best he could).</span>
 
-<span class="l-orig">(30) Ningutinigu bạpimusäwāt, “Mīmāwīn cigwa tcigīwīsiniyạnguban,” udigōn īni’ᵘ a‘kiwäⁿzīma∙i∙ngạnạn.</span>
+<span class="l-orig">(30) Ningutinigu bạpimusäwāt, “Mīmāwīn cigwa tcigīwīsiniyạngubạn,” udigōn īni’ᵘ a‘kiwäⁿzīma∙i∙ngạnạn.</span>
 
 <span class="l-fiero">**Ningoding igo babimosewaad, “Mii maawiin zhigwa ji-gii-wiisiniyanguban,” odigoon iniw akiwenzii-ma’iinganan.**</span>
 
@@ -421,7 +425,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 *8-S1: the page prints the superior-ˢ in kạgwānisạgimiˢtcā‘kwatini. Per M.’s ruling of 2026-07-19 the superior-ˢ is the aspiration class (= spiritus ‘) with no distinct Fiero value; rendered michaa-.*
 
-<span class="l-orig">(45) Mīdạc kā∙i∙cipa‘kwändạnk, mīdạc kā∙i∙ciwâbạninik, cayīgwa kwä‘kitāwạn; ānīn kä∙i∙cinawāt kagwānisạgimiˢtcā‘kwạtini ‘iᵉi’ᵘ mōⁿsunạgic!</span>
+<span class="l-orig">(45) Mīdạc kā∙i∙cipa‘kwändạnk, mīdạc kā∙i∙ciwâbạninik, cayīgwa kwä‘kitāwạn; ānīn kä∙ī∙cinawāt kagwānisạgimiˢtcā‘kwạtini ‘iᵉi’ᵘ mōⁿsunạgic!</span>
 
 <span class="l-fiero">**Mii dash gaa-izhi-bakwendang, mii dash gaa-izhi-waabaninig, zhayiigwa gwekitaawan; aaniin ge-izhinawaad gagwaanisagi-michaakwadini i’iw moozonagizh!**</span>
 
@@ -485,7 +489,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-gloss">Mii sa indawaa ezhi-ashamigod miinawaa i’iw (and so he was fed that again), Aaniish omisawinamawaan (he coveted what they had), Mii dash gaa-izhi-ashamigod (and when he had been fed), aaniish, mii sa gii-wiisinid gaye wiin (why, he ate too).</span>
 
-<span class="l-orig">(52) Ō∙o∙dạc ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙ī∙ⁿgạnạn: “Ambäsạnō, papāmigusitā,” ugī∙i∙gōn.</span>
+<span class="l-orig">(52) Ō∙o∙dac ugī∙i∙gōn īni’ᵘ a‘kiwäⁿzīma∙ī∙ⁿgạnạn: “Ambäsạnō, papāmigusitā,” ugī∙i∙gōn.</span>
 
 <span class="l-fiero">**O’ow idash ogii-igoon iniw akiwenzii-ma’iiganan: “Ambesanoo, babaamigozidaa,” ogii-igoon.**</span>
 
@@ -503,7 +507,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 *8-F2: the Ojibwe reads wa∙a∙wä pājig kitōcîm — “this ONE nephew of yours,” which is what §9’s continuation confirms (“One of my sons I give to you”); Jones’s English here reads “all of these nephews of yours.” Both layers stand as they are. — pā‘pic / mīninān drafted baapish / miininaan; M.’s eye. — RULED (M., 2026-08-12): the gloss follows the Ojibwe (‘this one nephew’).*
 
-<span class="l-orig">(54) Mīdạc kägä‘t kā∙i∙cikusiwāt, a‘pạnä kāmādcānit ‘iᵉi’ᵘ utōckinawämiwā. Wī‘kāgunā pitcīnạg kānimādcāwäd.</span>
+<span class="l-orig">(54) Mīdạc kägä‘t kā∙i∙cikusiwāt, a‘pạnä kāmādcānit ‘iᵉi’ᵘ utōckinawämiwā. Wī‘kāgunā pitcīnạg kānimādcāwād.</span>
 
 <span class="l-fiero">**Mii dash geget gaa-izhi-goziwaad, apane gaa-maajaanid i’iw odoshkinawemiwaa. Wiikaa gonaa bijiinag gaa-ni-maajaawed.**</span>
 
@@ -511,7 +515,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-gloss">Mii dash geget gaa-izhi-goziwaad (and truly, when they moved camp), apane gaa-maajaanid i’iw odoshkinawemiwaa (their young men had already gone on), Wiikaa gonaa bijiinag gaa-ni-maajaawed (only after a good while did they set out).</span>
 
-*8-V1: kusiwāt is rendered goziwaad here (goz- ‘move camp’, Jones s = z). The same Jones token stands as gozhiiwaad in the #9 record; flagged as a cross-story divergence for M., nothing altered in #9.*
+*8-V1: kusiwāt is rendered goziwaad here (goz- ‘move camp’, Jones s = z). The same Jones token stands as gozhiiwaad in the #9 record; flagged as a cross-story divergence for M., nothing altered in #9. — ⚑ 8-B3-2 (page sweep 2026-08-18): the page prints kānimādcāwād (solid macron, 30×), not kānimādcāwäd; Layer 1 corrected. The inherited Fiero reads gaa-ni-maajaawed, which follows the superseded ä. -wed and -waad are different persons, so this is a Fiero question, not a spelling one. FLAGGED, not changed.*
 
 <span class="l-orig">(55) A‘pạnä ä∙i∙ci‘kawänit ‘iᵉi’ᵘ utōckinawämiwā mīdạc ạnipạpima∙ạ∙nāwāt.</span>
 
@@ -541,7 +545,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 *8-X1 HARD ⭐ NEW SORT (second corpus attestation): the page prints Ạnī∙a∙yāmuˣ with a raised x. The only other raised-x in the corpus is 15-X1 mōˣⁱ (P1 #15 §42), still open on M.’s docket. Drafted ani-ayaamo; the raised sort is carried in Layer 1 and given no Fiero value. M. to rule. — CLOSED (M., 2026-08-12): the Jones layer is a visual reference — the raised sort carries as printed, no ruling needed; Fiero ani-ayaamo stands.*
 
-<span class="l-orig">(58) “Säⁿ! Ānīn kätotạmān i∙i∙ᵘ mackitīwinic käniayāyạn?” i‘kito ‘aᵉa’ᵘ Nänabucu.</span>
+<span class="l-orig">(58) “Säⁿ! Ānīn kätotạmān i∙i∙ᵘ mackitīwinic käniayāyān?” i‘kito ‘aᵉa’ᵘ Nänabucu.</span>
 
 <span class="l-fiero">**“Senh! Aaniin ge-doodamaan iw mashkidiiwinish ge-ni-ayaayan?” ikido a’aw Nenabozho.**</span>
 
@@ -551,7 +555,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 *8-N3: mackitīwin(ic) — drafted mashkidiiwin(ish), keyed to the -shkidiwin element already in the record at §56 (upimwäckītīwinini → obimweshkidiwinini). New lexeme, M.’s eye.*
 
-<span class="l-orig">(59) O∙ō∙widạc udigōn ini’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn: “Māmindạgä kigī∙i∙nigāmā ‘aᵉa’ᵘ kitōcîm.”</span>
+<span class="l-orig">(59) O∙ō∙widạc udigōn ini’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn: “Mämindạgä kigī∙i∙nigāmā ‘aᵉa’ᵘ kitōcîm.”</span>
 
 <span class="l-fiero">**O’ow idash odigoon iniw akiwenzii-ma’iinganan: “Memindage gigii-inigaamaa a’aw gidoozhim.”**</span>
 
@@ -659,7 +663,7 @@ NÄNABUSHU AND THE WOLVES (1)
 
 *udōjimaᵉ resolved to odoozhimaag (plural) per M.’s obviative-number ruling; the identical token is so resolved in #9 §9. Per M., 2026. — 8-F3: the Ojibwe carries miskwi- ‘blood’ (‘bloodied snow’); Jones’s English gives only “snow on the ground.” Both layers stand as they are.*
 
-<span class="l-orig">(71) Kuniginīn, Nānabucu kanōnā: “Kāni‘tāgäwāgwän īgi’ᵘ kitōcimạg. Mīsa iᵘ ändōtạmuwāt mä‘kawāwātcin īni’ᵘ mōⁿzōn.”</span>
+<span class="l-orig">(71) Kuniginīn, Nänabucu kanōnā: “Kāni‘tāgäwāgwän īgi’ᵘ kitōcimạg. Mīsa iᵘ ändōtạmuwāt mä‘kawāwātcin īni’ᵘ mōⁿzōn.”</span>
 
 <span class="l-fiero">**Goniginiin, Nenabozho ganoonaa: “Gaa-nitaagewaagwen igiw gidoozhimag. Mii iw endoodamowaad mekawaawaajin iniw moozoon.”**</span>
 

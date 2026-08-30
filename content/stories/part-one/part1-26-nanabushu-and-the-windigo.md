@@ -93,7 +93,7 @@ Nanabushu and Windigo
 
 <span class="l-fiero">**Gonige, ‘Niin eta ni-manidoow,’ inendamodog a’aw Nenaboozhoo.**</span>
 
-<span class="l-eng">*‘Perhaps I am the only manitou existing’, may be Nänabushu’s thought.*</span>
+<span class="l-eng">*Perhaps ‘I am the only manitou existing,’ may be Nänabushu’s thought.*</span>
 
 <span class="l-gloss">Gonige (perhaps), ‘Niin eta ni-manidoow,’ (‘I alone am a manidoo,’) inendamodog a’aw Nenaboozhoo (so must Nenaboozhoo be thinking).</span>
 
@@ -161,7 +161,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">Wewiib (hurry), ondaas.” (come here.”)</span>
 
-<span class="l-orig">(19) Ä‘tawā, Nänabucu ạnigāgīmōta‘tämo ạninānzi‘kawāt.</span>
+<span class="l-orig">(19) Ä‘tawā, Nänabucu ạnigāgīmōta‘tämo ạnināⁿzi‘kawāt.</span>
 
 <span class="l-fiero">**Etawaa, Nenaboozhoo ani-gaagiimoodademo ani-naazikawaad.**</span>
 
@@ -181,7 +181,7 @@ Nanabushu and Windigo
 
 <span class="l-fiero">**Oganoonigoon: “Nenaboozhoo, manisen.**</span>
 
-<span class="l-eng">*By him was he addressed, saying: “Nanabushu, go gather some fire-wood.*</span>
+<span class="l-eng">*By him was he addressed, saying: “Nänabushu, go gather some fire-wood.*</span>
 
 <span class="l-gloss">Oganoonigoon (he was addressed): “Nenaboozhoo, manisen (Nenaboozhoo, gather firewood).</span>
 
@@ -233,7 +233,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">Nenaboozhoo ezhi-boodawed (Nenaboozhoo then kindled the fire).</span>
 
-<span class="l-orig">(28) Kā‘pōdawät ugạnōnigōn:</span>
+<span class="l-orig">(28) Kā‘pōdawät uganōnigōn:</span>
 
 <span class="l-fiero">**Gaa-poodawed oganoonigon:**</span>
 
@@ -249,7 +249,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">“Nenaboozhoo, mii i’iw izhi-andawaabandan (Nenaboozhoo, now go and look for) i’iwe ge-wadabwaanaakoyaan (something I can use as a roasting-spit) i’iw giiyawizh (for your wretched body).</span>
 
-<span class="l-orig">(30) Ā‘pidci wänā‘kwa‘k, māgicā tạgitā‘kwitin ‘iᵉi’ᵘ kiwīsāncis.”</span>
+<span class="l-orig">(30) Ā‘pidci wänā‘kwa‘k, māgicā tạgitā‘kwitin ‘iᵉi’ᵘ kiwīsäncis.”</span>
 
 <span class="l-fiero">**Aapiji wenaakwak, maagizhaa dagidaakwidin i’iw giwiisenshis.”**</span>
 
@@ -285,11 +285,11 @@ Nanabushu and Windigo
 
 <span class="l-fiero">**Ezhi-maajaad izhaad ezhi-miinaad; o’ow odinaan: “Dawat, dawat, dawat!”(1)**</span>
 
-<span class="l-eng">*Then he started going over to give it to (Wīndigo); this he said to him: “Oh, oh, oh!”(­­1)*</span>
+<span class="l-eng">*Then he started going over to give it to (Wīndigo); this he said to him: “Oh, oh, oh!”(1)*</span>
 
 <span class="l-gloss">Ezhi-maajaad izhaad ezhi-miinaad (then he set off, going to give it to him); o’ow odinaan (this he said to him): “Dawat, dawat, dawat!”(1) (“Dawat, dawat, dawat!”(1))</span>
 
-<span class="l-orig">(35) Ä∙i∙nditcin ‘aᵉa’ᵘ Nänabuco.</span>
+<span class="l-orig">(35) Ä∙ī∙nditcin ‘aᵉa’ᵘ Nänabuco.</span>
 
 <span class="l-fiero">**E’iindijin a’aw Nenaboozhoo.**</span>
 
@@ -297,7 +297,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">E’iindijin a’aw Nenaboozhoo (such was the way Nenaboozhoo behaved).</span>
 
-<span class="l-orig">(36) “Kāwīninawīn tagitā‘kwitin iwä kiwīsāncic?</span>
+<span class="l-orig">(36) “Kāwīninawīn tagitā‘kwitin iwä kiwīsäncic?</span>
 
 <span class="l-fiero">**“Gaawiin ina wiin dagidaakwidin iwe giwiizenshizh?**</span>
 
@@ -321,7 +321,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">Etawaa Nenaboozhoo (poor, hapless Nenaboozhoo)!</span>
 
-<span class="l-orig">(39) Mīdạc gägät ạnimawit, pinicigu wāsa ạnitạgucin.</span>
+<span class="l-orig">(39) Mīdạc gägät ạnimawit, pīnicigu wāsa ạnitạgucin.</span>
 
 <span class="l-fiero">**Mii dash geget ani-mawid, biinish igo waasa ani-dagoshin.**</span>
 
@@ -401,7 +401,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">“Gaawiin (no), jaangidiyeshin (he lies with bottom pointing up), mizhisha go iwe ojiid (in full view is his anus), gaye i’iw ode.” (likewise his heart.”)</span>
 
-<span class="l-orig">(49) “Nänabucu, mīnōtcisa ningawikagwänisā.</span>
+<span class="l-orig">(49) “Nänabucu, mīnōtcisa ningawīkagwänisā.</span>
 
 <span class="l-fiero">**“Nenaboozhoo, miinooch isa ninga-awi-gagwe-nisaa.**</span>
 
@@ -473,7 +473,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">Oganoonaan (he spoke to him): “O’owe odabwaanaakon.” (here is your roasting-spit.”)</span>
 
-<span class="l-orig">(58) Mīdạc imā äjigītcibagwit īni’ᵘ cingusạn, panägu äni∙u∙tānawäsänit.</span>
+<span class="l-orig">(58) Mīdạc imā äjigitcibagwīt īni’ᵘ cingusạn, panägu äni∙u∙tānawäsänit.</span>
 
 <span class="l-fiero">**Mii dash imaa ezhi-gijibagwiid iniw zhingosan, bane go eni-odaanawesenid.**</span>
 
@@ -537,7 +537,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">Wewiib igo abwen iw niiyaw (quickly, roast my body)!</span>
 
-<span class="l-orig">(66) Kāmā gayä wīsāsa‘ku‘kwātạmạn iwä nīya’ᵘ.”</span>
+<span class="l-orig">(66) Kämā gayä wīsāsa‘ku‘kwātạmạn iwä nīya’ᵘ.”</span>
 
 <span class="l-fiero">**Gemaa gaye wii-saasakokwaadaman iwe niiyaw.”**</span>
 
@@ -609,7 +609,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">Indawaa sa ninga-wawezhi’aa.” (so then I will adorn him.”)</span>
 
-<span class="l-orig">(75) Nänabucu udōdā‘pinān äcigīsībiga‘wāt.</span>
+<span class="l-orig">(75) Nänabucu udōdā‘pinān äcigīsībīga‘wāt.</span>
 
 <span class="l-fiero">**Nenaboozhoo odoo-daapinaan ezhi-giziibiigawaad.**</span>
 
@@ -617,7 +617,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">Nenaboozhoo odoo-daapinaan (Nenaboozhoo took him up) ezhi-giziibiigawaad (and then washed him).</span>
 
-<span class="l-orig">(76) Ā‘pidcisa kā‘pinābāwạnāt, wägunänīwinän wâpāpigạnạn unạtawâbạmān.</span>
+<span class="l-orig">(76) Ā‘pidcisa kā‘pīnābāwạnāt, wägunänīwinän wâpāpigạnạn unạtawâbạmān.</span>
 
 <span class="l-fiero">**Aapiji sa gaa-piinaabaawanaad, wegoneniiwinen waabaabiganan onandawaabamaan.**</span>
 
@@ -705,7 +705,7 @@ Nanabushu and Windigo
 
 <span class="l-gloss">Ambe dash giga-bakewinin.” (and now I take leave of you.”)</span>
 
-<span class="l-orig">(87) Nänabucu äjimādcīyācạgāmät ‘iᵉi’ᵘ ki‘tcigami.</span>
+<span class="l-orig">(87) Nänabucu äjimādcīyācạgāmät ‘iᵉi’ᵘ ki‘tcigạmi.</span>
 
 <span class="l-fiero">**Nenaboozhoo ezhi-maajiiyaazhagaamed i’iw gichigami.**</span>
 
@@ -715,6 +715,6 @@ Nanabushu and Windigo
 
 (26) Nanabushu and Windigo
 
-(1) Dawat, dawat, dawat\! “Oh, oh, oh\!” a masculine exclamation denoting anger, often applied angrily to dogs when in the way or when disobedient.
+(1) Dawat, dawat, dawat! “Oh, oh, oh!” a masculine exclamation denoting anger, often applied angrily to dogs when in the way or when disobedient.
 
 </div>

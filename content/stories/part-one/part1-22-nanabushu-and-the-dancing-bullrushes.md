@@ -41,7 +41,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-gloss">Goniginiin (lo!), zaaga’igaans (a little pond) zaagidawaanig i’iw ziibiins (where the brook flowed out into it), mii imaa ayaanid (that was where they were) i’iwe ininiwa’ (those men), bizhishig i’iw ininiwa’ (nothing but men, a throng of men).</span>
 
-<span class="l-orig">(4) Ka‘kina pingwācāgitiwa, kayädac äci∙u∙nit ka‘kina wâbigunīn ubạta‘kibinä∙u∙ni.</span>
+<span class="l-orig">(4) Ka‘kina pingwācāgitiwa, kayädạc äci∙u∙nit ka‘kina wâbigunīn ubạta‘kibinä∙u∙ni.</span>
 
 <span class="l-fiero">**Gakina bingwaashaagidiwag, Gaye dash ezhi’onid gakina waabigoniin obadakibine’oni.**</span>
 
@@ -61,7 +61,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**“E! e, e, Nenaboozhoo, niwii-niimi’idimin, nishwaasogon niwii-niimi’idimin.**</span>
 
-<span class="l-eng">*“Halloo, Nanabushu! We expect to dance, for eight days we intend to dance.*</span>
+<span class="l-eng">*“Halloo, Nänabushu! we expect to dance, for eight days we intend to dance.*</span>
 
 <span class="l-gloss">“E! e, e, Nenaboozhoo (“halloo, Nanabushu!), niwii-niimi’idimin (we are going to dance), nishwaasogon niwii-niimi’idimin (for eight days we intend to dance).</span>
 
@@ -93,7 +93,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**“Nenaboozhoo, gego, ganabaj giga-ayekos.**</span>
 
-<span class="l-eng">*“Nanabushu, don’t you do it, perhaps you might grow tired.*</span>
+<span class="l-eng">*“Nänabushu, don’t you do it, perhaps you might grow tired.*</span>
 
 <span class="l-gloss">“Nenaboozhoo, gego (“Nanabushu, don’t), ganabaj giga-ayekos (perhaps you will grow tired).</span>
 
@@ -117,11 +117,11 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**“Nenaboozhoo, aaniish maanoo gaye giin gidaa-niim, gwayak igo giga-ayekos.”**</span>
 
-<span class="l-eng">*Nanabushu, naturally unconcerned about care, you too should dance, but certainly you will be tired.”*</span>
+<span class="l-eng">*“Nänabushu, naturally unconcerned about care, you too should dance, but certainly you will be tired.”*</span>
 
 <span class="l-gloss">“Nenaboozhoo, aaniish maanoo (“Nanabushu, well, never mind then) gaye giin gidaa-niim (you too may dance), gwayak igo giga-ayekos.” (but surely you will grow tired.”)</span>
 
-<span class="l-orig">(14) Ānīc, mīsạgu cigwa mādci‘tānit; ā‘tā, cigwa pạsigwiwaᵉ.</span>
+<span class="l-orig">(14) Ānīc, mīsạgu cigwa mādci‘tānit; ā‘tā, cigwa pạsigwīwaᵉ.</span>
 
 <span class="l-fiero">**Aaniish, mii sa go zhigwa maajitaanid; aataa, zhigwa bazigwiiwa’.**</span>
 
@@ -133,7 +133,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**Aaniish, Nenaboozhoo gaye wiin gii-badakibine’oonaa iniw misaabigoniin.**</span>
 
-<span class="l-eng">*Now, Nanabushu also wore large blossoms standing upon his head (for feathers).*</span>
+<span class="l-eng">*Now, Nänabushu also wore large blossoms standing upon his head (for feathers).*</span>
 
 <span class="l-gloss">Aaniish, Nenaboozhoo gaye wiin (now, Nanabushu too) gii-badakibine’oonaa iniw misaabigoniin (had those big blossoms standing up on his head).</span>
 
@@ -149,7 +149,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**Nenaboozhoo geji-e-ii-zhid naaniimid, mii sa gaye wiin dibishkoo e-iindoodang.**</span>
 
-<span class="l-eng">*Nanabushu was quite beside himself when he danced, for he did the same (as the others).*</span>
+<span class="l-eng">*Nänabushu was quite beside himself when he danced, for he did the same (as the others).*</span>
 
 <span class="l-gloss">Nenaboozhoo geji-e-ii-zhid naaniimid (Nanabushu was quite beside himself as he danced — *stem flagged*), mii sa gaye wiin dibishkoo e-iindoodang (for he did just the same as the others).</span>
 
@@ -161,7 +161,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-gloss">Iskwaach niiyogon naami’idimind (at the end of four days’ dancing) mii zhigwa gikendang ayekozid (he then realized he was tired).</span>
 
-<span class="l-orig">(19) Ạbā‘pic nijwāsugun nāmi∙i∙timint ạnicāgu nạmạdạbi; ā‘pidci aiyä‘kusi, kayä wīwīsini.</span>
+<span class="l-orig">(19) Ạbā‘pic nījwāsugun nāmi∙i∙timint ạnicāgu nạmạdạbi; ā‘pidci aiyä‘kusi, kayä wīwīsini.</span>
 
 <span class="l-fiero">**Abaapish niizhwaasogon naami’idimind anishaa go namadabi; aapiji ayekozi, gaye wii-wiisini.**</span>
 
@@ -169,7 +169,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-gloss">Abaapish niizhwaasogon naami’idimind (by the time seven days had been danced) anishaa go namadabi (it was all he could do to sit down); aapiji ayekozi (very tired was he), gaye wii-wiisini (and he wanted to eat).</span>
 
-<span class="l-orig">(20) Ạbā‘pic änitibi‘kạtinik, ā‘pitci nānōntayagäntạm tcibwāwâbạninig.</span>
+<span class="l-orig">(20) Abā‘pic änitibi‘kạtinik, ā‘pitci nānōntayagäntạm tcibwāwâbạninig.</span>
 
 <span class="l-fiero">**Abaapish eni-dibikadinig, aapiji naanoondayagendam jibwaa-waabaninig.**</span>
 
@@ -181,7 +181,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**Mii zhigwa Nenaboozhoo zhingishing aano-niimi’idid.**</span>
 
-<span class="l-eng">*So then Nanabushu lay down, trying in vain to dance.*</span>
+<span class="l-eng">*So then Nänabushu lay down, trying in vain to dance.*</span>
 
 <span class="l-gloss">Mii zhigwa Nenaboozhoo zhingishing (so then Nanabushu lay down) aano-niimi’idid (trying in vain to dance).</span>
 
@@ -189,7 +189,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**Minjimigo ji-biidaabaninig ezhi-mawid Nenaboozhoo.**</span>
 
-<span class="l-eng">*Just as the dawn was breaking, then began Nanabushu to cry.*</span>
+<span class="l-eng">*Just as the dawn was breaking, then began Nänabushu to cry.*</span>
 
 <span class="l-gloss">Minjimigo ji-biidaabaninig (just as the dawn was breaking) ezhi-mawid Nenaboozhoo (Nanabushu began to cry).</span>
 
@@ -197,7 +197,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**E-bi-baapi’ind. Zhigwa sa bi-waabanini, zhigwa imaa dibishkoojaya’ii bimi-akwaabanini.**</span>
 
-<span class="l-eng">*Then he was laughed at. Presently came the morning, soon straight overhead was ow far the light of the morning had come.*</span>
+<span class="l-eng">*Then was he laughed at. Presently came the morning, soon straight overhead was how far the light of the morning had come.*</span>
 
 <span class="l-gloss">E-bi-baapi’ind (then he was laughed at). Zhigwa sa bi-waabanini (presently the morning came), zhigwa imaa dibishkoojaya’ii bimi-akwaabanini (soon the light of morning reached straight overhead).</span>
 
@@ -213,7 +213,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**Etawaa, Nenaboozhoo megwaa zhaashaaganashkokaang, mii nangwana iniw gaa-izhinang, anishinaabeng ogii-izhinaanan.**</span>
 
-<span class="l-eng">*Why, Nanabushu was in among the bulrushes, that was what he really had seen, like people they had seemed to him.*</span>
+<span class="l-eng">*Why, Nänabushu was in among the bullrushes, that was what he really had seen, like people they had seemed to him.*</span>
 
 <span class="l-gloss">Etawaa, Nenaboozhoo megwaa zhaashaaganashkokaang (why, Nanabushu was in among the bulrushes), mii nangwana iniw gaa-izhinang (that was what he had really seen), anishinaabeng ogii-izhinaanan (he had taken them for people).</span>
 
@@ -221,7 +221,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**Geget maamakaadendam Nenaboozhoo, mii iw gii-inendang anishinaabe gechi-noodingin, gii-izhinang; mii nangwana iw gaa-izhi-niimi’idiwaad zhaashaaganashkoon.**</span>
 
-<span class="l-eng">*Truly surprised was Nanabushu, for he thought that they were people when the wind was blowing hard, so it had seemed to him; as a matter of fact, he had been dancing with the bulrushes.*</span>
+<span class="l-eng">*Truly surprised was Nänabushu, for he thought that they were people when the wind was blowing hard, so it had seemed to him; as a matter of fact, he had been dancing with the bullrushes.*</span>
 
 <span class="l-gloss">Geget maamakaadendam Nenaboozhoo (truly surprised was Nanabushu), mii iw gii-inendang anishinaabe (for he had thought they were people) gechi-noodingin (when the wind was blowing hard), gii-izhinang (so it had seemed to him); mii nangwana iw gaa-izhi-niimi’idiwaad zhaashaaganashkoon (as a matter of fact, he had been dancing with the bulrushes).</span>
 
@@ -229,7 +229,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-fiero">**Mii sa imaa zheshingishing Nenaboozhoo, gaawiin ogashki’osii ji-bimooded waawiishinawiin ji-bazigwiid.**</span>
 
-<span class="l-eng">*And so there lay Nanabushu for a long while, he was neither able to crawl nor even to get up on his feet.*</span>
+<span class="l-eng">*And so there lay Nänabushu for a long while, he was neither able to crawl nor even to get up on his feet.*</span>
 
 <span class="l-gloss">Mii sa imaa zheshingishing Nenaboozhoo (and so there lay Nanabushu a long while), gaawiin ogashki’osii ji-bimooded (he was not able to crawl) waawiishinawiin ji-bazigwiid (nor even to get up on his feet — *flagged*).</span>
 
@@ -252,5 +252,7 @@ Nanabushu and the Dancing Bullrushes (2)
 (22) Nanabushu and the Dancing Bullrushes
 
 (1) Nitcimitca “my little brothers,” for nicimatug, a form used by Nanabushu in addressing the people
+
+(1) For another version see No. 6.
 
 </div>

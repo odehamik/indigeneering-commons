@@ -523,7 +523,7 @@ I am lame, I am lame, I am lame, I am lame!”*</span>
 
 <span class="l-gloss">Gaye wiin idash Wemiisaakwaa (and he too, Clothed-in-Fur) ogii-odaapinaan omitigwaabiin (took up his bow). “Nashke sa (see now) ge-di-ayaambaan (what I would do) anaamakamigo-inini (an under-ground person) wii-angomag! (should I wish to eat him up!)” Mii dash gii-bimwaad iniw mitigoon (thereupon he shot at the pole). Waawiinge gii-bigiskise a’aw mitig (utterly shattered was the pole). A’aw idash ozaawi-makwa gii-agaji (whereupon the Brown Bear was ashamed); wewiib ogii-odaapinaan ogashkibidaaganan (quickly he took his pouch), mii dash gii-zaaga’ang (and went out).</span>
 
-*¹ Referring to the Brown Bear. (Jones’s note, printed at the foot of p. 228.)*
+*¹ Referring to the Brown Bear.  (Jones’s note, printed at the foot of p. 228.)*
 
 <span class="l-orig">(63) Minawādec a‘kiwäⁿzi ogīmāwạndōnān īni’ᵘ mi‘tigōn; mēdạc kī‘pōdānāt näyāp kimiziwäzi ‘aᵉa’ᵘ mi‘tig.</span>
 
@@ -573,7 +573,7 @@ I am lame, I am lame, I am lame, I am lame!”*</span>
 
 <span class="l-gloss">Geget idash gaawiin wiikaa gii-nibaasii a’aw inini (truly never slept the man); gegaa dash medaasogonagadinig (and when nearly ten days had passed) aapiji gii-ayekozi wii-nibaad (very tired was he, wanting sleep). Gegaa dash weyaabaninig (and when nearly dawn) mii iw gii-nibaad (then he slept). Apii idash gweshkozid (and when he awoke) gaawiin awiya ayaasiiwan imaa oodenaang (no one was in the town); niiwin mitigoon gii-badakijigaadewan (four poles stood planted), mii imaa minjima’pizod (and there he was bound fast). Mii idash gii-wiikwajiwid (so he struggled). Wiikaa dash gii-gashki’o (after long he succeeded) gii-bakibidood dakobijiganan (tearing loose the cords). Mii dash waabandang miikana (then he saw the trail) gaa-ani-izhaawaad igiw makwag (by which the Bears had gone), mii dash gii-noopinanaad (and pursued them) biinish gichi-gichigamiing (as far as the great sea) gii-ani-madaabiiwaad (where they had gone down to the water). Mii dash waabandang (and he saw it) biimina’kwaaning izhinaagwadini (looking like a twisted cord) enaabiigigwandaanig (floating line-like on the water). Gaawiin dash ogashkitoosii imaa ji-bimosed (he was not able to walk there).</span>
 
-*¹ Such is the rendering of the text, but the story goes on to say that he did fall asleep. (Editorial note printed at the foot of p. 230.)*
+*¹ Such is the rendering of the text, but the story goes on to say that he did fall asleep.  (Editorial note printed at the foot of p. 230.)*
 
 <span class="l-orig">(69) Mīdạc nōndawād ạgāma‘kīng mạdwämawinind wīwạn. Mī∙i∙dạc kā∙i∙ji∙o∙dā‘pinād omi‘tigwâbīn odasawān kayä, mīdạc kī∙i∙na∙ä∙t, mīdạc imāⁿ udasawâning kī∙ạ∙nimindcimīd. Mī∙i∙dạc ạgāma‘king kipạngicing. Mīdạc imāⁿ kī∙u∙disāt wīwạn pinạmạdạpinit.</span>
 
@@ -651,7 +651,7 @@ I am lame, I am lame, I am lame, I am lame!”*</span>
 
 <span class="l-gloss">Ningoding idash gii-ikido wazhashk (now, once said Muskrat): “Waabang waakaayaabidezi ga-odisigonaan (to-morrow by a being with a full set of teeth shall we be given a visit).” Wayaabang idash zhigwa anishinaabe biidaasamose (and on the morrow, sure enough, a human being came walking hitherward). Gii-akwaandawe wiishing (he climbed upon the dwelling), mii dash ganawaabamaawaad gakina ezhinaagozinid (whereupon they all gazed upon him to see how he looked). Gii-baapiwag igiw amikwag (laughed the beavers) eni-giiwed a’aw anishinaabe (when the human being started on his homeward way). Gii-ganoonaawa (they addressed him): “Wazhashk, daga izhaan (Muskrat, do go), awi-noondawi ged-ikidogwen a’aw anishinaabe! (and listen to what the human being may have to say!)”</span>
 
-*The 1919 printing sets one line twice here (p. 236, dittography): “Kīpā‘piwạg īgi’ᵘ āmi‘kwạg änigīwäd ‘aᵍa’ᵘ anicinābä. Kī‘kạnōnā-” is followed by the same line set again, the two settings differing only at the line-end hyphen (Kī‘kạnōnā- / Kī‘kạnō-). Both are preserved above as printed; the restored layer reads the line once. Printer’s errors are preserved and footnoted, never corrected.*
+*The 1919 printing sets one line twice here (p. 236, dittography): “Kīpā‘piwạg īgi’ᵘ āmi‘kwạg änigīwäd ‘aᵍa’ᵘ anicinābä. Kī‘kạnōnā-” is followed by the same line set again, the two settings differing only at the line-end hyphen (Kī‘kạnōnā- / Kī‘kạnō-).  Both are preserved above as printed; the restored layer reads the line once.  Printer’s errors are preserved and footnoted, never corrected.*
 
 <span class="l-orig">(78) Wajạckidạc ogīti‘tipāndawäsitōnan uzitạn, mīdạc kīmādcād. Tägucingidạc ogạgwädcimāwa ojackwạn: “Ānīn kā∙i∙‘kidot ‘aᵉa’ᵘ ạnicinābä?” “ ‘A‘pidci sạnagạtini ändāwāt ami‘kwạg,’ i‘kido.”</span>
 
@@ -743,7 +743,7 @@ I am lame, I am lame, I am lame, I am lame!”*</span>
 
 <span class="l-gloss">Wayaabang gii-dagoshinoog anishinaabeg (on the morrow back came the people) obiinaawaan odayiwaan (bringing their dogs). Aanawi gakina gii-bi-izhaawag animoog (although all the dogs came) imaa ayaawaad amikwag (there where the Beavers were), miinawaa (yet again), “Ningutci, gutci, gutci!” (away, away, away! — *carried as printed, see flag*) ogii-igoowaan (they were told). Mii dash ningoji gii-izhaawaad animoog (and so elsewhere went the dogs).</span>
 
-*The first cry-token prints with “Nin-” carried across the line-break (“Nin- / gutci, gutci, gutci!”) — possibly the compositor’s eye caught ningutci (“elsewhere”) two lines below. Preserved as printed in both orthography layers; Jones translates “Away, away, away!”*
+*The first cry-token prints with “Nin-” carried across the line-break (“Nin- / gutci, gutci, gutci!”) — possibly the compositor’s eye caught ningutci (“elsewhere”) two lines below.  Preserved as printed in both orthography layers; Jones translates “Away, away, away!”*
 
 <span class="l-orig">(89) Päᵉjik idạc ạnimuc ā‘pidci mädändāguzit; ạnimuc gayä wīn kī‘pijā imāⁿ ayāwād ạmi‘kwag. Ogạnōnāwān īgi’ᵘ ami‘kwạg: “Wägunän i‘kᵘ äjạmigōyạn näsigōyāng?” Mīdạc ä‘kidōt: “Kī‘kuniwā.”</span>
 
@@ -771,6 +771,6 @@ I am lame, I am lame, I am lame, I am lame!”*</span>
 
 <span class="l-gloss">Mii sa binewidis (and so the gizzard of the ruffed grouse) gii-agoode (now hangs aloft) (*the closing that leaves the story to the listener’s wondering*).</span>
 
-*“Mīsa pînäwidis kīwạgōdä.” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. #20 prints the closing in full — the hanging-verb stands on the page (kīwạgōdä, gii-agoode) as in #45, #72, #73, and #74, where #53/#54 print a trailing ellipsis; this is the first full-form printing in binewidis (gizzard), and it carries no demonstrative and no ellipsis. (Per M., 2026.)*
+*“Mīsa pînäwidis kīwạgōdä.” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.”  This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing.  #20 prints the closing in full — the hanging-verb stands on the page (kīwạgōdä, gii-agoode) as in #45, #72, #73, and #74, where #53/#54 print a trailing ellipsis;  this is the first full-form printing in binewidis (gizzard), and it carries no demonstrative and no ellipsis.  (Per M., 2026.)*
 
 </div>

@@ -202,7 +202,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-fiero">**Mii sa iw ena’anaad gaye mii iwe iw ezhi-nametoonid iniw odoozhiman; mitigoons ani-apagidoonid i’imaa bangii ziibiinswakamigaanig;**</span>
 
-<span class="l-eng">*That was how he trailed up (his nephew), and that was how he could tell by the trail (what) his nephew was doing; (he saw) that (his nephew) had flung a small stick ahead on going down into the dry bed of a little brook;*</span>
+<span class="l-eng">*That was how he trailed up (his nephew), and that was how he could  tell by the trail (what) his nephew was doing; (he saw) that (his  nephew) had flung a small stick ahead on going down into the dry bed of a little brook;*</span>
 
 <span class="l-gloss">Mii sa iw ena’anaad (that was how he followed his trail) gaye mii iwe iw ezhi-nametoonid iniw odoozhiman (and that was how he could tell by the trail what his nephew was doing); mitigoons ani-apagidoonid (a little stick he had flung ahead) i’imaa bangii ziibiinswakamigaanig (down there at the little dry brook-bed);</span>
 
@@ -232,7 +232,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(27) Mīgu’ mīnōtc ācawikwāskwạnigubạnän, kā∙i∙jidiskī‘kāg i∙i’∙ᵘ sībīns, mīdạc imā nānāwạgām kā∙i∙jipạngicink.</span>
 
-<span class="l-fiero">**Mii go miinooj aazhawigwaashkwanigobanen, gaa-izhi-dishkiikaag i’iw ziibiins, mii dash imaa naanaawagaam gaa-izhi-bangishing.**</span>
+<span class="l-fiero">**Mii go miinooj aazhawigwaashkwanigobanen, gaa-izhi-dishkiikaag i’iw  ziibiins, mii dash imaa naanaawagaam gaa-izhi-bangishing.**</span>
 
 <span class="l-eng">*But in an unguarded moment, when he tried to take it with a leap, apart spread the brook, and so far out yonder in the middle of the stream he fell.(4)*</span>
 
@@ -320,7 +320,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(38) Ningutingigu nīsātciwạn icimādcāt ‘iᵉi’ᵘ sībi, ningutingsa papimācạgāmät, owâbạmān ugīskimạnisīn ạgōsinit i∙i∙mā nibī‘kāng imā inābinit.</span>
 
-<span class="l-fiero">**Ningoding igo niisaajiwan izhi-maajaad i’iw ziibi, ningoding sa babimaazhagaamed owaabamaan ogiishkimanisiin agoozinid i’imaa nibiikaang imaa inaabinid.**</span>
+<span class="l-fiero">**Ningoding igo niisaajiwan izhi-maajaad i’iw ziibi, ningoding sa  babimaazhagaamed owaabamaan ogiishkimanisiin agoozinid i’imaa  nibiikaang imaa inaabinid.**</span>
 
 <span class="l-eng">*Now, once while down the course of the river he was going, once while he was walking along the shore, he saw a kingfisher perched aloft (and) looking down into the water.*</span>
 
@@ -664,7 +664,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(81) Mīsa cigwa mādci‘tāt umi‘tigwābīn uci∙ā∙t kayä ‘iᵉi’ᵘ upikwa‘k; uji‘tōd kayä ‘iᵉi’ᵘ känāba∙ạ∙nk, udōckaⁿjīmạn nāba∙i∙gāgät.</span>
 
-<span class="l-fiero">**Mii sa zhigwa maajitaad omitigwaabiin ozhi’aad gaye i’iw obikwak; ozhitood gaye i’iw genaaba’ang, odooshkazhiiman naaba’igaaged.**</span>
+<span class="l-fiero">**Mii sa zhigwa maajitaad omitigwaabiin ozhi’aad gaye i’iw obikwak;  ozhitood gaye i’iw genaaba’ang, odooshkazhiiman naaba’igaaged.**</span>
 
 <span class="l-eng">*Thereupon he set to work making his bow and his arrow; he also fixed what he was to have for a point, his claw he used for the point.*</span>
 
@@ -680,7 +680,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(83) Mīsa cigwa äjiwâbạninig, Nänabucu äjikīgitut: “Ạmbäsạnō, tawi∙ạ∙nwā‘tin kạbägīcik, kayägu tciwīmicakwa‘k.”</span>
 
-<span class="l-fiero">**Mii sa zhigwa ezhi-waabaninig, Nenabosho ezhi-giigidod: “Ambe sa noo, dawi-anwaatin gabe-giizhik, gaye go ji-wii-mizhakwak.”**</span>
+<span class="l-fiero">**Mii sa zhigwa ezhi-waabaninig, Nenabosho ezhi-giigidod: “Ambe sa noo,  dawi-anwaatin gabe-giizhik, gaye go ji-wii-mizhakwak.”**</span>
 
 <span class="l-eng">*Thereupon, when it was day, Nänabushu spoke, saying: “Now, let there be a calm throughout the whole day, and may there be a very clear sky!”*</span>
 
@@ -704,7 +704,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(86) Ni‘tạm omaka‘kīn mōckạmowan, kayägu ạnōtcigu i∙i∙wisa mạnidōᵉ, ka‘kina awiya mīgu ‘iᵉi’ᵘ pämīcạgwā‘tānit ‘iᵉi’mā minisinatāwạngānik.</span>
 
-<span class="l-fiero">**Nitam omakakiin mooshkamowan, gaye go anooj igo i’iw isa manidoo, gakina awiya mii go i’iw bemizh[i]gwaadaanid i’imaa minisinadaawangaanig.**</span>
+<span class="l-fiero">**Nitam omakakiin mooshkamowan, gaye go anooj igo i’iw isa manidoo, gakina  awiya mii go i’iw bemizh[i]gwaadaanid i’imaa minisinadaawangaanig.**</span>
 
 <span class="l-eng">*First a toad came up to the surface, and then the various manitous, every living being then came forth from the water out upon that island of sand.*</span>
 
@@ -1076,8 +1076,10 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-gloss">(6) Shadow and soul are associated as the same thing (Jones, p.255).</span>
 
-<span class="l-gloss">(7) Could not locate the word **aanwedaw** but found **aawetaw** *vta* recognize s.o. by sound, identify s.o. by sound (Nichols and Nyholm 1995, p.19).</span>
+<span class="l-gloss">(7) Could not locate the word aanwedaw but found aawetaw vta recognize s.o. by sound, identify s.o. by sound (Nichols and Nyholm 1995, p.19).</span>
 
-(8) Willed by Nenabosho.
+(8) Willed by Nänabushu.
+
+(1) For other versions see Nos. 10 (p. 89), 45 (p. 389).
 
 </div>

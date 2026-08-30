@@ -33,7 +33,7 @@ Nanabushu is Miraculously fed Bear-Grease (3)
 
 <span class="l-gloss">Mii dash enendang ajidamoo (now, this is what the squirrel thought): “Ningad-ashamaa Nenaboozhoo (I will feed Nänabushu).”</span>
 
-<span class="l-orig">(3) Mēdạc pā‘täwīyās kī∙a∙‘tōd onāgạning, mīnawādec päjik onāgāns ogīmạmōn wī∙a∙‘tōd pîmidä.</span>
+<span class="l-orig">(3) Mēdạc pā‘täwīyās kī∙a∙‘tōd onāgạning, mīnawādec päᵉjik onāgāns ogīmạmōn wī∙a∙‘tōd pîmidä.</span>
 
 <span class="l-fiero">**Mii dash baate-wiiyaas gii-atood onaaganing, miinawaa dash bezhig onaagaans ogii-mamoon wii-atood bimide.**</span>
 
@@ -65,7 +65,7 @@ Nanabushu is Miraculously fed Bear-Grease (3)
 
 <span class="l-gloss">Mii dash gii-ashamaad Nenaboozhoon (thereupon he fed Nänabushu).</span>
 
-<span class="l-orig">(7) Kā∙i∙skwāwīsinit Nänabujū, “Kayä nīn nīngatacạmā adcidạmō,” inändạm.</span>
+<span class="l-orig">(7) Kā∙i∙skwāwīsinit Nänabujū, “Kayä nîn nīngatacạmā adcidạmō,” inändạm.</span>
 
 <span class="l-fiero">**Gaa-ishkwaa-wiisinid Nenaboozhoo, “Gaye niin ningad-ashamaa ajidamoo,” inendam.**</span>
 
@@ -101,7 +101,7 @@ Nanabushu is Miraculously fed Bear-Grease (3)
 
 <span class="l-gloss">(1) For other versions see Nos. 36 (p. 311) and 40 (p. 341).</span>
 
-(2) A synonym for “testes”.
+(2) A synonyme for “testes.”
 
 (3) It is common with the Ojibwas of Canada to have Nänabushu die and then be fetched back to life, as here; the same, too, with his grandmother. This element is rather out of keeping with the tales of other Ojibwas.
 

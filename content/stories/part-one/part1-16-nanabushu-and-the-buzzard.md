@@ -27,19 +27,21 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(2) Ningutingigu pạbāmusät inābit icpîmīng awīya ugīwâbạmān nạmadabinit āna‘kwạtunk.</span>
 
-<span class="l-fiero">**Ningoding igo babaamosed inaabid ishpiming awiya ogii-waabamaan namadabinid aanakwadong.**</span>
+<span class="l-fiero">**Ningoding igo babaamosed inaabid ishpiming  awiya ogii-waabamaan namadabinid aanakwadong.**</span>
 
 <span class="l-eng">*Now, once while journeying about, he looked above (and) saw some one seated upon a cloud.*</span>
 
 <span class="l-gloss">Ningoding igo (once, just) babaamosed (as he walked about) inaabid (looking up) ishpiming (above) awiya (someone) ogii-waabamaan (he saw him) namadabinid (sitting) aanakwadong (on a cloud).</span>
 
-<span class="l-orig">(3) Kägä‘t umisawīnawān. “Ambädạc¹ kayä nīn,” kī∙i∙nändạm kā∙i∙cakạnōnāt: “Kāwīnîna kitābīcāsī, nicīmisa?” ugī∙i∙nān.</span>
+<span class="l-orig">(3) Kägä‘t umisawīnawān. “Ạmbädạc¹ kayä nīn,” kī∙i∙nändạm kā∙i∙cakạnōnāt: “Kāwīnîna kitābīcāsī, nicīmisa?” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**Geget omisawinawaan. “Ambe dash gaye niin,” Gii-inendam gaa-izhi-ganoonaad: “Gaawiin ina gidaa-bi-izhaasii, nishiimisa?” ogii-inaan.**</span>
+<span class="l-fiero">**Geget omisawinawaan. “Ambe dash gaye niin,” Gii-inendam gaa-izhi-ganoonaad: “Gaawiin ina  gidaa-bi-izhaasii, nishiimisa?” ogii-inaan.**</span>
 
 <span class="l-eng">*Truly envious was he of him. “Would that I (could) too,” he thought, after which he addressed him, saying: “Would you not come down, my little brother?” he said to him.*</span>
 
 <span class="l-gloss">Geget (truly) omisawinawaan (he envies him). “Ambe dash gaye niin (oh, that I too),” gii-inendam (he thought) gaa-izhi-ganoonaad (then, having spoken to him): “Gaawiin ina (not, is it) gidaa-bi-izhaasii (you could not come here), nishiimisa (my little brother)?” ogii-inaan (he said to him).</span>
+
+*Ạmbädạc, “would that;” it is less frequently used than ạmbägic and a‘pägic; the last is the best of the three forms.*
 
 <span class="l-orig">(4) Mīdạc kā∙i∙gut: “Kāwīn,” ugī∙i∙gōn.</span>
 
@@ -57,6 +59,8 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">“Aaniin (how) gegii-izhinaagwag (would it appear) minik awiya (as many as) gaa-waabamag (I have seen) giin idash (and you) i’iw (that) ji-bizindawisiiwaambanen (you would not listen to me)?”</span>
 
+*Kägī∙i∙cināgwa‘k, “would it look;” that is the literal meaning; but the sense is, “can it be possible.”*
+
 <span class="l-orig">(6) “Nänabucu, kīgusîn.”</span>
 
 <span class="l-fiero">**“Nenaboozhoo, Gi-gosin.”**</span>
@@ -73,23 +77,23 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">“Gaawiin (not) gidaagwashisii (you have no reason to fear me),” odinaan (he says to him).</span>
 
-<span class="l-orig">(8) Mīdạc kā∙i∙ciwayäcimāt, ānic mīsa’ kạgạnōnigut: “Ambāsạnō, kägä‘tsa kimisawinawin. Kunigänā wâsa kīta‘kwābimitug,” udinān.</span>
+<span class="l-orig">(8) Mīdạc kā∙i∙ciwayäcimāt, ānic mīsa’ kạgạnōnigut: “Ạmbäsạnō, kägä‘tsa kimisawinawin. Kunigänā wâsa kīta‘kwābimitug,” udinān.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-wayeshimaad, aanish mii sa gaa-ganoonigod: “Ambe sa noo, geget sa gi-misawinawin. Gonige naa waasa gidakwaabimidog,” odinaan.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-wayeshimaad, aanish mii sa  gaa-ganoonigod: “Ambe sa noo, geget sa gi-misawinawin. Gonige naa waasa gidakwaabimidog,” odinaan.**</span>
 
-<span class="l-eng">*And so after (Nanabushu) had deceived him, then was he brought into conversation with him. “Oh, really, I am so envious of you! I fancy that afar must you be able to see,” he said to him.*</span>
+<span class="l-eng">*And so after (Nanabushu) had deceived him, then was he brought into conversation with him. “Oh, really, I am so envious of you! I fancy that afar must you  be able to see,” he said to him.*</span>
 
 <span class="l-gloss">Mii dash (and so) gaa-izhi-wayeshimaad (after he had deceived him), aanish (well) mii sa (so then) gaa-ganoonigod (he was brought into talk by him): “Ambe sa noo (oh, really now), geget sa (truly indeed) gi-misawinawin (I envy you). Gonige naa (I suppose) waasa (far) gidakwaabimidog (you must be able to see),” odinaan (he says to him).</span>
 
 <span class="l-orig">(9) “Äyeᵉ, kägä‘t.”</span>
 
-<span class="l-fiero">**“Eye’, Geget.”**</span>
+<span class="l-fiero">**“Eye’,  Geget.”**</span>
 
 <span class="l-eng">*“Yes, (that is) true.”*</span>
 
 <span class="l-gloss">“Eye’ (yes), geget (true).”</span>
 
-<span class="l-orig">(10) “‘Aᵘ,” udinān. Mēdạc kā∙i∙ci∙i∙nāt: “Ambäsạnō, kīgawītcīwin.”</span>
+<span class="l-orig">(10) “‘Aᵘ,” udinān. Mēdạc kā∙i∙ci∙i∙nāt: “Ạmbäsạnō, kīgawītcīwin.”</span>
 
 <span class="l-fiero">**“aw,” odinaan. Mii dash gaa-izhi-inaad: “Ambe sa noo, giga-wiijiiwin.”**</span>
 
@@ -99,7 +103,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(11) “Awạwạ,” ugī∙i∙gōn. Mīdạc kā∙i∙ci∙u∙mbīwāt i∙i∙mā āna‘kwạtunk.</span>
 
-<span class="l-fiero">**“Awawa,” ogii-igoon. Mii dash gaa-izhi-ombiiwaad i’imaa aanakwadong.**</span>
+<span class="l-fiero">**“Awawa,” ogii-igoon. Mii dash gaa-izhi-ombiiwaad  i’imaa  aanakwadong.**</span>
 
 <span class="l-eng">*“Certainly,” he was told. Whereupon up they went to yonder cloud.*</span>
 
@@ -113,7 +117,7 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Mii dash (and so) ezhi-maajaawaad (when they set off), maajiiyaasinig (it began to be borne by the wind) i’iw aanakwad (that cloud).</span>
 
-<span class="l-orig">(13) Ninguting agāwā täbināgwạtini ‘iᵉi’ᵘ a‘ki tcigwa udinänimigōn. “Indạcītug wāwiyạc nändagini‘tātōtawāt. Ambäsạnō, wawiyạc ningatōtawā,” kī∙i∙nändạm.</span>
+<span class="l-orig">(13) Ninguting agāwā täbināgwạtini ‘iᵉi’ᵘ a‘ki tcigwa udinänimigōn. “Indạcītug wāwiyạc nändagini‘tātōtawāt. Ạmbäsạnō, wawiyạc ningatōtawā,” kī∙i∙nändạm.</span>
 
 <span class="l-fiero">**Ningoding agaawaa debinaagwadini i’iw aki zhigwa odinenimigoon. “indashiidog waawiyazh nendaginitaadoodawaad. Ambe sa noo, wawiyazh ninga-doodawaa,” Gii-inendam.**</span>
 
@@ -155,11 +159,13 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(18) Ānīc mīnawā äcitāckāsininik äcipạsigwa∙u∙nit, äcipōnīnit i∙i∙wäti änimi‘tcānik¹ i∙i∙ᵘ āna‘kwạt.</span>
 
-<span class="l-fiero">**Aanish miinawaa ezhi-daashkaasininig ezhi-bazigwa’onid, ezhi-booniinid i’iwedi eni-michaanig i’iw aanakwad.**</span>
+<span class="l-fiero">**Aanish miinawaa ezhi-daashkaasininig ezhi-bazigwa’onid, ezhi-booniinid i’iwedi  eni-michaanig i’iw aanakwad.**</span>
 
 <span class="l-eng">*So when again it blew apart, then away flew the other, alighting upon yonder place where there was a bigger cloud.*</span>
 
 <span class="l-gloss">Aanish (so) miinawaa (again) ezhi-daashkaasininig (when it blew apart) ezhi-bazigwa’onid (the other rose up and flew), ezhi-booniinid (alighting) i’iwedi (over yonder) eni-michaanig (where it was larger) i’iw aanakwad (that cloud).</span>
+
+*Änimi‘tcānik, “where there was a bigger;” the comparative element is in the initial stem äni-.*
 
 <span class="l-orig">(19) Mīdạc utānukanōnān: “Ānīn kätiyān, nicīmisa?” ugī∙i∙nān.</span>
 
@@ -171,7 +177,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(20) Mīcigwa kīwâbạndạnk tcīpạngicink. Cīgwa mīnawā pa‘kwäyāsinini mī∙i∙mā ayāt; käga‘pī∙i∙gu pīguckāni.</span>
 
-<span class="l-fiero">**Mii zhigwa gii-waabandang ji-bangishing. Zhigwa miinawaa bakweyaasinini mii imaa ayaad; gegapii igo bigoshkaani.**</span>
+<span class="l-fiero">**Mii zhigwa gii-waabandang ji-bangishing. Zhigwa miinawaa bakweyaasinini mii imaa ayaad;  gegapii igo bigoshkaani.**</span>
 
 <span class="l-eng">*So then he knew that he was going to fall. Then again apart flew the place where he was; and in the end it broke completely.*</span>
 
@@ -185,7 +191,7 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Agaawaa (faintly) odebaabandaan (he can make it out in sight) ozhaawashkwaakamigaanig (where the land is green).</span>
 
-<span class="l-orig">(22) Äcipạngicink a‘pạnä∙i∙bạn pabimipisut.</span>
+<span class="l-orig">(22) Äcipạngicink a‘pạnä∙ī∙bạn pabimipisut.</span>
 
 <span class="l-fiero">**Ezhi-bangishing apane ii ban babimibizod.**</span>
 
@@ -195,7 +201,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(23) Cigwa äjidäbâbạndạnk ätata ki‘tcimi‘tikukāni kä∙i∙cipạngicink.</span>
 
-<span class="l-fiero">**Zhigwa e-zhi-debaabandang edaadaa gichi-mitigokaani ge-izhi-bangishing.**</span>
+<span class="l-fiero">**Zhigwa  e-zhi-debaabandang edaadaa  gichi-mitigokaani  ge-izhi-bangishing.**</span>
 
 <span class="l-eng">*Now, when he came in full sight (of the earth, he saw) how so dreadfully wooded was the place into which he was to fall.*</span>
 
@@ -203,7 +209,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(24) Cayīgwa kā∙i∙cipīndcisät kitcimi‘tigōn wimbisinit.</span>
 
-<span class="l-fiero">**Zhayiigwa gaa-izhi-biinjised gichi-mitigoon wiimbizinid.**</span>
+<span class="l-fiero">**Zhayiigwa  gaa-izhi-biinjised gichi-mitigoon wiimbizinid.**</span>
 
 <span class="l-eng">*Then down he fell into a great tree that was hollow.*</span>
 
@@ -219,9 +225,9 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(26) Ānuwī‘kwạtci∙u∙t awīya ugīnōntawā, pipāpinit i‘kwäwaᵉ, mīdạc kā∙i∙‘kitunit: “Mīsa’ ō∙o∙māⁿ ningutci ändāt kā∙i∙‘kitung wâbigāk,” i‘kitōwaᵉ i∙i∙ᵘ i‘kwäwaᵉ.</span>
 
-<span class="l-fiero">**Aano-wiikwaji’od awiiya ogii-noondawaa, bibaapinid ikwewa’, mii dash gaa-ikidonid: “Mii sa o’omaa ningoji endaad gaa-ikidong waabigaag,” ikidowa’ i’iw ikwewa’.**</span>
+<span class="l-fiero">**Aano-wiikwaji’od awiiya  ogii-noondawaa, bibaapinid  ikwewa’,  mii dash gaa-ikidonid: “Mii sa o’omaa ningoji endaad gaa-ikidong waabigaag,” ikidowa’  i’iw ikwewa’.**</span>
 
-<span class="l-eng">*While vainly trying (to get out), he heard some one, those were women coming laughing; and this was what they were saying: “Now, somewhere hereabouts lives a Gray Porcupine, so they say,” said the women.*</span>
+<span class="l-eng">*While vainly trying (to get out), he heard some one, those were women² coming laughing; and this was what they were saying: “Now, somewhere hereabouts lives a Gray Porcupine, so they say,” said the women.*</span>
 
 <span class="l-gloss">Aano-wiikwaji’od (vainly struggling) awiiya (someone) ogii-noondawaa (he heard), bibaapinid (laughing) ikwewa’ (women), mii dash (and) gaa-ikidonid (what they said): “Mii sa o’omaa (here it is) ningoji (somewhere) endaad (he lives) gaa-ikidong (so they say) waabigaag (the Gray Porcupine),” ikidowa’ (they said) i’iw ikwewa’ (those women).</span>
 
@@ -233,15 +239,15 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Ezhi-giigidod (when he spoke up): “Waabigaagoowiyaan (I am the Gray Porcupine) endaayaan (who dwells here).”</span>
 
-<span class="l-orig">(28) O∙o∙dac i‘kitōwaᵉ: “Kunugäna mi‘kawang ‘aᵉa’ᵘ wâbigāg, nicim,” ugī∙i∙nān mī∙a∙ᵘ mạtciki‘kwäwis.</span>
+<span class="l-orig">(28) O∙o∙dac i‘kitōwaᵉ: “Kunugäna mi‘kawang ‘aᵉa’ᵘ wâbigāg, nicīm,” ugī∙i∙nān mī∙a∙ᵘ mạtciki‘kwäwis.</span>
 
-<span class="l-fiero">**O’ow dash ikidowa’: “Gonogena mikawang a’aw waabigaag, nishiim,” ogii-inaan mii aw majiikwewis.**</span>
+<span class="l-fiero">**O’ow dash ikidowa’: “Gonogena  mikawang  a’aw  waabigaag, nishiim,” ogii-inaan mii aw majiikwewis.**</span>
 
-<span class="l-eng">*And this they said: “Suppose we should find the Gray Porcupine, my little sister,” to the other said she that was older.*</span>
+<span class="l-eng">*And this they said: “Suppose we should find the Gray Porcupine, my little sister,” to the other said she that was older.³*</span>
 
 <span class="l-gloss">O’ow dash (and this) ikidowa’ (they said): “Gonogena (suppose) mikawang (we find him) a’aw waabigaag (that Gray Porcupine), nishiim (my little sister),” ogii-inaan (she said to her) mii aw majiikwewis (she, the elder one).</span>
 
-<span class="l-orig">(29) “Kāna gīn kīnōntawāsī?” udigōn īni’ᵘ ucīmäyạn. “Kimi‘kawānān, māwīn.”</span>
+<span class="l-orig">(29) “Kāna gīn kīnōntawāsī?” udigōn īni’ᵘ ucīmäyạn. “Kīmi‘kawānān, māwīn.”</span>
 
 <span class="l-fiero">**“Gaa na giin gi-noondawaasii?” odigoon iniw oshiimeyan. “Gi-mikawaanaan, maawiin.”**</span>
 
@@ -251,7 +257,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(30) Mīdạc mī∙i∙māⁿ mīnawā kā∙i∙cikanōnāt: “Wâbigāgōwiyān ändāyān,” ugī∙i∙nan. Mīdạc kā∙i∙cimādcīkawa∙u∙gut.</span>
 
-<span class="l-fiero">**Mii dash mii imaa miinawaa gaa-izhi-ganoonaad: “Waabigaagoowiyaan endaayaan,” ogii-inaan. Mii dash gaa-izhi-maajikawa’ogod.**</span>
+<span class="l-fiero">**Mii dash mii imaa miinawaa gaa-izhi-ganoonaad: “Waabigaagoowiyaan endaayaan,” ogii-inaan.  Mii dash gaa-izhi-maajikawa’ogod.**</span>
 
 <span class="l-eng">*And so what he said before, he said to them again: “ I am the Gray Porcupine that dwells (here),” he said to them. Whereupon they began felling the tree he was in.*</span>
 
@@ -259,7 +265,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(31) “Nîcīm, kī‘kawawạnk, awägwänina käayānigwän kämi‘kawāgwän, mī∙a∙ᵘ kä∙u∙nābämit,” ugī∙i∙nān īni’ᵘ ucīmäyạn. Mīsa’ cigwa kägä‘t udānukīckika∙u∙gun.</span>
 
-<span class="l-fiero">**“Nishiim, gii-kawawang, awegwenina ge-ayaanigwen ge-mikawaagwen, mii aw ge-onaabemid,” ogii-inaan iniw oshiimeyan. Mii sa zhigwa geget odaano-giishkikaa’ogon.**</span>
+<span class="l-fiero">**“Nishiim, gii-kawawang, awegwenina  ge-ayaanigwen ge-mikawaagwen, mii aw ge-onaabemid,” ogii-inaan  iniw oshiimeyan. Mii sa zhigwa  geget odaano-giishkikaa’ogon.**</span>
 
 <span class="l-eng">*“My little sister, when we have felled the tree, then whosoever is there, (and) whichever the one that finds him, she will be the one to have him for a husband,” she said to her little sister. And so they truly chopped away unavailingly.*</span>
 
@@ -267,39 +273,39 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(32) “Wī‘kāgäsa i∙i∙māⁿ tayāwi ‘aᵉa’ᵘ wäcīmä‘i∙māwit,” kī∙i∙nändạm ‘aᵘ Nänabuco.</span>
 
-<span class="l-fiero">**“Wiikaage sa i’imaa dayaawi a’aw weshiime’imaawid,” gii-inendam aw Nenaboozhoo.**</span>
+<span class="l-fiero">**“Wiikaage sa  i’imaa  dayaawi  a’aw  weshiime’imaawid,” gii-inendam aw Nenaboozhoo.**</span>
 
 <span class="l-eng">*“I wish the younger one would be there,” thought Nanabushu.*</span>
 
 <span class="l-gloss">“Wiikaage sa (would that) i’imaa dayaawi (he were there) a’aw weshiime’imaawid (that younger brother of his),” gii-inendam aw Nenaboozhoo (thought Nenaboozhoo).</span>
 
-<span class="l-orig">(33) Cigwasa utāckika∙u∙gōn i∙i∙ᵘ nạntugā∙u∙gut, pīnic mạtciki‘kwäwis ka‘kina kā‘pīguga∙ạ∙nk; mi‘sa kā∙i∙cigwīnawâbạmāt.</span>
+<span class="l-orig">(33) Cigwasa utāckika∙u∙gōn i∙i∙ᵘ nạntugā∙u∙gut, pīnic mạtciki‘kwäwis ka‘kina kā‘pīguga∙ạ∙nk; mi’sa kā∙i∙cigwīnawâbạmāt.</span>
 
-<span class="l-fiero">**Zhigwa sa odaashkika’ogoon i’iw nandogaa’ogod, biinish majiikwewis gakina gaa-piigoga’ang; mii sa gaa-izhi-gwiinawaabamaad.**</span>
+<span class="l-fiero">**Zhigwa sa odaashkika’ogoon  i’iw nandogaa’ogod, biinish majiikwewis  gakina gaa-piigoga’ang;  mii sa gaa-izhi-gwiinawaabamaad.**</span>
 
-<span class="l-eng">*Now, (the women) began splitting a tree in an effort to find him, (keeping it up) till the elder sister had it all in pieces; but she had failed to find him.*</span>
+<span class="l-eng">*Now, (the women) began splitting a tree in an effort to find him,¹ (keeping it up) till the elder sister had it all in pieces; but she had failed to find him.*</span>
 
 <span class="l-gloss">Zhigwa sa (now then) odaashkika’ogoon (they split the tree on him) i’iw nandogaa’ogod (seeking him by chopping), biinish (until) majiikwewis (the elder one) gakina gaa-piigoga’ang (had chopped it all to pieces); mii sa (and so) gaa-izhi-gwiinawaabamaad (she failed to see him).</span>
 
 <span class="l-orig">(34) Mīsa aᵘ i‘kwä wäcīmämāwit iimāⁿ äyāt käga‘pī kā∙i∙cipō‘kwisitōt ī∙i∙ᵘ uwâgā‘kwạt.</span>
 
-<span class="l-fiero">**Mii sa aw ikwe weshiimemaawid i’imaa eyaad gegapii gaa-izhi-bookwisdood i’iw owaagaakwad.**</span>
+<span class="l-fiero">**Mii sa aw ikwe weshiimemaawid i’imaa  eyaad gegapii gaa-izhi-bookwisdood i’iw  owaagaakwad.**</span>
 
-<span class="l-eng">*And then the younger women yonder, where she was, finally broke her axe.*</span>
+<span class="l-eng">*And then the younger woman yonder, where she was, finally broke her axe.*</span>
 
 <span class="l-gloss">Mii sa aw ikwe (and then that woman) weshiimemaawid (the younger one) i’imaa eyaad (where she was) gegapii (at last) gaa-izhi-bookwisdood (when she broke) i’iw owaagaakwad (her axe).</span>
 
 <span class="l-orig">(35) “Nicīm,” udinān a‘pī kāpō‘kwisitōnit ‘iᵉi’ᵘ uwâgā‘kwatōni; “Mīsa nīn tci∙u∙nābämiyān,” ugī∙i∙nān īni’ᵘ ucīmäyạn.</span>
 
-<span class="l-fiero">**“Nishiim,” odinaan apii gaa-bookwisidoonid i’iw owaagaakwadooni; “Mii sa niin ji-onaabemiyaan,” ogii-inaan iniw oshiimeyan.**</span>
+<span class="l-fiero">**“Nishiim,” odinaan  apii gaa-bookwisidoonid i’iw owaagaakwadooni; “Mii sa niin ji-onaabemiyaan,” ogii-inaan iniw oshiimeyan.**</span>
 
 <span class="l-eng">*“My little sister,” (the elder sister) said to her after she had broken her axe, “so it will be I who will have a husband,” she said to her little sister.*</span>
 
 <span class="l-gloss">“Nishiim (my little sister),” odinaan (she says to her) apii gaa-bookwisidoonid (when she had broken) i’iw owaagaakwadooni (her axe); “Mii sa niin (so it is I) ji-onaabemiyaan (who will have a husband),” ogii-inaan (she said to her) iniw oshiimeyan (her little sister).</span>
 
-<span class="l-orig">(36) “Wä‘kāgäsa kayä wīn.” Ō∙o∙dạc kī∙i∙nändạm: “Ambäsạnō, mīyätạgu ābiding tcibiyāpạgitōt ‘iᵉi’ᵘ uwâgā‘kwạt,” udinänimān.</span>
+<span class="l-orig">(36) “Wä‘kāgäsa kayä wīn.” Ō∙o∙dạc kī∙i∙nändạm: “Ạmbäsạnō, mīyätạgu ābiding tcibiyāpạgitōt ‘iᵉi’ᵘ uwâgā‘kwạt,” udinänimān.</span>
 
-<span class="l-fiero">**“Wekaage sa gaye wiin.” O’ow dash gii-inendam: “Ambe sa noo, mii eta go aabiding ji-biyaabaagidood i’iw owaagaakwad,” odinenimaan.**</span>
+<span class="l-fiero">**“Wekaage sa  gaye wiin.” O’ow dash gii-inendam: “Ambe sa noo, mii eta go aabiding ji-biyaabaagidood  i’iw  owaagaakwad,” odinenimaan.**</span>
 
 <span class="l-eng">*“Would the same happen to her too!” And this he thought: “Now, would that only once she might strike (the tree) with her axe,” was the thought he had of her.*</span>
 
@@ -315,23 +321,23 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(38) Nänabucōwạn īni’ᵘ undcipạsiguntcisäwạn, ạnigagawā‘piwạn. “Kägä‘tigu wâpigāk ändāt inäntạmōg!”</span>
 
-<span class="l-fiero">**Nenaboozhoowan iniw onji-bazigonjisewan, ani-gagawaabiwan. “Gegeti go waabigaag endaad inendamoog!”**</span>
+<span class="l-fiero">**Nenaboozhoowan iniw  onji-bazigonjisewan, ani-gagawaabiwan. “Gegeti go  waabigaag endaad inendamoog!”**</span>
 
 <span class="l-eng">*And there was Nanabushu leaping away, falling headlong with laughter as he went. “That it actually was the home of a Gray Porcupine they thought!”*</span>
 
 <span class="l-gloss">Nenaboozhoowan iniw (it was Nanabushu, that one) onji-bazigonjisewan (who sprang up from there), ani-gagawaabiwan (going off tumbling/rolling). “Gegeti go (that it actually) waabigaag endaad (was a Gray Porcupine’s home) inendamoog (they thought)!”</span>
 
-<span class="l-orig">(39) Mīsa kānīcimāmādcāt Nänabucu. “Amạntcigic kä∙i∙cictcigäwānän,” kī∙i∙nändam; “wawiyạc tcitōtawạk kayä wīn?” udinänimān īni’ᵘ pinäsiwạn.</span>
+<span class="l-orig">(39) Mīsa kānīcimāmādcāt Nänabucu. “Ạmạntcigic kä∙i∙cictcigäwānän,” kī∙i∙nändam; “wawiyạc tcitōtawạk kayä wīn?” udinänimān īni’ᵘ pinäsiwạn.</span>
 
-<span class="l-fiero">**Mii sa gaa-ani-izhi-mamaajaad Nenaboozhoo. “Amanjigizh ge-izhichigewaanen,” Gii-inendam; “wawiyazh ji-doodawag gaye wiin?” odinenimaan iniw binesiwan.**</span>
+<span class="l-fiero">**Mii sa gaa-ani-izhi-mamaajaad Nenaboozhoo. “Amanjigizh ge-izhichigewaanen,” Gii-inendam; “wawiyazh  ji-doodawag  gaye wiin?” odinenimaan  iniw binesiwan.**</span>
 
 <span class="l-eng">*And so upon his way continued Nanabushu. “I wonder what I shall do,” he thought, “in order that I may play a trick on him too!” such was his thought of the bird.*</span>
 
 <span class="l-gloss">Mii sa (and so) gaa-ani-izhi-mamaajaad (when he went on his way) Nenaboozhoo (Nanabushu). “Amanjigizh (I wonder) ge-izhichigewaanen (what I shall do),” gii-inendam (he thought); “wawiyazh (a trick) ji-doodawag (that I might play on him) gaye wiin (too)?” odinenimaan (such was his thought) iniw binesiwan (of the bird).</span>
 
-<span class="l-orig">(40) Äcimạdābīt sāga∙i∙gạn, mīdac ᵉi∙i∙māⁿ micawi‘kwạm kā∙i∙ci∙u∙cicink. “Ambäsạnō, ninga∙ạmugōk ạnōtc, pinäsiwạg,” kī∙i∙nändạm.</span>
+<span class="l-orig">(40) Äcimạdābīt sāga∙i∙gạn, mīdac ᵉi∙i∙māⁿ micawi‘kwạm kā∙i∙ci∙u∙cicink. “Ạmbäsạnō, ninga∙ạ∙mugōk ạnōtc, pinäsiwạg,” kī∙i∙nändạm.</span>
 
-<span class="l-fiero">**Ezhi-madaabiid zaaga’igan, mii dash i’imaa mishawikwam gaa-izhi-ozhishing. “Ambe sa noo, ninga- amogoog anooj, binesiwag,” Gii-inendam.**</span>
+<span class="l-fiero">**Ezhi-madaabiid zaaga’igan, mii dash i’imaa  mishawikwam gaa-izhi-ozhishing. “Ambe sa noo, ninga- amogoog anooj, binesiwag,” Gii-inendam.**</span>
 
 <span class="l-eng">*When he came out upon a lake, then far out there on the ice he went and lay down, “Now, I shall be eaten by all kinds of birds,” he willed.*</span>
 
@@ -339,7 +345,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(41) Uwī‘kwatänimān īni’ᵘ wawiyạc kā‘tōtāgut.</span>
 
-<span class="l-fiero">**Owiikwadenimaan iniw wawiyazh gaa-doodaagod.**</span>
+<span class="l-fiero">**Owiikwadenimaan iniw  wawiyazh  gaa-doodaagod.**</span>
 
 <span class="l-eng">*He formed a scheme to get the one that had done him a trick.*</span>
 
@@ -347,7 +353,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(42) Cigwa kägä‘t udạmugōᵉ āntēgwaᵉ änōtcisagu pinäsiwaᵉ.</span>
 
-<span class="l-fiero">**Zhigwa geget odamogoo’ andegwa’ enooji sa go binesiwa’.**</span>
+<span class="l-fiero">**Zhigwa geget odamogoo’  andegwa’  enooji sa go binesiwa’.**</span>
 
 <span class="l-eng">*Then truly was he eaten by crows and by various kinds of birds.*</span>
 
@@ -355,7 +361,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(43) Mīdạc kā∙i∙nāt: “Kägu’ wīn i∙i∙witi nintcīting untạmici‘kägun,” ugī∙i∙nāᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-inaad: “Gego wiin i’iwidi ninjiiding ondamishikegon,” ogii-inaa’.**</span>
+<span class="l-fiero">**Mii dash gaa-inaad: “Gego wiin  i’iwidi  ninjiiding  ondamishikegon,” ogii-inaa’.**</span>
 
 <span class="l-eng">*Then this he said to them: “Don’t you eat upon me yonder at my buttocks,” he said to them.*</span>
 
@@ -369,7 +375,7 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Mii dash geget (whereupon truly) gaa-izhichigenid (such was what they did), aaniish (and) bane go (continually) gaa-danwewetoonid (they kept up a din there).</span>
 
-<span class="l-orig">(45) Cigwasa uwâbạmān upabāmāsimōnunit īni’ᵘ pinäsiwạn. “‘Aᵉ, mīsa kāwīn pī∙i∙cāsiwạn!” ānīc uwī‘kwatänimān tcipīcānit.</span>
+<span class="l-orig">(45) Cigwasa uwâbạmān upabāmāsimōnunit īni’ᵘ pinäsiwạn. “‘Aⁱᵉ, mīsa kāwīn pī∙i∙cāsiwạn!” ānīc uwī‘kwạtänimān tcipīcānit.</span>
 
 <span class="l-fiero">**Zhigwa sa owaabamaan obabaamaasimoononid iniw binesiwan. “Aa, mii sa gaawiin bi-izhaasiiwan!” aanish owiikwadenimaan ji-bi-izhaanid.**</span>
 
@@ -379,15 +385,15 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(46) Äckạmigu tạsing kācigạtinigin päconāgusiwạn, käga‘pī äcipōnīnit; nāgäwāsạgu ‘i∙i∙witi pạngicink utōnsābạmigōn.</span>
 
-<span class="l-fiero">**Eshkam igo dasing gaazhigadinigin beshonaagoziwan, gegapii ezhi-booniinid; naagewaasa go i’iwidi bangishing odoonzaabamigoon.**</span>
+<span class="l-fiero">**Eshkam igo dasing gaazhigadinigin beshonaagoziwan, gegapii ezhi-booniinid; naagewaasa go i’iwidi  bangishing  odoonzaabamigoon.**</span>
 
 <span class="l-eng">*Gradually as the days came and went, nearer it could be seen, till at last it then alighted; and a good way off from yonder place where it came down was (Nanabushu) observed.*</span>
 
 <span class="l-gloss">Eshkam igo (gradually) dasing (as often as) gaazhigadinigin (the days passed) beshonaagoziwan (it could be seen nearer), gegapii (at last) ezhi-booniinid (when it alighted); naagewaasa go (a good way off) i’iwidi (over there) bangishing (where it came down) odoonzaabamigoon (he was observed by it).</span>
 
-<span class="l-orig">(47) Mīdạc kägä‘t ā‘pidci ugusigōn. Tcigwasa wi‘kā upināsi‘kāgōn.</span>
+<span class="l-orig">(47) Mīdạc kägä‘t ā‘pidci ugusigōn. Tcigwasa wī‘kā upināsi‘kāgōn.</span>
 
-<span class="l-fiero">**Mii dash geget aapiji ogosigoon. Zhigwa sa wiikaa obi-naazikaagoon.**</span>
+<span class="l-fiero">**Mii dash geget aapiji ogosigoon. Zhigwa sa wiikaa  obi-naazikaagoon.**</span>
 
 <span class="l-eng">*And it was true that much was he feared (by the bird). Then after a while to where he was came (the bird).*</span>
 
@@ -409,9 +415,11 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Mii dash zhigwa (and then now) eshkam igo (gradually) gaawiin doondansiiwan (it was no longer afraid), gegapii igo (till at last) owawangawenimigoon (he was treated freely and easily by it).</span>
 
+*Äckamigu kāwin tōⁿtansīwạn, “it gradually became less afraid;” literally, “it gradually did it less,” that is keeping up its fear.*
+
 <span class="l-orig">(50) Käga‘pī∙i∙gu ōwi‘kitōwạn: “Ānīnta gīnawā untamāsiwäg o∙ō∙witi wīninwā‘kucīgạnät?” Mīsa gägä‘t ‘i∙i∙witi wäntạmigut.</span>
 
-<span class="l-fiero">**Gegapii igo o’ow ikidowan: “Aaniinde giinawaa ondamaasiweg o’owidi wiininwaakoshiiganed?” Mii sa geget i’iwidi wendamigod.**</span>
+<span class="l-fiero">**Gegapii igo o’ow ikidowan: “Aaniinde giinawaa ondamaasiweg  o’owidi wiininwaakoshiiganed?” Mii sa geget i’iwidi  wendamigod.**</span>
 
 <span class="l-eng">*Then finally this it said: “Why do you not eat of him from the small of the back, where he is fat?” Thereupon truly from that place was he eaten.*</span>
 
@@ -429,13 +437,13 @@ Nanabush and the Buzzards
 
 <span class="l-fiero">**Ezhi-bazigonjised gashkidiyaandamawaad i’iw oshtigwaanini.**</span>
 
-<span class="l-eng">*Then up he sprang closing his anus tight over the other’s head.*</span>
+<span class="l-eng">*Then up he sprang closing his anus tight over the other’s hand.*</span>
 
 <span class="l-gloss">Ezhi-bazigonjised (then up he sprang) gashkidiyaandamawaad (clamping his rear shut over) i’iw oshtigwaanini (its head).</span>
 
 <span class="l-orig">(53) “Micạnîm Nänabucu, ningīgạgwānisạgi∙i∙k!”</span>
 
-<span class="l-fiero">**“mishanim Nenaboozhoo, ningii-gagwaanisagi’ig!”**</span>
+<span class="l-fiero">**“mishanim  Nenaboozhoo, ningii-gagwaanisagi’ig!”**</span>
 
 <span class="l-eng">*“Confound Nanabushu, by him am I frightfully treated!”*</span>
 
@@ -449,19 +457,21 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Maajiibatood (when he set off running) i’iw zaaga’igan (along the lake). Aaniish (naturally) aano-bimiwiikwaji’onid (the other vainly struggled along to free itself).</span>
 
-<span class="l-orig">(55) Misa’ cigwa päcwâbạndạnk wä‘kwāgamīwạninik i∙i∙ᵘ sāgā∙i∙gạn äcipạgitcitiyāmāt, mīdạc kā∙i∙cipạngicininit imāⁿ mi‘tcaya∙ī∙.²</span>
+<span class="l-orig">(55) Misa’ cigwa päcwâbandạnk wä‘kwāgamīwạninik i∙i∙ᵘ sāgā∙i∙gạn äcipạgitcitiyāmāt, mīdạc kā∙i∙cipạngicininit imāⁿ mi‘tcaya∙ī∙.²</span>
 
-<span class="l-fiero">**Mii sa zhigwa beshwaabandang wekwaagamiiwaninig i’iw zaaga’igan ezhi-bagijidiyaamaad, mii dash gaa-izhi-bangishininid imaa michaya’ii.**</span>
+<span class="l-fiero">**Mii sa zhigwa beshwaabandang wekwaagamiiwaninig  i’iw zaaga’igan  ezhi-bagijidiyaamaad, mii dash gaa-izhi-bangishininid imaa  michaya’ii.**</span>
 
 <span class="l-eng">*And then presently, when nearing the far end of the lake, (Nanabushu) freed (the bird) from his anus, whereupon down it fell on the ice.*</span>
 
 <span class="l-gloss">Mii sa zhigwa (and then now) beshwaabandang (when he saw it near) wekwaagamiiwaninig (the far end of the water) i’iw zaaga’igan (the lake) ezhi-bagijidiyaamaad (when he released it from his rear), mii dash (whereupon) gaa-izhi-bangishininid (it fell) imaa michaya’ii (there on the ice).</span>
 
-<span class="l-orig">(56) Mīdạc kā∙i∙nāt: “Wīnängä kīga∙i∙gō tci∙ạ∙ni∙a‘kīwạng,” ugī∙i∙nān. “Kīgawīnänimik ‘aᵘ ạnicinâbä.”</span>
+*Mi‘tcaya∙ī∙, “on the ice;” literally, “on the firm.”*
 
-<span class="l-fiero">**Mii dash gaa-inaad: “Wiinaange giga-igoo ji-ani-akiiwang,” ogii-inaan. “Giga-wiinenimig aw anishinaabe.”**</span>
+<span class="l-orig">(56) Mīdạc kā∙i∙nāt: “Wīnängä kīga∙i∙gō tci∙ạ∙ni∙a∙‘kīwạng,” ugī∙i∙nān. “Kīgawīnänimik ‘aᵘ ạnicinâbä.”</span>
 
-<span class="l-eng">*And this was what was said to it: “Buzzard shall you be called till the end of the world,” he said to it. “For your filth will you be loathed by the people.”*</span>
+<span class="l-fiero">**Mii dash gaa-inaad: “Wiinaange giga-igoo ji-ani-akiiwang,” ogii-inaan. “Giga-wiinenimig aw  anishinaabe.”**</span>
+
+<span class="l-eng">*And this was what he said to it: “Buzzard shall you be called till the end of the world,” he said to it. “For your filth will you be loathed by the people.”*</span>
 
 <span class="l-gloss">Mii dash (and then) gaa-inaad (what he said to it): “Wiinaange (Buzzard) giga-igoo (you shall be called) ji-ani-akiiwang (until the end of the world),” ogii-inaan (he said to it). “Giga-wiinenimig (you will be loathed for your filth) aw anishinaabe (by the people).”</span>
 

@@ -35,7 +35,7 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(3) Käga‘pī äjikīgitut wīwạn: “Kägä‘t kīgō‘pạtis. Awạcîmä intawā kistcikī∙ō∙täyạn; mīyä‘ta kä∙i∙ciwīsiniyạngibạn, mīyä‘ta tciwâbạniciyạnk.”</span>
 
-<span class="l-fiero">**Gegapii ezhi-kiigidod wiiwan: “Geget gii-goopadis. Awashime indawaa gisjikii-oodeyan; mii eta ge-izhi-wiisiniyangiban, mii eta ji-waabanishiyang.”**</span>
+<span class="l-fiero">**Gegapii ezhi-kiigidod wiiwan: “Geget gii-goopadis.  Awashime indawaa gisjikii-oodeyan; mii eta ge-izhi-wiisiniyangiban, mii eta ji-waabanishiyang.”**</span>
 
 <span class="l-eng">*At last then up spoke the woman: “Really, you are of no use. It would therefore be much better for you to go on a visit among (your friends); for only by such means shall we obtain food to eat, only in that way shall we live through the winter.”*</span>
 
@@ -275,7 +275,7 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(33) Ānīc, wâsagu utạcā‘pagitawāwā äjikạnōnāt: “Nictcīmictcā, päcugu pīcāyu‘k, Kīpa‘kạtämawāsa kīnawā. Wâbạnk kōsiwā tabīcā, nāwa‘kwäg ugapinātin kämītciyäg.”</span>
 
-<span class="l-fiero">**Aaniish, waasa go odashaapagidawaawaa ezhi-ganoonaad: “Ni-shiimisha, besho go bi-izhaayok. Gi-bakadem awa sa giinawaa. Waabang goosiwaa da-bi-izhaa, naawakweg oga-pi-naadin ge-miijiyeg.”**</span>
+<span class="l-fiero">**Aaniish, waasa go odashaapagidawaawaa ezhi-ganoonaad: “Ni-shiimisha, besho go bi-izhaayok.  Gi-bakadem awa sa giinawaa.  Waabang goosiwaa da-bi-izhaa, naawakweg oga-pi-naadin ge-miijiyeg.”**</span>
 
 <span class="l-eng">*Now, from afar were they throwing them to him, when he said to them: “My little brothers, up close do you come. You must be hungry. To-morrow let your father come over, at noon let him come to get some food for you to eat.”*</span>
 
@@ -299,7 +299,7 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(36) Äjikạnōnigut Nänabucu wīwạn: “Intaskā mīnawā iᵘ awīya kägō kīcinawāwạtän. Ätạtạgwacaku kīmänici ickwā‘kamik kītōtaⁿzīwạn!”</span>
 
-<span class="l-fiero">**Ezhi-kanoonigod Nenaboozhoo wiiwan: “Indaskaa miinawaa iw awiya gegoo gii-shinawaawaden. Edadagwashako gii-menishi ishkwaakamik gii-doodanziiwan!”**</span>
+<span class="l-fiero">**Ezhi-kanoonigod Nenaboozhoo wiiwan: “Indaskaa miinawaa iw awiya gegoo gii-shinawaawaden.  Edadagwashako gii-menishi ishkwaakamik gii-doodanziiwan!”**</span>
 
 <span class="l-eng">*Then was Nänabushu answered by his wife saying: “No doubt but that you have again seen somebody doing something. Oh, how you make me ashamed in your trying always to do everything !”*</span>
 
@@ -405,7 +405,7 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-fiero">**Etawaa! wendago geget waasa inaakwijid bangishing, “joen!” inweweshin Nenaboozhoo.**</span>
 
-<span class="l-eng">*Alas ! right straight in for a long way it truly entered. When he dropped, “ten!” was the sound Nänabushu made.*</span>
+<span class="l-eng">*Alas ! right straight in for a long way it truly entered.  When he dropped, “ten!” was the sound Nänabushu made.*</span>
 
 <span class="l-gloss">Etawaa! wendago geget waasa inaakwijid (alas! truly far in it lodged) bangishing (when he fell), “joen!” inweweshin Nenaboozhoo (“joen!” was the sound Nenaboozhoo made as he hit).</span>
 
@@ -475,7 +475,7 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(58) Medạc äcikạnōnigut pīwitän: “Pä‘kā! kạnạbạtc kīganisā kimindimō∙i∙mic. Intawā pītōn iᵘ mō‘kumān.”</span>
 
-<span class="l-fiero">**Mii dash ezhi-kanoonigod biiwiden: “Bekaa! ganabaj giga-nisaa gi-mindimooyemish. Indawaa biidoon iw mookomaan.”**</span>
+<span class="l-fiero">**Mii dash ezhi-kanoonigod biiwiden: “Bekaa! ganabaj giga-nisaa gi-mindimooyemish.  Indawaa biidoon iw mookomaan.”**</span>
 
 <span class="l-eng">*Then was he addressed by the guest saying: “Stop! perhaps you will kill your old woman. Therefore fetch hither the knife.”*</span>
 
@@ -524,7 +524,7 @@ Whereupon the buttocks of the ruffed grouse (hang aloft)*</span>
 
 *“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.) — The hanging verb is printed in parentheses; Jones’s own footnote: “The last word is supplied by the editor. See pp. 340, 341.”*
 
-<span class="l-gloss">(1) For other versions see Nos. 35 (p. 305) and 53 (p. 423)</span>
+(1) For other versions see Nos. 35 (p. 305) and 53 (p. 423)
 
 (2) The last word is supplied by the editor. See pp. 340, 341.
 

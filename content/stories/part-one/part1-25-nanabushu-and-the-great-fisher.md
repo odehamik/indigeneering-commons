@@ -21,7 +21,7 @@ Nenabosho and the Great Fisher
 
 <span class="l-fiero">**Ningoding igo babimosed awiiya oonoondawaan madwe-nagamonid.**</span>
 
-<span class="l-eng">*And once, while walking about, he heard the voice of someone singing.*</span>
+<span class="l-eng">*And once, while walking about, he heard the voice of some one singing.*</span>
 
 <span class="l-gloss">Ningoding igo (and once) babimosed (while walking about) awiiya oonoondawaan (he heard someone) madwe-nagamonid (singing — the sound of singing carrying to him).</span>
 
@@ -45,11 +45,11 @@ Nenabosho and the Great Fisher
 
 <span class="l-fiero">**Ezhi-maajaad Nenabosho.**</span>
 
-<span class="l-eng">*Then odd went Nenabosho.*</span>
+<span class="l-eng">*Then off went Nänabushu.*</span>
 
 <span class="l-gloss">Ezhi-maajaad Nenabosho (then off went Nenabosho).</span>
 
-<span class="l-orig">(5) Ạbā‘pic payäcu‘tawāt, undcitasawīn kāwīn pācigwạnung ayāsitug äni‘tawāt.</span>
+<span class="l-orig">(5) Ạbā‘pic payäcu‘tawāt, undcitasawīn kāwīn pācigwạnung ayāsītug äni‘tawāt.</span>
 
 <span class="l-fiero">**Abaapish bayeshodawaad*, onjida sa wiin gaawiin baashigwanong ayaasiidog enitawaad.**</span>
 
@@ -57,7 +57,7 @@ Nenabosho and the Great Fisher
 
 <span class="l-gloss">Abaapish bayeshodawaad* (by the time he was within close hearing of him), onjida sa wiin (it really seemed) gaawiin baashigwanong ayaasiidog (that he was not in any one place) enitawaad (by the way he heard him — *stem flagged*).</span>
 
-<span class="l-orig">(6) Cigwasa päcu’ owâbạndān ki‘tcigạmi, kuniginīn miciwutcīgạn ayācawikwāskwạniwạn ‘iᵉi’ᵘ kiˢtcigạmi.</span>
+<span class="l-orig">(6) Cigwasa päcu’ owâbạndān ki‘tcigạmi, kuniginīn miciwutcīgạn ayācawikwāskwạniwạn ‘iᵉiᵘ kiˢtcigạmi.</span>
 
 <span class="l-fiero">**Zhigwa sa besho owaabandaa gichigami, goniginiin mishiwojiigan ayaazhawikwaashkwaniwan i’iw gichi-gami.**</span>
 
@@ -73,14 +73,14 @@ Nenabosho and the Great Fisher
 
 <span class="l-gloss">Mii dash i’iw zasiiboshkaanig i’iw gichi-gami (it was where the shores of the sea came together — *stem flagged*) mii dash imaa ayaazhawikwaashkoninid (that there he leaped to and fro), bekish idash nagaomoowan (and at the same time he sang):</span>
 
-<span class="l-orig">(8) “Ki‘tcigạni sāsi‘pu‘kāg,  
-Ki‘tcigạmi sāsi‘pu‘kāg,”</span>
+<span class="l-orig">(8) “Kiˢtcigạni säsi‘pu‘kāg,  
+Kiˢtcigạmi säsi‘pu‘kāg,”</span>
 
 <span class="l-fiero">**“Gichigami zesipokaag.  
 Gichi-gami zesipokaag,”**</span>
 
-<span class="l-eng">*The shores of the sea meet together,  
-the shores of the sea meet together.*</span>
+<span class="l-eng">*“The shores of the sea meet together,  
+The shores of the sea meet together,”*</span>
 
 <span class="l-gloss">“Gichigami zesipokaag (the shores of the sea meet together — *song line carried; meeting-stem flagged*),  
 Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song line carried*)</span>
@@ -89,7 +89,7 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-fiero">**ina’amoon.**</span>
 
-<span class="l-eng">*(Such) was the song he sang.*</span>
+<span class="l-eng">*(such) was the song he sang.*</span>
 
 <span class="l-gloss">ina’amoon (so was the song he sang).</span>
 
@@ -101,11 +101,11 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-gloss">Geget ominwenimaan (truly he was pleased with him).</span>
 
-<span class="l-orig">(11) “Ambägicsa kayä nīn kacki‘tōyān tci∙i∙cictcigäyān. Kāwīn nīn nintayānici‘tạⁿzī. Kāwīnina, Miciwutcīg, nindākacki‘tōsīn ‘iᵉi’ᵘ tci∙i∙cictcigäyạmbān?”</span>
+<span class="l-orig">(11) “Ạmbägicsa kayä nīn kacki‘tōyān tci∙i∙cictcigäyān. Kāwīn nīn nintayānicī‘tạⁿzī. Kāwīnina, Miciwutcig, nindākacki‘tōsīn ‘iᵉi’ᵘ tci∙i∙cictcigäyämbān?”</span>
 
-<span class="l-fiero">**“Ambegish sa gaye niin gashkitooyaan ji-izhichigeyaan. Gaawiin niin nindayaanizhiida-zii. Gaawiin ina, Mishiwojiig, nindaa-kashkitoosiin i’iw ji-izhichigeyembaan?”**</span>
+<span class="l-fiero">**“Ambegish sa gaye niin gashkitooyaan ji-izhichigeyaan. Gaawiin niin 	 nindayaanizhiida-zii. Gaawiin ina, Mishiwojiig, nindaa-kashkitoosiin i’iw ji-izhichigeyembaan?”**</span>
 
-<span class="l-eng">*Would that I might be able to do that too! I would not cease. Might I not be able, O Great Fisher, to do that?”*</span>
+<span class="l-eng">*“Would that I might be able to do that too! I would not cease. Might I not be able, O Fisher! to do that?”*</span>
 
 <span class="l-gloss">“Ambegish sa gaye niin (“would that I too) gashkitooyaan ji-izhichigeyaan (might be able to do it). Gaawiin niin nindayaanizhiida-zii (I would not cease — *stem flagged*). Gaawiin ina, Mishiwojiig (might I not, O Great Fisher), nindaa-kashkitoosiin i’iw ji-izhichigeyembaan?” (be able to do that?”)</span>
 
@@ -113,7 +113,7 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-fiero">**“Nenabosho, mewizha nimaajitaanaaban i’iwe ondaminoyaan.**</span>
 
-<span class="l-eng">*Nenabosho, long ago I began this that I am playing.*</span>
+<span class="l-eng">*“Nänabushu, long ago I began this that I am playing.*</span>
 
 <span class="l-gloss">“Nenabosho, mewizha nimaajitaanaaban (Nenabosho, long ago I began) i’iwe ondaminoyaan (this that I am playing — *stem flagged*).</span>
 
@@ -141,7 +141,7 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-gloss">Akawe niiwi-andawendaan (in the meanwhile I want to look for) i’iw waa-miijiyaan (what I am going to eat).</span>
 
-<span class="l-orig">(16) Kīni‘tạmidạc kayācawikwāskwạn.</span>
+<span class="l-orig">(16) Kīni‘tạmidạc kayāyācawikwāskwạn.</span>
 
 <span class="l-fiero">**Giinitam idash gayaayaazhawigwaashkwan.**</span>
 
@@ -149,15 +149,15 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-gloss">Giinitam idash gayaayaazhawigwaashkwan (so you take your turn at leaping across back and forth).</span>
 
-<span class="l-orig">(17) Mīsai∙iᵘ cigwa tcimādci‘tāyạn, Nänabucu.</span>
+<span class="l-orig">(17) Mīsai∙i∙ᵘ cigwa tcimādci‘tāyạn, Nänabucu.</span>
 
 <span class="l-fiero">**Mii sa i’iw zhigwa ji-maajitaayan, Nenabosho.**</span>
 
-<span class="l-eng">*Therefore now you may begin, Nenabosho.*</span>
+<span class="l-eng">*Therefore now you may begin, Nänabushu.*</span>
 
 <span class="l-gloss">Mii sa i’iw zhigwa ji-maajitaayan, Nenabosho (and so now you may begin, Nenabosho).</span>
 
-<span class="l-orig">(18) kägu’ wīn bạbīni‘tagạn wâ∙ī∙ninān.</span>
+<span class="l-orig">(18) kägu’ wīn bạbīni‘tạgän wâ∙ī∙ninān.</span>
 
 <span class="l-fiero">**Gego wiin babiinitagen waa-iininaan.**</span>
 
@@ -165,7 +165,7 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-gloss">Gego wiin babiinitagen (do not disregard) waa-iininaan (what I am telling you — *stem flagged*).</span>
 
-<span class="l-orig">(19) Migu’iᵘ mōⁿjạg tcinạgạmuyạn:</span>
+<span class="l-orig">(19) Mīgu’∙i∙ᵘ mōⁿjạg tcinạgạmuyạn:</span>
 
 <span class="l-fiero">**Mii go iw moozhag ji-nagamoyan:**</span>
 
@@ -173,14 +173,14 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-gloss">Mii go iw moozhag ji-nagamoyan (and so always should you sing):</span>
 
-<span class="l-orig">(20) “‘Ki‘tcigạmi sāsi‘pu‘kāg,  
-Ki‘tcigạmi sāsi‘pu‘kāg,’</span>
+<span class="l-orig">(20) “‘Kiˢtcigạmi säsi‘pu‘kāg,  
+Kiˢtcigạmi säsi‘pu‘kāg,’</span>
 
 <span class="l-fiero">**“Gichigami zesipokaag.  
 Gichi-gami zesipokaag,”**</span>
 
-<span class="l-eng">*‘The shores of the sea meet together,  
-the shores of the sea meet together,’*</span>
+<span class="l-eng">*“ ‘The shores of the sea meet together,  
+The shores of the sea meet together,’*</span>
 
 <span class="l-gloss">“Gichigami zesipokaag (the shores of the sea meet together — *song line carried*),  
 Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song line carried*)</span>
@@ -189,7 +189,7 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-fiero">**ji-ina’aman.**</span>
 
-<span class="l-eng">*(Thus) you should sing.*</span>
+<span class="l-eng">*(thus) you should sing.*</span>
 
 <span class="l-gloss">ji-ina’aman (thus you should sing).</span>
 
@@ -197,17 +197,17 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-fiero">**Giishpin,**</span>
 
-<span class="l-eng">*if,*</span>
+<span class="l-eng">*If*</span>
 
 <span class="l-gloss">Giishpin (if),</span>
 
-<span class="l-orig">(23) “‘Ki‘tcigạmi tāskī‘kāg,  
-Ki‘tcigạmi tāskī‘kāg,’</span>
+<span class="l-orig">(23) “‘Kiˢtcigạmi täskī‘kāg,  
+Kiˢtcigạmi täskī‘kāg,’</span>
 
 <span class="l-fiero">**“Gichi-gami deshkiikaag,  
 Gichi-gami deshkiikaag,”**</span>
 
-<span class="l-eng">*‘The shores of the sea draw apart,  
+<span class="l-eng">*“ ‘The shores of the sea draw apart,  
 The shores of the sea draw apart,’*</span>
 
 <span class="l-gloss">“Gichi-gami deshkiikaag (the shores of the sea draw apart — *song line carried; parting-stem flagged*),</span>
@@ -216,7 +216,7 @@ The shores of the sea draw apart,’*</span>
 
 <span class="l-fiero">**ina’aman, mii dash iw ganabaj gii-ganisaabaawe.”**</span>
 
-<span class="l-eng">*You should sing, then perhaps you might drown.”*</span>
+<span class="l-eng">*you should sing, then perhaps you might drown.”*</span>
 
 <span class="l-gloss">Gichi-gami deshkiikaag,” (the shores of the sea draw apart,”) ina’aman (you should sing), mii dash iw ganabaj gii-ganisaabaawe.” (then perhaps you would drown.” — *drown-stem flagged*)</span>
 
@@ -232,18 +232,18 @@ The shores of the sea draw apart,’*</span>
 
 <span class="l-fiero">**Nenabosho ezhi-maajii’ang:**</span>
 
-<span class="l-eng">*Nenabosho then began singing:*</span>
+<span class="l-eng">*Nänabushu then began singing:*</span>
 
 <span class="l-gloss">Nenabosho ezhi-maajii’ang (Nenabosho then began singing):</span>
 
-<span class="l-orig">(27) “Ki‘tcigạmi sāsipu‘kāg,  
-Ki‘tcigạmi sāsipu‘kāg.”</span>
+<span class="l-orig">(27) “Ki‘tcigạmi säsipu‘kāg,  
+Ki‘tcigạmi säsipu‘kāg.”</span>
 
 <span class="l-fiero">**“Gichi-gami zesipokaag,  
 Gichi-gami zesipokaag.”**</span>
 
-<span class="l-eng">*‘The shores of the sea meet together,  
-the shores of the sea meet together.’*</span>
+<span class="l-eng">*“The shores of the sea meet together,  
+The shores of the sea meet together.”*</span>
 
 <span class="l-gloss">“Gichi-gami zesipokaag (the shores of the sea meet together — *song line carried*),  
 Gichi-gami zesipokaag.” (the shores of the sea meet together.” — *song line carried*)</span>
@@ -292,15 +292,15 @@ Gichi-gami zesipokaag.” (the shores of the sea meet together.” — *song lin
 
 <span class="l-fiero">**Zhigwa onaagoshinini, mii zhigwa ayekozid Nenabosho.**</span>
 
-<span class="l-eng">*When it was growing evening, then was Nenabosho becoming weary.*</span>
+<span class="l-eng">*When it was growing evening, then was Nänabushu becoming weary.*</span>
 
 <span class="l-gloss">Zhigwa onaagoshinini (when it was growing evening), mii zhigwa ayekozid Nenabosho (then Nenabosho was becoming weary).</span>
 
-<span class="l-orig">(34) Ningutingigu ogīmi‘kwändān: “Amạntcigic ‘iᵉi’ᵘ kāwundcī∙i‘kitut, ‘Kägu’ wīn ina∙ạ∙ngän.’”</span>
+<span class="l-orig">(34) Ningutingigu ogīmi‘kwändān: “Amạntcigic ‘iᵉi’ᵘ kāwundcī∙i∙‘kitut, ‘Kägu’ wīn ina∙ạ∙ngän.’”</span>
 
 <span class="l-fiero">**Ningoding igo ogii-mikwendaan: “Amanjigish i’iw gaa-wonjii’ikidod, ‘Gego wiin ina’angen.”**</span>
 
-<span class="l-eng">*Then he happened on a sudden thought: “Wonder why it is he said, Don’t you sing (the otherway)!”*</span>
+<span class="l-eng">*Then he happened on a sudden thought: “Wonder why it is he said, ‘Don’t you sing (the other way)’!”*</span>
 
 <span class="l-gloss">Ningoding igo ogii-mikwendaan (then all at once he remembered): “Amanjigish i’iw gaa-wonjii’ikidod (“I wonder why it was he said), ‘Gego wiin ina’angen.” (‘do not sing it (that way).’ ”)</span>
 
@@ -308,12 +308,12 @@ Gichi-gami zesipokaag.” (the shores of the sea meet together.” — *song lin
 
 <span class="l-fiero">**Wegoneniiwinen* Nenabosho aazhawigwaashkwanid,**</span>
 
-<span class="l-eng">*But foolishly, as Nenabosho leaped across,*</span>
+<span class="l-eng">*But foolishly, as Nänabushu leaped across,*</span>
 
 <span class="l-gloss">Wegoneniiwinen* Nenabosho (but, foolishly, Nenabosho — *stem flagged*) aazhawigwaashkwanid (as he leaped across),</span>
 
-<span class="l-orig">(36) “Ki‘tcigạmi tāskī‘kāg,  
-Ki‘tcigạmi tāskī‘kāg,”</span>
+<span class="l-orig">(36) “Kiˢtcigạmi täskī‘kāg,  
+Kiˢtcigạmi täskī‘kāg,”</span>
 
 <span class="l-fiero">**“Gichi-gami deshkiikaag,  
 Gichi-gami deshkiikaag,”**</span>
@@ -328,7 +328,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**ina’am.**</span>
 
-<span class="l-eng">*He thus sang.*</span>
+<span class="l-eng">*he thus sang.*</span>
 
 <span class="l-gloss">ina’am (he thus sang).</span>
 
@@ -356,9 +356,9 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-gloss">Aano-mooshkamod inaabid (when, coming up to the surface, he tried to look about), gaawiin ganage bimakamigaasininig (there was not a single bit of shoreline).</span>
 
-<span class="l-orig">(41) Mīnawā Ānugwä‘kagumu, mīsa’ undcita kāwīn owâbạndạⁿzīn ‘iᵉiᵘ tcipima‘kạmigạnik.</span>
+<span class="l-orig">(41) Mīnawā ānugwä‘kagumu, mīsa’ undcita kāwīn owâbạndạⁿzīn ‘iᵉiᵘ tcipima‘kạmigānik.</span>
 
-<span class="l-fiero">**Miinawaa aano-gwekagomo, mii sa onjida gaawiin owaabandaziin i’iw ji-bimakamigaanig.**</span>
+<span class="l-fiero">**Miinawaa aano-gwekagomo, mii sa onjida gaawiin owaabandaziin i’iw 	ji-bimakamigaanig.**</span>
 
 <span class="l-eng">*Again he vainly tried turning the other way, but, just as before, he did not see the shore-line.*</span>
 
@@ -376,7 +376,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**Wegoneniwinen* ezhi-gashkitood ji-biibaagi: “Mishi-ojiig!”,**</span>
 
-<span class="l-eng">*In distress he called out as loud as he could: “O Great Fisher!”,*</span>
+<span class="l-eng">*In distress he called out as loud as he could: “O Great Fisher!”*</span>
 
 <span class="l-gloss">Wegoneniwinen* ezhi-gashkitood ji-biibaagi (in distress, as loud as he could, he called out — *stem flagged*): “Mishi-ojiig!”, (“O Great Fisher!”)</span>
 
@@ -384,7 +384,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**enigok biibaagi.**</span>
 
-<span class="l-eng">*With a loud voice he called.*</span>
+<span class="l-eng">*with a loud voice he called.*</span>
 
 <span class="l-gloss">enigok biibaagi (with a loud voice he called).</span>
 
@@ -400,7 +400,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**“Mii maawiin a’aw Nenabosho,” inendam.**</span>
 
-<span class="l-eng">*“That must be Nenabosho,” he thought.*</span>
+<span class="l-eng">*“That must be Nänabushu,” he thought.*</span>
 
 <span class="l-gloss">“Mii maawiin a’aw Nenabosho,” (“that must be Nenabosho,”) inendam (he thought).</span>
 
@@ -408,7 +408,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**Biinish igo madwemawiwan iiniw Nenaboshoowan.**</span>
 
-<span class="l-eng">*Then presently (he heard) the voice of Nenabosho crying.*</span>
+<span class="l-eng">*Then presently (he heard) the voice of Nänabushu crying.*</span>
 
 <span class="l-gloss">Biinish igo madwemawiwan iiniw Nenaboshoowan (then presently the sound of Nenabosho crying carried to him).</span>
 
@@ -420,11 +420,11 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-gloss">Aataa, indawaa sa maajiibatoo gichi-enigok (ah, so then he started running at full speed).</span>
 
-<span class="l-orig">(49) Cigwa mạdābiba‘tō Mici∙u∙dcīg, ä‘tawā, Nänabucōwạn nānāwikiˢtcigạmi mạdwämawiwạn.</span>
+<span class="l-orig">(49) Cigwa mạdābība‘tō Mici∙u∙dcīg, ä‘tawā, Nänabucōwạn nānāwikiˢtcigạmi mạdwämawiwạn.</span>
 
-<span class="l-fiero">**Zhigwa madaabiibatoo Mishi-ojiig, edawaa, Nenaboshoowan naanaawi-gichigami madwemawiwan.**</span>
+<span class="l-fiero">**Zhigwa madaabiibatoo Mishi-ojiig, edawaa, Nenaboshoowan naanaawi-gichigami 	madwemawiwan.**</span>
 
-<span class="l-eng">*When the Great Fisher came running out upon (the sea), why, there was Nenabosho to be heard crying exceedingly far out on the water.*</span>
+<span class="l-eng">*When the Great Fisher came running out upon (the sea), why, there was Nänabushu to be heard crying exceedingly far out on the water.*</span>
 
 <span class="l-gloss">Zhigwa madaabiibatoo Mishi-ojiig (when the Great Fisher came running out to the water), edawaa (why), Nenaboshoowan naanaawi-gichigami madwemawiwan (there was Nenabosho heard crying far out in the middle of the sea).</span>
 
@@ -432,7 +432,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**“Zhizhii, indashkaa mii iw aano-gii-onjibwaamid a’aw Nenabosho.”**</span>
 
-<span class="l-eng">*“There, that is on account of Nenabosho’s failing to heed (my words).”*</span>
+<span class="l-eng">*“There, that is on account of Nänabushu’s failing to heed (my words).”*</span>
 
 <span class="l-gloss">“Zhizhii, indashkaa (“there now) mii iw aano-gii-onjibwaamid a’aw Nenabosho.” (that is on account of Nenabosho’s failing to heed — *stem flagged*.)</span>
 
@@ -448,7 +448,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**Ezhi-kweshkwanid mii sa onjida ezhi-ayaanig ziposhkaanig.**</span>
 
-<span class="l-eng">*When over he leaped, then back, as it did before, came (the shores of the sea) togther.*</span>
+<span class="l-eng">*When over he leaped, then back, as it did before, came (the shores of the sea) together.*</span>
 
 <span class="l-gloss">Ezhi-kweshkwanid (when he leaped over — *stem flagged*) mii sa onjida ezhi-ayaanig ziposhkaanig (then back, just as before, the shores came together).</span>
 
@@ -456,7 +456,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**Mii sa zhigwa Nenabosho gii-agwaadaad.**</span>
 
-<span class="l-eng">*Thereupon then Nenabosho came out of the water.*</span>
+<span class="l-eng">*Thereupon then Nänabushu came out of the water.*</span>
 
 <span class="l-gloss">Mii sa zhigwa Nenabosho gii-agwaadaad (and so then Nenabosho came out of the water).</span>
 
@@ -464,19 +464,19 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-fiero">**Geget minwendam Nenabosho.**</span>
 
-<span class="l-eng">*Truly pleased was Nenabosho.*</span>
+<span class="l-eng">*Truly pleased was Nänabushu.*</span>
 
 <span class="l-gloss">Geget minwendam Nenabosho (truly pleased was Nenabosho).</span>
 
-<span class="l-orig">(55) “Āᵃ, Mīci∙u∙dcīg, kägä‘t inạngwạna kimạnidōwⁱ.</span>
+<span class="l-orig">(55) “Āᵃ, Mīci∙u∙dcīg, kägä‘t inạngwạna kimạnidōʷⁱ.</span>
 
 <span class="l-fiero">**“Aa, Mishi-ojiig, geget inangwana gi-manidoow.**</span>
 
-<span class="l-eng">*“Ah, Great Fisher really indeed you are a manitou.*</span>
+<span class="l-eng">*“Ah, Great Fisher! really indeed you are a manitou.*</span>
 
 <span class="l-gloss">“Aa, Mishi-ojiig (“ah, Great Fisher), geget inangwana gi-manidoow (truly indeed you are a manidoo).</span>
 
-<span class="l-orig">(56) Māgicā nīnä‘ta nimạnidōwⁱ nintinäntānābạn.</span>
+<span class="l-orig">(56) Māgicā nīnä‘ta nimạnidōʷⁱ nintinäntānābạn.</span>
 
 <span class="l-fiero">**Maagizhaa niin eta nimanidoow nindinendaanaaban.**</span>
 
@@ -492,26 +492,24 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-gloss">Indawaa sa giin giigazaziikis (accordingly you are the older — *stem flagged*).</span>
 
-<span class="l-orig">(58) Mīsa’ ‘iᵉi’ᵘ kä∙i∙cinạgạninān.”</span>
+<span class="l-orig">(58) Mīsa’ ‘iᵉi’ᵘ kä∙i∙cinạgạninān,”</span>
 
 <span class="l-fiero">**Mii sa i’iw ge-zhinaganinaan.”**</span>
 
-<span class="l-eng">*Therefore shall I now leave you”.*</span>
+<span class="l-eng">*Therefore shall I now leave you.”*</span>
 
 <span class="l-gloss">Mii sa i’iw ge-zhinaganinaan.” (and so now I shall leave you.”)</span>
 
-<span class="l-orig">(59) Nänabucu äjimādcī∙ā∙cạgāmät ‘iᵉi’ᵘ ki‘tcigạmi.</span>
+<span class="l-orig">(59) Nänabucu äjimādci∙ā∙cạgāmät ‘iᵉi’ᵘ ki‘tcigạmi.</span>
 
 <span class="l-fiero">**Nenabosho ezhi-maaji’aazhagaamed i’iw gichi-gami.**</span>
 
-<span class="l-eng">*Nenabosho then went his way along the shore of the sea.*</span>
+<span class="l-eng">*Nänabushu then went his way along the shore of the sea.*</span>
 
 <span class="l-gloss">Nenabosho ezhi-maaji’aazhagaamed i’iw gichi-gami (Nenabosho then went off along the shore of the sea).</span>
 
-(25) Nenabosho and the Great Fisher
+(1) The constellation of the Great Dipper is called the “Fisher star” and this is the Great Fisher referred to here (Jones vol.1, p. 193).
 
-<span class="l-gloss">(1) The constellation of the Great Dipper is called the “Fisher star” and this is the Great Fisher referred to here (Jones vol.1, p. 193).</span>
-
-<span class="l-gloss">(2) The passage is given literally. The sense is “being older, you are a greater manitou than I”, (Jones vol. 1, p. 197).</span>
+(2) The passage is given literally. The sense is “being older, you are a greater manitou than I”, (Jones vol. 1, p. 197).
 
 </div>

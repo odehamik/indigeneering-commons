@@ -145,6 +145,6 @@ MAGIC PAINT.
 
 <span class="l-eng">*That is the danger of that sort of medicine, that which is called “magic paint.”*</span>
 
-<span class="l-gloss">Mii iw ezhi-naniizaang i’iw doowa mashkiki (that is the danger of that kind of medicine) i’iw “onaman” edaming (the one called “onaman”). [resolves flag: onaman = magic paint / love-&-hunting medicine]</span>
+<span class="l-gloss">Mii iw ezhi-naniizaang i’iw doowa mashkiki (that is the danger of that kind of medicine) i’iw “onaman” edaming (the one called “onaman”).  [resolves flag: onaman = magic paint / love-&-hunting medicine]</span>
 
 </div>

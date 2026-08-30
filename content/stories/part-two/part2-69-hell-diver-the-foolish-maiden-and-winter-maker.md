@@ -63,7 +63,7 @@ HELL-DIVER, THE FOOLISH MAIDEN, AND WINTER-MAKER.
 
 <span class="l-orig">(6) “Tạgaskumāguta, kạnōc!” udinān.</span>
 
-<span class="l-fiero">**“Daga[skumaaguda], ganoozh!” odinaan. [opening particle cluster FLAGGED — see §18 same form]**</span>
+<span class="l-fiero">**“Daga[skumaaguda], ganoozh!” odinaan.   [opening particle cluster FLAGGED — see §18 same form]**</span>
 
 <span class="l-eng">*“Oh, do please speak to it!” she said to him.*</span>
 

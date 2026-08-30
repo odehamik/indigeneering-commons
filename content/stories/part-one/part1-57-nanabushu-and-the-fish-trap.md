@@ -11,7 +11,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 (Ojibwe title not printed in 1917 — left for M.)
 
-57. NÄNABUSHU AND THE FISH-TRAP.
+57\. NÄNABUSHU AND THE FISH-TRAP.
 
 <span class="l-eng">*Narrated by Mrs. Syrette — Series 8 (Nos. 57–63), Fort William (per Michelson’s roster, Part I Preface p. XX; not credited on the story page itself).*</span>
 
@@ -77,7 +77,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *mītạgic and the kā∙i∙ci’pạn preterite construction are both flagged (no direct lexicon form found for either). tcipīntcibōnāgạni’käyān continues the fish-trap flag (57-FT1).*
 
-<span class="l-orig">(7) Māgicā nō‘kumis aiyä‘kusitug pạnä wiyās mīdcît,” inändạm Nänabucō.</span>
+<span class="l-orig">(7) Māgicā nō‘kumis aiyä‘kusitug pạnä wīyās mīdcît,” inändạm Nänabucō.</span>
 
 <span class="l-fiero">**Maagizhaa nookomis ayekozidog pane wiiyaas miijid,” inendam Nenabozho.**</span>
 
@@ -123,7 +123,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *Ki’tcinänībiwa is flagged: the rarer nänībiwa/nenibiwa variant (1 hit) is used rather than the common nibiwa/niibiwa (13+ hits). kînīni’ku has no lexicon match at all and is flagged as an unresolved particle.*
 
-<span class="l-orig">(12) Mīdec kägä‘t Nänabucō mādci‘tād uji∙ā∙t pīndcibōnāgạnạn, kiˢtcimi‘tigōn udayāwatcinigānān, wâsa kayä udōndāwạnān, wīsōngi‘tōd upīndcibōnāgạnan. Mīdạc kā‘kīci∙ā∙t windạmawāt ō‘kumisạn, mīdạc änāt: “Mī, nō‘kumis, kī‘kīci∙a∙g pīndcibōnāgạn, mīdạc kiⁿgōⁿ tci∙ạ∙mwat,” udinān ō‘kumisạn.</span>
+<span class="l-orig">(12) Mīdec kägä‘t Nänabucō mādci‘tād uji∙ā∙t pīndcibōnāgạnạn, kiˢtcimi‘tigōn udayāwatcinigānān, wâsa kayä udōndāwạnān, wīsōngi‘tōd upīndcibōnāgạnan. Mīdạc kā‘kīci∙ā∙t wīndạmawāt ō‘kumisạn, mīdạc änāt: “Mī, nō‘kumis, kī‘kīci∙a∙g pīndcibōnāgạn, mīdạc kīⁿgōⁿ tci∙ạ∙mwat,” udinān ō‘kumisạn.</span>
 
 <span class="l-fiero">**Mii dash geget Nenabozho maajitaad ozhiaad biinjibonaaganan, gichi-mitigoon odayaawachiniganaan, waasa gaye odoondaawanaan, wiizoongitood obiinjibonaaganan. Mii dash gaa-giizhi’aad wiindamawaad ookomisan, mii dash enaad: “Mii, nookomis, gii-giizhi’ag biinjibonaagan, mii dash giigoonh ji-amwad,” odinaan ookomisan.**</span>
 
@@ -143,7 +143,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *Ayaᵉ is a print variant of section 9’s Äyäᵉ (both fall in the attested eya’ family, count 4+2+1); rendered to the same Fiero target, spelling difference noted rather than leveled.*
 
-<span class="l-orig">(14) Mīdạc weyābaninig Nänabucu kī∙a∙wiwâbạmāt upīndcibōnāgạnạn, nībawa dạc kiⁿgōⁿyạn kīpīndcipōsōwạn; mīdạc Nänabucu kī‘kīwäwạnät.</span>
+<span class="l-orig">(14) Mīdạc weyābaninig Nänabucu kī∙a∙wiwâbạmāt upīndcibōnāgạnạn, nībawa dạc kīⁿgōⁿyạn kīpīndcipōsōwạn; mīdạc Nänabucu kī‘kīwäwạnät.</span>
 
 <span class="l-fiero">**Mii dash weyaabaninig Nenabozho gii-awi-waabamaad obiinjibonaaganan, niibawa idash giigoonyan gii-biinjibosowan; mii dash Nenabozho gii-giiwewanaad.**</span>
 
@@ -161,7 +161,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Eni-ayaad idash besho (and as he was drawing near), ani-ikido Nenabozho (Nenabozho went along, saying): “Nookomis! (O my grandmother!)</span>
 
-<span class="l-orig">(16) nībawa kiⁿgōyạg mingīnisāg,” i‘kitō.</span>
+<span class="l-orig">(16) nībawa kīⁿgōyạg mingīnisāg,” i‘kitō.</span>
 
 <span class="l-fiero">**Niibawa giigoonyag ningii-nisaag,” ikido.**</span>
 
@@ -181,7 +181,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *kiˢtciminwändạnk carries a raised superior ˢ, an open HARD flag class; carried verbatim, not converted — see flags. mindimōyä rendered mindimooye, the dominant lexicon form (55 of 66 attestations). The raised superior ˢ Jones prints in this word is carried in the Jones layer only and given no Fiero value — the ˢ family is an open HARD flag on M.’s docket.*
 
-<span class="l-orig">(18) Mīdạc a∙ī∙ndāwāt, nībiwa kiⁿgōyạn Nänabucu onisān.</span>
+<span class="l-orig">(18) Mīdạc a∙ī∙ndāwāt, nībiwa kīⁿgōyạn Nänabucu onisān.</span>
 
 <span class="l-fiero">**Mii dash endaawaad, niibiwa giigoonyan Nenabozho onisaan.**</span>
 
@@ -195,7 +195,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-fiero">**Ningoding idash igo megwaa naanji-biinjiboonaganed, onoondawaan awiya binoondaagozinid, inwenid “— ˊ— —, — ˊ— —!”**</span>
 
-<span class="l-eng">*And now, once on a time while he was out hunting for fish at his traps, he heard the approaching sound of some creature. The sound it uttered was: “- —, - -!”*</span>
+<span class="l-eng">*And now, once on a time while he was out hunting for fish at his traps, he heard the approaching sound of some creature. The sound it uttered was: “— ˊ— —, — ˊ— —!”*</span>
 
 <span class="l-gloss">ningoding idash igo (and now, once upon a time), megwaa (while), naanji-biinjiboonaganed (he was out at his fish-trap; flagged compound), onoondawaan (he heard it approaching), awiya (some creature), binoondaagozinid (it was heard coming), inwenid (the sound it made was) “— ˊ— —, — ˊ— —!” (vocable, carried verbatim, unresolved notation).</span>
 
@@ -205,7 +205,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-fiero">**Ezhi-inaabid Nenabozho, andotang, wii-gechinaawod wegonen gaa-inwenig; megwaa dash andotang zezika onoondawaan gechi-beshoo: “Tcike tcike, tcik” gaye dash miinawaa dibishkoo: “— ˊ— —, — ˊ— —!”**</span>
 
-<span class="l-eng">*Up Nänabushu looked, he listened for it, for he wanted to be sure of what was making the noise; and while he listened for it, suddenly he heard it very close: “Tcike, tcike, tcik!” And then again the same: “ — — —, - -!”*</span>
+<span class="l-eng">*Up Nänabushu looked, he listened for it, for he wanted to be sure of what was making the noise; and while he listened for it, suddenly he heard it very close: “Tcike, tcike, tcik!” And then again the same: “— ˊ— —, — ˊ— —!”*</span>
 
 <span class="l-gloss">ezhi-inaabid (up he looked), Nenabozho (Nänabushu), andotang (he listened for it), wii-gechinaawod (he wanted to be sure of it; flagged), wegonen (what), gaa-inwenig (that was making the sound); megwaa dash andotang (and while he listened), zezika (suddenly; flagged), onoondawaan (he heard it), gechi-beshoo (very close), “Tcike tcike, tcik” (vocable/cry, carried verbatim), gaye dash miinawaa (and then again), dibishkoo (the same), “— ˊ— —, — ˊ— —!” (vocable, carried verbatim, unresolved notation).</span>
 
@@ -245,7 +245,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-fiero">**“‘— ˊ— —, — ˊ— —!’ mii anwed,” odinaan.**</span>
 
-<span class="l-eng">*“ ‘— —, - -!‘ was the way it sounded,” he said to her.*</span>
+<span class="l-eng">*“ ‘— ˊ— —, — ˊ— —!’ was the way it sounded,” he said to her.*</span>
 
 <span class="l-gloss">[vocable, carried verbatim] (the sound it made), mii anwed (that is how it sounded), odinaan (he said to her).</span>
 
@@ -271,7 +271,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *kīnạndudamāg rendered gii-nandodamaag by analogy with ānạgīnạdutạmāgä→aanagii-nandodamaage. tci∙a∙cạmạt rendered ji-ashamad on the exact stem match ạcạmāt→ashamaad; pā∙u∙ndcī∙i∙nwät is compositional only, no exact match.*
 
-<span class="l-orig">(27) Kiⁿgōⁿyạn acạm,” udinān.</span>
+<span class="l-orig">(27) Kīⁿgōⁿyạn acạm,” udinān.</span>
 
 <span class="l-fiero">**Giigoonyan asham,” odinaan.**</span>
 
@@ -281,7 +281,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *acạm rendered asham on the attested stem ạcạmāt→ashamaad. The imperative shape is inferred from the stem, not separately lexicon-attested.*
 
-<span class="l-orig">(28) Mīdạc kägä‘t Nänabucu utā‘pināt kiⁿgōⁿyaᵉ, pạginat ānīndi ina‘kakäyā kā‘tạni‘tạng.</span>
+<span class="l-orig">(28) Mīdạc kägä‘t Nänabucu utā‘pināt kīⁿgōⁿyaᵉ, pạginat ānīndi ina‘kakäyā kā‘tạni‘tạng.</span>
 
 <span class="l-fiero">**Mii dash geget Nenabozho odaapinaad giigoonya’, baginad aaniindi inakakeyaa gaa-tanitang.**</span>
 
@@ -291,7 +291,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *utā‘pināt rendered odaapinaad on the near-exact match äci∙ō∙tā‘pināt→ezhi-odaapinaad. pạginat and kā‘tạni‘tạng are flagged — see flags.*
 
-<span class="l-orig">(29) Mīdạc minawā weyābạninig Nänabucu nāndcipīndcibōbāgạnät, mī mīnawā awiya kīnōndawāt nōdāgusinit. Mīdạc kā∙i∙cipạginät kīⁿgōⁿyạn ändạni‘tạng, mi‘kwändạnk ō‘kumisạn kā∙i∙gut pîtcīnāgō.</span>
+<span class="l-orig">(29) Mīdạc minawā weyābạninig Nänabucu nāndcipīndcibōbāgạnät, mī mīnawā awiya kīnōndawāt nōdāgusinit. Mīdạc kā∙i∙cipạgināt kīⁿgōⁿyạn ändạni‘tạng, mi‘kwändạnk ō‘kumisạn kā∙i∙gut pîtcīnāgō.</span>
 
 <span class="l-fiero">**Mii dash miinawaa weyaabaninig Nenabozho naanji-biinjiboobaaganed, mii miinawaa awiya gii-noondawaad noodaagosinid. Mii dash gaa-izhi-baginet giigoonyan endanitang, mikwendang ookomisan gaa-igod bichiinaagoo.**</span>
 
@@ -403,13 +403,13 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-fiero">**Ninguding idash giiwenh ayaawaad miinawaa Nenabozho awiya onoondawaan bi-noondaagozinid, bi-inwenid: “Kō‘kōko’ho, Kō‘kōko’hō!”**</span>
 
-<span class="l-eng">*And once they say that while they were living (there), again Nänabushu heard something making a noise as it approached, as it came, (and) it made the sound: “Kō‘kōko‘hō, kō‘kōko‘hō!”*</span>
+<span class="l-eng">*And once they say that while they were living (there), again Nänabushu heard something making a noise as it approached, as it came, (and) it made the sound: “Kō‘kōko’hō, kō‘kōko’hō!”*</span>
 
 <span class="l-gloss">Ninguding idash (and once) giiwenh (they say) ayaawaad (while they were living there — reading uncertain, see flag) miinawaa (again) Nenabozho (Nenabozho) awiya (something) onoondawaan (he heard it) bi-noondaagozinid (as it was heard approaching), bi-inwenid (as it came sounding — reading uncertain, see flag): “Kō‘kōko’ho, Kō‘kōko’hō!” (owl-cry, carried verbatim from Layer 1).</span>
 
 *Ningudingdạc matched the near-identical lexicon entry ningudingidạc→ningoding idash (count29). a∙ī∙ndawāt and pī∙i∙nwänit flagged — see 57-H9, 57-H10; Kō‘kōko’ho/Kō‘kōko’hō carried verbatim as an owl-cry vocable.*
 
-<span class="l-orig">(41) Nänabucu nawạtcipinät kīⁿgōⁿyaᵉ, minawā ạniwucācākucing.</span>
+<span class="l-orig">(41) Nänabucu nawạtcipināt kīⁿgōⁿyaᵉ, minawā ạniwucācākucing.</span>
 
 <span class="l-fiero">**Nenabozho nawadishibined giigoonya’, minawaa aniwozhaazhaakozhing.**</span>
 
@@ -441,13 +441,13 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-fiero">**Mii dash Nenabozho ezhi-naabowed: “Kō‘kōko’hō, kō‘kōko’ho.”**</span>
 
-<span class="l-eng">*And then Nänabushu mocked the cry: “Kō‘kōko‘hō, kō‘kōko‘hō!”*</span>
+<span class="l-eng">*And then Nänabushu mocked the cry: “Kō‘kōko’hō, kō‘kōko’hō!”*</span>
 
 <span class="l-gloss">Mii dash (and then) Nenabozho (Nenabozho) ezhi-naabowed (mimicked the cry — reading uncertain, see flag): “Kō‘kōko’hō, kō‘kōko’ho.” (owl-cry, carried verbatim from Layer 1).</span>
 
 *äjinābuwät flagged — see 57-H13. Kō‘kōko’hō/kō‘kōko’ho carried verbatim as an owl-cry vocable, per §40.*
 
-<span class="l-orig">(45) “Ōu!”</span>
+<span class="l-orig">(45) “Ōᵘ!”</span>
 
 <span class="l-fiero">**“Ōu!”**</span>
 
@@ -467,7 +467,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *mindamōyä is rendered mindamooye, a one-vowel print variant of mindimōyä (§54/58/60), not leveled to it.*
 
-<span class="l-orig">(47) “Kō‘koko’ho udinawâbanîn kicicäⁿyabạnīg.</span>
+<span class="l-orig">(47) “Kō‘koko’ho udinawâbanīn kicicäⁿyabạnīg.</span>
 
 <span class="l-fiero">**“Kō‘koko’ho odinaawaabanin gizhishenyabanig.**</span>
 
@@ -657,7 +657,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *nōndawā is derived from a single first-person lexicon analog (ninōndawā → ninoondawaa), not an exact row.*
 
-<span class="l-orig">(67) “Ānin änwät, nōcis?”</span>
+<span class="l-orig">(67) “Ānīn änwät, nōcis?”</span>
 
 <span class="l-fiero">**“Aaniin enwed, noozhis?”**</span>
 
@@ -675,7 +675,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *Ha-ha-ha-ha-ha-ha carried verbatim from Layer 1 per the vocable rule. mī∙ä∙nwät uses an unrecognized hiatus pattern (∙ä∙, not the given ∙i∙); best-candidate rendering — flagged.*
 
-<span class="l-orig">(69) “A, nōjis, mi tcinibuyạng!”</span>
+<span class="l-orig">(69) “A, nōjis, mī tcinibuyạng!”</span>
 
 <span class="l-fiero">**“A, noozhis, mii ji-niboyang!”**</span>
 
@@ -695,7 +695,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *ojisạn lacks the long-vowel marking seen on the same word in section 75 (ōjisan → oozhisan). Rendered per this section’s own printed form — flagged for a scan check.*
 
-<span class="l-orig">(71) “Wäwip, nō‘kumis, ujī‘tām, kīgamādcāmin!” udinān.</span>
+<span class="l-orig">(71) “Wäwīp, nō‘kumis, ujī‘tām, kīgamādcāmin!” udinān.</span>
 
 <span class="l-fiero">**“Wewiib, nookomis, ozhiitaan, gigad-maajaamin!” odinaan.**</span>
 
@@ -715,7 +715,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *nạningīwizit is unattested anywhere in the lexicon; rendered by character rule only — flagged.*
 
-<span class="l-orig">(73) Mīdạc wäwip cayīgwa wī∙u∙mbōmāt Nänabucu ō‘kumisạn. Mīdạc änāt: “‘Āᵘ, kīga∙u∙mbōmin,” udinān ō‘kumisạn.</span>
+<span class="l-orig">(73) Mīdạc wäwīp cayīgwa wī∙u∙mbōmāt Nänabucu ō‘kumisạn. Mīdạc änāt: “‘Āᵘ, kīga∙u∙mbōmin,” udinān ō‘kumisạn.</span>
 
 <span class="l-fiero">**Mii dash wewiib zhayiigwa wii-ombomaad Nenabozho ookomisan. Mii dash enaad: “ ‘Āᵘ, gigad-ombomin,’ ” odinaan ookomisan.**</span>
 
@@ -733,7 +733,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">Mii dash (and so) geget (that was truly what happened).</span>
 
-<span class="l-orig">(75) Mīdạc änä‘t ōjisan: “Nạmä‘tägumạg!”</span>
+<span class="l-orig">(75) Mīdạc änā‘t ōjisan: “Nạmä‘tägumạg!”</span>
 
 <span class="l-fiero">**Mii dash enaad oozhisan: “Nametegomag!”**</span>
 
@@ -743,11 +743,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *nạmä‘tägumạg has no lexicon support; rendered by mechanical character rule only. The corrected pairing confirms the sense as ’dried fish,’ but the Fiero string remains unconfirmed — flagged.*
 
-<span class="l-orig">(76) “Mānū, gägu pạbāmänimä‘kạn!”</span>
+<span class="l-orig">(76) “Mānū, gägu pạbāmänimā‘kạn!”</span>
 
 <span class="l-fiero">**“Maanoo, gego babaamenimaa’kan!”**</span>
 
-<span class="l-eng">*“Never mind, don‘t bother about them!”*</span>
+<span class="l-eng">*“Never mind, don’t bother about them!”*</span>
 
 <span class="l-gloss">maanoo (never mind), gego (don’t), babaamenimaa’kan (bother about them)</span>
 
@@ -763,11 +763,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 *Merges the two lines previously split across the old §76/§77 into one section, now correctly paired with Jones’s printed English. minawaa (not miinawaa) per this page’s short-i print form, preserved as printed.*
 
-<span class="l-orig">(78) Mīdạc kägä‘t Nänabucu ājäpạgisut, awinawatinät ō‘kumisạn ugaskipitāgạnini.</span>
+<span class="l-orig">(78) Mīdạc kägä‘t Nänabucu ājäpạgisut, awinawatināt ō‘kumisạn ugaskipitāgạnini.</span>
 
 <span class="l-fiero">**Mii dash geget Nenabozho azhebagizod, awi-nawadinaad ookomisan ogashkibidaaganini.**</span>
 
-<span class="l-eng">*Thereupon truly back Nänabushu hurried, as he went and seized his grandmother‘s tobacco-pouch.*</span>
+<span class="l-eng">*Thereupon truly back Nänabushu hurried, as he went and seized his grandmother’s tobacco-pouch.*</span>
 
 <span class="l-gloss">mii dash (thereupon), geget (truly), Nenabozho (Nenabozho), azhebagizod (he hurried/ran back — root not corpus-attested, see flag), awi-nawadinaad (he went and seized [it]), ookomisan (his grandmother’s), ogashkibidaaganini (her tobacco-pouch)</span>
 
@@ -801,7 +801,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">mii dash (now), Nenabozho (Nenabozho), maajaad (as he started off), maaji-nizhimod (he began singing)</span>
 
-<span class="l-orig">(82) Mīnạngwana wīn kā∙i∙ji∙u∙nä‘kunigäwāt ändaswạwānạgisiwāt mini‘kigu nä‘tā∙ạ∙mwāt kiⁿgōⁿyạn.</span>
+<span class="l-orig">(82) Mīnạngwana wīn kā∙i∙ji∙u∙nā‘kunigäwāt ändaswạwānạgisiwāt mini‘kigu nä‘tā∙ạ∙mwāt kīⁿgōⁿyạn.</span>
 
 <span class="l-fiero">**Miinangwana wiin gaa-izhi-onaakonigewaad endazwawaanagiziwaad minikigo netaa-amwaad giigoonyan.**</span>
 
@@ -849,7 +849,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-gloss">mii dash (thereupon), miinawaa (again), aanind (some others), gii-anoonindwaa (they were next employed)</span>
 
-<span class="l-orig">(87) Mīdạc awä päji‘k iskwātc kā∙i∙jāt mīdạc awä sīgwạnikō‘kō‘ko∙ō∙n kāsägimigut Nänabucō; mīdạc īni’ᵘ kā∙u∙ndcinagadcinicindạnk upīndcibōnāgạn. Mīdạc wīnawā kīmēyāwisiwāt ạnōdcigu aiya∙ā∙wicänsạg kīwīsiniwāt imāⁿ.</span>
+<span class="l-orig">(87) Mīdạc awä päji‘k îskwātc kā∙i∙jāt mīdạc awä sīgwạnikō‘kō‘ko∙ō∙n kāsägimigut Nänabucō; mīdạc īni’ᵘ kā∙u∙ndcinagadcinicindạnk upīndcibōnāgạn. Mīdạc wīnawā kīmēyāwisiwāt ạnōdcigu aiya∙ā∙wicänsạg kīwīsiniwāt imāⁿ.</span>
 
 <span class="l-fiero">**Mii dash awe bezhig ishkwaaj gaa-izhaad mii dash awe ziigwani-gookooko’oon gaa-zegimigod Nenabozhoo; mii dash iniw gaa-onji-nagajinizhindang obiinjiboonaagan. Mii dash wiinawaa gii-meyaawiziwaad anoojigo aiyaawizhenzag gii-wiisiniwaad imaan.**</span>
 

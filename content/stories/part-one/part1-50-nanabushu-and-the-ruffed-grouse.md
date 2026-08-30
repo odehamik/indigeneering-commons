@@ -154,6 +154,4 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-gloss">Miinawaa (again) mitigoonsan (the shrubs) ogii-ani-minjiminaan (he went grabbing hold of as he passed). „Miskwaabiimagoog (red willows) giga-digoom (you shall be called) ji-ani-akiiwang (till the end of the world).”</span>
 
-(50) Nänabushu and the Ruffed Grouse
-
 </div>

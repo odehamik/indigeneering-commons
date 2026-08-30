@@ -21,15 +21,15 @@ Nenabosho and the Cranberries (2)
 
 <span class="l-fiero">**Mii sa Nenabosho eni-izhi-maajaad, eniwek ogashkitoon ji-mino-bimosed.**</span>
 
-<span class="l-eng">*Accordingly, when Nenabosho departed on his way, hardly was he able to walk with any comfort.*</span>
+<span class="l-eng">*Accordingly, when Nänabushu departed on his way, hardly was he able to walk with any comfort.*</span>
 
 <span class="l-gloss">Mii sa Nenabosho (and so Nenabosho) eni-izhi-maajaad (as he set off on his way), eniwek ogashkitoon (he was just barely able) ji-mino-bimosed (to walk comfortably).</span>
 
-<span class="l-orig">(2) Kumāgu a‘pī tägucing sībīns umạtābīn; inābit pạnägu ạnībiminạn; kāmiskwa‘kubānig mīgu ᵉiᵘ änijināzi‘kạng.</span>
+<span class="l-orig">(2) Kumāgu a‘pī tägucing sībīns umạtābīn; inābit pạnägu ạnībiminạn; kāmiskwa‘kubānig mīgu ᵉiᵘ änījināzi‘kạng.</span>
 
 <span class="l-fiero">**Gomaa go apii degoshing ziibiins omadaabiin; inaabid pane go aniibiminan; gaa-miskwaakobaanig mii go iw eniizhinaazikang (eni-zhi-naazkang).**</span>
 
-<span class="l-eng">*After he was come a certain distance, he came upon a brook; while looking about, (he saw) nothing but high-bush cranberries, and that they were of red kind of bush.*</span>
+<span class="l-eng">*After he was come a certain distance, he came out upon a brook; while looking about, (he saw) nothing but high-bush cranberries, and that they were of a red kind of bush.*</span>
 
 <span class="l-gloss">Gomaa go apii degoshing (when he had come a certain distance) ziibiins omadaabiin (he came down upon a brook); inaabid (as he looked about) pane go aniibiminan (nothing but high-bush cranberries); gaa-miskwaakobaanig (where the brush was of a red kind) mii go iw eniizhinaazikang (eni-zhi-naazkang) (that is what he made his way toward).</span>
 
@@ -45,7 +45,7 @@ Nenabosho and the Cranberries (2)
 
 <span class="l-fiero">**Wikwetigweyaanig Nenabosho ozhigaabawi ziibiins; inaabid anaambiig mii dash geget waabandang aniibiminan i’iwidi agawaatebiigisininig.**</span>
 
-<span class="l-eng">*By the bend of the brook Nenabosho went and took his stand; while looking into the stream, he then of course saw high-bush cranberries reflected yonder in the water.*</span>
+<span class="l-eng">*By the bend of the brook Nänabushu went and took his stand; while looking into the stream, he then of course saw high-bush cranberries reflected yonder in the water.*</span>
 
 <span class="l-gloss">Wikwetigweyaanig (at the bend of the stream) Nenabosho ozhigaabawi ziibiins (Nenabosho took his stand by the brook); inaabid anaambiig (as he looked down into the water) mii dash geget waabandang aniibiminan (then truly he saw high-bush cranberries) i’iwidi agawaatebiigisininig (reflected yonder in the water).</span>
 
@@ -53,7 +53,7 @@ Nenabosho and the Cranberries (2)
 
 <span class="l-fiero">**Nenabosho ezhi-giigidod: “Daga, miwaniwedi ge-miijiyaanan.”**</span>
 
-<span class="l-eng">*Nenabosho then spoke up: Why, these are the ones I will eat.”*</span>
+<span class="l-eng">*Nänabushu then spoke up: “Why, these are the ones I will eat.”*</span>
 
 <span class="l-gloss">Nenabosho ezhi-giigidod (Nenabosho then spoke up): “Daga (“come now), miwaniwedi ge-miijiyaanan.” (those over there are the ones I will eat.”)</span>
 
@@ -77,7 +77,7 @@ Nenabosho and the Cranberries (2)
 
 <span class="l-fiero">**Inaabid, ediwe, mii sa onjida aniibiminan waabandang anaambiig; mii go miinawaa jiigakwebagizod, ediwe Nenabosho ezhi-gichi-giizhkiingweshing.**</span>
 
-<span class="l-eng">*As he looked, why, he was bound to see high-bush cranberries down in the water; and so when he again dived into the water, poor Nenabosho fell upon his face, cutting a great gash.*</span>
+<span class="l-eng">*As he looked, why, he was bound to see high-bush cranberries down in the water; and so when he again dived into the water, poor Nänabushu fell upon his face, cutting a great gash.*</span>
 
 <span class="l-gloss">Inaabid, ediwe (as he looked, why), mii sa onjida aniibiminan waabandang anaambiig (sure enough he saw high-bush cranberries down in the water); mii go miinawaa jiigakwebagizod (and so again he dived in toward the edge), ediwe Nenabosho ezhi-gichi-giizhkiingweshing (and poor Nenabosho fell hard, gashing his face).</span>
 
@@ -117,7 +117,7 @@ Nenabosho and the Cranberries (2)
 
 <span class="l-fiero">**Tayaa, geget aapiji sa minwendam.**</span>
 
-<span class="l-eng">*Ah, truly was he pleased.*</span>
+<span class="l-eng">*Ah, truly was he highly pleased.*</span>
 
 <span class="l-gloss">Tayaa, geget aapiji sa minwendam (ah, truly indeed he was pleased).</span>
 
@@ -137,6 +137,6 @@ Nenabosho and the Cranberries (2)
 
 <span class="l-gloss">Mii dash geget weweni (and so truly, nicely) gashkitood bimosed (he was able to walk).</span>
 
-(21) Nenabosho and the Cranberries
+(1) For another version see Nos. 13 and 59.
 
 </div>

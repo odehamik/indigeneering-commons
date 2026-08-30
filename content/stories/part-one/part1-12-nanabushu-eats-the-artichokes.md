@@ -27,7 +27,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(2) “Ānīn äcini‘kāsuyäg?” ugī∙i∙nāᵉ. “Kunigä kitamugūmwātug?”</span>
 
-<span class="l-fiero">**“Aaniin ezhinikaazoyeg?” ogii-inaa’. “Gonige gidamogoomwaadog?”**</span>
+<span class="l-fiero">**“Aaniin ezhinikaazoyeg?” ogii-inaa’.  “Gonige gidamogoomwaadog?”**</span>
 
 <span class="l-eng">*“What are you called?” he said to them. “Wonder if you may be eaten for food !”*</span>
 
@@ -35,7 +35,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(3) “Äyeᵉ,” ugī∙i∙gōᵉ. Mīdạc kā∙i∙gut: “Äyeᵉ, kägät nintạmugōmin.”</span>
 
-<span class="l-fiero">**“Eye’,” ogii-igoo’. Mii dash gaa-igod: “Eye’, geget nindamogoomin.”**</span>
+<span class="l-fiero">**“Eye’,” ogii-igoo’.  Mii dash gaa-igod: “Eye’, geget nindamogoomin.”**</span>
 
 <span class="l-eng">*“Yes,” he was told. Now, this was what he was told: “Yes, truly we are eaten for food.”*</span>
 
@@ -81,7 +81,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-gloss">Mii dash apii ani-mamaajaad (and so then he went on his way again).</span>
 
-<span class="l-orig">(9) Ningutingigu ạnipạpimusät pāmāgu tātānāming, “Pōⁿᵉ!” inwänit äcimādcīpa‘tōt,</span>
+<span class="l-orig">(9) Ningutingigu ạnipạpimusät pāmāgu tātānāming, “Pōⁿᵉ!” inwänit. Äcimādcīpa‘tōt,</span>
 
 <span class="l-fiero">**Ningoding igo ani-babimosed baamaa go daadaanaaming, “Boo’!” inwenid ezhi-maajiipatood,**</span>
 
@@ -105,7 +105,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-gloss">Waasa begamibatood (far off was he getting as he ran).</span>
 
-<span class="l-orig">(12) Mägwāgu mīnawā ạnipạpimusät, “Pōᵉ!” inwäwạn awiya, äci∙ā∙pạmipạgisut, “Awänän kā∙i∙nwät?” kī∙i∙nändạm.</span>
+<span class="l-orig">(12) Mägwāgu mīnawā ạnipạpimusät, “Pōᵉ!” inwäwạn awiya, äci∙ā∙pạmipạgisut, “Awänän kā∙i∙nwät?” kī∙i∙näntạm.</span>
 
 <span class="l-fiero">**Megwaa go miinawaa ani-babimosed, “Boo’!” inwewan awiya, ezhi-abamibagizod, “awenen gaa-inwed?” gii-inendam.**</span>
 
@@ -145,7 +145,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-gloss">Mii sa zegizid (thereupon he became afraid). “Ambe sa noo (“well now), ninga-akamawaa (I will lie in wait for) a’aw gaa-inwed,” (the one that made the sound,”) gii-inendam (he thought).</span>
 
-<span class="l-orig">(17) Aci∙a∙‘kandwādạnk ‘iᵉi’ᵘ umi‘kana; mīsạgu kīci∙a∙cägīwä, mīdạc imāⁿ wänsābạndạnk ‘iᵉi’ᵘ umi‘kạna.</span>
+<span class="l-orig">(17) Aci∙a∙‘kandwādạnk ‘iᵉi’ᵘ umī‘kana; mīsạgu kīci∙a∙cägīwä, mīdạc imāⁿ wänsābạndạnk ‘iᵉi’ᵘ umī‘kạna.</span>
 
 <span class="l-fiero">**Ezhi-akandwaadang i’iw omiikana; mii sa go gii-zhi-azhe-giiwe, mii dash imaa wenzaabandang i’iw omiikana.**</span>
 
@@ -161,7 +161,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-gloss">Baanimaa go miinawaa (suddenly again) obikwanaang owiya (at his back, someone) nwaandawaad (he heard).</span>
 
-<span class="l-orig">(19) Mīsa’ untcita änwänit, “Pōⁿᵉ!” Äcipạsiguntcisät.</span>
+<span class="l-orig">(19) Mīsa’ untcita änwänit. “Pōⁿᵉ!” Äcipạsiguntcisät.</span>
 
 <span class="l-fiero">**Mii sa onjida enwenid, “poonh’!’ ezhi-bazigonjised.**</span>
 
@@ -173,7 +173,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-fiero">**“Da-baapiniziwaagan, awenesh wa’aw beminisha’ogwen! Gechi-manidoowigwen,” gii-inendam ezhi-maajiibatood gichi-enigok.**</span>
 
-<span class="l-eng">*“For goodness sake! Wonder who it is that may be following me! It must be a great manitou being,” he thought as he started running at the very top of his speed.*</span>
+<span class="l-eng">*“For goodness sake! wonder who it is that may be following me! It must be a great manitou being,” he thought as he started running at the very top of his speed.*</span>
 
 <span class="l-gloss">“Da-baapiniziwaagan (“for goodness sake), awenesh wa’aw (who is this) beminisha’ogwen! (that may be following me!) Gechi-manidoowigwen,” (it must be a great manidoo being,”) gii-inendam (he thought) ezhi-maajiibatood gichi-enigok (as he started running at full speed).</span>
 
@@ -201,7 +201,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-gloss">Baanimaa go miinawaa (and later again) i’iwidi obikwanaang (from yonder at his back) wenji-noondaagozinid (where the sound of someone was heard), “Poonh!” (“Po!”)</span>
 
-<span class="l-orig">(24) “Tabā‘pinisiwāgạn!” inändạm äcimādcīpa‘tōt.</span>
+<span class="l-orig">(24) “Tabā‘pinisiwāgan!” inändạm äcimādcīpa‘tōt.</span>
 
 <span class="l-fiero">**“Da-baapiniziwaagan!” inendam ezhi-maajiibatood.**</span>
 
@@ -217,7 +217,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-gloss">Mii go imaa maajiibatood (and there where he started running), miinawaa, “Poonh!” (again, “Po!”)</span>
 
-<span class="l-orig">(26) “Tabā‘pinisiwāgạn!” inändạm änigu‘k äjimādcīpa‘tōt;</span>
+<span class="l-orig">(26) “Tabā‘pinisiwāgan!” inändạm änigu‘k äjimādcīpa‘tōt;</span>
 
 <span class="l-fiero">**“Da-baapiniziwaagan!” inendam enigok ezhi-maajiibatood;**</span>
 
@@ -249,15 +249,17 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-gloss">Gegapii go endaso-bangishing (then finally at every step he took), “poonh, poonh, poonh, poonh, poonh!” (“Po, po, po, po, po!”)</span>
 
-<span class="l-orig">(30) — “Mīdạc ‘iᵉi’ᵘ mī‘tagini’ᵘ kā∙i∙ciwāt nicīmäyạgsa kībiwâbamạgwā īgi’ⁿ ackipwāg.¹ ‘Nimpōgisi‘kākämin,’ ningī∙i∙gōg.</span>
+<span class="l-orig">(30) — “Mīdạc ‘iᵉi’ᵘ mī‘tagīni’ᵘ kā∙i∙ciwāt nicīmäyạgsa kībiwâbamạgwā īgi’ⁿ ackipwāg.¹ ‘Nimpōgisi‘kākämin,’ ningī∙i∙gōg.</span>
 
 <span class="l-fiero">**Mii dash i’iw miitagiini’w gaa-izhiwaad nishiimeyag sa gii-bi-waabamagwaa igi’n ashkipwaag. ‘nimboogizikaagemin,’ ningii-igoog.**</span>
 
-<span class="l-eng">*“Why, this was just what my little brothers told me when I saw the artichokes. ‘We make people windy in the stomach,’ I was told.*</span>
+<span class="l-eng">*“Why, this was just what my little brothers told me when I saw the artichokes.¹ ‘We make people windy in the stomach,’ I was told.*</span>
 
 <span class="l-gloss">Mii dash i’iw miitagiini’w (why, this is just the very thing — *particle flagged*) gaa-izhiwaad nishiimeyag (that my little brothers said) sa gii-bi-waabamagwaa igi’n ashkipwaag (when I came and saw those artichokes). ‘nimboogizikaagemin,’ (‘we make people windy in the stomach,’) ningii-igoog (I was told by them).</span>
 
-<span class="l-orig">(31) Takīn, ēi, nimpōgit! mīsa’ kā∙i∙‘kitowāt ạnicinābäg nicijäyag, tcini∙a∙‘kīwank.”</span>
+*Ackipwāg, “artichokes;” literally, “raw objects.”*
+
+<span class="l-orig">(31) Takīn, ēi, nimpōgit! mīsa’ kä∙i∙‘kitowāt ạnicinābäg nicijäyag, tcini∙a∙‘kīwank.”</span>
 
 <span class="l-fiero">**Dakiin, eei, nimboogid! Mii sa ge-ikidowaad anishinaabeg nizhisheyag, ji-ani-akiiwang.”**</span>
 
@@ -267,7 +269,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(32) Mägwāgu ạnipạpimusät, pānimāgu mīnawā, “Pōⁿᵉ!” — “Ēi, nimpōgit!”</span>
 
-<span class="l-fiero">**Megwaa go ani-babimosed, baanimaa go miinawaa, “Poonh!” “Eei, nimboogid!”**</span>
+<span class="l-fiero">**Megwaa go ani-babimosed, baanimaa go miinawaa, “Poonh!”  “Eei, nimboogid!”**</span>
 
 <span class="l-eng">*And while he went walking along, then of a sudden again, “Po!” – “Why, I am breaking wind!”*</span>
 

@@ -13,7 +13,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-fiero">**4. Naanabozho Kills Another Brother.**</span>
 
-4. NANABUSHU KILLS ANOTHER BROTHER.
+4\. NANABUSHU KILLS ANOTHER BROTHER.
 
 <span class="l-eng">*Narrated by Wâsagunäckạnk — Series 1 (Nos. 1–18), Bois Fort (per Michelson’s roster, Part I Preface p. XX; not credited on the story page itself).*</span>
 
@@ -292,7 +292,5 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 <span class="l-gloss">“eye’,” ogii-inaan Naanabozho (yes, Nanabushu said to her); “gaawiin nindaa-gashkitoosii ’i’iw ji-minochigeyaambaan” (so I have failed to bring them joy); “aazha niingii-baataachige nangwana gii-doodamaan” (now I have erred in what I did); “niin-gagiibaadiz megwaa abinoojiiwiyaan” (I was very foolish while still a child); “gaawiin etada ningii-daa-nanaagadawendanzii” (I did not fully think it through); “geget gidebwe, nooko, ’i’iw ekidoyan” (truly you are right, grandmother, in what you say); mii akawe gaa-inaad ookomisan (this is what he first said to his grandmother); apii gaa-maajaad, i’imaa gii-onji-maajaad, anoojigo gii-babaa-izhichiged (then he left, and from there went about doing all sorts of things); miziwe gii-izhaad ’o’oow aki (he went everywhere over this earth); nashkedash gaa-izhichiged oomaa akiing (so look at what he has done here on earth).</span>
 
 *Printer variant: this closing paragraph (p.40) prints the name as “Nänabushu” (with sh) in line 1, whereas the Ojibwe text elsewhere in this story consistently prints “Nänabucu” (c=sh). Preserved as printed; not corrected.*
-
-4. NANABUSHU KILLS ANOTHER BROTHER.
 
 </div>

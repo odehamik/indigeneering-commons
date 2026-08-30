@@ -15,7 +15,7 @@ PINÄ KĪ∙U∙GUCIMUT.
 
 RUFFED-GROUSE FASTS.
 
-<span class="l-eng">*Narrated by Wāsāgunäckạnk — Series 3 (Nos. 44–61), Bois Fort (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
+<span class="l-eng">*Narrated by *</span>
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
