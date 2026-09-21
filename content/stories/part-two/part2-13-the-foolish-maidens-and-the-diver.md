@@ -8,9 +8,9 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-(Mạdci‘kikwäwisạg Cingibis Gayä).
+MẠDCI‘KIKWÄWISẠG CINGIBIS GAYÄ.
 
-<span class="l-fiero">**Majikikwewisag Zhingibis Gaye.**</span>
+<span class="l-fiero">**MAJIKIKWEWISAG ZHINGIBIS GAYE.**</span>
 
 The Foolish Maidens and the Diver
 

@@ -364,11 +364,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(34) Cayīgwa pīndigạnāᵘ ạbinōtcī. Cigwa mādci‘tāwạg. Ā‘pidci wākwāndäⁿsing undạpi mạdcikō‘kō‘ko∙ō∙wis. Cigwa päcunāgusiwạn ạbinōtcīyạn. Naiyāgiku umāwạtōnäntān ‘iᵉi´ᵘ usi‘kuwin. Cigwā kayä wīn udōdā‘pinān aᵘ ạbinōtcīyạn. Äjisīgwäbạnändạnk ‘iᵉi´ᵘ usi‘kowin äjikīgitut: “Ạbinōtcī niciginik.”</span>
 
-<span class="l-fiero">**Zhayiigwa biindiganaa aw abinoojii. Zhigwa maajiitaawag. Aapiji waakwendensing ondabi maji-gookooko’oo-wish. Zhigwa beshonaagoziwan abinoojiiyan. Naayaag igo omaawadoonendaan i’iw oziigowin. Zhigwa gaye wiin odoodaapinaan aw abinoojiiyan. Ezhi-ziigwebinendang i’iw oziigowin ezhi-giigidod: “Abinoojii nizhiginig.”**</span>
+<span class="l-fiero">**Zhayiigwa biindiganaa aw abinoojii. Zhigwa maajiitaawag. Aapiji waakwendensing* ondabi maji-gookooko’oo-wish. Zhigwa beshonaagoziwan abinoojiiyan. Naayaag igo omaawadoonendaan i’iw oziigowin. Zhigwa gaye wiin odoodaapinaan aw abinoojiiyan. Ezhi-ziigwebinendang i’iw oziigowin ezhi-giigidod: “Abinoojii nizhiginig.”**</span>
 
 <span class="l-eng">*Presently in the child was fetched. Then they began. At the extreme end of the rear of the lodge sat the roguish Barred Owl. Soon (he saw) the child approaching nigh. Before (the child got to where he was), he saved up a deal of spittle in his mouth. In a while he too took up the child. As he poured the spittle from his mouth, he then spoke, saying: “By the child am I being wetted.”*</span>
 
-<span class="l-gloss">Zhayiigwa biindiganaa aw abinoojii (now the child was brought in). … waakwendensing ondabi maji-gookooko’oo-wish (in the far corner sat the Barred Owl). … omaawadoonendaan i’iw oziigowin (he gathered up his spittle). … odoodaapinaan aw abinoojiiyan (he too took the child). Ezhi-ziigwebinendang i’iw oziigowin (pouring out the spittle) ezhi-giigidod: “Abinoojii nizhiginig (the child has wet me).”</span>
+<span class="l-gloss">Zhayiigwa biindiganaa aw abinoojii (now the child was brought in). … waakwendensing* ondabi maji-gookooko’oo-wish (in the far corner sat the Barred Owl). … omaawadoonendaan i’iw oziigowin (he gathered up his spittle). … odoodaapinaan aw abinoojiiyan (he too took the child). Ezhi-ziigwebinendang i’iw oziigowin (pouring out the spittle) ezhi-giigidod: “Abinoojii nizhiginig (the child has wet me).”</span>
 
 *²¹ usi‘kowin “his spittle” (oziigow-) and niciginik “(the child) wets me” (urinates) drafted from Jones’s English; the Owl fakes the sign with his own spittle.*
 

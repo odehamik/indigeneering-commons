@@ -76,11 +76,11 @@ STRONG, BITTER STICK.
 
 <span class="l-orig">(8) “Pānimā kīgāki‘kino∙a∙mōn ä∙i∙nwātäg u mạcki‘ki.”</span>
 
-<span class="l-fiero">**“Baanimaa giga-gikinoo’amoon enwedeg* o mashkiki.”**</span>
+<span class="l-fiero">**“Baanimaa giga-gikinoo’amoon enwaadeg* o mashkiki.”**</span>
 
 <span class="l-eng">*“Not till later on will I teach you how this medicine is used.”*</span>
 
-<span class="l-gloss">“Baanimaa (not until later) giga-gikinoo’amoon (will I teach you) enwedeg* (how it is used) o mashkiki (this medicine).”</span>
+<span class="l-gloss">“Baanimaa (not until later) giga-gikinoo’amoon (will I teach you) enwaadeg* (how it is used) o mashkiki (this medicine).”</span>
 
 <span class="l-orig">(9) Mīdạc a‘kawä kī∙ạ∙camigut ma‘kudä.</span>
 
@@ -152,11 +152,11 @@ STRONG, BITTER STICK.
 
 <span class="l-orig">(17) Kāwīn ā‘pidci ‘aᵉa´ᵘ i‘kwä mīnāsī īni´ᵘ unamạnạn; nạnīzānädāgwạt i‘kwä äcimīnint īni´ᵘ unamạnạn.</span>
 
-<span class="l-fiero">**Gaawiin aapiji a’aw ikwe miinaasii iniw onamanan; naniizaanedagwad ikwe ezhi-miinind iniw onamanan.**</span>
+<span class="l-fiero">**Gaawiin aapiji a’aw ikwe miinaasii iniw onamanan; naniizaanedaagwad ikwe ezhi-miinind iniw onamanan.**</span>
 
 <span class="l-eng">*Not often is woman given the magic paint; it is dangerous when a woman is given the magic paint.*</span>
 
-<span class="l-gloss">Gaawiin aapiji (not often) a’aw ikwe (a woman) miinaasii (is given) iniw onamanan (the magic paint); naniizaanedagwad (it is dangerous) ikwe ezhi-miinind (when a woman is given) iniw onamanan (the magic paint).</span>
+<span class="l-gloss">Gaawiin aapiji (not often) a’aw ikwe (a woman) miinaasii (is given) iniw onamanan (the magic paint); naniizaanedaagwad (it is dangerous) ikwe ezhi-miinind (when a woman is given) iniw onamanan (the magic paint).</span>
 
 <span class="l-orig">(18) Pa‘kān ijitcigātä ī∙i∙´ᵘ nānīngutînū wīmīnint ‘aᵉa´ᵘ i‘kwä.</span>
 

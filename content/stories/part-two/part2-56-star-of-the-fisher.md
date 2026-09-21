@@ -8,9 +8,9 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-(Utcīgạnạng).
+UTCĪGẠNẠNG.
 
-<span class="l-fiero">**(OCHIIGANANG).**</span>
+<span class="l-fiero">**OCHIIGANANG.**</span>
 
 STAR OF THE FISHER.
 

@@ -8,9 +8,9 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 > ⚠️ **Draft — under many eyes.** Converted and readable; not yet finally vetted, and it will wear the word *draft* for a good while, on purpose. Living, not final.
 
-(ĀYĀSÄ.)
+ĀYĀSÄ.
 
-<span class="l-fiero">**(AYAASE.)**</span>
+<span class="l-fiero">**AYAASE.**</span>
 
 FILCHER-OF-MEAT.
 
