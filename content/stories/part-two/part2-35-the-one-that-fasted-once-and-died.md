@@ -18,7 +18,7 @@ THE ONE THAT FASTED ONCE AND DIED.
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Nīnguding mīnawā kā∙i∙jiwäbizit päᵉjik ạnicinābäᵉ;  uzām mōⁿjạg ugīgạgānzomān ugwisạn tcîgī∙u∙gwī∙i∙cimunit.  Ānawi ‘aᵉa´ᵘ uckinawägubạn ugīwīndạmawān ōsạn cīgwa ga‘kina kägōn kīki‘kändạnk äjināgwa‘k miziwä kīcigunk kayä a‘kīng äjiwäba‘k kistcigạmīng gayä icpîmīng kayä äjināgwa‘k, awidạc a‘kiwäⁿzī kāwīn ugīpōnimāsīn käyābi tcîma‘kạdä‘känit.  Wạdciwing ugidā‘ki kī∙a∙yā ‘aᵘ ckinawä.  Kāga‘pī kāwīn kīgạcka‘tōsī tcîbạzigwīt, ä‘pītcipa‘kạdät.</span>
+<span class="l-orig">(1) Nīnguding mīnawā kä∙i∙jiwäbizit päᵉjik ạnicinābäᵉ;  uzām mōⁿjạg ugīgạgānzomān ugwisạn tcîgī∙u∙gwī∙i∙cimunit.  Ānawi ‘aᵉa´ᵘ uckinawägubạn ugīwīndạmawān ōsạn cīgwa ga‘kina kägōn kīki‘kändạnk äjināgwa‘k miziwä kīcigunk kayä a‘kīng äjiwäba‘k kistcigạmīng gayä icpîmīng kayä äjinägwa‘k, awidạc a‘kiwäⁿzī kāwīn ugīpōnimāsīn käyābi tcîma‘kạdä‘känit.  Wạdciwing ugidā‘ki kī∙a∙yā ‘aᵘ ckinawä.  Kāga‘pī kāwīn kīgạcka‘tōsī tcîbạzigwīt, ä‘pītcipa‘kạdät.</span>
 
 <span class="l-fiero">**Ningoding miinawaa gaa-izhiwebizid bezhig anishinaabe; osaam moonzhag ogii-gagaanzomaan ogwisan ji-gii’ogwiishimonid. Aanawi ’a’aw oshkinawegoban ogii-wiindamawaan oosan zhigwa gakina gegoon gii-gikendang ezhinaagwak miziwe giizhigong gaye akiing ezhiwebak gichigamiing gaye ishpiming gaye ezhinaagwak, aw idash akiwenzii gaawiin ogii-boonimaasiin geyaabi ji-makadekenid. Wajiwing ogidaaki gii-ayaa ’aw oshkinawe. Gegapii gaawiin gii-gashkitoosii ji-bazigwiid, epiichi-bakaded.**</span>
 

@@ -826,7 +826,7 @@ Old Man Mashos.
 
 <span class="l-gloss">“Mishi-ginebik, gidashamin a’aw inini.” (“O great serpent, I give you this man to eat.”)</span>
 
-<span class="l-orig">(102) Micikinābikidạc kā∙i∙ji‘pījāt wī∙ạ∙mwād īni´ᵘ ininiwạn, uganōnān mīdạc ‘aᵉa´winini:</span>
+<span class="l-orig">(102) Micikinäbikidạc kā∙i∙ji‘pījāt wī∙ạ∙mwād īni´ᵘ ininiwạn, uganōnān mīdạc ‘aᵉa´winini:</span>
 
 <span class="l-fiero">**Mishi-ginebig idash gaa-izhi-bi-izhaad wii-amwaad iiniw ininiwan, oganoonaan mii dash a’aw inini:**</span>
 
@@ -850,7 +850,7 @@ Old Man Mashos.
 
 <span class="l-gloss">Gigii-zhaweniminaaban gosha.” (why, you took pity on me long ago.”)</span>
 
-<span class="l-orig">(105) Kāwin dạc ugī∙ạ∙mwukusin.</span>
+<span class="l-orig">(105) Kāwin dạc ugī∙ạ∙mwukusīn.</span>
 
 <span class="l-fiero">**Gaawiin dash ogii-amwogoosiin.**</span>
 

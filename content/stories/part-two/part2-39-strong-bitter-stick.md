@@ -74,7 +74,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">“Akawe (first of all) gigad-ashamin (I will feed you), niijii (my friend),” odigoon (he was told).</span>
 
-<span class="l-orig">(8) “Pānimā kīgāki‘kino∙a∙mōn ä∙i∙nwätäg u mạcki‘ki.”</span>
+<span class="l-orig">(8) “Pānimā kīgāki‘kino∙a∙mōn ä∙i∙nwātäg u mạcki‘ki.”</span>
 
 <span class="l-fiero">**“Baanimaa giga-gikinoo’amoon enwedeg* o mashkiki.”**</span>
 
@@ -150,7 +150,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gomaa gaye (and also) ikwewag (women) naaningodinoo (often) odaabaji’aawaan (they use it; *onaman takes animate marking here*) iniw onamanan (the magic paint).</span>
 
-<span class="l-orig">(17) Kāwīn ā‘pidci ‘aᵉa´ᵘ i‘kwä mīnāsī īni´ᵘ unamạnạn; nạnīzānädạgwạt i‘kwä äcimīnint īni´ᵘ unamạnạn.</span>
+<span class="l-orig">(17) Kāwīn ā‘pidci ‘aᵉa´ᵘ i‘kwä mīnāsī īni´ᵘ unamạnạn; nạnīzānädāgwạt i‘kwä äcimīnint īni´ᵘ unamạnạn.</span>
 
 <span class="l-fiero">**Gaawiin aapiji a’aw ikwe miinaasii iniw onamanan; naniizaanedagwad ikwe ezhi-miinind iniw onamanan.**</span>
 
@@ -158,7 +158,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gaawiin aapiji (not often) a’aw ikwe (a woman) miinaasii (is given) iniw onamanan (the magic paint); naniizaanedagwad (it is dangerous) ikwe ezhi-miinind (when a woman is given) iniw onamanan (the magic paint).</span>
 
-<span class="l-orig">(18) Pa‘kān ijitcigātä ī∙i∙´ᵘ nāningutînū wīmīnint ‘aᵉa´ᵘ i‘kwä.</span>
+<span class="l-orig">(18) Pa‘kān ijitcigātä ī∙i∙´ᵘ nānīngutînū wīmīnint ‘aᵉa´ᵘ i‘kwä.</span>
 
 <span class="l-fiero">**Bakaan izhichigaade i’iw naaningodinoo wii-miinind a’aw ikwe.**</span>
 

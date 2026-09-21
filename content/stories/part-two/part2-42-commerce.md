@@ -90,7 +90,7 @@ COMMERCE.
 
 <span class="l-gloss">Anishaa (nevertheless) aapiji gii-maanewag (very numerous were they) awesiiyensag (the small game animals).</span>
 
-<span class="l-orig">(9) Kāwī‘kā cōniyā ningīmīnigōsīmin, mīyä‘tạgu ạno‘kādcigạn kāmäckudōnạmāgōyāng; kayädạc kīsạnạgạt ạno‘kātcigạn.</span>
+<span class="l-orig">(9) Käwī‘kā cōniyā ningīmīnigōsīmin, mīyä‘tạgu ạno‘kādcigạn kāmäckudōnạmāgōyāng; kayädạc kīsạnạgạt ạno‘kātcigạn.</span>
 
 <span class="l-fiero">**Gaawiikaa zhooniyaa ningii-miinigoosiimin, miiy eta go anokaajigan gaa-meshkwadoonamaagooyaang; gaye dash gii-sanagad anokaajigan.**</span>
 

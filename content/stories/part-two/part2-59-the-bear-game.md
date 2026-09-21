@@ -91,7 +91,7 @@ Touch the moccasin (where you think the ball of fur to be)!”*</span>
 
 <span class="l-gloss">[SONG — carried verbatim in both layers, never converted, merge-excluded. Four identical lines; long final ā verified at the scan (p510). Jones’s English: “Touch the moccasin (where you think the ball of fur to be)!” ×4. The chant is left uninterpreted per song-handling rule.]</span>
 
-<span class="l-orig">(9) Ā‘tā, kạbätibi‘k a‘tātiwạg. Mīdạc ‘iᵉi´ᵘ cigwa pītāpạninig ickwā‘tāwạg. Mīnawā änitibi‘kạdinik mādci‘tawạg a‘tātiwāt, mīdạc ‘iᵉi´ᵘ kạbätibi‘k mīnawā äji∙a∙‘tātiwāt. Pīnicidạc nicwāsutibi‘k kī∙a∙‘tātiwạg; nicwāsutibi‘kidạc kā∙a∙‘tātiwāt, mīsa iᵘ kā∙i∙cānacī‘tạmowāt.</span>
+<span class="l-orig">(9) Ā‘tā, kạbätibi‘k a‘tātiwạg. Mīdạc ‘iᵉi´ᵘ cigwa pītāpạninig ickwā‘tāwạg. Mīnawā änitibi‘kạdinik mādci‘tawạg a‘tātiwāt, mīdạc ‘iᵉi´ᵘ kạbätibi‘k mīnawā äji∙a∙‘tātiwāt. Pīnicidạc nicwāsutibi‘k kī∙a∙‘tātiwạg; nīcwāsutibi‘kidạc kā∙a∙‘tātiwāt, mīsa iᵘ kā∙i∙cānacī‘tạmowāt.</span>
 
 <span class="l-fiero">**Aataa, gabe-dibik ataadiwag. Mii dash i’iw zhigwa biidaabaninig ishkwaa’tawag. Miinawaa ani-dibikadinig maaji’tawag ataadiwaad, mii dash i’iw gabe-dibik miinawaa ezhi-ataadiwaad. Biinish idash niizhwaaso-dibik gii-ataadiwag; niizhwaaso-dibik idash gaa-ataadiwaad, mii sa iw gaa-izhi-aanazhi’tamowaad.**</span>
 

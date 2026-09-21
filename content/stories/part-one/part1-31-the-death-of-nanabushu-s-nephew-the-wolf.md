@@ -1,5 +1,5 @@
 ---
-title: "31. The Death of Nanabushu's Nephew, the Wolf"
+title: "31. The Death of Nanabushu’s Nephew, the Wolf"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
 <div class="four-layer">

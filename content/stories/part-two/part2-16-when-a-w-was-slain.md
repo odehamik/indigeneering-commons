@@ -38,7 +38,7 @@ When a Wīndigō was Slain.
 
 *¹ On the north shore of Lake Superior, either at Nipigun or Kaministiqua.*
 
-<span class="l-orig">(3) Mōⁿjạg kīkistciwī‘kundiwạg wänicicing mīdcỉm; kāwī‘kasa ogī∙a∙cạmāsiwāwān īni‘ᵘ ạnicinābän, kāwī‘kāgạnạgä oginạndumāsiwāwān kägō wā∙i∙jutcigäwādỉn.</span>
+<span class="l-orig">(3) Mōⁿjạg kīkistciwī‘kundiwạg wänicicing mīdcîm; kāwī‘kasa ogī∙a∙cạmāsiwāwān īni‘ᵘ ạnicinābän, kāwī‘kāgạnạgä oginạndumāsiwāwān kägō wā∙i∙jutcigäwādîn.</span>
 
 <span class="l-fiero">**Moozhag gii-gichi-wiikondiwag wenizhishing miijim; gaa wiikaa sa ogii-ashamaasiwaawaan iniw anishinaaben, gaawiin ganage ogii-nandomaasiwaawaan gegoo waa-izhochigewaadin waa-izhichigewaadin.**</span>
 
@@ -94,7 +94,7 @@ When a Wīndigō was Slain.
 
 <span class="l-gloss">Gegapii igo aapiji gii-mamaazikaa aki (and at last ever so much did the earth tremble).</span>
 
-<span class="l-orig">(10) Kāwīn gayä ogaskitōsīnāwa iskotä tcipỉskạnäg; ānind gayä ạnicinabäg kāwīn mạmi‘kawisiwạg.</span>
+<span class="l-orig">(10) Kāwīn gayä ogaskitōsīnāwa iskotä tcipîskạnäg; ānind gayä ạnicinabäg kāwīn mạmi‘kawisiwạg.</span>
 
 <span class="l-fiero">**Gaawiin gaye ogashkitoosiinawaa ishkote ji-biskaneg; aanind gaye anishinaabeg gaawiin mamikawisiiwag.**</span>
 
@@ -110,7 +110,7 @@ When a Wīndigō was Slain.
 
 <span class="l-gloss">Gegapii idash onandomaawaan iniw anishinaaben (so finally they sent for the man) bwaakwaawiganenid (with the hunch in his back).</span>
 
-<span class="l-orig">(12) Ogīpạgidỉnạmạwāwān ī∙i∙‘ᵘ obạgidcigäwiniwa, ogī∙ī∙guwān idạc:</span>
+<span class="l-orig">(12) Ogīpạgidînạmạwāwān ī∙i∙‘ᵘ obạgidcigäwiniwa, ogī∙ī∙guwān idạc:</span>
 
 <span class="l-fiero">**Ogii-bagidinamawaawaan i’iw obagijigewiniwaa, ogii-igowaan idash:**</span>
 
@@ -118,7 +118,7 @@ When a Wīndigō was Slain.
 
 <span class="l-gloss">Ogii-bagidinamawaawaan i’iw obagijigewiniwaa (they presented him with the offerings they had made), ogii-igowaan idash (and they were told by him):</span>
 
-<span class="l-orig">(13) “Mīna iᵘ pỉdcīnạg mi‘kwänimiyäg nōngum sägiziyäg?”</span>
+<span class="l-orig">(13) “Mīna iᵘ pîdcīnạg mi‘kwänimiyäg nōngum sägiziyäg?”</span>
 
 <span class="l-fiero">**“Mii na iw bijiinag mikwenimiyeg noongom zegiziyeg?”**</span>
 
@@ -254,7 +254,7 @@ When a Wīndigō was Slain.
 
 <span class="l-gloss">Mii dash ezhi-gii-waabamaad zaagikweninid (thereupon she saw his head sticking out), mii dash miinawaa gii-zhagashkitaanid (and then she saw him bob down again).</span>
 
-<span class="l-orig">(30) Mīdạc imāⁿ kī‘pī∙ā∙t tcỉbi∙u∙disigut ‘aᵉa’ᵘ wâmīgānād.</span>
+<span class="l-orig">(30) Mīdạc imāⁿ kī‘pī∙ā∙t tcîbi∙u∙disigut ‘aᵉa’ᵘ wâmīgānād.</span>
 
 <span class="l-fiero">**Mii dash imaanh gii-bii’aad ji-bi-odisigod a’aw waa-miigaanaad.**</span>
 
@@ -310,7 +310,7 @@ When a Wīndigō was Slain.
 
 <span class="l-gloss">Ishkwaaj idash wiin gii-noondaagozi a’aw bwaakwaawigang (and afterwards the hunchback’s cry was heard), nawaj wiin gii-gizhiiwe (louder still was the sound of his voice); dibishkoo giizhig biigoshkaag (as if the sky were rent asunder) mii iw gaa-inweg (such was the sound of the cry).</span>
 
-<span class="l-orig">(37) Mīdạc kīmīgādiwād āniwä‘k igu kỉnwäⁿj.</span>
+<span class="l-orig">(37) Mīdạc kīmīgādiwād āniwä‘k igu kînwäⁿj.</span>
 
 <span class="l-fiero">**Mii dash gii-miigaadiwaad aaniweg igo ginwenzh.**</span>
 
@@ -334,7 +334,7 @@ When a Wīndigō was Slain.
 
 <span class="l-gloss">Gii-ozhimo a’aw animoosh (away fled the dog).</span>
 
-<span class="l-orig">(40) A‘pī∙i∙dạc pä‘kitä∙u∙nt ‘aᵉa’ᵘ wīndigō, “Yōᵒᵒ, nisayäⁿ, ninỉsigō!”</span>
+<span class="l-orig">(40) A‘pī∙i∙dạc pä‘kitä∙u∙nt ‘aᵉa’ᵘ wīndigō, “Yōᵒᵒ, nisayäⁿ, ninîsigō!”</span>
 
 <span class="l-fiero">**Apii dash bekite’ond a’aw wiindigoo, “Yoo, nisayenh, ninisigoo!”**</span>
 

@@ -219,7 +219,7 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 *¹⁰ Jones marks this page “Translated by T. M.” (Michelson). tcibā‘kawaninik “for the fog to lift” drafted.*
 
-<span class="l-orig">(20) Ningutingiku pạpimisät owâbandān pima‘kamigānik, mī cigwa äjigi‘kändạnk aiyä‘kusit. Mindcimigu päcwâbạndạnk, “Ā‘pitci kanabạtc ninganōtạgāmäsä,” inändạm. Ā‘pitcigu päcwâbạndạnk mī cigwa äjipạngicing nibī‘kāng. Kägä‘t sägisi tcinisābāwät. Kāyä‘tä∙a∙‘kucing aiyạguntcing äjipạpạsiningwīkanä∙u∙disut, äniwä‘kigu wāsa ijā. Mīnawā äjinōmagäcimunut mīgu iᵘ käga‘pī kīmīcạgāt.</span>
+<span class="l-orig">(20) Ningutingiku pạpimisät owâbandān pima‘kamigānik, mī cigwa äjigi‘kändạnk aiyä‘kusit. Mindcimigu päcwâbạndạnk, “Ā‘pitci kanabạtc ninganōtạgāmäsä,” inändạm. Ā‘pitcigu päcwâbạndạnk mī cigwa äjipạngicing nibī‘kāng. Kägä‘t sägisi tcinisābāwät. Kāyā‘tä∙a∙‘kucing aiyạguntcing äjipạpạsiningwīkanä∙u∙disut, äniwä‘kigu wāsa ijā. Mīnawā äjinōmagäcimunut mīgu iᵘ käga‘pī kīmīcạgāt.</span>
 
 <span class="l-fiero">**Ningoding igo babimised* owaabandaan bima’kamigaanig, mii zhigwa ezhi-gikendang ayekozid. Minjimi go beshwaabandang, “Aapiji ganabaj ninga-noondaagaamese,” inendam. Aapiji go beshwaabandang mii zhigwa ezhi-bangishing nibiikaang. Geget zegizi ji-nisaabaawed. Gaye-dash aakozing ayagoonjing ezhi-babaasiningwiikana’odizod, eniwek igo waasa izhaa. Miinawaa ezhi-noomagezhimonod miigo iw gegapii gii-mizhagaad.**</span>
 
@@ -362,7 +362,7 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 *²⁰ mạdcikō‘kō‘ku∙o∙wis = Maji-gookooko’oo-wish, Jones’s “roguish Barred Owl” (a rejected suitor); prints with ku/ko variation. The name is treated as a proper name, not converted further.*
 
-<span class="l-orig">(34) Cayīgwa pīndigạnāᵘ ạbinōtcī. Cigwa mādci‘tāwạg. Ā‘pidci wākwändäⁿsing undạpi mạdcikō‘kō‘ko∙ō∙wis. Cigwa päcunāgusiwạn ạbinōtcīyạn. Naiyāgiku umāwạtōnäntān ‘iᵉi´ᵘ usi‘kuwin. Cigwā kayä wīn udōdā‘pinān aᵘ ạbinōtcīyạn. Äjisīgwäbạnändạnk ‘iᵉi´ᵘ usi‘kowin äjikīgitut: “Ạbinōtcī niciginik.”</span>
+<span class="l-orig">(34) Cayīgwa pīndigạnāᵘ ạbinōtcī. Cigwa mādci‘tāwạg. Ā‘pidci wākwāndäⁿsing undạpi mạdcikō‘kō‘ko∙ō∙wis. Cigwa päcunāgusiwạn ạbinōtcīyạn. Naiyāgiku umāwạtōnäntān ‘iᵉi´ᵘ usi‘kuwin. Cigwā kayä wīn udōdā‘pinān aᵘ ạbinōtcīyạn. Äjisīgwäbạnändạnk ‘iᵉi´ᵘ usi‘kowin äjikīgitut: “Ạbinōtcī niciginik.”</span>
 
 <span class="l-fiero">**Zhayiigwa biindiganaa aw abinoojii. Zhigwa maajiitaawag. Aapiji waakwendensing ondabi maji-gookooko’oo-wish. Zhigwa beshonaagoziwan abinoojiiyan. Naayaag igo omaawadoonendaan i’iw oziigowin. Zhigwa gaye wiin odoodaapinaan aw abinoojiiyan. Ezhi-ziigwebinendang i’iw oziigowin ezhi-giigidod: “Abinoojii nizhiginig.”**</span>
 
@@ -465,7 +465,7 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-gloss">(*the song, carried — 5th and last occurrence, within Chirper’s recounting before the council*).</span>
 
-<span class="l-orig">(46) Mīsa imā ā‘pidci ningīnickimik. Mīgu iᵘ tasing kigicäp kā‘pīcāyān, mīsā‘panä mạdwänạgạmut. Nigīwī‘kwạtci‘tōnidac ‘iᵉi´ᵘ macki‘ki tci∙u∙ndci∙ai∙yāwāt ạbinōtciyạn. Kigicäpidạc ningī∙a∙‘kạmawā, ạgạmingidạc ningīwâbạmā ‘aᵉa∙i∙‘kwä. Mägwādạc nạgạmut ningīgāskipinā; mīdạc imā wändci∙ai∙yāwāt īniyạbinōtcīyạn.”</span>
+<span class="l-orig">(46) Mīsa imā ā‘pidci ningīnickimik. Mīgu iᵘ tasing kigicäp kā‘pīcāyān, mīsā‘panä mạdwänạgạmut. Nigīwī‘kwạtci‘tōnidac ‘iᵉi´ᵘ macki‘ki tci∙u∙ndci∙ai∙yāwāt ạbinōtciyạn. Kigicäpidạc ningī∙a∙‘kạmawā, ạgạmīngidạc ningīwâbạmā ‘aᵉa∙i∙‘kwä. Mägwādạc nạgạmut ningīgāskipinā; mīdạc imā wändci∙ai∙yāwāt īniyạbinōtcīyạn.”</span>
 
 <span class="l-fiero">**Mii sa imaa aapiji ningii-nishkimig. Miigo iw dasing gigizheb gaa-bi-izhaayaan, mii sa ban madwe-nagamod. Ningii-wiikwajitoon idash i’iw mashkiki ji-onji-ayaawaad abinoojiiyan. Gigizheb idash ningii-akamawaa, agaaming idash ningii-waabamaa a’aw ikwe. Megwaa dash nagamod ningii-gaashkibinaa; mii dash imaa wenji-ayaawaad iniw abinoojiiyan.”**</span>
 
@@ -475,7 +475,7 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 *²² ¹⁰th–²²nd notes: Chirper’s recounting recapitulates §§2–6 (the fishing, thaw, song, trick); forms as flagged there. The footnote-marked English of pp.713/729 is Michelson’s.*
 
-<span class="l-orig">(47) Mīsa aᵘ a‘kiwäⁿzī äjikīkitut: “Ānīc wäwäni, kwīckwa∙ä∙! kītibātcîm wäntci∙ai∙yāt ạbininōtci. Kanabạtc kō‘kumis kigimīnik ‘iᵉi´ᵘ macki‘ki. Mīsa iᵘ känīciwäba‘k mini‘k käwa‘kīwạng, kägō wī‘kā awiya tawipā‘pinänimāsī. Kāwīndạc awiya wī‘kā tapā‘pinänimāsī, mämindạgä ‘aᵉa´ᵘ kä‘kä‘t; mīgu iᵉi´ᵘ pō‘tc kä∙i∙ciwäba‘k mini‘k kä∙a∙‘kīwạng. Ānīcnā, mīsa iᵘ kä∙i∙ciwīdigämạt ‘aᵉa´ᵘ nindānis. Kīgamīnigō ‘iᵉi´ᵘ wīsiniwin kayä ‘iᵉi´ᵘ käpīsi‘kạmạn.</span>
+<span class="l-orig">(47) Mīsa aᵘ a‘kiwäⁿzī äjikīkitut: “Ānīc wäwäni, kwīckwa∙ä∙! kītibātcîm wäntci∙ai∙yāt ạbininōtci. Kanabạtc kō‘kumis kigīmīnik ‘iᵉi´ᵘ macki‘ki. Mīsa iᵘ känīciwäba‘k mini‘k käwa‘kīwạng, kägō wī‘kā awiya tawipā‘pinänimāsī. Kāwīndạc awiya wī‘kā tapā‘pinänimāsī, mämindạgä ‘aᵉa´ᵘ kä‘kä‘t; mīgu iᵉi´ᵘ pō‘tc kä∙i∙ciwäba‘k mini‘k kä∙a∙‘kīwạng. Ānīcnā, mīsa iᵘ kä∙i∙ciwīdigämạt ‘aᵉa´ᵘ nindānis. Kīgamīnigō ‘iᵉi´ᵘ wīsiniwin kayä ‘iᵉi´ᵘ käpīsi‘kạmạn.</span>
 
 <span class="l-fiero">**Mii sa aw akiwenzii ezhi-giigidod: “Aaniish weweni, Gwiishkwa’e! gii-dibaajim wenji-ayaad abinoojii. Ganabaj gookomis gigii-miinig i’iw mashkiki. Mii sa iw ge-ani-izhiwebak minik ge-wakiiwang, gego wiikaa awiya da-wii-baapinenimaasii. Gaawiin dash awiya wiikaa da-baapinenimaasii, memindage a’aw geget; miigo i’iw booch ge-izhiwebak minik ge-akiiwang. Aaniishnaa, mii sa iw ge-izhi-wiidigemad a’aw nindaanis. Giga-miinigoo i’iw wiisiniwin gaye i’iw ge-biizikaman.”**</span>
 
