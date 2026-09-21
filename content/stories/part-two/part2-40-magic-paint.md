@@ -2,7 +2,6 @@
 title: "40. Magic paint"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,7 +18,7 @@ MAGIC PAINT.
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Kīcpîn awiya uckinawä mīsawänimāt uckinīgi‘kwän kīcpîn cīngänimigut, wunāzi‘kawān a‘kiwänziyạn unandutạmawān ini’ᵘ unạmạnạn.</span>
+<span class="l-orig">(1) Kīcpîn awiya uckinawä mîsawänimāt uckinīgi‘kwän kīcpîn cīngänimigut, wunāzi‘kawān a‘kiwänziyạn unandutạmawān ini´ᵘ unạmạnạn.</span>
 
 <span class="l-fiero">**Giishpin awiya oshkinawe misawenimaad oshkiniigikwen giishpin zhiingenimigod, wonaazikawaan akiwenziiyan onandotamawaan iniw onamanan.**</span>
 
@@ -35,7 +34,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">Mii dash egod (and this is what he is told):</span>
 
-<span class="l-orig">(3) “Nīⁿj mạzininīⁿsạg uji, tạ∙a∙gāncī∙i∙wạg —pä∙jik kīn, pä∙jikidạc ‘aᵉa’ᵘ uckinīgi‘kwä.</span>
+<span class="l-orig">(3) “Nīⁿj mạzininīⁿsạg uji, tạ∙a∙gāncī∙i∙wạg —pä∙jik kīn, pä∙jikidạc ‘aᵉa´ᵘ uckinīgi‘kwä.</span>
 
 <span class="l-fiero">**“Niizh mazininiinsag ozhi’, da-agaashii’iwag – bezhig giin, bezhig idash a’aw oshkiniigikwe.**</span>
 
@@ -43,7 +42,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">“Niizh mazininiinsag ozhi’ (“make two little images), da-agaashii’iwag (let them be small) — bezhig giin (one, yourself), bezhig idash a’aw oshkiniigikwe (and one, that young woman).</span>
 
-<span class="l-orig">(4) Kigawīnā ‘aᵉa’ᵘ äjini‘kāzut.</span>
+<span class="l-orig">(4) Kigawīnā ‘aᵉa´ᵘ äjini‘kāzut.</span>
 
 <span class="l-fiero">**Giga-wiinaa a’aw ezhinikaazod.**</span>
 
@@ -51,7 +50,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">Giga-wiinaa a’aw ezhinikaazod (you shall name her by the name she is called).</span>
 
-<span class="l-orig">(5) Awidạc unạmạn pạngī kīgạdasā kwaya‘k udä∙i∙nk kayädec imāⁿ tạbạcīc mayā äjimīsawänimạt.</span>
+<span class="l-orig">(5) Awidạc unạmạn pạngī kīgạdasā kwaya‘k udä∙i∙nk kayädec imāⁿ tạbạcīc mayā äjimîsawänimạt.</span>
 
 <span class="l-fiero">**Aw idash onaman bangii gigad-asaa gwayak ode’ing gaye dash imaa dabashiish mayaa ezhi-misawenimad.**</span>
 
@@ -59,7 +58,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">Aw idash onaman bangii gigad-asaa (and of this onaman a little you shall place) gwayak ode’ing (directly on her heart), gaye dash imaa dabashiish (and also down low) mayaa ezhi-misawenimad (right where you desire her).</span>
 
-<span class="l-orig">(6) Kīgạdinā ‘aᵉa’ᵘ mạzininīⁿs:</span>
+<span class="l-orig">(6) Kīgạdinā ‘aᵉa´ᵘ mạzininīⁿs:</span>
 
 <span class="l-fiero">**Gigad-inaa a’aw mazininiins:**</span>
 
@@ -75,7 +74,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">“Mii iw noongom ezhi-banaajitooyaan (“this is how I now render helpless) giiyaw gidinendamowin gakina (your body and your mind, all of it).”</span>
 
-<span class="l-orig">(8) Mī∙i∙ᵘ pāpigä ā‘pidci inändạnk wī‘kanōnāt ini’ᵘ ckinawän.</span>
+<span class="l-orig">(8) Mī∙i∙ᵘ pāpigä ā‘pidci inändạnk wī‘kạnōnāt īni´ᵘ ckinawän.</span>
 
 <span class="l-fiero">**Mii iw baabige aapiji inendang wii-ganoonaad iniw shkinawen.**</span>
 
@@ -83,7 +82,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">Mii iw baabige aapiji inendang (then at once she greatly desires) wii-ganoonaad iniw shkinawen (to speak with the youth).</span>
 
-<span class="l-orig">(9) Nānīngutīnū kayä a‘kiwäⁿsīyạg udābạtci‘tōnāwa wīpäcwänimāwād uckinīgi‘kwän.</span>
+<span class="l-orig">(9) Nānīngutînū kayä a‘kiwäⁿsīyạg udābạtci‘tōnāwa wīpäcwänimāwād uckinīgi‘kwän.</span>
 
 <span class="l-fiero">**Naaningodinoo gaye akiwenziiyag odaabajitoonaawa wii-beshwenimaawaad oshkiniigikwen.**</span>
 
@@ -91,7 +90,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">Naaningodinoo gaye akiwenziiyag odaabajitoonaawa (sometimes old men too use it) wii-beshwenimaawaad oshkiniigikwen (wishing to be intimate with a young woman).</span>
 
-<span class="l-orig">(10) Kīcpîn gayä anicinābä ābatci∙ā∙d unamạnạn wīnisāt awäsīyạn mōzōn, ạdi‘kwạn kayä, kīcpîn māda∙ạ∙nāt ā‘pidci uckinạminit,— jäbai a‘pītinạnk ‘aᵉa’ᵘ awäsī,— mī∙i∙’ᵘ äji∙ā∙ba∙ạ∙nk ī∙i∙’ᵘ unạmạn.</span>
+<span class="l-orig">(10) Kīcpin gayä anicinābä ābatci∙ā∙d unamạnạn wīnisāt awäsīyạn mōzōn, ạdi‘kwạn kayä, kīcpîn māda∙ạ∙nāt ā‘pidci uckinạminit,— jäbai a‘pītinạnk ‘aᵉa´ᵘ awäsī,— mī∙i∙´ᵘ äji∙ā∙ba∙ạ∙nk ī∙i∙´ᵘ unạmạn.</span>
 
 <span class="l-fiero">**Giishpin gaye anishinaabe aabaji’aad onamanan wii-nisaad awesiiyan moozoon, adikwan gaye, giishpin maada’anaad aapiji oshkinaminid, – zhebai aabidinang a’aw awesii, – mii iw ezhi-aaba’ang i’iw onaman.**</span>
 
@@ -99,7 +98,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">Giishpin gaye anishinaabe aabaji’aad onamanan (and if a person uses the onaman) wii-nisaad awesiiyan, moozoon, adikwan gaye (to kill a game-animal — a moose, or a caribou), giishpin maada’anaad aapiji oshkinaminid (if he follows a very fresh trail) — zhebai aabidinang a’aw awesii (the animal’s morning track) — mii iw ezhi-aaba’ang i’iw onaman (then he unties the onaman).</span>
 
-<span class="l-orig">(11) Mi‘tigōns udābạdcitōn; mīdạc äjitāngisitōt ī∙i∙ᵘ mi‘tigōn ī∙i∙māⁿ unạmạning; awäsīdạc pimi‘kawäd mī∙i∙māⁿ äjitāⁿtāngisitōt kumāⁿ gayä imāⁿ kīsāga∙ạ∙nk ‘aᵉa’ᵘ awäsī.</span>
+<span class="l-orig">(11) Mi‘tigōns udābạdcitōn; mīdạc äjitāngisitōt ī∙i∙ᵘ mi‘tigōn ī∙i∙māⁿ unạmạning; awäsīdạc pimi‘kawäd mī∙i∙māⁿ äjitāⁿtāngisitōt kumāⁿ gayä imāⁿ kīsāga∙ạ∙nk ‘aᵉa´ᵘ awäsī.</span>
 
 <span class="l-fiero">**Mitigoons odaabajitoon; mii dash ezhi-daangisidood i’iw mitigoon i’imaa onamaning; awesii dash bimikawed mii imaa ezhi-daadaangisitood gomaa gaye imaa gii-zaaga’ang a’aw awesii.**</span>
 
@@ -107,7 +106,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">Mitigoons odaabajitoon (he uses a little stick); mii dash ezhi-daangisidood i’iw mitigoon i’imaa onamaning (and touches the stick to the onaman); awesii dash bimikawed (and where the animal has left a track) mii imaa ezhi-daadaangisitood (there he dabs it), gomaa gaye imaa gii-zaaga’ang a’aw awesii (or where the animal has left a dropping).</span>
 
-<span class="l-orig">(12) A‘pī∙i∙dạc udisāt ayānit īni’ᵘ awäsīyạn ubināsi‘kāgōn; kāwin ugi‘kāndaⁿzīn tciwajimut ‘aᵉa’ᵘ awäsī; kāwin ā‘pidci mi‘kawizi.</span>
+<span class="l-orig">(12) A‘pī∙i∙dạc udisāt ayānit īni´ᵘ awäsīyạn ubināsi‘kāgōn; kāwīn ugi‘kāndaⁿzīn tciwajimut ‘aᵉa´ᵘ awäsī; kāwīn ā‘pidci mi‘kawizi.</span>
 
 <span class="l-fiero">**Apii dash odisaad ayaanid iniw awesiiyan obi-naazikaagoon; gaawiin ogikendanziin ji-wazhimod a’aw awesii; gaawiin aapiji mikawisii.**</span>
 
@@ -123,7 +122,7 @@ MAGIC PAINT.
 
 <span class="l-gloss">Mii dash imaa ezhinisaad (and so there he kills it).</span>
 
-<span class="l-orig">(14) Īgiwidạc nayāⁿsi‘kawāwāt īni’ᵘ awäsīyạn ānind ininiwạg; kīcpînidac i‘kwä wīdci∙i∙wät cingubīnsạn udạsān imāⁿ u‘kādink.</span>
+<span class="l-orig">(14) Īgiwidạc nayāⁿsi‘kawāwāt īni´ᵘ awäsīyạn ānind ininiwạg; kīcpînidac i‘kwä wīdci∙i∙wät cingubīnsạn udạsān imāⁿ u‘kādink.</span>
 
 <span class="l-fiero">**Igiw dash nayaazikawaawaad iniw awesiiyan aanind ininiwag; giishpin idash ikwe wiiji’iwed zhingobiinsan odasaan imaa okaading.**</span>
 
@@ -133,18 +132,18 @@ MAGIC PAINT.
 
 <span class="l-orig">(15) Kīcpîn asāsik mạmāndciguskā; pāgisininiwan u‘kādạn.</span>
 
-<span class="l-fiero">**Giishpin asaasig mamaanjigoskaa; baagisininiwan okaadan.**</span>
+<span class="l-fiero">**Giishpin asaasig mamaanjigoshkaa*; baagisininiwan okaadan.**</span>
 
 <span class="l-eng">*If she fails to put them there, she will find it difficult to walk; weak will become her legs.*</span>
 
-<span class="l-gloss">Giishpin asaasig mamaanjigoskaa (if she does not place them, she walks with difficulty); baagisininiwan okaadan (her legs become weak).</span>
+<span class="l-gloss">Giishpin asaasig mamaanjigoshkaa* (if she does not place them, she walks with difficulty); baagisininiwan okaadan (her legs become weak).</span>
 
-<span class="l-orig">(16) Mī∙i∙ᵘ äjinạnīzāna‘k ī∙i∙’ᵘ tōwa macki‘ki, ī∙i∙’ᵘ “unạmạn” ädạming.</span>
+<span class="l-orig">(16) Mī∙i∙ᵘ äjinạnīzāna‘k ī∙i∙´ᵘ tōwa macki‘ki, ī∙i∙’ᵘ “unạmạn” ädạming.</span>
 
-<span class="l-fiero">**Mii iw ezhi-naniizaang i’iw doowa mashkiki i’iw “onaman” edaming.**</span>
+<span class="l-fiero">**Mii iw ezhi-naniizaanak* i’iw doowa mashkiki i’iw “onaman” edaming.**</span>
 
 <span class="l-eng">*That is the danger of that sort of medicine, that which is called “magic paint.”*</span>
 
-<span class="l-gloss">Mii iw ezhi-naniizaang i’iw doowa mashkiki (that is the danger of that kind of medicine) i’iw “onaman” edaming (the one called “onaman”).  [resolves flag: onaman = magic paint / love-&-hunting medicine]</span>
+<span class="l-gloss">Mii iw ezhi-naniizaanak* i’iw doowa mashkiki (that is the danger of that kind of medicine) i’iw “onaman” edaming (the one called “onaman”).  [resolves flag: onaman = magic paint / love-&-hunting medicine]</span>
 
 </div>

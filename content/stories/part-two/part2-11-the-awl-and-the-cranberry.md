@@ -2,7 +2,6 @@
 title: "11. The awl and the cranberry"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -35,7 +34,7 @@ THE AWL AND THE CRANBERRY.
 
 <span class="l-gloss">Mii dash ekidowaad (and this is what they said) ganoonidiwaad (as they talked with one another):</span>
 
-<span class="l-orig">(3) “Ānīn kīn kädōdạmạmbạn wī‘pinîsigōyạng?”</span>
+<span class="l-orig">(3) “Ānin kīn kädōdạmạmbạn wī‘pinîsigōyạng?”</span>
 
 <span class="l-fiero">**“Aaniin giin ge-doodamamban wii-bi-nisigooyang?”**</span>
 
@@ -69,11 +68,11 @@ THE AWL AND THE CRANBERRY.
 
 <span class="l-orig">(7) “Kayänīn nindāsāgạdcibi∙i∙wä.”</span>
 
-<span class="l-fiero">**“Gaye giin nindaa-zaagijibi’iwe.”**</span>
+<span class="l-fiero">**“Gaye giin nindaa-zaagajibi’iwe.”**</span>
 
 <span class="l-eng">*“I would also run outside.”*</span>
 
-<span class="l-gloss">“Gaye giin (I too) nindaa-zaagijibi’iwe (would run out of doors).”</span>
+<span class="l-gloss">“Gaye giin (I too) nindaa-zaagajibi’iwe (would run out of doors).”</span>
 
 <span class="l-orig">(8) Ningudingidạc ạnicinābän udōdisiguwān wīnisîndawa.</span>
 
@@ -83,7 +82,7 @@ THE AWL AND THE CRANBERRY.
 
 <span class="l-gloss">Ningoding dash (now once) anishinaaben odoodisigowaan (by some people they were visited) wii-nisindwaa (so that they might be killed).</span>
 
-<span class="l-orig">(9) Mī∙i∙dạc kägä‘t wâ∙i∙jisāgidcibạ‘tōd me’gōs, mēdạc imāⁿ kipạda‘kā‘kwisäd; kāwīn ogīkạskidōsin tcîgītcigwạ‘tād.</span>
+<span class="l-orig">(9) Mī∙i∙dạc kägä‘t wâ∙i∙jisāgidcibạ‘tōd me´gōs, mēdạc imāⁿ kipạda‘kā‘kwisäd; kāwīn ogīkạskidōsin tcîgītcigwạ‘tād.</span>
 
 <span class="l-fiero">**Mii dash geget waa-izhi-zaagijibatood megoos, mii dash imaanh gii-badakaakwised; gaawiin ogii-gashkitoosiin ji-giichigwataad.**</span>
 

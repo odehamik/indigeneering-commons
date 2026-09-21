@@ -2,7 +2,6 @@
 title: "39. Strong, Bitter Stick"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -35,7 +34,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gegapii (finally) owaabandaan (he saw it) waakaa’igaans (a little lodge), aapiji mewizha apiisinaagwad (it looked very old) i’iw waakaa’igaans (that little lodge); mii go ezhi-akiiwang (it was covered over with earth).</span>
 
-<span class="l-orig">(3) Ugī∙ạ∙nināzi‘kān ‘aᵉa’ᵘ anicinābä.</span>
+<span class="l-orig">(3) Ugī∙ạ∙nināzi‘kān ‘aᵉa´ᵘ anicinābä.</span>
 
 <span class="l-fiero">**Ogii-ani-naazikaan a’aw anishinaabe.**</span>
 
@@ -43,7 +42,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Ogii-ani-naazikaan (he went up to it) a’aw anishinaabe (that person).</span>
 
-<span class="l-orig">(4) A‘pī∙i∙dạc kä‘känimigut ī∙i∙māⁿ ändānit kīpizāga∙ạ∙mōn.</span>
+<span class="l-orig">(4) A‘pī∙i∙dạc kā‘kānimigut ī∙i∙māⁿ ändānit kīpizāga∙ạ∙mōn.</span>
 
 <span class="l-fiero">**Apii idash gekenimigod i’imaa endaanid gii-bi-zaaga’amoon.**</span>
 
@@ -59,7 +58,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Mii dash egod (and then he was told) zaginijiinigod (while being greeted by the hand): “Weweni, weweni! (welcome, welcome!) Biindigen, niijii! (come in, my friend!)” odigoon (he was told).</span>
 
-<span class="l-orig">(6) Mīdạc äjiwâbạndạnk ạnōdc kägō mạcki‘ki ī∙i∙’ᵘ tînōwa kāyābạdci‘tōwād ạnicinābäᵉk nạndawändcigäwād, “onạmạn” kā∙i∙dạmowād ạnicinābäᵉk.</span>
+<span class="l-orig">(6) Mīdạc äjiwâbạndạnk ạnōdc kägō mạcki‘ki ī∙i∙´ᵘ tînōwa kāyābạdci‘tōwād ạnicinābäᵉk nạndawändcigäwād, “onạmạn” kā∙i∙dạmowād ạnicinābäᵉk.</span>
 
 <span class="l-fiero">**Mii dash ezhi-waabandang anooj gegoo mashkiki i’iw dinowa gaa-ayaabaji’toowaad anishinaabeg nandawenjigewaad, “onaman” gaa-idamowaad anishinaabeg.**</span>
 
@@ -77,11 +76,11 @@ STRONG, BITTER STICK.
 
 <span class="l-orig">(8) “Pānimā kīgāki‘kino∙a∙mōn ä∙i∙nwätäg u mạcki‘ki.”</span>
 
-<span class="l-fiero">**“Baanimaa giga-gikinoo’amoon enwetaag ow mashkiki.”**</span>
+<span class="l-fiero">**“Baanimaa giga-gikinoo’amoon enwedeg* o mashkiki.”**</span>
 
 <span class="l-eng">*“Not till later on will I teach you how this medicine is used.”*</span>
 
-<span class="l-gloss">“Baanimaa (not until later) giga-gikinoo’amoon (will I teach you) enwetaag (how it is used) ow mashkiki (this medicine).”</span>
+<span class="l-gloss">“Baanimaa (not until later) giga-gikinoo’amoon (will I teach you) enwedeg* (how it is used) o mashkiki (this medicine).”</span>
 
 <span class="l-orig">(9) Mīdạc a‘kawä kī∙ạ∙camigut ma‘kudä.</span>
 
@@ -91,7 +90,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Mii dash akawe (and so first) gii-ashamigod (he was given to eat) makode’ (a bear’s heart).</span>
 
-<span class="l-orig">(10) Kā∙i∙ckwäwīsinit ‘aᵉa’ᵘ anicinābäᵉ mī∙i∙’ᵘ kī∙u∙nạbiwāt.¹</span>
+<span class="l-orig">(10) Kā∙i∙ckwāwīsinit ‘aᵉa’ᵘ anicinābäᵉ mī∙i∙´ᵘ kī∙u∙nạbiwāt.¹</span>
 
 <span class="l-fiero">**Gaa-ishkwaa-wiisinid a’aw anishinaabe mii iw gii-onabiwaad.**</span>
 
@@ -101,7 +100,9 @@ STRONG, BITTER STICK.
 
 *¹ From the place of the food. (Jones’s note)*
 
-<span class="l-orig">(11) Kīwīndạmāgut kädijitcigät kīcpîn wī∙ā∙bạdci‘tōd mī∙i∙’ᵘ mạcki‘ki; ka‘kina ändaswäwānạgisiwāt — mạnidōwäncạg, awäsīyänsạg, kunimā gayä gitci∙a∙wäsīyạg, kumā gayä kāpimisäwāt, kānūdci∙i∙ndwā — tōwạg ka‘kina iᵘ tōwa mạcki‘ki; kayäku anicinābäᵉk wīsāgi∙i∙tiwād udābạdci‘tōnāwa ī∙i∙ᵘ tōwa mạcki‘ki, unạmạn.</span>
+*¹ From the place of the food. (Jones’s note)*
+
+<span class="l-orig">(11) Kīwīndạmāgut kādijitcigät kīcpîn wī∙ā∙bạdci‘tōd mī∙i∙´ᵘ mạcki‘ki; ka‘kina ändaswäwānạgisiwāt — mạnidōwäncạg, awäsīyänsạg, kunimā gayä gitci∙a∙wäsīyạg, kumā gayä kāpimisäwāt, kānūdci∙i∙ndwā — tōwạg ka‘kina iᵘ tōwa mạcki‘ki; kayäku anicinābäᵉk wīsāgi∙i∙tiwād udābạdci‘tōnāwa ī∙i∙ᵘ tōwa mạcki‘ki, unạmạn.</span>
 
 <span class="l-fiero">**Gii-wiindamaagod ged-izhichiged giishpin wii-aabaji’tood mii iw mashkiki; gakina endaswewaanagiziwaad — manidoowenshag, awesiiyensag, gonimaa gaye gichi-awesiiyag, gomaa gaye gaa-bimisewaad, gaa-noojii’indwaa — dinowag gakina iw dinowa mashkiki; gaye go anishinaabeg wii-zaagi’idiwaad odaabaji’toonaawaa i’iw dinowa mashkiki, onaman.**</span>
 
@@ -109,7 +110,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gii-wiindamaagod (he was instructed) ged-izhichiged (what he should do) giishpin wii-aabaji’tood (if he wished to use) mii iw mashkiki (that medicine); gakina endaswewaanagiziwaad (all the kinds of living beings there are) — manidoowenshag (insects), awesiiyensag (small animals), gonimaa gaye gichi-awesiiyag (or also the big animals), gomaa gaye gaa-bimisewaad (or also those that fly), gaa-noojii’indwaa (those that are hunted) — dinowag gakina (all such kinds) iw dinowa mashkiki (is what that kind of medicine is for); gaye go anishinaabeg (and also people) wii-zaagi’idiwaad (when they wish to love one another) odaabaji’toonaawaa (they use it) i’iw dinowa mashkiki (that kind of medicine), onaman (the magic paint).</span>
 
-<span class="l-orig">(12) Kīcpin ī∙i∙’ᵘ tōwa ābạdci‘tōd inini wī‘kạnōnāt i‘kwäwạn, mīgō∙i∙’ᵘ pạnādci∙ā∙t.</span>
+<span class="l-orig">(12) Kīcpin ī∙i∙´ᵘ tōwa ābạdci‘tōd inini wī‘kạnōnāt i‘kwäwạn, mīgō∙i∙´ᵘ pạnādci∙ā∙t.</span>
 
 <span class="l-fiero">**Giishpin i’iw dinowa aabaji’tood inini wii-ganoonaad ikwewan, mii go iw banaaji’aad.**</span>
 
@@ -125,7 +126,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gakina (all) ogii-bi-aabaji’toonaawaa (they have used it) anishinaabeg (the people) gii-nandawenjigewaad (when they hunted for game).</span>
 
-<span class="l-orig">(14) Nānīngutînō kāwīn kạnagä uwīki‘kändazīn tci∙u∙cimut ‘aᵉa’ᵘ awäⁿsī, kumā gayä ni‘kạg.</span>
+<span class="l-orig">(14) Nānīngutînō kāwīn kạnagä uwīki‘kändazīn tci∙u∙cimut ‘aᵉa´ᵘ awäⁿsī, kumā gayä ni‘kạg.</span>
 
 <span class="l-fiero">**Naaningodinoo gaawiin ganage owii-gikendanziin ji-ozhimod a’aw awesiinh, gomaa gaye nikag.**</span>
 
@@ -133,7 +134,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Naaningodinoo (frequently) gaawiin ganage (not even) owii-gikendanziin (does it know enough) ji-ozhimod (to flee) a’aw awesiinh (that game animal), gomaa gaye nikag (likewise also the geese).</span>
 
-<span class="l-orig">(15) Mīdạc igu iᵘ kayä wīn ‘aᵉa’ᵘ i‘kwä ändōdāgut ini’ᵘ unạmạnạn.</span>
+<span class="l-orig">(15) Mīdạc igu iᵘ kayä wīn ‘aᵉa´ᵘ i‘kwä ändōdāgut īni´ᵘ unamạnạn.</span>
 
 <span class="l-fiero">**Mii dash igo iw gaye wiin a’aw ikwe endoodaagod iniw onamanan.**</span>
 
@@ -141,7 +142,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Mii dash igo iw (and so it is the same) gaye wiin a’aw ikwe (also with that woman) endoodaagod (what is done to her) iniw onamanan (by the magic paint).</span>
 
-<span class="l-orig">(16) Kumā gayä i‘kwäwạg nānīngutînō udābạtci∙ā∙wān ini’ᵘ unạmạnạn.</span>
+<span class="l-orig">(16) Kumā gayä i‘kwäwạg nānīngutînō udābạtci∙ā∙wān īni´ᵘ unamạnạn.</span>
 
 <span class="l-fiero">**Gomaa gaye ikwewag naaningodinoo odaabaji’aawaan iniw onamanan.**</span>
 
@@ -149,7 +150,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gomaa gaye (and also) ikwewag (women) naaningodinoo (often) odaabaji’aawaan (they use it; *onaman takes animate marking here*) iniw onamanan (the magic paint).</span>
 
-<span class="l-orig">(17) Kāwīn ā‘pidci ‘aᵉa’ᵘ i‘kwä mīnāsī ini’ᵘ unạmạnạn; nạnīzānädạgwạt i‘kwä äcimīnint ini’ᵘ unạmạnạn.</span>
+<span class="l-orig">(17) Kāwīn ā‘pidci ‘aᵉa´ᵘ i‘kwä mīnāsī īni´ᵘ unamạnạn; nạnīzānädạgwạt i‘kwä äcimīnint īni´ᵘ unamạnạn.</span>
 
 <span class="l-fiero">**Gaawiin aapiji a’aw ikwe miinaasii iniw onamanan; naniizaanedagwad ikwe ezhi-miinind iniw onamanan.**</span>
 
@@ -157,7 +158,7 @@ STRONG, BITTER STICK.
 
 <span class="l-gloss">Gaawiin aapiji (not often) a’aw ikwe (a woman) miinaasii (is given) iniw onamanan (the magic paint); naniizaanedagwad (it is dangerous) ikwe ezhi-miinind (when a woman is given) iniw onamanan (the magic paint).</span>
 
-<span class="l-orig">(18) Pa‘kān ijitcigātä ī∙i∙’ᵘ nānīngutinū wīmīnint ‘aᵉa’ᵘ i‘kwä.</span>
+<span class="l-orig">(18) Pa‘kān ijitcigātä ī∙i∙´ᵘ nāningutînū wīmīnint ‘aᵉa´ᵘ i‘kwä.</span>
 
 <span class="l-fiero">**Bakaan izhichigaade i’iw naaningodinoo wii-miinind a’aw ikwe.**</span>
 

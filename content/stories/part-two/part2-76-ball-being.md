@@ -2,7 +2,6 @@
 title: "76. Ball-Being"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -43,7 +42,7 @@ BALL-BEING.
 
 <span class="l-gloss">Ezhi-gibishangajiid (being blocked up), mii sa ezhi-bwaanawi’tood (so he failed at it).</span>
 
-<span class="l-orig">(4) Mīsa’ äcinisigut.</span>
+<span class="l-orig">(4) Mīsa´ äcinisigut.</span>
 
 <span class="l-fiero">**Mii sa ezhi-nisigod.**</span>
 
@@ -58,7 +57,5 @@ BALL-BEING.
 <span class="l-eng">*Whereupon the buttocks of the ruffed grouse. . .*</span>
 
 <span class="l-gloss">Mii sa binewi-jiid (and so the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).</span>
-
-*“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
 
 </div>

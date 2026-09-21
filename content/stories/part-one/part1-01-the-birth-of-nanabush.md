@@ -2,7 +2,6 @@
 title: "1. The Birth of Nanabush"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -21,15 +20,15 @@ The Birth of Nenabosho
 
 <span class="l-orig">(1) Uwīgiwāmiwạg anicinābäg, mindimōyäⁿ udānisạn uwīdigämān.</span>
 
-<span class="l-fiero">**Owiigiwaaming anishinaabeg, mindimooyenh odaanisan owiidigemaan.**</span>
+<span class="l-fiero">**Owiigiwaamiwag* anishinaabeg, mindimooyenh odaanisan owiidigemaan.**</span>
 
 <span class="l-eng">*In a wigwam lived some people, an old woman with her daughter dwelt.*</span>
 
-<span class="l-gloss">Owiigiwaaming anishinaabeg (in their wigwam, some people), mindimooyenh odaanisan owiidigemaan (an old woman dwelt with her daughter).</span>
+<span class="l-gloss">Owiigiwaamiwag anishinaabeg (in a wigwam lived some people — *stem flagged*), mindimooyenh odaanisan owiidigemaan (an old woman dwelt with her daughter).</span>
 
 <span class="l-orig">(2) Ninguting uganōnān īni’ᵘ udānisạn: “Ambäsạnō nindānis aiyāngwāmizin. Wīnōndawicin kä∙i∙ninān.</span>
 
-<span class="l-fiero">**Ningoding oganoonaan iniw odaanisan: “Ambe sa noo nindaanis  aiyaangwaamizin. Wii noondawishin ge-ininaan.**</span>
+<span class="l-fiero">**Ningoding oganoonaan iniw odaanisan: “Ambe sa noo nindaanis  aiyaangwaamizin. Wii-noondawishin ge-ininaan.**</span>
 
 <span class="l-eng">*Once she spoke to her daughter, saying: “I beg of you, my daughter, be on your guard. I would have you listen to what I am going to tell you.*</span>
 
@@ -63,15 +62,15 @@ The Birth of Nenabosho
 
 <span class="l-orig">(6) Mī∙i∙wisa äjinanīsānäniminān.</span>
 
-<span class="l-fiero">**Mii i’wi sa ezhi-naniizaaneniminaan.**</span>
+<span class="l-fiero">**Mii iw isa ezhi-naniizaaneniminaan.**</span>
 
 <span class="l-eng">*That is what causes me to entertain fears for you.*</span>
 
-<span class="l-gloss">Mii i’wi sa ezhi-naniizaaneniminaan (that is why I hold you in fear for your safety).</span>
+<span class="l-gloss">Mii iw isa ezhi-naniizaaneniminaan (that is why I hold you in fear for your safety).</span>
 
 <span class="l-orig">(7) Aiyāngwāmisin ‘iᵉi’ᵘ nōngumäninān tci∙i∙jictcigäyạn; kiga∙i∙nigā‘tōn kīya’ᵘ.</span>
 
-<span class="l-fiero">**Aiyaangwaamizin i’iw [noongomeninaan] ji-izhichigeyan; giga inigaatoon kiiyaw.**</span>
+<span class="l-fiero">**Aiyaangwaamizin i’iw [noongomeninaan] ji-izhichigeyan; giga-inigaatoon kiiyaw.**</span>
 
 <span class="l-eng">*Be careful to give heed to that which I now tell you to do; (or else) you will bring (an evil) fate upon yourself.*</span>
 
@@ -129,21 +128,21 @@ The Birth of Nenabosho
 
 <span class="l-orig">(14) Kāijiki‘kändạnk ta‘kācit i∙i∙widi osāga∙ạ∙mōwining.³</span>
 
-<span class="l-fiero">**Gaa-izhi-kikendang dakaashid i’iwidi ozaaga’amoowining.**</span>
+<span class="l-fiero">**Gaa-izhi-gikendang dakaashid i’iwidi ozaaga’amoowining.**</span>
 
 <span class="l-eng">*When she felt it, she was chilled there at the place of the passage out.*</span>
 
-<span class="l-gloss">Gaa-izhi-kikendang dakaashid (when she felt herself grow cold) i’iwidi ozaaga’amoowining (there at the place of the doorway / passage out).</span>
+<span class="l-gloss">Gaa-izhi-gikendang dakaashid (when she felt herself grow cold) i’iwidi ozaaga’amoowining (there at the place of the doorway / passage out).</span>
 
 *Osāga∙a∙mōwining, “at the place of the passage out,” a euphemistic expression for the vulva.*
 
 <span class="l-orig">(15) Mīdạc äjipạsigundcisät. “Nimāmā, nạckäginīn, kā∙i∙ji∙ạ∙yāyān!</span>
 
-<span class="l-fiero">**Mii dash ezhi-pasigonjised. “nimaamaa, nashke giniin, gaa-izhi ayaayaan!**</span>
+<span class="l-fiero">**Mii dash ezhi-basigonjised. “Nimaamaa, nashke giniin, gaa-izhi-ayaayaan!**</span>
 
 <span class="l-eng">*Accordingly she quickly leaped to her feet. “O my mother, behold the state that I am in!*</span>
 
-<span class="l-gloss">Mii dash ezhi-pasigonjised (then she sprang quickly to her feet). “Nimaamaa, nashke giniin (“my mother, look at me), gaa-izhi-ayaayaan! (the state I am in!)</span>
+<span class="l-gloss">Mii dash ezhi-basigonjised (then she sprang quickly to her feet). “Nimaamaa, nashke giniin (“my mother, look at me), gaa-izhi-ayaayaan! (the state I am in!)</span>
 
 <span class="l-orig">(16) mīgạnabạtc kā∙i∙jiyạn äji∙ạ∙yāyān.”</span>
 
@@ -155,19 +154,19 @@ The Birth of Nenabosho
 
 <span class="l-orig">(17) Kā∙i∙jikạnōnāt a∙a∙ᵘ mindimōyä īni’ᵘ udānisạn: “Mämindagä gigi∙i∙nigā‘tōn kīya’ᵘ.”</span>
 
-<span class="l-fiero">**Gaa-izhi-kanoonaad a’aw mindimoyenh iniw odaanisan: “Memindage  gigii-inigaatoon kiiyaw.”**</span>
+<span class="l-fiero">**Gaa-izhi-ganoonaad a’aw mindimooye iniw odaanisan: “Memindage  gigii-inigaatoon giiyaw.”**</span>
 
 <span class="l-eng">*Then spoke the old woman to her daughter, saying: “Exceeding harm have  you done to yourself.”*</span>
 
-<span class="l-gloss">Gaa-izhi-kanoonaad a’aw mindimoyenh iniw odaanisan (then the old woman spoke to her daughter): “Memindage gigii-inigaatoon kiiyaw.” (“exceedingly you have harmed yourself.”)</span>
+<span class="l-gloss">Gaa-izhi-ganoonaad a’aw mindimooye iniw odaanisan (then the old woman spoke to her daughter): “Memindage gigii-inigaatoon giiyaw.” (“exceedingly you have harmed yourself.”)</span>
 
 <span class="l-orig">(18) Ānīc mīsa iᵘ cigwa gīmawit aᵘ mindimōyä. “Ānīc mīgu iᵘ nindānis, īnigā‘tōyạn kīya’ᵘ.</span>
 
-<span class="l-fiero">**Aaniish mii sa iw zhigwa gii-mawid aw mindimoyenh. “Aaniish mii go  iw nindaanis, inigaatooyan kiiyaw.**</span>
+<span class="l-fiero">**Aaniish mii sa iw zhigwa gii-mawid aw mindimooye. “Aaniish mii go  iw nindaanis, inigaatooyan giiyaw.**</span>
 
 <span class="l-eng">*So therefore then did the old woman weep. “Now therefore, my daughter,  have you done yourself a hurt.*</span>
 
-<span class="l-gloss">Aaniish mii sa iw zhigwa gii-mawid aw mindimoyenh (and so then the old woman wept). “Aaniish mii go iw nindaanis (“so it is, my daughter), inigaatooyan kiiyaw (you have done harm to your own body).</span>
+<span class="l-gloss">Aaniish mii sa iw zhigwa gii-mawid aw mindimooye (and so then the old woman wept). “Aaniish mii go iw nindaanis (“so it is, my daughter), inigaatooyan giiyaw (you have done harm to your own body).</span>
 
 <span class="l-orig">(19) Nạckäguta kä∙i∙jiwäbisiyạn.</span>
 
@@ -179,19 +178,19 @@ The Birth of Nenabosho
 
 <span class="l-orig">(20) Awiya kīpindigäwạg kīyawing, mīgu iᵘ nindānis, īnigāsiyạn.</span>
 
-<span class="l-fiero">**Awiya gii-piindigewag kiiyawing, mii go iw nindaanis, inigaaziyan.**</span>
+<span class="l-fiero">**Awiya gii-biindigewag giiyawing, mii go iw nindaanis, inigaaziyan.**</span>
 
 <span class="l-eng">*Certain beings have entered into your body: therefore, my daughter, you are  in a pitiable state.*</span>
 
-<span class="l-gloss">Awiya gii-piindigewag kiiyawing (certain beings have entered into your body), mii go iw nindaanis, inigaaziyan (and so, my daughter, you are in a pitiable state).</span>
+<span class="l-gloss">Awiya gii-biindigewag giiyawing (certain beings have entered into your body), mii go iw nindaanis, inigaaziyan (and so, my daughter, you are in a pitiable state).</span>
 
 <span class="l-orig">(21) Kāwīn anicinābäwisiwạg kā‘pindigäwād imāsa giyạwing.</span>
 
-<span class="l-fiero">**Gaawiin anishinaabewisiiwag gaa-piindigewaad imaa sa kiiyawing.**</span>
+<span class="l-fiero">**Gaawiin anishinaabewisiiwag gaa-piindigewaad imaa sa giiyawing.**</span>
 
 <span class="l-eng">*They are not human beings that have gone inside of you there.*</span>
 
-<span class="l-gloss">Gaawiin anishinaabewisiiwag (they are not human beings) gaa-piindigewaad imaa sa kiiyawing (those that have entered there into your body).</span>
+<span class="l-gloss">Gaawiin anishinaabewisiiwag (they are not human beings) gaa-piindigewaad imaa sa giiyawing (those that have entered there into your body).</span>
 
 <span class="l-orig">(22) Kāwīn wāsa iᵘ tcinīgiwād.</span>
 
@@ -211,35 +210,35 @@ The Birth of Nenabosho
 
 <span class="l-orig">(24) Ānīc nạckädạc kumāgu ya‘pī mīsạgū kīnōndawāt a∙a∙wisa mindamōyä awīya mạdwägī‘kāndinit.</span>
 
-<span class="l-fiero">**Aaniish nashke dash gomaa go apii mii sa go gii-noondawaad a’aw isa  mindimoyenh awiya madwegiikaandinid.**</span>
+<span class="l-fiero">**Aaniish nashke dash gomaa go apii mii sa go gii-noondawaad a’aw isa  mindimooye awiya madwegiikaandinid.**</span>
 
 <span class="l-eng">*Now, lo, in the course of time did the old women hear the sound of beings  that were quarrelling one with another.*</span>
 
-<span class="l-gloss">Aaniish nashke dash gomaa go apii (now, behold, after a while) mii sa go gii-noondawaad a’aw isa mindimoyenh (the old woman heard) awiya madwegiikaandinid (the sound of beings quarrelling with one another).</span>
+<span class="l-gloss">Aaniish nashke dash gomaa go apii (now, behold, after a while) mii sa go gii-noondawaad a’aw isa mindimooye (the old woman heard) awiya madwegiikaandinid (the sound of beings quarrelling with one another).</span>
 
 <span class="l-orig">(25) Ugīki‘känimā anāmaya∙ī∙tạnwäwätạminit.</span>
 
-<span class="l-fiero">**Ogii-kikenimaa anaamaya’ii danwewedaminid.**</span>
+<span class="l-fiero">**Ogii-gikenimaa anaamaya’ii danwewedaminid.**</span>
 
 <span class="l-eng">*She knew by the sound of their voices that they were inside.*</span>
 
-<span class="l-gloss">Ogii-kikenimaa anaamaya’ii danwewedaminid (she knew by their voices that they were inside her).</span>
+<span class="l-gloss">Ogii-gikenimaa anaamaya’ii danwewedaminid (she knew by their voices that they were inside her).</span>
 
 <span class="l-orig">(26) Mīdạc mōjạg kīmawit ‘aᵉa’ᵘ mindimoyä.</span>
 
-<span class="l-fiero">**Mii dash moozhag gii-mawid a’aw mindimoyenh.**</span>
+<span class="l-fiero">**Mii dash moozhag gii-mawid a’aw mindimooye.**</span>
 
 <span class="l-eng">*And so without ceasing did the old woman weep.*</span>
 
-<span class="l-gloss">Mii dash moozhag gii-mawid a’aw mindimoyenh (and so the old woman wept without ceasing).</span>
+<span class="l-gloss">Mii dash moozhag gii-mawid a’aw mindimooye (and so the old woman wept without ceasing).</span>
 
 <span class="l-orig">(27) Mīdạc kägä‘t i∙i∙mā kīkwaya‘kwänimāt tcipimādisisinit īni’ᵘ udānisạn.</span>
 
-<span class="l-fiero">**Mii dash geget i’imaa gii-kwayakwenimaad ji-pimaadizinid iniw  odaanisan.**</span>
+<span class="l-fiero">**Mii dash geget i’imaa gii-gwayakwenimaad ji-bimaadizisinid iniw  odaanisan.**</span>
 
 <span class="l-eng">*It was true that then was she sure that her daughter would not live.*</span>
 
-<span class="l-gloss">Mii dash geget i’imaa gii-kwayakwenimaad (it was then she was sure / convinced) ji-pimaadizinid iniw odaanisan (that her daughter would not live).</span>
+<span class="l-gloss">Mii dash geget i’imaa gii-gwayakwenimaad (it was then she was sure / convinced) ji-bimaadizisinid iniw odaanisan (that her daughter would not live).</span>
 
 <span class="l-orig">(28) Ānīc ogīnōndawāsa ‘iᵉi’ᵘ gā‘kāndinit, ‘iᵉi’mā umisadāning tạnwäwätạminit.</span>
 
@@ -269,35 +268,35 @@ The Birth of Nenabosho
 
 <span class="l-orig">(31) Ānīc mīsā‘pạnä mawit aᵘ mindimoyä pisindawāt ‘īᵉi’ᵘ gā‘kāndinit.</span>
 
-<span class="l-fiero">**Aaniish mii sa pane mawid aw mindimoyenh bizindawaad i’iw  gaakaandinid.**</span>
+<span class="l-fiero">**Aaniish mii sa pane mawid aw mindimooye bizindawaad i’iw  gaakaandinid.**</span>
 
 <span class="l-eng">*It was natural that all the while the old woman should weep as she listened  to them quarrelling one with another.*</span>
 
-<span class="l-gloss">Aaniish mii sa pane mawid aw mindimoyenh (so all the while the old woman wept) bizindawaad i’iw gaakaandinid (as she listened to them quarrelling).</span>
+<span class="l-gloss">Aaniish mii sa pane mawid aw mindimooye (so all the while the old woman wept) bizindawaad i’iw gaakaandinid (as she listened to them quarrelling).</span>
 
 <span class="l-orig">(32) Ugīkikänimā aᵘ mindimōyä ‘iᵉi’ᵘ wātạcinit ‘iᵉi’ᵘᵘ∙ ō∙cicäⁿyaᵉ.</span>
 
-<span class="l-fiero">**Ogii-kikenimaa aw mindimoyenh I’iw waa-dazhinid i’iw ooshisheya’.**</span>
+<span class="l-fiero">**Ogii-gikenimaa aw mindimooye i’iw waa-dazhinid i’iw oozhishenya’.**</span>
 
 <span class="l-eng">*Knowledge of them had the old woman as to how many would her  grandchildren be.*</span>
 
-<span class="l-gloss">Ogii-kikenimaa aw mindimoyenh i’iw waa-dazhinid i’iw ooshisheya’ (the old woman knew how many her grandchildren would be).</span>
+<span class="l-gloss">Ogii-gikenimaa aw mindimooye i’iw waa-dazhinid i’iw oozhishenya’ (the old woman knew how many her grandchildren would be).</span>
 
 <span class="l-orig">(33) Na, mīdạc ‘iᵉi’ᵘ ä‘kidowāt nạgāwäbinitīwāt (ayāni) ānawisāga∙ạ∙mōwāt.</span>
 
-<span class="l-fiero">**Na, mii dash ii’iw ekidowaad nagaawebinidiwaad (ayaani) aanawi saaga’amowaad.**</span>
+<span class="l-fiero">**Na, mii dash i’iw ekidowaad nagaawebinidiwaad (ayaani) aanawi saaga’amowaad.**</span>
 
 <span class="l-eng">*Hark! this was what they said as they pushed one another back from the  place where they tried in vain to go out.*</span>
 
-<span class="l-gloss">Na, mii dash ii’iw ekidowaad (look, this is what they said) nagaawebinidiwaad (as they pushed one another back) (ayaani) aanawi saaga’amowaad (when in vain they tried to go out).</span>
+<span class="l-gloss">Na, mii dash i’iw ekidowaad (look, this is what they said) nagaawebinidiwaad (as they pushed one another back) (ayaani) aanawi saaga’amowaad (when in vain they tried to go out).</span>
 
 <span class="l-orig">(34) Igiwidạc ānind ānugī∙i∙‘kitōwạg: “Kägu pina! kiga∙i∙niga∙ā∙nān kuca kimāmānān.</span>
 
-<span class="l-fiero">**Igiw dash aanind aano-gii-ikidowag: “gego bina! Kiga-iniga’aanaan  gosha gi-maamaanaan.**</span>
+<span class="l-fiero">**Igiw dash aanind aano-gii-ikidowag: “Gego bina! Giga-iniga’aanaan  gosha gi-maamaanaan.**</span>
 
 <span class="l-eng">*But others of them tried, but to no purpose, to say: “Don’t, please! We shall  surely do injury to our mother.*</span>
 
-<span class="l-gloss">Igiw dash aanind aano-gii-ikidowag (but some of them tried in vain to say): “Gego bina! (“don’t, please!) Kiga-iniga’aanaan gosha gi-maamaanaan (we will surely hurt our mother).</span>
+<span class="l-gloss">Igiw dash aanind aano-gii-ikidowag (but some of them tried in vain to say): “Gego bina! (“don’t, please!) Giga-iniga’aanaan gosha gi-maamaanaan (we will surely hurt our mother).</span>
 
 <span class="l-orig">(35) Wäwäni pinạgu sāga∙ạ ndā,” ānu∙i∙‘kidōwạg.</span>
 
@@ -309,11 +308,11 @@ The Birth of Nenabosho
 
 <span class="l-orig">(36) Kāwīndạc ijiminwädaⁿzīwạg īgi’ᵘ wasāzī‘kizitcig.</span>
 
-<span class="l-fiero">**Gaawiin idash izhi-minwedaziiwag igiw waa-saziikizijig.**</span>
+<span class="l-fiero">**Gaawiin idash izhi-minwedanziiwag igiw waa-saziikizijig.**</span>
 
 <span class="l-eng">*But not content with the idea were they who wished to be the eldest.*</span>
 
-<span class="l-gloss">Gaawiin idash izhi-minwedaziiwag (but they were not content) igiw waa-saziikizijig (those who wished to be the eldest).</span>
+<span class="l-gloss">Gaawiin idash izhi-minwedanziiwag (but they were not content) igiw waa-saziikizijig (those who wished to be the eldest).</span>
 
 <span class="l-orig">(37) Mīdạc ‘iᵉi’ᵘ ä‘kidowāt cigwa ạnōtcigu wī∙i∙jisāga∙ạ∙mowād.</span>
 
@@ -349,53 +348,53 @@ The Birth of Nenabosho
 
 <span class="l-orig">(41) mīdạc iᵘ kā∙i∙jipīguckawāwād īni’ᵘ umāmā∙i∙wān.¹</span>
 
-<span class="l-fiero">**mii dash iw gaa-izhi-piigoshkawaawaad iniw omaamaawaan.**</span>
+<span class="l-fiero">**mii dash iw gaa-izhi-biigoshkawaawaad iniw omaamaawaan.**</span>
 
 <span class="l-eng">*then was when they burst open their mother.*</span>
 
-<span class="l-gloss">mii dash iw gaa-izhi-piigoshkawaawaad iniw omaamaawaan (then it was that they burst their mother open).</span>
+<span class="l-gloss">mii dash iw gaa-izhi-biigoshkawaawaad iniw omaamaawaan (then it was that they burst their mother open).</span>
 
 *It is said that four was the number of them that thus came forth: Nänabushu, the deer, the chickadee, and the Sun. It is said that the deer was one of the very first animals to be created.*
 
 <span class="l-orig">(42) Wī‘kāgu ningutci pạpā∙i∙nābit mindimōyä ugimi‘kān miskwi pạngī.</span>
 
-<span class="l-fiero">**Wiikaa go ningoji babaa-inaabid mindimoyenh ogii-mikaan miskwi  bangii.**</span>
+<span class="l-fiero">**Wiikaa go ningoji babaa-inaabid mindimooye ogii-mikaan miskwi  bangii.**</span>
 
 <span class="l-eng">*After a while at a certain place where round about the old woman was  looking she found a clot of blood.*</span>
 
-<span class="l-gloss">Wiikaa go ningoji babaa-inaabid mindimoyenh (after a while, looking about here and there, the old woman) ogii-mikaan miskwi bangii (found a little blood — a clot of blood).</span>
+<span class="l-gloss">Wiikaa go ningoji babaa-inaabid mindimooye (after a while, looking about here and there, the old woman) ogii-mikaan miskwi bangii (found a little blood — a clot of blood).</span>
 
 <span class="l-orig">(43) Mīsa wīgwās äjipāpạgunạng.</span>
 
-<span class="l-fiero">**Mii sa wiigwaas ezhi-paapagonang.**</span>
+<span class="l-fiero">**Mii sa wiigwaas ezhi-baabagonang.**</span>
 
 <span class="l-eng">*Thereupon some birch-bark she began peeling (from a tree).*</span>
 
-<span class="l-gloss">Mii sa wiigwaas ezhi-paapagonang (thereupon she began peeling some birch-bark).</span>
+<span class="l-gloss">Mii sa wiigwaas ezhi-baabagonang (thereupon she began peeling some birch-bark).</span>
 
 <span class="l-orig">(44) Mīdạc imā kā∙i∙ji∙a∙‘tōd wīgwāsing ‘iᵉi’ᵘ miskwi kā∙i∙jikackạckwämạginạng, mīsa’ kā∙i∙jina∙i∙nạng.</span>
 
-<span class="l-fiero">**Mii dash imaa gaa-izhi-atood wiigwaasing i’iw miskwi gaa-izhi kashkashkwemaginang, mii sa gaa-izhina’inang.**</span>
+<span class="l-fiero">**Mii dash imaa gaa-izhi-atood wiigwaasing i’iw miskwi gaa-izhi-gashkashkwemaginang, mii sa gaa-izhina’inang.**</span>
 
 <span class="l-eng">*And now, after she had put the blood upon the bark, she then folded the bark  over it, and laid it away.*</span>
 
-<span class="l-gloss">Mii dash imaa gaa-izhi-atood wiigwaasing i’iw miskwi (and then she put the blood there on the birch-bark) gaa-izhi-kashkashkwemaginang (she folded the bark over it), mii sa gaa-izhina’inang (and so laid it away).</span>
+<span class="l-gloss">Mii dash imaa gaa-izhi-atood wiigwaasing i’iw miskwi (and then she put the blood there on the birch-bark) gaa-izhi-gashkashkwemaginang (she folded the bark over it), mii sa gaa-izhina’inang (and so laid it away).</span>
 
 <span class="l-orig">(45) Ānīc pītcīnạg ugīwâbạndān.</span>
 
-<span class="l-fiero">**Aaniish piijiinag ogii-waabandaan.**</span>
+<span class="l-fiero">**Aaniish bijiinag ogii-waabandaan.**</span>
 
 <span class="l-eng">*Naturally, by and by she looked at it.*</span>
 
-<span class="l-gloss">Aaniish piijiinag ogii-waabandaan (by and by she looked at it).</span>
+<span class="l-gloss">Aaniish bijiinag ogii-waabandaan (by and by she looked at it).</span>
 
 <span class="l-orig">(46) Ningudingigu āpạckwämạginạng ugīwâbạmān ạbinōdciyạn, mīgu ‘iᵉi’ᵘ kīkạnōnigut, o∙o∙dac ogī∙i∙gōn:</span>
 
-<span class="l-fiero">**Ningoding igo aapashkwemaginang ogii-waabamaan abinoojiiyan, mii  go i’iw gii- ganoonigod, o’ow dash ogii-igoon:**</span>
+<span class="l-fiero">**Ningoding igo aabashkwemaginang ogii-waabamaan abinoojiiyan, mii  go i’iw gii-ganoonigod, o’ow dash ogii-igoon:**</span>
 
 <span class="l-eng">*Now, once when she opened the bark she beheld a babe, whereupon she was  addressed, and this is what she was told:*</span>
 
-<span class="l-gloss">Ningoding igo aapashkwemaginang (once when she opened the bark) ogii-waabamaan abinoojiiyan (she beheld a child), mii go i’iw gii-ganoonigod (whereupon she was spoken to), o’ow dash ogii-igoon (and this is what she was told):</span>
+<span class="l-gloss">Ningoding igo aabashkwemaginang (once when she opened the bark) ogii-waabamaan abinoojiiyan (she beheld a child), mii go i’iw gii-ganoonigod (whereupon she was spoken to), o’ow dash ogii-igoon (and this is what she was told):</span>
 
 <span class="l-orig">(47) “Nō‘komis,” ogī∙i∙gōn a‘pī känōnigut.</span>
 
@@ -407,10 +406,10 @@ The Birth of Nenabosho
 
 <span class="l-orig">(48) Ānīc mīsa cigwa ugī∙i∙gōn: “Gīki‘känimna ayāwiyān? Nīnîsa Nänabucu.</span>
 
-<span class="l-fiero">**Aaniish mii sa zhigwa ogii-igoon: “Gi-kikenim na ayaawiyaan? Niin isa  Nenabosho.”**</span>
+<span class="l-fiero">**Aaniish mii sa zhigwa ogii-igoon: “Gi-gikenim na ayaawiyaan? Niin isa  Nenabosho.”**</span>
 
 <span class="l-eng">*So now this was what she was told: “Do you know who I am? Why, I am  Nanabushu.*</span>
 
-<span class="l-gloss">Aaniish mii sa zhigwa ogii-igoon (so now this is what she was told): “Gi-kikenim na ayaawiyaan? (“do you know who I am?) Niin isa Nenabosho.” (Why, I am Nenabosho.”)</span>
+<span class="l-gloss">Aaniish mii sa zhigwa ogii-igoon (so now this is what she was told): “Gi-gikenim na ayaawiyaan? (“do you know who I am?) Niin isa Nenabosho.” (Why, I am Nenabosho.”)</span>
 
 </div>

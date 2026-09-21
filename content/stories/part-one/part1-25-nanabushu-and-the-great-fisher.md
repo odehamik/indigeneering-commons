@@ -2,7 +2,6 @@
 title: "25. Nanabushu and the Great Fisher"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -35,11 +34,11 @@ Nenabosho and the Great Fisher
 
 <span class="l-orig">(3) “Ä‘tiwä, ạmbägicsạ wâbạmạg awägwänīwigwän ‘aᵉa’ᵘ nägạmut. Ạmbäsa, ningawīkagwäwâbạmā,” inändạm.</span>
 
-<span class="l-fiero">**“Etiwe*, ambegish sa waabamag awegweniiwigwen a’aw negamod. Ambe sa, ninga-wiikagwewaabamaa,” inendam.**</span>
+<span class="l-fiero">**“Etiwe, ambegish sa waabamag awegweniiwigwen a’aw negamod. Ambe sa, ninga-wiikagwewaabamaa,” inendam.**</span>
 
 <span class="l-eng">*“Ah, would that I might see who the singer is! I say, I am going to try to see (who it is),” he thought.*</span>
 
-<span class="l-gloss">“Etiwe*, ambegish sa (“ah, would that) waabamag awegweniiwigwen (I might see whoever it is) a’aw negamod (the one singing). Ambe sa (come now), ninga-wiikagwewaabamaa,” (I will try to get a look at him,”) inendam (he thought).</span>
+<span class="l-gloss">“Etiwe, ambegish sa (“ah, would that) waabamag awegweniiwigwen (I might see whoever it is) a’aw negamod (the one singing). Ambe sa (come now), ninga-wiikagwewaabamaa,” (I will try to get a look at him,”) inendam (he thought).</span>
 
 <span class="l-orig">(4) Äjimādcāt Nänabucu.</span>
 
@@ -51,27 +50,27 @@ Nenabosho and the Great Fisher
 
 <span class="l-orig">(5) Ạbā‘pic payäcu‘tawāt, undcitasawīn kāwīn pācigwạnung ayāsītug äni‘tawāt.</span>
 
-<span class="l-fiero">**Abaapish bayeshodawaad*, onjida sa wiin gaawiin baashigwanong ayaasiidog enitawaad.**</span>
+<span class="l-fiero">**Abaapish bayeshotawaad*, onjida sa wiin gaawiin baashigwanong ayaasiidog enitawaad.**</span>
 
 <span class="l-eng">*By the time he was in close hearing distance of him, it seemed by the way he heard him that the being was not in any one place.*</span>
 
-<span class="l-gloss">Abaapish bayeshodawaad* (by the time he was within close hearing of him), onjida sa wiin (it really seemed) gaawiin baashigwanong ayaasiidog (that he was not in any one place) enitawaad (by the way he heard him — *stem flagged*).</span>
+<span class="l-gloss">Abaapish bayeshotawaad* (by the time he was within close hearing of him), onjida sa wiin (it really seemed) gaawiin baashigwanong ayaasiidog (that he was not in any one place) enitawaad (by the way he heard him — *stem flagged*).</span>
 
 <span class="l-orig">(6) Cigwasa päcu’ owâbạndān ki‘tcigạmi, kuniginīn miciwutcīgạn ayācawikwāskwạniwạn ‘iᵉiᵘ kiˢtcigạmi.</span>
 
-<span class="l-fiero">**Zhigwa sa besho owaabandaa gichigami, goniginiin mishiwojiigan ayaazhawikwaashkwaniwan i’iw gichi-gami.**</span>
+<span class="l-fiero">**Zhigwa sa besho owaabandaan gichigami, goniginiin mishiwojiigan ayaazhawikwaashkwaniwan i’iw gichi-gami.**</span>
 
 <span class="l-eng">*When he had a near view of the sea, lo, (he saw) a great fisher(1) leaping back and forth across the sea.*</span>
 
-<span class="l-gloss">Zhigwa sa besho owaabandaa gichigami (then he had a near view of the sea), goniginiin mishiwojiigan (lo, a great Fisher) ayaazhawikwaashkwaniwan (was leaping back and forth across) i’iw gichi-gami (that sea).</span>
+<span class="l-gloss">Zhigwa sa besho owaabandaan gichigami (then he had a near view of the sea), goniginiin mishiwojiigan (lo, a great Fisher) ayaazhawikwaashkwaniwan (was leaping back and forth across) i’iw gichi-gami (that sea).</span>
 
 <span class="l-orig">(7) Mīdạc ‘iᵉi’ᵘ sasīpuckānik ‘iᵉi’ᵘ kiˢtcigạmi mīdạc imā ayācawikwāskuninit, pä‘kicidạc nạgạmōwạn:</span>
 
-<span class="l-fiero">**Mii dash i’iw zasiiboshkaanig i’iw gichi-gami mii dash imaa ayaazhawikwaashkoninid, bekish idash nagaomoowan:**</span>
+<span class="l-fiero">**Mii dash i’iw zasiiboshkaanig i’iw gichi-gami mii dash imaa ayaazhawikwaashkoninid, bekish idash nagamowan:**</span>
 
 <span class="l-eng">*It was at the coming-together of the shores of the sea where to and fro he leaped, at the same time he sang:*</span>
 
-<span class="l-gloss">Mii dash i’iw zasiiboshkaanig i’iw gichi-gami (it was where the shores of the sea came together — *stem flagged*) mii dash imaa ayaazhawikwaashkoninid (that there he leaped to and fro), bekish idash nagaomoowan (and at the same time he sang):</span>
+<span class="l-gloss">Mii dash i’iw zasiiboshkaanig i’iw gichi-gami (it was where the shores of the sea came together — *stem flagged*) mii dash imaa ayaazhawikwaashkoninid (that there he leaped to and fro), bekish idash nagamowan (and at the same time he sang):</span>
 
 <span class="l-orig">(8) “Kiˢtcigạni säsi‘pu‘kāg,  
 Kiˢtcigạmi säsi‘pu‘kāg,”</span>
@@ -103,11 +102,11 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-orig">(11) “Ạmbägicsa kayä nīn kacki‘tōyān tci∙i∙cictcigäyān. Kāwīn nīn nintayānicī‘tạⁿzī. Kāwīnina, Miciwutcig, nindākacki‘tōsīn ‘iᵉi’ᵘ tci∙i∙cictcigäyämbān?”</span>
 
-<span class="l-fiero">**“Ambegish sa gaye niin gashkitooyaan ji-izhichigeyaan. Gaawiin niin 	 nindayaanizhiida-zii. Gaawiin ina, Mishiwojiig, nindaa-kashkitoosiin i’iw ji-izhichigeyembaan?”**</span>
+<span class="l-fiero">**“Ambegish sa gaye niin gashkitooyaan ji-izhichigeyaan. Gaawiin niin nindayaanizhiitanzii*. Gaawiin ina, Mishiwojiig, nindaa-gashkitoosiin i’iw ji-izhichigeyembaan?”**</span>
 
 <span class="l-eng">*“Would that I might be able to do that too! I would not cease. Might I not be able, O Fisher! to do that?”*</span>
 
-<span class="l-gloss">“Ambegish sa gaye niin (“would that I too) gashkitooyaan ji-izhichigeyaan (might be able to do it). Gaawiin niin nindayaanizhiida-zii (I would not cease — *stem flagged*). Gaawiin ina, Mishiwojiig (might I not, O Great Fisher), nindaa-kashkitoosiin i’iw ji-izhichigeyembaan?” (be able to do that?”)</span>
+<span class="l-gloss">“Ambegish sa gaye niin (“would that I too) gashkitooyaan ji-izhichigeyaan (might be able to do it). Gaawiin niin nindayaanizhiitanzii* (I would not cease — *stem flagged*). Gaawiin ina, Mishiwojiig (might I not, O Great Fisher), nindaa-gashkitoosiin i’iw ji-izhichigeyembaan?” (be able to do that?”)</span>
 
 <span class="l-orig">(12) “Nänabucu, mäwica nimādci‘tānābạn i∙i∙wä untaminoyān.</span>
 
@@ -127,11 +126,11 @@ Gichi-gami zesipokaag,” (the shores of the sea meet together,” — *song lin
 
 <span class="l-orig">(14) Ā‘pidci nimpa‘kadä.</span>
 
-<span class="l-fiero">**Aapiji nimpakade.**</span>
+<span class="l-fiero">**Aapiji nimbakade.**</span>
 
 <span class="l-eng">*Very hungry am I.*</span>
 
-<span class="l-gloss">Aapiji nimpakade (very hungry am I).</span>
+<span class="l-gloss">Aapiji nimbakade (very hungry am I).</span>
 
 <span class="l-orig">(15) A‘kawä nīwi∙ạ∙ntawäntān ‘iᵉi’ᵘ wâmītciyān.</span>
 
@@ -210,7 +209,8 @@ Gichi-gami deshkiikaag,”**</span>
 <span class="l-eng">*“ ‘The shores of the sea draw apart,  
 The shores of the sea draw apart,’*</span>
 
-<span class="l-gloss">“Gichi-gami deshkiikaag (the shores of the sea draw apart — *song line carried; parting-stem flagged*),</span>
+<span class="l-gloss">“Gichi-gami deshkiikaag (the shores of the sea draw apart — *song line carried; parting-stem flagged*),  
+Gichi-gami deshkiikaag,” (the shores of the sea draw apart,”)</span>
 
 <span class="l-orig">(24) ina∙ạ∙man, mīdạc iᵘ kanạbạtc kīganisābāwä.”</span>
 
@@ -218,7 +218,7 @@ The shores of the sea draw apart,’*</span>
 
 <span class="l-eng">*you should sing, then perhaps you might drown.”*</span>
 
-<span class="l-gloss">Gichi-gami deshkiikaag,” (the shores of the sea draw apart,”) ina’aman (you should sing), mii dash iw ganabaj gii-ganisaabaawe.” (then perhaps you would drown.” — *drown-stem flagged*)</span>
+<span class="l-gloss">ina’aman (you should sing), mii dash iw ganabaj gii-ganisaabaawe.” (then perhaps you would drown.” — *drown-stem flagged*)</span>
 
 <span class="l-orig">(25) Misa’ iᵘ cigwa ạnimādcānit.</span>
 
@@ -266,27 +266,27 @@ Gichi-gami zesipokaag.” (the shores of the sea meet together.” — *song lin
 
 <span class="l-orig">(30) Mīsa’ kạbägīcig kāwīn ānicī‘tạⁿzī ācawigwāskwạnit.</span>
 
-<span class="l-fiero">**Mii sa gabe-giizhig gaawiin aanishiitazii aazhawigwaashkwanid.**</span>
+<span class="l-fiero">**Mii sa gabe-giizhig gaawiin aanizhiitanzii* aazhawigwaashkwanid.**</span>
 
 <span class="l-eng">*And so throughout the day he did not cease leaping back and forth across.*</span>
 
-<span class="l-gloss">Mii sa gabe-giizhig (and so all day long) gaawiin aanishiitazii (he did not stop — *stem flagged*) aazhawigwaashkwanid (leaping back and forth across).</span>
+<span class="l-gloss">Mii sa gabe-giizhig (and so all day long) gaawiin aanizhiitanzii* (he did not stop — *stem flagged*) aazhawigwaashkwanid (leaping back and forth across).</span>
 
 <span class="l-orig">(31) Ạbā‘pic täbi‘kạtinig, mīsa’ gu kayä kạbätibi‘k; wayābạninig kāwīn kạnạgä wī∙ā∙nacī‘tạⁿzī.</span>
 
-<span class="l-fiero">**Abaapish debikadinig, mii sa go gaye gabe-dibik; wayaabaninig gaawiin ganage wii-aanashiitazii.**</span>
+<span class="l-fiero">**Abaapish debikadinig, mii sa go gaye gabe-dibik; wayaabaninig gaawiin ganage wii-aanazhiitanzii*.**</span>
 
 <span class="l-eng">*And when night came on, it was the same the whole night long; when the morning came, not a whit was he anxious to stop.*</span>
 
-<span class="l-gloss">Abaapish debikadinig (and when night came on), mii sa go gaye gabe-dibik (it was the same the whole night long); wayaabaninig (when morning came) gaawiin ganage wii-aanashiitazii (not a whit did he want to stop — *stem flagged*).</span>
+<span class="l-gloss">Abaapish debikadinig (and when night came on), mii sa go gaye gabe-dibik (it was the same the whole night long); wayaabaninig (when morning came) gaawiin ganage wii-aanazhiitanzii* (not a whit did he want to stop — *stem flagged*).</span>
 
 <span class="l-orig">(32) Awạndcis bā‘pinäntạm.</span>
 
-<span class="l-fiero">**Awanjis* baapinendam.**</span>
+<span class="l-fiero">**Awanjis baapinendam.**</span>
 
 <span class="l-eng">*Increasing joy he got from it.*</span>
 
-<span class="l-gloss">Awanjis* baapinendam (the more, the more joy he got from it — *stem flagged*).</span>
+<span class="l-gloss">Awanjis baapinendam (the more, the more joy he got from it).</span>
 
 <span class="l-orig">(33) Cigwa unāgucinini, mīcigwa ayä‘kusit Nänabucu.</span>
 
@@ -306,11 +306,11 @@ Gichi-gami zesipokaag.” (the shores of the sea meet together.” — *song lin
 
 <span class="l-orig">(35) Wägunänīwinän. Nänabucu ājawikwāskwạnit,</span>
 
-<span class="l-fiero">**Wegoneniiwinen* Nenabosho aazhawigwaashkwanid,**</span>
+<span class="l-fiero">**Wegoneniiwinen Nenabosho aazhawigwaashkwanid,**</span>
 
 <span class="l-eng">*But foolishly, as Nänabushu leaped across,*</span>
 
-<span class="l-gloss">Wegoneniiwinen* Nenabosho (but, foolishly, Nenabosho — *stem flagged*) aazhawigwaashkwanid (as he leaped across),</span>
+<span class="l-gloss">Wegoneniiwinen Nenabosho (but, foolishly, Nenabosho) aazhawigwaashkwanid (as he leaped across),</span>
 
 <span class="l-orig">(36) “Kiˢtcigạmi täskī‘kāg,  
 Kiˢtcigạmi täskī‘kāg,”</span>
@@ -350,19 +350,19 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-orig">(40) Ānumōckamut inābit, kāwīn kạnagä pima‘kạmigāⁿsininik.</span>
 
-<span class="l-fiero">**Aano-mooshkamod inaabid, gaawiin ganage bimakamigaasininig.**</span>
+<span class="l-fiero">**Aano-mooshkamod inaabid, gaawiin ganage bimakamigaansininig*.**</span>
 
 <span class="l-eng">*When on coming up to the surface he tried to look about, there was not a single bit of shore-line to be seen.*</span>
 
-<span class="l-gloss">Aano-mooshkamod inaabid (when, coming up to the surface, he tried to look about), gaawiin ganage bimakamigaasininig (there was not a single bit of shoreline).</span>
+<span class="l-gloss">Aano-mooshkamod inaabid (when, coming up to the surface, he tried to look about), gaawiin ganage bimakamigaansininig* (there was not a single bit of shoreline).</span>
 
 <span class="l-orig">(41) Mīnawā ānugwä‘kagumu, mīsa’ undcita kāwīn owâbạndạⁿzīn ‘iᵉiᵘ tcipima‘kạmigānik.</span>
 
-<span class="l-fiero">**Miinawaa aano-gwekagomo, mii sa onjida gaawiin owaabandaziin i’iw 	ji-bimakamigaanig.**</span>
+<span class="l-fiero">**Miinawaa aano-gwekagomo, mii sa onjida gaawiin owaabandanziin i’iw ji-bimakamigaanig.**</span>
 
 <span class="l-eng">*Again he vainly tried turning the other way, but, just as before, he did not see the shore-line.*</span>
 
-<span class="l-gloss">Miinawaa aano-gwekagomo (again he vainly turned the other way — *stem flagged*), mii sa onjida (but, just as before) gaawiin owaabandaziin i’iw ji-bimakamigaanig (he did not see any shoreline).</span>
+<span class="l-gloss">Miinawaa aano-gwekagomo (again he vainly turned the other way — *stem flagged*), mii sa onjida (but, just as before) gaawiin owaabandanziin i’iw ji-bimakamigaanig (he did not see any shoreline).</span>
 
 <span class="l-orig">(42) “Pabā‘pinisiwāgạn, mīsa gägä‘t nibuyān!”</span>
 
@@ -374,11 +374,11 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-orig">(43) Wägunäniwinän äjikaski‘tōt tcipīpāgi: “Mici∙u∙tcīg!”</span>
 
-<span class="l-fiero">**Wegoneniwinen* ezhi-gashkitood ji-biibaagi: “Mishi-ojiig!”,**</span>
+<span class="l-fiero">**Wegoneniwinen ezhi-gashkitood ji-biibaagi: “Mishi-ojiig!”,**</span>
 
 <span class="l-eng">*In distress he called out as loud as he could: “O Great Fisher!”*</span>
 
-<span class="l-gloss">Wegoneniwinen* ezhi-gashkitood ji-biibaagi (in distress, as loud as he could, he called out — *stem flagged*): “Mishi-ojiig!”, (“O Great Fisher!”)</span>
+<span class="l-gloss">Wegoneniwinen ezhi-gashkitood ji-biibaagi (in distress, as loud as he could, he called out): “Mishi-ojiig!”, (“O Great Fisher!”)</span>
 
 <span class="l-orig">(44) Änigu‘k pīpāgi.</span>
 
@@ -390,11 +390,11 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-orig">(45) Mägwāgu babā‘tana‘kạmigisit awiya onōntawān mạdwäbīpāginit.</span>
 
-<span class="l-fiero">**Megwaa go babaadanakamigizid awiya onoontawaan madwe-biibaaginid.**</span>
+<span class="l-fiero">**Megwaa go babaadanakamigizid awiya onoondawaan madwe-biibaaginid.**</span>
 
 <span class="l-eng">*Now, while (the Fisher) was roaming about, he heard the voice of some one calling aloud.*</span>
 
-<span class="l-gloss">Megwaa go babaadanakamigizid awiya (now, while he was roaming about, someone) onoontawaan madwe-biibaaginid (he heard calling aloud).</span>
+<span class="l-gloss">Megwaa go babaadanakamigizid awiya (now, while he was roaming about, someone) onoondawaan madwe-biibaaginid (he heard calling aloud).</span>
 
 <span class="l-orig">(46) “Mīmāwīna∙a∙ᵘ Nänabucu,” inändạm.</span>
 
@@ -422,11 +422,11 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-orig">(49) Cigwa mạdābība‘tō Mici∙u∙dcīg, ä‘tawā, Nänabucōwạn nānāwikiˢtcigạmi mạdwämawiwạn.</span>
 
-<span class="l-fiero">**Zhigwa madaabiibatoo Mishi-ojiig, edawaa, Nenaboshoowan naanaawi-gichigami 	madwemawiwan.**</span>
+<span class="l-fiero">**Zhigwa madaabiibatoo Mishi-ojiig, etawaa, Nenaboshoowan naanaawi-gichigami madwemawiwan.**</span>
 
 <span class="l-eng">*When the Great Fisher came running out upon (the sea), why, there was Nänabushu to be heard crying exceedingly far out on the water.*</span>
 
-<span class="l-gloss">Zhigwa madaabiibatoo Mishi-ojiig (when the Great Fisher came running out to the water), edawaa (why), Nenaboshoowan naanaawi-gichigami madwemawiwan (there was Nenabosho heard crying far out in the middle of the sea).</span>
+<span class="l-gloss">Zhigwa madaabiibatoo Mishi-ojiig (when the Great Fisher came running out to the water), etawaa (why), Nenaboshoowan naanaawi-gichigami madwemawiwan (there was Nenabosho heard crying far out in the middle of the sea).</span>
 
 <span class="l-orig">(50) “Cicī, indackā mī∙i∙ᵘ ānugī∙u∙ndcibwāmit ‘aᵉa’ᵘ Nänabucu.”</span>
 
@@ -470,19 +470,19 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-orig">(55) “Āᵃ, Mīci∙u∙dcīg, kägä‘t inạngwạna kimạnidōʷⁱ.</span>
 
-<span class="l-fiero">**“Aa, Mishi-ojiig, geget inangwana gi-manidoow.**</span>
+<span class="l-fiero">**“Aa, Mishi-ojiig, geget inangwana gimanidoowi.**</span>
 
 <span class="l-eng">*“Ah, Great Fisher! really indeed you are a manitou.*</span>
 
-<span class="l-gloss">“Aa, Mishi-ojiig (“ah, Great Fisher), geget inangwana gi-manidoow (truly indeed you are a manidoo).</span>
+<span class="l-gloss">“Aa, Mishi-ojiig (“ah, Great Fisher), geget inangwana gimanidoowi (truly indeed you are a manidoo).</span>
 
 <span class="l-orig">(56) Māgicā nīnä‘ta nimạnidōʷⁱ nintinäntānābạn.</span>
 
-<span class="l-fiero">**Maagizhaa niin eta nimanidoow nindinendaanaaban.**</span>
+<span class="l-fiero">**Maagizhaa niin eta nimanidoowi nindinendaanaaban.**</span>
 
 <span class="l-eng">*That perhaps I was the only manitou, was the thought I entertained heretofore.*</span>
 
-<span class="l-gloss">Maagizhaa niin eta nimanidoow (that perhaps I alone was a manidoo) nindinendaanaaban (was what I had thought).</span>
+<span class="l-gloss">Maagizhaa niin eta nimanidoowi (that perhaps I alone was a manidoo) nindinendaanaaban (was what I had thought).</span>
 
 <span class="l-orig">(57) Intawāsa’ kīn kīgazazī‘kis.</span>
 
@@ -494,11 +494,11 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-orig">(58) Mīsa’ ‘iᵉi’ᵘ kä∙i∙cinạgạninān,”</span>
 
-<span class="l-fiero">**Mii sa i’iw ge-zhinaganinaan.”**</span>
+<span class="l-fiero">**Mii sa i’iw ge-izhi-naganinaan.”**</span>
 
 <span class="l-eng">*Therefore shall I now leave you.”*</span>
 
-<span class="l-gloss">Mii sa i’iw ge-zhinaganinaan.” (and so now I shall leave you.”)</span>
+<span class="l-gloss">Mii sa i’iw ge-izhi-naganinaan.” (and so now I shall leave you.”)</span>
 
 <span class="l-orig">(59) Nänabucu äjimādci∙ā∙cạgāmät ‘iᵉi’ᵘ ki‘tcigạmi.</span>
 
@@ -508,7 +508,7 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-gloss">Nenabosho ezhi-maaji’aazhagaamed i’iw gichi-gami (Nenabosho then went off along the shore of the sea).</span>
 
-(1) The constellation of the Great Dipper is called the “Fisher star” and this is the Great Fisher referred to here (Jones vol.1, p. 193).
+(1) The constellation of the Great Dipper is called the “Fisher star” and this is the Great Fisher referred to here.
 
 (2) The passage is given literally. The sense is “being older, you are a greater manitou than I”, (Jones vol. 1, p. 197).
 

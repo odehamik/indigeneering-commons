@@ -2,7 +2,6 @@
 title: "17. Old man Mashos"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -37,11 +36,11 @@ Old Man Mashos.
 
 <span class="l-orig">(3) “A‘pägic ki‘kändạmān ningudci ayāwād kayāckwạg!</span>
 
-<span class="l-fiero">**“Apegish gii-gikendamaan ningoji ayaawaad gayaashkwag!**</span>
+<span class="l-fiero">**“Apegish gikendamaan ningoji ayaawaad gayaashkwag!**</span>
 
 <span class="l-eng">*“Would that I knew of a place where there were gulls!*</span>
 
-<span class="l-gloss">“Apegish gii-gikendamaan (“would that I knew of) ningoji ayaawaad gayaashkwag! (somewhere gulls are!)</span>
+<span class="l-gloss">“Apegish gikendamaan (“would that I knew of) ningoji ayaawaad gayaashkwag! (somewhere gulls are!)</span>
 
 <span class="l-orig">(4) Nindāgīnāⁿsi‘kānạn wâwạnūn.”</span>
 
@@ -81,7 +80,7 @@ Old Man Mashos.
 
 <span class="l-eng">*“’Would that I knew of a place where there were gulls!*</span>
 
-<span class="l-gloss">“‘Apegish gikendamaan (“‘would that I knew) ningoji ayaawaad gayaashkwag! (somewhere gulls are!)</span>
+<span class="l-gloss">“’Apegish gikendamaan (“’would that I knew) ningoji ayaawaad gayaashkwag! (somewhere gulls are!)</span>
 
 <span class="l-orig">(9) Nindāgī∙i∙jā’, i‘kidō,” udigōn udānisạn.</span>
 
@@ -93,11 +92,11 @@ Old Man Mashos.
 
 <span class="l-orig">(10) Mēdạc ä‘kidot Omạcōs:</span>
 
-<span class="l-fiero">**Mii dash ekidod Omaashos:**</span>
+<span class="l-fiero">**Mii dash ekidod Omashoos:**</span>
 
 <span class="l-eng">*Thereupon said Mashos:*</span>
 
-<span class="l-gloss">Mii dash ekidod Omaashos: (thereupon Mashos said:)</span>
+<span class="l-gloss">Mii dash ekidod Omashoos: (thereupon Mashos said:)</span>
 
 <span class="l-orig">(11) “Aī∙ī∙, iwidisa ayāwạg kayāckwạg.</span>
 
@@ -109,27 +108,27 @@ Old Man Mashos.
 
 <span class="l-orig">(12) Ānīc, kīgatijāminisa,” i‘kido Omạcōs.</span>
 
-<span class="l-fiero">**Aaniish, gigad-izhaamin isa,” ikido Omaashos.**</span>
+<span class="l-fiero">**Aaniish, gigad-izhaamin isa,” ikido Omashoos.**</span>
 
 <span class="l-eng">*Why, we will go over there,” said Mashos.*</span>
 
-<span class="l-gloss">Aaniish, gigad-izhaamin isa,” (“well, we will go there,”) ikido Omaashos (said Mashos).</span>
+<span class="l-gloss">Aaniish, gigad-izhaamin isa,” (“well, we will go there,”) ikido Omashoos (said Mashos).</span>
 
 <span class="l-orig">(13) Mīdạc kī‘pōziwād Omạcōs udcīmāning, kīnạmạdạbiwạn uningwạnạn udcīmāning; wīndạc Omạcōs äjipạgi‘tä∙ā∙nk udcīmān, mī∙i∙´ᵘ äjimādcībitänig udcīmān.</span>
 
-<span class="l-fiero">**Mii dash booziwaad Omashoos ojiimaaning, gii-namadabiwan onigwanan Ojiimaaning; wiin dash Omaashos ezhi-bakite’aang ojiimaan, mii iw ezhi-maajiibidenig ojiimaan.**</span>
+<span class="l-fiero">**Mii dash gii-booziwaad Omashoos ojiimaaning, gii-namadabiwan oningwanan ojiimaaning; wiin dash Omashoos ezhi-bakite’aang ojiimaan, mii iw ezhi-maajiibidenig ojiimaan.**</span>
 
 <span class="l-eng">*And when they got into Mashos’ canoe, then down sat his son-in-law; and when Mashos struck his canoe, then away it sped.*</span>
 
-<span class="l-gloss">Mii dash booziwaad (and so they got aboard) Omashoos ojiimaaning (Mashos’ canoe), gii-namadabiwan onigwanan Ojiimaaning (his son-in-law sat down in the canoe); wiin dash Omaashos (and Mashos himself) ezhi-bakite’aang ojiimaan (struck his canoe a blow), mii iw ezhi-maajiibidenig ojiimaan (and so the canoe sped away).</span>
+<span class="l-gloss">Mii dash gii-booziwaad (and so they got aboard) Omashoos ojiimaaning (Mashos’ canoe), gii-namadabiwan oningwanan ojiimaaning (his son-in-law sat down in the canoe); wiin dash Omashoos (and Mashos himself) ezhi-bakite’aang ojiimaan (struck his canoe a blow), mii iw ezhi-maajiibidenig ojiimaan (and so the canoe sped away).</span>
 
 <span class="l-orig">(14) Wädi‘tạmowād kayāckwābi‘k, kī‘kabāwạg mōjạginạmowād wāwạnōn.</span>
 
-<span class="l-fiero">**Weditamowaad gayaashkwaabik, gii-gabewag moozhaginamowaad waawanoon.**</span>
+<span class="l-fiero">**Weditamowaad gayaashkwaabik, gii-gabaawag moozhaginamowaad waawanoon.**</span>
 
 <span class="l-eng">*When they came to the rocky cliff of the gulls, they went ashore to gather up the eggs.*</span>
 
-<span class="l-gloss">Weditamowaad gayaashkwaabik (when they reached the gulls’ rocky cliff), gii-gabewag (they went ashore) moozhaginamowaad waawanoon (gathering up the eggs).</span>
+<span class="l-gloss">Weditamowaad gayaashkwaabik (when they reached the gulls’ rocky cliff), gii-gabaawag (they went ashore) moozhaginamowaad waawanoon (gathering up the eggs).</span>
 
 <span class="l-orig">(15) A‘pī∙i∙dạc nībiwa kā∙a∙yāwād wāwạnōn, “Mī iᵘ täbisäg,” udinān uningwạnạn.</span>
 
@@ -165,19 +164,19 @@ Old Man Mashos.
 
 <span class="l-orig">(19) Kī‘kabā mīnawa ‘aᵉa´ᵘ inini.</span>
 
-<span class="l-fiero">**Gii-gabe miinawaa a’aw inini.**</span>
+<span class="l-fiero">**Gii-gabaa miinawaa a’aw inini.**</span>
 
 <span class="l-eng">*Ashore again stepped the man.*</span>
 
-<span class="l-gloss">Gii-gabe miinawaa a’aw inini (ashore again stepped the man).</span>
+<span class="l-gloss">Gii-gabaa miinawaa a’aw inini (ashore again stepped the man).</span>
 
 <span class="l-orig">(20) Kā‘kabānit unīngwạnạn ugīpagi‘tä∙ā∙n udcīmānic, kīnạgạnāt unīngwạnạn.</span>
 
-<span class="l-fiero">**Ga-gabenid oningwanan, gii-bakite’aan ojiimaanish, gii-naganaad oningwanan.**</span>
+<span class="l-fiero">**Gaa-gabaanid oningwanan, ogii-bakite’aan ojiimaanish, gii-naganaad oningwanan.**</span>
 
 <span class="l-eng">*When his son-in-law had stepped ashore, then he struck his miserable canoe a blow, leaving his son-in-law behind.*</span>
 
-<span class="l-gloss">Ga-gabenid oningwanan (when his son-in-law had stepped ashore), gii-bakite’aan ojiimaanish (he struck his wretched canoe a blow), gii-naganaad oningwanan (leaving his son-in-law behind).</span>
+<span class="l-gloss">Gaa-gabaanid oningwanan (when his son-in-law had stepped ashore), ogii-bakite’aan ojiimaanish (he struck his wretched canoe a blow), gii-naganaad oningwanan (leaving his son-in-law behind).</span>
 
 <span class="l-orig">(21) Ogạnōnāᵉ kayāckwaᵉ:</span>
 
@@ -205,11 +204,11 @@ Old Man Mashos.
 
 <span class="l-orig">(24) Mī gäᵒgä‘t pīcāwād kistcikayāckwạg wī∙ạ∙mwâwād īni´ᵘ ininiwạn.</span>
 
-<span class="l-fiero">**Mii geget bi-izhaawaad kischi-gayaashkwag wii-amwawaad iniw ininiwan.**</span>
+<span class="l-fiero">**Mii geget bi-izhaawaad gichi-gayaashkwag wii-amwawaad iniw ininiwan.**</span>
 
 <span class="l-eng">*Then truly came the great Gulls to feed upon the man.*</span>
 
-<span class="l-gloss">Mii geget bi-izhaawaad (then truly came) kischi-gayaashkwag (the great gulls) wii-amwawaad iniw ininiwan (to devour that man).</span>
+<span class="l-gloss">Mii geget bi-izhaawaad (then truly came) gichi-gayaashkwag (the great gulls) wii-amwawaad iniw ininiwan (to devour that man).</span>
 
 <span class="l-orig">(25) Awidạc inini ogạnōnāᵉ kayāckwaᵉ:</span>
 
@@ -227,8 +226,6 @@ Old Man Mashos.
 
 <span class="l-gloss">“Bekaa, bekaa! (“hold, hold!) Gego amwoshikegon! (do not eat me!)</span>
 
-*Jones prints the raised sort in “Päᵒ‘kā, päᵒ‘kā! as the superior RING ᵒ, settled at native resolution against the demonstrative ᵉ on the same line; the same word prints Bä‘kā! at §71, with a B and no raised sort. Both carried as printed.*
-
 <span class="l-orig">(27) Näcwāsugunīyān kigīcawänimimwābạn.”</span>
 
 <span class="l-fiero">**Neshwaasogoniiyaan gigii-zhawenimimwaaban.”**</span>
@@ -239,11 +236,11 @@ Old Man Mashos.
 
 <span class="l-orig">(28) Kāwīndạc ogī∙a∙mwu‘kusī īni´ᵘ kayāckwạn.</span>
 
-<span class="l-fiero">**Gaawiin dash ogii-amwogoosii[n] iiniw gayaashkwan.**</span>
+<span class="l-fiero">**Gaawiin dash ogii-amwogoosii iiniw gayaashkwan.**</span>
 
 <span class="l-eng">*And he was not eaten by the Gulls.*</span>
 
-<span class="l-gloss">Gaawiin dash ogii-amwogoosii[n] iiniw gayaashkwan (and he was not eaten by the gulls).</span>
+<span class="l-gloss">Gaawiin dash ogii-amwogoosii iiniw gayaashkwan (and he was not eaten by the gulls).</span>
 
 <span class="l-orig">(29) Ogīgạnōnāᵉ idạc kayāckwaᵉ ‘aᵉa´ᵘ inini tcîgīwäwinigut.</span>
 
@@ -253,13 +250,13 @@ Old Man Mashos.
 
 <span class="l-gloss">Ogii-ganoonaa’ idash gayaashkwa’ a’aw inini (then the man spoke to the gulls) ji-giiwewinigod (to be carried back home).</span>
 
-<span class="l-orig">(30) Mī∙i∙´ᵘ käᵒgä‘t äjipimiwinigut päᵒjik kistcigayāckwạn.</span>
+<span class="l-orig">(30) Mī∙i∙´ᵘ käᵉgä‘t äjipimiwinigut päᵉjik kistcigayāckwạn.</span>
 
-<span class="l-fiero">**Mii iw geget ezhi-bimiwinigod bezhig gischi-gayaashkwan.**</span>
+<span class="l-fiero">**Mii iw geget ezhi-bimiwinigod bezhig gichi-gayaashkwan.**</span>
 
 <span class="l-eng">*Thereupon truly was he carried away by a certain Great-Gull.*</span>
 
-<span class="l-gloss">Mii iw geget ezhi-bimiwinigod (thereupon truly he was carried off) bezhig kischi-gayaashkwan (by a certain great gull).</span>
+<span class="l-gloss">Mii iw geget ezhi-bimiwinigod (thereupon truly he was carried off) bezhig gichi-gayaashkwan (by a certain great gull).</span>
 
 <span class="l-orig">(31) Āja wāsa ạni∙a∙ya ‘aᵉa´ᵘ Omạcōs.</span>
 
@@ -271,11 +268,11 @@ Old Man Mashos.
 
 <span class="l-orig">(32) Mēdac imāⁿ tibickō kā∙a∙ni∙i∙jizät ‘aᵉa´ᵘ cigayāck ogī∙ạ∙nimīdcinān Omicōzạn.</span>
 
-<span class="l-fiero">**Mii dash imaanh dibishkoo gaa-ani-izhaad a’aw chi-gayaashk ogii-ani-miijinaan Omashoosan.**</span>
+<span class="l-fiero">**Mii dash imaanh dibishkoo gaa-ani-izhised a’aw chi-gayaashk ogii-ani-miijinaan Omashoosan.**</span>
 
 <span class="l-eng">*And so, when directly over him Great-Gull was flying, then did he mute upon Mashos.*</span>
 
-<span class="l-gloss">Mii dash imaanh dibishkoo (and so when right above him) gaa-ani-izhaad a’aw chi-gayaashk (the great gull was passing), ogii-ani-miijinaan Omashoosan (he muted upon Mashos).</span>
+<span class="l-gloss">Mii dash imaanh dibishkoo (and so when right above him) gaa-ani-izhised a’aw chi-gayaashk (the great gull was passing), ogii-ani-miijinaan Omashoosan (he muted upon Mashos).</span>
 
 <span class="l-orig">(33) Omicōzidạc kā∙i∙jikāckipidōt kayāckwimo ogīkudcimāndān.</span>
 
@@ -351,11 +348,11 @@ Old Man Mashos.
 
 <span class="l-orig">(42) “Mäwījạguca micigayāckwạn ugī∙ạ∙mwugōn kōsiwā,” udinān.</span>
 
-<span class="l-fiero">**“Mewi(n)zha gosha mishi-gayaashkwan ogii-amwogoon goosiwaa,” odinaan.**</span>
+<span class="l-fiero">**“Mewizha gosha mishi-gayaashkwan ogii-amwogoon goosiwaa,” odinaan.**</span>
 
 <span class="l-eng">*“Why, long since has your father been eaten up by Great-Gull,” he said to them.*</span>
 
-<span class="l-gloss">“Mewi(n)zha gosha (“why, long ago) mishi-gayaashkwan ogii-amwogoon goosiwaa,” (the great gull ate up your father,”) odinaan (he said to them).</span>
+<span class="l-gloss">“Mewizha gosha (“why, long ago) mishi-gayaashkwan ogii-amwogoon goosiwaa,” (the great gull ate up your father,”) odinaan (he said to them).</span>
 
 <span class="l-orig">(43) Pändigät Omạcōs ändāwāt owâbạmān oningwạnan nạmạdabinit.</span>
 
@@ -415,11 +412,11 @@ Old Man Mashos.
 
 <span class="l-orig">(50) “Pägic ki‘kändamān ningudci ∙a∙yāwād migiziwạg! nindāgī∙i∙jā,” i‘kido.</span>
 
-<span class="l-fiero">**“(A)pegish gikendaaan ningoji ayaawaad migiziwag! nindaa-gii-izhaa,” ikido.**</span>
+<span class="l-fiero">**“pegish gikendamaan ningoji ayaawaad migiziwag! nindaa-gii-izhaa,” ikido.**</span>
 
 <span class="l-eng">*“Would that I knew of a place where there were bald eagles! thither would I go,” he said.*</span>
 
-<span class="l-gloss">“(A)pegish gikendaaan (“would that I knew) ningoji ayaawaad migiziwag! (somewhere bald eagles are!) nindaa-gii-izhaa,” (I would go there,”) ikido (he said).</span>
+<span class="l-gloss">“pegish gikendamaan (“would that I knew) ningoji ayaawaad migiziwag! (somewhere bald eagles are!) nindaa-gii-izhaa,” (I would go there,”) ikido (he said).</span>
 
 <span class="l-orig">(51) Onōndawān ä‘kidonit.</span>
 
@@ -451,7 +448,7 @@ Old Man Mashos.
 
 <span class="l-eng">*’Would that I knew of a place where there were bald eagles! thither would I go,’ he said.*</span>
 
-<span class="l-gloss">‘Apegish ningoji migiziwag ayaawaad, (‘would that somewhere bald eagles are,) nindaa-gii-izhaa,’ (I would go there,’) ikido.” (he says.”)</span>
+<span class="l-gloss">’Apegish ningoji migiziwag ayaawaad, (’would that somewhere bald eagles are,) nindaa-gii-izhaa,’ (I would go there,’) ikido.” (he says.”)</span>
 
 <span class="l-orig">(55) Mīnawādec Omacōs udinān unīngwạnạn:</span>
 
@@ -487,11 +484,11 @@ Old Man Mashos.
 
 <span class="l-orig">(59) Kā∙i∙jikạbāwāt, mēdạc kī‘kawāwāg mi‘tigōn i∙i∙māⁿ agōdänig wạsasun.</span>
 
-<span class="l-fiero">**Gaa-izhi-gabewaad, mii dash gii-gawa’waag mitigoon i’imaanh agoodenig wasazon.**</span>
+<span class="l-fiero">**Gaa-izhi-gabaawaad, mii dash gii-gawa’waag mitigoon i’imaanh agoodenig wasazon.**</span>
 
 <span class="l-eng">*When they went ashore, they then felled a tree upon which hung a nest.*</span>
 
-<span class="l-gloss">Gaa-izhi-gabewaad (when they went ashore), mii dash gii-gawa’waag mitigoon (they then felled a tree) i’imaanh agoodenig wasazon (on which a nest was hanging).</span>
+<span class="l-gloss">Gaa-izhi-gabaawaad (when they went ashore), mii dash gii-gawa’waag mitigoon (they then felled a tree) i’imaanh agoodenig wasazon (on which a nest was hanging).</span>
 
 <span class="l-orig">(60) Nîswi ugīnisāwān migizīnsaᵉ.</span>
 
@@ -559,13 +556,13 @@ Old Man Mashos.
 
 <span class="l-orig">(68) Mōⁿjạg kinadodamawim!”</span>
 
-<span class="l-fiero">**Moozhag gina(n)dodamawim!”**</span>
+<span class="l-fiero">**Moozhag ginadodamawim!”**</span>
 
 <span class="l-eng">*Always are you asking me (for one).”*</span>
 
-<span class="l-gloss">Moozhag gina(n)dodamawim!” (always you are asking me for one!”)</span>
+<span class="l-gloss">Moozhag ginadodamawim!” (always you are asking me for one!”)</span>
 
-<span class="l-orig">(69) Käᵒgä‘t owīpi∙ạ∙mugōn mîsaⁿziwạn ‘aᵉa´ᵘ inini.</span>
+<span class="l-orig">(69) Käᵉgä‘t owīpi∙ạ∙mugōn mîsaⁿziwạn ‘aᵉa´ᵘ inini.</span>
 
 <span class="l-fiero">**Geget owii-bi-amogoon misaanziwan a’aw inini.**</span>
 
@@ -605,7 +602,7 @@ Old Man Mashos.
 
 <span class="l-gloss">Ogii-ganoonaan ji-giiwewinigod (he spoke to one, asking to be carried home).</span>
 
-<span class="l-orig">(74) Käᵒgä‘t ogīkīwäwinigōn.</span>
+<span class="l-orig">(74) Käᵉgä‘t ogīkīwäwinigōn.</span>
 
 <span class="l-fiero">**Geget ogii-giiwewinigoon.**</span>
 
@@ -663,11 +660,11 @@ Old Man Mashos.
 
 <span class="l-orig">(81) “Mäⁿwīja guca mîsaⁿziwạn ugī∙ạ∙mwugōn kōsiwā.”</span>
 
-<span class="l-fiero">**“Mewii(n)zha gosha misaanziwan ogii-amwogoon goosiwaa.”**</span>
+<span class="l-fiero">**“Mewiizha gosha misaanziwan ogii-amwogoon goosiwaa.”**</span>
 
 <span class="l-eng">*“Why, long since by the monster Eagles was your father eaten up.”*</span>
 
-<span class="l-gloss">“Mewii(n)zha gosha (“why, long ago) misaanziwan ogii-amwogoon goosiwaa.” (the monster eagles ate up your father.”)</span>
+<span class="l-gloss">“Mewiizha gosha (“why, long ago) misaanziwan ogii-amwogoon goosiwaa.” (the monster eagles ate up your father.”)</span>
 
 <span class="l-orig">(82) A‘pī∙i∙dạc pāndigät, Mạcōs owâbạmān unīngwạnạn nạmạdạbinit.</span>
 
@@ -679,11 +676,11 @@ Old Man Mashos.
 
 <span class="l-orig">(83) Ogistcikanawâbạmān.</span>
 
-<span class="l-fiero">**Ogischi-ganawaabamaan.**</span>
+<span class="l-fiero">**Ogichi-ganawaabamaan.**</span>
 
 <span class="l-eng">*He gazed at him with much concern.*</span>
 
-<span class="l-gloss">Ogischi-ganawaabamaan (he gazed hard at him).</span>
+<span class="l-gloss">Ogichi-ganawaabamaan (he gazed hard at him).</span>
 
 <span class="l-orig">(84) Ugạnonigōn udānisạn:</span>
 
@@ -703,11 +700,11 @@ Old Man Mashos.
 
 <span class="l-orig">(86) “Wā‘kayābigudcīsiwạn pimōdäwạn imāⁿ skījigunk.”</span>
 
-<span class="l-fiero">**“Waagayaabigojiisiwan bimoodewan imaanh (o)s(h)kii(n)zhigong.”**</span>
+<span class="l-fiero">**“Waagayaabigojiisiwan bimoodewan imaanh shkiizhigong.”**</span>
 
 <span class="l-eng">*“(I was watching) a worm that was crawling over his face.”*</span>
 
-<span class="l-gloss">“Waagayaabigojiisiwan bimoodewan (“a worm was crawling) imaanh (o)s(h)kii(n)zhigong.” (over his face.”)</span>
+<span class="l-gloss">“Waagayaabigojiisiwan bimoodewan (“a worm was crawling) imaanh shkiizhigong.” (over his face.”)</span>
 
 <span class="l-orig">(87) Mīnawā kī∙ạ∙gạdci ‘aᵉa´ᵘ a‘kiwäⁿjī∙i∙c.</span>
 
@@ -725,7 +722,7 @@ Old Man Mashos.
 
 <span class="l-gloss">Miinawaa ningoding ikido a’aw inini: (another time the man said:)</span>
 
-<span class="l-orig">(89) “A‘päᵒgic ạndowāyān nạmäwạg ningudci ayāwād!”</span>
+<span class="l-orig">(89) “A´päᵉgic ạndowāyān nạmäwạg ningudci ayāwād!”</span>
 
 <span class="l-fiero">**“Apegish andowaayaan namewag ningoji ayaawaad!”**</span>
 
@@ -735,19 +732,19 @@ Old Man Mashos.
 
 <span class="l-orig">(90) Minawā i‘kido ‘aᵉa´ᵘ Omạcōs:</span>
 
-<span class="l-fiero">**Miinawaa ikido a’aw Mashoos:**</span>
+<span class="l-fiero">**Miinawaa ikido a’aw Omashoos:**</span>
 
 <span class="l-eng">*Again said Mashos:*</span>
 
-<span class="l-gloss">Miinawaa ikido a’aw Mashoos: (again Mashos said:)</span>
+<span class="l-gloss">Miinawaa ikido a’aw Omashoos: (again Mashos said:)</span>
 
 <span class="l-orig">(91) “Ai∙ī∙, iwidi sa‘ku ijābạnīg ninīngwạnibạnīg ändowāwād nạmäwạn.</span>
 
-<span class="l-fiero">**“Ayi’ii, iwidi sa go izhaabaniig ninigwanibaniig endowaawaad namewan.**</span>
+<span class="l-fiero">**“Ayi’ii, iwidi sa go izhaabaniig niningwanibaniig endowaawaad namewan.**</span>
 
 <span class="l-eng">*“Why, far off yonder was where my sons-in-law in times past used to go harpooning sturgeons from the canoe.*</span>
 
-<span class="l-gloss">“Ayi’ii, iwidi sa go izhaabaniig (“why, off yonder they used to go) ninigwanibaniig (my late sons-in-law) endowaawaad namewan. (when they harpooned sturgeons.)</span>
+<span class="l-gloss">“Ayi’ii, iwidi sa go izhaabaniig (“why, off yonder they used to go) niningwanibaniig (my late sons-in-law) endowaawaad namewan. (when they harpooned sturgeons.)</span>
 
 <span class="l-orig">(92) Ānīc, kīgatijāmin sa!” udinān unīngwạnạn.</span>
 
@@ -797,7 +794,7 @@ Old Man Mashos.
 
 <span class="l-gloss">Mii iko iw endodamowaaban endowaawaad.” (that is how they used to do when they speared from the canoe.”)</span>
 
-<span class="l-orig">(98) Käᵒgä‘t ogitcaiya∙ī∙ kā∙i∙jinībawit ‘aᵉa´winini Umicōzidạc ugī∙ạ∙nibäwäbickān udcīmānic, mī∙i∙dạc nibī‘kāng kipạngiging ‘aᵉa´ᵘ inini.</span>
+<span class="l-orig">(98) Käᵉgä‘t ogitcaiya∙ī∙ kā∙i∙jinībawit ‘aᵉa´winini Umicōzidạc ugī∙ạ∙nibäwäbickān udcīmānic, mī∙i∙dạc nibī‘kāng kipạngiging ‘aᵉa´ᵘ inini.</span>
 
 <span class="l-fiero">**Geget ogijaya’ii gaa-izhi-niibawid a’aw inini, Omashoos idash anibewebishkaan ojiimaanish, mii dash nibiikaang gii-bangiging a’aw inini.**</span>
 
@@ -805,15 +802,13 @@ Old Man Mashos.
 
 <span class="l-gloss">Geget ogijaya’ii gaa-izhi-niibawid a’aw inini (when truly the man stood up on top of the gunwale), Omashoos idash anibewebishkaan ojiimaanish (Mashos tipped his wretched canoe over on its side), mii dash nibiikaang gii-bangiging a’aw inini (and so the man fell into the water).</span>
 
-*Printed page: Umicōzidạc, with a dotted i — verified at native 8× as a clean round tittle with no dot below. The name reads Omạcōzidạc five words later on the same page, and Omạcōs / Umacōs elsewhere on it. Preserved as printed.*
-
 <span class="l-orig">(99) Omạcōzidạc kā∙i∙jipa‘kitä∙ạ∙ng udcīmān, wāsa kī∙i∙jisäni.</span>
 
-<span class="l-fiero">**Omashoos idash gaa-izhi-bakiteng ojiimaan, waasaa gii-izhseni.**</span>
+<span class="l-fiero">**Omashoos idash gaa-izhi-bakite’ang ojiimaan, waasaa gii-izhiseni.**</span>
 
 <span class="l-eng">*And when Mashos struck his canoe a blow, far away it sped.*</span>
 
-<span class="l-gloss">Omashoos idash gaa-izhi-bakiteng ojiimaan (and when Mashos struck his canoe a blow), waasaa gii-izhseni (far away it sped).</span>
+<span class="l-gloss">Omashoos idash gaa-izhi-bakite’ang ojiimaan (and when Mashos struck his canoe a blow), waasaa gii-izhiseni (far away it sped).</span>
 
 <span class="l-orig">(100) Mēdạc ä‘kidot:</span>
 
@@ -865,19 +860,19 @@ Old Man Mashos.
 
 <span class="l-orig">(106) “Tạga, kīwäwijicin!”</span>
 
-<span class="l-fiero">**“Daga, giiwe-wiijishin!”**</span>
+<span class="l-fiero">**“Daga, giiwewizhishin*!”**</span>
 
 <span class="l-eng">*“Pray, carry me back home!”*</span>
 
-<span class="l-gloss">“Daga, giiwe-wiijishin!” (“pray, carry me back home!”)</span>
+<span class="l-gloss">“Daga, giiwewizhishin*!” (“pray, carry me back home!”)</span>
 
 <span class="l-orig">(107) Udäskạnāng ‘aᵉa´ᵘ ginäbik kī∙ạ∙ni∙ạ∙gōzi awinini.</span>
 
-<span class="l-fiero">**Odes(h)kanaang a’aw ginebig gii-ani-agoozi aw inini.**</span>
+<span class="l-fiero">**Odeshkanaang a’aw ginebig gii-ani-agoozi aw inini.**</span>
 
 <span class="l-eng">*Upon the horn of the Serpent hung the man as he went along.*</span>
 
-<span class="l-gloss">Odes(h)kanaang a’aw ginebig (on the serpent’s horn) gii-ani-agoozi aw inini (the man hung as he went along).</span>
+<span class="l-gloss">Odeshkanaang a’aw ginebig (on the serpent’s horn) gii-ani-agoozi aw inini (the man hung as he went along).</span>
 
 <span class="l-orig">(108) Mīdạc mādcīnigut udigōnidạc:</span>
 
@@ -913,11 +908,11 @@ Old Man Mashos.
 
 <span class="l-orig">(112) Kägādạc mäjạgānit ạnimi‘kī pinōndāgusiwạg.</span>
 
-<span class="l-fiero">**Gegaa dash mezhagaanid animikii(g) bi-noondagoziwag.**</span>
+<span class="l-fiero">**Gegaa dash mezhagaanid animikii bi-noondagoziwag.**</span>
 
 <span class="l-eng">*And when they were nearly up to the shore, the Thunderers could be heard coming.*</span>
 
-<span class="l-gloss">Gegaa dash mezhagaanid (and when they were nearly ashore) animikii(g) bi-noondagoziwag (the thunderers could be heard coming).</span>
+<span class="l-gloss">Gegaa dash mezhagaanid (and when they were nearly ashore) animikii bi-noondagoziwag (the thunderers could be heard coming).</span>
 
 <span class="l-orig">(113) Ogạgwädcimigōn:</span>
 
@@ -993,11 +988,11 @@ Old Man Mashos.
 
 <span class="l-orig">(122) Mīnawā ogīkistcikạnawâbạmān.</span>
 
-<span class="l-fiero">**Miinawaa ogischi-ganawaabamaan.**</span>
+<span class="l-fiero">**Miinawaa ogii-gichi-ganawaabamaan.**</span>
 
 <span class="l-eng">*Again he watched him with great concern.*</span>
 
-<span class="l-gloss">Miinawaa ogischi-ganawaabamaan (again he watched him hard).</span>
+<span class="l-gloss">Miinawaa ogii-gichi-ganawaabamaan (again he watched him hard).</span>
 
 <span class="l-orig">(123) Mīnawā ninguding i‘kido ‘aᵉawinini:</span>
 
@@ -1009,11 +1004,11 @@ Old Man Mashos.
 
 <span class="l-orig">(124) “A‘pägic cōskwạdciwäyān!”</span>
 
-<span class="l-fiero">**“Apegish zhoos(h)kwajiweyaan!”**</span>
+<span class="l-fiero">**“Apegish zhooshkwajiweyaan!”**</span>
 
 <span class="l-eng">*“Would that I might go tobogganing!”*</span>
 
-<span class="l-gloss">“Apegish zhoos(h)kwajiweyaan!” (“would that I might go tobogganing!”)</span>
+<span class="l-gloss">“Apegish zhooshkwajiweyaan!” (“would that I might go tobogganing!”)</span>
 
 <span class="l-orig">(125) Minawādec udinān Umacōs.</span>
 
@@ -1025,13 +1020,11 @@ Old Man Mashos.
 
 <span class="l-orig">(126) “A∙ī∙, iwidi sa‘ku ijābạnig cōscōskwạdciwäwād.</span>
 
-<span class="l-fiero">**“Ayii, iwidi sa iko izhaabaniig zhooshkwewaad.**</span>
+<span class="l-fiero">**“Ayii, iwidi sa go izhaabaniig zhooshkwewaad.**</span>
 
 <span class="l-eng">*“Now, off yonder is where they used to go of old when they went tobogganing.*</span>
 
-<span class="l-gloss">“Ayii, iwidi sa iko izhaabaniig (“now, off yonder they used to go) zhooshkwewaad. (when they went tobogganing.)</span>
-
-*Printed page: the line breaks cōs- / cōskwạdciwäwād across pp.184 ll.25–26, so the syllable cōs prints twice. Two lines above, the same stem prints plain (A‘pägic cōskwạdciwäyān!). Compositor duplication or genuine reduplication is not decided here; preserved as printed. Flag 17-B02-2.*
+<span class="l-gloss">“Ayii, iwidi sa go izhaabaniig (“now, off yonder they used to go) zhooshkwewaad. (when they went tobogganing.)</span>
 
 <span class="l-orig">(127) Ānīc, kīgatijāmin sa!”</span>
 
@@ -1041,7 +1034,7 @@ Old Man Mashos.
 
 <span class="l-gloss">Aaniish, gigad-izhaamin sa!” (“well, let us go there!”)</span>
 
-<span class="l-orig">(128) Mīdạc kīmādcāwād päᵒjik odābānā‘kwạn umādcīnāwān.</span>
+<span class="l-orig">(128) Mīdạc kīmādcāwād päᵉjik odābānā‘kwạn umādcīnāwān.</span>
 
 <span class="l-fiero">**Mii dash gii-maajaawaad bezhig odaabaanaakwan omaajiinaawaan.**</span>
 
@@ -1049,15 +1042,15 @@ Old Man Mashos.
 
 <span class="l-gloss">Mii dash gii-maajaawaad (and when they set out) bezhig odaabaanaakwan omaajiinaawaan (they took a single toboggan along).</span>
 
-<span class="l-orig">(129) A‘pī kā∙u∙di‘tạmowād kīckānik a‘ki, “Mīsa∙u∙mā,” udinān uningwạnạn.</span>
+<span class="l-orig">(129) A‘pī kā∙u∙di‘tạmowād kīckānik a‘ki, “Mīsa∙u∙mā,” udinān unīngwạnạn.</span>
 
-<span class="l-fiero">**Apii gaa-oditamowad giishkaanig aki, “Mii sa omaa,” odinaan oningwanan.**</span>
+<span class="l-fiero">**Apii gaa-oditamowaad giishkaanig aki, “Mii sa omaa,” odinaan oningwanan.**</span>
 
 <span class="l-eng">*And when they were come at the end of the earth, “Here is the place,” he said to his son-in-law.*</span>
 
-<span class="l-gloss">Apii gaa-oditamowad giishkaanig aki (and when they reached the edge of the earth), “Mii sa omaa,” (“here is the place,”) odinaan oningwanan (he said to his son-in-law).</span>
+<span class="l-gloss">Apii gaa-oditamowaad giishkaanig aki (and when they reached the edge of the earth), “Mii sa omaa,” (“here is the place,”) odinaan oningwanan (he said to his son-in-law).</span>
 
-<span class="l-orig">(130) “‘Aᵘ, gīni‘tam,” udinān uningwạnạn.</span>
+<span class="l-orig">(130) “‘Aᵘ, gīni‘tam,” udinān unīngwạnạn.</span>
 
 <span class="l-fiero">**“Aw, giinitam,” odinaan oningwanan.**</span>
 
@@ -1065,7 +1058,7 @@ Old Man Mashos.
 
 <span class="l-gloss">“Aw, giinitam,” (“come, you first,”) odinaan oningwanan (he said to his son-in-law).</span>
 
-<span class="l-orig">(131) Ogīta‘kubinān uningwạnạn i∙i∙māⁿ udābāning.</span>
+<span class="l-orig">(131) Ogīta‘kubinān unīngwạnạn i∙i∙māⁿ udābāning.</span>
 
 <span class="l-fiero">**Ogii-dakobinaan oningwanan i’imaanh odaabaaning.**</span>
 
@@ -1099,13 +1092,13 @@ Old Man Mashos.
 
 <span class="l-orig">(135) Udānugāndciwäbinān Mạcōs, kāwin kīmādcīskāsī aᵘ udābān.</span>
 
-<span class="l-fiero">**Odaano-gaanjiwebinaan Mashoos, gaawiin gii-maajiis(h)kaasii odaabaan.**</span>
+<span class="l-fiero">**Odaano-gaanjiwebinaan Mashoos, gaawiin gii-maajiishkaasii odaabaan.**</span>
 
 <span class="l-eng">*In vain (from another place) did Mashos try shoving him off, but the toboggan did not move.*</span>
 
-<span class="l-gloss">Odaano-gaanjiwebinaan Mashoos (in vain Mashos tried to shove him off), gaawiin gii-maajiis(h)kaasii odaabaan (the toboggan did not move).</span>
+<span class="l-gloss">Odaano-gaanjiwebinaan Mashoos (in vain Mashos tried to shove him off), gaawiin gii-maajiishkaasii odaabaan (the toboggan did not move).</span>
 
-<span class="l-orig">(136) “Nindawā ābawicin,” udigōn uningwạnạn.</span>
+<span class="l-orig">(136) “Nindawā ābawicin,” udigōn unīngwạnạn.</span>
 
 <span class="l-fiero">**“Nindawaa aabawishin,” odigoon oningwanan.**</span>
 
@@ -1113,23 +1106,21 @@ Old Man Mashos.
 
 <span class="l-gloss">“Nindawaa aabawishin,” (“then untie me,”) odigoon oningwanan (he was told by his son-in-law).</span>
 
-<span class="l-orig">(137) Mīdạc kī∙ā∙ba∙u∙wād, “Skumā gīni‘tạm,” udigōn uningwạnạn.</span>
+<span class="l-orig">(137) Mīdạc kī∙ā∙ba∙u∙wād, “Skumā gīni‘tạm,” udigōn unīngwạnạn.</span>
 
-<span class="l-fiero">**Mii dash gii-aaba’owaad, “Skomaa giinitam,” odigoon oningwanan.**</span>
+<span class="l-fiero">**Mii dash gii-aaba’owaad, “Shkomaa giinitam,” odigoon oningwanan.**</span>
 
 <span class="l-eng">*And when he untied him, “Now it is your turn,” he was told by his son-in-law.*</span>
 
-<span class="l-gloss">Mii dash gii-aaba’owaad (and when he untied him), “Skomaa giinitam,” (“now then, your turn,”) odigoon oningwanan (he was told by his son-in-law).</span>
+<span class="l-gloss">Mii dash gii-aaba’owaad (and when he untied him), “Shkomaa giinitam,” (“now then, your turn,”) odigoon oningwanan (he was told by his son-in-law).</span>
 
 <span class="l-orig">(138) Mīdạc Omạcōs kīta‘kubinint udābāning; mī∙i∙´ᵘ kā∙i∙jikāndci wäbinint, a‘pạnä kīckānig a‘ki.</span>
 
-<span class="l-fiero">**Mii dash Omashoos gii-dakobininid odaabaaning; mii iw gaa-izhi-gaanjiwebinind, apane gishkaanig aki.**</span>
+<span class="l-fiero">**Mii dash Omashoos gii-dakobinind odaabaaning; mii iw gaa-izhi-gaanjiwebinind, apane gishkaanig aki.**</span>
 
 <span class="l-eng">*Whereupon Mashos was then bound upon his toboggan; accordingly, when off he was pushed, then away (he went) from the end of the earth.*</span>
 
-<span class="l-gloss">Mii dash Omashoos gii-dakobininid odaabaaning (whereupon Mashos was bound onto the toboggan); mii iw gaa-izhi-gaanjiwebinind (and so when he was shoved off), apane gishkaanig aki (away from the edge of the earth).</span>
-
-*Printed page: kā∙i∙jikāndci wäbinint is set as TWO words with a full word-space, verified at native resolution against the other inter-word spaces on p.186 l.10. Preserved as printed.*
+<span class="l-gloss">Mii dash Omashoos gii-dakobinind odaabaaning (whereupon Mashos was bound onto the toboggan); mii iw gaa-izhi-gaanjiwebinind (and so when he was shoved off), apane gishkaanig aki (away from the edge of the earth).</span>
 
 <span class="l-orig">(139) Ạninānōndāguzi Mạcōs:</span>
 
@@ -1139,15 +1130,13 @@ Old Man Mashos.
 
 <span class="l-gloss">Ani-naanoondagozi Mashoos: (Mashos went off crying out:)</span>
 
-*Layer 3 restored 2026-08-07 from the printed page: Jones, Part II p.187 — “…from the end of the earth. As he went, Mashōs could be heard (saying): ‘O son-in-law! I am going down too far!’” The English was never missing; Jones runs this clause into the same sentence as §140’s speech, so it has no standalone sentence of its own and the record was filled with a placeholder instead. Read at 5×.*
-
 <span class="l-orig">(140) “Ē‘ēⁱ, na∙ā∙ngī, nindōsāmabōn mē a‘pạnä!”</span>
 
-<span class="l-fiero">**“E’e’, na’aangii, nindoo(n)zaamaboon mii apane!”**</span>
+<span class="l-fiero">**“E’e’, na’aangii, nindoozaamaboon mii apane!”**</span>
 
 <span class="l-eng">*“O son-in-law! I am going down too far!”*</span>
 
-<span class="l-gloss">“E’e’, na’aangii, nindoo(n)zaamaboon mii apane!” (“oh, son-in-law, I am sliding down too far, away forever!”)</span>
+<span class="l-gloss">“E’e’, na’aangii, nindoozaamaboon mii apane!” (“oh, son-in-law, I am sliding down too far, away forever!”)</span>
 
 <span class="l-orig">(141) Kī‘pigīwä ‘aᵉa´ᵘ inini.</span>
 
@@ -1159,11 +1148,11 @@ Old Man Mashos.
 
 <span class="l-orig">(142) Ạmbä, ninguding kī‘tagwicin Omạcōs; mīnawā ogistcikạnawâbạmān uningwạnạn.</span>
 
-<span class="l-fiero">**Ambe, ningoding gii-dagwishing Omashoos; miinawaa ogischi-ganawaabamaan oningwanan.**</span>
+<span class="l-fiero">**Ambe, ningoding gii-dagwishing Omashoos; miinawaa ogichi-ganawaabamaan oningwanan.**</span>
 
 <span class="l-eng">*Well, by and by back came Mashos; again he gazed upon his son-in-law with much concern.*</span>
 
-<span class="l-gloss">Ambe, ningoding gii-dagwishing Omashoos (well, by and by Mashos arrived); miinawaa ogischi-ganawaabamaan oningwanan (again he gazed hard at his son-in-law).</span>
+<span class="l-gloss">Ambe, ningoding gii-dagwishing Omashoos (well, by and by Mashos arrived); miinawaa ogichi-ganawaabamaan oningwanan (again he gazed hard at his son-in-law).</span>
 
 <span class="l-orig">(143) Minawā ninguding i‘kido ‘aᵉa´ᵘ inini:</span>
 
@@ -1181,7 +1170,7 @@ Old Man Mashos.
 
 <span class="l-gloss">“Apegish, giiyoseyaan moozoog dibi ayaawaagwen!” (“would that I might hunt moose, wherever they may be!”)</span>
 
-<span class="l-orig">(145) Omạcōzidạc udinān uningwạnạn:</span>
+<span class="l-orig">(145) Omạcōzidạc udinān unīngwạnạn:</span>
 
 <span class="l-fiero">**Omashoos idash odinaan oningwanan:**</span>
 
@@ -1191,11 +1180,11 @@ Old Man Mashos.
 
 <span class="l-orig">(146) “A∙ī∙, iwidi sa‘ku ijābạnīg kā∙u∙säwād.</span>
 
-<span class="l-fiero">**“Ayii, iwidi sa ko izhaabaniig gaayosewaad.**</span>
+<span class="l-fiero">**“Ayii, iwidi sa go izhaabaniig gaayosewaad.**</span>
 
 <span class="l-eng">*“Why, yonder they used to go in times past when they hunted for game.*</span>
 
-<span class="l-gloss">“Ayii, iwidi sa ko izhaabaniig gaayosewaad. (“why, yonder they used to go when they hunted.)</span>
+<span class="l-gloss">“Ayii, iwidi sa go izhaabaniig gaayosewaad. (“why, yonder they used to go when they hunted.)</span>
 
 <span class="l-orig">(147) Ānic kīgatijāmin!”</span>
 
@@ -1207,11 +1196,11 @@ Old Man Mashos.
 
 <span class="l-orig">(148) Kīmādcāwạg weyābạninik.</span>
 
-<span class="l-fiero">**Gii-maajaawag wayaabaninig.**</span>
+<span class="l-fiero">**Gii-maajaawag weyaabaninig.**</span>
 
 <span class="l-eng">*They departed on the morrow.*</span>
 
-<span class="l-gloss">Gii-maajaawag wayaabaninig (they set out the next morning).</span>
+<span class="l-gloss">Gii-maajaawag weyaabaninig (they set out the next morning).</span>
 
 <span class="l-orig">(149) Kā∙u∙di‘tạmowād iwidi mōⁿzōn ayānit kī‘kabäciwạg.</span>
 
@@ -1221,8 +1210,6 @@ Old Man Mashos.
 
 <span class="l-gloss">Gaa-oditamowaad iwidi moozoon ayaanid (when they reached the place where the moose were) gii-gabeshiwag (they made camp).</span>
 
-*ayaanid — the inherited Fiero read aaanid (three a’s); Jones prints ayānit and ayaanid is attested 39× across the corpus. Fixed to the page and the corpus’s own attestations, 2026-08-13 (register §1.2/§1.3 — the page settles it; flag 17-F1 closed).*
-
 <span class="l-orig">(150) Wänāgucig kā‘kabäciwād ogī∙ạ∙gōtōnāwān uma‘kiziniwān.</span>
 
 <span class="l-fiero">**Wenaagoshig gaa-gabeshiwaad ogii-agoodoonaawaan omakiziniwaan.**</span>
@@ -1231,13 +1218,13 @@ Old Man Mashos.
 
 <span class="l-gloss">Wenaagoshig gaa-gabeshiwaad (in the evening when they had camped) ogii-agoodoonaawaan omakiziniwaan (they hung up their moccasins).</span>
 
-<span class="l-orig">(151) Kānîbāt ‘aᵉa´ᵘ inini Omacōs kīmūdc kīpạsigwi; uningwạnạn uma‘kizinini ugīpina∙ā∙nạn, skudänk ogī∙a∙‘pạgidōnạn.</span>
+<span class="l-orig">(151) Kānîbāt ‘aᵉa´ᵘ inini Omacōs kīmūdc kīpạsigwi; unīngwạnạn uma‘kizinini ugīpina∙ā∙nạn, skudänk ogī∙a∙‘pạgidōnạn.</span>
 
-<span class="l-fiero">**Gaa-nibaad a’aw inini, Omashoos giimooj gii-bazigwii; oningwanan omakizinini ogii-bina’aanan, (i)s(h)kodeng ogii-apagidoonan.**</span>
+<span class="l-fiero">**Gaa-nibaad a’aw inini, Omashoos giimooj gii-bazigwii; oningwanan omakizinini ogii-bina’aanan, shkodeng ogii-apagidoonan.**</span>
 
 <span class="l-eng">*After the man was asleep, Mashos secretly rose to his feet; the moccasins of his son-in-law he took down, into the fire he threw them.*</span>
 
-<span class="l-gloss">Gaa-nibaad a’aw inini (after the man was asleep), Omashoos giimooj gii-bazigwii (Mashos secretly rose to his feet); oningwanan omakizinini ogii-bina’aanan (he took down his son-in-law’s moccasins), (i)s(h)kodeng ogii-apagidoonan (and threw them into the fire).</span>
+<span class="l-gloss">Gaa-nibaad a’aw inini (after the man was asleep), Omashoos giimooj gii-bazigwii (Mashos secretly rose to his feet); oningwanan omakizinini ogii-bina’aanan (he took down his son-in-law’s moccasins), shkodeng ogii-apagidoonan (and threw them into the fire).</span>
 
 <span class="l-orig">(152) Kātcāgidänig ma‘kizinạn Omạcōs mạdwägīgito:</span>
 
@@ -1263,7 +1250,7 @@ Old Man Mashos.
 
 <span class="l-gloss">Gii-onishkaa a’aw inini (up rose the man) gii-waabandang omakizinan gii-jaagidenig (to see his moccasins burning up).</span>
 
-<span class="l-orig">(155) Kigījäbidạc kīmādcā Umacōs kīnạgạnāt uningwạnạn.</span>
+<span class="l-orig">(155) Kigījäbidạc kīmādcā Umacōs kīnạgạnāt unīngwạnạn.</span>
 
 <span class="l-fiero">**Gigzheb idash gii-maajaa Omashoos gii-naganaad oningwanan.**</span>
 
@@ -1278,8 +1265,6 @@ Old Man Mashos.
 <span class="l-eng">*And the man blackened his legs.*</span>
 
 <span class="l-gloss">Aw idash inini ogii-makadewinaanan okaadan (and the man blackened his legs).</span>
-
-*Printed page: ogīma‘kidäwinānạn — the page sets kidä, a dotted i. Page and restored Fiero disagree; preserved as printed, not reconciled. Flag 17-B03-4.*
 
 <span class="l-orig">(157) “Mōⁿsunk ningaticināgus.”</span>
 
@@ -1299,11 +1284,11 @@ Old Man Mashos.
 
 <span class="l-orig">(159) Umạcōs owâbạndān mōⁿzōn pimi‘kawänit.</span>
 
-<span class="l-fiero">**Omashoos owaabandaan moozoon bimikwenid.**</span>
+<span class="l-fiero">**Omashoos owaabandaan moozoon bimikawenid.**</span>
 
 <span class="l-eng">*Mashos saw the tracks of a moose.*</span>
 
-<span class="l-gloss">Omashoos owaabandaan moozoon bimikwenid (Mashos saw a moose’s tracks passing).</span>
+<span class="l-gloss">Omashoos owaabandaan moozoon bimikawenid (Mashos saw a moose’s tracks passing).</span>
 
 <span class="l-orig">(160) Wīni‘tạm kītạgwicin ‘aᵉa´winini ändāwāt.</span>
 
@@ -1313,7 +1298,7 @@ Old Man Mashos.
 
 <span class="l-gloss">Wiinitam gii-dagwisin a’aw inini endaawaad (the man was the first to reach home).</span>
 
-<span class="l-orig">(161) A‘pī∙i∙dạc tägucing Mạcōs owâbạmān uningwạnạn nạmạdạbinit.</span>
+<span class="l-orig">(161) A‘pī∙i∙dạc tägucing Mạcōs owâbạmān unīngwạnạn nạmạdạbinit.</span>
 
 <span class="l-fiero">**Apii idash degoshing Mashoos owaabamaan oningwanan namadabinid.**</span>
 
@@ -1323,11 +1308,11 @@ Old Man Mashos.
 
 <span class="l-orig">(162) Minawā ogistcikạnawâbạmān.</span>
 
-<span class="l-fiero">**Miinawaa ogischi-ganawaabamaan.**</span>
+<span class="l-fiero">**Miinawaa ogichi-ganawaabamaan.**</span>
 
 <span class="l-eng">*Again he observed him with concern.*</span>
 
-<span class="l-gloss">Miinawaa ogischi-ganawaabamaan (again he watched him hard).</span>
+<span class="l-gloss">Miinawaa ogichi-ganawaabamaan (again he watched him hard).</span>
 
 <span class="l-orig">(163) Minawā i‘kido ‘aᵉa´winini:</span>
 
@@ -1363,19 +1348,19 @@ Old Man Mashos.
 
 <span class="l-orig">(167) A‘pī kā∙o∙di‘tạmowād i∙i∙mā kīgabäciwạg.</span>
 
-<span class="l-fiero">**Apii gaa-oditamowaa i’imaa gii-gabeshiwag.**</span>
+<span class="l-fiero">**Apii gaa-oditamowaad i’imaa gii-gabeshiwag.**</span>
 
 <span class="l-eng">*When they were come at the place, they went into camp.*</span>
 
-<span class="l-gloss">Apii gaa-oditamowaa i’imaa gii-gabeshiwag (when they reached the place they made camp).</span>
+<span class="l-gloss">Apii gaa-oditamowaad i’imaa gii-gabeshiwag (when they reached the place they made camp).</span>
 
 <span class="l-orig">(168) A‘pī∙i∙dac wânîbāwād ogi∙ạ∙gōtōnāwān ma‘kisiniwān tcîpā‘tänig.</span>
 
-<span class="l-fiero">**Apii idash waa-nibaawaad, ogii-agoodoonaawaan (o)makiziniwaan ji-baatenig.**</span>
+<span class="l-fiero">**Apii idash waa-nibaawaad, ogii-agoodoonaawaan makiziniwaan ji-baatenig.**</span>
 
 <span class="l-eng">*And when they were about to go to bed, they hung up their moccasins to dry.*</span>
 
-<span class="l-gloss">Apii idash waa-nibaawaad (and when they were about to sleep), ogii-agoodoonaawaan (o)makiziniwaan ji-baatenig (they hung up their moccasins to dry).</span>
+<span class="l-gloss">Apii idash waa-nibaawaad (and when they were about to sleep), ogii-agoodoonaawaan makiziniwaan ji-baatenig (they hung up their moccasins to dry).</span>
 
 <span class="l-orig">(169) Kā‘kawicimut Omạcōs, ‘aᵉawinini kīpạsigwī uma‘kizinạn pāsạnk.</span>
 
@@ -1395,11 +1380,11 @@ Old Man Mashos.
 
 <span class="l-orig">(171) Mī∙i∙dạc kā∙i∙jikawicimut, ugī∙u∙ndcikạnawâbạmān Umạcōzạn.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-gawishimod, ogii-onji-ganawaabamaan Omashoos.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-gawishimod, ogii-onji-ganawaabamaan Omashoosan.**</span>
 
 <span class="l-eng">*And then, after going to bed, he kept watch of Mashos.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-gawishimod (and then, after lying down), ogii-onji-ganawaabamaan Omashoos (he kept watch on Mashos).</span>
+<span class="l-gloss">Mii dash gaa-izhi-gawishimod (and then, after lying down), ogii-onji-ganawaabamaan Omashoosan (he kept watch on Mashos).</span>
 
 <span class="l-orig">(172) Kī∙u∙nickā Mạcōs.</span>
 
@@ -1411,11 +1396,11 @@ Old Man Mashos.
 
 <span class="l-orig">(173) Kīpina∙ạ∙nk wīn uma‘kizinạn, skudänk ugī∙a∙‘pạgidōnạn; kā∙i∙jikawicimut.</span>
 
-<span class="l-fiero">**Gii-bina’ang wiin omakizinan, (i)s(h)kodeng ogii-apagidoonan; gaa-izhi-gawishimod.**</span>
+<span class="l-fiero">**Gii-bina’ang wiin omakizinan, shkodeng ogii-apagidoonan; gaa-izhi-gawishimod.**</span>
 
 <span class="l-eng">*Taking down his moccasins, into the fire he flung them; then he went to bed.*</span>
 
-<span class="l-gloss">Gii-bina’ang wiin omakizinan (taking down his own moccasins), (i)s(h)kodeng ogii-apagidoonan (he flung them into the fire); gaa-izhi-gawishimod (then he lay down).</span>
+<span class="l-gloss">Gii-bina’ang wiin omakizinan (taking down his own moccasins), shkodeng ogii-apagidoonan (he flung them into the fire); gaa-izhi-gawishimod (then he lay down).</span>
 
 <span class="l-orig">(174) Ā‘pidci kātcāgitäg ma‘kizinạn, mạdwägīgitō Macōs:</span>
 
@@ -1505,9 +1490,7 @@ Old Man Mashos.
 
 <span class="l-gloss">Gii-izhaawaad gii-nandawaabamaawaad (when they went there to look for him), ogiwaabamaawaan mashkiigwaatigoon (they saw a tamarack) badakizonid imaa jiigibiig gichigamiing (standing there by the shore of the sea).</span>
 
-*Two page notes. (1) kīnạndawâbạmāwād: the final ā carries its macron bar plus an extra spike rising from the right end — between an ā with an acute and a battered or doubled sort. At the Part II scan’s 1-bit, 8.4 px/pt ceiling nothing further can be read; typed plainly as ā, the spike not represented. HARD flag 17-B03-5. (2) nạckīgwātigōn prints an initial n- (unambiguous at native resolution) against Jones’s own Mạckīgwātigunk three lines earlier at §182. Preserved as printed.*
-
-<span class="l-orig">(185) Mī∙i∙´ᵘ kīpa‘kināgut uningwạnạn ‘aᵉa´ᵘ Umạcōs.</span>
+<span class="l-orig">(185) Mī∙i∙´ᵘ kīpa‘kināgut unīngwạnạn ‘aᵉa´ᵘ Umạcōs.</span>
 
 <span class="l-fiero">**Mii iw gii-bakinaagod oningwanan a’aw Omashoos.**</span>
 

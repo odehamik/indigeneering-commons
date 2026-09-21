@@ -2,7 +2,6 @@
 title: "15. The origin of dogs"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -29,13 +28,13 @@ THE ORIGIN OF DOGS
 
 <span class="l-orig">(2) Ā‘pidci kīkistcinōdinini, kāwīn kīkunạbiskāsīwạg; kînwäⁿj kistcigạmīng kī‘pabā∙a∙yāwạg.</span>
 
-<span class="l-fiero">**Aapiji gii-gichi-noodinini, gaawiin gii-gonaboshkaasiiwag; ginwenzh gichigaming gii-babaa-ayaawag.**</span>
+<span class="l-fiero">**Aapiji gii-gichi-noodinini, gaawiin gii-gonabishkaasiiwag*; ginwenzh gichigaming gii-babaa-ayaawag.**</span>
 
 <span class="l-eng">*Very strong blew the wind, but they were not capsized; a long while over the sea they continued aimlessly.*</span>
 
-<span class="l-gloss">Aapiji gii-gichi-noodinini (very strongly it blew), gaawiin gii-gonaboshkaasiiwag (they were not capsized); ginwenzh gichigaming (for a long while on the sea) gii-babaa-ayaawag (they went about aimlessly).</span>
+<span class="l-gloss">Aapiji gii-gichi-noodinini (very strongly it blew), gaawiin gii-gonabishkaasiiwag* (they were not capsized); ginwenzh gichigaming (for a long while on the sea) gii-babaa-ayaawag (they went about aimlessly).</span>
 
-<span class="l-orig">(3) Ninguding kī∙ạ∙gwāwāpahōwạg ạgāma‘kīng.</span>
+<span class="l-orig">(3) Ninguding kī∙ạ∙gwāwäpahōwạg ạgāma‘kīng.</span>
 
 <span class="l-fiero">**Ningoding gii-agwaaweba’oowag agaamakiing.**</span>
 
@@ -51,7 +50,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Gii-gabaawaad (when they had landed) owaabandaanawaa (they saw) awiya bimikawenid (someone’s tracks passing) gichi-anishinaaben (of a great person).</span>
 
-<span class="l-orig">(5) Mīdạc kīsāgisiwad ugīku‘piwidōnāwa udcīmāniwa, mīdạc i∙i∙māⁿ unāmōnag kī‘kāsowād.</span>
+<span class="l-orig">(5) Mīdạc kīsägisiwad ugīku‘piwidōnāwa udcīmāniwa, mīdạc i∙i∙māⁿ unāmōnag kī‘kāsowād.</span>
 
 <span class="l-fiero">**Mii dash gii-zegiziwaad ogii-gopiwidoonaawaa ojiimaaniwaa, mii dash i’imaa anaamoonag gii-gaazowaad.**</span>
 
@@ -67,7 +66,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Ningoding (by and by) onoondaanaawaa gegoo madwesininig (they heard something fall with a sound); mii dash inaabiwaad (and when they peeked) waabandaanaawaa gichi-bikwak atenig (they saw a huge arrow lying there).</span>
 
-<span class="l-orig">(7) Mīdạc käᵒgä‘t sägisiwād.</span>
+<span class="l-orig">(7) Mīdạc käᵉgä‘t sägisiwād.</span>
 
 <span class="l-fiero">**Mii dash geget zegiziwaad.**</span>
 
@@ -75,7 +74,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Mii dash geget zegiziwaad (and then truly they were afraid).</span>
 
-<span class="l-orig">(8) Wībạgu ugīpi∙u∙disigūwän kistci∙u∙nicinābän, ugạnōnigūwän:</span>
+<span class="l-orig">(8) Wībạgu ugīpi∙u∙disigūwān kistci∙u∙nicinābän, ugạnōnigūwān:</span>
 
 <span class="l-fiero">**Wiiba go ogii-bi-odisikoowaan gichi-anishinaaben, oganoonigowaan:**</span>
 
@@ -107,7 +106,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Gaawiin niin nimbanaaji’aasiig anishinaabeg (I do not harm people),” odigowaan (they were told by him).</span>
 
-<span class="l-orig">(12) Owâbamāwān adi‘kwan cägwazonit, mī wīn ini’ᵘ päbāpîmwāt wī∙a∙mwät ‘aᵉa’ᵘ mîsābä.</span>
+<span class="l-orig">(12) Owâbamāwān adi‘kwan cägwazonit, mī wīn ini´ᵘ päbāpîmwāt wī∙a∙mwāt ‘aᵉa´ᵘ mîsābä.</span>
 
 <span class="l-fiero">**Owaabamaawaan adikwan zhegwazonid, mii wiin iniw bebaabimwaad wii-amwaad a’aw misaabe.**</span>
 
@@ -115,7 +114,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Owaabamaawaan adikwan zhegwazonid (they saw a caribou hanging at his side), mii wiin iniw bebaabimwaad wii-amwaad a’aw misaabe (that was the thing Giant had gone roving to shoot, wanting to eat it).</span>
 
-<span class="l-orig">(13) Mī∙i∙dec kā∙i∙ji∙u∙dā‘piniguwād ā‘pidci mindidōwạn ini’ᵘ mîsābän.</span>
+<span class="l-orig">(13) Mī∙i∙dec kā∙i∙ji∙u∙dā‘piniguwād ā‘pidci mindidōwạn ini´ᵘ mîsābän.</span>
 
 <span class="l-fiero">**Mii idash gaa-izhi-odaapinigowaad aapiji mindidowan iniw misaaben.**</span>
 
@@ -123,7 +122,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Mii idash gaa-izhi-odaapinigowaad (and so they were taken up) aapiji mindidowan iniw misaaben (by that Giant who was so very big).</span>
 
-<span class="l-orig">(14) Ugīpīndūmunān ini’ᵘ unicinābän ‘aᵉa’ᵘ mîsābä.</span>
+<span class="l-orig">(14) Ugīpīndūmunān ini´ᵘ unicinābän ‘aᵉa’ᵘ mîsābä.</span>
 
 <span class="l-fiero">**Ogii-biindomonaan iniw anishinaaben a’aw misaabe.**</span>
 
@@ -147,7 +146,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Apii idash gaa-biindigewaad (and when they had gone in), naanaage gii-biindige aw wiindigoo (after a while the Wiindigoo came in).</span>
 
-<span class="l-orig">(17) Mīdạc änāt ini’ᵘ mîsābän ‘aᵉa’ᵘ wīndigō:</span>
+<span class="l-orig">(17) Mīdạc änāt ini´ᵘ mîsābän ‘aᵉa´ᵘ wīndigō:</span>
 
 <span class="l-fiero">**Mii dash enaad iniw misaaben a’aw wiindigoo:**</span>
 
@@ -163,7 +162,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">“Anishinaabeg gidayaawaag (you have people),” odinaan (he said to him).</span>
 
-<span class="l-orig">(19) Ugīkāniguwän pīndig āndānit ini’ᵘ mîsābän tcîbwāpīndigänit ini’ᵘ wīndigōn.</span>
+<span class="l-orig">(19) Ugīkāniguwān pīndig ändānit ini’ᵘ mîsābän tcîbwāpīndigänit ini’ᵘ wīndigōn.</span>
 
 <span class="l-fiero">**Ogii-gaanigowaan biindig endaanid iniw misaaben jibwaa-biindigenid iniw wiindigoon.**</span>
 
@@ -171,7 +170,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Ogii-gaanigowaan biindig endaanid iniw misaaben (they had been hidden inside Giant’s dwelling by him) jibwaa-biindigenid iniw wiindigoon (before the Wiindigoo came in).</span>
 
-<span class="l-orig">(20) “Kāwīn anicinābäg nindayāwāsīg,” i‘kidō ‘aᵉa’ᵘ mîsābä.</span>
+<span class="l-orig">(20) “Kāwīn anicinābäg nindayāwāsīg,” i‘kidō ‘aᵉa´ᵘ mîsābä.</span>
 
 <span class="l-fiero">**“Gaawiin anishinaabeg nindayaawaasiig,” ikido a’aw misaabe.**</span>
 
@@ -179,7 +178,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">“Gaawiin anishinaabeg nindayaawaasiig (I have no people),” ikido a’aw misaabe (said Giant).</span>
 
-<span class="l-orig">(21) “Käᵒgä‘t,” i‘kido ‘aᵉa’ᵘ wīndigō.</span>
+<span class="l-orig">(21) “Käᵉgä‘t,” i‘kido ‘aᵉa’ᵘ wīndigō.</span>
 
 <span class="l-fiero">**“Geget,” ikido a’aw wiindigoo.**</span>
 
@@ -195,13 +194,15 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Mii go ezhi-noondaagozid (and then he was heard making a sound) ikwanaamod (as he drew in his breath).</span>
 
-<span class="l-orig">(23) “Ūp!”¹ i‘kunāmut ‘aᵉa’ᵘ wīndigō, ä‘pîtcimîsawänimāt anicinābän wī∙ạ∙mwät.</span>
+<span class="l-orig">(23) “Ūp!”¹ i‘kunāmut ‘aᵉa’ᵘ wīndigō, ä‘pītcimîsawänimāt anicinābän wī∙ạ∙mwāt.</span>
 
 <span class="l-fiero">**“Oop!” ikoonamod a’aw wiindigoo, epiichi-misawenimaad anishinaaben wii-amwaad.**</span>
 
 <span class="l-eng">*“Up!”1 was the way the Wīndigō sucked in his breath, so eager was he to have the people to eat.*</span>
 
 <span class="l-gloss">“Oop!” ikoonamod a’aw wiindigoo (“Oop!” was the sound the Wiindigoo made drawing in his breath), epiichi-misawenimaad anishinaaben wii-amwaad (so much did he crave the people, wanting to eat them).</span>
+
+*1 Uttered by drawing in the breath.*
 
 *1 Uttered by drawing in the breath.*
 
@@ -221,7 +222,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Gegapii gaye wiin misaabe nishkaadizi (finally Giant too grew angry).</span>
 
-<span class="l-orig">(26) Mi‘tigōnāgạn a‘täni imāⁿ pīndik āndāt.</span>
+<span class="l-orig">(26) Mi‘tigōnāgạn a‘täni imāⁿ pīndik ändāt.</span>
 
 <span class="l-fiero">**Mitigonaagan ateni imaa biindig endaad.**</span>
 
@@ -229,13 +230,13 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Mitigonaagan ateni imaa biindig endaad (a wooden bowl lay there inside where he lived).</span>
 
-<span class="l-orig">(27) Mīdạc i∙i∙’ᵘ kāpā‘ki‘kwādạnk, mīdạc imāⁿ ạnimōⁿs ayāt i∙i∙māⁿ anāmaya∙ī∙unāgạning, udayänsạn ‘aᵉa’ᵘ mîsābä.</span>
+<span class="l-orig">(27) Mīdạc ī∙i∙’ᵘ kāpā‘ki‘kwādạnk, mīdạc imāⁿ ạnimōⁿs ayāt i∙i∙māⁿ anāmaya∙ī∙unāgạning, udayänsạn ‘aᵉa’ᵘ mîsābä.</span>
 
-<span class="l-fiero">**Mii dash i’iw gabaagigwaadang, mii dash imaa animoons ayaad imaa anaamaya’ii onaaganing, odayaansan a’aw misaabe.**</span>
+<span class="l-fiero">**Mii dash i’iw gabaagigwaadang, mii dash imaa animoons ayaad i’imaa anaamaya’ii onaaganing, odayensan a’aw misaabe.**</span>
 
 <span class="l-eng">*And so, prying it up with a stick, behold! a dog was there underneath the bowl, the pet of Giant.*</span>
 
-<span class="l-gloss">Mii dash i’iw gabaagigwaadang (and so, prying it up with a stick), mii dash imaa animoons ayaad (there was a little dog) imaa anaamaya’ii onaaganing (there beneath the bowl), odayaansan a’aw misaabe (the little pet of Giant).</span>
+<span class="l-gloss">Mii dash i’iw gabaagigwaadang (and so, prying it up with a stick), mii dash imaa animoons ayaad (there was a little dog) i’imaa anaamaya’ii onaaganing (there beneath the bowl), odayensan a’aw misaabe (the little pet of Giant).</span>
 
 <span class="l-orig">(28) “Taga, packwadāc, awimīgāc ‘aᵉa’ᵘ mạdcianicinābä.”</span>
 
@@ -245,7 +246,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">“Daga, bashkwadaash (come now, Hairless), awi-miigaazh a’aw maji-anishinaabe (go fight that bad person).”</span>
 
-<span class="l-orig">(29) Mī∙i∙’ᵘ käᵒgät pazigwīt ‘aᵉa’ᵘ animōⁿs;</span>
+<span class="l-orig">(29) Mī∙i∙’ᵘ käᵉgät pazigwīt ‘aᵉa´ᵘ animōⁿs;</span>
 
 <span class="l-fiero">**Mii iw geget bazigwiid a’aw animoons;**</span>
 
@@ -263,11 +264,11 @@ THE ORIGIN OF DOGS
 
 <span class="l-orig">(31) Äckạm kī∙ạ∙nipa‘pawi ‘aᵉa’ᵘ animuc, a‘pidci kī∙ạ∙niminditu ‘aᵉa’ᵘ ạnimuc.</span>
 
-<span class="l-fiero">**Eshkam gii-ani-babawi a’aw animoosh, aapiji gii-ani-mindidod a’aw animoosh.**</span>
+<span class="l-fiero">**Eshkam gii-ani-babawi a’aw animoosh, aapiji gii-ani-mindido a’aw animoosh.**</span>
 
 <span class="l-eng">*The more the dog shook himself, ever so much larger he continued to grow.*</span>
 
-<span class="l-gloss">Eshkam gii-ani-babawi a’aw animoosh (the more the dog kept shaking himself), aapiji gii-ani-mindidod a’aw animoosh (the bigger the dog kept growing).</span>
+<span class="l-gloss">Eshkam gii-ani-babawi a’aw animoosh (the more the dog kept shaking himself), aapiji gii-ani-mindido a’aw animoosh (the bigger the dog kept growing).</span>
 
 <span class="l-orig">(32) A‘pī∙i∙dac wayâbạmāt ạnimūn mindidunit kī∙ạ∙nisāga∙ạ∙m ‘aᵉa’ᵘ wīndigō.</span>
 
@@ -351,11 +352,11 @@ THE ORIGIN OF DOGS
 
 <span class="l-orig">(42) Waᵉawä nindayäⁿs kimīninim.</span>
 
-<span class="l-fiero">**Wa’awe nindayaans gimiininim.**</span>
+<span class="l-fiero">**Wa’awe nindayens* gimiininim.**</span>
 
 <span class="l-eng">*This little pet of mine I will give to you.*</span>
 
-<span class="l-gloss">Wa’awe nindayaans gimiininim (this little pet of mine I give to you).</span>
+<span class="l-gloss">Wa’awe nindayens* gimiininim (this little pet of mine I give to you).</span>
 
 <span class="l-orig">(43) Kāwīn minawā tabigīwäsi.</span>
 
@@ -365,7 +366,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Gaawiin miinawaa da-bi-giiwesii (he will not come back here again).</span>
 
-<span class="l-orig">(44) Kāwīn awiya ạnimuc ayāsī iwidi kīnawā āndạna‘kīyäg.</span>
+<span class="l-orig">(44) Kāwīn awiya ạnimuc ayāsī iwidi kīnawā ändạna‘kīyäg.</span>
 
 <span class="l-fiero">**Gaawiin awiya animosh ayaasii iwidi giinawaa endanakiiyeg.**</span>
 
@@ -373,7 +374,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Gaawiin awiya animosh ayaasii iwidi giinawaa endanakiiyeg (there is no dog over there where you dwell).</span>
 
-<span class="l-orig">(45) Māgijä äniwäk kạdābạdci∙ā∙wä, kägāgu anicinābänk tai∙i∙jiwäbizi.”</span>
+<span class="l-orig">(45) Māgijā äniwäk kạdābạdci∙ā∙wā, kägāgu anicinābänk tai∙i∙jiwäbizi.”</span>
 
 <span class="l-fiero">**Maagizhaa eniweg gad-aabaji’aawaa, gegaa go anishinaabeng da-izhiwebizi.”**</span>
 
@@ -383,13 +384,13 @@ THE ORIGIN OF DOGS
 
 <span class="l-orig">(46) Mī∙i∙dạc kā∙i∙jikạnōnāt ini’ᵘ udayäⁿsạn ‘aᵉa’ᵘ mîsābäᵉ:</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-ganoonaad iniw odayaansan a’aw misaabe:**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-ganoonaad iniw odayensan a’aw misaabe:**</span>
 
 <span class="l-eng">*Accordingly to his pet spoke Giant:*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-ganoonaad iniw odayaansan a’aw misaabe (and so Giant spoke to his little pet):</span>
+<span class="l-gloss">Mii dash gaa-izhi-ganoonaad iniw odayensan a’aw misaabe (and so Giant spoke to his little pet):</span>
 
-<span class="l-orig">(47) “Taga, kīwāwic ogōᵘ nicīmäyạg!”</span>
+<span class="l-orig">(47) “Tạga, kīwäwic ogōᵘ nicīmäyạg!”</span>
 
 <span class="l-fiero">**“Daga, giiwewizh ogow nishiimeyag!”**</span>
 
@@ -397,13 +398,13 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">“Daga, giiwewizh ogow nishiimeyag! (come, take these little brothers of mine back home!)”</span>
 
-<span class="l-orig">(48) Ugīnāⁿsibīwinān ini’ᵘ udayäⁿsạn; nawạtc kī∙ạ∙niminditu ‘aᵉa’ᵘ packwadāc.</span>
+<span class="l-orig">(48) Ugīnāⁿsibīwinān ini´ᵘ udayäⁿsạn; nawạtc kī∙ạ∙niminditu ‘aᵉa’ᵘ packwadāc.</span>
 
-<span class="l-fiero">**Ogii-naazibiiwinaan iniw adayaansan; nawaj gii-ani-mindido a’aw bashkwadaash.**</span>
+<span class="l-fiero">**Ogii-naanzibiiwinaan* iniw odayensan; nawaj gii-ani-mindido a’aw bashkwadaash.**</span>
 
 <span class="l-eng">*He carried his little pet down to the water; much bigger now did Hairless continue to grow.*</span>
 
-<span class="l-gloss">Ogii-naazibiiwinaan iniw adayaansan (he carried his little pet down to the water); nawaj gii-ani-mindido a’aw bashkwadaash (Hairless kept growing bigger).</span>
+<span class="l-gloss">Ogii-naanzibiiwinaan* iniw odayensan (he carried his little pet down to the water); nawaj gii-ani-mindido a’aw bashkwadaash (Hairless kept growing bigger).</span>
 
 <span class="l-orig">(49) Ugīnībawi∙ā∙n ini’ᵘ udayạn, mīdạc imāⁿ ugidāwigạn kī∙a∙sāt ini’ᵘ anicinābän. “</span>
 
@@ -413,7 +414,7 @@ THE ORIGIN OF DOGS
 
 <span class="l-gloss">Ogii-niibawi’aan iniw odayaan (he set his pet standing), mii dash imaa ogidaawigan gii-asaad iniw anishinaaben (and then on his back he placed the people).</span>
 
-<span class="l-orig">(50) ‘Aᵘ, mī∙i∙’ᵘ ijimādcīc, kwaya‘k āndana‘kīwād ijiwic!”</span>
+<span class="l-orig">(50) ‘Aᵘ, mī∙i∙’ᵘ ijimādcīc, kwaya‘k ändana‘kīwād ijiwic!”</span>
 
 <span class="l-fiero">**“Aw,” mii iw izhi-maajiizh, gwayak endanakiiwaad izhiwizh!”**</span>
 
@@ -463,15 +464,13 @@ THE ORIGIN OF DOGS
 
 <span class="l-orig">(56) Mī∙i∙’ᵘ pîdcīnạg a‘pī kī∙a∙yāwāt ạnimōg o∙o∙māⁿ a‘kīng; mī aⁿ packwạdāc unīdcānisaᵉ, nībawa taswäwān ạnimōg kī∙a∙yāwạg, anōtc äjināgusiwāt ạnimucạg; nībawa tạswäwānạgizi ‘aᵉa’ᵘ animuc äjinikāzut.</span>
 
-<span class="l-fiero">**Mii iw bijiinag apii gii-ayaawaad animoog o’omaa akiing; mii aw bashkwadaash oniijaanisa’, niibawa daswewaanagizi a’aw animoosh ezhinikaazod.**</span>
+<span class="l-fiero">**Mii iw bijiinag apii gii-ayaawaad animoog o’omaa akiing; mii aw bashkwadaash oniijaanisa’, niibawa daswewaan animoog gii-ayaawag, anooj ezhinaagoziwaad animooshag; niibawa daswewaanagizi a’aw animoosh ezhinikaazod.**</span>
 
 <span class="l-eng">*That was then the time when they began having dogs here on earth; they were the offspring of Hairless, of many kinds of dogs they had, of every kind of appearance were the dogs; numerous is the kind that goes by the name of dog.*</span>
 
-<span class="l-gloss">Mii iw bijiinag apii gii-ayaawaad animoog o’omaa akiing (that was the time when they first had dogs here on earth); mii aw bashkwadaash oniijaanisa’ (these were the offspring of Hairless), niibawa daswewaanagizi a’aw animoosh ezhinikaazod (many are the kinds of the one called dog).</span>
+<span class="l-gloss">Mii iw bijiinag apii gii-ayaawaad animoog o’omaa akiing (that was the time when they first had dogs here on earth); mii aw bashkwadaash oniijaanisa’ (these were the offspring of Hairless), niibawa daswewaan animoog gii-ayaawag, anooj ezhinaagoziwaad animooshag (many kinds of dogs they had, of every kind of appearance were the dogs); niibawa daswewaanagizi a’aw animoosh ezhinikaazod (many are the kinds of the one called dog).</span>
 
-*[Jones-layer note, 2026-08-11] The printed Ojibwe on p.174 carries a clause the inherited Fiero line omits: “nībawa taswäwān ạnimōg kī∙a∙yāwạg, anōtc äjināgusiwāt ạnimucạg;” (≈ many of every kind were the dogs they had, and of various appearance were the dogs). The Jones diplomatic layer carries it faithfully; the Fiero is inherited and provisional (§1.3) and is left unreconciled — FLAGGED for M., not fixed here.*
-
-<span class="l-orig">(57) Mīgu ‘aᵘ packwạdāc ka‘kina imāⁿ wändcīwāt igi’ᵘ animucạg miziwä nōngum äyāwāt ạnimōg.</span>
+<span class="l-orig">(57) Mīgu ‘aᵘ packwạdāc ka‘kina imāⁿ wändcīwāt īgi´ᵘ animucạg miziwä nōngum äyāwāt ạnimōg.</span>
 
 <span class="l-fiero">**Mii go aw bashkwadaash gakina imaa wenjiwaad igiw animooshag miziwe noongom eyaawaad animoog.**</span>
 

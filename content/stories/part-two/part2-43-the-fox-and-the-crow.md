@@ -2,7 +2,6 @@
 title: "43. The Fox and the Crow"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -59,7 +58,7 @@ THE FOX AND THE CROW.
 
 <span class="l-gloss">Ningoding (once) gaye wiin aandeg (the crow for his part) bapaamised (flying about) owaabamaan (he saw) waaboozoon abinid (a hare lying there).</span>
 
-<span class="l-orig">(6) Kistciminwändạm tcīwīsinit.</span>
+<span class="l-orig">(6) Kistciminwändạm tcîwīsinit.</span>
 
 <span class="l-fiero">**Gichi-minwendam ji-wiisinid.**</span>
 
@@ -75,7 +74,7 @@ THE FOX AND THE CROW.
 
 <span class="l-gloss">Zhayiigwa dash (and just then) waa-maadanjiged (as he was about to begin eating) owaabamaan (he saw) waagoshan (a fox) biijibatoonid (running this way).</span>
 
-<span class="l-orig">(8) Mēdạc änwät: “Ha’wi, ha’wi, ha’wi!”</span>
+<span class="l-orig">(8) Mēdạc änwät: “Ha´wi, ha´wi, ha´wi!”</span>
 
 <span class="l-fiero">**Mii dash enwed: “Ha’wi, ha’wi, ha’wi!”**</span>
 
@@ -83,7 +82,7 @@ THE FOX AND THE CROW.
 
 <span class="l-gloss">Mii dash enwed (and this is how he cried out): “Ha’wi, ha’wi, ha’wi!” (*the crow’s cry, kept as spoken*).</span>
 
-<span class="l-orig">(9) Mīdạc kī∙u∙dā‘pināt kīmādcīnāt, mi‘tigunk kīpūni; ā‘pidci pa‘kadäbạn ‘aᵉa’ᵘ āndēg.</span>
+<span class="l-orig">(9) Mīdạc kī∙u∙dā‘pināt kīmādcīnāt, mi´tigunk kīpūni; ā‘pidci pa‘kadäbạn ‘aᵉa´ᵘ āndēg.</span>
 
 <span class="l-fiero">**Mii dash gii-odaapinaad gii-maajiinaad, mitigong gii-booni; aapiji bakadeban a’aw aandeg.**</span>
 
@@ -101,13 +100,13 @@ THE FOX AND THE CROW.
 
 <span class="l-orig">(11) Kī∙i∙jā imāⁿ tîbickō ạgōzinit, mēdac änāt: “Āndēk, kä‘gä‘t unicicinōn pāzi‘kimạn. Ā‘pidci kimino‘kwạnayä.”</span>
 
-<span class="l-fiero">**Gii-izhaa imaa dibishkoo agoozinid, mii dash enaad: “Aandeg, geget onizhishinoon baazikaman. Aapiji gimino-gwanaye.”**</span>
+<span class="l-fiero">**Gii-izhaa imaa dibishkoo agoozinid, mii dash enaad: “Aandeg, geget onizhishinoon baazikiman. Aapiji gimino-gwanaye.”**</span>
 
 <span class="l-eng">*He went over to the place underneath where (the Crow) was perched, and this he said to him: “Crow, truly beautiful is the garment you have on. Very handsomely are you clad.”*</span>
 
-<span class="l-gloss">Gii-izhaa imaa (he went over there) dibishkoo agoozinid (directly under where he perched), mii dash enaad (and this he said to him): “Aandeg (Crow), geget onizhishinoon (truly beautiful are) baazikaman (the things you wear). Aapiji gimino-gwanaye (very handsomely are you clad).”</span>
+<span class="l-gloss">Gii-izhaa imaa (he went over there) dibishkoo agoozinid (directly under where he perched), mii dash enaad (and this he said to him): “Aandeg (Crow), geget onizhishinoon (truly beautiful are) baazikiman (the things you wear). Aapiji gimino-gwanaye (very handsomely are you clad).”</span>
 
-<span class="l-orig">(12) Mīdạc mīnawā pā‘pit; “‘Āᵃ, ‘āᵃ, ‘āᵃ, ‘āᵃ!” uzāmidạc ki‘tāwạni pā‘pit; mī∙i∙’ᵘ kā∙i∙jipicigunāt wâbōzōn kīpạngicinūn mi‘ta‘kạmig.</span>
+<span class="l-orig">(12) Mīdạc mīnawā pā‘pit; “‘Āᵃ, ‘āᵃ, ‘āᵃ, ‘āᵃ!” uzāmidạc ki‘tāwạni pā‘pit; mī∙i∙´ᵘ kā∙i∙jipicigunāt wâbōzōn kīpạngicinūn mi‘ta‘kạmig.</span>
 
 <span class="l-fiero">**Mii dash miinawaa baapid; “’Aa, ’aa, ’aa, ’aa!” onzaam idash gii-daawani baapid; mii iw gaa-izhi-bizhigonaad waaboozoon gii-bangishinoon mitakamig.**</span>
 
@@ -123,7 +122,7 @@ THE FOX AND THE CROW.
 
 <span class="l-gloss">Waagosh idash (so the fox) ogii-nawadinaan (seized) owaaboozoman (his hare); ogii-baapi’aan (he laughed at) aandegwan (the crow), “Hwaw, hwaw, hwaw, hwaw!” (*the fox’s laugh, kept as spoken*) Mii dash gii-amwaad (and then he ate it).</span>
 
-<span class="l-orig">(14) Āndēgidạc kīnickādizi, ānawi pä‘kic pā‘pi, “‘Āᵃ, ‘āᵃ, ‘āᵃ, ‘āᵃ!” Mī∙i∙dạc nindawa kī∙ạ∙nipạsigwa∙u∙‘t.</span>
+<span class="l-orig">(14) Āndēgidạc kīnickādizi, ānawi pä‘kic pā‘pi, “‘Āᵃ, ‘āᵃ, ‘āᵃ, ‘āᵃ!” Mī∙i∙dạc nindawa kī∙ạ∙nipạsigwa∙u∙t.</span>
 
 <span class="l-fiero">**Aandeg idash gii-nishkaadizi, aanawi bekish baapi, “’Aa, ’aa, ’aa, ’aa!” Mii idash nindawaa gii-ani-bazigwa’od.**</span>
 

@@ -2,7 +2,6 @@
 title: "21. Nanabushu and the Cranberries"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -35,27 +34,27 @@ Nenabosho and the Cranberries (2)
 
 <span class="l-orig">(3) “Ä‘tiwä, kägä‘tigu nībiwa ningamīdcinạn; pāmāgu ā‘pidci kī‘täwīsiniyān nīngapōni‘tōnạn.”</span>
 
-<span class="l-fiero">**“Ediwe, geget igo niibiwa ninga-miijinan; baamaa go aapiji giide-wiisiniyaan ninga-boonitoonan.”**</span>
+<span class="l-fiero">**“Etiwe, geget igo niibiwa ninga-miijinan; baamaa go aapiji giide-wiisiniyaan ninga-boonitoonan.”**</span>
 
 <span class="l-eng">*“Ah, surely a heap will I eat; and not till I am thoroughly satisfied with eating will I leave them alone.”*</span>
 
-<span class="l-gloss">“Ediwe (“why now), geget igo niibiwa ninga-miijinan (truly a great many will I eat); baamaa go aapiji giide-wiisiniyaan (not until I have eaten my fill) ninga-boonitoonan.” (will I leave them be.”)</span>
+<span class="l-gloss">“Etiwe (“why now), geget igo niibiwa ninga-miijinan (truly a great many will I eat); baamaa go aapiji giide-wiisiniyaan (not until I have eaten my fill) ninga-boonitoonan.” (will I leave them be.”)</span>
 
 <span class="l-orig">(4) Wi‘kwä‘tigwäyānik Nänabucu ucigābawi isībīns; inābit ạnāmibīg mīdäc kägä‘t wâbạndạnk ạnībiminạn ‘i∙i∙witi agawātäbīgisininik.</span>
 
-<span class="l-fiero">**Wikwetigweyaanig Nenabosho ozhigaabawi ziibiins; inaabid anaambiig mii dash geget waabandang aniibiminan i’iwidi agawaatebiigisininig.**</span>
+<span class="l-fiero">**Wikwetigweyaanig Nenabosho ozhigaabawi iziibiins*; inaabid anaamibiig mii dash geget waabandang aniibiminan i’iwidi agawaatebiigisininig.**</span>
 
 <span class="l-eng">*By the bend of the brook Nänabushu went and took his stand; while looking into the stream, he then of course saw high-bush cranberries reflected yonder in the water.*</span>
 
-<span class="l-gloss">Wikwetigweyaanig (at the bend of the stream) Nenabosho ozhigaabawi ziibiins (Nenabosho took his stand by the brook); inaabid anaambiig (as he looked down into the water) mii dash geget waabandang aniibiminan (then truly he saw high-bush cranberries) i’iwidi agawaatebiigisininig (reflected yonder in the water).</span>
+<span class="l-gloss">Wikwetigweyaanig (at the bend of the stream) Nenabosho ozhigaabawi iziibiins* (Nenabosho took his stand by the brook); inaabid anaamibiig (as he looked down into the water) mii dash geget waabandang aniibiminan (then truly he saw high-bush cranberries) i’iwidi agawaatebiigisininig (reflected yonder in the water).</span>
 
 <span class="l-orig">(5) Nänabucu äjikīgitut: “Tạga, miwạniwäti kämīdciyānin.”</span>
 
-<span class="l-fiero">**Nenabosho ezhi-giigidod: “Daga, miwaniwedi ge-miijiyaanan.”**</span>
+<span class="l-fiero">**Nenabosho ezhi-giigidod: “Daga, miwaniwedi ge-miijiyaanin.”**</span>
 
 <span class="l-eng">*Nänabushu then spoke up: “Why, these are the ones I will eat.”*</span>
 
-<span class="l-gloss">Nenabosho ezhi-giigidod (Nenabosho then spoke up): “Daga (“come now), miwaniwedi ge-miijiyaanan.” (those over there are the ones I will eat.”)</span>
+<span class="l-gloss">Nenabosho ezhi-giigidod (Nenabosho then spoke up): “Daga (“come now), miwaniwedi ge-miijiyaanin.” (those over there are the ones I will eat.”)</span>
 
 <span class="l-orig">(6) Äjitcīga‘kwäbạgisut; ānunandōbīginigät, mīsa’ kāwīn umi‘kạnzīnạn.</span>
 
@@ -67,27 +66,27 @@ Nenabosho and the Cranberries (2)
 
 <span class="l-orig">(7) Intawā ä‘kwạnābāwät äjimōckạmut ạgwāsīit; mīgu’ pimi∙ạ∙nwā‘tinīkạmisänik.</span>
 
-<span class="l-fiero">**Indawaa ekwanaabaawed ezhi-mooshkamod agwaasiid, mii go bimi-anwaatiniikamisenig.**</span>
+<span class="l-fiero">**Indawaa ekwanaabaawed ezhi-mooshkamod agwaasiid, mii go bimi-anwaatiniigamisenig.**</span>
 
 <span class="l-eng">*Accordingly, when he was out of breath, then to the surface he rose (and) came on out of the stream; whereupon the water became smooth (again).*</span>
 
-<span class="l-gloss">Indawaa ekwanaabaawed (and so when he was out of breath under water) ezhi-mooshkamod (he rose to the surface) agwaasiid (coming up out of the water), mii go bimi-anwaatiniikamisenig (whereupon the water grew smooth again — *anwaatiniikamise- read as the water-stilling stem, flagged*).</span>
+<span class="l-gloss">Indawaa ekwanaabaawed (and so when he was out of breath under water) ezhi-mooshkamod (he rose to the surface) agwaasiid (coming up out of the water), mii go bimi-anwaatiniigamisenig (whereupon the water grew smooth again — *anwaatiniikamise- read as the water-stilling stem, flagged*).</span>
 
 <span class="l-orig">(8) Inābit, ä‘tawä, mīsa untcita ạnībiminạn wâbandạnk ạnāmibīg; mīgu mīnawā tciga‘kwäpạgisut, ä‘tiwä Nänabucu äcikitcikīskīngwäcing.</span>
 
-<span class="l-fiero">**Inaabid, ediwe, mii sa onjida aniibiminan waabandang anaambiig; mii go miinawaa jiigakwebagizod, ediwe Nenabosho ezhi-gichi-giizhkiingweshing.**</span>
+<span class="l-fiero">**Inaabid, etawe, mii sa onjida aniibiminan waabandang anaamibiig; mii go miinawaa jiigakwebagizod, etiwe Nenabosho ezhi-gichi-giishkiingweshing.**</span>
 
 <span class="l-eng">*As he looked, why, he was bound to see high-bush cranberries down in the water; and so when he again dived into the water, poor Nänabushu fell upon his face, cutting a great gash.*</span>
 
-<span class="l-gloss">Inaabid, ediwe (as he looked, why), mii sa onjida aniibiminan waabandang anaambiig (sure enough he saw high-bush cranberries down in the water); mii go miinawaa jiigakwebagizod (and so again he dived in toward the edge), ediwe Nenabosho ezhi-gichi-giizhkiingweshing (and poor Nenabosho fell hard, gashing his face).</span>
+<span class="l-gloss">Inaabid, etawe (as he looked, why), mii sa onjida aniibiminan waabandang anaamibiig (sure enough he saw high-bush cranberries down in the water); mii go miinawaa jiigakwebagizod (and so again he dived in toward the edge), etiwe Nenabosho ezhi-gichi-giishkiingweshing (and poor Nenabosho fell hard, gashing his face).</span>
 
 <span class="l-orig">(9) Tci∙ä∙nigu‘k äjikaski‘tōt ijimawi.</span>
 
-<span class="l-fiero">**Gchi-enigok ezhi-gashkitood izhi-mawi.**</span>
+<span class="l-fiero">**Ji-enigok ezhi-gashkitood izhi-mawi.**</span>
 
 <span class="l-eng">*As hard as it was possible for him did he weep.*</span>
 
-<span class="l-gloss">Gchi-enigok (as hard as he could) ezhi-gashkitood izhi-mawi (he was able to weep, and he wept).</span>
+<span class="l-gloss">Ji-enigok (as hard as he could) ezhi-gashkitood izhi-mawi (he was able to weep, and he wept).</span>
 
 <span class="l-orig">(10) Ānīcnā kīwaskwäcin.</span>
 

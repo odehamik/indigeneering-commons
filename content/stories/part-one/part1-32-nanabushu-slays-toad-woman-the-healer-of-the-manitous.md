@@ -2,7 +2,6 @@
 title: "32. Nanabushu Slays Toad-Woman, the Healer of the Manitous"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -35,11 +34,11 @@ Nenabosho slays Toad-Woman, the healer of the Manitous (2)
 
 <span class="l-orig">(3) Mīdạc i∙i∙mā wā∙u∙ntcīt ‘iᵉi’ᵘ tayōc wīnạntunä∙i∙gät.</span>
 
-<span class="l-fiero">**Mii dash i’imaa waa-onjiid i’iw dayoosh* wii-nandone’iged.**</span>
+<span class="l-fiero">**Mii dash i’imaa waa-onjiid i’iw dayoosh wii-nandone’iged.**</span>
 
 <span class="l-eng">*And so from there he intended yet to seek (for his nephew).*</span>
 
-<span class="l-gloss">Mii dash i’imaa (and so from there) waa-onjiid (where he meant to set out) i’iw dayoosh* (still — *editorial mark carried*) wii-nandone’iged (intending to search).</span>
+<span class="l-gloss">Mii dash i’imaa (and so from there) waa-onjiid (where he meant to set out) i’iw dayoosh (still) wii-nandone’iged (intending to search).</span>
 
 <span class="l-orig">(4) Mīsa’ käyābi pabāmạtämut, ningutingsa awīya onōntawān piminạgạmunit :</span>
 
@@ -68,11 +67,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-orig">(7) Wägunänīwinān unāⁿzi‘tawān.</span>
 
-<span class="l-fiero">**Wegoneniiwinaan onaazitawaan.**</span>
+<span class="l-fiero">**Wegoneniiwinaan onaanzitawaan.**</span>
 
 <span class="l-eng">*What should he do but go towards the sound of the being.*</span>
 
-<span class="l-gloss">Wegoneniiwinaan (what should he do but) onaazitawaan (go toward the sound of it).</span>
+<span class="l-gloss">Wegoneniiwinaan (what should he do but) onaanzitawaan (go toward the sound of it).</span>
 
 <span class="l-orig">(8) A‘pī täbābạmāt, kuniginīn, umaka‘kīn pimiyāntcikwāskuniwạn.</span>
 
@@ -100,11 +99,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-orig">(11) Äji∙u∙disāt, ānīc, ā‘pidci mindimōyäyạn.</span>
 
-<span class="l-fiero">**Ezhi-odisaad, aaniish, aapiji mindimooyenyan.**</span>
+<span class="l-fiero">**Ezhi-odisaad, aaniish, aapiji mindimooyeyan.**</span>
 
 <span class="l-eng">*On coming up to her, why, she was a very old woman.*</span>
 
-<span class="l-gloss">Ezhi-odisaad (on coming up to her), aaniish (why), aapiji mindimooyenyan (a very old woman she was).</span>
+<span class="l-gloss">Ezhi-odisaad (on coming up to her), aaniish (why), aapiji mindimooyeyan (a very old woman she was).</span>
 
 <span class="l-orig">(12) “Nō‘kō, ānīn wändcinạgạmoyạn?”</span>
 
@@ -252,11 +251,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-orig">(30) Ā‘pitcigu ạgāⁿsā iᵉi’ᵘ niwīgiwāmäns.</span>
 
-<span class="l-fiero">**Aapiji go agaansaa i’iw niwiigwaamens.**</span>
+<span class="l-fiero">**Aapiji go agaansaa i’iw niwiigiwaamens.**</span>
 
 <span class="l-eng">*And very small is that little wigwam of mine.*</span>
 
-<span class="l-gloss">Aapiji go agaansaa (and very small) i’iw niwiigwaamens (is that little wigwam of mine).</span>
+<span class="l-gloss">Aapiji go agaansaa (and very small) i’iw niwiigiwaamens (is that little wigwam of mine).</span>
 
 <span class="l-orig">(31) Kayädạc nīciwạg nōcisạg, ā‘pidcigu papīwicīyōwạg kwīwisänsạg; mīyä‘tạgu īgi’ᵘ wātigämagwā.”</span>
 
@@ -268,11 +267,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-orig">(32) “Nō‘ko! ānīn wīn i∙i∙ᵘ kā∙i∙cinawä∙ā∙t īni’ᵘ Nānabucōwạn?”</span>
 
-<span class="l-fiero">**“Nookoo! Aaniin wiin ii’iw gaa-izhinawe’aad iiniw Nenaboshowan?”**</span>
+<span class="l-fiero">**“Nookoo! Aaniin wiin i’iw gaa-izhinawe’aad iiniw Nenaboshowan?”**</span>
 
 <span class="l-eng">*“O my grandmother! how was it that (the chief) angered Nänabushu?”*</span>
 
-<span class="l-gloss">“Nookoo! (O my grandmother!) Aaniin wiin ii’iw (how was it) gaa-izhinawe’aad (that he angered) iiniw Nenaboshowan? (that Nenabosho?)”</span>
+<span class="l-gloss">“Nookoo! (O my grandmother!) Aaniin wiin i’iw (how was it) gaa-izhinawe’aad (that he angered) iiniw Nenaboshowan? (that Nenabosho?)”</span>
 
 <span class="l-orig">(33) “Kā, kānawīn ugī∙u∙dā‘pinạmawān īni’ᵘ odōcimini.</span>
 
@@ -348,11 +347,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
 
 <span class="l-orig">(42) Kāwīn gwätc ningi‘kändaⁿzīn iᵉi’ᵘ kinạgạmun.”</span>
 
-<span class="l-fiero">**Gaawiin gwej ningikendaziin i’iw ginagamon.”**</span>
+<span class="l-fiero">**Gaawiin gwej ningikendanziin i’iw ginagamon.”**</span>
 
 <span class="l-eng">*Not exactly yet do I know that song of yours.”*</span>
 
-<span class="l-gloss">Gaawiin gwej ningikendaziin (not exactly do I yet know) i’iw ginagamon (that song of yours).”</span>
+<span class="l-gloss">Gaawiin gwej ningikendanziin (not exactly do I yet know) i’iw ginagamon (that song of yours).”</span>
 
 <span class="l-orig">(43) Ānīc käyābi :</span>
 
@@ -381,11 +380,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(46) “Taga, awänäniwīnäna aᵘ mạtcimindimōyäcic.”</span>
 
-<span class="l-fiero">**“Daga, aweneniwiinena aw maji-mindimooyenshish.”**</span>
+<span class="l-fiero">**“Daga, aweneniwiinena aw maji-mindimooyeshish*.”**</span>
 
 <span class="l-eng">*“Well, what a fool this wretched old woman (was)!”*</span>
 
-<span class="l-gloss">“Daga, aweneniwiinena (well, what a fool) aw maji-mindimooyenshish (this wretched old woman)!”</span>
+<span class="l-gloss">“Daga, aweneniwiinena (well, what a fool) aw maji-mindimooyeshish* (this wretched old woman — *Jones-derived, unattested elsewhere*)!”</span>
 
 <span class="l-orig">(47) Ā‘tayā, Nänabucu umātcī‘kawān ‘iᵉi’ᵘ pa‘kunāt, wawīngä uba‘kunān.</span>
 
@@ -446,11 +445,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(54) Ā‘pitcigu kicīwä piminạgạmut.</span>
 
-<span class="l-fiero">**Aapiji go gizhiiwe (giizhiwe*) biminagamod.**</span>
+<span class="l-fiero">**Aapiji go gizhiiwe biminagamod.**</span>
 
 <span class="l-eng">*And very loud was the sound of his voice as he went singing.*</span>
 
-<span class="l-gloss">Aapiji go gizhiiwe (giizhiwe*) (and very loud he was — *editorial spelling variant carried*) biminagamod (as he went along singing).</span>
+<span class="l-gloss">Aapiji go gizhiiwe (and very loud he was) biminagamod (as he went along singing).</span>
 
 <span class="l-orig">(55) Cayīgwa udäbābạndān ōdäna.</span>
 
@@ -526,27 +525,27 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(64) “Äyeᵉ, nōsisitug, nintạgwicin.”</span>
 
-<span class="l-fiero">**“Eye, nooshisidog, nindagwishin.”**</span>
+<span class="l-fiero">**“Eye, noosisidog*, nindagwishin.”**</span>
 
 <span class="l-eng">*“Yes, my grandchildren, I am come home.”*</span>
 
-<span class="l-gloss">“Eye (yes), nooshisidog (my grandchildren), nindagwishin (I have arrived).”</span>
+<span class="l-gloss">“Eye (yes), noosisidog* (my grandchildren — *Jones-derived, unattested elsewhere*), nindagwishin (I have arrived).”</span>
 
 <span class="l-orig">(65) Änīcipīndigät, wạgitcitcīngwạn nạmạdạbiwaᵉ ‘iᵉi’ᵘ ōsisaᵉ.</span>
 
-<span class="l-fiero">**Eni-izhi-piindiged, wagijijiingwan namadabiwag i’iw ooshisa.**</span>
+<span class="l-fiero">**Eni-izhi-piindiged, wagijijiingwan namadabiwag i’iw oosisa*.**</span>
 
 <span class="l-eng">*When in she entered, then on her lap sat her grandchildren.*</span>
 
-<span class="l-gloss">Eni-izhi-piindiged (as she entered), wagijijiingwan namadabiwag i’iw ooshisa (upon her lap sat her grandchildren).</span>
+<span class="l-gloss">Eni-izhi-piindiged (as she entered), wagijijiingwan namadabiwag i’iw oosisa* (upon her lap sat her grandchildren — *Jones-derived, unattested elsewhere*).</span>
 
 <span class="l-orig">(66) Wägunänīwinän päcig īni’ᵘ ōsisan owâbạmigōn i∙i∙mā kīkā‘kikickawāt īni’ᵘ umaka‘kīwayānạn.</span>
 
-<span class="l-fiero">**Wegoneniiwinen bezhig iiniw ooshisan owaabamigoon i’imaa giigaagikiishkawaad* iiniw omakakiiwayaanan.**</span>
+<span class="l-fiero">**Wegoneniiwinen bezhig iiniw oosisan* owaabamigoon i’imaa giigaagikiishkawaad* iiniw omakakiiwayaanan.**</span>
 
 <span class="l-eng">*What should happen to him(3) but to be seen by one of his grandchildren at the place where he had torn open the toad-skin.*</span>
 
-<span class="l-gloss">Wegoneniiwinen bezhig iiniw ooshisan (what should happen but that one of his grandchildren) owaabamigoon i’imaa (saw him there) giigaagikiishkawaad* iiniw omakakiiwayaanan (where he had torn open the toad-skin — *editorial mark carried*).</span>
+<span class="l-gloss">Wegoneniiwinen bezhig iiniw oosisan* (what should happen but that one of his grandchildren — *Jones-derived, unattested elsewhere*) owaabamigoon i’imaa (saw him there) giigaagikiishkawaad* iiniw omakakiiwayaanan (where he had torn open the toad-skin — *editorial mark carried*).</span>
 
 <span class="l-orig">(67) “Nō‘ko, ānīn wīn i∙i∙mā kī∙i∙cināgusiyạn?</span>
 
@@ -574,11 +573,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(70) Ā‘pidcisa ki‘tci änigu‘k nạgạnun.</span>
 
-<span class="l-fiero">**Aapiji sa gichi-enigok nagamon (nagamod*).**</span>
+<span class="l-fiero">**Aapiji sa gichi-enigok nagamon.**</span>
 
 <span class="l-eng">*As loud as she could she sang.*</span>
 
-<span class="l-gloss">Aapiji sa gichi-enigok (as loud as she could) nagamon (nagamod*) (she sang — *editorial query carried*).</span>
+<span class="l-gloss">Aapiji sa gichi-enigok (as loud as she could) nagamon (she sang).</span>
 
 <span class="l-orig">(71) Mīsa gägä‘t kā‘pī∙i∙jisạgạswä∙i∙nt, mīdạc kā∙i∙jimādcāt.</span>
 
@@ -590,37 +589,35 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(72) Cigwa kō‘kōnān ubäcwâbạndān ‘iᵉi’ᵘ wīgiwäm.</span>
 
-<span class="l-fiero">**Zhigwa gookoonaan obeshwaabandaan* i’iw wiigiwaam.**</span>
+<span class="l-fiero">**Zhigwa gookoonaan obeshwaabandaan i’iw wiigiwaam.**</span>
 
 <span class="l-eng">*Presently our grandmother was approaching nigh to the wigwam.*</span>
 
-<span class="l-gloss">Zhigwa gookoonaan obeshwaabandaan* i’iw wiigiwaam (presently our grandmother drew near in sight of the wigwam — *editorial mark carried*).</span>
+<span class="l-gloss">Zhigwa gookoonaan obeshwaabandaan i’iw wiigiwaam (presently our grandmother drew near in sight of the wigwam).</span>
 
 <span class="l-orig">(73) Ä‘tawā, ckwāntänk ānīn kä∙i∙cinạnk udōcimiwayānạn kipickwāntäigäwän.</span>
 
-<span class="l-fiero">**Etawaa, shkwaandeng aaniin ge-zhinang odoozhimiwayaanan gibishkwaande’igewen.**</span>
+<span class="l-fiero">**Etawaa, shkwaandeng aaniin ge-izhinang odoozhimiwayaanan gibishkwaande’igewen.**</span>
 
 <span class="l-eng">*Oh, in the doorway what should he(3) behold but the skin of his nephew then being used for a flap over the entry-way.*</span>
 
-<span class="l-gloss">Etawaa (oh), shkwaandeng (in the doorway) aaniin ge-zhinang (what should he behold but) odoozhimiwayaanan (his nephew’s skin) gibishkwaande’igewen (being used as a door-flap).</span>
-
-*⭐ Layer-1 correction, 2026-08-28 (B30’s blind control chunk). p.268 l.3 prints kipickwāntäigäwän — the mark over the final a is a DIAERESIS (two separated dots), settled at 40× in a crop that holds all three sorts inside this one word: the solid macron of wā, the diaereses of täi and gä, and this mark, identical in form to those two and plainly unlike the bar of wā. The record read kipickwāntäigäwān. Fixed under register §1.1 (a Jones-layer defect is fixed outright, with its witness). ⚠️ The Fiero was already right — it reads gibishkwaande’igewen, with the e — so nothing in Layer 2 or 4 was touched and this is not an escalation.*
+<span class="l-gloss">Etawaa (oh), shkwaandeng (in the doorway) aaniin ge-izhinang (what should he behold but) odoozhimiwayaanan (his nephew’s skin) gibishkwaande’igewen (being used as a door-flap).</span>
 
 <span class="l-orig">(74) Mīgu iᵘ wīpitāni äcigigisininik.</span>
 
-<span class="l-fiero">**Mii go iw wiibidaani ezhi-gigishininig.**</span>
+<span class="l-fiero">**Mii go iw wiibidaani ezhi-gigisininig.**</span>
 
 <span class="l-eng">*And there still were left upon it some of the teeth (of his nephew).*</span>
 
-<span class="l-gloss">Mii go iw wiibidaani (and there still its teeth) ezhi-gigishininig (were left upon it).</span>
+<span class="l-gloss">Mii go iw wiibidaani (and there still its teeth) ezhi-gigisininig (were left upon it).</span>
 
 <span class="l-orig">(75) Ä‘tiwä Nänabucu! mīgu iᵘ äcisīgisänik īni’ᵘ uskīcigōn.</span>
 
-<span class="l-fiero">**Etiwe Nenabosho! Mii go iw ezhi-siigisenig iiniw oshkiinzhigoon.**</span>
+<span class="l-fiero">**Etiwe Nenabosho! Mii go iw ezhi-siigisenig iiniw oshkiizhigoon.**</span>
 
 <span class="l-eng">*Sorrowful Nänabushu! then did tears pour from his eyes.*</span>
 
-<span class="l-gloss">Etiwe Nenabosho! (poor Nenabosho!) Mii go iw ezhi-siigisenig iiniw oshkiinzhigoon (then tears poured from his eyes).</span>
+<span class="l-gloss">Etiwe Nenabosho! (poor Nenabosho!) Mii go iw ezhi-siigisenig iiniw oshkiizhigoon (then tears poured from his eyes).</span>
 
 <span class="l-orig">(76) Kägāgu äjikiˢtcimawit, wâwīcwīn a‘pī änipā‘kintänạnk.</span>
 
@@ -841,11 +838,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(103) Ogạnōnāᵉ awäsīyaᵉ: “Ä‘tawā mīsa iᵘ kīwạnī‘käyān iᵉi’ᵘ a‘ki.</span>
 
-<span class="l-fiero">**Oganoonaa awesiinya: “Etawaa mii sa iw gii-waniikeyaan i’iw aki.**</span>
+<span class="l-fiero">**Oganoonaa awesiiya: “Etawaa mii sa iw gii-waniikeyaan i’iw aki.**</span>
 
 <span class="l-eng">*He spoke to the animal-kind, saying: “Pity it is that I forgot (to fetch along) some earth.*</span>
 
-<span class="l-gloss">Oganoonaa awesiinya (he spoke to the animal-kind): “Etawaa mii sa iw gii-waniikeyaan i’iw aki (pity it is that I forgot the earth).</span>
+<span class="l-gloss">Oganoonaa awesiiya (he spoke to the animal-kind): “Etawaa mii sa iw gii-waniikeyaan i’iw aki (pity it is that I forgot the earth).</span>
 
 <span class="l-orig">(104) Ạmbägic pạngī pi∙a∙yāyāmbān ‘iᵉi’ᵘ a‘ki!</span>
 
@@ -889,11 +886,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(109) Mīdạc ‘aᵉa’ᵘ māng ni‘tạm känōnint: “Tạga’, kīn, ni‘tạm nạntawâbạndạn ‘iᵉi’ᵘ a‘ki.</span>
 
-<span class="l-fiero">**Mii dash a’aw maang nitam genoonid: “Daga. Giin, nitam nandawaabandan i’iw aki.**</span>
+<span class="l-fiero">**Mii dash a’aw maang nitam genoonind: “Daga. Giin, nitam nandawaabandan i’iw aki.**</span>
 
 <span class="l-eng">*Accordingly the Loon was the first to be addressed: “I say, you, do you first go seek for some earth.*</span>
 
-<span class="l-gloss">Mii dash a’aw maang nitam genoonid (accordingly the loon was the first addressed): “Daga. Giin, nitam nandawaabandan i’iw aki (I say, you, first go seek the earth).</span>
+<span class="l-gloss">Mii dash a’aw maang nitam genoonind (accordingly the loon was the first addressed): “Daga. Giin, nitam nandawaabandan i’iw aki (I say, you, first go seek the earth).</span>
 
 <span class="l-orig">(110) Ayāngwāmisin wīpīdōn.”</span>
 
@@ -913,11 +910,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(112) Ä‘tā, ‘aᵉa’ᵘ mānk nōntāgusī: “Āᵃ, wīwīwi’!”</span>
 
-<span class="l-fiero">**Etaa, a’aw maang noondaagozi: “Aa, wiiwiiwi!”**</span>
+<span class="l-fiero">**Etaa, a’aw maang noondaagozii: “Aa, wiiwiiwi!”**</span>
 
 <span class="l-eng">*Lo, a cry the Loon was heard to give: “Ā, wīwīwi!”*</span>
 
-<span class="l-gloss">Etaa, a’aw maang noondaagozi (lo, the loon was heard to cry): “Aa, wiiwiiwi!” (cry carried verbatim)</span>
+<span class="l-gloss">Etaa, a’aw maang noondaagozii (lo, the loon was heard to cry): “Aa, wiiwiiwi!” (cry carried verbatim)</span>
 
 <span class="l-orig">(113) Ā‘tā’, a‘pạ’n kwāgīt.</span>
 
@@ -953,19 +950,19 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(117) Äjikạnōnāt: “Ānīn, kāwīn inā kigītäbābandạⁿzīn ‘iᵉi’ᵘ a‘ki?”</span>
 
-<span class="l-fiero">**Ezhi-ganoonaad: “Aaniin, gaawiin inaa gigii-debaabandaziin i’iw aki?”**</span>
+<span class="l-fiero">**Ezhi-ganoonaad: “Aaniin, gaawiin inaa gigii-debaabandanziin i’iw aki?”**</span>
 
 <span class="l-eng">*Then (Nänabushu) spoke to him, saying: “How now? Did you not come in sight of the earth?”*</span>
 
-<span class="l-gloss">Ezhi-ganoonaad (then he spoke to him): “Aaniin, gaawiin inaa gigii-debaabandaziin i’iw aki? (how now, did you not catch sight of the earth?)”</span>
+<span class="l-gloss">Ezhi-ganoonaad (then he spoke to him): “Aaniin, gaawiin inaa gigii-debaabandanziin i’iw aki? (how now, did you not catch sight of the earth?)”</span>
 
 <span class="l-orig">(118) Äjikạnōnigut Nänabucu: “Kāwin kạnạgä ningītäbābaⁿdazīn, mī a‘pī kā∙i∙ciwạnäntạmān.”</span>
 
-<span class="l-fiero">**Ezhi-kanoonigod Nenabosho: “Gaawiin ganage ningii-debaadandaziin, mii apii gaa-izhi-wanendamaan.”**</span>
+<span class="l-fiero">**Ezhi-kanoonigod Nenabosho: “Gaawiin ganage ningii-debaabandaziin, mii apii gaa-izhi-wanendamaan.”**</span>
 
 <span class="l-eng">*Then was Nänabushu told: “Not even did I come in sight of it, for when (on the way down) did I become insensible.”*</span>
 
-<span class="l-gloss">Ezhi-kanoonigod Nenabosho (then Nenabosho was answered): “Gaawiin ganage ningii-debaadandaziin (not even did I catch sight of it), mii apii gaa-izhi-wanendamaan (that was when I lost my senses).”</span>
+<span class="l-gloss">Ezhi-kanoonigod Nenabosho (then Nenabosho was answered): “Gaawiin ganage ningii-debaabandaziin (not even did I catch sight of it), mii apii gaa-izhi-wanendamaan (that was when I lost my senses).”</span>
 
 <span class="l-orig">(119) Ā‘pitci sägisi Nänabucu.</span>
 
@@ -1057,11 +1054,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(130) Äjikạnōnāt: “Ānīn kā∙i∙ciwäbisiyạn?”</span>
 
-<span class="l-fiero">**Ezhi-ganoonaad: “Aaniin gaa-zhiwebiziyan?”**</span>
+<span class="l-fiero">**Ezhi-ganoonaad: “Aaniin gaa-izhiwebiziyan?”**</span>
 
 <span class="l-eng">*Then he spoke to him, saying: “How did you fare?”*</span>
 
-<span class="l-gloss">Ezhi-ganoonaad (then he spoke to him): “Aaniin gaa-zhiwebiziyan? (how did you fare?)”</span>
+<span class="l-gloss">Ezhi-ganoonaad (then he spoke to him): “Aaniin gaa-izhiwebiziyan? (how did you fare?)”</span>
 
 <span class="l-orig">(131) “Ä‘tawā, mīgu iᵉiᵘ täbābạmạgwā mi‘tigōg, mī a‘pī kā∙i∙ciwạnäntạmān.”</span>
 
@@ -1249,11 +1246,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(154) Tiwä, ugīmi‘kwänimān īni’ᵘ wajackwan.</span>
 
-<span class="l-fiero">**Tiwe, ogiimikwenimaan iiniw wazhaskwan.**</span>
+<span class="l-fiero">**Tiwe, ogiimikwenimaan iiniw wazhashkwan.**</span>
 
 <span class="l-eng">*Behold, he remembered the Muskrat.*</span>
 
-<span class="l-gloss">Tiwe, ogiimikwenimaan iiniw wazhaskwan (behold, he remembered the muskrat).</span>
+<span class="l-gloss">Tiwe, ogiimikwenimaan iiniw wazhashkwan (behold, he remembered the muskrat).</span>
 
 <span class="l-orig">(155) “Tạga’, kīn. Minōtc, wajack, kōgīn.”</span>
 
@@ -1337,11 +1334,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(165) Mīnōtc ōdōdā‘pinān Nänabucu.</span>
 
-<span class="l-fiero">**Miinooch oodoodaapinen Nenabosho.**</span>
+<span class="l-fiero">**Miinooch oodoodaapinaan Nenabosho.**</span>
 
 <span class="l-eng">*Even so Nänabushu reached down and picked him up.*</span>
 
-<span class="l-gloss">Miinooch oodoodaapinen Nenabosho (even so Nenabosho took him up).</span>
+<span class="l-gloss">Miinooch oodoodaapinaan Nenabosho (even so Nenabosho took him up).</span>
 
 <span class="l-orig">(166) Ạnicā tōtạnk, ubā‘kā‘kinintcībinān.</span>
 
@@ -1457,11 +1454,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(180) “Kāwīn ā‘pidci mi‘tāsinōn.”</span>
 
-<span class="l-fiero">**“Gaawiin aapiji midaasinoon (michaasinoon*).”**</span>
+<span class="l-fiero">**“Gaawiin aapiji michaasinoon.”**</span>
 
 <span class="l-eng">*Then was (Nänabushu) told by him, “Not so very large is (the earth.)”*</span>
 
-<span class="l-gloss">“Gaawiin aapiji midaasinoon (michaasinoon*) (not so very large is it — *editorial spelling variant carried*).”</span>
+<span class="l-gloss">“Gaawiin aapiji michaasinoon (not so very large is it).”</span>
 
 <span class="l-orig">(181) Mīnawā äcipōdādạnk, kạbäya∙ī∙ taci‘tābạbwädādank.</span>
 
@@ -1473,11 +1470,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(182) Mīnawā ogạnōnān īni’ᵘ kāgạkiwạn: “Tạga, kīn kāgāgi, wīki‘kädạn ạmạntc äniku‘kwāgwän iᵉi’ᵘ a‘ki.”</span>
 
-<span class="l-fiero">**Miinawaa oganoonaan iiniw gaagaakiwan: “Daga, giin gaagaagi, wiikikendan amanj enigokwaagwen i’iw aki.”**</span>
+<span class="l-fiero">**Miinawaa oganoonaan iiniw gaagaakiwan: “Daga, giin gaagaagi, wii-gikendan amanj enigokwaagwen i’iw aki.”**</span>
 
 <span class="l-eng">*Next he spoke to the Raven, saying: “Now, you, Raven, do you find out how big this earth is.”*</span>
 
-<span class="l-gloss">Miinawaa oganoonaan iiniw gaagaakiwan (next he spoke to the raven): “Daga, giin gaagaagi (now, you, raven), wiikikendan amanj enigokwaagwen i’iw aki (find out how big this earth may be).”</span>
+<span class="l-gloss">Miinawaa oganoonaan iiniw gaagaakiwan (next he spoke to the raven): “Daga, giin gaagaagi (now, you, raven), wii-gikendan amanj enigokwaagwen i’iw aki (find out how big this earth may be).”</span>
 
 <span class="l-orig">(183) Kägä‘t äjimādcāt ‘aᵉa’ᵘ kāgāgi.</span>
 
@@ -1547,7 +1544,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 (1) Other translations of the song would be: “From the beginning of the world has the sound of my voice been heard; From the ends of the earth is the sound of my coming.” The second rendition is preferred to the first, but the one given in the story is preferred to all.
 
-<span class="l-gloss">(2) The old Toad-woman, mother earth (Jones 191?, p. 263).</span>
+<span class="l-gloss">(2) The old Toad-woman, mother earth.</span>
 
 (3) Gender is confused here, but it is given as in the text.
 

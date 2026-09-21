@@ -2,7 +2,6 @@
 title: "49. Nanabushu and the Little Fishers"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,7 +18,7 @@ Nanabushu and the Little Fishers
 
 <span class="l-orig">(1) Ningudingidạc ạnipabimosäd, ogīmi‘kawaᵉ udcīgänsaᵉ äyānit.</span>
 
-<span class="l-fiero">**Ningoding idash ani-pabimosed, ogii-mikawaa’ ojiigensa’ e-yaanid.**</span>
+<span class="l-fiero">**Ningoding idash ani-babimosed, ogii-mikawaa’ ojiigensa’ e-yaanid.**</span>
 
 <span class="l-eng">*And once, when travelling along, he came upon some young Fishers.*</span>
 
@@ -27,11 +26,11 @@ Nanabushu and the Little Fishers
 
 <span class="l-orig">(2) Mīdạc änād: “Ānīndi gīgiwā?”</span>
 
-<span class="l-fiero">**Mii dash e-naad: “Aaniindi gigawaa?”**</span>
+<span class="l-fiero">**Mii dash e-naad: “Aaniindi gigiwaa?”**</span>
 
 <span class="l-eng">*And this he said to them : “ Where is your mother?”*</span>
 
-<span class="l-gloss">Mii dash e-naad (and so this he said to them): “Aaniindi (where is) gigawaa? (your mother?)”</span>
+<span class="l-gloss">Mii dash e-naad (and so this he said to them): “Aaniindi (where is) gigiwaa? (your mother?)”</span>
 
 <span class="l-orig">(3) “Pabānạndawändcigä.”</span>
 
@@ -43,11 +42,11 @@ Nanabushu and the Little Fishers
 
 <span class="l-orig">(4) Mī∙i∙dạc kā∙i∙jipōpō‘kutcībināt, ugīmīdcināᵉ.</span>
 
-<span class="l-fiero">**Mii iw dash gaa-izhi-poopookojiibinaad, ogii-miijinaa’.**</span>
+<span class="l-fiero">**Mii iw dash gaa-izhi-boobookojiibinaad, ogii-miijinaa’.**</span>
 
 <span class="l-eng">*And when he had broken them in two at the wrist, he eased upon them.*</span>
 
-<span class="l-gloss">Mii iw dash (and so then) gaa-izhi-poopookojiibinaad (when he had broken them in two at the wrist), ogii-miijinaa’ (he ate them).</span>
+<span class="l-gloss">Mii iw dash (and so then) gaa-izhi-boobookojiibinaad (when he had broken them in two at the wrist), ogii-miijinaa’ (he ate them).</span>
 
 <span class="l-orig">(5) Mīdạc kī∙ạ∙nimādcād.</span>
 
@@ -132,19 +131,19 @@ Ojiigensag (little fishers) inaa (indeed) gaa-poopookojiibinagwaa (are the ones 
 
 <span class="l-orig">(15) A‘pī∙i∙dac ädimint, mi‘tigunk kī∙ā∙‘pạgizo.¹</span>
 
-<span class="l-fiero">**Apii dash edimind, mitigoong gii-apagizo. (1)**</span>
+<span class="l-fiero">**Apii dash edimind, mitigong gii-apagizo. (1)**</span>
 
 <span class="l-eng">*And when he was overtaken, he turned instantly into a log. (1)*</span>
 
-<span class="l-gloss">Apii dash edimind (and when he was overtaken), mitigoong (onto a log) gii-apagizo (he threw himself). (1)</span>
+<span class="l-gloss">Apii dash edimind (and when he was overtaken), mitigong (onto a log) gii-apagizo (he threw himself). (1)</span>
 
 <span class="l-orig">(16) Udcīgidạc ugīmīgādān ‘iᵉi’ᵘ mi‘tik, ā‘pidci ugīpīgwạndān ᵉi‘i’ᵘ mi‘tig.</span>
 
-<span class="l-fiero">**Ojiig idash ogii-miigaadaan i’iw mitig.**</span>
+<span class="l-fiero">**Ojiig idash ogii-miigaadaan i’iw mitig, aapiji ogii-biigwandaan i’iw mitig.**</span>
 
 <span class="l-eng">*And the Fisher fought the log, ever so much did she tear the log with her teeth.*</span>
 
-<span class="l-gloss">Ojiig idash (and the Fisher) ogii-miigaadaan (fought it) i’iw mitig (that log).</span>
+<span class="l-gloss">Ojiig idash (and the Fisher) ogii-miigaadaan (fought it) i’iw mitig (that log), aapiji (ever so much) ogii-biigwandaan (she chewed it to pieces with her teeth) i’iw mitig (that log).</span>
 
 <span class="l-orig">(17) Mēdạc kägä‘t Nänabujū wīsạgändạnk udiyānk.</span>
 

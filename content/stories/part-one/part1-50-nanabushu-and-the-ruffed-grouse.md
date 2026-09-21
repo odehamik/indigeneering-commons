@@ -2,7 +2,6 @@
 title: "50. Nanabushu and the Ruffed Grouse"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -84,11 +83,11 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-orig">(9) Ogīnō‘pinạnān idạc Nänabujūn, nīgānidạc änī∙i∙jānit kī‘pōni a pinä.</span>
 
-<span class="l-fiero">**Ogii-noopinanaan idash Nenaboozhoon, niigaan idash ani-izhaanid gii-poonii a’aw bine.**</span>
+<span class="l-fiero">**Ogii-noopinanaan idash Nenaboozhoon, niigaan idash ani-izhaanid gii-poonii a bine.**</span>
 
 <span class="l-eng">*So she followed after Nänabushu, and in the path ahead of him the Ruffed Groused alighted.*</span>
 
-<span class="l-gloss">Ogii-noopinanaan idash (so she followed after him) Nenaboozhoon (Nänabushu), niigaan idash (and ahead) ani-izhaanid (where he was going) gii-poonii (she alighted) a’aw bine (that Ruffed Grouse).</span>
+<span class="l-gloss">Ogii-noopinanaan idash (so she followed after him) Nenaboozhoon (Nänabushu), niigaan idash (and ahead) ani-izhaanid (where he was going) gii-poonii (she alighted) a bine (that Ruffed Grouse).</span>
 
 <span class="l-orig">(10) Kīckābi‘kāng ạnī∙i∙jābạn Nänabujū, pinädạc kī‘kāzu cingubī‘kāng.</span>
 
@@ -96,23 +95,23 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-eng">*By the edge of a cliff was Nänabushu going, and the Ruffed Grouse was hidden among the balsams.*</span>
 
-<span class="l-gloss">Giishkaabikaang (at the edge of a cliff) ani-izhaaban (was going) Nenaboozhoo (Nänabushu), bine dash (and the Ruffed Grouse) gii-gaazo (was hidden) zhingobiikaang (among the balsams).</span>
+<span class="l-gloss">Giishkaabikaang (at the edge of a cliff) ani-izhaaban (was going) Nenaboozhoo (Nänabushu), bine dash (and the Ruffed Grouse) gii-kaazo (was hidden) zhingobiikaang (among the balsams).</span>
 
 <span class="l-orig">(11) A‘pī∙i∙dạc imāⁿ pämusät Nänabujū, pînä tcäse‘kā kīpạsigu∙u∙, änīgu‘k gita‘tawāngä.</span>
 
-<span class="l-fiero">**Apii idash imaa bemosed Nenaboozhoo, bine gezika [also zesika] gii-pazikwa’o, enigok gii-datawaange [or daataawaange].**</span>
+<span class="l-fiero">**Apii idash imaa bemosed Nenaboozhoo, bine jesekaa* gii-bazigwii, enigok gidatawaange*.**</span>
 
 <span class="l-eng">*And when by the place Nänabushu passed, the Ruffed Grouse suddenly flew up; with all her might she flapped her wings.*</span>
 
-<span class="l-gloss">Apii idash (and when) imaa (there) bemosed (as he walked by) Nenaboozhoo (Nänabushu), bine (the Ruffed Grouse) gezika [also zesika] (suddenly) gii-bazikwa’o (flew up), enigok (with all her might) gii-datawaange [or daataawaange] (she flapped her wings).</span>
+<span class="l-gloss">Apii idash (and when) imaa (there) bemosed (as he walked by) Nenaboozhoo (Nänabushu), bine (the Ruffed Grouse) jesekaa* (suddenly — *stem flagged*) gii-bazigwii (flew up), enigok (with all her might) gidatawaange* (she flapped her wings — *stem flagged*).</span>
 
 <span class="l-orig">(12) Ā‘tā! mī a‘panä Nänabuju kā∙i∙jikā‘kābi‘kisä.</span>
 
-<span class="l-fiero">**Aataa! mii apane Nenaboozhoo gaa-izhi-kaabikise.**</span>
+<span class="l-fiero">**Aataa! mii apane Nenaboozhoo gaa-izhi-gaakaabikise*.**</span>
 
 <span class="l-eng">*Ah! then off tumbled Nänabushu over the precipice.*</span>
 
-<span class="l-gloss">Aataa! (ah!) mii apane (then off) Nenaboozhoo (Nänabushu) gaa-izhi-gaabikise (tumbled over the precipice).</span>
+<span class="l-gloss">Aataa! (ah!) mii apane (then off) Nenaboozhoo (Nänabushu) gaa-izhi-gaakaabikise* (tumbled over the precipice).</span>
 
 <span class="l-orig">(13) Mēdạc kītcīcābi‘kitiyäcink.</span>
 
@@ -148,10 +147,10 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-orig">(17) Mīnawā mi‘tigōnsạn ugī∙ạ∙nimindciminānạn. “Mîskwābimạgōg kīgạtigōm tciạni∙a∙‘kīyunk.”</span>
 
-<span class="l-fiero">**Miinawaa mitigoonsan ogii-ani-minjiminaan. „Miskwaabiimagoog giga-digoom ji-ani-akiiwang.”**</span>
+<span class="l-fiero">**Miinawaa mitigoonsan ogii-ani-minjiminaanan*. „Miskwaabiimagoog giga-digoom ji-ani-akiiyong.”**</span>
 
 <span class="l-eng">*Next he went grabbing hold of the shrubs as he passed among them. “Red willows shall you be called till the end of the world.”*</span>
 
-<span class="l-gloss">Miinawaa (again) mitigoonsan (the shrubs) ogii-ani-minjiminaan (he went grabbing hold of as he passed). „Miskwaabiimagoog (red willows) giga-digoom (you shall be called) ji-ani-akiiwang (till the end of the world).”</span>
+<span class="l-gloss">Miinawaa (again) mitigoonsan (the shrubs) ogii-ani-minjiminaanan* (he went grabbing hold of as he passed). „Miskwaabiimagoog (red willows) giga-digoom (you shall be called) ji-ani-akiiyong (till the end of the world).”</span>
 
 </div>

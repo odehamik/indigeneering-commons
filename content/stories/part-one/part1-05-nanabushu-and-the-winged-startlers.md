@@ -2,7 +2,6 @@
 title: "5. Nanabushu and the Winged Startlers"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,19 +18,21 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(1) Mīdạc cayīgwa ạnibạpimusät ningutingigu ogīwâbạmān awīya ukucininit.</span>
 
-<span class="l-fiero">**Mii dash zhayiigwa ani-babimosed ningoting igo ogii-waabamaan awiya okoshininid.**</span>
+<span class="l-fiero">**Mii dash zhayiigwa ani-babimosed ningoding igo ogii-waabamaan awiya okoshininid.**</span>
 
 <span class="l-eng">*And now, while he was walking along, he suddenly saw something lying [together] in a heap.*</span>
 
-<span class="l-gloss">Mii dash zhayiigwa (and now then) ani-babimosed (as he was walking along) ningoting igo (all at once) ogii-waabamaan awiya (he saw something) okoshininid (lying heaped together).</span>
+<span class="l-gloss">Mii dash zhayiigwa (and now then) ani-babimosed (as he was walking along) ningoding igo (all at once) ogii-waabamaan awiya (he saw something) okoshininid (lying heaped together).</span>
+
+*¹ For another version see No. 24. — Jones’s footnote, printed p.41. — carried from the document into the record 2026-09-02 (register §5 law 7).*
 
 <span class="l-orig">(2) “Kunigä kīwīⁿsumwātug?” ugī∙i∙nān ‘iᵉi’ᵘ wayābạmāt.</span>
 
-<span class="l-fiero">**“Gonige Gii-wiinzomwaadog?” ogii-inaan i’iw wayaabamaad.**</span>
+<span class="l-fiero">**“Gonige gii-wiinzomwaadog?” ogii-inaan i’iw wayaabamaad.**</span>
 
 <span class="l-eng">*“I should like to know if perchance you have a name?” he said to the creatures which he saw.*</span>
 
-<span class="l-gloss">“Gonige Gii-wiinzomwaadog?” (“might it be that you have a name?” — *dubitative; stem flagged*) ogii-inaan i’iw wayaabamaad (he said to the ones he saw).</span>
+<span class="l-gloss">“Gonige gii-wiinzomwaadog?” (“might it be that you have a name?” — *dubitative; stem flagged*) ogii-inaan i’iw wayaabamaad (he said to the ones he saw).</span>
 
 <span class="l-orig">(3) “Mīnạngä,” ugī∙i∙gōn; “o∙o∙ ninticini‘kāsomin, kuckungäsīnạg, nindigōmin.”</span>
 
@@ -51,11 +52,11 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(5) Mīdạc kā∙i∙cimītcināt, ‘oᵉō’dạc kā∙i∙cī∙i∙nāt: “Waᵉaᵘ kucayä‘ta kuckungäsi, ugō kucayä‘ta,” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-miijinaad, o’ow dash gaa-izhi-inaad: “Wa’aw gosha eta Goshkongesii, ogow gosha eta,” ogii-inaan.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-miijinaad, o’ow dash gaa-izhi-inaad: “Wa’aw gosha eta Goshkongesi, ogow gosha eta,” ogii-inaan.**</span>
 
 <span class="l-eng">*Whereupon, after he had eased himself upon them, this he then said to them: “This is really the only winged startler, this is the only thing,” he said to them.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-miijinaad (then, after he had eased himself upon them), o’ow dash gaa-izhi-inaad (this he then said to them): “Wa’aw gosha eta Goshkongesii (“this is really the only winged startler), ogow gosha eta,” (these are the only ones,”) ogii-inaan (he said to them).</span>
+<span class="l-gloss">Mii dash gaa-izhi-miijinaad (then, after he had eased himself upon them), o’ow dash gaa-izhi-inaad (this he then said to them): “Wa’aw gosha eta Goshkongesi (“this is really the only winged startler), ogow gosha eta,” (these are the only ones,”) ogii-inaan (he said to them).</span>
 
 <span class="l-orig">(6) Mīdạc kānījimādcāt, kī∙ạ∙nibạpimusät.</span>
 
@@ -67,11 +68,11 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(7) Kā∙i∙cimạtāpīt ‘iᵉi’ᵘ ki‘tcigạmi, ugīwâbạndān ki‘tcikīckāpi‘kānig; ināpit, kägä‘t nāwināgwatini iwidi nibī‘kāng.</span>
 
-<span class="l-fiero">**Gaa-izhi-madaabiid i’iw Gichigami, ogii-waabandaan Gichi-giishkaabikaanig; inaabid, Geget naawi-naagwadini iwidi nibiikaang.**</span>
+<span class="l-fiero">**Gaa-izhi-madaabiid i’iw Gichigami, ogii-waabandaan Gichi-giishkaabikaanig; inaabid, geget naawi-naagwadini iwidi nibiikaang.**</span>
 
 <span class="l-eng">*When he came out upon the sea, he saw a very high cliff with steep sides; as he looked, truly far seemed the distance down to where the water was.*</span>
 
-<span class="l-gloss">Gaa-izhi-madaabiid i’iw Gichigami (when he came out upon the sea), ogii-waabandaan Gichi-giishkaabikaanig (he saw a great steep cliff); inaabid (as he looked), Geget naawi-naagwadini iwidi nibiikaang (truly far down it seemed to where the water was).</span>
+<span class="l-gloss">Gaa-izhi-madaabiid i’iw Gichigami (when he came out upon the sea), ogii-waabandaan Gichi-giishkaabikaanig (he saw a great steep cliff); inaabid (as he looked), geget naawi-naagwadini iwidi nibiikaang (truly far down it seemed to where the water was).</span>
 
 <span class="l-orig">(8) “Undcitạmāwīn nindā∙i∙cikwāckwạn i‘kwätug a‘tāting; ā‘pitcigu tạtā‘kuntcīgwạnät.</span>
 
@@ -83,11 +84,11 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(9) Undcitạmāwīn nintāijikwāckwạn: ‘Awägwän kä∙i∙jikwāckwạnigwän?’ i‘kitung.</span>
 
-<span class="l-fiero">**Onjida maawiin nintaa-izhi-kwaashkwan: ‘Awegwen ge-izhi-kwaashkwanigwen?’ ikidong.**</span>
+<span class="l-fiero">**Onjida maawiin nindaa-izhi-kwaashkwan: ‘Awegwen ge-izhi-kwaashkwanigwen?’ ikidong.**</span>
 
 <span class="l-eng">*With good reason would I leap down if some one should ask: ‘Who will jump down?’*</span>
 
-<span class="l-gloss">Onjida maawiin nintaa-izhi-kwaashkwan (with good reason would I leap down): ‘Awegwen ge-izhi-kwaashkwanigwen?’ (‘who is it that would jump down?’) ikidong (if it were said).</span>
+<span class="l-gloss">Onjida maawiin nindaa-izhi-kwaashkwan (with good reason would I leap down): ‘Awegwen ge-izhi-kwaashkwanigwen?’ (‘who is it that would jump down?’) ikidong (if it were said).</span>
 
 <span class="l-orig">(10) Undcitạmāwīn nintā∙i∙jikwāckwạn.”</span>
 
@@ -115,19 +116,19 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(13) Mīdạc cīgwa kī∙u∙disāt a∙a∙wäti kāmīdcinimint mī∙i’∙ᵘ unītcānisaᵉ.</span>
 
-<span class="l-fiero">**Mii dash zhigwa gii-odisaad o’owedi gaa-miijinimind mii i’iw oniijaanisa’.**</span>
+<span class="l-fiero">**Mii dash zhigwa gii-odisaad a’awedi gaa-miijinimind mii i’iw oniijaanisa’.**</span>
 
 <span class="l-eng">*And so in the mean time (the mother) had come to where her young had been eased upon.*</span>
 
-<span class="l-gloss">Mii dash zhigwa gii-odisaad (and so by now she had come) o’owedi gaa-miijinimind (to where they had been eased upon) mii i’iw oniijaanisa’ (that is, her young).</span>
+<span class="l-gloss">Mii dash zhigwa gii-odisaad (and so by now she had come) a’awedi gaa-miijinimind (to where they had been eased upon) mii i’iw oniijaanisa’ (that is, her young).</span>
 
 <span class="l-orig">(14) “Ānīn kā‘tiyäg?” udināᵉ ‘iᵉi’ᵘ unītcānisaᵉ.</span>
 
-<span class="l-fiero">**“Aaniin gaadiyeg?” odinaa’ i’i’w oniijaanisa’.**</span>
+<span class="l-fiero">**“Aaniin gaadiyeg?” odinaa’ i’iw oniijaanisa’.**</span>
 
 <span class="l-eng">*“What has happened to you?” she said to her children.*</span>
 
-<span class="l-gloss">“Aaniin gaadiyeg?” (“what has happened to you?” — *stem flagged*) odinaa’ i’i’w oniijaanisa’ (she said to her children).</span>
+<span class="l-gloss">“Aaniin gaadiyeg?” (“what has happened to you?” — *stem flagged*) odinaa’ i’iw oniijaanisa’ (she said to her children).</span>
 
 <span class="l-orig">(15) “Kā, nạngwana Nänabucu ningīmīdcinigunān.”</span>
 
@@ -147,11 +148,11 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(17) “Kāwīn,” kī∙i∙‘kitō ‘aᵉa’ᵘ päji‘k i∙i∙māⁿ mōwīng usibi‘tōt.</span>
 
-<span class="l-fiero">**“Gaawiin,” Gii-ikido a’aw bezhig i’imaa moowiing osibidood.**</span>
+<span class="l-fiero">**“Gaawiin,” gii-ikido a’aw bezhig i’imaa moowiing osibitood.**</span>
 
 <span class="l-eng">*“Nay,” said one moving about there in the slush of the dung.*</span>
 
-<span class="l-gloss">“Gaawiin,” Gii-ikido (“no,” said) a’aw bezhig (one of them) i’imaa moowiing osibidood (moving about there in the slush of the dung).</span>
+<span class="l-gloss">“Gaawiin,” gii-ikido (“no,” said) a’aw bezhig (one of them) i’imaa moowiing osibitood (moving about there in the slush of the dung).</span>
 
 <span class="l-orig">(18) “Kägä‘t ningagwätcimigunān, ‘Ānīn äjini‘kāsoyäg?’ ningī∙i∙gunān.</span>
 
@@ -179,11 +180,11 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(21) Wa∙a∙widạc wänītcānisit kā∙i∙cikisībīgināt; kā∙i∙ckwā kisībīgināt, cīgwa kā∙i∙jimādcāt.</span>
 
-<span class="l-fiero">**Wa’aw idash weniijaanizit gaa-izhi-giziibiiginaad; gaa-ishkwaa-giziibiiginaad, zhigwa gaa-izhi-maajaad.**</span>
+<span class="l-fiero">**Wa’aw idash weniijaanisid gaa-izhi-giziibiiginaad; gaa-ishkwaa-giziibiiginaad, zhigwa gaa-izhi-maajaad.**</span>
 
 <span class="l-eng">*Then the mother washed them with water; and after she had finished washing them, she then started away.*</span>
 
-<span class="l-gloss">Wa’aw idash weniijaanizit (and the mother) gaa-izhi-giziibiiginaad (washed them with water); gaa-ishkwaa-giziibiiginaad (after she had finished washing them), zhigwa gaa-izhi-maajaad (she then started away).</span>
+<span class="l-gloss">Wa’aw idash weniijaanisid (and the mother) gaa-izhi-giziibiiginaad (washed them with water); gaa-ishkwaa-giziibiiginaad (after she had finished washing them), zhigwa gaa-izhi-maajaad (she then started away).</span>
 
 <span class="l-orig">(22) “Mîcạnim!” ugī∙i∙nān Nänabucūwan.</span>
 
@@ -211,19 +212,19 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(25) Cīgwa kägä‘t umbigātäni Nänabucu.</span>
 
-<span class="l-fiero">**Zhigwa Geget ombigaadeni Nenaboozhoo.**</span>
+<span class="l-fiero">**Zhigwa geget ombigaadeni Nenaboozhoo.**</span>
 
 <span class="l-eng">*Now, sure enough, up Nänabushu raised his leg.*</span>
 
-<span class="l-gloss">Zhigwa Geget ombigaadeni Nenaboozhoo (now, sure enough, up went Nanabushu’s leg).</span>
+<span class="l-gloss">Zhigwa geget ombigaadeni Nenaboozhoo (now, sure enough, up went Nanabushu’s leg).</span>
 
 <span class="l-orig">(26) “Undcītasa nintā∙i∙jikwāckwạn ningutwā‘kwa∙ā∙gạn ä‘kwutcīngwạnät a‘tāting.”</span>
 
-<span class="l-fiero">**“Onjida sa nindaa-izhi-kwaashkwan ningodwaakwa’aagan ekwo-jiingwaned adaading.”**</span>
+<span class="l-fiero">**“Onjida sa nindaa-izhi-kwaashkwan ningodwaakwa’aagan ekwo-jiingwaned ataading.”**</span>
 
 <span class="l-eng">*“For a purpose would I leap if the object of the prize measured one span of the hand from groin to knee.”*</span>
 
-<span class="l-gloss">“Onjida sa nindaa-izhi-kwaashkwan (“for a purpose would I leap) ningodwaakwa’aagan (one span of the hand) ekwo-jiingwaned adaading.” (if the prize measured that from groin to knee — *measure/wager stem flagged*.”)</span>
+<span class="l-gloss">“Onjida sa nindaa-izhi-kwaashkwan (“for a purpose would I leap) ningodwaakwa’aagan (one span of the hand) ekwo-jiingwaned ataading.” (if the prize measured that from groin to knee — *measure/wager stem flagged*.”)</span>
 
 <span class="l-orig">(27) Mīdạc kā∙i∙jipạsigwa∙u∙t ‘aᵉa’ᵘ pinä, mīdạc kā∙i∙jikwāckwaninit i∙i∙māⁿ kīckābi‘kāng.</span>
 
@@ -259,11 +260,11 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(31) Mīdạc kā∙i∙cikīwät ‘aᵉa’ᵘ pinä; mīdạc kayäwīn kā∙i∙cimādcīyātạgāt, mīsa kā∙i∙ci∙a∙gwā‘tāt.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-giiwed a’aw bine mii dash gaye wiin gaa-izhi-maajiiyaadagaad, mii sa gaa-izhi-agwaadaad.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-giiwed a’aw bine mii dash gaye wiin gaa-izhi-maajiiyaadagaad, mii sa gaa-izhi-agwaataad.**</span>
 
 <span class="l-eng">*Thereupon back home went the ruffed grouse; and as for himself he started swimming inshore, after which he then went out of the water.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-giiwed a’aw bine (thereupon back home went the ruffed grouse); mii dash gaye wiin gaa-izhi-maajiiyaadagaad (and as for himself he started swimming inshore), mii sa gaa-izhi-agwaadaad (after which he went up out of the water).</span>
+<span class="l-gloss">Mii dash gaa-izhi-giiwed a’aw bine (thereupon back home went the ruffed grouse); mii dash gaye wiin gaa-izhi-maajiiyaadagaad (and as for himself he started swimming inshore), mii sa gaa-izhi-agwaataad (after which he went up out of the water).</span>
 
 <span class="l-orig">(32) Mīdạc mīnawā kī∙ạ∙nimādcāt.</span>
 

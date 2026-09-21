@@ -2,7 +2,6 @@
 title: "54. Bald-Eagle"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -37,12 +36,10 @@ BALD-EAGLE.
 
 <span class="l-orig">(3) Cigwa wīnōniwaᵉ utcīting udini‘kwänā; kābakaskạmigutigu, pinäwītcīt . . .</span>
 
-<span class="l-fiero">**Zhigwa wii-nooniwag ojiiding odinikwenaa’; gaa-bakaskamigod igo, binewi-jiid . . .**</span>
+<span class="l-fiero">**Zhigwa wii-nooniwag ojiiding odinikwenaa’; gaa-bakaskamigod* igo, binewi-jiid . . .**</span>
 
 <span class="l-eng">*When they desired to suck, down to her buttocks she put their heads; and when the sound of their mouths was heard while she was being sucked, then the buttocks of the ruffed grouse . . .*</span>
 
-<span class="l-gloss">Zhigwa wii-nooniwag (when they wanted to nurse) ojiiding (down at her rump) odinikwenaa’ (she put their heads); gaa-bakaskamigod igo (and as the smacking sound of her being suckled was heard), binewi-jiid (the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).</span>
-
-*“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
+<span class="l-gloss">Zhigwa wii-nooniwag (when they wanted to nurse) ojiiding (down at her rump) odinikwenaa’ (she put their heads); gaa-bakaskamigod* igo (and when the sound of their mouths was heard while she was being sucked), binewi-jiid (the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).</span>
 
 </div>

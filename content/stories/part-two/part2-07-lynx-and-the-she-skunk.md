@@ -2,7 +2,6 @@
 title: "7. Lynx and the she-skunk"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -35,7 +34,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Zhigaagokwen owiidigemaan (a She-Skunk he had for a wife).</span>
 
-<span class="l-orig">(3) Mīdạc imāⁿ ändạcinạndawändcigät ‘aᵘ pījyᵘ; ạnōdcigägō oni‘tōn—wâbōzōn, pinäwạn, cīcībạn—wā∙ạ∙cạmāt wīwạn; nānīngutinūⁿ kayä āmi‘kwạn unỉsān.</span>
+<span class="l-orig">(3) Mīdạc imāⁿ ändạcinạndawändcigät ‘aᵘ pījyᵘ; ạnōdcigägō oni‘tōn—wâbōzōn, pinäwạn, cīcībạn—wā∙ạ∙cạmāt wīwạn; nānīngutinūⁿ kayä āmi‘kwạn unîsān.</span>
 
 <span class="l-fiero">**Mii dash imaanh endazhi-nandawenjiged aw bizhiw; anooji gegoo onitoon - waaboozoon, pinewan, zhiishiiban - waa-ashamaad wiiwan; naningodinong gaye amikwan onisaan.**</span>
 
@@ -83,7 +82,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">“Gidaa-nibaa gosha go gaazhigakin (you should really sometimes sleep during the day),” odinaan (he said to her).</span>
 
-<span class="l-orig">(9) ‘Aᵉa’widac i‘kwä ugi‘känimān wīnisigut unābäman.</span>
+<span class="l-orig">(9) ‘Aᵉa´widac i‘kwä ugi‘känimān wīnisigut unābäman.</span>
 
 <span class="l-fiero">**A’aw idash ikwe ogikenimaan wii-nisigod onaabeman.**</span>
 
@@ -91,7 +90,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">A’aw idash ikwe (now, the woman) ogikenimaan wii-nisigod onaabeman (knew that it was the desire of her husband to kill her).</span>
 
-<span class="l-orig">(10) Kīmūdc ubināsi‘kān ändāwāt nạndawâbạmād wīwạn tcinỉbānit.</span>
+<span class="l-orig">(10) Kīmūdc ubināsi‘kān ändāwāt nạndawâbạmād wīwạn tcinîbānit.</span>
 
 <span class="l-fiero">**Giimooj obi-naazikaan endaawaad nandawaabamaad wiiwan ji-nibaanid.**</span>
 
@@ -99,7 +98,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Giimooj obi-naazikaan endaawaad (in secret would he approach where they lived) nandawaabamaad wiiwan ji-nibaanid (to see if his wife was asleep).</span>
 
-<span class="l-orig">(11) Ningudingidạc kājiga‘k nibinādit ‘aᵉa’ᵘ i‘kwä, owābạmān unābämạn pạbāmusänit, ạgāming pạbāmusänit.</span>
+<span class="l-orig">(11) Ningudingidạc kājiga‘k nibinādit ‘aᵉa´ᵘ i‘kwä, owâbạmān unābämạn pạbāmusänit, ạgāming pabāmusänit.</span>
 
 <span class="l-fiero">**Ningoding idash gaazhigak nibinaadid a’aw ikwe, owaabamaan onaabeman babaamosenid, agaaming babaamosenid.**</span>
 
@@ -115,7 +114,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Aw idash ikwe (and while the woman was there) amikwan gii-mooshkamowan (a beaver came up out of the water) imaa onda’ibaaning (there at the water-hole in the ice).</span>
 
-<span class="l-orig">(13) Ugīnawadinān uzidāning īni‘ᵘ āmi‘kwạn, umindciminān, mī∙i∙‘ᵘ äjipīpāgimād unābämạn:</span>
+<span class="l-orig">(13) Ugīnawadinān uzidāning īni´ᵘ āmi‘kwạn, umindciminān, mī∙i∙´ᵘ äjipīpāgimād unābämạn:</span>
 
 <span class="l-fiero">**Ogii-nawadinaan ozidaaning iniw amikwan, ominjiminaan, mii iw ezhi-biibaagimaad onaabeman:**</span>
 
@@ -123,13 +122,13 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Ogii-nawadinaan ozidaaning iniw amikwan (she seized the beaver by the feet), ominjiminaan (she held it tight), mii iw ezhi-biibaagimaad onaabeman (and then she called aloud to her husband):</span>
 
-<span class="l-orig">(14) “Pījē’ᵘ, undās! ami‘kwa awä! nimindciminā!”</span>
+<span class="l-orig">(14) “Pījē´ᵘ, undās! ami‘kwa awä! nimindcimināᵘ!”</span>
 
-<span class="l-fiero">**“Biizhiw, ondaas! amikwa awe! minimjiminaa!”**</span>
+<span class="l-fiero">**“Biizhiw, ondaas! amikwa awe! niminjiminaa*!”**</span>
 
 <span class="l-eng">*“O Lynx, hither! Here is a beaver! I have hold of him!”*</span>
 
-<span class="l-gloss">“Biizhiw, ondaas! (O Lynx, hither!) amikwa awe! (here is a beaver!) minimjiminaa! (I have hold of him!)”</span>
+<span class="l-gloss">“Biizhiw, ondaas! (O Lynx, hither!) amikwa awe! (here is a beaver!) niminjiminaa*! (I have hold of him!)”</span>
 
 <span class="l-orig">(15) Pījyᵘ idạc pīnābi.</span>
 
@@ -147,7 +146,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">“Bagidin (let it go) megwaa ninooji’aa! (for I am hunting it!)”</span>
 
-<span class="l-orig">(17) Mīdạc kā∙i∙jipạgidināt, kī‘kīwä ‘aᵉa’ᵘ i‘kwä ändāwāt.</span>
+<span class="l-orig">(17) Mīdạc kā∙i∙jipạgidināt, kī‘kīwä ‘aᵉa´ᵘ i‘kwä ändāwāt.</span>
 
 <span class="l-fiero">**Mii dash gaa-izhi-bagidinaad gii-giiwe a’aw ikwe endaawaad.**</span>
 
@@ -155,13 +154,15 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Mii dash gaa-izhi-bagidinaad (and so, when she let it go) gii-giiwe a’aw ikwe endaawaad (back went the woman to where they lived).</span>
 
-<span class="l-orig">(18) Ogī∙a∙‘tōnạn mỉsạn gayädạc ạsỉnīn ogī∙ạ∙sān i∙i∙māⁿ tcostỉgwâni‘pạn; ogipạdạgwana∙ā∙n idạc.¹</span>
+<span class="l-orig">(18) Ogī∙a∙‘tōnạn mîsạ´n gayädạc ạsînīn ogī∙ạ∙sān i∙i∙māⁿ tcostîgwâni‘pạn; ogipạdạgwana∙ā∙n idạc.¹</span>
 
 <span class="l-fiero">**Ogii-atoonan misan gaye dash asiniin ogii-asaan imaanh ch-oshtigwaaniban; ogii-badagwana’aan idash.**</span>
 
 <span class="l-eng">*She put some fire-wood in place, and a stone she laid there for the head; and she covered up (the figure).*</span>
 
 <span class="l-gloss">Ogii-atoonan misan (she put some fire-wood in place) gaye dash asiniin ogii-asaan imaa ch-oshtigwaaniban (and a stone she laid there for the head); ogii-badagwana’aan idash (and she covered up the figure).</span>
+
+*¹ This is not clear. The woman made a figure of some one asleep in order to deceive her husband, and cause him to think that it was she.*
 
 *¹ This is not clear. The woman made a figure of some one asleep in order to deceive her husband, and cause him to think that it was she.*
 
@@ -173,7 +174,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Mii idash gaa-izhi-gaazod biindig endaawaad (thereupon she hid inside of where they lived).</span>
 
-<span class="l-orig">(20) A‘pidạc pījyᵘ pạdagwicing pä‘ka ubināsi‘kān ändāwāt.</span>
+<span class="l-orig">(20) A‘pīdạc pījyᵘ pạdagwicing pä‘ka ubināsi‘kān ändāwāt.</span>
 
 <span class="l-fiero">**Apii dash ba-dagwishing bekaa obi-naazikaan endaawaad.**</span>
 
@@ -181,7 +182,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Apii dash ba-dagwishing (and when Lynx was arriving home) bekaa obi-naazikaan endaawaad (softly he approached where they lived).</span>
 
-<span class="l-orig">(21) Mīdạc wâbạmād awīya nỉbānit, mīdạc udäckạn pada‘kunạng.</span>
+<span class="l-orig">(21) Mīdạc wâbạmād awīya nîbānit, mīdạc udäckạn pada‘kunạng.</span>
 
 <span class="l-fiero">**Mii dash waabamaad awiiya nibaanid, mii dash odeshkan ba-dakonang.**</span>
 
@@ -189,7 +190,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Mii dash waabamaad awiiya nibaanid (and when he saw some one asleep), mii dash odeshkan ba-dakonang (he then took his horn (chisel) up in his hand).</span>
 
-<span class="l-orig">(22) Mī∙i∙dạc äjipajibaⁿwāt īni‘ᵘ asỉnīn mī∙i∙dạc kīki‘kändạnk asỉnīn pajibaⁿwāt, misạn gayä a‘tänig i∙i∙māⁿ.</span>
+<span class="l-orig">(22) Mī∙i∙dạc äjipajibaⁿwāt īni´ᵘ asînīn mī∙i∙dạc kīki‘kändạnk asînīn pajibaⁿwāt, misạn gayä a‘tänig i∙i∙māⁿ.</span>
 
 <span class="l-fiero">**Mii dash ezhi-bazhibawaad iniw asiniin mii dash gii-gikendang asiniin bazhibawaad, misan gaye atenig imaanh.**</span>
 
@@ -213,7 +214,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Gii-biindige dash (then he went inside).</span>
 
-<span class="l-orig">(25) “Anōdc ningạtijictcigä; māgijā tabā‘pi tibikāzogwän.”</span>
+<span class="l-orig">(25) “Ạnōdc ningạtijictcigä; māgijā tabā‘pi tibikāzogwän.”</span>
 
 <span class="l-fiero">**“Anooj ningad-izhichige; maagizhaa da-baapi dibi gaazogwen.”**</span>
 
@@ -245,13 +246,13 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">“Zhigaagokwe oga-wii-baapitoon odaya’iim (let She-Skunk laugh at what is her own) dibi ayaagwen (wherever she may be), endoo, endoo, endoo, endoo! (where, where, where, where! — vocable refrain, carried verbatim)”</span>
 
-<span class="l-orig">(29) Awidac i‘kwä käga‘pī kipä‘pi kipä‘pi kạnawâbạmād ändodạminit.</span>
+<span class="l-orig">(29) Awidac i‘kwä käga‘pī kīpā‘pi kīpä‘pi kạnawâbạmād ändodạminit.</span>
 
-<span class="l-fiero">**Aw idash ikwe gegapii gii-baapi ganawaabamaad endodaminid.**</span>
+<span class="l-fiero">**Aw idash ikwe gegapii gii-baapi gii-baapi ganawaabamaad endodaminid.**</span>
 
 <span class="l-eng">*Now, the woman at last did laugh when she observed what he was doing.*</span>
 
-<span class="l-gloss">Aw idash ikwe gegapii gii-baapi (now, the woman at last did laugh) ganawaabamaad endodaminid (when she observed what he was doing).</span>
+<span class="l-gloss">Aw idash ikwe gegapii gii-baapi gii-baapi (now, the woman at last did laugh) ganawaabamaad endodaminid (when she observed what he was doing).</span>
 
 <span class="l-orig">(30) Nwāndawāt pā‘pinit wīwạn, kīsāgidcisä, kī∙ạ∙ndawâbạdcigä kīwi‘taiya∙ī∙ ändāwāt; kāwin ogīmi‘kawāsin.</span>
 
@@ -261,7 +262,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Nwaandawaad baapinid wiiwan (on hearing the sound of his wife laughing), gii-zaagijise (he rushed out of doors), gii-andawaabanjige giiwitaya’ii endaawaad (he went seeking everywhere roundabout where they dwelt); gaawiin ogii-mikawaasiin (but he did not find her).</span>
 
-<span class="l-orig">(31) Mīnawā gīpīndigä; pīnic nỉsing ī∙i∙‘ᵘ kītōdạm, ānawimīnawā kī‘pā‘piwan.</span>
+<span class="l-orig">(31) Mīnawā gīpīndigä; pīnic nîsing ī∙i∙´ᵘ kītōdạm, ānawimīnawā kī‘pā‘piwan.</span>
 
 <span class="l-fiero">**Miinawaa gii-biindige; biinish nising i’iw gii-doodam, aanawi miinawaa gii-bapiwan.**</span>
 
@@ -269,7 +270,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Miinawaa gii-biindige (back within he returned); biinish nising i’iw gii-doodam (even a third time he did it), aanawi miinawaa gii-bapiwan (still again she would laugh).</span>
 
-<span class="l-orig">(32) Gāga‘pī∙i∙dạc kītäbā‘pi ‘aᵉa’ᵘ i‘kwä, kāwīn mīnawā kīpā‘pisī.</span>
+<span class="l-orig">(32) Gāga‘pī∙i∙dạc kītäbā‘pi ‘aᵉa´ᵘ i‘kwä, kāwīn mīnawā kīpā‘pisī.</span>
 
 <span class="l-fiero">**Gegapii idash gii-de-baapi a’aw ikwe, gaawiin miinawaa gii-baapisii.**</span>
 
@@ -293,21 +294,21 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Aanawi oganawaabamigoon wiiwan (even though he was observed by his wife), gaawiin dash wiin owaabamaasiin (yet he himself did not see her).</span>
 
-<span class="l-orig">(35) Mīdạc kā∙i∙jikāwicimat tcīgiskudä, ‘aᵉa’ᵘ pījyᵘ odạgozitōn u‘kāt ogidigwānk.</span>
+<span class="l-orig">(35) Mīdạc kā∙i∙jikāwicimat tcīgiskudä, ‘aᵉa´ᵘ pījyᵘ odạgozitōn u‘kāt ogidigwānk.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-gawishimod jiig-ishikode, a’aw bizhiw odagoozitoon okaad ogidigwaang.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-gawishimod jiig-ishkode, a’aw bizhiw odagoozitoon okaad ogidigwaang.**</span>
 
 <span class="l-eng">*And when he lay down to sleep beside the fire, Lynx hung one leg over the other knee.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-gawishimod jiig-ishikode (and when he lay down to sleep beside the fire), a’aw bizhiw odagoozitoon okaad ogidigwaang (Lynx hung one leg over the other knee).</span>
+<span class="l-gloss">Mii dash gaa-izhi-gawishimod jiig-ishkode (and when he lay down to sleep beside the fire), a’aw bizhiw odagoozitoon okaad ogidigwaang (Lynx hung one leg over the other knee).</span>
 
 <span class="l-orig">(36) Mīdạc nānājinạnk unāzidi, mēdạc kā∙i∙‘kidot:</span>
 
-<span class="l-fiero">**Mii dash naanaazhinag onaazidi, mii dahs gaa-ikidod:**</span>
+<span class="l-fiero">**Mii dash naanaazhinang* onaazidi, mii dash gaa-ikidod:**</span>
 
 <span class="l-eng">*Accordingly, as he rubbed the under side of his hip, this was what he said:*</span>
 
-<span class="l-gloss">Mii dash naanaazhinag onaazidi (accordingly, as he rubbed the under side of his hip), mii dahs gaa-ikidod (this was what he said):</span>
+<span class="l-gloss">Mii dash naanaazhinang* onaazidi (accordingly, as he rubbed the under side of his hip), mii dash gaa-ikidod (this was what he said):</span>
 
 <span class="l-orig">(37) “Nindābā‘pi∙i∙gō māwin Nängawi sāga∙i∙gạning nīmi∙i∙ding nänäyāskināzidiyägōtcinān.”</span>
 
@@ -325,7 +326,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Mii dash gaa-izhi-odaapinang mookomaan (whereupon, picking up a knife), ogii-maanizhaan idash obwaam (he sliced a piece off his ham).</span>
 
-<span class="l-orig">(39) Kā∙i∙jita‘kunạngidạc, “Nīngamīdcỉn,” inändạm.</span>
+<span class="l-orig">(39) Kā∙i∙jita‘kunạngidạc, “Nīngamīdcîn,” inändạm.</span>
 
 <span class="l-fiero">**Gaa-izhi-dakonand idash, “Ninga-miijiin,” inendam.**</span>
 
@@ -373,13 +374,13 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Mii iw gii-debisiniid (thereupon he had all he wanted to eat).</span>
 
-<span class="l-orig">(45) Mīnawā dạc kīkāwicỉmō; miziwä kạgwätinidizō; wīsạgändạm umisạt, uzām kītäbisinīt.</span>
+<span class="l-orig">(45) Mīnawā dạc kīkāwicîmō; miziwä kạgwätinidizō; wīsạgändạm umisạt, uzām kītäbisinīt.</span>
 
-<span class="l-fiero">**Miinawaa dash gii-gawishimo; mizhiwe gagwedinidizo; wiisagendam omisad, ozaam gii-debisiniid.**</span>
+<span class="l-fiero">**Miinawaa dash gii-gawishimo; miziwe gagwedinidizo; wiisagendam omisad, ozaam gii-debisiniid.**</span>
 
 <span class="l-eng">*So once more he lay down to sleep; all over was he feeling of himself; he had a pain in his belly, for too much had he eaten.*</span>
 
-<span class="l-gloss">Miinawaa dash gii-gawishimo (so once more he lay down to sleep); mizhiwe gagwedinidizo (all over was he feeling of himself); wiisagendam omisad (he had a pain in his belly), ozaam gii-debisiniid (for too much had he eaten).</span>
+<span class="l-gloss">Miinawaa dash gii-gawishimo (so once more he lay down to sleep); miziwe gagwedinidizo (all over was he feeling of himself); wiisagendam omisad (he had a pain in his belly), ozaam gii-debisiniid (for too much had he eaten).</span>
 
 <span class="l-orig">(46) Umi‘kōtcīnān umisạt pā‘pāgāni‘k.</span>
 
@@ -389,7 +390,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Omikoojinaan omisad baapaagaanig (he felt that his belly was hard).</span>
 
-<span class="l-orig">(47) “Kạnạbạtc nīmini‘ᵘ,” inändạm.</span>
+<span class="l-orig">(47) “Kạnạbạtc nīmini´ᵘ,” inändạm.</span>
 
 <span class="l-fiero">**“Ganabaj niminiiw,” inendam.**</span>
 
@@ -397,7 +398,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">“Ganabaj niminiiw (perhaps I have pus in me),” inendam (he thought).</span>
 
-<span class="l-orig">(48) Mēdạc kā∙i∙jimādijạng umisạt, käᵒgä‘t kägōn umi‘kōtcīnān.</span>
+<span class="l-orig">(48) Mēdạc kā∙i∙jimādijạng umisạt, käᵉgä‘t kägōn umi‘kōtcīnān.</span>
 
 <span class="l-fiero">**Mii dash gaa-izhi-maadizhang omisad, geget gegoon omikoojiinaan.**</span>
 
@@ -413,7 +414,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Mii dash waa-wiikobidood (and when he tried to pull on it) ikwaagatese (he flinched).</span>
 
-<span class="l-orig">(50) Nawạtc änigu‘k uwī‘kubitōn, mī∙i∙‘ᵘ kīpa‘kibināt umisạdạn.</span>
+<span class="l-orig">(50) Nawạtc änigu‘k uwī‘kubitōn, mī∙i∙´ᵘ kīpa‘kibināt umisạdạn.</span>
 
 <span class="l-fiero">**Nawach enigok owiikobidoon, mii iw gii-bakibinaad omisadan.**</span>
 
@@ -471,11 +472,11 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-orig">(57) Kayä wīn dạc pījyᵘ nici‘kä kī∙a∙yā.</span>
 
-<span class="l-fiero">**Gaye wiin dash bizhiw nizhiwe gii-ayaa.**</span>
+<span class="l-fiero">**Gaye wiin dash bizhiw nizhike gii-ayaa.**</span>
 
 <span class="l-eng">*And so Lynx too was all alone.*</span>
 
-<span class="l-gloss">Gaye wiin dash bizhiw nizhiwe gii-ayaa (and so Lynx too was all alone).</span>
+<span class="l-gloss">Gaye wiin dash bizhiw nizhike gii-ayaa (and so Lynx too was all alone).</span>
 
 <span class="l-orig">(58) Mīdạc a‘pạnä niji‘käwizit, kāwī‘kā uwīdcīwāsin wīwạn.</span>
 
@@ -485,7 +486,7 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-gloss">Mii dash apane nizhikewizid (thereupon was he always alone), gaa wiikaa owiijiwaasiin wiiwan (never was he in the company of his wife).</span>
 
-<span class="l-orig">(59) Ningudingidạc pabāndawändcigät, pijỉᵘ ogīwâbạndān pỉnäwidis kī∙ạ∙gōdänig!</span>
+<span class="l-orig">(59) Ningudingidạc pabāndawändcigät, pijîᵘ ogīwâbạndān pînäwidis kī∙ạ∙gōdänig!</span>
 
 <span class="l-fiero">**Ningoding dash babaa-andawenjiged, bizhiw ogii-waabandaan binewidis gii-agodenig!**</span>
 

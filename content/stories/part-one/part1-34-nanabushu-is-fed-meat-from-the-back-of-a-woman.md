@@ -2,7 +2,6 @@
 title: "34. Nanabushu is Fed Meat from the Back of a Woman"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -97,7 +96,7 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-gloss">Mii sa gaa-giizhiboodoonid i’iw omookomaanini (and when he had finished sharpening his knife, he moved over to sit beside her).</span>
 
-*Odanikamaanini, “her shoulder-straps,” a sort of suspender going over the shoulder, and thus holding up the skirt. This piece of garment is no longer worn by women of today (Jones, p. 298).*
+*Odanikamaanini, “her shoulder-straps,” a sort of suspender going over the shoulder, and thus holding up the skirt. This piece of garment is no longer worn by women of today.*
 
 <span class="l-orig">(11) ubiminạnā‘tabī‘tawānini īni’ᵘ wīwini.</span>
 
@@ -105,15 +104,13 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-gloss">Obiminanaadabiidawaanini iiniw wiiwini (he edged over to sit close beside his wife).</span>
 
-*⚠️ ⭐ FINDING, 2026-08-29 — **Jones printed no separate English sentence for this section; the English for the whole Ojibwe sentence stands in §10.** p.299 (pixel-verified against the volume’s text layer and the printed page) sets one sentence — *“And when he had finished sharpening his knife, he moved over to sit next to his wife.”* — for the Ojibwe that this record cuts across §10 and §11 (`Mīsa’ kā‘kīcibōtōnit ‘iᵉi’ᵘ umō‘kumānini, / ubiminạnā‘tabī‘tawānini īni’ᵘ wīwini.`), and §10’s english cell already carries it whole. The `---` marker is removed and the field left **empty rather than filled**: the text is not missing, and duplicating it here would print it twice. This cell was NOT written by a retrofit — it pre-dates this record’s sweeps. Nothing else in this section was touched; its Fiero and gloss are unchanged.*
-
 <span class="l-orig">(12) Äjigitaskā‘kunamawāt īni’ᵘ wīwạn udạnikạmānini,² äjimi‘tawagạnäbināt; äjipäjicwāt nawāwigạn; mīsa’ äcipa‘kwäninwäcwāt; kāwīn kạnạgä mādapisīwạn īni’ᵘ i‘kwäwạn.</span>
 
-<span class="l-fiero">**Ezhi-gidashkaakonamawaad iiniw wiiwan odanikamaanini,1 ezhi-midawaganebinaad; ezhi-pezhishwaad* nawaawigan; mii sa ezhi-pakweninweshwaad; gaawiin ganage maadabisiiwan iiniw ikwewan.**</span>
+<span class="l-fiero">**Ezhi-gidashkaakonamawaad iiniw wiiwan odanikamaanini,1 ezhi-midawaganebinaad; ezhi-beshizhwaad nawaawigan; mii sa ezhi-pakweninweshwaad; gaawiin ganage maadabisiiwan iiniw ikwewan.**</span>
 
 <span class="l-eng">*Then, unfastening his wife’s shoulder-straps,1 he exposed her at the back; he then sliced her down the middle of the back with a knife; and he then sliced away a piece of fat from her; not a whit did his wife budge.*</span>
 
-<span class="l-gloss">Ezhi-gidashkaakonamawaad iiniw wiiwan odanikamaanini,1 (then, unfastening his wife’s shoulder-straps,) ezhi-midawaganebinaad (he laid her bare at the back); ezhi-pezhishwaad* nawaawigan (then he sliced her down the middle of the back); mii sa ezhi-pakweninweshwaad (and so he sliced away a piece from her); gaawiin ganage maadabisiiwan iiniw ikwewan (not a whit did the woman stir).</span>
+<span class="l-gloss">Ezhi-gidashkaakonamawaad iiniw wiiwan odanikamaanini,1 (then, unfastening his wife’s shoulder-straps,) ezhi-midawaganebinaad (he laid her bare at the back); ezhi-beshizhwaad nawaawigan (then he sliced her down the middle of the back); mii sa ezhi-pakweninweshwaad (and so he sliced away a piece from her); gaawiin ganage maadabisiiwan iiniw ikwewan (not a whit did the woman stir).</span>
 
 <span class="l-orig">(13) Mīsa’ kā∙i∙jipicagāwiganäcwāt īni’ᵘ wīwini, äcipōdā‘kwäwānit i∙i∙mā a‘ki‘kung.</span>
 
@@ -125,11 +122,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(14) A‘ka‘kạnjä aji∙ō∙dā‘pinạminit, äcisinigunamawānit i∙i∙mā u‘pi‘kwanāning.</span>
 
-<span class="l-fiero">**Akakanzhe ezhi-oodaapinaminid, ezhi-sinigonnamawaanid i’imaa obikwanaaning.**</span>
+<span class="l-fiero">**Akakanzhe ezhi-oodaapinaminid, ezhi-sinigonamawaanid i’imaa obikwanaaning.**</span>
 
 <span class="l-eng">*Picking up some charcoal, he then rubbed it on her back.2*</span>
 
-<span class="l-gloss">Akakanzhe ezhi-oodaapinaminid (picking up some charcoal), ezhi-sinigonnamawaanid i’imaa obikwanaaning (he then rubbed it on her there at her back).2</span>
+<span class="l-gloss">Akakanzhe ezhi-oodaapinaminid (picking up some charcoal), ezhi-sinigonamawaanid i’imaa obikwanaaning (he then rubbed it on her there at her back).2</span>
 
 <span class="l-orig">(15) Äcisạgā‘kuwāt mīnawā.</span>
 
@@ -173,11 +170,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(20) “Mī∙i’∙ᵘ ijikīwäwitaᵘ kinītcānisạg nā mini‘k äckwạntcigäyạn.”</span>
 
-<span class="l-fiero">**“Mii iw izhi-kiiwewida giniijaanisag naa minik eshkwanjigeyan.”**</span>
+<span class="l-fiero">**“Mii iw izhi-giiwewidaw giniijaanisag naa minik eshkwanjigeyan.”**</span>
 
 <span class="l-eng">*“That much which you saved do you take to your children.”*</span>
 
-<span class="l-gloss">“Mii iw izhi-kiiwewida giniijaanisag (“take that home to your children) naa minik eshkwanjigeyan.” (that much you have left over.”)</span>
+<span class="l-gloss">“Mii iw izhi-giiwewidaw giniijaanisag (“take that home to your children) naa minik eshkwanjigeyan.” (that much you have left over.”)</span>
 
 <span class="l-orig">(21) Mīsa’ cigwa wī‘kīwä.</span>
 
@@ -221,11 +218,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(26) Kumā‘pī äni∙a∙yāt, usāgitcinica∙u∙gō ‘iᵉi’ᵘ ạbinōtcīyaᵉ.</span>
 
-<span class="l-fiero">**Gomaapii eni-ayaad, ozaagijinisha’ogoo i’iw abinoojiinya.**</span>
+<span class="l-fiero">**Gomaapii eni-ayaad, ozaagijinisha’ogoo i’iw abinoojiiya.**</span>
 
 <span class="l-eng">*When some distance away he was come, out of doors rushed the children after him.*</span>
 
-<span class="l-gloss">Gomaapii eni-ayaad (when he had got some distance off), ozaagijinisha’ogoo i’iw abinoojiinya (the children rushed out of doors after him).</span>
+<span class="l-gloss">Gomaapii eni-ayaad (when he had got some distance off), ozaagijinisha’ogoo i’iw abinoojiiya (the children rushed out of doors after him).</span>
 
 <span class="l-orig">(27) Mīdạc äcipīpāgit “Äī!” i‘kito; “kīwạnī‘kä kigīcō‘tä∙u∙nạg!”</span>
 
@@ -269,13 +266,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(32) Mīdạc kägä‘t wâsạgu wâ∙u∙ndciwäbinạmāgu ‘iᵉi’ᵘ abinōtcīgaᵉ.</span>
 
-<span class="l-fiero">**Mii dash geget waasa go waa-onji-webinamaago i’iw abinoojiiga (abinoojiinya?).**</span>
+<span class="l-fiero">**Mii dash geget waasa go waa-onji-webinamaago i’iw abinoojiiga.**</span>
 
 <span class="l-eng">*Thereupon truly from afar were the children intending to throw them to him, when,*</span>
 
-<span class="l-gloss">Mii dash geget waasa go waa-onji-webinamaago i’iw abinoojiiga (abinoojiinya?) (thereupon truly from afar the children meant to throw them to him, when,)</span>
-
-*abinōtcīgaᵉ — PAGE-VERIFIED 2026-08-13 at 20× (printed p.300; the word breaks abino-/tcīgaᵉ across the line): the g is genuinely printed — a double-bowl g, not the y of ạbinōtcīyaᵉ two lines above. This story prints the word three ways: abinōtcīyaᵉ (§5), ạbinōtcīyaᵉ (§26), abinōtcīgaᵉ (here) — the g stands against two same-story y-printings. NOT the abundance -gaa (the page prints short a; -gaa carries long aa) — M. raised and left open the wondering, 2026-08-13. The word-final raised sort resolves by M.’s number ruling (plural → -g). Note also: Jones prints NO n in any of the three, yet the inherited Fiero wrote abinoojiiya (§5) but abinoojiinya (§26) — the n is the transcriber’s. All carried as printed; the g-vs-y call (printer’s slip or variant) is M.’s, unresolved.*
+<span class="l-gloss">Mii dash geget waasa go waa-onji-webinamaago i’iw abinoojiiga (thereupon truly from afar the children meant to throw them to him, when,)</span>
 
 <span class="l-orig">(33) “Ic!” udinaᵉ; “kāwunāgunäwäbināwāg,” udināᵉ.</span>
 
@@ -335,11 +330,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(40) Mīsa’ ä‘kitut ainini: “Ānīcinā, ninga∙i∙cā,” i‘kito.</span>
 
-<span class="l-fiero">**Mii sa ekidod inini: “Aanishinaa, ninga-izhaa,” ikido.**</span>
+<span class="l-fiero">**Mii sa ekidod a inini: “Aanishinaa, ninga-izhaa,” ikido.**</span>
 
 <span class="l-eng">*Thereupon said the man: “Of course, I will go,” he said.*</span>
 
-<span class="l-gloss">Mii sa ekidod inini (thereupon the man said): “Aanishinaa, ninga-izhaa,” ikido (“of course, I will go,” he said).</span>
+<span class="l-gloss">Mii sa ekidod a inini (thereupon the man said): “Aanishinaa, ninga-izhaa,” ikido (“of course, I will go,” he said).</span>
 
 <span class="l-orig">(41) Cigwasa’ ạnitạgwicin ändāwāt.</span>
 
@@ -565,6 +560,6 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-gloss">Mii sa zhigwa wiisiniwaad (thereupon now they ate).</span>
 
-(2) In order to render the place whole again, - a common formula for miraculous restoration (Jones, p. 299).
+(2) In order to render the place whole again, - a common formula for miraculous restoration.
 
 </div>

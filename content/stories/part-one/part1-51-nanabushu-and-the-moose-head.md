@@ -2,7 +2,6 @@
 title: "51. Nanabushu and the Moose-Head"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -139,11 +138,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(16) Mī∙i∙dạc kā∙i∙jinābisitōd ī∙i∙māⁿ ạtcābīnk; mī∙i∙dạc kạgwätāgibināt Nänabucū mi‘tigwâbin, mī∙i’∙ᵘ kā∙i∙jipîmwād īni’ᵘ ininiwạn kānạgickawā‘pạn.</span>
 
-<span class="l-fiero">**Mii idash gaa-izhi-naabisidood i’imaa ajaabiing; mii idash gagwedaagibiinaad Nenaboozhoo mitigwaabiin, mii iw gaa-izhi-bimwaad iniw iniwan gaa-nagishkawaapan.**</span>
+<span class="l-fiero">**Mii idash gaa-izhi-naabisidood i’imaa ajaabiing; mii idash gagwedaagibiinaad Nenaboozhoo mitigwaabiin, mii iw gaa-izhi-bimwaad iniw ininiwan gaa-nagishkawaapan.**</span>
 
 <span class="l-eng">*Thereupon he fitted it in place on the bowstring ; and when Nanabushu pulled upon the bow, he thereupon shot the man whom he had met.*</span>
 
-<span class="l-gloss">Mii idash gaa-izhi-naabisidood (and so he fitted it in place) i’imaa ajaabiing (there on the bowstring); mii idash gagwedaagibiinaad Nenaboozhoo mitigwaabiin (and as Nanabushu drew the bow), mii iw gaa-izhi-bimwaad (then he shot him) iniw iniwan gaa-nagishkawaapan (that man whom he had met).</span>
+<span class="l-gloss">Mii idash gaa-izhi-naabisidood (and so he fitted it in place) i’imaa ajaabiing (there on the bowstring); mii idash gagwedaagibiinaad Nenaboozhoo mitigwaabiin (and as Nanabushu drew the bow), mii iw gaa-izhi-bimwaad (then he shot him) iniw ininiwan gaa-nagishkawaapan (that man whom he had met).</span>
 
 <span class="l-orig">(17) Mōⁿzunk kī∙i∙jināguziwạn a‘pī gānisāt; ā‘pidci wīninōwạn.</span>
 
@@ -189,7 +188,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-fiero">**“Ji’iin, ji’iin,” inwenig.**</span>
 
-<span class="l-eng">*“Tci?n, tci?n!” was the way it sounded.*</span>
+<span class="l-eng">*“Tciēⁿ, tciēⁿ!” was the way it sounded.*</span>
 
 <span class="l-gloss">“Ji’iin, ji’iin,” (a vocable, carried as sounded) inwenig (so it sounded).</span>
 
@@ -219,11 +218,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(26) Nänabujudạc kīpạsigwī, ogīmạnijān pạngī ojōbīn.</span>
 
-<span class="l-fiero">**Nenaboozhoodazh gii-pasigwii, ogii-manizhaan bangii ozhoobiin.**</span>
+<span class="l-fiero">**Nenaboozhoo dash gii-pasigwii, ogii-manizhaan bangii ozhoobiin.**</span>
 
 <span class="l-eng">*Nanabushu rose to his feet, sliced off a little bit of (fatty) tenderloin.*</span>
 
-<span class="l-gloss">Nenaboozhoodazh gii-pasigwii (and Nanabushu rose to his feet), ogii-manizhaan bangii ozhoobiin (he sliced off a little of the tenderloin).</span>
+<span class="l-gloss">Nenaboozhoo dash gii-pasigwii (and Nanabushu rose to his feet), ogii-manizhaan bangii ozhoobiin (he sliced off a little of the tenderloin).</span>
 
 <span class="l-orig">(27) Mīdạc ädạnk ī∙i’∙ᵘ kizībā‘kwạt: “Käᵉgätsa’ kidōmbīgis.</span>
 
@@ -291,11 +290,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(35) Mēdạc äjiwâbạmād wawâbigạnōdcīyaᵉ pīndigänit imāⁿ mons ustigwānig.</span>
 
-<span class="l-fiero">**Mii dash ezhi-waabamaad wawaabiganoojiiya’ biindigenid imaan mooz oshtigwaaning.**</span>
+<span class="l-fiero">**Mii dash ezhi-waabamaad waawaabiganoojiiya’ biindigenid imaan mooz oshtigwaaning.**</span>
 
 <span class="l-eng">*Thereupon he saw some mice (2) go into the head of the moose.*</span>
 
-<span class="l-gloss">Mii dash ezhi-waabamaad wawaabiganoojiiya’ (then he saw mice) biindigenid imaan mooz oshtigwaaning (going into there, the moose’s head).</span>
+<span class="l-gloss">Mii dash ezhi-waabamaad waawaabiganoojiiya’ (then he saw mice) biindigenid imaan mooz oshtigwaaning (going into there, the moose’s head).</span>
 
 <span class="l-orig">(36) Owâbạndạn pạngī a‘tänig winindîp.</span>
 
@@ -347,11 +346,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(42) “Omāⁿ yä‘ta kistigwāning kīgadagāⁿcī’ⁿyᵉ.”</span>
 
-<span class="l-fiero">**“Omaa eta gi-shtigwaaning giga-dagaashiiniy”**</span>
+<span class="l-fiero">**“Omaa eta gi-shtigwaaning gigad-agaashiinyi.”**</span>
 
 <span class="l-eng">*“Only here at your head will you be made small.”*</span>
 
-<span class="l-gloss">“Omaa eta gi-shtigwaaning (only here at your head) giga-dagaashiiniy (you will be made small).”</span>
+<span class="l-gloss">“Omaa eta gi-shtigwaaning (only here at your head) gigad-agaashiinyi (you will be made small).”</span>
 
 <span class="l-orig">(43) Mīdec wāwābiganōdcīyink gī∙i∙ni‘kuguictigwānät.</span>
 
@@ -459,11 +458,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(56) Awiya unūndawān pīpāginit ạnicinābän: “Äᵉē, näcka kuca’, mōⁿs pämādạgät! ‘Aa’ᵘ! mawinạdawātāʷᵉ!”</span>
 
-<span class="l-fiero">**Awiya onoondawaan biipaaginid anishinaaben: “E’ii, nashke gosha, mooz bemaadaged! Aaw! Mawinanaadaa!”**</span>
+<span class="l-fiero">**Awiya onoondawaan biipaaginid anishinaaben: “E’ii, nashke gosha, mooz bemaadaged! Aaw! Mawinadawaadaa*!”**</span>
 
 <span class="l-eng">*Some people he heard calling aloud : “ Hey ! Just look ! a moose is swimming by ! Come on ! Let us go for him !”*</span>
 
-<span class="l-gloss">Awiya onoondawaan (some people he heard) biipaaginid anishinaaben (the people calling out): “E’ii (hey), nashke gosha (just look), mooz bemaadaged (a moose swimming by)! Aaw (come on)! Mawinanaadaa (let us go after him)!”</span>
+<span class="l-gloss">Awiya onoondawaan (some people he heard) biipaaginid anishinaaben (the people calling out): “E’ii (hey), nashke gosha (just look), mooz bemaadaged (a moose swimming by)! Aaw (come on)! Mawinadawaadaa* (let us go after him — *stem flagged*)!”</span>
 
 <span class="l-orig">(57) Mīdạc käᵉgät äjipōziwad ạnicinābäg wīnisāwād mōⁿzōn.</span>
 

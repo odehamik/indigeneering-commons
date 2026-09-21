@@ -2,7 +2,6 @@
 title: "59. Nanabushu Finds Cranberries and Big Cherries"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -51,11 +50,11 @@ Nanabushu finds Cranberries and Big Cherries
 
 <span class="l-orig">(5) “Nō‘komis, naskä kuca owä!</span>
 
-<span class="l-fiero">**“Nookomis, naske gosha owe!**</span>
+<span class="l-fiero">**“Nookomis, nashke gosha owe!**</span>
 
 <span class="l-eng">*“O my grandmother, do look at these!*</span>
 
-<span class="l-gloss">“Nookomis (“my grandmother), naske gosha owe! (just look at this!)</span>
+<span class="l-gloss">“Nookomis (“my grandmother), nashke gosha owe! (just look at this!)</span>
 
 <span class="l-orig">(6) Wägunän owä?” udinān.</span>
 
@@ -99,11 +98,11 @@ Nanabushu finds Cranberries and Big Cherries
 
 <span class="l-orig">(11) Anidātatagi‘kwänit, kägō ubi‘tā‘kuskānạn uskījigunk; mīdec äji∙ạ∙ndōtcipitcigät, mīnạngwana mînạn.</span>
 
-<span class="l-fiero">**Ani-daatagikwenid, gegoo obi-taakoskaanan oshkiizhigong; mii dash ezhi-andoojiibijiged, mii nangwana miinan.**</span>
+<span class="l-fiero">**Ani-daadadagikwenid*, gegoo obi-taakoshkaanan oshkiizhigong; mii dash ezhi-andoojiibijiged, mii nangwana miinan.**</span>
 
 <span class="l-eng">*As he went along with his head lifted up, something touched him on the face ; and as he felt of them, they turned out to be berries.*</span>
 
-<span class="l-gloss">Ani-daatagikwenid (as he went along with head tilted up), gegoo obi-taakoskaanan oshkiizhigong (something brushed against him on the eye/face); mii dash ezhi-andoojiibijiged (and as he felt about for them), mii nangwana miinan (they turned out to be berries).</span>
+<span class="l-gloss">Ani-daadadagikwenid (as he went along with head tilted up — *stem flagged*), gegoo obi-taakoshkaanan oshkiizhigong (something brushed against him on the eye/face); mii dash ezhi-andoojiibijiged (and as he felt about for them), mii nangwana miinan (they turned out to be berries).</span>
 
 <span class="l-orig">(12) Mīdạc äji∙o∙dā‘pinạng, äjiwâbanda∙ā∙t ō‘kumisạn, ināt: “Wägunän owä?” udinān ō‘kumisạn wâbạnda∙ā∙t.</span>
 
@@ -115,11 +114,11 @@ Nanabushu finds Cranberries and Big Cherries
 
 <span class="l-orig">(13) “Ōᵘ, ki‘tci∙ạ∙sisawäminạn,” udinān.</span>
 
-<span class="l-fiero">**“Oow, gichi-asasaweminan,” odinaan.**</span>
+<span class="l-fiero">**“Oow, gichi-asisaweminan,” odinaan.**</span>
 
 <span class="l-eng">*“Why, big cherries,” she said to him.*</span>
 
-<span class="l-gloss">“Oow, gichi-asasaweminan,” odinaan (“why, big cherries,” she said to him).</span>
+<span class="l-gloss">“Oow, gichi-asisaweminan,” odinaan (“why, big cherries,” she said to him).</span>
 
 <span class="l-orig">(14) “Onīcicinōn mīdcigātäg,” udigōn ō‘kumisạn.</span>
 
@@ -131,19 +130,19 @@ Nanabushu finds Cranberries and Big Cherries
 
 <span class="l-orig">(15) “Mī cayīgwa tci∙a∙niandawâbạndạmạn käda∙ī∙ndaiyạng,” udigōn.</span>
 
-<span class="l-fiero">**“Mii zhayiigwa ji-ani-andawaabandaman geda-daayang,” odigoon.**</span>
+<span class="l-fiero">**“Mii zhayiigwa ji-ani-andawaabandaman ged-ayindaayang*,” odigoon.**</span>
 
 <span class="l-eng">*“Soon shall you now look for a place where we are to dwell,” he was told.*</span>
 
-<span class="l-gloss">“Mii zhayiigwa ji-ani-andawaabandaman (“now you shall go and seek out) geda-daayang,” odigoon (where we are to dwell,” he was told).</span>
+<span class="l-gloss">“Mii zhayiigwa ji-ani-andawaabandaman (“now you shall go and seek out) ged-ayindaayang,” odigoon (where we are to dwell,” he was told — *stem flagged*).</span>
 
 <span class="l-orig">(16) Mīdạc kägä‘t Nänabucu kī∙ạ∙nipagitciwanānāt ō‘kumisạn.</span>
 
-<span class="l-fiero">**Mii dash geget Nenaboozhoo gii-ani-pagijiwanaanaad ookomisan.**</span>
+<span class="l-fiero">**Mii dash geget Nenaboozhoo gii-ani-bagijiwanaanaad ookomisan.**</span>
 
 <span class="l-eng">*And then truly did Nanabushu put his grandmother down from off his back.*</span>
 
-<span class="l-gloss">Mii dash geget Nenaboozhoo (and then truly Nanabushu) gii-ani-pagijiwanaanaad ookomisan (let down his pack-burden, his grandmother, from his back).</span>
+<span class="l-gloss">Mii dash geget Nenaboozhoo (and then truly Nanabushu) gii-ani-bagijiwanaanaad ookomisan (let down his pack-burden, his grandmother, from his back).</span>
 
 <span class="l-orig">(17) Mīdạc kī∙u∙cigät Nänabucu mägwä nängawi mini‘kāng, ānindi nībiwa kägō ni‘tāwiging māniwạng.</span>
 
@@ -163,10 +162,10 @@ Nanabushu finds Cranberries and Big Cherries
 
 <span class="l-orig">(19) Mīdạc imạ kā∙a∙ī∙ndāwāt.</span>
 
-<span class="l-fiero">**Mii dash imaa gaa-daawaad.**</span>
+<span class="l-fiero">**Mii dash imaa gaa-ayindaawaad.**</span>
 
 <span class="l-eng">*So there was where they continued.*</span>
 
-<span class="l-gloss">Mii dash imaa gaa-daawaad (so there was where they came to dwell).</span>
+<span class="l-gloss">Mii dash imaa gaa-ayindaawaad (so there was where they came to dwell).</span>
 
 </div>

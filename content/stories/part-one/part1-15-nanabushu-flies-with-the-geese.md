@@ -2,7 +2,6 @@
 title: "15. Nanabushu Flies with the Geese"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,11 +18,11 @@ Nanabush Flies with the Geese
 
 <span class="l-orig">(1) Ningutingigu ạnipạpimusät sāga∙i∙gạn äcimatābīt, a‘pạnägu nī‘kaᵉ manōmini‘käwaᵉ.</span>
 
-<span class="l-fiero">**Ningoding igo ani-babimosed zaaga’igan izhi-madaabiid, apane go nika’ manoominikewa’**</span>
+<span class="l-fiero">**Ningoding igo ani-babimosed zaaga’igan ezhi-madaabiid, apane go nika’ manoominikewa’**</span>
 
 <span class="l-eng">*Now, once while walking along, out upon a lake he came, and everywhere were Geese feeding on rice.*</span>
 
-<span class="l-gloss">Ningoding igo (once, at one time) ani-babimosed (as he was walking along) zaaga’igan (a lake) izhi-madaabiid (he came out into the open toward it), apane go (everywhere, all over) nika’ (geese) manoominikewa’ (were gathering/feeding on rice).</span>
+<span class="l-gloss">Ningoding igo (once, at one time) ani-babimosed (as he was walking along) zaaga’igan (a lake) ezhi-madaabiid (he came out into the open toward it), apane go (everywhere, all over) nika’ (geese) manoominikewa’ (were gathering/feeding on rice).</span>
 
 <span class="l-orig">(2) Kägätsa umisawīnawāᵉ, ānīc äcikạnōnāt: “Ạmbäsạnō,² kīgawītcīwininim,” udināᵉ.</span>
 
@@ -91,27 +90,27 @@ Nanabush Flies with the Geese
 
 <span class="l-orig">(10) “Nänabucu, ānawi kītākạckī∙i∙gō tcipimisäyạn, kāwīnidạc kītāpisindaⁿzī ‘iᵉi’ᵘ kä∙i∙gōyạmbạm.”</span>
 
-<span class="l-fiero">**“Nenaboozhoo, aanawi giga-gashkii’igoo ji-bimiseyan, gaawiin idash gidaa-bizindanzii i’iw ge-igooyambam.”**</span>
+<span class="l-fiero">**“Nenaboozhoo, aanawi gidaa-gashkii’igoo ji-bimiseyan, gaawiin idash gidaa-bizindanzii i’iw ge-igooyambam.”**</span>
 
 <span class="l-eng">*“Nänabushu, it is quite within our power to fix you up so that you can fly, but you would not listen to what would be told you.”*</span>
 
-<span class="l-gloss">“Nenaboozhoo, aanawi (to be sure, even so) giga-gashkii’igoo (you can be fixed up / it can be done for you) ji-bimiseyan (that you may fly), gaawiin idash (but not) gidaa-bizindanzii (you would not listen to / heed) i’iw ge-igooyambam (that which would be told to you).”</span>
+<span class="l-gloss">“Nenaboozhoo, aanawi (to be sure, even so) gidaa-gashkii’igoo (you can be fixed up / it can be done for you) ji-bimiseyan (that you may fly), gaawiin idash (but not) gidaa-bizindanzii (you would not listen to / heed) i’iw ge-igooyambam (that which would be told to you).”</span>
 
 <span class="l-orig">(11) “Ōⁿ, mānū, nicīmisā, ici∙i∙ciyu‘k tcipimisäyān!”</span>
 
-<span class="l-fiero">**“Oonh, maanoo, nishimise, izhi-ishiyok ji-bimiseyaan!”**</span>
+<span class="l-fiero">**“Oonh, maanoo, nishiimisaa, izhi-ishiyok ji-bimiseyaan!”**</span>
 
 <span class="l-eng">*“Do please, my little brothers, fix me up so that I may fly!”*</span>
 
-<span class="l-gloss">“Oonh (oh), maanoo (do please, let it be), nishimise (my little brothers), izhi-ishiyok (do thus for me / fix me up, you all) ji-bimiseyaan (that I may fly)!”</span>
+<span class="l-gloss">“Oonh (oh), maanoo (do please, let it be), nishiimisaa (my little brothers), izhi-ishiyok (do thus for me / fix me up, you all) ji-bimiseyaan (that I may fly)!”</span>
 
 <span class="l-orig">(12) Mīdạc kägä‘t ‘aᵘ ugī∙i∙gōn: “Ayāngwāmisin dac wīn. Ō∙o∙māⁿ ābi‘tawaiya∙ī∙ ạnicinābäg pā‘ta∙ī∙nuwạg.</span>
 
-<span class="l-fiero">**Mii dash geget aw ogii-igoon: “Ayaangwaamizin dash wiin. oo omaa aabitawaiya’ii anishinaabeg baata’iinowag.**</span>
+<span class="l-fiero">**Mii dash geget aw ogii-igoon: “Ayaangwaamizin dash wiin. O’omaa aabitawaiya’ii anishinaabeg baata’iinowag.**</span>
 
 <span class="l-eng">*Whereupon truly he was told: “Take care that you do it! Off here about halfway are many people.*</span>
 
-<span class="l-gloss">Mii dash geget (and so truly) aw ogii-igoon (that one told him): “Ayaangwaamizin dash wiin (do be careful, take care). oo omaa (here about) aabitawaiya’ii (at about halfway) anishinaabeg (people) baata’iinowag (are many, are numerous).</span>
+<span class="l-gloss">Mii dash geget (and so truly) aw ogii-igoon (that one told him): “Ayaangwaamizin dash wiin (do be careful, take care). O’omaa (here about) aabitawaiya’ii (at about halfway) anishinaabeg (people) baata’iinowag (are many, are numerous).</span>
 
 <span class="l-orig">(13) A‘pī imāⁿ ạnitagwicinạnk, kägu inābi‘kän, kigasā‘kwānigunānig. Ayāngwamisin, kägu’ inābi‘kän; mīgu ᵉiᵘ tcibạngicinạn kīcpîn inābiyạn. Mīyä‘tạgu i∙i∙māⁿ äcicāgwänimigōyạn,”¹ udigōᵉ.</span>
 
@@ -217,15 +216,15 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpangicin.”</span>
 
 <span class="l-eng">*“Nänabushu flies in company with his little brothers, with his little brothers. May he fall.   Nänabushu flies in company with his little brothers, with his little brothers. May he fall.   Nänabushu flies in company with his little brothers, with his little brothers. May he fall.”*</span>
 
-<span class="l-gloss">[song, carried verbatim] “Nenaboozhoo owiijisemaa (Nanabushu flies along with them) oshiimisa’ (his little brothers), oshiimisa’ (his little brothers). Da-bangishin (may he fall / he will fall). Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin. Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin.”</span>
+<span class="l-gloss">“Nenaboozhoo owiijisemaa (Nanabushu flies along with them) oshiimisa’ (his little brothers), oshiimisa’ (his little brothers). Da-bangishin (may he fall / he will fall). Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin. Nenaboozhoo owiijisemaa oshiimisa’, oshiimisa’. Da-bangishin.” [song, carried verbatim]</span>
 
 <span class="l-orig">(26) “Taga pina’, ninga∙i∙nāb,” inäntạm.</span>
 
-<span class="l-fiero">**“Daga bina, ninga- inaab,” inendam.**</span>
+<span class="l-fiero">**“Daga bina, ninga-inaab,” inendam.**</span>
 
 <span class="l-eng">*“I say, really, I will take a look,” he thought.*</span>
 
-<span class="l-gloss">“Daga bina (come now, really), ninga- inaab (I will take a look),” inendam (he thought).</span>
+<span class="l-gloss">“Daga bina (come now, really), ninga-inaab (I will take a look),” inendam (he thought).</span>
 
 <span class="l-orig">(27) Äci∙i∙nābit, ‘ā‘tā, ki‘tcōdäna! Ānīn kä∙i∙ni‘tạnk pạnägu kācō‘kānik u‘tawagạn.</span>
 
@@ -253,7 +252,7 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpangicin.”</span>
 
 <span class="l-orig">(30) Mīsa’ kägä‘t kā∙i∙cimīdcinint, ga‘kina mini‘k imā wā‘tä‘tōnit umītcinigō.</span>
 
-<span class="l-fiero">**Mii sa geget gaa-izhi-miijinind, gakina minik imaa waadetoonid omiijinigoo.à**</span>
+<span class="l-fiero">**Mii sa geget gaa-izhi-miijinind, gakina minik imaa waadetoonid omiijinigoo.**</span>
 
 <span class="l-eng">*Whereupon truly was he then eased upon, by every one there in the town was he eased upon.*</span>
 
@@ -277,11 +276,11 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpangicin.”</span>
 
 <span class="l-orig">(33) Kuniginīn, mindimōyäyaᵉ, nīciwa gagīpīngwäwaᵉ.</span>
 
-<span class="l-fiero">**Goniginiin, mindimooyeya’, niishiwag gagiibiingwewa’.**</span>
+<span class="l-fiero">**Goniginiin, mindimooyeya’, niizhiwag gagiibiingwewa’.**</span>
 
 <span class="l-eng">*Lo, (there were) some old women, two that were blind.*</span>
 
-<span class="l-gloss">Goniginiin (lo! behold), mindimooyeya’ (old women), niishiwag (two of them) gagiibiingwewa’ (who were blind).</span>
+<span class="l-gloss">Goniginiin (lo! behold), mindimooyeya’ (old women), niizhiwag (two of them) gagiibiingwewa’ (who were blind).</span>
 
 <span class="l-orig">(34) “Ānti kāmītcinint?” pī∙i∙‘kitunit.</span>
 
@@ -361,11 +360,11 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpangicin.”</span>
 
 <span class="l-orig">(43) Kā∙ạ∙gwāsīt mīdạc ä‘kitut: “Kä∙i∙cini‘kātamowāt ạnicinābäg nicicäⁿyạg — ‘ēⁱ, wīnipīg!’³ tä∙i∙cini‘kātä iᵘ sāga∙i∙gạn.”</span>
 
-<span class="l-fiero">**Gaa agwaasiid mii dash ekidod: “Ge-izhinikaadamowaad anishinaabeg nizhisheyag, Wiinibiig!’ Da-izhinikaade iw zaaga’igan.”**</span>
+<span class="l-fiero">**Gaa agwaasiid mii dash ekidod: “Ge-izhinikaadamowaad anishinaabeg nizhishenyag, Wiinibiig!’ Da-izhinikaade iw zaaga’igan.”**</span>
 
 <span class="l-eng">*When he came out of the water, this then he said: “The name which the people my uncles shall call it – ‘ah, filthy water!’ such shall be the name of the lake.”*</span>
 
-<span class="l-gloss">Gaa agwaasiid (when he came up out of the water) mii dash ekidod (then this he said): “Ge-izhinikaadamowaad (the name they shall give it) anishinaabeg nizhisheyag (the people, my uncles), Wiinibiig (Filthy-Water, dirty water)!’ Da-izhinikaade iw zaaga’igan (such shall be the name of that lake).”</span>
+<span class="l-gloss">Gaa agwaasiid (when he came up out of the water) mii dash ekidod (then this he said): “Ge-izhinikaadamowaad (the name they shall give it) anishinaabeg nizhishenyag (the people, my uncles), Wiinibiig (Filthy-Water, dirty water)!’ Da-izhinikaade iw zaaga’igan (such shall be the name of that lake).”</span>
 
 *Wīnipīg! “filthy water!” — the name of various lakes in the Ojibwa country; Lake Winnipeg is one of them.*
 

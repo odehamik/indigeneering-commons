@@ -2,7 +2,6 @@
 title: "46. The Gnome"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -27,73 +26,63 @@ THE GNOME.
 
 <span class="l-gloss">Jaakaabish omiseyan (the gnome’s elder sister) wiigiwaam odayaani (had a wigwam). Aapijisa agaanzhi’ii aw jaakaabish (very tiny indeed was that gnome — *agaanzhii- stem flagged*). Zha-ii-gwasa mii ningoding (already now, once) zaazaagidode imaasa endaawaad (he would crawl out from where they dwelt — *zaagidode reduplicated, flagged*). Zhigwa mii maamaadatamod (when he then began to cry), a-ii-kwe gaawiinsa ogizhkowe’aasiin (the woman could not hush him — *gizhkowe’- stem flagged*); aapiji geget onaaninawi’igon (very sad indeed was she made by it). “Wegodogwenigizh i’iw (“with what in the world) gaa-onji-giizhkowe’aagobanen?” (could I quiet him?” — *dubitative-preterite, flagged*) inendam (she thought). Mii dash i’iw (and so) mitigwaabiinsan ezhi-ozhi’tawaad (a little bow [and arrow] she made for him).</span>
 
-<span class="l-orig">(2) Kā‘kīci‘tawāt, kägä‘t minwäntạm aᵘ tcạgāpäs iᵉiyōmi‘tigwāpīt. Ạgwatcīngidac mōcag ayā a∙ī∙na∙ä∙nsiwit. Nigutingigu owâbạmān inī‘ᵘ ki‘tciki‘tcigānäciyạn iᵉimāⁿ misi‘kāng, mīdạc iᵉi∙ᵘ änicipimwāt. Nigutingigu äcinisāt īnī‘ᵘ ki‘tciki‘tciganīciyạn. Äcipagitciwäpināt iniyōmi‘tigwābīn äcinawati‘nāt īnī‘ᵘ ki‘tciki‘tcigānäciyạn, kāwīn idạc ugạckināsīn. Mīdạc i’i∙i∙ᵘ äjikạnōnāt umisäyan: “Nimisä‘! pinäci nimicwā!”</span>
+<span class="l-orig">(2) Kā‘kīci‘tawāt, kägä‘t minwäntạm aᵘ tcạgāpäs iᵉiyōmi´tigwāpīt. Ạgwatcīngidac mōcạg ayā a∙ī∙na∙ä∙nsīwit. Nigutingigu owâbạmān īni´ᵘ ki‘tciki‘tcigānäciyạn iᵉimāⁿ mīsi‘kāng, mīdạc iᵉi´ᵘ ānicipimwāt. Nigutingigu äcinisāt īni´ᵘ ki‘tciki‘tcigāniciyạn. Äcipạgitciwäpināt iniyōmi‘tigwābīn äcinawạti’nāt īni’ᵘ ki‘tciki‘tcigānäciyạn, kāwīn idạc ugạckināsīn. Mīdạc iᵉ∙i∙´ᵘ äjikạnōnāt umisäyan: “Nīmisäⁿ! pinäcī nimicwā!”</span>
 
-<span class="l-fiero">**Gaa-giizhi’tawaad, geget minwendam aw jaakaabish i’iw omitigwaabiid. Agwajiing idash moozhag ayaa a-ii-na’enzhiwid. Ningoding igo owaabamaan iniw gichi-gijigaaneshiyan i’imaa misiikaang, mii dash i’iw ani-bimwaad. Ningoding ezhi-nisaad iniw gichi-gijigaaneshiyan. Ezhi-bagijiwebinaad iniw omitigwaabiin ezhi-nawadinaad iniw gichi-gijigaaneshiyan, gaawiin idash ogashkinaasiin. Mii dash i’ii-iw ezhi-ganoonaad omiseyan: “Nimise! binesh nimizhwaa!”**</span>
+<span class="l-fiero">**Gaa-giizhi’tawaad, geget minwendam aw jaakaabish i’iw omitigwaabiid. Agwajiing idash moozhag ayaa a-ii-na’enzhiwid. Ningoding igo owaabamaan iniw gichi-gijigaaneshiyan i’imaa misiikaang, mii dash i’iw ani-izhi-bimwaad. Ningoding ezhi-nisaad iniw gichi-gijigaaneshiyan. Ezhi-bagijiwebinaad iniw omitigwaabiin ezhi-nawadinaad iniw gichi-gijigaaneshiyan, gaawiin idash ogashkinaasiin. Mii dash i’ii-iw ezhi-ganoonaad omiseyan: “Nimisenh! binesh nimizhwaa!”**</span>
 
 <span class="l-eng">*When she had finished them for him, truly glad was the gnome that he now had a bow and arrow. And out of doors was he all the while shooting (with his bow and arrow). Now, once he saw a little chickadee at the place of the fire-wood, whereupon he began shooting at it. By and by he then killed the little chickadee. Dropping that bow of his, he then quickly caught up the little chickadee, but he was unable to carry it. Thereupon he spoke to his elder sister, saying: “O my elder sister! a bird I have hit (with my arrow).”*</span>
 
-<span class="l-gloss">Gaa-giizhi’tawaad (when she had finished them for him), geget minwendam aw jaakaabish (truly glad was the gnome) i’iw omitigwaabiid (that he now had his bow). Agwajiing idash moozhag ayaa (and out of doors he was all the while) a-ii-na’enzhiwid (shooting away — *na’enzh- stem flagged*). Ningoding igo owaabamaan iniw gichi-gijigaaneshiyan (once he saw a little chickadee — *gijigaaneshii ‘chickadee’ flagged*) i’imaa misiikaang (there at the firewood), mii dash i’iw ani-bimwaad (and so he shot at it). Ningoding ezhi-nisaad (presently he killed) iniw gichi-gijigaaneshiyan (the little chickadee). Ezhi-bagijiwebinaad iniw omitigwaabiin (dropping his bow) ezhi-nawadinaad iniw gichi-gijigaaneshiyan (he caught up the little chickadee), gaawiin idash ogashkinaasiin (but he could not carry it). Mii dash i’ii-iw ezhi-ganoonaad omiseyan (and so he spoke to his elder sister): “Nimise! binesh nimizhwaa!” (“O my elder sister! a bird I have hit!”)</span>
+<span class="l-gloss">Gaa-giizhi’tawaad (when she had finished them for him), geget minwendam aw jaakaabish (truly glad was the gnome) i’iw omitigwaabiid (that he now had his bow). Agwajiing idash moozhag ayaa (and out of doors he was all the while) a-ii-na’enzhiwid (shooting away — *na’enzh- stem flagged*). Ningoding igo owaabamaan iniw gichi-gijigaaneshiyan (once he saw a little chickadee — *gijigaaneshii ‘chickadee’ flagged*) i’imaa misiikaang (there at the firewood), mii dash i’iw ani-izhi-bimwaad (and so he shot at it). Ningoding ezhi-nisaad (presently he killed) iniw gichi-gijigaaneshiyan (the little chickadee). Ezhi-bagijiwebinaad iniw omitigwaabiin (dropping his bow) ezhi-nawadinaad iniw gichi-gijigaaneshiyan (he caught up the little chickadee), gaawiin idash ogashkinaasiin (but he could not carry it). Mii dash i’ii-iw ezhi-ganoonaad omiseyan (and so he spoke to his elder sister): “Nimisenh! binesh nimizhwaa!” (“O my elder sister! a bird I have hit!”)</span>
 
-*ki‘tciki‘tcigānäci — “little chickadee” (gichi-gijigaaneshii), the diminutive of the chickadee/bird-name; reduplicated gichi-gichi- printed, stem flagged. binesh / pinäci “bird” here beside pinäciyạn obviative.*
+<span class="l-orig">(3) “Iyāⁿ, kāwīn kitānisāsī!”</span>
 
-<span class="l-orig">(3) “Iyā‘, kāwīn kitānisāsī!”</span>
-
-<span class="l-fiero">**“Iyaa, gaawiin gidaa-nisaasii!”**</span>
+<span class="l-fiero">**“Iyaan, gaawiin gidaa-nisaasii!”**</span>
 
 <span class="l-eng">*“Oh, you could not kill one!”*</span>
 
-<span class="l-gloss">“Iyaa, gaawiin gidaa-nisaasii!” (“oh, you could not kill one!”)</span>
+<span class="l-gloss">“Iyaan, gaawiin gidaa-nisaasii!” (“oh, you could not kill one!”)</span>
 
-<span class="l-orig">(4) “Nạckä kuca pisāga∙a∙n, nimisä‘ kägä‘t kuca ninisā aᵘ pinäci.”</span>
+<span class="l-orig">(4) “Nạckä kuca pisāga∙a∙n, nimisäⁿ kägä‘t kuca ninisā aᵘ pinäci.”</span>
 
-<span class="l-fiero">**“Naashke gosha bi-zaaga’an, nimise; geget gosha ninisaa aw binesh.”**</span>
+<span class="l-fiero">**“Naashke gosha bi-zaaga’an, nimisenh; geget gosha ninisaa aw binesh.”**</span>
 
 <span class="l-eng">*“Then just you come outside, my elder sister. Truly I have killed the bird.”*</span>
 
-<span class="l-gloss">“Naashke gosha bi-zaaga’an (“just come outside), nimise (my elder sister); geget gosha ninisaa aw binesh.” (truly I have killed the bird.”)</span>
+<span class="l-gloss">“Naashke gosha bi-zaaga’an (“just come outside), nimisenh (my elder sister); geget gosha ninisaa aw binesh.” (truly I have killed the bird.”)</span>
 
-<span class="l-orig">(5) Kägä‘t äjisāga∙a∙nk a∙i∙‘kwä, inābit kīcingicinōn īnī‘ pinäciyạn. “Iyā, kägä‘t nangwana!” Mīdạc iniwä ucīmäyạn ni‘tạm tayä∙pipīnāt, äcikạạcki‘tōt utōtcīmān ini∙yōcimäyạn. Kā∙i∙ckwā∙ō∙tcimāt äci∙o∙ta‘pināt īnī‘ᵘ pinäciyạn; änīcipīdiganāt.</span>
+<span class="l-orig">(5) Kägä‘t äjisāga∙ạ∙nk a∙i∙‘kwä, inābit kīcingicinōn īniᵘ pinäcīyạn. “Iyā, kägä‘t nangwạna!” Mīdạc iniwä ucīmäyan ni‘tạm tayäpipināt, äcikạcki‘tōt utōtcīmān ini´yōcimäyạn. Kā∙i∙ckwā∙ō∙tcimāt äci∙o∙tā‘pināt īni´ᵘ pinäciyạn; änīcipīdigạnāt.</span>
 
-<span class="l-fiero">**Geget ezhi-zaaga’ang a-ii-kwe, inaabid giizhingishinon iniw binesh-iyan. “Iyaa, geget nangwana!” Mii dash iniwe oshiimeyan nitam taye-bibinaad, ezhi-gaa’ashki’tod odoojiimaan ini-oshiimeyan. Gaa-ishkwaa-oojiimaad ezhi-odaapinaad iniw binesh-iyan; ani- izhi-biidiganaad.**</span>
+<span class="l-fiero">**Geget ezhi-zaaga’ang a-ii-kwe, inaabid giizhingishinon iniw binesh-iyan. “Iyaa, geget nangwana!” Mii dash iniwe oshiimeyan nitam taye-bibinaad, ezhi-gaa’ashki’tod odoojiimaan ini-oshiimeyan. Gaa-ishkwaa-oojiimaad ezhi-odaapinaad iniw binesh-iyan; ani-izhi-biidiganaad.**</span>
 
 <span class="l-eng">*In truth, when out of doors the woman went, she looked, (and saw) the bird lying there. “Why, it is really true!” And then that little brother of hers took she up first (in her hands), and with all the fervor within her she kissed that little brother of hers. After she was done with kissing him, she took up the little bird; then she fetched it indoors.*</span>
 
 <span class="l-gloss">Geget ezhi-zaaga’ang a-ii-kwe (truly, out of doors the woman went), inaabid giizhingishinon iniw binesh-iyan (when she looked, the bird lay there). “Iyaa, geget nangwana!” (“why, it really is true!”) Mii dash iniwe oshiimeyan nitam taye-bibinaad (and then she took up her little brother first — *taye-bibinaad fervor-stem flagged*), ezhi-gaa’ashki’tod odoojiimaan ini-oshiimeyan (and with all her might she kissed that little brother of hers). Gaa-ishkwaa-oojiimaad (after she was done kissing him) ezhi-odaapinaad iniw binesh-iyan (she took up the little bird); ani-izhi-biidiganaad (then she brought it indoors).</span>
 
-*tayä∙pipïnāt — “took him up [first, fervently],” the doubled-vowel emotive verb, segmentation flagged. utōtcīmān — odoojiimaan “kissed him.”*
+<span class="l-orig">(6) Kā∙u∙nạbiwāt mīdạc iᵉi´ᵘ kīgīgitut aᵉaᵘ tcakāpäs: “Ambäsạnōnā, nimisä, ninga∙u∙papī∙si‘kawāgạninạn! Ānic pa‘kun.” Mīdạc iᵉi´ᵘ äcipa‘kunāt a∙i∙‘kwä. Ạnigāskīgisowạn īni´ᵘ pinäciwạn, äjasä‘kānāt. Kā‘kici∙ā∙t äjikạnōnāt: “Mīsa iᵘ kī‘kīci∙a∙g.”</span>
 
-<span class="l-orig">(6) Kā∙u∙nabiwāt mīdạc iᵉi’ᵘ kīgīgitut aᵃaᵘ tcakāpäs: “Ambäsạnōnā, nimisä, ninga∙u∙papi’si’kawāganinạn! Ānic pa‘kun.” Mīdạc iᵉi’ᵘ äcipa‘kunāt a∙i∙‘kwä. Ạnigäskigisowạn īnī‘ᵘ pinäciwạn, äjasä‘kānāt. Kā‘kici∙ā∙t äjikạnōnāt: “Mīsa iᵘ ki‘kīci∙a∙g.”</span>
-
-<span class="l-fiero">**Gaa-onabiwaad mii dash i’iw gii-giigidod a’aw jaakaabish: “Ambesanoona, nimise, ninga-o-babizikawaaganinan! Aanish bakon.” Mii dash i’iw ezhi-bakonaad a-ii-kwe. Anigeshkigizowan iniw binesh-iwan, ezhi-zhaasekaanaad. Gaa-giizhi’aad ezhi-ganoonaad: “Mii sa iw gii-giizhi’ag.”**</span>
+<span class="l-fiero">**Gaa-onabiwaad mii dash i’iw gii-giigidod a’aw jaakaabish: “Ambesanoona, nimise, ninga-o-babiizikawaaganinan! Aanish bakon.” Mii dash i’iw ezhi-bakonaad a-ii-kwe. Anigaashkiigizowan* iniw binesh-iwan, ezhi-zhaasekaanaad. Gaa-giizhi’aad ezhi-ganoonaad: “Mii sa iw gii-giizhi’ag.”**</span>
 
 <span class="l-eng">*After they were seated, then spoke the gnome, saying: “Please, O my elder sister, let me have a coat made from it! So take off the skin.” Thereupon the woman then skinned it. When the skin was made dry, she tanned it. When she had finished it, she then spoke to him, saying: “Now I have finished it.”*</span>
 
-<span class="l-gloss">Gaa-onabiwaad (after they were seated) mii dash i’iw gii-giigidod a’aw jaakaabish (then the gnome spoke): “Ambesanoona, nimise (“please, my elder sister), ninga-o-babizikawaaganinan! (let me have a coat made of it! — *babiziikaw- ‘wear-as-garment’ stem flagged*) Aanish bakon.” (so take off the skin.”) Mii dash i’iw ezhi-bakonaad a-ii-kwe (and so the woman skinned it). Anigeshkigizowan iniw binesh-iwan (when the bird-skin was dried — *stem flagged*), ezhi-zhaasekaanaad (she tanned it — *zhaasekaa- flagged*). Gaa-giizhi’aad ezhi-ganoonaad (when she had finished it, she spoke to him): “Mii sa iw gii-giizhi’ag.” (“now I have finished it.”)</span>
+<span class="l-gloss">Gaa-onabiwaad (after they were seated) mii dash i’iw gii-giigidod a’aw jaakaabish (then the gnome spoke): “Ambesanoona, nimise (“please, my elder sister), ninga-o-babiizikawaaganinan! (let me have a coat made of it! — *babiziikaw- ‘wear-as-garment’ stem flagged*) Aanish bakon.” (so take off the skin.”) Mii dash i’iw ezhi-bakonaad a-ii-kwe (and so the woman skinned it). Anigaashkiigizowan* iniw binesh-iwan (when the bird-skin was dried — *stem flagged*), ezhi-zhaasekaanaad (she tanned it — *zhaasekaa- flagged*). Gaa-giizhi’aad ezhi-ganoonaad (when she had finished it, she spoke to him): “Mii sa iw gii-giizhi’ag.” (“now I have finished it.”)</span>
 
-*papi′si′kawāgan — “coat / something worn,” the babiziikawaagan garment-noun, drafted; the wear-verb babiziikaw- recurs in §7. äjasä‘kānāt / a‘zä‘kānāt — “she tanned it,” drafted zhaasekaa-, flagged (recurs §16, §22).*
+<span class="l-orig">(7) “Ạgatạga ningagutcipīsi‘kawā.” Tcakāpäs äcipīsi‘kawāt, mīsa iᵉi’ᵘ äcitäbickawāt. Ạmbä, kägätsa minwäntạm. Ogạnōnān omisäⁿyan: “Kägä‘tigunā, nīmisä! nīngagīcōs. Mīsagunāiᵘ kayä nibāyān kä∙ạ∙gwiyān aᵉaᵘ nimpinäcīwayān. Tạga ningagutcisāga∙ạ∙m.” Tcakāpäs äjisāga∙ạ∙nk, mīguca gunā iᵘ äci∙ō∙tābātạnk iᵉiwä wạnạckitīni. “Nimisäⁿ! kāwīn wī‘ka ninga∙ạ∙bisī tci∙ạ∙ntawäntcigäyān i∙i∙wisa kīmi‘tigwapi‘kawiyạn. Ningutingigu ningatibi‘känt. Kägu´ wīn sägisi‘kän tibi‘käntiyān. Mīgu iᵘ ạnimādcāyān, nimisä!”</span>
 
-<span class="l-orig">(7) “Ạgataga ningagutcipisi‘kawā.” Tcakāpäs äcipīsi‘kawāt, mīsa iᵉi∙ᵘ äcitäbickawāt. Ạmbä, kägätsa minwäntạm. Ogạnōnān omisä‘yạn: “Kägä‘tigunā, nīmisä! ningagīcōs. Mīsagunaiᵉ kayä nibāyān kä∙ạ∙gwiyān aᵃaᵘ nimpinäcīwayān. Tạga ningagutcisā∙ga∙a∙m.” Tcakāpäs äjisāga‘ạ‘nk, mīguca gunā iᵘ äci∙ō∙tābātạnk iᵉiwä wạnạckitīni. “Nimisä‘! kāwīn wi‘ka ninga∙a∙bisī tci∙a∙ntawäntcigäyān iᵉi∙ᵘwisa kimi‘tigwapi‘kawiyan. Nigutingigu ningatibi‘känt. Kägu’ win sägisi‘kän tibi‘käntiyān. Mīgu iᵘ animādcāyān, nimisä!”</span>
-
-<span class="l-fiero">**“Agataga ninga-gojibizikawaa.” Jaakaabish ezhi-bizikawaad, mii sa i’iw ezhi-debishkawaad. Ambe, gegetsa minwendam. Oganoonaan omiseyan: “Gegetiguna, niimise! ninga-giizhoozh. Mii sa guna iw gaye nibaayaan ge-agwiyaan a’aw nimbineshiiwayaan. Daga ninga-goji-zaaga’am.” Jaakaabish ezhi-zaaga’ang, mii gosha guna iw ezhi-o-daabaatang i’iwe wanashkidiini. “Nimise! gaawiin wiikaa ninga-abizii ji-andawenjigeyaan i’iwisa gimitigwaabi-gawiyan. Ningoding igo ningad-dibikend. Gego win zegizhiken dibikendiyaan. Mii go iw ani-maajaayaan, nimise!”**</span>
+<span class="l-fiero">**“Agataga ninga-gojibizikawaa.” Jaakaabish ezhi-bizikawaad, mii sa i’iw ezhi-debishkawaad. Ambe, gegetsa minwendam. Oganoonaan omisenyan: “Geget igonaa*, niimise! ninga-giizhoozh. Mii sa gonaa iw gaye nibaayaan ge-agwiyaan a’aw nimbineshiiwayaan. Daga ninga-goji-zaaga’am.” Jaakaabish ezhi-zaaga’ang, mii gosha gonaa iw ezhi-o-daabaatang i’iwe wanashkidiini. “Nimisenh! gaawiin wiikaa ninga-abizii ji-andawenjigeyaan i’iwisa gimitigwaabi-gawiyan. Ningoding igo ningad-dibikend. Gego win zegizhiken dibikendiyaan. Mii go iw ani-maajaayaan, nimise!”**</span>
 
 <span class="l-eng">*“Oh, let me try it on!” The gnome then put it on, whereupon it fitted him. Ah, truly happy he was. He spoke to his elder sister, saying: “Truly now, O my elder sister! I shall be warm. And besides, when I sleep, I shall use my bird-skin for a covering. Now, let me try going forth out of doors to see (how I shall look).” When the gnome went outside, why, he was just trailing his (coat-) tail. “O my elder sister! never shall I be at home, for I shall be away on the hunt, now that you have made me a bow and arrow. And sometimes I shall be away over night. Never be alarmed when I am gone for the night. Therefore now do I set out upon my way, O my elder sister!”*</span>
 
-<span class="l-gloss">“Agataga ninga-gojibizikawaa.” (“let me try putting it on.”) Jaakaabish ezhi-bizikawaad (the gnome put it on), mii sa i’iw ezhi-debishkawaad (and it fitted him). Ambe, gegetsa minwendam (ah, truly happy was he). Oganoonaan omiseyan (he spoke to his elder sister): “Gegetiguna, niimise! ninga-giizhoozh (“truly now, my elder sister, I shall be warm). Mii sa guna iw gaye nibaayaan (and so too when I sleep) ge-agwiyaan a’aw nimbineshiiwayaan (I shall cover myself with my bird-skin — *agw- ‘use as cover’ flagged*). Daga ninga-goji-zaaga’am.” (now let me try going out.”) Jaakaabish ezhi-zaaga’ang (the gnome went outside), mii gosha guna iw ezhi-o-daabaatang i’iwe wanashkidiini (and he was just trailing his tail — *daabaa-/wanashkid ‘tail’ flagged*). “Nimise! gaawiin wiikaa ninga-abizii (“my elder sister! never shall I be at home) ji-andawenjigeyaan (for I shall be off hunting) i’iwisa gimitigwaabi-gawiyan (now that you have made me a bow). Ningoding igo ningad-dibikend (and sometimes I shall be out overnight; *gad- future liaison*). Gego win zegizhiken dibikendiyaan (never be alarmed when I am gone for the night). Mii go iw ani-maajaayaan, nimise!” (so now I set out, my elder sister!”)</span>
+<span class="l-gloss">“Agataga ninga-gojibizikawaa.” (“let me try putting it on.”) Jaakaabish ezhi-bizikawaad (the gnome put it on), mii sa i’iw ezhi-debishkawaad (and it fitted him). Ambe, gegetsa minwendam (ah, truly happy was he). Oganoonaan omiseyan (he spoke to his elder sister): “Geget igonaa*, niimise! ninga-giizhoozh (“truly now, my elder sister, I shall be warm). Mii sa gonaa iw gaye nibaayaan (and so too when I sleep) ge-agwiyaan a’aw nimbineshiiwayaan (I shall cover myself with my bird-skin — *agw- ‘use as cover’ flagged*). Daga ninga-goji-zaaga’am.” (now let me try going out.”) Jaakaabish ezhi-zaaga’ang (the gnome went outside), mii gosha gonaa iw ezhi-o-daabaatang i’iwe wanashkidiini (and he was just trailing his tail — *daabaa-/wanashkid ‘tail’ flagged*). “Nimisenh! gaawiin wiikaa ninga-abizii (“my elder sister! never shall I be at home) ji-andawenjigeyaan (for I shall be off hunting) i’iwisa gimitigwaabi-gawiyan (now that you have made me a bow). Ningoding igo ningad-dibikend (and sometimes I shall be out overnight; *gad- future liaison*). Gego win zegizhiken dibikendiyaan (never be alarmed when I am gone for the night). Mii go iw ani-maajaayaan, nimise!” (so now I set out, my elder sister!”)</span>
 
-*wạnạckitīni — “his (coat-)tail,” the trailing-tail noun, drafted wanashkid-, flagged. ningatibi‘känt — ‘I will be out overnight,’ future -d- liaison hyphenated.*
+<span class="l-orig">(8) Äni∙i∙jimādcāt, ningutingigu ugīwâbandān sāga∙i∙gāns, kägō owâbạndān imāsa wäntcika‘kitciwạninig iᵉi´ᵘ sībi. Kuniginīn, udạnināsi‘kān. “Awīya māwin ayātug umāⁿ,” inändạm. “Tạga ningabīgubitōn.” Mīsa kägä‘t ōgīwâbạndān pipigwäyānig; mīgu iᵉi´ᵘ äcikikicitänig. “Kägä‘t māwin awiya kīwujimōwạg.” Mīdạc iᵉi´ᵘ änīcimādcāt iwiti sībink. Ningutingigu pạpā∙i∙nābit ogīwâbạmān awiya sāgi‘kwäkumunit, mīsa cigwa umi‘tigwābīn kā∙i∙kwạtäwāt. Äcikāgima∙ā∙t, mīsa iᵉi´ᵘ äjipi´mwāt. Misa gägä‘t äjinisāt. Tā, gägä‘t minwändạm äci∙ạ∙gwācimāt. Änīcimādcāt, mīdạcigunā imāⁿ äji∙u∙ndci‘kạnāt. Mīdạc i∙i∙ᵘ äjikīwät, änitätäbābạndạnk ändāwāt, änigīgitut: “Nimisä, awīya ningīnisā!”</span>
 
-<span class="l-orig">(8) Āni∙i∙jimādcāt, ningutingigu ugīwâbandān sāga∙i∙gāns, kägō owâbandān imāsa wäntcika‘kitciwaninig iᵘ sībi. Kuniginīn, udani∙nāsi‘kān. “Awīya māwin ayātug umāⁿ,” inändam. “Tạga ningabīgubitōn.” Mīsa kägä‘t ōgīwâbandān pipīgwäyänig; mīgu iᵉi∙ᵘ äcikicitänig. “Kägä‘t māwin awiya kiwujimōwạg.” Mīdạc iᵉi∙ᵘ änicimadcat iwiti sībink. Ningutingigu papā∙i∙nābit ogīwâbamān awiya sāgi‘kwäkumunit, mīsa cigwa umi‘tigwābīn kā∙i∙kwạtäwāt. Äcikāgima∙ā∙t, mīsa iᵉi∙ᵘ äjipi‘mwāt. Mīsa gägä‘t äjinisāt. Tā, gägä‘t minwändạm äci∙ạ∙gwācimāt. Änīcimādcāt, mīdạcigunā imāⁿ äji∙u∙ndci‘kanāt. Mīdạc i∙i∙ᵘ äjikiwät, änitätäbābạndank ändāwāt, änigigitut: “Nimisä, awīya ningīnisā!”</span>
-
-<span class="l-fiero">**Ani-izhi-maajaad, ningoding igo ogii-waabandaan zaaga’igaans, gego owaabandaan imaasa wenji-gakidjiwaninig iw ziibi. Goniginiin, odani-naazikaan. “Awiya maawiin ayaatog omaa,” inendam. “Daga ningabiigobidoon.” Mii sa geget ogii-waabandaan bibigweyenig; mii go i’iw ezhi-giizhitenig. “Geget maawiin awiya giiwojimowag.” Mii dash i’iw ani-izhi-maajaad iwidi ziibiing. Ningoding igo babaa-inaabid ogii-waabamaan awiya zaagi’kwekomonid, mii sa zhigwa omitigwaabiin gaa-izhi-gwadewaad. Ezhi-gaagima’aad, mii sa i’iw ezhi-bimwaad. Mii sa geget ezhi-nisaad. Taa, geget minwendam ezhi-agwaajimaad. Ani-izhi-maajaad, mii dash guna imaa ezhi-onjikanaad. Mii dash i’iw ezhi-giiwed, ani-de-debaabandang endaawaad, ani-giigidod: “Nimise, awiya ningii-nisaa!”**</span>
+<span class="l-fiero">**Ani-izhi-maajaad, ningoding igo ogii-waabandaan zaaga’igaans, gego owaabandaan imaasa wenji-gakidjiwaninig iw ziibi. Goniginiin, odani-naazikaan. “Awiya maawiin ayaatog omaa,” inendam. “Daga ningabiigobidoon.” Mii sa geget ogii-waabandaan bibigweyaanig; mii go i’iw ezhi-gi-giizhitenig*. “Geget maawiin awiya giiwojimowag.” Mii dash i’iw ani-izhi-maajaad iwidi ziibiing. Ningoding igo babaa-inaabid ogii-waabamaan awiya zaagi’kwekomonid, mii sa zhigwa omitigwaabiin gaa-izhi-gwadewaad. Ezhi-gaagima’aad, mii sa i’iw ezhi-bimwaad. Mii sa geget ezhi-nisaad. Taa, geget minwendam ezhi-agwaajimaad. Ani-izhi-maajaad, mii dash igonaa imaa ezhi-onjikanaad. Mii dash i’iw ezhi-giiwed, ani-de-debaabandang endaawaad, ani-giigidod: “Nimise, awiya ningii-nisaa!”**</span>
 
 <span class="l-eng">*As on his way he was going, by and by he saw a small lake, something he saw at the top of the falls of the river. Lo, up to it he went. “Something, no doubt, must be here,” he fancied. “Now, I will crush it.” Whereupon truly he saw something that was hollow; even yet was it warm. “Verily, perhaps the creatures have fled.” And then he set out along the course of the river. And once, while looking about here and there, he saw something sticking its head out of the water, whereupon he then strung his bow. Creeping up to it, he then shot at it. It was true that he killed it. Ah, truly happy was he when he took the creature out of the water. Then away he started, for there at the place was where he left it. And so back home he went; while coming along in sight of their home, he kept on saying: “O my elder sister! something have I killed!”*</span>
 
-<span class="l-gloss">Ani-izhi-maajaad (as he went on his way), ningoding igo ogii-waabandaan zaaga’igaans (once he saw a small lake), gego owaabandaan imaasa wenji-gakidjiwaninig iw ziibi (something he saw at the top of the river’s falls — *gakijiwan ‘falls’ flagged*). Goniginiin, odani-naazikaan (lo, he went up to it). “Awiya maawiin ayaatog omaa,” inendam (“something must surely be here,” he thought). “Daga ningabiigobidoon.” (“now I will crush/break it.” — *biigobid- flagged*) Mii sa geget ogii-waabandaan bibigweyenig (and truly he saw it was hollow — *bibigwe- flagged*); mii go i’iw ezhi-giizhitenig (and it was even yet warm). “Geget maawiin awiya giiwojimowag.” (“surely the creatures have fled.”) Mii dash i’iw ani-izhi-maajaad iwidi ziibiing (and so he set out along the river). Ningoding igo babaa-inaabid (once, looking about here and there) ogii-waabamaan awiya zaagi’kwekomonid (he saw something with its head out of the water — *zaagi’kwekom- the head-out verb, cf. #70 §1*), mii sa zhigwa omitigwaabiin gaa-izhi-gwadewaad (and so he then strung his bow). Ezhi-gaagima’aad (creeping up to it — *gaagima’- flagged*), mii sa i’iw ezhi-bimwaad (he shot at it). Mii sa geget ezhi-nisaad (truly he killed it). Taa, geget minwendam (ah, truly glad was he) ezhi-agwaajimaad (when he took the creature out of the water — *agwaajim- flagged*). Ani-izhi-maajaad (then he started off), mii dash guna imaa ezhi-onjikanaad (for there was where he left it). Mii dash i’iw ezhi-giiwed (and so he went home), ani-de-debaabandang endaawaad (coming in sight of their home), ani-giigidod (he kept saying): “Nimise, awiya ningii-nisaa!” (“my elder sister, I have killed something!”)</span>
+<span class="l-gloss">Ani-izhi-maajaad (as he went on his way), ningoding igo ogii-waabandaan zaaga’igaans (once he saw a small lake), gego owaabandaan imaasa wenji-gakidjiwaninig iw ziibi (something he saw at the top of the river’s falls — *gakijiwan ‘falls’ flagged*). Goniginiin, odani-naazikaan (lo, he went up to it). “Awiya maawiin ayaatog omaa,” inendam (“something must surely be here,” he thought). “Daga ningabiigobidoon.” (“now I will crush/break it.” — *biigobid- flagged*) Mii sa geget ogii-waabandaan bibigweyaanig (and truly he saw it was hollow — *bibigwe- flagged*); mii go i’iw ezhi-gi-giizhitenig* (and it was even yet warm). “Geget maawiin awiya giiwojimowag.” (“surely the creatures have fled.”) Mii dash i’iw ani-izhi-maajaad iwidi ziibiing (and so he set out along the river). Ningoding igo babaa-inaabid (once, looking about here and there) ogii-waabamaan awiya zaagi’kwekomonid (he saw something with its head out of the water — *zaagi’kwekom- the head-out verb, cf. #70 §1*), mii sa zhigwa omitigwaabiin gaa-izhi-gwadewaad (and so he then strung his bow). Ezhi-gaagima’aad (creeping up to it — *gaagima’- flagged*), mii sa i’iw ezhi-bimwaad (he shot at it). Mii sa geget ezhi-nisaad (truly he killed it). Taa, geget minwendam (ah, truly glad was he) ezhi-agwaajimaad (when he took the creature out of the water — *agwaajim- flagged*). Ani-izhi-maajaad (then he started off), mii dash igonaa imaa ezhi-onjikanaad (for there was where he left it). Mii dash i’iw ezhi-giiwed (and so he went home), ani-de-debaabandang endaawaad (coming in sight of their home), ani-giigidod (he kept saying): “Nimise, awiya ningii-nisaa!” (“my elder sister, I have killed something!”)</span>
 
-*sāgi‘kwäkumunit — the “sticking its head out of the water” verb (zaagi’kwekom-), the same head-out family as #70 §1/§13 (sāgi‘kwäkumu); meaning Jones-witnessed, stem flagged. wäntcika‘kitciwaninig — “at the falls of the river,” gakijiwan ‘rapids/falls,’ drafted, flagged.*
-
-<span class="l-orig">(9) Äjisāga∙a∙nk a∙i∙‘kwä, pīdāsạmusäwạn; kāwīn gägō owâbandamawāsin īnī‘ᵘ ucīmäyạn. “Wägunändạc nā iᵉi∙ᵘ kāni‘tōyạn?”</span>
+<span class="l-orig">(9) Äjisāga∙ạ∙nk a∙i∙‘kwä, pīdāsạmusäwạn; kāwīn gägō owâbạndamawāsin īni´ᵘ ucīmäyạn. “Wägunändạc nā iᵉi´ᵘ kāni‘tōyạn?”</span>
 
 <span class="l-fiero">**Ezhi-zaaga’ang a-ii-kwe, biidaasamosewan; gaawiin gego owaabandamawaasiin iniw oshiimeyan. “Wegonen idash na i’iw gaa-ni’toyan?”**</span>
 
@@ -101,7 +90,7 @@ THE GNOME.
 
 <span class="l-gloss">Ezhi-zaaga’ang a-ii-kwe (when the woman went outside), biidaasamosewan (he came walking toward her); gaawiin gego owaabandamawaasiin iniw oshiimeyan (but she saw nothing on her little brother). “Wegonen idash na i’iw gaa-ni’toyan?” (“what is it now that you have killed?”)</span>
 
-<span class="l-orig">(10) Tcakābäsidạc ogạnōnān iniyōmisäyạn: “Kägä‘tigu awīya ninginisā. Tạga icân migu iᵉi∙ᵘ pa∙u∙ntcikawäyān, päcudạc mi∙i∙mā sāga∙i∙gạn ändagu‘k. Mīdạc päcu imāⁿ tciwâbamat aᵃawä kānisạg.”</span>
+<span class="l-orig">(10) Tcakābäsidạc ogạnōnān īniyōmisäyạn: “Kägä‘tigu awīya ningīnisā. Tạga icān migu iᵉi’ᵘ pa∙u∙ntcikawäyān, päcudạc mī∙i∙mā sāga∙i∙gạn ändagu‘k. Mīdạc päcu imāⁿ tciwâbạmạt aᵉawä kānisạg.”</span>
 
 <span class="l-fiero">**Jaakaabish idash oganoonaan ini-omiseyan: “Gegetigo awiya ningii-nisaa. Daga izhaan migo i’iw bi-onjikaweyaan, besho dash mii imaa zaaga’igan endagok. Mii dash besho imaa ji-waabamad a’awe gaa-nisag.”**</span>
 
@@ -109,7 +98,7 @@ THE GNOME.
 
 <span class="l-gloss">Jaakaabish idash oganoonaan ini-omiseyan (and the gnome spoke to his elder sister): “Gegetigo awiya ningii-nisaa (“truly I have killed something). Daga izhaan migo i’iw bi-onjikaweyaan (go along the path I came by), besho dash mii imaa zaaga’igan endagok (and not far off there is a lake). Mii dash besho imaa ji-waabamad a’awe gaa-nisag.” (it is near there you will see the one I killed.”)</span>
 
-<span class="l-orig">(11) Kägä‘t äjipīndigät a∙i∙‘kwä utabi‘kạn äji∙o∙dā‘pinạng. Änicisāga∙a∙nk, änicimadcāt. Kumāgu a‘pi tägwicink, kägä‘t ugiwâbandān sāga∙i∙gan; ogīwâbamān abinit ami‘kōnsạn. Kägä‘t minwäntạm. Mīdạc iᵉi∙ᵘ änīcigiwät. Abā‘pic kā‘tạgwicing iᵉi∙māsa ändāwāt ugạnōnān ucīmäyạn: “Kägä‘t ingwana, nicīmä, kigīnisā.”</span>
+<span class="l-orig">(11) Kägä‘t äjipīndigät a∙i∙‘kwä utạbi‘kạn äji∙o∙dā‘pinạng. Änicisāga∙a∙nk, änicimādcāt. Kumāgu a‘pī tägwicink, kägä‘t ugiwâbạndān sāga∙i∙gạn; ogīwâbạmān ạbinit ami‘kōnsạn. Kägä‘t minwäntạm. Mīdạc iᵉi´ᵘ änīcigīwät. Abā‘pic kā‘tạgwicing iᵉi māsa ändāwāt ugạnōnān ucīmäyạn: “Kägä‘t ingwạna, nicīmä, kigīnisā.”</span>
 
 <span class="l-fiero">**Geget ezhi-biindiged a-ii-kwe odabikan ezhi-odaapinang. Ani-izhi-zaaga’ang, ani-izhi-maajaad. Gomaa go apii dagwishing, geget ogii-waabandaan zaaga’igan; ogii-waabamaan abinid amikoonsan. Geget minwendam. Mii dash i’iw ani-izhi-giiwed. Abaapizh gaa-dagwishing i’iimaasa endaawaad oganoonaan oshiimeyan: “Geget ingwana, nishiime, gigii-nisaa.”**</span>
 
@@ -117,25 +106,23 @@ THE GNOME.
 
 <span class="l-gloss">Geget ezhi-biindiged a-ii-kwe (truly the woman went inside) odabikan ezhi-odaapinang (and got her tump-line — *odaabaan/dabikan flagged*). Ani-izhi-zaaga’ang, ani-izhi-maajaad (out of doors she went, and set off). Gomaa go apii dagwishing (when she had come some distance), geget ogii-waabandaan zaaga’igan (sure enough she saw a lake); ogii-waabamaan abinid amikoonsan (she saw a little beaver lying there). Geget minwendam (truly pleased was she). Mii dash i’iw ani-izhi-giiwed (and so she went back home). Abaapizh gaa-dagwishing i’iimaasa endaawaad (when she got back to where they lived) oganoonaan oshiimeyan (she spoke to her little brother): “Geget ingwana, nishiime, gigii-nisaa.” (“in good sooth, my little brother, you killed something.”)</span>
 
-*utabi‘kạn — “her tump-line / pack-strap,” drafted, flagged. abinit ami‘kōnsạn — “a little beaver lying there” (amikoons, dim. of amik).*
+<span class="l-orig">(12) Mīdạc iᵉi´ᵘ äjigīgitut tcạgāpäs: “Tạga pa‘kun! Ninga∙u∙‘kunāsinạn. Mī∙i∙´ᵘ iji∙a∙sä‘kāc.” Kägä‘t a∙i∙‘kwä äji∙a∙zä‘kānāt. Ạbā‘pic kā‘kīci∙ā∙t äjikạnōnāt: “Mīsa iᵘ kī‘kīci∙a∙g.”</span>
 
-<span class="l-orig">(12) Mīdạc iᵉi’ᵘ äjigigitut tcagāpäs: “Tạga pa‘kun! Ninga∙u∙‘kunāsinạn. Mī∙i∙‘ iji∙a∙sä‘kāc.”</span>
+<span class="l-fiero">**Mii dash i’iw ezhi-giigidod jaakaabish: “Daga bakon! Ninga-o-gonaasinan. Mii i’iw izhi-zhaasekaazh.” Geget a-ii-kwe ezhi-ani-zhaasekaanaad. Abaapizh gaa-giizhi’aad ezhi-ganoonaad: “Mii sa iw gii-giizhi’ag.”**</span>
 
-<span class="l-fiero">**Mii dash i’iw ezhi-giigidod jaakaabish: “Daga bakon! Ninga-o-gonaasinan. Mii i’i izhi-zhaasekaazh.”**</span>
+<span class="l-eng">*Thereupon then spoke the gnome, saying: “Please remove the skin! Let me have it for a robe. And then do you tan it.” Of a truth, the woman then tanned the skin. When she had finished it, she then spoke to him, saying: “Therefore now I have finished it.”*</span>
 
-<span class="l-eng">*Thereupon then spoke the gnome, saying: “Please remove the skin! Let me have it for a robe. And then do you tan it.”*</span>
+<span class="l-gloss">Mii dash i’iw ezhi-giigidod jaakaabish (and so the gnome spoke): “Daga bakon! (“please skin it!) Ninga-o-gonaasinan (let me have it for a robe — *gonaas ‘robe’*). Mii i’iw izhi-zhaasekaazh.” (and then tan it.” — *zhaasekaa- flagged*) Geget a-ii-kwe ezhi-ani-zhaasekaanaad (of a truth the woman then tanned it — *ani- preverb flagged*) Abaapizh gaa-giizhi’aad ezhi-ganoonaad (when she had finished it, she spoke to him): “Mii sa iw gii-giizhi’ag.” (“therefore now I have finished it.”)</span>
 
-<span class="l-gloss">Mii dash i’iw ezhi-giigidod jaakaabish (and so the gnome spoke): “Daga bakon! (“please skin it!) Ninga-o-gonaasinan (let me have it for a robe — *gonaas ‘robe’*). Mii i’i izhi-zhaasekaazh.” (and then tan it.” — *zhaasekaa- flagged*)</span>
+<span class="l-orig">(13) Kägä‘tsa minwäntạm tcạkāpäs. “Nimisäⁿ! kāwīn wī‘ka ningagīkạtcisī.”</span>
 
-<span class="l-orig">(13) Kägä‘tsa minwäntạm tcakāpäs. “Nimisä‘! kāwīn wi‘ka ningagīkạtcisī.”</span>
-
-<span class="l-fiero">**Gegetsa minwendam jaakaabish. “Nimise! gaawiin wiikaa ninga-giikajisii.”**</span>
+<span class="l-fiero">**Gegetsa minwendam jaakaabish. “Nimisenh! gaawiin wiikaa ninga-giikajisii.”**</span>
 
 <span class="l-eng">*To be sure, happy was the gnome. “O my elder sister! never shall I be cold.”*</span>
 
-<span class="l-gloss">Gegetsa minwendam jaakaabish (to be sure, happy was the gnome). “Nimise! gaawiin wiikaa ninga-giikajisii.” (“my elder sister! never shall I be cold.”)</span>
+<span class="l-gloss">Gegetsa minwendam jaakaabish (to be sure, happy was the gnome). “Nimisenh! gaawiin wiikaa ninga-giikajisii.” (“my elder sister! never shall I be cold.”)</span>
 
-<span class="l-orig">(14) Ningutingigu wändci∙u∙ci‘tāwạn īnī‘ᵘ ucīmäyạn äjikạnōnat: “Ānin, nicīmä, wā∙i∙nanō‘kiyạn?”</span>
+<span class="l-orig">(14) Ningutingigu wändci∙u∙cī‘tāwạn īni´ᵘ ucīmäyạn äjikạnōnàt: “Ānīn, nicīmä, wā∙i∙nạnō‘kīyạn?”</span>
 
 <span class="l-fiero">**Ningoding igo wenji-ozhi’taawan iniw oshiimeyan ezhi-ganoonaad: “Aaniin, nishiime, waa-inanokiiyan?”**</span>
 
@@ -143,7 +130,7 @@ THE GNOME.
 
 <span class="l-gloss">Ningoding igo wenji-ozhi’taawan iniw oshiimeyan (and once, when her little brother was making ready) ezhi-ganoonaad (she spoke to him): “Aaniin, nishiime, waa-inanokiiyan?” (“what, my little brother, do you intend to busy yourself with?”)</span>
 
-<span class="l-orig">(15) “Kā, niwi‘ki∙i∙gucim.”</span>
+<span class="l-orig">(15) “Kā, nīwī‘kī∙i∙gucim.”</span>
 
 <span class="l-fiero">**“Gaa, niwii-gii’igoshim.”**</span>
 
@@ -151,7 +138,7 @@ THE GNOME.
 
 <span class="l-gloss">“Gaa, niwii-gii’igoshim.” (“oh, nothing — I am going to fast.” — *gii’igoshim- ‘fast for a vision’*)</span>
 
-<span class="l-orig">(16) “Ānīn tạc win mạmwätc ningutci witacigi∙u∙gucimoyạn?”</span>
+<span class="l-orig">(16) “Ānīn tạc wīn māmwätc ningutci witacigī∙u∙gucimoyạn?”</span>
 
 <span class="l-fiero">**“Aaniin dash win mamwech ningoji wii-dazhi-gii’igoshimoyan?”**</span>
 
@@ -159,17 +146,15 @@ THE GNOME.
 
 <span class="l-gloss">“Aaniin dash win mamwech (“why must it be) ningoji wii-dazhi-gii’igoshimoyan?” (that you go off somewhere to fast?” — *mamwech particle flagged*)</span>
 
-<span class="l-orig">(17) “Äyeᵉ, untcitạgu ningutci niwitacigi∙u∙gucim; niwi‘kạgwämitāsuguni. Kägu pi∙i∙ci‘kän. Mīsa iᵉi∙ᵘ cigwa tci∙a∙nimādcāyān.” Cigwadạc äni∙i∙cimādcāt, utunābandān tciza‘kātänig. Cigwa owâbandān ningudci za‘kā‘tänig. Cigwadạc äci∙a∙bawat īnī‘ᵘ utami‘kwayanan, äcitatipä∙i∙gicink; mīsa iᵉi∙ᵘ äjinibāt.</span>
+<span class="l-orig">(17) “Äyeᵉ, untcitạgu ningutci niwītacigī∙u∙gucim; nīwī‘kạgwämitāsugunī. Kägu pī∙i∙ci‘kän. Mīsa iᵉi´ᵘ cigwa tci∙ạ∙nimādcāyān.” Cigwadạc äni∙i∙cimādcāt, utunābạndān tciza‘kātänig. Cigwa owâbạndān ningudci za‘kā‘tänig. Cigwadạc äci∙ā∙bawāt īni´ᵘ utami‘kwayānạn, äcitatipä∙i∙gicink; mīsa iᵉi´ᵘ äjinibät.</span>
 
-<span class="l-fiero">**“Aye, onjida go ningoji niwii-dazhi-gii’igoshim; niwii-gagwe-midaaso-goni. Gego bi-izhiken. Mii sa i’iw zhigwa ji-ani-maajaayaan.” Zhigwa dash ani-izhi-maajaad, odaanaabandaan ji-zaakaatenig. Zhigwa owaabandaan ningoji zaakaatenig. Zhigwa dash ezhi-aabawad iniw odamikwayanan, ezhi-dadibe’igishing; mii sa i’iw ezhi-nibaad.**</span>
+<span class="l-fiero">**“Eye’, onjida go ningoji niwii-dazhi-gii’igoshim; niwii-gagwe-midaaso-goni. Gego bi-izhiken. Mii sa i’iw zhigwa ji-ani-maajaayaan.” Zhigwa dash ani-izhi-maajaad, odaanaabandaan ji-zaakaatenig. Zhigwa owaabandaan ningoji zaakaatenig. Zhigwa dash ezhi-aabawad iniw odamikwayanan, ezhi-dadibe’igishing; mii sa i’iw ezhi-nibaad.**</span>
 
 <span class="l-eng">*“Why, for a purpose do I wish to go somewhere to fast; I wish to see if I can (stand fasting) for ten days. Don’t wait for me. It is now time that I was on my way.” And while on his way, he sought for a place that was sunny. In a while he saw a place that was sunny. And when he untied his beaver robe, he then rolled himself up in it (and) lay down; whereupon he then went to sleep.*</span>
 
-<span class="l-gloss">“Aye, onjida go ningoji niwii-dazhi-gii’igoshim (“yes, for a purpose I wish to go somewhere to fast); niwii-gagwe-midaaso-goni (I wish to try ten days). Gego bi-izhiken (don’t wait for me). Mii sa i’iw zhigwa ji-ani-maajaayaan.” (it is time now that I be on my way.”) Zhigwa dash ani-izhi-maajaad (and as he went on his way), odaanaabandaan ji-zaakaatenig (he sought a sunny place — *zaakaate- ‘be sunny’*). Zhigwa owaabandaan ningoji zaakaatenig (in a while he saw a sunny spot). Zhigwa dash ezhi-aabawad iniw odamikwayanan (and when he untied his beaver robe), ezhi-dadibe’igishing (he rolled himself up in it — *dadibe’igishin flagged*); mii sa i’iw ezhi-nibaad (and so he went to sleep).</span>
+<span class="l-gloss">“Eye’, onjida go ningoji niwii-dazhi-gii’igoshim (“yes, for a purpose I wish to go somewhere to fast); niwii-gagwe-midaaso-goni (I wish to try ten days). Gego bi-izhiken (don’t wait for me). Mii sa i’iw zhigwa ji-ani-maajaayaan.” (it is time now that I be on my way.”) Zhigwa dash ani-izhi-maajaad (and as he went on his way), odaanaabandaan ji-zaakaatenig (he sought a sunny place — *zaakaate- ‘be sunny’*). Zhigwa owaabandaan ningoji zaakaatenig (in a while he saw a sunny spot). Zhigwa dash ezhi-aabawad iniw odamikwayanan (and when he untied his beaver robe), ezhi-dadibe’igishing (he rolled himself up in it — *dadibe’igishin flagged*); mii sa i’iw ezhi-nibaad (and so he went to sleep).</span>
 
-*niwi‘kạgwämitāsuguni — “I will try [for] ten days,” gagwe-midaaso-goni; the ‘ten’ count + try-verb, drafted.*
-
-<span class="l-orig">(18) Ningutingigu wa∙awidac gīsis ogīwâbamān cingicininit. “Ambäsạnō, wâwiyac ningatō∙a∙twa aᵃaᵘ tcakābäs. Tạga, ningagagwä∙wutcipusumān īnī‘ o‘kunāsạn.” Kägä‘t aᵘ gīsis äciganawâbamāt, ki‘tci∙ä∙nigu‘k uganawâbaman; nōmagigu känawâbamāt mī∙i∙ᵘ cigwa äji∙u∙tcipōsunit iniyō‘kunāsạn aᵃaᵘ tcạkāpäs.</span>
+<span class="l-orig">(18) Ningutingigu waᵉawidạc gīsis ogīwâbạmān cingicininit. “Ạmbäsạnō, wāwiyạc ningatōatwā aᵉaᵘ tcakābäs. Tạga, ningạgagwäwutcipusumān īni´ᵘ o‘kunāsạn.” Kägä‘t aᵘ gīsis äcigạnawâbamāt, ki‘tci∙ä∙nigu‘k uganawâbạmān; nōmạgigu känawâbạmāt mī∙i∙ᵘ cigwa äji∙u∙tcipōsunit iniyō‘kunāsạn aᵉa´ᵘ tcạkāpäs.</span>
 
 <span class="l-fiero">**Ningoding igo wa-awi dash giizis ogii-waabamaan zhingishininid. “Ambesanoo, waawiyazh ninga-doodawaa a’aw jaakaabish. Daga, ninga-gagwe-ojibizomaan iniw ogonaasan.” Geget aw giizis ezhi-ganawaabamaad, gichi-enigok oganawaabamaan; noomag igo genawaabamaad mii i’iw zhigwa ezhi-ojibozonid ini-ogonaasan a’aw jaakaabish.**</span>
 
@@ -177,9 +162,7 @@ THE GNOME.
 
 <span class="l-gloss">Ningoding igo wa-awi dash giizis (and by and by the Sun) ogii-waabamaan zhingishininid (beheld him lying there). “Ambesanoo, waawiyazh ninga-doodawaa a’aw jaakaabish (“behold, a joke I will play on the gnome). Daga, ninga-gagwe-ojibizomaan iniw ogonaasan.” (now I will try scorching that robe of his — *ojibizo- ‘scorch’ flagged*) Geget aw giizis ezhi-ganawaabamaad (truly the Sun gazed upon him), gichi-enigok oganawaabamaan (with all his might he stared at him); noomag igo genawaabamaad (and for only a little while gazing) mii i’iw zhigwa ezhi-ojibozonid ini-ogonaasan a’aw jaakaabish (the gnome’s robe began to scorch).</span>
 
-*ningatō∙a∙twa — drafted ninga-doodawaa “I’ll play (a trick) on him,” flagged. utcipusōwạn / utcipōsunit / ojibizo- — “scorch,” the sun-scorching verb, drafted, flagged (recurs §19, §20).*
-
-<span class="l-orig">(19) Ningutingigu kuckusit tca‘kāpäs ugīgwina wīcīgipinān. Mīdạc iᵘ äci∙ō∙nickāt kuniginīn ugīwâbamān tca‘kāpäs a‘pitcisa utcipusōwạn iniyō‘kunāsạn. “Mīmāwina aᵘ kīsis kā∙i∙citcigāt,” inändam. Mīsa cigwa tci∙a∙nigu‘k äjimawit. Ka‘kickuwät, mīnōtc utānu∙u∙ciwani‘kānān iniyō‘kunāsạn. Mīdạc iᵘ änicimadcāt kiwät. Cigwasa utäbābandān i∙i∙ᵘ ändāwāt, mīdạc tca‘kāpäs kägä‘t äniciki‘tcimawit.</span>
+<span class="l-orig">(19) Ningutingigu kuckusit tca‘kāpäs ugīgwina wīcīgipinān. Mīdạc iᵘ äci∙ō∙nickāt kuniginīn ugīwâbạmān tca‘kāpäs ā‘pitcisa utcipusōwạn īniyō‘kunäsạn. “Mīmāwina∙a∙ᵘ kīsis kā∙i∙citcigāt,” inändam. Misa cigwa tci∙a∙nigu‘k äjimawit. Kā‘kīckuwät, mīnōtc utānu∙u∙ciwạni‘kānān īniyo‘kunāsạn. Mīdac iᵘ änicimādcāt kīwät. Cigwasa utäbābạndān i∙i∙´ᵘ ändāwāt, mīdạc tca‘kāpäs kägä‘t äniciki‘tcimawit.</span>
 
 <span class="l-fiero">**Ningoding igo goshkozid jaakaabish ogii-gwina-wiizhigibinaan. Mii dash iw ezhi-onishkaad goniginiin ogii-waabamaan jaakaabish aapijisa ojibizowan ini-ogonaasan. “Mii maawiin aw giizis gaa-izhichiged,” inendam. Mii sa zhigwa ji-enigok ezhi-mawid. Gaa-ishkwaad, miinooch odaano-oshiwani’kaanaan ini-ogonaasan. Mii dash iw ani-izhi-maajaad giiwed. Zhigwasa odebaabandaan i’iw endaawaad, mii dash jaakaabish geget ani-izhi-gichi-mawid.**</span>
 
@@ -187,9 +170,7 @@ THE GNOME.
 
 <span class="l-gloss">Ningoding igo goshkozid jaakaabish (when at last the gnome woke) ogii-gwina-wiizhigibinaan (he pulled at his robe this way and that — *wiizhigibin- flagged*). Mii dash iw ezhi-onishkaad goniginiin (and when he rose, lo) ogii-waabamaan jaakaabish aapijisa ojibizowan ini-ogonaasan (the gnome saw his robe was all scorched). “Mii maawiin aw giizis gaa-izhichiged,” inendam (“it must have been the Sun that did it,” he thought). Mii sa zhigwa ji-enigok ezhi-mawid (and so he wept as hard as he could). Gaa-ishkwaad (when he had ceased), miinooch odaano-oshiwani’kaanaan ini-ogonaasan (much against his will he packed up his robe — *miinooch ‘unwillingly’ flagged*). Mii dash iw ani-izhi-maajaad giiwed (and then he set off home). Zhigwasa odebaabandaan i’iw endaawaad (when he came in sight of where they lived), mii dash jaakaabish geget ani-izhi-gichi-mawid (the gnome began to weep bitterly).</span>
 
-*mīnōtc — “unwillingly / much against his will,” particle, drafted, flagged.*
-
-<span class="l-orig">(20) Mägwāgu nạmạtạpit a∙i∙‘kwä kīpimawiwạn iniyōcimäyạn. Mīdạc i’i’ᵘ äcikạnōnāt iniyōcimäyạn: “Ānīn äntiyạn mawiyạn?”</span>
+<span class="l-orig">(20) Mägwāgu nạmạtạpit a∙i∙‘kwä kīpimawiwạn īniyocīmäyạn. Mīdac iᵉi’ᵘ äcikạnōnāt īniyocīmäyạn: “Ānīn äntiyạn mawiyạn?”</span>
 
 <span class="l-fiero">**Megwaa go namadabid a-ii-kwe gii-bimawiwan ini-oshiimeyan. Mii dash i’iw ezhi-ganoonaad ini-oshiimeyan: “Aaniin endiyan mawiyan?”**</span>
 
@@ -197,7 +178,7 @@ THE GNOME.
 
 <span class="l-gloss">Megwaa go namadabid a-ii-kwe (while the woman sat there) gii-bimawiwan ini-oshiimeyan (her little brother came crying). Mii dash i’iw ezhi-ganoonaad ini-oshiimeyan (and so she spoke to her little brother): “Aaniin endiyan mawiyan?” (“what is the matter with you, that you cry?”)</span>
 
-<span class="l-orig">(21) “Nạckä kuca, nīmisä, wâbạm aᵉa’ᵘ ni‘kunās!” Äciwābạnda∙ā∙t, äciwābạmāt a∙i∙‘kwä; ugīwâbạmān utcipōsunit. “Ānīn kā∙i∙citcigäyạn? Kininạgu kigī∙i∙cictcigä?”</span>
+<span class="l-orig">(21) “Nackä kuca, nīmisä, wâbạm aᵉa´ᵘ ni‘kunās!” Äciwābạnda∙ā∙t, äciwābạmāt a∙i∙‘kwä; ugīwâbạmān utcipōsunit. “Ānīn kā∙i∙citcigäyạn? Kīninạgu kigī∙i∙cictcigä?”</span>
 
 <span class="l-fiero">**“Naashke gosha, niimise, waabam a’aw nigonaas!” Ezhi-waabanda’aad, ezhi-waabamaad a-ii-kwe; ogii-waabamaan ojibozonid. “Aaniin gaa-izhichigeyan? Giin inago gigii-izhichige?”**</span>
 
@@ -221,7 +202,7 @@ THE GNOME.
 
 <span class="l-gloss">“Aaniin, nishiime, ge-dinaa’binanad i’iwisa (“how, my little brother, will you reach) ji-nisawad ibanen?” (so as to kill him?” — *dinaa’bin- ‘get hold of/reach’ flagged*)</span>
 
-<span class="l-orig">(24) “Āᵉ, nimisä, ninganisāsạgu. Tạga, kä∙u∙nagwāganiyān.”</span>
+<span class="l-orig">(24) “Āᵉ, nimisä, ninganisāsạgu. Tạga, kä∙u∙nagwāgạniyān.”</span>
 
 <span class="l-fiero">**“Aa, nimise, ninga-nisaa sago. Daga, ge-onagwaaganiyaan.”**</span>
 
@@ -229,11 +210,9 @@ THE GNOME.
 
 <span class="l-gloss">“Aa, nimise, ninga-nisaa sago (“ay, my elder sister, I will surely kill him). Daga, ge-onagwaaganiyaan.” (give me something for a snare — *nagwaagan ‘snare’ flagged*)</span>
 
-*nagwāgan / unagwāgani- — “snare; use as a snare,” the snare noun + denominal verb, drafted, flagged (recurs §25–§31).*
-
-<span class="l-orig">(25) “Wägunän dạc iᵃ kä∙u∙nagwāganiyạmbạn?”  
+<span class="l-orig">(25) “Wägunän dạc iᵘ kä∙u∙nagwāganiyạmbạn?”  
 “Ana‘tis.”  
-Ānīcinā ana‘tis utānumīnān īnī‘ᵘ ocīmäyạn.</span>
+Ānicînā ana‘tis utānumīnān īni´ᵘ ocīmäyan.</span>
 
 <span class="l-fiero">**“Wegonen dash iw ge-onagwaaganiyamban?”  
 “Anaatis.”  
@@ -245,9 +224,7 @@ And of course some fine thread she tried to give her little brother, but it woul
 
 <span class="l-gloss">“Wegonen dash iw ge-onagwaaganiyamban?” (“and what should I give you for a snare?”) “Anaatis.” (“some fine thread.” — *anaatis ‘fine thread/sinew’ flagged*) Aanishina anaatis odaano-miinaan iniw oshiimeyan (and of course she tried to give her little brother some fine thread [but to no purpose]).</span>
 
-*ana‘tis — “fine thread / sinew,” drafted anaatis, flagged (recurs §26, §28).*
-
-<span class="l-orig">(26) Äjikạnōnāt umisäyạn: “Kāwīn kuca iᵃ! Ana‘tis kuca niwi∙u∙nagwāgani!”</span>
+<span class="l-orig">(26) Äjikanōnāt umisäyạn: “Kāwīn kuca iᵘ! Ana‘tis kuca niwī∙u∙nagwāgạni!”</span>
 
 <span class="l-fiero">**Ezhi-ganoonaad omiseyan: “Gaawiin gosha iw! Anaatis gosha niwii-onagwaagani!”**</span>
 
@@ -255,7 +232,7 @@ And of course some fine thread she tried to give her little brother, but it woul
 
 <span class="l-gloss">Ezhi-ganoonaad omiseyan (he spoke to his elder sister): “Gaawiin gosha iw! (“it is not that!) Anaatis gosha niwii-onagwaagani!” (out of fine thread I want the snare!”)</span>
 
-<span class="l-orig">(27) Ānic nā mīnawā utānumīnān iᵃ bīmina‘kwān. “Kāwīn, nīmisä, kawin awazinōn!”</span>
+<span class="l-orig">(27) Ānic nā mīnawā utānumīnān iᵘ bīmina‘kwān. “Kāwīn, nīmisä, kāwīn āwazinōn!”</span>
 
 <span class="l-fiero">**Aanish na miinawaa odaano-miinaan iw biiminakwaan. “Gaawiin, niimise, gaawiin awazinoon!”**</span>
 
@@ -263,17 +240,15 @@ And of course some fine thread she tried to give her little brother, but it woul
 
 <span class="l-gloss">Aanish na miinawaa odaano-miinaan iw biiminakwaan (so then next she tried to give him cord — *biiminakwaan ‘rope/cord’*). “Gaawiin, niimise, gaawiin awazinoon!” (“no, my elder sister, that is not it!” — *awazinoon flagged*)</span>
 
-<span class="l-orig">(28) Ānic äciwāwānäntạnk a∙i∙‘kwä. Ānīc, mīsa cigwa äciki‘tcimawit tcakāpäs; kạpäya∙i∙mawi. Ānic a‘pitci kwinawinäntạm a∙i∙‘kwä. “Pisānapin!” utānu∙i∙nān iniyucīmäyạn. Ka‘kina kägō utānumīnān, mīsagu iᵉi∙ᵘ kāwīn wikickuwäsiwạn. Käga‘pīgu kayä win mawi aᵃaᵘ i‘kwä, kägä‘tsa tcigwinawinäntạm. Käga‘pi∙i∙sa päcig umīcigwān äcipa‘kwatcipitōt. “O∙o∙wäm nicīmä, kägu’ win sāmābīgạndankän.”</span>
+<span class="l-orig">(28) Ānic äciwāwānäntạnk a∙i∙‘kwä. Ānīc, misa cigwa äciki‘tcimawit tcakäpäs; kạpäya∙ī∙mawi. Ānīc ā‘pitci kwīnawīnäntạm a∙i∙‘kwä. “Pisānạpin!” utānu∙i∙nān iniyucīmäyạn. Ka‘kina kägō utānumīnān, mīsagu iᵉi´ᵘ kāwīn wīkīckuwäsiwạn. Käga‘pīgu kayä win mawi aᵉa´ᵘ i‘kwä, kägä‘tsa tcigwīnawīnäntạm. Käga‘pī∙i∙sa päcig umīcigwān äcipa‘kwatcipitōt. “O∙o∙wäm nicīmä, kägu´ win sāmābīgạndạnkän.”</span>
 
-<span class="l-fiero">**Aanish ezhi-waawaanendang a-ii-kwe. Aanish, mii sa zhigwa ezhi-gichi-mawid jaakaabish; gabeya’ii mawi. Aanish aapiji gwiinawenendam a-ii-kwe. “Bizaanabin!” odaano-inaan ini-oshiimeyan. Gakina gego odaano-miinaan, mii sa go i’iw gaawiin wii-giizhkowezisiwan. Gabe’apii go gaye wiin mawi a’aw ikwe, gegetsa ji-gwiinawenendam. Gabe’apii-isa bezhig omiishigwaan ezhi-bakwajibidood. “Owowem nishiime, gego win zaamaabiigandanken.”**</span>
+<span class="l-fiero">**Aanish ezhi-waawaanendang a-ii-kwe. Aanish, mii sa zhigwa ezhi-gichi-mawid jaakaabish; gabeya’ii mawi. Aanish aapiji gwiinawenendam a-ii-kwe. “Bizaanabin!” odaano-inaan ini-oshiimeyan. Gakina gego odaano-miinaan, mii sa go i’iw gaawiin wii-giizhkowezisiwan. Gegapii go gaye wiin mawi a’aw ikwe, gegetsa ji-gwiinawenendam. Gegapii isa bezhig omiishigwaan ezhi-bakwajibidood. “Owowem nishiime, gego win zaamaabiigandanken.”**</span>
 
 <span class="l-eng">*So the woman was at a loss to know (what to give him). Well, then it was that grievously the gnome began to cry; for a long while he cried. Naturally very much disturbed in mind was the woman. “Do be quiet!” she would say in vain to her little brother. All sorts of things she tried to give him, but even then he was not disposed to cease from his crying. And at last the woman also began crying, for of a truth she was perplexed to know what to do (for him). Finally one of the hairs from off her vulva she plucked out. “Here is this, my little brother, but don’t you ever touch it with your tongue.”*</span>
 
-<span class="l-gloss">Aanish ezhi-waawaanendang a-ii-kwe (so the woman was at a loss). Aanish, mii sa zhigwa ezhi-gichi-mawid jaakaabish (well, then the gnome wept grievously); gabeya’ii mawi (for a long while he cried). Aanish aapiji gwiinawenendam a-ii-kwe (the woman was much perplexed). “Bizaanabin!” odaano-inaan ini-oshiimeyan (“be quiet!” she said in vain to her little brother). Gakina gego odaano-miinaan (all sorts of things she tried to give him), mii sa go i’iw gaawiin wii-giizhkowezisiwan (but still he would not hush). Gabe’apii go gaye wiin mawi a’aw ikwe (at last the woman too began to cry), gegetsa ji-gwiinawenendam (truly she was at a loss what to do). Gabe’apii-isa bezhig omiishigwaan ezhi-bakwajibidood (finally she plucked out one of her pubic hairs — *omiishigwan flagged*). “Owowem nishiime, gego win zaamaabiigandanken.” (“here, my little brother, but never touch it with your tongue.” — *zaamaabiigandan- ‘touch with the tongue’ flagged*)</span>
+<span class="l-gloss">Aanish ezhi-waawaanendang a-ii-kwe (so the woman was at a loss). Aanish, mii sa zhigwa ezhi-gichi-mawid jaakaabish (well, then the gnome wept grievously); gabeya’ii mawi (for a long while he cried). Aanish aapiji gwiinawenendam a-ii-kwe (the woman was much perplexed). “Bizaanabin!” odaano-inaan ini-oshiimeyan (“be quiet!” she said in vain to her little brother). Gakina gego odaano-miinaan (all sorts of things she tried to give him), mii sa go i’iw gaawiin wii-giizhkowezisiwan (but still he would not hush). Gegapii go gaye wiin mawi a’aw ikwe (at last the woman too began to cry), gegetsa ji-gwiinawenendam (truly she was at a loss what to do). Gegapii isa bezhig omiishigwaan ezhi-bakwajibidood (finally she plucked out one of her pubic hairs — *omiishigwan flagged*). “Owowem nishiime, gego win zaamaabiigandanken.” (“here, my little brother, but never touch it with your tongue.” — *zaamaabiigandan- ‘touch with the tongue’ flagged*)</span>
 
-*umīcigwān — “a hair from off her vulva” (Jones), the body-part noun; drafted omiishigwan, flagged. zāmābīgạndankän — “touch it with your tongue,” drafted zaamaabiigandan-, flagged (recurs §29).*
-
-<span class="l-orig">(29) “Äᵃ, nimisä, mi∙o∙wä ana‘tis, mī∙o∙wä.” Äci∙sāmābīgạntạminit mītạc iᵘ owâbandān pīwābi‘kōns; kumāgu a‘kwābigatini. Mīnawā äci∙sāmābikạtank, mīdạc kägä‘t tciginwābīgatinig. “Mīsa ya∙o∙ käwundcīnạnag aᵘ gīsis.”</span>
+<span class="l-orig">(29) “Äⁱ, nimisä, mī∙o∙wä ạna‘tis, mī∙o∙wä.” Äcisāmābīgantạminit mītạc iᵉ∙i∙´ᵘ owâbạndān pīwābi‘kōns; kumāgu a‘kwābigạtini. Mīnawā äcisāmābikạtạnk, mīdạc kägä‘t tciginwābīgạtinig. “Mīsa ya∙o∙ käwundcīnạnạg aᵘ gīsis.”</span>
 
 <span class="l-fiero">**“Aa, nimise, mii owe anaatis, mii owe.” Ezhi-zaamaabiigandaminid mii dash iw owaabandaan biiwaabikoons; gomaa go akwaabigadini. Miinawaa ezhi-zaamaabiigadang, mii dash geget ji-ginwaabiigadinig. “Mii sa ya’o ge-ondininag aw giizis.”**</span>
 
@@ -281,22 +256,18 @@ And of course some fine thread she tried to give her little brother, but it woul
 
 <span class="l-gloss">“Aa, nimise, mii owe anaatis, mii owe.” (“ay, my elder sister, that is the thread, that is it!”) Ezhi-zaamaabiigandaminid mii dash iw owaabandaan biiwaabikoons (when he touched it [with his lips] she saw it was wire — *biiwaabikoons ‘wire’*); gomaa go akwaabigadini (it was about so long). Miinawaa ezhi-zaamaabiigadang (when again he touched it with his tongue), mii dash geget ji-ginwaabiigadinig (it became truly long — *ginwaabiigad- ‘be long, cordlike’*). “Mii sa ya’o ge-ondininag aw giizis.” (“it is with this I will get [kill] the Sun.” — *ondin- here ‘obtain/deal-with’ per Jones ‘kill,’ flagged*)</span>
 
-*ginwābīgatinig — “became long (cordlike),” the lengthening verb ginwaabiigad-, drafted, flagged.*
+<span class="l-orig">(30) Mīsagu iᵉi’ᵘ cigwa ạnimādcāt tcakābäs; kāwīn pwānawi’∙u∙sī icpîming icāt. Cigwa utōti‘tān kīcisōn umī‘kạnāni owâbandān, mīdạc imāⁿ äji∙ạ∙gōtōt. Kā∙i∙ckwā∙ạ∙gōtōt kā∙i∙cikīwät. Kā‘tạgwicink owä a‘ki, mīdạc omā wänsābit. Cigwasa miyạgōtcinōn īni´ᵘ gīsisōn; cigwa kägā odōdi‘tạmini imāⁿ kīwi∙a∙gōtōt. Ningutingigu nōgickāwạn īni´ᵘ gīsisōn. “Mīmāwīn iᵘ cigwa nạgwānạg,” inändạm. “Kägä‘t ningi‘tciminwändạm nạgwānạg aᵘ kīsis,” i‘kitu. Mī∙i∙ᵘ cigwa nạgạmut tcakābäs:—</span>
 
-<span class="l-orig">(30) Mīsagu iᵉi∙ᵘ cigwa animādcāt tcakābäs; kāwīn pwānawi∙u∙sī icpîming icāt. Cigwa utōti‘tän kīcisōn umi‘kanāni owâbandan, mīdạc imāⁿ äji∙a∙gōtōt. Kā∙i∙ckwā∙a∙gōtōt kā∙i∙cikiwät. Kā‘tạgwicink owä∙a∙‘ki, mīdạc oma∙wänsabit. Cigwasa miyagōtcinōn īnī‘ᵘ gisisōn; cigwa kägā odōdi‘tạmini imāⁿ kiwi∙a∙gōtōt. Ningutingigu nōgickāwạn īnī‘ᵘ gīsisōn. “Mīmāwīn iᵃ cigwa nagwānag,” inändạm. “Kägä‘t ningi‘tciminwändạm nagwanag aᵘ kisis,” i‘kitu. Mī∙i∙ᵃ cigwa nạgạmut tcakābäs:—</span>
-
-<span class="l-fiero">**Mii sa go i’iw zhigwa ani-maajaad jaakaabish; gaawiin bwaanawi’osii ishpiming izhaad. Zhigwa odoodi’taan giizison omiikanaani owaabandaan, mii dash imaa ezhi-agoodood. Gaa-ishkwaa-agoodood gaa-izhi-giiwed. Gaa-dagwishing owe aki, mii dash omaa wenzabid. Zhigwasa mayagoojinon iniw giizison; zhigwa gega odoodi’tamini imaa giiwi-agoodood. Ningoding igo noogishkaawan iniw giizison. “Mii maawiin iw zhigwa nagwaanag,” inendam. “Geget ningii-gichi-minwendam nagwanag aw giizis,” ikido. Mii i’iw zhigwa nagamod jaakaabish:—**</span>
+<span class="l-fiero">**Mii sa go i’iw zhigwa ani-maajaad jaakaabish; gaawiin bwaanawi’osii ishpiming izhaad. Zhigwa odoodi’taan giizison omiikanaani owaabandaan, mii dash imaa ezhi-agoodood. Gaa-ishkwaa-agoodood gaa-izhi-giiwed. Gaa-dagwishing owe aki, mii dash omaa wenzabid. Zhigwasa mayagoojinon iniw giizison; zhigwa gega odoodi’tamini imaa giiwi-agoodood. Ningoding igo noogishkaawan iniw giizison. “Mii maawiin iw zhigwa nagwaanag,” inendam. “Geget ningii-gichi-minwendam nagwaanag aw giizis,” ikido. Mii i’iw zhigwa nagamod jaakaabish:—**</span>
 
 <span class="l-eng">*Accordingly then on his way went the gnome; he had no trouble going up (into the sky). In a while he came to where he saw the path of the Sun, and so there he hung up (his snare). When he had hung it up, he then returned. After coming back to this earth, it was then from here that he kept watch. In a while (he saw) the Sun ascending on high; then (the Sun) was about to arrive at the place where (the gnome) had hung up (the snare). By and by (he saw) the Sun halt. “It may be that I now have him caught in the snare,” he fancied. “Of a truth, I am mightily pleased to have ensnared the Sun,” he said. Therefore then sang the gnome:—*</span>
 
-<span class="l-gloss">Mii sa go i’iw zhigwa ani-maajaad jaakaabish (and so then the gnome went on his way); gaawiin bwaanawi’osii ishpiming izhaad (he had no trouble going up into the sky). Zhigwa odoodi’taan giizison omiikanaani owaabandaan (in a while he came to where he saw the Sun’s path), mii dash imaa ezhi-agoodood (and there he hung up [the snare] — *agood- the very hanging verb of the carrier*). Gaa-ishkwaa-agoodood gaa-izhi-giiwed (when he had hung it, he returned). Gaa-dagwishing owe aki (when he came back to this earth), mii dash omaa wenzabid (from here he kept watch). Zhigwasa mayagoojinon iniw giizison (in a while the Sun came ascending); zhigwa gega odoodi’tamini imaa giiwi-agoodood (and was about to reach where he had hung it). Ningoding igo noogishkaawan iniw giizison (by and by the Sun halted). “Mii maawiin iw zhigwa nagwaanag,” inendam (“perhaps now I have snared him,” he thought). “Geget ningii-gichi-minwendam nagwanag aw giizis,” ikido (“truly I am mightily pleased to have snared the Sun,” he said). Mii i’iw zhigwa nagamod jaakaabish:— (then the gnome sang:—)</span>
+<span class="l-gloss">Mii sa go i’iw zhigwa ani-maajaad jaakaabish (and so then the gnome went on his way); gaawiin bwaanawi’osii ishpiming izhaad (he had no trouble going up into the sky). Zhigwa odoodi’taan giizison omiikanaani owaabandaan (in a while he came to where he saw the Sun’s path), mii dash imaa ezhi-agoodood (and there he hung up [the snare] — *agood- the very hanging verb of the carrier*). Gaa-ishkwaa-agoodood gaa-izhi-giiwed (when he had hung it, he returned). Gaa-dagwishing owe aki (when he came back to this earth), mii dash omaa wenzabid (from here he kept watch). Zhigwasa mayagoojinon iniw giizison (in a while the Sun came ascending); zhigwa gega odoodi’tamini imaa giiwi-agoodood (and was about to reach where he had hung it). Ningoding igo noogishkaawan iniw giizison (by and by the Sun halted). “Mii maawiin iw zhigwa nagwaanag,” inendam (“perhaps now I have snared him,” he thought). “Geget ningii-gichi-minwendam nagwaanag aw giizis,” ikido (“truly I am mightily pleased to have snared the Sun,” he said). Mii i’iw zhigwa nagamod jaakaabish:— (then the gnome sang:—)</span>
 
-*agōtōt / agoode- — “hung it up,” the same hanging-verb (agood-) that closes the story in the binewi-jiid carrier; here in plain transitive narrative use (cf. the verb-file note in The Binewi-jiid Closing). nagwānag / nagwaanag — “snare him,” nagwaan-, the catch-in-snare verb.*
-
-<span class="l-orig">(31) “Nimisä, nimisä!  
+<span class="l-orig">(31) “Nimisā, nimisā!  
 Kīsis, nagwānā!”</span>
 
-<span class="l-fiero">**“Nimisä, nimisä!  
+<span class="l-fiero">**“Nimisā, nimisā!  
 Kīsis, nagwānā!”**</span>
 
 <span class="l-eng">*“O my elder sister, O my elder sister!  
@@ -306,7 +277,7 @@ The Sun is caught in the snare!”*</span>
 
 *SONG. Carried verbatim in BOTH layers as Jones printed it (Fiero column = Jones, unconverted); excluded from lexicon mining. (The song begins at the foot of p362 ‘Mī∙i∙ᵃ cigwa nạgạmut tcakābäs:—’ and closes here on p364.)*
 
-<span class="l-orig">(32) Mīsa cigwa aᵘ kīsis kīwâbit. Cigwadạc ki∙a∙nikackītibi‘kạdini; aᵉpitcidạc änigackitibikatinig, cigwadạc äjikīwät. Payäcwändạnk ändāwāt, cigwa päcu ā‘pitci, änīcimādcīyạnk:—</span>
+<span class="l-orig">(32) Mīsa cigwa aᵘ kīsis kīwâbit. Cigwadạc kī∙a∙nikackītibi‘kạdini; ā‘pitcidạc änigackitibikatinig, cigwadạc äjikīwät. Payäcwändạnk ändāwāt, cigwa päcu ā‘pitci, änīcimādcīyạnk:—</span>
 
 <span class="l-fiero">**Mii sa zhigwa aw giizis giiwaabid. Zhigwa dash gii-ani-gashkii-dibikadini; aapiji dash enigashkii-dibikadinig, zhigwa dash ezhi-giiwed. Bayezhwendang endaawaad, zhigwa besho aapiji, ani-izhi-maajiiyang:—**</span>
 
@@ -314,22 +285,18 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Mii sa zhigwa aw giizis giiwaabid (thereupon the Sun struggled — *giiwaabi- ‘struggle in the snare’ flagged*). Zhigwa dash gii-ani-gashkii-dibikadini (and it began to grow pitch dark); aapiji dash enigashkii-dibikadinig (and when it grew so very dark), zhigwa dash ezhi-giiwed (then back he went). Bayezhwendang endaawaad (when he sensed he was near home), zhigwa besho aapiji (ever so near), ani-izhi-maajiiyang:— (he then began singing:—)</span>
 
-*ki∙a∙nikackītibi‘kạdini — “it grew pitch dark,” gashkii-dibikad-, drafted.*
+<span class="l-orig">(33) “Nimisāwā, kīsis nagwāna,  
+Kīsis nạgwānā.”</span>
 
-<span class="l-orig">(33) “Nimisäwā, kīsis nagwāna,  
-Kīsis nagwānā.”</span>
-
-<span class="l-fiero">**“Nimisäwā, kīsis nagwāna,  
-Kīsis nagwānā.”**</span>
+<span class="l-fiero">**“Nimisāwā, kīsis nagwāna,  
+Kīsis nạgwānā.”**</span>
 
 <span class="l-eng">*“O my elder sister! the Sun is caught in the snare,  
 The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">⟨song — carried verbatim, not converted; merge-excluded⟩ “O my elder sister! the Sun is caught in the snare, / The Sun is caught in the snare!”</span>
 
-*SONG. Carried verbatim in BOTH layers; excluded from mining.*
-
-<span class="l-orig">(34) Mägwāgu nạnamadapit a∙i∙‘kwä kipinagamowạn iniyōcimäyạn. Cigwa pipindigäwạn kigīgitōwạn: “Nimisä, kīsis nagwānā!”</span>
+<span class="l-orig">(34) Mägwāgu nạnāmạdạpit a∙i∙‘kwä kipinạgamowạn īniyocīmäyan. Cigwa pipīndigäwạn kigīgitōwạn: “Nimisä, kīsis nạgwānā!”</span>
 
 <span class="l-fiero">**Megwaa go nanamadabid a-ii-kwe gii-bi-nagamowan ini-oshiimeyan. Zhigwa bi-biindigewan giigidowan: “Nimise, giizis nagwaanaa!”**</span>
 
@@ -337,7 +304,7 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Megwaa go nanamadabid a-ii-kwe (while the woman sat there) gii-bi-nagamowan ini-oshiimeyan (her little brother came singing). Zhigwa bi-biindigewan giigidowan (presently he came in, saying): “Nimise, giizis nagwaanaa!” (“my elder sister! the Sun is caught in the snare!”)</span>
 
-<span class="l-orig">(35) “Ānīn äcitcigäyạn? Kibā‘tātcigä, nicīmā. Kāwīn wi‘ka tagi∙cigasinōn kīcpîn kägä‘t ni’sạt wa∙a∙’ᵘ kisis. Kāwīnina kägō kitā∙i∙jictcigäsī iᵉi∙ᵘ tcipa‘kicwa∙ti∙pan?”</span>
+<span class="l-orig">(35) “Ānīn äcitcigäyạn? Kibā‘tātcigä, nicīmä. Kāwīn wī‘ka tạgīcigạsinōn kīcpîn kägä‘t ni´sạt wa∙a∙´ᵘ kīsis. Kāwīnina kägō kitā∙i∙jictcigäsī iᵉi´ᵘ tcipa‘kicwạtipạn?”</span>
 
 <span class="l-fiero">**“Aaniin ezhichigeyan? Gibaataajige, nishiime. Gaawiin wiikaa daa-giizhigasinoon giishpin geget nisad wa-aw giizis. Gaawiinina gego gidaa-izhichigesii i’iw ji-bakishwadiban?”**</span>
 
@@ -345,7 +312,7 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">“Aaniin ezhichigeyan? (“what are you doing?) Gibaataajige, nishiime (you are causing mischief, my little brother). Gaawiin wiikaa daa-giizhigasinoon (never will there be day) giishpin geget nisad wa-aw giizis (if in truth you kill the Sun). Gaawiinina gego gidaa-izhichigesii (can’t you do something) i’iw ji-bakishwadiban?” (to cut him loose?” — *bakishw- ‘cut loose’ flagged*)</span>
 
-<span class="l-orig">(36) “Ānīn, nimisä? Kägä‘t ningīnicki∙i∙k iwisa kī∙u∙tcipuswāt īnī‘ ni‘kunāsạn. Wawiyacidạc kayä win nindōtawā aᵃaᵘ gīsis. Ninga∙wipa‘kicwā.” Mīdạc iᵉi∙ᵘ äjikīkitut tcakāpäs: “Ambäsạnō, manitowäncitug! ondācāyu‘k!”</span>
+<span class="l-orig">(36) “Ānīn, nimisä? Kägä‘t ningīnicki∙i∙k iwisa kī∙u∙tcipuswāt īni’ᵘ ni‘kunāsạn. Wawiyacidạc kayä wīn nindōtawā aᵉaᵘ gīsis. Ningāwipa‘kicwā.” Mīdac i∙i’ᵘ äjikīkitut tcakāpäs: “Ambäsạnō, mạnitowäncitug! ondācāyu‘k!”</span>
 
 <span class="l-fiero">**“Aaniin, nimise? Geget ningii-nishki’ig iwisa gii-ojibozwaad iniw nigonaasan. Waawiyazh idash gaye wiin nindoodawaa a’aw giizis. Ninga-wii-bakishwaa.” Mii dash i’iw ezhi-giigidod jaakaabish: “Ambesanoo, manidowenzhitog! ondaashaayok!”**</span>
 
@@ -353,9 +320,7 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">“Aaniin, nimise? (“why, my elder sister?) Geget ningii-nishki’ig iwisa gii-ojibozwaad iniw nigonaasan (truly he angered me when he scorched my cloak). Waawiyazh idash gaye wiin nindoodawaa a’aw giizis (so a trick I too am playing on the Sun). Ninga-wii-bakishwaa.” (I will go cut him loose.”) Mii dash i’iw ezhi-giigidod jaakaabish (then the gnome spoke): “Ambesanoo, manidowenzhitog! ondaashaayok!” (“come, O ye little animal-spirits! come hither!” — *manidowenzhish ‘little animal/spirit’ flagged*)</span>
 
-*manitowäncitug — “O ye little animals/spirits” (vocative pl.), the toothed-creature helpers summoned; drafted manidowenzhitog, flagged.*
-
-<span class="l-orig">(37) Kägä‘t cigwa tagwicinōg ka‘kina‘ kägäcäpītäwāt. Ugī∙a∙ndumā minōtci kanaga kayä win aᵃawä kīnūjạckinji‘wâwâbigunōdci. Ānic mīgu iᵘ kī∙ā∙‘pitcitibi‘kạtinig. Cigwatạc äcimādcāwāt mīsa gäyābi kāwīn bwänawi∙u∙sī icpîming icāt īnī‘ᵘ kisisōn; aᵉgāwāgu ickutäwiwạn. Äji∙u∙tisāwāt mīgu∙iu∙ äcīckutäwaninik iᵉi∙ᵘ unagwagan. Mīdạc īnī‘ᵘ ni‘tạm ka‘kwutciciwạn känōnāt: “Ambäsạnō, awipa‘kandan iᵃ nagwāgan!” Cigwadạc äci∙a∙‘pagināt unagwāganing.</span>
+<span class="l-orig">(37) Kägä‘t cigwa tạgwicinōg ka‘kina´ kägäcāpitäwāt. Ugī∙a∙ndumā mīnōtci kanagä kayä wīn aᵉawä kīnūjạckinjīⁿwâwâbigunōdcī. Ānīc mīgu iᵉi´ᵘ kī∙ā∙‘pitcitibi‘kạtinig. Cigwatạc äcimādcāwāt misa gäyābi kāwīn bwänạwi∙u∙si icpîming icāt īni’ᵘ kīsisōn; ạgāwāgu ickutäwiwạn. Äji∙u∙tisāwāt mīgu∙i∙’ᵘ äcīckutäwạninik iᵉi´ᵘ unạgwāgạn. Mīdạc īni´ᵘ ni‘tạm ka‘kwutcīciwạn känōnāt: “Ạmbäsanō, awipa‘kạndạn iᵘ nạgwāgạn!” Cigwadạc äci∙a∙‘pạgināt unạgwāgạning.</span>
 
 <span class="l-fiero">**Geget zhigwa dagwishinog gakina gaa-gaashibidewaad. Ogii-andomaa minoochi ganage gaye wiin a’awe giinoozhaaskinji-waawaabigonoojii. Aanish mii go iw gii-aapiji-dibikadinig. Zhigwa dash ezhi-maajaawaad mii sa geyaabi gaawiin bwaanawi’osii ishpiming izhaad iniw giizison; agaawaa go ishkode-wiwan. Ezhi-odisaawaad mii go iw ezhi-ishkodewaninig i’iw onagwaagan. Mii dash iniw nitam gaa-gwajijiwan ganoonaad: “Ambesanoo, awi-bakandan iw nagwaagan!” Zhigwa dash ezhi-apaginaad onagwaaganing.**</span>
 
@@ -363,33 +328,31 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Geget zhigwa dagwishinog gakina gaa-gaashibidewaad (truly then came all those with sharp teeth — *gaashibide ‘sharp-toothed’ flagged*). Ogii-andomaa minoochi ganage gaye wiin a’awe giinoozhaaskinji-waawaabigonoojii (the Mole/sharp-nosed mouse was summoned too, though hardly deemed worth it — *giinoozhaaskinji- ‘sharp-nosed’ + waawaabigonoojii ‘mole/mouse’ flagged; see fn at §40*). Aanish mii go iw gii-aapiji-dibikadinig (by now the night was exceedingly dark). Zhigwa dash ezhi-maajaawaad (and when they set out) mii sa geyaabi gaawiin bwaanawi’osii ishpiming izhaad iniw giizison (still the Sun could not rise); agaawaa go ishkode-wiwan (hardly any fire had he). Ezhi-odisaawaad (when they reached him) mii go iw ezhi-ishkodewaninig i’iw onagwaagan (the snare was afire). Mii dash iniw nitam gaa-gwajijiwan ganoonaad (and so first to the Woodchuck he spoke — *gwajijiwan ‘woodchuck’ flagged*): “Ambesanoo, awi-bakandan iw nagwaagan!” (“now, go bite off the snare!” — *bakandan ‘bite off’*) Zhigwa dash ezhi-apaginaad onagwaaganing (then he flung him at the snare).</span>
 
-*kīnūjạckinji‘wâwâbigunōdci — “the Mole (sharp-nosed mouse)” per Jones; drafted giinoozhaaskinji- ‘sharp-nosed’ + waawaabigonoojii; flagged (this is the creature of the etiology in §40). ka‘kwutciciwạn — “the woodchuck,” drafted gwajijiw-, flagged.*
+<span class="l-orig">(38) Ä‘tiwä, kāwāgitci∙ā∙‘kisunit!</span>
 
-<span class="l-orig">(38) Äᵉtiwä, kāwāgitci∙ā∙‘kisunit!</span>
-
-<span class="l-fiero">**Aatiwe, gaa-waagidji-aakizonid!**</span>
+<span class="l-fiero">**Etiwe, gaa-waagidji-aakizonid!**</span>
 
 <span class="l-eng">*Oh, how he burned into a ball!*</span>
 
-<span class="l-gloss">Aatiwe, gaa-waagidji-aakizonid! (oh, how he burned up into a ball! — *waagidji-aakizo- ‘burn curled into a ball’ flagged*)</span>
+<span class="l-gloss">Etiwe, gaa-waagidji-aakizonid! (oh, how he burned up into a ball! — *waagidji-aakizo- ‘burn curled into a ball’ flagged*)</span>
 
-<span class="l-orig">(39) Cayigwa mīnawā pä‘kānisinit, ami‘kwạnidạc mīnawā īnī‘ᵘ äwi∙ā∙nui∙ci∙a∙‘pagināt. Mīsa gäyābi kitcāgisunit. Äo! mīsa cigwa ka‘kina a‘pī ānugī∙ā∙‘pagināt mini‘k kägācābitänit, ka‘kina awīya mīsạgu tcāgisunit. Mīdạc ä‘ta wa∙a∙ᵘ äyāt kīnūcuckinjīwāwābigunōdci.</span>
+<span class="l-orig">(39) Cayīgwa mīnawā pä‘kānisinit, ami‘kwạnidạc mīnawā īni´ᵘ äwi∙ā∙nū∙i∙ci∙a∙‘pạgināt. Mīsa gäyābi kitcāgisunit. Äᵉ! mīsa cigwa ka‘kina a‘pī ānugī∙ā∙‘pagināt mini‘k kägācābitänit, ka‘kina awīya mīsạgu tcāgisunit. Mīdạc ä‘ta wa∙a∙´ᵘ äyāt kīnūcuckinjīwāwābigunōdci.</span>
 
-<span class="l-fiero">**Zhayiigwa miinawaa bakaanizinid, amikwan idash miinawaa iniw ewi-ani-izhi-apaginaad. Mii sa geyaabi gii-jaagizonid. Ee-o! mii sa zhigwa gakina apii aano-gii-apaginaad minik gaa-gaashibidenid, gakina awiya mii sa go jaagizonid. Mii dash eta wa-aw eyaad giinoozhaashkinjii-waawaabigonoojii.**</span>
+<span class="l-fiero">**Zhayiigwa miinawaa bakaanizinid, amikwan idash miinawaa iniw ewi-ani-izhi-apaginaad. Mii sa geyaabi gii-jaagizonid. Ee! mii sa zhigwa gakina apii aano-gii-apaginaad minik gaa-gaashibidenid, gakina awiya mii sa go jaagizonid. Mii dash eta wa-aw eyaad giinoozhaashkinjii-waawaabigonoojii.**</span>
 
 <span class="l-eng">*Then another that was different, the Beaver, he next flung, but it was no use. And like the other he also was burned up. Alas! and so it was with all them having sharp teeth that he flung in, but to no purpose, every creature then was burned up. And the only one then that was left was the Mole.*</span>
 
-<span class="l-gloss">Zhayiigwa miinawaa bakaanizinid (then another that was different), amikwan idash miinawaa iniw ewi-ani-izhi-apaginaad (the Beaver he next flung in). Mii sa geyaabi gii-jaagizonid (but he too was burned up). Ee-o! mii sa zhigwa gakina apii aano-gii-apaginaad minik gaa-gaashibidenid (alas! and so with all the sharp-toothed ones he flung in, to no purpose), gakina awiya mii sa go jaagizonid (every creature was burned up). Mii dash eta wa-aw eyaad giinoozhaashkinjii-waawaabigonoojii (and the only one left was the Mole).</span>
+<span class="l-gloss">Zhayiigwa miinawaa bakaanizinid (then another that was different), amikwan idash miinawaa iniw ewi-ani-izhi-apaginaad (the Beaver he next flung in). Mii sa geyaabi gii-jaagizonid (but he too was burned up). Ee! mii sa zhigwa gakina apii aano-gii-apaginaad minik gaa-gaashibidenid (alas! and so with all the sharp-toothed ones he flung in, to no purpose), gakina awiya mii sa go jaagizonid (every creature was burned up). Mii dash eta wa-aw eyaad giinoozhaashkinjii-waawaabigonoojii (and the only one left was the Mole).</span>
 
-<span class="l-orig">(40) gunōdci. Anicnā ā‘pidcigu udānawänimān äjikạnōnāt: “Ānic kindạc ä‘ta. Kīcpîn pa‘kamāsiwạt, kāwīn wi‘ka tagīcigasinōn. Kīcpîn pa‘kamạt kāwin wi‘ka ganisigōsi.” Mīsa iᵘ mini‘k kä∙kạnōnāt; äci∙o∙dā‘pināt äci∙a∙‘pagināt imāⁿ unagwaganing. Owâbạman tatītibatama∙ō∙sunit; intigugucagu owīpa‘kamān äcinawāt. Ningutingigu äcipa‘kamānit, mīsa cigwa kipa‘kamānit.</span>
+<span class="l-orig">(40) Ānīcnā ā‘pidcigu udānawänimān äjikạnōnāt: “Ānīc kīndạc ä‘ta. Kīcpîn pa‘kamāsiwạt, kāwīn wī‘ka tạgīcigạsinōn. Kīcpîn pa‘kamạt kāwīn wī‘ka gạnisigōsī.” Mīsa i´ᵘ mini‘k käganōnāt; äci∙o∙dā‘pināt äci∙a∙‘pạgināt imā unạgwāganing. Owâbạmān tạtītibatama∙ō∙sunit; intigugucagu owīpa‘kamān äcinawāt. Ningutingigu äcipa‘kạmānit, mīsa cigwa kipa‘kamānit.</span>
 
-<span class="l-fiero">**...goonoojii. Aanish na aapiji go odaanawenimaan ezhi-ganoonaad: “Aanish giin dash eta. Giishpin bakamaasiwad, gaawiin wiikaa daa-giizhigasinoon. Giishpin bakamad gaawiin wiikaa ga-nisigoosii.” Mii sa iw minik gaa-ganoonaad; ezhi-odaapinaad ezhi-apaginaad imaa onagwaaganing. Owaabamaan dadidibadama’oosinid; indigo gosha go owii-bakamaan ezhi-inawaad. Ningoding igo ezhi-bakamaanid, mii sa zhigwa gii-bakamaanid.**</span>
+<span class="l-fiero">**Aanish na aapiji go odaanawenimaan ezhi-ganoonaad: “Aanish giin dash eta. Giishpin bakamaasiwad, gaawiin wiikaa daa-giizhigasinoon. Giishpin bakamad gaawiin wiikaa ga-nisigoosii.” Mii sa iw minik gaa-ganoonaad; ezhi-odaapinaad ezhi-apaginaad imaa onagwaaganing. Owaabamaan dadidibadama’oosinid; indigo gosha go owii-bakamaan ezhi-inawaad. Ningoding igo ezhi-bakamaanid, mii sa zhigwa gii-bakamaanid.**</span>
 
 <span class="l-eng">*And of course with much disdain he regarded him when he spoke to him, saying: “Now you are the only one left. If you do not bite (so as to set) him free, never will it be day. If you bite (so as to set) him free, never will you be killed.” And that was all he said to him; taking him up in his hands, he flung him at the snare. He beheld him swing and whirl (hanging to the snare); and it seemed as though he would bite, setting free (the Sun), so it looked to him. And then by and by, while biting off (the snare), he then got it bitten off.*</span>
 
 <span class="l-gloss">Aanish na aapiji go odaanawenimaan ezhi-ganoonaad (and with much disdain he regarded him as he spoke): “Aanish giin dash eta (“now you are the only one left). Giishpin bakamaasiwad, gaawiin wiikaa daa-giizhigasinoon (if you do not bite him free, never will it be day). Giishpin bakamad gaawiin wiikaa ga-nisigoosii.” (if you bite him free, never will you be killed.”) Mii sa iw minik gaa-ganoonaad (that was all he said to him); ezhi-odaapinaad ezhi-apaginaad imaa onagwaaganing (taking him up, he flung him at the snare). Owaabamaan dadidibadama’oosinid (he saw him swing and whirl — *dadidibadama’oo- flagged*); indigo gosha go owii-bakamaan ezhi-inawaad (and it seemed as though he would bite it through). Ningoding igo ezhi-bakamaanid, mii sa zhigwa gii-bakamaanid (and by and by, biting it off, he got it bitten through).</span>
 
-<span class="l-orig">(41) Anicinābäᵉ kä‘tä‘kạmig ki∙i∙ciwâbạt, i‘kitobanīg anicinābäg; kāwīndạc wi‘kā ogīpinisāsīn anicinābä īnī‘ᵘ wâwâbigunōtciyạn, mi∙i∙‘ᵘ kā‘pi∙u∙ntcicitcigät. Kāwin wi‘ka ogīpīnisāsîn.</span>
+<span class="l-orig">(41) Ạnicinābäᵉ kä‘tä‘kạmig kī∙i∙ciwäbạt, i‘kitobanīg anicinābäg; kāwīndạc wī‘kā ogīpinisāsīn ạnicinābä īni´ᵘ wâwâbigunūtcīyạn, mī∙i∙´ᵘ kā‘pi∙u∙ntcicitcigät. Kāwīn wī‘ka ogīpīnisāsīn.</span>
 
 <span class="l-fiero">**Anishinaabeg gaa-dakamig gii-izhiwebad, ikidobaniig anishinaabeg; gaawiin dash wiikaa ogii-bi-nisaasiin anishinaabe iniw waawaabigonoojiiyan, mii i’iw gaa-bi-onji-izhichiged. Gaawiin wiikaa ogii-bi-nisaasiin.**</span>
 
@@ -397,17 +360,15 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Anishinaabeg gaa-dakamig gii-izhiwebad (to the people of long ago this happened — *gete-dakamig ‘ancient times’ flagged*), ikidobaniig anishinaabeg (so the people used to say); gaawiin dash wiikaa ogii-bi-nisaasiin anishinaabe iniw waawaabigonoojiiyan (and never did the people kill the mole), mii i’iw gaa-bi-onji-izhichiged (on account of what it had done). Gaawiin wiikaa ogii-bi-nisaasiin (never did they kill it).</span>
 
-*The mole-etiology: ‘never did the people kill the mole, for what it had done.’ A people-attributed (ikidobaniig) etiological aside, like #70’s ‘thus say the people.’*
+<span class="l-orig">(42) Mīsa iᵘ cigwa kīmādci‘tāt ōpạpwätānāt mini‘k kā‘tcāgisunit, mīsa’ näyāp kī‘pimātisinit ka‘kina. Cīgwadạc kī‘kīwäwạg. Kātạgwicinowāt ändāwāt ogīkạnōnā kāwītcīwād: “Mī∙i∙´ᵘ ijimādcāyu‘k.”</span>
 
-<span class="l-orig">(42) Mīsa iᵃ cigwa kīmādci‘tāt ōpạpwätānāt mini‘k kā‘tcāgisunit, mīsa’ näyāp ki‘pimātisinit ka‘kina. Cīgwadạc ki‘kiwäwạg. Kā‘tạgwicinowat ändāwāt ogikạnōnā kāwītciwād: “Mi∙i∙ijimādcāyu‘k.”</span>
-
-<span class="l-fiero">**Mii sa iw zhigwa gii-maajii’taad obaapwetaanaad minik gaa-jaagizonid, mii sa neyaab gii-bimaadizinid gakina. Zhigwa dash gii-giiwewag. Gaa-dagwishinowaad endaawaad ogii-ganoonaa gaa-wiijiiwaad: “Mii i’i izhi-maajaayok.”**</span>
+<span class="l-fiero">**Mii sa iw zhigwa gii-maajii’taad obaapwetaanaad minik gaa-jaagizonid, mii sa neyaab gii-bimaadizinid gakina. Zhigwa dash gii-giiwewag. Gaa-dagwishinowaad endaawaad ogii-ganoonaa gaa-wiijiiwaad: “Mii i’iw izhi-maajaayok.”**</span>
 
 <span class="l-eng">*Thereupon he then set to work breathing upon all them that had been burned up, whereupon back to life they all came. And now they went back home. When they were come at where they dwelt, he spoke to them with whom he went, saying: “Therefore now you may depart hence.”*</span>
 
-<span class="l-gloss">Mii sa iw zhigwa gii-maajii’taad obaapwetaanaad minik gaa-jaagizonid (then he set to work breathing upon all who had been burned up — *baapwetaw- ‘breathe upon’ flagged*), mii sa neyaab gii-bimaadizinid gakina (and back to life they all came). Zhigwa dash gii-giiwewag (and now they went home). Gaa-dagwishinowaad endaawaad (when they reached where they dwelt) ogii-ganoonaa gaa-wiijiiwaad (he spoke to those who went with him): “Mii i’i izhi-maajaayok.” (“now you may depart.”)</span>
+<span class="l-gloss">Mii sa iw zhigwa gii-maajii’taad obaapwetaanaad minik gaa-jaagizonid (then he set to work breathing upon all who had been burned up — *baapwetaw- ‘breathe upon’ flagged*), mii sa neyaab gii-bimaadizinid gakina (and back to life they all came). Zhigwa dash gii-giiwewag (and now they went home). Gaa-dagwishinowaad endaawaad (when they reached where they dwelt) ogii-ganoonaa gaa-wiijiiwaad (he spoke to those who went with him): “Mii i’iw izhi-maajaayok.” (“now you may depart.”)</span>
 
-<span class="l-orig">(43) Kägä‘t äjimādcāwāt, mī cigwa näyāp ki∙a∙nigīcigatinig.</span>
+<span class="l-orig">(43) Kägä‘t äjimādcāwāt, mī cigwa näyāp kī∙ạ∙nigīcigạtinig.</span>
 
 <span class="l-fiero">**Geget ezhi-maajaawaad, mii zhigwa neyaab gii-ani-giizhigadinig.**</span>
 
@@ -415,27 +376,23 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Geget ezhi-maajaawaad (truly, when they departed), mii zhigwa neyaab gii-ani-giizhigadinig (then presently the light of day came back again).</span>
 
-<span class="l-orig">(44) Kạbäya∙i∙i∙dạc pisan ki∙a∙yā tcagābäs. Mīdạc igwa äniwä‘k ki∙a∙niminditut, mi∙i∙‘ᵘ kīwäpināt upinäciwayānạn. Mīdạc igwa ki∙a∙ndawâbamāt īnī‘ᵘ kāgāgiwạn, cigwadạc uginisān. Mīdạc kā∙i∙cipināt ändāwāt, ugikạnōnān umisäyạn: “Pa‘kun,” ugi∙i∙nān iniyōmisäyạn.</span>
+<span class="l-orig">(44) Kạbäya∙ī∙i∙dạc pisan kī∙a∙yā tcagābäs. Mīdạc igwa äniwä‘k kī∙ạ∙niminditut, mī∙i∙’ᵘ kīwäpināt upinäcīwayānạn. Mīdạc igwa kī∙ạ∙ndawâbamāt īni’ᵘ kāgāgiwạn, cigwadạc ugīnisān. Mīdac kā∙i∙cipināt ändāwāt, ugīkạnōnān umisäyạn: “Pa‘kun,” ugī∙i∙nān īniyōmisäyạn.</span>
 
-<span class="l-fiero">**Gabeya’ii idash bizaan gii-ayaa jaakaabish. Mii dash igwa aniwek gii-ani-minididod, mii i’iw gii-webinaad obineshiiwayaanan. Mii dash igwa gii-andawaabamaad iniw gaagaagiwan, zhigwa dash ogii-nisaan. Mii dash gaa-izhi-binaad endaawaad, ogii-ganoonaan omiseyan: “Bakon,” ogii-inaan ini-omiseyan.**</span>
+<span class="l-fiero">**Gabeya’ii idash bizaan gii-ayaa jaakaabish. Mii dash igwa eniwek gii-ani-minididod, mii i’iw gii-webinaad obineshiiwayaanan. Mii dash igwa gii-andawaabamaad iniw gaagaagiwan, zhigwa dash ogii-nisaan. Mii dash gaa-izhi-binaad endaawaad, ogii-ganoonaan omiseyan: “Bakon,” ogii-inaan ini-omiseyan.**</span>
 
 <span class="l-eng">*For a long while at leisure remained the gnome. And so in time, when he was growing bigger, he thereupon cast aside his bird robe. And then he went seeking for the raven, and presently he killed one. Accordingly, when he fetched it home, he spoke to his elder sister, saying: “Take off its skin,” he said to his elder sister.*</span>
 
-<span class="l-gloss">Gabeya’ii idash bizaan gii-ayaa jaakaabish (for a long while the gnome stayed at leisure). Mii dash igwa aniwek gii-ani-minididod (and in time, as he grew bigger), mii i’iw gii-webinaad obineshiiwayaanan (he cast aside his bird-robe). Mii dash igwa gii-andawaabamaad iniw gaagaagiwan (then he went seeking the raven), zhigwa dash ogii-nisaan (and presently killed one). Mii dash gaa-izhi-binaad endaawaad (when he brought it home), ogii-ganoonaan omiseyan (he spoke to his elder sister): “Bakon,” ogii-inaan ini-omiseyan (“skin it,” he said to her).</span>
+<span class="l-gloss">Gabeya’ii idash bizaan gii-ayaa jaakaabish (for a long while the gnome stayed at leisure). Mii dash igwa eniwek gii-ani-minididod (and in time, as he grew bigger), mii i’iw gii-webinaad obineshiiwayaanan (he cast aside his bird-robe). Mii dash igwa gii-andawaabamaad iniw gaagaagiwan (then he went seeking the raven), zhigwa dash ogii-nisaan (and presently killed one). Mii dash gaa-izhi-binaad endaawaad (when he brought it home), ogii-ganoonaan omiseyan (he spoke to his elder sister): “Bakon,” ogii-inaan ini-omiseyan (“skin it,” he said to her).</span>
 
-*kāgāgi — “raven,” gaagaagi (confirmed in rulegrade).*
+<span class="l-orig">(45) Kägä‘t äjipa‘kunāt a∙i∙‘kwä, kī∙a∙sä‘kānāt īni´ᵘ kāgāgiwayānạn; tcagāpäs kä∙i∙cipīsi‘kawāt, mīsạgu i∙i∙ᵘ kītäbickawāt. Ningutingigu äjikạnōnāt umisäyạn: “Ạmbäsa, ningamādci‘tā wâwâckäciwạg tcinōtci∙a∙g.” Kägä‘tidạc nībiwa ogīnisāᵉ. Mīdac i∙i∙ᵘ kā∙i∙cikạnōnāt īni´ᵘ umisäyạn: “Mī∙i∙wä kīni‘tạm tcimādcitaiyạn tcī∙ā∙wạnạtwā.” A‘pī∙i∙dạc kā‘tcāgāwạnāt a∙i∙‘kwä, mīnawā ogīkạnōnān īniyōmisäyạn: “Täsā‘kwa∙i∙gạn uci‘tōn, mī∙i∙māⁿ icī∙ạ∙gōc.”</span>
 
-<span class="l-orig">(45) Kägä‘t äjipa‘kunāt a∙i∙‘kwä, ki∙a∙sä‘kānāt īnī‘ᵘ kāgāgiwayānạn; tcagāpäs kā∙i∙cipīsi‘kawat, mīsạgu iᵘ kitäbickawāt. Ningutingigu äjikạnōnāt umisäyạn: “Ambäsa, ningamadci‘tā wâwâckäciwag tcinōtci∙a∙g.” Kägä‘tidạc nibiwa ogīnisā. Mīdạc iᵉi∙ᵘ kā∙i∙cikạnōnāt īnī‘ᵘ umisäyạn: “Mi∙i∙wä kīni‘tạm tcimādcitaiyạn tci∙a∙wanatwā.” A‘pī idạc ka‘tcāgāwanāt a∙i∙‘kwä, mīnawā ogikạnōnān iniyōmisäyạn: “Täsā‘kwa∙i∙gan uci‘tōn, mi∙i∙māⁿ ici∙a∙gōc.”</span>
-
-<span class="l-fiero">**Geget ezhi-bakonaad a-ii-kwe, gii-zhaasekaanaad iniw gaagaagiwayaanan; jaakaabish gaa-izhi-bizikawaad, mii sa go iw gii-debishkawaad. Ningoding igo ezhi-ganoonaad omiseyan: “Ambesa, ninga-maajii’taa waawaashkeshiwag ji-noojii’ag.” Geget idash niibiwa ogii-nisaa. Mii dash i’iw gaa-izhi-ganoonaad iniw omiseyan: “Mii iwe giin nitam ji-maajiitaayan ji-awanadwaa.” Apii idash gaa-jaagaawanaad a-ii-kwe, miinawaa ogii-ganoonaan ini-omiseyan: “Desaakwa’igan ozhi’ton, mii imaa izhi-agoozh.”**</span>
+<span class="l-fiero">**Geget ezhi-bakonaad a-ii-kwe, gii-zhaasekaanaad iniw gaagaagiwayaanan; jaakaabish ge-izhi-bizikawaad, mii sa go iw gii-debishkawaad. Ningoding igo ezhi-ganoonaad omiseyan: “Ambesa, ninga-maajii’taa waawaashkeshiwag ji-noojii’ag.” Geget idash niibiwa ogii-nisaa. Mii dash i’iw gaa-izhi-ganoonaad iniw omiseyan: “Mii iwe giin nitam ji-maajiitaayan ji-awanadwaa.” Apii idash gaa-jaagaawanaad a-ii-kwe, miinawaa ogii-ganoonaan ini-omiseyan: “Desaakwa’igan ozhi’ton, mii imaa izhi-agoozh.”**</span>
 
 <span class="l-eng">*In truth, when the woman flayed it, she then tanned the raven-skin; when the gnome had put it on, he thereupon found that it fitted him. And by and by he spoke to his elder sister, saying: “Behold, I am now going to begin hunting deer.” And of a truth many he killed. And then afterwards he spoke to his elder sister, saying: “It is now your place to set to work fetching them.” And when the woman had fetched them all, again he spoke to his elder sister, saying: “A rack for drying meat over the fire do you make, and there hang up (the meat).”*</span>
 
-<span class="l-gloss">Geget ezhi-bakonaad a-ii-kwe (truly when the woman flayed it), gii-zhaasekaanaad iniw gaagaagiwayaanan (she tanned the raven-skin); jaakaabish gaa-izhi-bizikawaad (when the gnome put it on), mii sa go iw gii-debishkawaad (it fitted him). Ningoding igo ezhi-ganoonaad omiseyan (by and by he spoke to his elder sister): “Ambesa, ninga-maajii’taa waawaashkeshiwag ji-noojii’ag.” (“behold, I will begin hunting deer.”) Geget idash niibiwa ogii-nisaa (and truly he killed many). Mii dash i’iw gaa-izhi-ganoonaad iniw omiseyan (then he spoke to his elder sister): “Mii iwe giin nitam ji-maajiitaayan ji-awanadwaa.” (“now it is your turn to set to fetching them.” — *awana- ‘fetch/haul’ flagged*) Apii idash gaa-jaagaawanaad a-ii-kwe (when the woman had fetched them all), miinawaa ogii-ganoonaan ini-omiseyan (again he spoke to her): “Desaakwa’igan ozhi’ton, mii imaa izhi-agoozh.” (“make a drying-rack, and hang [the meat] up there.” — *desaakwa’igan ‘meat-drying rack’ flagged; agoozh- the hanging verb again*)</span>
+<span class="l-gloss">Geget ezhi-bakonaad a-ii-kwe (truly when the woman flayed it), gii-zhaasekaanaad iniw gaagaagiwayaanan (she tanned the raven-skin); jaakaabish ge-izhi-bizikawaad (when the gnome put it on), mii sa go iw gii-debishkawaad (it fitted him). Ningoding igo ezhi-ganoonaad omiseyan (by and by he spoke to his elder sister): “Ambesa, ninga-maajii’taa waawaashkeshiwag ji-noojii’ag.” (“behold, I will begin hunting deer.”) Geget idash niibiwa ogii-nisaa (and truly he killed many). Mii dash i’iw gaa-izhi-ganoonaad iniw omiseyan (then he spoke to his elder sister): “Mii iwe giin nitam ji-maajiitaayan ji-awanadwaa.” (“now it is your turn to set to fetching them.” — *awana- ‘fetch/haul’ flagged*) Apii idash gaa-jaagaawanaad a-ii-kwe (when the woman had fetched them all), miinawaa ogii-ganoonaan ini-omiseyan (again he spoke to her): “Desaakwa’igan ozhi’ton, mii imaa izhi-agoozh.” (“make a drying-rack, and hang [the meat] up there.” — *desaakwa’igan ‘meat-drying rack’ flagged; agoozh- the hanging verb again*)</span>
 
-*wâwâckäci — “deer” (waawaashkeshi, confirmed in rulegrade). Täsā‘kwa∙i∙gan — “a meat-drying rack,” desaakwa’igan, drafted.*
-
-<span class="l-orig">(46) Kägä‘t äci∙a∙gōnāt a∙i∙‘kwä.</span>
+<span class="l-orig">(46) Kägä‘t äci∙ạ∙gōnāt a∙i∙‘kwä.</span>
 
 <span class="l-fiero">**Geget ezhi-agoonaad a-ii-kwe.**</span>
 
@@ -443,7 +400,7 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Geget ezhi-agoonaad a-ii-kwe (verily, the woman hung [the meat] up — *agoozh- the hang-up verb again*).</span>
 
-<span class="l-orig">(47) “Mīsa iᵉi∙ᵘ tcitäwâbạniciyạnk, mīdạc äta iᵉi∙ᵘ gä∙i∙nạno‘kīyān tcigi∙o∙täyān. Wâbạnk niwīmādcā.” Wawâbạninig äjimādcāt; tcibwānāwa‘kwänik owâbandān sāga∙i∙gan ōpigamāni, mī∙i∙witi wâbamāt anicinābä a‘kwawânit; änijināsi‘kawāt. Päcwāpạmāt īnī‘ᵘ pa∙i∙ckwa∙i∙cininit äjikīgitut tcạgāpäs: “Ambäsạnō ogawīmindciwābamāᵉ iᵘ gīgōⁿyaᵉ aᵉa’ᵘ cäcīngcink inini!”</span>
+<span class="l-orig">(47) “Mīsa iᵉi´ᵘ tcitäwâbạniciyạnk, mīdạc äta iᵉi´ᵘ gä∙i∙nạno‘kīyān tcigī∙o∙täyān. Wâbạnk niwīmādcā.” Wawâbạninig äjimādcāt; tcibwānāwa‘kwänik owâbạndān sāga∙i∙gạn ōpigạmāni, mī∙i∙witi wâbạmāt anicināpä a‘kwawânit; änijināsi‘kawāt. Päcwāpạmāt īni´ᵘ pa∙i∙ckwa∙i∙cininit äjikīgitut tcạgāpäs: “Ạmbäsạnō ogawīmindciwābamāᵉ iᵘ gīgōⁿyaᵉ aᵉa´ᵘ cäcīngcink inini!”</span>
 
 <span class="l-fiero">**“Mii sa i’iw ji-de-waabanizhiyang, mii dash eta i’iw ge-inanokiiyaan ji-gii-odeyaan. Waabang niwii-maajaa.” Wewaabaninig ezhi-maajaad; jibwaa-naawakwenik owaabandaan zaaga’igan obigamaani, mii iwidi waabamaad anishinaabe akwawaanid; ani-izhi-naazikawaad. Beshwaabamaad iniw ba-ishkwaa’izhininid ezhi-giigidod jaakaabish: “Ambesanoo ogaa-wii-minjiwaabamaa iw giigoonyag a’aw zhezhingishing inini!”**</span>
 
@@ -451,9 +408,7 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">“Mii sa i’iw ji-de-waabanizhiyang (“now we should live through the winter — *de-waaban- ‘survive/last out’ flagged*), mii dash eta i’iw ge-inanokiiyaan ji-gii-odeyaan (and all I need do is to go visiting). Waabang niwii-maajaa.” (tomorrow I wish to start.”) Wewaabaninig ezhi-maajaad (on the morrow he departed); jibwaa-naawakwenik owaabandaan zaaga’igan obigamaani (before noon he saw the narrows of a lake — *obigamaan ‘narrows’ flagged*), mii iwidi waabamaad anishinaabe akwawaanid (and there he saw people spearing fish through the ice — *akwawe- ‘spear through the ice’ flagged*); ani-izhi-naazikawaad (he went over to them). Beshwaabamaad iniw ba-ishkwaa’izhininid (when he was in easy view of the nearest ones) ezhi-giigidod jaakaabish (the gnome spoke): “Ambesanoo ogaa-wii-minjiwaabamaa iw giigoonyag a’aw zhezhingishing inini!” (“would that the man lying down might see fish abundantly!” — *minjiwaabam- ‘see in abundance’ flagged*)</span>
 
-*gīgōⁿyaᵍ — “fishes” (giigoonyag); the medial-nasal + final raised-ᵍ verified at 3× (`p368_line6c.png`). akwawânit / akwawe- — “spearing fish through the ice,” drafted, flagged. The fish-word is printed gīgōⁿyaᵍ / gīⁿgōyạg / gi‘gōnya across §47–§52 — variation preserved.*
-
-<span class="l-orig">(48) Kägätsa omintciwâbạmā∙adi‘kamägwaᵉ. Mägwāgu cingicing, awiya kīpītwäwäcinōn; äci∙a∙gwasä∙i∙ginạng īnī‘ᵘ uta‘pa‘kwānan ogīwâbamān kwiwisänsan kāgāgiwayạnan wäpapīnsi‘kawāganinit. Äcikạnōnāt: “Kägätsa wa∙aᵘᵘ matcikwiwicäncic. Tạga anikiwän, mäsina∙ō∙täwạnagicīyạn.”</span>
+<span class="l-orig">(48) Kägätsa omintciwâbạmā ạdi‘kamägwaᵉ. Mägwāgu cingicing, awīya kīpītwäwäcinōn; äci∙a∙gwasä∙ī∙ginạng īni´ᵘ uta‘pa‘kwānạn ogīwâbạmān kwīwisänsạn kāgāgiwayānạn wäpapīnsi‘kawāgạninit. Äcikạnōnāt: “Kägätsa wa∙a∙´ᵘ mạtcikwīwicäncic. Tạga ạnikīwän, mäsina∙ō∙täwạnạgicīyạn.”</span>
 
 <span class="l-fiero">**Gegetsa ominjiwaabamaa adikamegwag. Megwaa go zhingishing, awiya gii-bi-dwewezhinon; ezhi-agwaazhe’iginang iniw oda’apakwaanan ogii-waabamaan gwiiwizenzan gaagaagiwayanan webabiinzi-gawaaganinid. Ezhi-ganoonaad: “Gegetsa wa-aw maji-gwiiwizhenzhish. Daga ani-giiwen, mezina-o-dewanagizhiyan.”**</span>
 
@@ -461,17 +416,19 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Gegetsa ominjiwaabamaa adikamegwag (sure enough, he saw whitefishes in abundance — *adikameg ‘whitefish’*). Megwaa go zhingishing (while he lay there), awiya gii-bi-dwewezhinon (he heard someone coming); ezhi-agwaazhe’iginang iniw oda’apakwaanan (on opening the cover he was under — *da’apakwaan ‘cover/blind’ flagged*) ogii-waabamaan gwiiwizenzan gaagaagiwayanan webabiinzi-gawaaganinid (he saw a small boy clad in a raven-robe). Ezhi-ganoonaad (he spoke to him): “Gegetsa wa-aw maji-gwiiwizhenzhish (“truly, you are a good-for-nothing little boy). Daga ani-giiwen, mezina-o-dewanagizhiyan.” (you’d best go home, for your entrails are tangled in a snarl.” — *dewanagizhi ‘entrails tangled’; see footnote*)</span>
 
+*¹ (p368 foot, Jones, attaches here) Raven’s guts are said to be tangled up, and so the garb of the lad called forth the epithet. — adi‘kamägwaᵉ ‘whitefishes’ (adikameg); the entrails-epithet mäsina∙ō∙täwạnagicît / dewanagizhi drafted, flagged.*
+
 *¹ (p368 foot, Jones, attaches here) Raven’s guts are said to be tangled up, and so the garb of the lad called forth the epithet. — adi‘kamägwaᵍ ‘whitefishes’ (adikameg); the entrails-epithet mäsina∙ō∙täwạnagicît / dewanagizhi drafted, flagged.*
 
-<span class="l-orig">(49) Ānic mīsa’ äni∙i∙cikīwät tcakāpäs; päcugu änitạgwicink, äni∙i∙jiki‘tcimawit. Kumāgu mini‘k ki∙a∙nimawi. A∙ī∙gwa utäbābandān ändāwāt, mīsa mīnawā aniki‘tcimawit.</span>
+<span class="l-orig">(49) Ānīc mīsa’ äni∙i∙cikīwät tcakāpäs; päcugu änitạgwicink, äni∙i∙jiki‘tcimawit. Kumāgu mini‘k kī∙a∙nimạwi. A∙ī∙gwa utäbābạndān ändāwāt, mīsa mīnawā ạniki‘tcimawit.</span>
 
-<span class="l-fiero">**Aanish mii sa ani-izhi-giiwed jaakaabish; besho go ani-dagwishing, ani-izhi-gichi-mawid. Gomaa minik gii-ani-mawi. Aazha gwa odebaabandaan endaawaad, mii sa miinawaa ani-gichi-mawid.**</span>
+<span class="l-fiero">**Aanish mii sa ani-izhi-giiwed jaakaabish; besho go ani-dagwishing, ani-izhi-gichi-mawid. Gomaa go minik gii-ani-mawi. Aazha gwa odebaabandaan endaawaad, mii sa miinawaa ani-gichi-mawid.**</span>
 
 <span class="l-eng">*So therefore back home went the gnome; and when he was getting close to home, he then began to weep aloud as he went along. For some time he wept as he went along. In a while he came in sight of his home, whereupon again he began crying aloud.*</span>
 
-<span class="l-gloss">Aanish mii sa ani-izhi-giiwed jaakaabish (so back home went the gnome); besho go ani-dagwishing (when he was getting close), ani-izhi-gichi-mawid (he began to weep aloud as he went). Gomaa minik gii-ani-mawi (for some way he wept). Aazha gwa odebaabandaan endaawaad (in a while he came in sight of home), mii sa miinawaa ani-gichi-mawid (and again he began crying aloud).</span>
+<span class="l-gloss">Aanish mii sa ani-izhi-giiwed jaakaabish (so back home went the gnome); besho go ani-dagwishing (when he was getting close), ani-izhi-gichi-mawid (he began to weep aloud as he went). Gomaa go minik gii-ani-mawi (for some way he wept). Aazha gwa odebaabandaan endaawaad (in a while he came in sight of home), mii sa miinawaa ani-gichi-mawid (and again he began crying aloud).</span>
 
-<span class="l-orig">(50) Mägwāgu nāmạdạbit a∙i∙‘kwä kibimawiwạn iniyocimäyạn. A∙ī∙gwa pindigäwạn äcikạnōnāt: “Anin ändiyạn?”</span>
+<span class="l-orig">(50) Mägwāgu nāmạdạbit a∙ī∙‘kwä kībimawiwạn īniyocimāyạn. A∙ī∙gwa pīndigäwạn äcikạnōnāt: “Ānin ändiyạn?”</span>
 
 <span class="l-fiero">**Megwaa go naamadabid a-ii-kwe gii-bimawiwan ini-oshiimeyan. Aazha gwa biindigewan ezhi-ganoonaad: “Aaniin endiyan?”**</span>
 
@@ -479,17 +436,15 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Megwaa go naamadabid a-ii-kwe (while the woman sat there) gii-bimawiwan ini-oshiimeyan (her little brother came crying). Aazha gwa biindigewan ezhi-ganoonaad (when he came in she spoke to him): “Aaniin endiyan?” (“what is the matter with you?”)</span>
 
-<span class="l-orig">(51) “Nintānu∙u∙tisāg igi‘ᵘ anicinābäg, mīdạc iᵉi∙ᵘ a‘pīwädisạgwā päjig aᵃaᵘ inini ningī∙i∙nänimā: ‘Ambägīcsa mindciwâbamāt iᵃ gīgōⁿyaᵃ!’ Kägä‘tidạc udānumindciwâbạmat. Kā∙u∙cikābāwi‘tawagidạc ningīwābami‘k kā∙i∙jikanōjit: ‘Ạmandcikic∙a∙ᵘ mādcikwiwicäncic mäzina∙ō∙täwạnagicît pa∙i∙nạno‘kigwän! Mī∙i∙‘ᵘ anicikiwän!’ Mīdạc iᵃ kāpicikīwäyän. Kägätsa nimbī∙i∙nigāwagändạm. Tạgatạc, nimisä‘, madutusunikän.”</span>
+<span class="l-orig">(51) “Nintānu∙u∙tisāg īgi´ᵘ anicinābäg, mīdạc iᵉi´ᵘ a‘pīwädisạgwā päjig aᵉa´ᵘ inini ningī∙i∙nänimā: ‘Ạmbägīcsa´ mindciwâbạmāt iᵘ gigōⁿyaⁱ!’ Kägä‘tidạc udānumindciwâbạmat. Kā∙u∙cikābāwi‘tawạgidạc ningīwābami‘k kā∙i∙jikanōjit: ‘Ạmandcikic∙a∙ᵘ mādcikwiwicäncic mäzina∙ō∙täwạnạgicīt pa∙i∙nạno‘kīgwän! Mī∙i∙´ᵘ ạnicikīwän!’ Mīdạc iᵘ kāpicikīwäyān. Kāgätsa nimbī∙i∙nigāwagändạm. Tạgatạc, nimisäⁿ, mạdutusunikän.”</span>
 
-<span class="l-fiero">**“Nindaano-odisaag igiw anishinaabeg, mii dash i’iw apii-wedisagwaa bezhig a’aw inini ningii-inenimaa: ‘Ambegiizhsa minjiwaabamaad iw giigoonyan!’ Geget idash odaano-minjiwaabamad. Gaa-onji-gaabaawi’tawag idash ningii-waabami’ig gaa-izhi-ganoozhid: ‘Amanjigizh wa-aw maji-gwiiwizhenzhish mezina-o-dewanagizhid ba-inanokiigwen! Mii i’iw ani-giiwen!’ Mii dash iw gaa-bizhi-giiweyaan. Gegetsa nimbii-inigaawagendam. Daga dash, nimise, madoodoosoniken.”**</span>
+<span class="l-fiero">**“Nindaano-odisaag igiw anishinaabeg, mii dash i’iw apii-wedisagwaa bezhig a’aw inini ningii-inenimaa: ‘Ambegiizhsa minjiwaabamaad iw giigoonyan!’ Geget idash odaano-minjiwaabamad. Gaa-onji-gaabaawi’tawag idash ningii-waabami’ig gaa-izhi-ganoozhid: ‘Amanjigizh wa-aw maji-gwiiwizhenzhish mezina-o-dewanagizhid ba-inanokiigwen! Mii i’iw ani-giiwen!’ Mii dash iw gaa-bizhi-giiweyaan. Gegetsa nimbii-inigaawagendam. Daga dash, nimisenh, madoodoosoniken.”**</span>
 
 <span class="l-eng">*“I tried visiting some people; so, when I came to where there was a man, I wished him (this thought): ‘Would that he might see fish abundantly!’ And, sure enough, he saw many (fish), but it did no good. When I came up (and) stood beside him, I was given a look, after which he said to me: ‘Wonder what this good-for-nothing little boy has come to do, he whose entrails are tangled into a snarl! Now go on back home!’ And that is why I have returned. In truth, I feel humble. And now, my elder sister, put up a sweat-lodge.”*</span>
 
-<span class="l-gloss">“Nindaano-odisaag igiw anishinaabeg (“I tried visiting some people), mii dash i’iw apii-wedisagwaa bezhig a’aw inini ningii-inenimaa (and when I came to one man I wished him this thought): ‘Ambegiizhsa minjiwaabamaad iw giigoonyan!’ (‘would that he might see fish in plenty!’) Geget idash odaano-minjiwaabamad (and truly he saw many, but to no good). Gaa-onji-gaabaawi’tawag idash ningii-waabami’ig gaa-izhi-ganoozhid (when I came and stood by him I was given a look, after which he said to me): ‘Amanjigizh wa-aw maji-gwiiwizhenzhish mezina-o-dewanagizhid ba-inanokiigwen! (‘wonder what this good-for-nothing little boy whose entrails are snarled has come to do! Mii i’iw ani-giiwen!’ (now go on home!’) Mii dash iw gaa-bizhi-giiweyaan (and that is why I came back). Gegetsa nimbii-inigaawagendam (truly I feel humbled — *inigaawagendam ‘feel low’ flagged*). Daga dash, nimise, madoodoosoniken.” (and now, my elder sister, put up a sweat-lodge.” — *madoodooson ‘sweat-lodge’ flagged*)</span>
+<span class="l-gloss">“Nindaano-odisaag igiw anishinaabeg (“I tried visiting some people), mii dash i’iw apii-wedisagwaa bezhig a’aw inini ningii-inenimaa (and when I came to one man I wished him this thought): ‘Ambegiizhsa minjiwaabamaad iw giigoonyan!’ (‘would that he might see fish in plenty!’) Geget idash odaano-minjiwaabamad (and truly he saw many, but to no good). Gaa-onji-gaabaawi’tawag idash ningii-waabami’ig gaa-izhi-ganoozhid (when I came and stood by him I was given a look, after which he said to me): ‘Amanjigizh wa-aw maji-gwiiwizhenzhish mezina-o-dewanagizhid ba-inanokiigwen! (‘wonder what this good-for-nothing little boy whose entrails are snarled has come to do! Mii i’iw ani-giiwen!’ (now go on home!’) Mii dash iw gaa-bizhi-giiweyaan (and that is why I came back). Gegetsa nimbii-inigaawagendam (truly I feel humbled — *inigaawagendam ‘feel low’ flagged*). Daga dash, nimisenh, madoodoosoniken.” (and now, my elder sister, put up a sweat-lodge.” — *madoodooson ‘sweat-lodge’ flagged*)</span>
 
-*madutusun / madutusunikän — “sweat-lodge; put up a sweat-lodge,” madoodooson, drafted, flagged. minjiwaabam- “see [it] in abundance,” the abundance-wish verb, drafted.*
-
-<span class="l-orig">(52) Kägä‘t äjimạtutusunigät a∙i∙‘kwä. Kā‘kici‘tōt mạtōtusun, mi∙i∙‘ᵘ tcakāpäs äjipindigät.</span>
+<span class="l-orig">(52) Kägä‘t äjimạtutusunigät a∙i∙‘kwä. Kā‘kīci‘tōt mạtōtusun, mī∙i∙’ᵘ tcakāpäs äjipīndigät.</span>
 
 <span class="l-fiero">**Geget ezhi-madoodoosoniged a-ii-kwe. Gaa-giizhi’tood madoodooson, mii i’iw jaakaabish ezhi-biindiged.**</span>
 
@@ -497,15 +452,15 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Geget ezhi-madoodoosoniged a-ii-kwe (truly the woman set up a sweat-lodge). Gaa-giizhi’tood madoodooson (when she had finished it), mii i’iw jaakaabish ezhi-biindiged (the gnome went in).</span>
 
-<span class="l-orig">(53) Mīsa cigwa ucimäyạn mạdwägāgigitōwạn: “Tạga’, tapa‘kadäwạg igi‘ᵘ anicinābäg!” Mīsa iᵉi∙ᵘ äci∙i∙ckwāmadōtōt. Äjigāgikitut kumāgu mini‘k: “Äye, kạbäya∙i∙i∙gu mīsai kä∙i∙ji∙i∙cāyān īgi‘ᵘ anicinābäg.”</span>
+<span class="l-orig">(53) Mīsa cigwa ucīmäyạn mạdwägāgīgitōwạn: “Tạga´, tapa‘kadäwạg īgi´ᵘ anicinābäg!” Mīsa iᵉi’ᵘ äci∙i∙ckwāmạdōtōt. Äjigāgīkitut kumāgu mini‘k: “Äyeᵉ, kạbäya∙ī∙i∙gu mīsai kä∙i∙ji∙i∙cāyān īgi´ᵘ anicinābäg.”</span>
 
-<span class="l-fiero">**Mii sa zhigwa oshiimeyan madwe-gaagiigidowan: “Daga, da-bakadewag igiw anishinaabeg!” Mii sa i’iw ezhi-ishkwaa-madoodood. Ezhi-gaagiigidod gomaa minik: “Aye, gabeya’ii go mii sa ge-izhi-izhaayaan igiw anishinaabeg.”**</span>
+<span class="l-fiero">**Mii sa zhigwa oshiimeyan madwe-gaagiigidowan: “Daga, da-bakadewag igiw anishinaabeg!” Mii sa i’iw ezhi-ishkwaa-madoodood. Ezhi-gaagiigidod gomaa go minik: “Aye, gabeya’ii go mii sa ge-izhi-izhaayaan igiw anishinaabeg.”**</span>
 
 <span class="l-eng">*And then presently (she heard) the sound of her little brother’s voice saying: “Now, may the people be in want of food!” And that was the extent of his conjuring in the sweat-lodge. Then he discoursed at some length. “Ay, (it will be) a long while before I go to the people.”*</span>
 
-<span class="l-gloss">Mii sa zhigwa oshiimeyan madwe-gaagiigidowan (and presently her little brother’s voice was heard): “Daga, da-bakadewag igiw anishinaabeg!” (“now, may those people be in want of food!”) Mii sa i’iw ezhi-ishkwaa-madoodood (and that was the extent of his sweat-lodge conjuring). Ezhi-gaagiigidod gomaa minik (then he discoursed at some length): “Aye, gabeya’ii go mii sa ge-izhi-izhaayaan igiw anishinaabeg.” (“ay, a long while before I go to those people.”)</span>
+<span class="l-gloss">Mii sa zhigwa oshiimeyan madwe-gaagiigidowan (and presently her little brother’s voice was heard): “Daga, da-bakadewag igiw anishinaabeg!” (“now, may those people be in want of food!”) Mii sa i’iw ezhi-ishkwaa-madoodood (and that was the extent of his sweat-lodge conjuring). Ezhi-gaagiigidod gomaa go minik (then he discoursed at some length): “Aye, gabeya’ii go mii sa ge-izhi-izhaayaan igiw anishinaabeg.” (“ay, a long while before I go to those people.”)</span>
 
-<span class="l-orig">(54) Cigwa äjimādcāt, cigwa mīnawa owâbama anicinābäᵉ mi geyābi a‘kwawānit, mīnawā päjipīckwäcinōn ininiwan. “Kāmāwīn āwisī∙i∙tug aᵃ kāmatcikạnōcit!” inändạm. Ogāgīmā∙a∙n. “Tạga, ugawimindciwābama kigōⁿya!” udinänimān.</span>
+<span class="l-orig">(54) Cigwa äjimādcāt, cigwa mīnawā owâbạmāᵉ anicinābäᵉ mī geyābi a‘kwawānit, mīnawā päjipīckwäcinōn ininiwạn. “Kāmāwīn āwisī∙i∙tug aᵉa´ᵘ kāmạtcikạnōcit!” inändam. Ogāgīmā∙ā∙n. “Tạga, ugawimindciwābạma kīgōⁿyaᵉ!” udinänimān.</span>
 
 <span class="l-fiero">**Zhigwa ezhi-maajaad, zhigwa miinawaa owaabamaa anishinaabeg mii geyaabi akwawaanid, miinawaa bezhig bishkweshinon ininiwan. “Gaa maawiin aawii-itog a’aw gaa-maji-ganoozhid!” inendam. Ogaagiimaa’an. “Daga, oga-wii-minjiwaabamaa giigoonyan!” odinenimaan.**</span>
 
@@ -513,15 +468,15 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Zhigwa ezhi-maajaad (in time he set out), zhigwa miinawaa owaabamaa anishinaabeg mii geyaabi akwawaanid (again he saw people still spearing fish through the ice), miinawaa bezhig bishkweshinon ininiwan (and a man lying at the nearest place). “Gaa maawiin aawii-itog a’aw gaa-maji-ganoozhid!” inendam (“wonder if it isn’t the one who spoke ill to me!” he thought). Ogaagiimaa’an (he walked stealthily up to him — *gaagiima’- ‘approach stealthily’ flagged*). “Daga, oga-wii-minjiwaabamaa giigoonyan!” odinenimaan (“now, may he see fish abundantly!” was his wish for him).</span>
 
-<span class="l-orig">(55) Kägä‘t aᵃa∙i∙nini umindciwâbamā iᵉi∙ᵘ adi‘kạmägwaᵉ. Awiya kīpītwäwäcinōn äjipā‘kīgīt, äᵉtiwä kīnībawiwạn kwiwisäsạn! Äjikạnōnāt: “Ō, ni‘tā, ondās! tạga’ kawītcicinōmin.”</span>
+<span class="l-orig">(55) Kägä‘t aᵉa∙i∙nini umindciwâbamāᵉ iᵉi´ᵘ ạdi‘kạmägwaᵉ. Awīya kīpītwäwäcinōn äjipā‘kīgīt, ä‘tiwä kīnībawiwạn kwīwisäsạn! Äjikanōnāt: “Ō, nī‘tā, ondās! tạga´ kawītcicinōmin.”</span>
 
-<span class="l-fiero">**Geget a’aw inini ominjiwaabamaa i’iw adikamegwag. Awiya gii-bi-dwewezhinon ezhi-baakiigid, aatiwe gii-niibawiwan gwiiwizensan! Ezhi-ganoonaad: “Oo, niitaa, ondaas! daga ga-wiijishinomin.”**</span>
+<span class="l-fiero">**Geget a’aw inini ominjiwaabamaa i’iw adikamegwag. Awiya gii-bi-dwewezhinon ezhi-baakiigid, etiwe gii-niibawiwan gwiiwizensan! Ezhi-ganoonaad: “Oo, niitaa, ondaas! daga ga-wiijishinomin.”**</span>
 
-<span class="l-eng">*In truth, the man saw whitefishes in abundance. When he heard the sound of some one coming, he opened (the covering he was under), and what did he see but a little boy standing there! Then he spoke to him, saying: “My friend, come here! Why, we will lie (here) together (to watch for fish).”*</span>
+<span class="l-eng">*Sure enough, the man saw whitefishes in abundance. When he heard the sound of some one coming, he opened (the covering he was under), and what did he see but a little boy standing there! Then he spoke to him, saying: “My friend, come here! Why, we will lie (here) together (to watch for fish).”*</span>
 
-<span class="l-gloss">Geget a’aw inini ominjiwaabamaa i’iw adikamegwag (truly the man saw whitefishes in abundance). Awiya gii-bi-dwewezhinon ezhi-baakiigid (hearing someone coming, he opened [his cover]), aatiwe gii-niibawiwan gwiiwizensan! (and lo, a little boy stood there!) Ezhi-ganoonaad (he spoke to him): “Oo, niitaa, ondaas! daga ga-wiijishinomin.” (“my friend, come here! we will lie here together [to watch for fish].”)</span>
+<span class="l-gloss">Geget a’aw inini ominjiwaabamaa i’iw adikamegwag (truly the man saw whitefishes in abundance). Awiya gii-bi-dwewezhinon ezhi-baakiigid (hearing someone coming, he opened [his cover]), etiwe gii-niibawiwan gwiiwizensan! (and lo, a little boy stood there!) Ezhi-ganoonaad (he spoke to him): “Oo, niitaa, ondaas! daga ga-wiijishinomin.” (“my friend, come here! we will lie here together [to watch for fish].”)</span>
 
-<span class="l-orig">(56) “Kägätsa ambäsạnō ningawimandciwâbamānānig īgi‘ᵘ gīⁿgōyạg.” Kägä‘t umindciwâbamāwa nibiwa unisawa. A‘pitci wänāgucininig äjipā‘kiwāt. Cigwadạc uganōnigōn inīniwan kwiwisäns: “Mīgu gägä‘t tciginōndābạniciyāngibạn. Ningīnōndāmin ābiting ōmāⁿ kipitạgwicinuwanän. Intawātạc kin ka‘kina kīgatayāwāᵉ igi‘ᵘ gīⁿgōyạg.”</span>
+<span class="l-orig">(56) “Kägätsa ạmbäsạnō ningawimạndciwâbạmānānig īgi´ᵘ gīⁿgōyạg.” Kägä‘t umindciwâbạmāwaᵉ nībiwa unisāwaᵉ. Ā‘pitci wänāgucininig äjipā‘kīwāt. Cigwadạc ugạnōnigōn inīniwạn kwīwisäns: “Mīgu gägä‘t tciginōndābạniciyāngibạn. Ningīnōndāmin ābiting ōmāⁿ kipitạgwicinuwạnän. Intawātạc kīn ka‘kina kīgạtayāwāg īgi´ᵘ gīgōⁿyạg.”</span>
 
 <span class="l-fiero">**“Gegetsa ambesanoo ninga-wii-minjiwaabamaanaanig igiw giigoonyag.” Geget ominjiwaabamaawaa niibiwa onisaawaa. Aapiji wenaagoshininig ezhi-baakiwaad. Zhigwa dash oganoonigoon ininiwan gwiiwizens: “Mii go geget ji-gii-noondaabanizhiyaangiban. Ningii-noondaamin aabiding omaa gii-bi-dagwishinowanen. Indawaa dash giin gakina giga-da-ayaawaag igiw giigoonyag.”**</span>
 
@@ -529,15 +484,15 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">“Gegetsa ambesanoo ninga-wii-minjiwaabamaanaanig igiw giigoonyag.” (“truly now may we see many fish.”) Geget ominjiwaabamaawaa niibiwa onisaawaa (truly they saw many, they killed many). Aapiji wenaagoshininig ezhi-baakiwaad (when it was late evening they ceased spearing). Zhigwa dash oganoonigoon ininiwan gwiiwizens (and then the boy was addressed by the man): “Mii go geget ji-gii-noondaabanizhiyaangiban (“truly we might not have lasted the winter — *noondaabanizhi- ‘fall short’ flagged*). Ningii-noondaamin aabiding omaa gii-bi-dagwishinowanen (we heard that you once came here). Indawaa dash giin gakina giga-da-ayaawaag igiw giigoonyag.” (so keep all the fishes.”)</span>
 
-<span class="l-orig">(57) Tcakābäsidạc oganōnān: “Kāwīn. Nic ä‘ta ningan(i)mädcīnāᵉ, mi∙i∙wä kä∙i∙ciki‘tciminwäntạmān. Migwetcsa māciyạn īgi‘ᵘ gīⁿgōyạg.” Tcakābäs änicimādcīnāt īnī‘ᵘ gīⁿgōya. Cigwasa upindiganā ändāwāt.</span>
+<span class="l-orig">(57) Tcakābās idạc ogạnōnān: “Kāwīn. Nīc ä‘ta ningạnimādcīnāg, mī∙i∙wä kä∙i∙ciki‘tciminwäntạmān. Mīgwetcsa māciyạn īgi´ᵘ gīgōⁿyạg.” Tcakābäs änicimādcīnāt īni´ᵘ gīgōyaᵉ. Cigwasa upīndigạnā ändāwât.</span>
 
-<span class="l-fiero">**Jaakaabish idash oganoonaan: “Gaawiin. Niizh eta ninga-ani-maajiinaag, mii iwe ge-izhi-gichi-minwendamaan. Miigwechsa maaziyan igiw giigoonyag.” Jaakaabish ani-izhi-maajiinaad iniw giigoonyan. Zhigwasa obiindiganaa endaawaad.**</span>
+<span class="l-fiero">**Jaakaabish idash oganoonaan: “Gaawiin. Niizh eta ninga-ani-maajiinaag, mii iwe ge-izhi-gichi-minwendamaan. Miigwechsa maaziyan igiw giigoonyag.” Jaakaabish ani-izhi-maajiinaad iniw giigooyan. Zhigwasa obiindiganaa endaawaad.**</span>
 
 <span class="l-eng">*The gnome then spoke to him, saying: “No. Two only will I take away, for with that shall I be quite content. (I) thank (you) for the fish that you have given me.” The gnome then set out upon his way with the fishes. In time he fetched them into where he (and his elder sister) dwelt.*</span>
 
-<span class="l-gloss">Jaakaabish idash oganoonaan (the gnome then spoke to him): “Gaawiin. Niizh eta ninga-ani-maajiinaag (“no, two only will I take away), mii iwe ge-izhi-gichi-minwendamaan (with that I shall be quite content). Miigwechsa maaziyan igiw giigoonyag.” (thanks for the fish you have given me.”) Jaakaabish ani-izhi-maajiinaad iniw giigoonyan (the gnome set off with the fishes). Zhigwasa obiindiganaa endaawaad (in time he brought them in to where they dwelt).</span>
+<span class="l-gloss">Jaakaabish idash oganoonaan (the gnome then spoke to him): “Gaawiin. Niizh eta ninga-ani-maajiinaag (“no, two only will I take away), mii iwe ge-izhi-gichi-minwendamaan (with that I shall be quite content). Miigwechsa maaziyan igiw giigoonyag.” (thanks for the fish you have given me.”) Jaakaabish ani-izhi-maajiinaad iniw giigooyan (the gnome set off with the fishes). Zhigwasa obiindiganaa endaawaad (in time he brought them in to where they dwelt).</span>
 
-<span class="l-orig">(58) “Iyā‘, nāsạna kạgīma‘kạndwänag!”</span>
+<span class="l-orig">(58) “Iyā´, nāsạna kạgīma‘kạndwänạg!”</span>
 
 <span class="l-fiero">**“Iyaa, naasana ga-gii-makandwenag!”**</span>
 
@@ -545,9 +500,7 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">“Iyaa, naasana ga-gii-makandwenag!” (“oh, you must have stolen them from somebody!” — *makandwe- ‘steal/take by force’ flagged*)</span>
 
-*ma‘kạndwä- — “steal / take from someone by force,” makandwe-, drafted, flagged (recurs §62, §63).*
-
-<span class="l-orig">(59) Tcakābäsidạc oganōnān iniyōmisäyạn: “Nī‘tā ningīmini‘k ōgō‘ᵘ gīgō‘yạg.”</span>
+<span class="l-orig">(59) Tcakābäsidạc ugạnōnān īniyōmisäyạn: “Nī‘tā ningīmini‘k ōgō´ᵘ gīgōⁿyạg.”</span>
 
 <span class="l-fiero">**Jaakaabish idash oganoonaan ini-omiseyan: “Niitaa ningii-miinig ogow giigoonyag.”**</span>
 
@@ -555,15 +508,15 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Jaakaabish idash oganoonaan ini-omiseyan (and the gnome spoke to his elder sister): “Niitaa ningii-miinig ogow giigoonyag.” (“by my friend was I given these fishes.”)</span>
 
-<span class="l-orig">(60) Mīsa iᵉi∙ᵘ kimādci‘tāt a∙i∙kwä kī‘kabācimāt isi‘ᵘ gi‘gōnya. Kägä‘t wäwäni wisiniwạg. Mīsa iᵉi∙ᵘ äcitibi‘katinig kāwīn idạc nibāsīwạn iniyōcimäyạn. Mīgu pītābạninig uganōnān iniyōcimäyạn:</span>
+<span class="l-orig">(60) Mīsa iᵉi´ᵘ kīmādci‘tāt a∙i∙kwä kī‘kạbācimāt iᵉi´ᵘ gī´gōⁿyaᵉ. Kägä‘t wäwäni wīsiniwạg. Mīsa iᵉi´ᵘ äcitibi‘kạtinig kāwīn idạc nibāsīwạn īniyocīmäyan. Mīgu pītābạninig ugạnōnān īniyocimäyạn:</span>
 
-<span class="l-fiero">**Mii sa i’iw gii-maajii’taad a-ii-kwe gii-gabaajimaad isiw giigoonyan. Geget wewani wiisiniwag. Mii sa i’iw ezhi-dibikadinig gaawiin idash nibaasiiwan ini-oshiimeyan. Mii go biidaabaninig oganoonaan ini-oshiimeyan:**</span>
+<span class="l-fiero">**Mii sa i’iw gii-maajii’taad a-ii-kwe gii-gabaajimaad i’iw giigoonyan. Geget weweni wiisiniwag. Mii sa i’iw ezhi-dibikadinig gaawiin idash nibaasiiwan ini-oshiimeyan. Mii go biidaabaninig oganoonaan ini-oshiimeyan:**</span>
 
 <span class="l-eng">*Thereupon to work set the woman boiling the fishes. Verily, with contentment they ate. And when night came on, her little brother did not sleep. So, when the dawn was breaking, she spoke to her little brother, saying:*</span>
 
-<span class="l-gloss">Mii sa i’iw gii-maajii’taad a-ii-kwe gii-gabaajimaad isiw giigoonyan (thereupon the woman set to boiling the fishes — *gabaajim-/gabaa- ‘boil/cook’ flagged*). Geget wewani wiisiniwag (truly with contentment they ate). Mii sa i’iw ezhi-dibikadinig gaawiin idash nibaasiiwan ini-oshiimeyan (and when night came, her little brother did not sleep). Mii go biidaabaninig oganoonaan ini-oshiimeyan (so when dawn broke she spoke to her little brother):</span>
+<span class="l-gloss">Mii sa i’iw gii-maajii’taad a-ii-kwe gii-gabaajimaad i’iw giigoonyan (thereupon the woman set to boiling the fishes — *gabaajim-/gabaa- ‘boil/cook’ flagged*). Geget weweni wiisiniwag (truly with contentment they ate). Mii sa i’iw ezhi-dibikadinig gaawiin idash nibaasiiwan ini-oshiimeyan (and when night came, her little brother did not sleep). Mii go biidaabaninig oganoonaan ini-oshiimeyan (so when dawn broke she spoke to her little brother):</span>
 
-<span class="l-orig">(61) “Ānīn, nincīmā, ugīnibāsiwạn? Kiwi‘kugwätciminisa mānū windạmawicin.”</span>
+<span class="l-orig">(61) “Ānīn, nincīmā, ugīnibāsiwạn? Kīwī‘kugwätciminisa mānū wīndạmawicin.”</span>
 
 <span class="l-fiero">**“Aaniin, nishiime, ogii-nibaasiwan? Giwii-gagwejimin isa maanoo wiindamawishin.”**</span>
 
@@ -571,15 +524,15 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">“Aaniin, nishiime, ogii-nibaasiwan? (“why, my little brother, have you not slept?) Giwii-gagwejimin isa maanoo wiindamawishin.” (I ask you, please tell me the reason.”)</span>
 
-<span class="l-orig">(62) “Anīn, nimisä? Kīgīpīnicisāga‘kīminina? Kāwīn ina awiya kōsinān kayä aᵘ kīgạnān? Mīsa iᵉi∙ᵘ wändcinibāsiwān.”</span>
+<span class="l-orig">(62) “Ānīn, nimisä? Kīgīpīnicisāga‘kīminina? Kāwīn ina awiya kōsinān kayä aᵘ kīgạnān? Mīsa iᵉi´ᵘ wändcinibāsiwān.”</span>
 
-<span class="l-fiero">**“Aaniin, nimise? Gii-bizhishigi-zaagi’iiminina? Gaawiin ina awiya goosinaan gaye aw giiganaan? Mii i’iw wenji-nibaasiiwaan.”**</span>
+<span class="l-fiero">**“Aaniin, nimise? Gii-bizhishigi-zaagi’iiminina? Gaawiin ina awiya goosinaan gaye aw giiganaan? Mii sa i’iw wenji-nibaasiiwaan.”**</span>
 
 <span class="l-eng">*“How was it, my elder sister? Did we simply without cause grow up from the ground? And were there none that were our father and our mother? That was the reason why I did not sleep.”*</span>
 
-<span class="l-gloss">“Aaniin, nimise? (“how was it, my elder sister?) Gii-bizhishigi-zaagi’iiminina? (did we just spring up from the ground for nothing? — *zaagi’ii- ‘grow/sprout out’ flagged*) Gaawiin ina awiya goosinaan gaye aw giiganaan? (were there none — our father and our mother?) Mii i’iw wenji-nibaasiiwaan.” (that is why I did not sleep.”)</span>
+<span class="l-gloss">“Aaniin, nimise? (“how was it, my elder sister?) Gii-bizhishigi-zaagi’iiminina? (did we just spring up from the ground for nothing? — *zaagi’ii- ‘grow/sprout out’ flagged*) Gaawiin ina awiya goosinaan gaye aw giiganaan? (were there none — our father and our mother?) Mii sa i’iw wenji-nibaasiiwaan.” (that is why I did not sleep.”)</span>
 
-<span class="l-orig">(63) Cigwadạc äjikạnōnāt a∙i∙kwä: “Nicimä, kinisāwạg kōsinān kayä aᵘ kīgạnān. Omā päcu ki‘tciwạdciwink kitacinisāwạg; mī∙i∙mā ayāwāt īgi‘ manitōg mīdạc iᵉi∙ kānisiguwāt. Äᵉidawa‘kwạg mi∙i∙wä äjini‘kāsowāt īgiwä kānisāwāt kīnīgi∙i∙gunābanīg. Mīsa iᵉi∙, tcakābäs, ki‘käntaman wäntci∙o∙sisiwạng. Kägä‘t manitōg, kāwīn awiya udākackitōsīn iᵃ tcinisā‘pạn.”</span>
+<span class="l-orig">(63) Cigwạdạc äjikạnōnāt ∙a∙i‘kwä: “Nicīmä, kīnisāwạg kōsinān kayä aᵘ kīgạnān. Omā päcu ki‘tciwạdciwink kītacinisāwạg; mī∙i∙mā ayāwāt īgi´ᵘ mạnitōg mīdac iᵉi´ᵘ kānisiguwāt. Ä∙ī∙dawa‘kwạg mī∙i∙wä äjini‘kāsowāt īgiwä kānisāwāt kīnīgi∙i∙gunābạnīg. Mīsa iᵉi´ᵘ, tcakābäs, ki‘kāntạmạn wäntci∙ō∙sisiwạng. Kägä‘t mạnitōg, kāwīn awiya udākạckitōsīn iᵘ tcinisä‘pạn.”</span>
 
 <span class="l-fiero">**Zhigwa dash ezhi-ganoonaad a-ii-kwe: “Nishiime, gii-nisaawag goosinaan gaye aw giiganaan. Omaa besho gichi-wajiwing gii-dazhi-nisaawag; mii imaa ayaawaad igiw manidoog mii dash i’iw gaa-nisigowaad. Aa’idawa’kwag mii iwe ezhi-nikaazowaad igiwe gaa-nisaawaad gii-niigi’igonaabaniig. Mii sa iw, jaakaabish, gii-gikendaman wenji-oosisiiwang. Geget manidoog, gaawiin awiya odaa-gashkitoosiin iw ji-nisaaban.”**</span>
 
@@ -589,7 +542,7 @@ The Sun is caught in the snare!”*</span>
 
 *¹ (p372 foot, T. M.) I am partially responsible for the translation. — T. M. — Äᵉidawa‘kwạg ‘Bears-with-Heads-at-Both-Ends,’ the manitou-slayers of the parents; drafted Aa’idawa’kwag (aa’idawe- ‘at both ends’ + -gwa head?), HARD-flagged; this is the very section Michelson footnotes.*
 
-<span class="l-orig">(64) Tcakābäsidạc kīgīgitō: “Äye’, kāwīn awiya ayāsi ōmā tci∙manitōwit. Ninga∙i∙cānạg.” Mīsa cigwa umi‘tigwābīn kī∙o∙dā‘pināt kimādcāt, kwaya‘kidạc kā∙i∙nīnigänit iniyōmisäyạn, ijā‘. Cayīgwa odäbābandān iᵃ kistciwạdci‘ᵘ, mīdạc iᵉi∙ᵘ äni∙i∙jimādcī∙ạ∙nk:—</span>
+<span class="l-orig">(64) Tcakābäsidạc kīgīgitō: “Äyeᵉ, kāwīn awiya ayāsi ōmā tcimạnitōwit. Ninga∙ī∙cānạg.” Mīsa cigwa umi‘tigwābīn kī∙ō∙dā‘pināt kīmādcāt, kwaya‘kidạc kā∙i∙nīnigänit īniyōmisäyạn, ijā´. Cayīgwa odäbābạndān iᵘ kistciwạdci’ᵘ, mīdạc i∙i∙’ᵘ äni∙i∙jimādcī∙ạ∙nk:—</span>
 
 <span class="l-fiero">**Jaakaabish idash gii-giigido: “Aye, gaawiin awiya ayaasii omaa ji-manidowid. Ninga-izhaanag.” Mii sa zhigwa omitigwaabiin gii-odaapinaad gii-maajaad, gwayak idash gaa-iniinigenid ini-omiseyan, izhaa. Zhayiigwa odebaabandaan iw gichi-wajiw, mii dash i’iw ani-izhi-maajii-ayang:—**</span>
 
@@ -597,15 +550,13 @@ The Sun is caught in the snare!”*</span>
 
 <span class="l-gloss">Jaakaabish idash gii-giigido (and the gnome spoke): “Aye, gaawiin awiya ayaasii omaa ji-manidowid (“ay, there is no creature here powerful enough to be a manitou). Ninga-izhaanag.” (I will go to where they are.”) Mii sa zhigwa omitigwaabiin gii-odaapinaad gii-maajaad (so, taking up his bow, he set off), gwayak idash gaa-iniinigenid ini-omiseyan, izhaa (going straight along the way his elder sister had pointed). Zhayiigwa odebaabandaan iw gichi-wajiw (in a while he came in sight of the great mountain), mii dash i’iw ani-izhi-maajii-ayang:— (and he began singing:—)</span>
 
-*kistciwạdci‘ᵘ — “the great mountain” (gichi-wajiw); the manitous’ dwelling.*
+<span class="l-orig">(65) “A∙ī∙tawa‘kwagē ninantunagickawāg,  
+A∙ī∙tawa‘kwagē ninantunagickawāg  
+A∙ī∙tawa‘kwagē ninantunagickawāg.”</span>
 
-<span class="l-orig">(65) “A∙i∙tawa‘kwagē ninantunagickawāg,  
-A∙i∙tawa‘kwagē ninantunagickawāg  
-A∙i∙tawa‘kwagē ninantunagickawāg.”</span>
-
-<span class="l-fiero">**“A∙i∙tawa‘kwagē ninantunagickawāg,  
-A∙i∙tawa‘kwagē ninantunagickawāg  
-A∙i∙tawa‘kwagē ninantunagickawāg.”**</span>
+<span class="l-fiero">**“A∙ī∙tawa‘kwagē ninantunagickawāg,  
+A∙ī∙tawa‘kwagē ninantunagickawāg  
+A∙ī∙tawa‘kwagē ninantunagickawāg.”**</span>
 
 <span class="l-eng">*“Bears-with-Heads-at-Both-Ends do I seek to encounter,  
 Bears-with-Heads-at-Both-Ends do I seek to encounter,  
@@ -613,9 +564,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">⟨song — carried verbatim, not converted; merge-excluded⟩ “Bears-with-Heads-at-Both-Ends do I seek to encounter” (×3).</span>
 
-*SONG. Carried verbatim in BOTH layers; excluded from mining. Names the Ä‘idawa‘kwäg (HARD-flagged, §63).*
-
-<span class="l-orig">(66) Cigwadạc unōndāgō pāmāgu aninagamut. Kīnībawiwạᵉ nīciwạ äᵉidawaya∙i∙, octigwāniwạ. Mīsa iᵃ äjinisāt mindcinīj. Kägä‘t minwäntạm. Mīdạc iᵃ äcikiwät; cigwadạc kā‘tạgwicink omisäyạn äcikạnōnāt: “Mi∙i∙‘ᵘ kinisạgwā īgi‘ᵘ manitōg.”</span>
+<span class="l-orig">(66) Cigwadạc unōndāgō pāmāgu ạninạgamut. Kīnībawiwaᵉ nīciwaᵉ ä∙ī∙dawaya∙ī∙, octigwāniwaᵉ. Mīsa iᵘ äjinisāt mindcinīj. Kägä‘t minwäntạm. Mīdạc iᵘ äcikīwät; cigwadạc kā‘tạgwicink omisäyạn äcikạnōnāt: “Mī∙i∙´ᵘ kīnisạgwā īgi´ᵘ mạnitōg.”</span>
 
 <span class="l-fiero">**Zhigwa dash onoondaagoo baamaa go ani-nagamod. Gii-niibawiwag niizhiwa aa’idawaya’ii, oshtigwaaniwaa. Mii sa iw ezhi-nisaad minjiniizh. Geget minwendam. Mii dash iw ezhi-giiwed; zhigwa dash gaa-dagwishing omiseyan ezhi-ganoonaad: “Mii i’iw gii-nisagwaa igiw manidoog.”**</span>
 
@@ -623,7 +572,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Zhigwa dash onoondaagoo baamaa go ani-nagamod (now he was heard as he went singing). Gii-niibawiwag niizhiwa aa’idawaya’ii, oshtigwaaniwaa (up stood two with heads at both ends — *aa’idawaya’ii ‘at both ends’; oshtigwaan ‘head’*). Mii sa iw ezhi-nisaad minjiniizh (and he slew them both). Geget minwendam (truly pleased was he). Mii dash iw ezhi-giiwed (then he went home); zhigwa dash gaa-dagwishing omiseyan ezhi-ganoonaad (and when he arrived he spoke to his elder sister): “Mii i’iw gii-nisagwaa igiw manidoog.” (“now I have slain the manitous.”)</span>
 
-<span class="l-orig">(67) “Iyā, kāwīn nicīmä, kāwīn kitānisāsīᵉ!”</span>
+<span class="l-orig">(67) “Iyā, kāwin nicīmä, kāwīn kitänisāsīg!”</span>
 
 <span class="l-fiero">**“Iyaa, gaawiin nishiime, gaawiin gidaa-nisaasiig!”**</span>
 
@@ -631,15 +580,15 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">“Iyaa, gaawiin nishiime, gaawiin gidaa-nisaasiig!” (“why, my little brother, you could not kill them!”)</span>
 
-<span class="l-orig">(68) “Nimisä‘, tạga awiwâbam!”</span>
+<span class="l-orig">(68) “Nimisäⁿ, tạga awiwâbạm!”</span>
 
-<span class="l-fiero">**“Nimise, daga awi-waabam!”**</span>
+<span class="l-fiero">**“Nimisenh, daga awi-waabam!”**</span>
 
 <span class="l-eng">*“My elder sister, do go look at them!”*</span>
 
-<span class="l-gloss">“Nimise, daga awi-waabam!” (“my elder sister, go look at them!”)</span>
+<span class="l-gloss">“Nimisenh, daga awi-waabam!” (“my elder sister, go look at them!”)</span>
 
-<span class="l-orig">(69) Kägä‘t äcimādcāt a∙i∙‘kwä, mīsa gägä‘t ki∙a∙wiwâbamāt. Kägätsa mama‘kādändam. Mīdạc iᵉi∙ᵘ äcikạnōnat iniyōcīmäyạn: “Mi∙i∙ᵘ pisan ici∙a∙yạn. Nawatc pisan ayāyạn tawu nicicin.”</span>
+<span class="l-orig">(69) Kägä‘t äcimādcāt a∙i∙‘kwä, mīsa gägä‘t ki∙a∙wiwâbamāt. Kägätsa māma‘kādändạm. Mīdạc iᵉi’ᵘ äcikạnōnat īniyocīmäyạn: “Mī∙i´ᵘ pisān ici∙a∙yān. Nawạtc pisān ayāyạn tawu nicicin.”</span>
 
 <span class="l-fiero">**Geget ezhi-maajaad a-ii-kwe, mii sa geget gii-awi-waabamaad. Gegetsa mamakaadendam. Mii dash i’iw ezhi-ganoonaad ini-oshiimeyan: “Mii iw bizaan izhi-ayaan. Nawaj bizaan ayaayan da-onizhishin.”**</span>
 
@@ -647,7 +596,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Geget ezhi-maajaad a-ii-kwe (verily the woman departed), mii sa geget gii-awi-waabamaad (and indeed went to see them). Gegetsa mamakaadendam (truly she was astonished). Mii dash i’iw ezhi-ganoonaad ini-oshiimeyan (then she spoke to her little brother): “Mii iw bizaan izhi-ayaan (“now rest quietly). Nawaj bizaan ayaayan da-onizhishin.” (it would be better if you remained at leisure.”)</span>
 
-<span class="l-orig">(70) Tcakābäsidạc uganōnān iniyōmisäyạn: “Kāwīn pisān niwi∙a∙yāsī. Kigi∙i∙nin wīmādcīgīyōtäyān. Wâbạnk ningamādcā.”</span>
+<span class="l-orig">(70) Tcakābäsidạc ugạnōnān īniyōmisäyạn: “Kāwīn pisān niwī∙a∙yāsī. Kigī∙i∙nin wīmādcīgīyōtäyān. Wâbạnk ningamādcā.”</span>
 
 <span class="l-fiero">**Jaakaabish idash oganoonaan ini-omiseyan: “Gaawiin bizaan niwii-ayaasii. Gigii-inin wii-maajii-giiyoseyaan. Waabang ninga-maajaa.”**</span>
 
@@ -655,53 +604,49 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Jaakaabish idash oganoonaan ini-omiseyan (and the gnome spoke to his elder sister): “Gaawiin bizaan niwii-ayaasii (“I do not wish to remain quietly). Gigii-inin wii-maajii-giiyoseyaan (I told you I was going off to hunt/visit — *giiyose ‘hunt’; Jones renders ‘visiting’*). Waabang ninga-maajaa.” (tomorrow I shall depart.”)</span>
 
-<span class="l-orig">(71) Kāwābạninig mādcā tcakābäs. Kumāgu a‘pītägwicing owâbandān sāga∙i∙gan; awiya owâbaman; kägä‘t mamānditōwạ anicinābä tacinōtami‘kwäwạᵉ. Äcināsi‘kawāt, cigwa owābamigō. “Undās!” udigō. Ānīc ānijināsi‘kawāt. Kägä‘t mamānditōwạ. Kägä‘t watciwink mi∙i∙māⁿ ändānit newatci∙a∙nit mīsami‘kō. Cigwadạc kanōnimāwạn päjig. “Ạmbä, awi∙a∙cā‘ᵘ!” Kanōnādạc tcakābäs: “A‘kantōn.”</span>
+<span class="l-orig">(71) Kāwābạninig mādcā tcakābäs. Kumāgu a‘pītägwicing owâbạndān sāga∙i∙gạn; awīya owâbạman; kägä‘t mạmānditōwaᵉ anicinābäᵉ tạcinōtạmi‘kwäwaᵉ. Äcināsi‘kawāt, cigwa owābạmigō. “Undās!” udigō. Ānīc[·] ānijināsi‘kawāt. Kägä‘t mạmānditōwaᵉ. Kägä‘t wạtciwink mī∙i∙māⁿ ändānit newạtci∙ā∙nit mīsami‘kōᵉ. Cigwadạc kạnōnimāwạn päjig. “Ạmbä, awi∙a∙cā´ᵘ!” Kạnōnādạc tcakābäs: “A‘kạntōn.”</span>
 
-<span class="l-fiero">**Gaa-waabaninig maajaa jaakaabish. Gomaa apii-dagwishing owaabandaan zaaga’igan; awiya owaabamaan; geget mamaanditowa anishinaabe dazhi-noojii-amikweg. Ezhi-naazikawaad, zhigwa owaabamigoo. “Ondaas!” odigoo. Aanish ani-izhi-naazikawaad. Geget mamaanditowa. Geget wajiwing mii imaa endaanid newaji-aanid mii sa amikoo. Zhigwa dash ganoonimaawan bezhig. “Ambe, awi-azhaa’!” Ganoonaad dash jaakaabish: “Akandon.”**</span>
+<span class="l-fiero">**Gaa-waabaninig maajaa jaakaabish. Gomaa go apii-dagwishing owaabandaan zaaga’igan; awiya owaabamaan; geget mamaanditowa anishinaabe dazhi-noojii-amikweg. Ezhi-naazikawaad, zhigwa owaabamigoo. “Ondaas!” odigoo. Aanish ani-izhi-naazikawaad. Geget mamaanditowa. Geget wajiwing mii imaa endaanid newaji-aanid mii sa amikoo. Zhigwa dash ganoonimaawan bezhig. “Ambe, awi-azhaa’!” Ganoonaad dash jaakaabish: “Akandon.”**</span>
 
 <span class="l-eng">*When the morrow was come, thence departed the gnome. When some distance he was come, he saw a lake; somebody he saw; truly big were the people that were busily hunting for beaver. When he went up to where they were, already was he seen by them. “Come hither!” he was told. So on up to them he went. Of a truth, big were they all. Verily, like a mountain was the place where lived the monster-beavers that were being hunted. And presently a certain one (of the men) was commanded: “Come, go chase them out!” And the gnome was told: “You lie in wait.”*</span>
 
-<span class="l-gloss">Gaa-waabaninig maajaa jaakaabish (when morning came the gnome departed). Gomaa apii-dagwishing owaabandaan zaaga’igan (when he had come some way he saw a lake); awiya owaabamaan (he saw someone); geget mamaanditowa anishinaabe dazhi-noojii-amikweg (truly big were the people busily hunting beaver — *mamaanditowa ‘huge’ reduplicated*). Ezhi-naazikawaad, zhigwa owaabamigoo (when he went up to them, he was already seen). “Ondaas!” odigoo (“come hither!” he was told). Aanish ani-izhi-naazikawaad (so he went up to them). Geget mamaanditowa (truly big were they all). Geget wajiwing mii imaa endaanid newaji-aanid mii sa amikoo (like a mountain was where the monster-beavers being hunted lived). Zhigwa dash ganoonimaawan bezhig (and a certain one was commanded): “Ambe, awi-azhaa’!” (“come, go chase them out!”) Ganoonaad dash jaakaabish: “Akandon.” (and the gnome was told: “you lie in wait.” — *akandon ‘watch/lie in ambush’*)</span>
+<span class="l-gloss">Gaa-waabaninig maajaa jaakaabish (when morning came the gnome departed). Gomaa go apii-dagwishing owaabandaan zaaga’igan (when he had come some way he saw a lake); awiya owaabamaan (he saw someone); geget mamaanditowa anishinaabe dazhi-noojii-amikweg (truly big were the people busily hunting beaver — *mamaanditowa ‘huge’ reduplicated*). Ezhi-naazikawaad, zhigwa owaabamigoo (when he went up to them, he was already seen). “Ondaas!” odigoo (“come hither!” he was told). Aanish ani-izhi-naazikawaad (so he went up to them). Geget mamaanditowa (truly big were they all). Geget wajiwing mii imaa endaanid newaji-aanid mii sa amikoo (like a mountain was where the monster-beavers being hunted lived). Zhigwa dash ganoonimaawan bezhig (and a certain one was commanded): “Ambe, awi-azhaa’!” (“come, go chase them out!”) Ganoonaad dash jaakaabish: “Akandon.” (and the gnome was told: “you lie in wait.” — *akandon ‘watch/lie in ambush’*)</span>
 
-*tacinōtami‘kwäwạᵍ — “busily hunting beaver,” dazhi-noojii-amikwe-, drafted. mamānditōwạ — “huge / monstrous” (the Windigo people and the monster-beavers); reduplicated, flagged.*
+*[Layer-1 glyph correction 2026-09-13 — the superior ᵍ is banned in Layer 1 (Orthography Key, 2026-07-01: “one raised sort … never encode an ᵉ/ᵍ judgment into Layer 1”), and the page sets the ordinary superior ᵉ (p368 l.7 sets ᵉ / ᵘ / ⁿ on one line as the discriminator). This footnote previously read, verbatim: «tacinōtami‘kwäwạᵍ — “busily hunting beaver,” dazhi-noojii-amikwe-, drafted. mamānditōwạ — “huge / monstrous” (the Windigo people and the monster-beavers); reduplicated, flagged.»]*
 
-<span class="l-orig">(72) Mīdạc iᵉi∙māⁿ kāgīmindiwạg igi‘ᵘ windigōg: “Mānu! ugapa‘kupīpinigōn aᵘ tca‘kābäs, kabā‘pi∙a∙nanān.”</span>
+<span class="l-orig">(72) Mīdạc i∙i∙māⁿ kāgīmindiwạg īgi´ᵘ wīndigōg: “Mānu! ugapa‘kupīpinigōn aᵘ tca‘kābäs, kạbā‘pi∙a∙nanān.”</span>
 
 <span class="l-fiero">**Mii dash i’iimaa gaa-giimindiwag igiw windigoog: “Maanoo! oga-bakobiibinigoon aw jaakaabish, ga-baapi’aanaan.”**</span>
 
-<span class="l-eng">*And now at yonder place, whispering one to another, were the Windigōs. “Never mind! let the gnome be drawn into the water, we will laugh at him.”*</span>
+<span class="l-eng">*And now at yonder place, whispering one to another, were the Wīndigōs. “Never mind! let the gnome be drawn into the water, we will laugh at him.”*</span>
 
 <span class="l-gloss">Mii dash i’iimaa gaa-giimindiwag igiw windigoog (and yonder, whispering one to another, were the Windigos — *giimindi- ‘whisper secretly’ flagged*): “Maanoo! oga-bakobiibinigoon aw jaakaabish (“never mind! let the gnome be drawn into the water), ga-baapi’aanaan.” (we will laugh at him.”)</span>
 
-*kāgīmindiwạg igi‘ᵘ windigōg — “the Windigos, whispering among themselves”; giimindi-, drafted. The Windigos appear here, §74–§76, §80–§88.*
+<span class="l-orig">(73) Ā∙ī∙gwasa ta‘kwāmatciwäwạn; käta‘kwāmạtciwänit, cigwa iwiti upapagwạnä∙ā∙n ändānit. Cigwa imā kwāckwäyā‘kwicinōn ki‘tci∙a∙mi‘kwạn. Äjinantugạmipinānit mīsa äjinīwạnu∙ā∙nit. Tā, kägä‘t minditōwạn! Mīnawā mī geyāpi kwāckwäyā‘kwicinōn. Äjinantugạmipinānit; äciki‘tciwäpinānit äcinīwạnu∙ā∙nit. Cigwadạc nībiwa unisāni tci∙ā∙mi‘kwaᵉ. Ickwātc päcig cayīgwa mādcā ạmi‘k. Cigwa imā kwāskwäyā‘kucin, cigwa imā. “Ha ha´u, tcakābäs, nawatin!” ‘Ā, unawạtinān inī´ᵘ ami‘kwạn! Äci∙a∙gwāwäpināt kinạmadạpiwạn. Kā∙ạ∙gwāwäbināt, mīgu īni’ᵘ umitigwābīn nāwạnawāt. Kānīwanawāt äciyāba∙ạ∙nk uda‘tcāp. Äci∙o∙ciwạni‘kānāt, äci∙u∙mbiwạnät; änīcimādcāt kīwät. Kumāgu a‘pī änitagwicink mạdwägīgitōwạn: “Mīgucanā iᵉi´ᵘ, ma‘kạminạng tcakābäs kītạmi‘kuminānin! Ānīndac iᵘ nō‘pinanāsiwạng?”</span>
 
-<span class="l-orig">(73) Ā∙i∙gwasa ta‘kwāmatciwäwạn; kāta‘kwāmatciwänit, cigwa iwiti upapagwạnä∙ā∙n ändānit. Cigwa imā kwāckwäyā‘kwicinōn ki‘tci∙a∙mi‘kwạn. Äjinạntugamipinānit mīsa äjinīwanu∙ā∙nit. Tā, kägä‘t minditōwạn! Mīnawā mi gäyābi kwāckwäyā‘kwicinōn. Äjinạntugamipinānit; äciki‘tciwäpinānit äcinīwanu∙ā∙nit. Cigwadạc nībiwa unisāni tci∙a∙mi‘kwa. Ickwätc päcig cayīgwa mādcā ami‘k. Cigwa imā kwāskwäyā‘kucin, cigwa imā. “Ha ha∙u, tcakābäs, nawatin!” ‘Ā, unawạtinān īnī‘ᵘ ami‘kwạn! Äci∙a∙gwāwäpināt kinamadạpiwạn. Kā∙a∙gwāwäbināt, mīgu īnī‘ᵘ umitigwābīn nāwạnawāt. Kānīwạnawāt äciyāba∙a∙nk uda‘tcāp. Äci∙o∙ciwani‘kānāt, äci∙u∙mbiwanät; änīcimādcāt kiwät. Kumāgu a‘pī änitagwicink madwägigitōwạn: “Migucanā iᵉi∙, ma‘kaminạng tcakābäs kītami‘kuminānin! Ānindạc iᵃ nō‘pinanāsiwạng?”</span>
-
-<span class="l-fiero">**Aazha gwasa da-gwaamajiwewan; gaa-gwaamajiwenid, zhigwa iwidi obabagwane’aan endaanid. Zhigwa imaa gwaashkweyaakwishinon gichi-amikwan. Ezhi-nandagamibinaanid mii sa ezhi-niiwanawaanid. Taa, geget minditowan! Miinawaa mii geyaabi gwaashkweyaakwishinon. Ezhi-nandagamibinaanid; ezhi-gichi-webinaanid ezhi-niiwanawaanid. Zhigwa dash niibiwa onisaani ji-amikwa. Ishkwech bezhig zhayiigwa maajaa amik. Zhigwa imaa gwaashkweyaakoshin, zhigwa imaa. “Ha ha-o, jaakaabish, nawadin!” Aa, onawadinaan iniw amikwan! Ezhi-agwaawebinaad ginamadabiwan. Gaa-agwaawebinaad, mii go iniw omitigwaabiin naawanawaad. Gaa-niiwanawaad ezhi-yaaba’ang oda’chaab. Ezhi-oshiwani’kaanaad, ezhi-ombiwanad; ani-izhi-maajaad giiwed. Gomaa apii ani-dagwishing madwe-giigidowan: “Migoshanaa iw, makaminang jaakaabish gii-dami’koominaanin! Aaniin dash iw noopinanaasiwang?”**</span>
+<span class="l-fiero">**Aazha gwasa da-gwaamajiwewan; ge-da-gwaamajiwenid, zhigwa iwidi obabagwane’aan endaanid. Zhigwa imaa gwaashkweyaakwishinon gichi-amikwan. Ezhi-nandogamibinaanid* mii sa ezhi-niiwanawaanid. Taa, geget minditowan! Miinawaa mii geyaabi gwaashkweyaakwishinon. Ezhi-nandogamibinaanid*; ezhi-gichi-webinaanid ezhi-niiwanawaanid. Zhigwa dash niibiwa onisaani ji-amikwa. Ishkwech bezhig zhayiigwa maajaa amik. Zhigwa imaa gwaashkweyaakoshin, zhigwa imaa. “Ha ha-o, jaakaabish, nawadin!” Aa, onawadinaan iniw amikwan! Ezhi-agwaawebinaad ginamadabiwan. Gaa-agwaawebinaad, mii go iniw omitigwaabiin naawanawaad. Gaa-niiwanawaad ezhi-yaaba’ang oda’chaab. Ezhi-oshiwani’kaanaad, ezhi-ombiwanad; ani-izhi-maajaad giiwed. Gomaa go apii ani-dagwishing madwe-giigidowan: “Migoshanaa iw, makaminang jaakaabish gii-dami’koominaanin! Aaniin dash iw noopinanaasiwang?”**</span>
 
 <span class="l-eng">*Already now was (the man) getting to the summit; and after he got to the top, he then began poking holes into their dwelling. It was then that (he felt of) a great beaver bumping against something. When he felt in the water with his hand for it, he then killed it with a club. Ah, but it was truly big! There was still another that was knocking about against something. Then he felt in the water for it with his hand; when he pulled it out, he then laid it low with a club. And now he was killing many monster-beavers. At last there was still one beaver left. Now yonder it bumped against something, now over there. “All right, gnome, catch him quickly!” Ah, but he quickly grabbed the beaver! When he drew it out of the water, then down (the beaver) sat. After he had drawn it out of the water, then with his bow he clubbed it to death. After he had clubbed it to death, he then untied his bow-string. After making a pack of (the beaver), he then lifted it upon his back; then on his homeward way he started. And after some distance he was come, (he heard) the voice of some one say: “Oh, but the gnome is taking our beaver away from us! Why don’t we follow after him?”*</span>
 
-<span class="l-gloss">Aazha gwasa da-gwaamajiwewan (already he was getting to the summit); gaa-gwaamajiwenid (when he got to the top), zhigwa iwidi obabagwane’aan endaanid (he began poking holes into their dwelling — *babagwane’- ‘poke holes’ flagged*). Zhigwa imaa gwaashkweyaakwishinon gichi-amikwan (then a great beaver bumped against something — *gwaashkweyaakoshin ‘bump/knock’ flagged*). Ezhi-nandagamibinaanid mii sa ezhi-niiwanawaanid (feeling for it in the water, he killed it). Taa, geget minditowan! (ah, but it was truly big!) Miinawaa mii geyaabi gwaashkweyaakwishinon (another still knocked about). Ezhi-nandagamibinaanid; ezhi-gichi-webinaanid ezhi-niiwanawaanid (feeling for it, he hauled it out and clubbed it down). Zhigwa dash niibiwa onisaani ji-amikwa (and now he killed many monster-beavers). Ishkwech bezhig zhayiigwa maajaa amik (at last one beaver was left and started off). Zhigwa imaa gwaashkweyaakoshin, zhigwa imaa (now it bumped here, now there). “Ha ha-o, jaakaabish, nawadin!” (“all right, gnome, catch him quick!”) Aa, onawadinaan iniw amikwan! (ah, he quickly grabbed the beaver!) Ezhi-agwaawebinaad ginamadabiwan (drawing it out, down it sat). Gaa-agwaawebinaad, mii go iniw omitigwaabiin naawanawaad (after drawing it out, with his bow he clubbed it to death). Gaa-niiwanawaad ezhi-yaaba’ang oda’chaab (when he had clubbed it, he untied his bow-string). Ezhi-oshiwani’kaanaad, ezhi-ombiwanad (making a pack of it, he lifted it on his back); ani-izhi-maajaad giiwed (then he started home). Gomaa apii ani-dagwishing madwe-giigidowan (after some way, the voice of someone was heard): “Migoshanaa iw, makaminang jaakaabish gii-dami’koominaanin! (“oh, the gnome is taking our beaver away! — *makam- ‘take from’*) Aaniin dash iw noopinanaasiwang?” (why don’t we follow him?”)</span>
+<span class="l-gloss">Aazha gwasa da-gwaamajiwewan (already he was getting to the summit); ge-da-gwaamajiwenid (when he got to the top), zhigwa iwidi obabagwane’aan endaanid (he began poking holes into their dwelling — *babagwane’- ‘poke holes’ flagged*). Zhigwa imaa gwaashkweyaakwishinon gichi-amikwan (then a great beaver bumped against something — *gwaashkweyaakoshin ‘bump/knock’ flagged*). Ezhi-nandogamibinaanid* mii sa ezhi-niiwanawaanid (feeling for it in the water, he killed it). Taa, geget minditowan! (ah, but it was truly big!) Miinawaa mii geyaabi gwaashkweyaakwishinon (another still knocked about). Ezhi-nandogamibinaanid*; ezhi-gichi-webinaanid ezhi-niiwanawaanid (feeling for it, he hauled it out and clubbed it down). Zhigwa dash niibiwa onisaani ji-amikwa (and now he killed many monster-beavers). Ishkwech bezhig zhayiigwa maajaa amik (at last one beaver was left and started off). Zhigwa imaa gwaashkweyaakoshin, zhigwa imaa (now it bumped here, now there). “Ha ha-o, jaakaabish, nawadin!” (“all right, gnome, catch him quick!”) Aa, onawadinaan iniw amikwan! (ah, he quickly grabbed the beaver!) Ezhi-agwaawebinaad ginamadabiwan (drawing it out, down it sat). Gaa-agwaawebinaad, mii go iniw omitigwaabiin naawanawaad (after drawing it out, with his bow he clubbed it to death). Gaa-niiwanawaad ezhi-yaaba’ang oda’chaab (when he had clubbed it, he untied his bow-string). Ezhi-oshiwani’kaanaad, ezhi-ombiwanad (making a pack of it, he lifted it on his back); ani-izhi-maajaad giiwed (then he started home). Gomaa go apii ani-dagwishing madwe-giigidowan (after some way, the voice of someone was heard): “Migoshanaa iw, makaminang jaakaabish gii-dami’koominaanin! (“oh, the gnome is taking our beaver away! — *makam- ‘take from’*) Aaniin dash iw noopinanaasiwang?” (why don’t we follow him?”)</span>
 
-*ki‘tci∙a∙mi‘kwạn — “great beaver / monster-beaver,” gichi-amikwan; the monster-beavers hunted by the Windigos. uda‘tcāp — “his bow-string,” oda’chaab.*
-
-<span class="l-orig">(74) Gägä‘t päji‘k ubinō‘pinanigōn, cigwadạc utatimigōn; pā∙i∙ci∙u∙tā‘pibinigut īnī‘ windigōn. Mīdạc iᵉi∙ᵘ äcitäbibināt äcipō‘kunikäpināt.</span>
+<span class="l-orig">(74) Gägä‘t päji‘k ubinō‘pinạnigōn, cigwadạc utạtimigōn; pā∙i∙ci∙u∙tā‘pibinigut īniᵘ wīndigōn. Mīdac iᵉi’ᵘ äcitäbibināt äcipō‘kunikäpināt.</span>
 
 <span class="l-fiero">**Geget bezhig obi-noopinanigoon, zhigwa dash odadimigoon; ba-izhi-odaapibinigod iniw windigoon. Mii dash i’iw ezhi-debibinaad ezhi-bookwanikebinaad.**</span>
 
-<span class="l-eng">*In truth, by one was he pursued, and soon was he being overtaken; then by the Windigō that came was he taken up. And then, seizing hold of (the Windigo), he broke his arm.*</span>
+<span class="l-eng">*In truth, by one was he pursued, and soon was he being overtaken; then by the Wīndigō that came was he taken up. And then, seizing hold of (the Wīndigō), he broke his arm.*</span>
 
 <span class="l-gloss">Geget bezhig obi-noopinanigoon (truly by one was he pursued), zhigwa dash odadimigoon (and soon overtaken); ba-izhi-odaapibinigod iniw windigoon (the Windigo that came took him up). Mii dash i’iw ezhi-debibinaad ezhi-bookwanikebinaad (then, seizing hold of him, he broke his arm — *bookwanike- ‘break the arm’*).</span>
 
-<span class="l-orig">(75) “Kägä‘tigu nimbātā∙i∙g aᵘ tcakābäs,” i‘kito windigō, minangwa nagu iᵃ kägät kīpō‘kunikäpinit; mīdạc iᵃ änijimādcānit. “Mīgu gägä‘t iᵉi∙, nạckä mini‘k äjinägwak!”</span>
+<span class="l-orig">(75) “Kägä‘tigu nimbātā∙i∙g aᵘ tcakābäs,” i‘kito wīndigō, mīnạngwa nagu iᵘ kägät kīpō‘kunikäpinit; mīdạc iᵘ änijimādcānit. “Mīgu gägä‘t iᵉiᵘ, nạckä mini‘k äjināgwak!”</span>
 
 <span class="l-fiero">**“Gegetigo nimbaataa’ig aw jaakaabish,” ikido windigoo, minangwa nago iw geget gii-bookwanikebinid; mii dash iw ani-izhi-maajaanid. “Mii go geget iw, naashke minik ezhinaagwak!”**</span>
 
-<span class="l-eng">*“Verily, I am ruined by the gnome,” said the Windigō, for it was true that his arm was broken; whereupon then away he went. “It really must be true, for observe my arm (and) see how it looks!”*</span>
+<span class="l-eng">*“Verily, I am ruined by the gnome,” said the Wīndigō, for it was true that his arm was broken; whereupon then away he went. “It really must be true, for observe my arm (and) see how it looks!”*</span>
 
 <span class="l-gloss">“Gegetigo nimbaataa’ig aw jaakaabish,” ikido windigoo (“verily I am ruined by the gnome,” said the Windigo — *baataa’- ‘ruin/wreck’ flagged*), minangwa nago iw geget gii-bookwanikebinid (for it was true his arm was broken); mii dash iw ani-izhi-maajaanid (whereupon away he went). “Mii go geget iw, naashke minik ezhinaagwak!” (“it really is true — look how my arm looks!”)</span>
 
-<span class="l-orig">(76) Mīsa iᵃ äci∙o∙dā‘pināt tcakāpäs īnī‘ᵘ utami‘kuman, äjimādcāt kiwät. Cigwa tagwicin ändāt. Kāpīndigät äjikạnōnāt umisäyạn: “Ami‘k nimpīnā.”</span>
+<span class="l-orig">(76) Mīsa iᵘ äci∙o∙dā‘pināt tcakāpäs īni´ᵘ utạmi‘kumạn, äjimādcāt kīwät. Cigwa tạgwicin ändāt. Kāpīndigät äjikạnōnāt umisäyạn: “Ami‘k nimpīnā.”</span>
 
 <span class="l-fiero">**Mii sa iw ezhi-odaapinaad jaakaabish iniw odamikoman, ezhi-maajaad giiwed. Zhigwa dagwishin endaad. Gaa-biindiged ezhi-ganoonaad omiseyan: “Amik nimbiinaa.”**</span>
 
@@ -709,7 +654,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Mii sa iw ezhi-odaapinaad jaakaabish iniw odamikoman (and so the gnome took up his beaver), ezhi-maajaad giiwed (and set out home). Zhigwa dagwishin endaad (in a while he reached his dwelling). Gaa-biindiged ezhi-ganoonaad omiseyan (when he had gone in he spoke to his elder sister): “Amik nimbiinaa.” (“a beaver I fetch home.”)</span>
 
-<span class="l-orig">(77) Kägä‘t äcisāga∙a∙nk a∙i∙‘kwä ogīwâbamān ami‘kwạn. Äjipindiganāt. Kā‘pindiganāt oganōnān ucīmäyạn: “Kạnabatc kigīma‘kandwänạn.”</span>
+<span class="l-orig">(77) Kägä‘t äcisāga∙ạ∙nk a∙i∙‘kwä ogīwâbamān ami‘kwạn. Äjipīndigạnāt. Kā‘pīndigạnāt ogạnōnān ucīmäyạn: “Kạnạbatc kigīma‘kạndwänạn.”</span>
 
 <span class="l-fiero">**Geget ezhi-zaaga’ang a-ii-kwe ogii-waabamaan amikwan. Ezhi-biindiganaad. Gaa-biindiganaad oganoonaan oshiimeyan: “Ganabaj gigii-makandwenan.”**</span>
 
@@ -717,7 +662,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Geget ezhi-zaaga’ang a-ii-kwe ogii-waabamaan amikwan (sure enough, the woman went out and saw the beaver). Ezhi-biindiganaad (she took it inside). Gaa-biindiganaad oganoonaan oshiimeyan (after taking it in she spoke to her little brother): “Ganabaj gigii-makandwenan.” (“perhaps you took it away from someone.”)</span>
 
-<span class="l-orig">(78) “Kägä‘t ningīma‘kandwänạn.”</span>
+<span class="l-orig">(78) “Kägä‘t ningīma‘kạndwänạn.”</span>
 
 <span class="l-fiero">**“Geget ningii-makandwenan.”**</span>
 
@@ -725,18 +670,18 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">“Geget ningii-makandwenan.” (“to be sure, I took it away from someone.”)</span>
 
-<span class="l-orig">(79) “Awänän dạc aᵃaᵘ kāma‘kamat?”  
-“Windigōg.”</span>
+<span class="l-orig">(79) “Awänän dạc aᵉa´ᵘ kāma‘kamạt?”  
+“Wīndigōg.”</span>
 
 <span class="l-fiero">**“Awenen dash a’aw gaa-makamad?”  
 “Windigoog.”**</span>
 
 <span class="l-eng">*“And from whom did you take it?”  
-“From the Windigōs.”*</span>
+“From the Wīndigōs.”*</span>
 
 <span class="l-gloss">“Awenen dash a’aw gaa-makamad?” (“and from whom did you take it?”) “Windigoog.” (“from the Windigos.”)</span>
 
-<span class="l-orig">(80) “Nōngumidạc kitacimin pisān tci∙a∙yāyạn, mīdạc wīn iᵉi∙ᵘ tcinibōyạnk.”</span>
+<span class="l-orig">(80) “Nōngumidạc kītạcimin pisān tci∙a∙yāyan, mīdạc wīn iᵉi´ᵘ tcinibōyạnk.”</span>
 
 <span class="l-fiero">**“Noongom idash gidazhimin bizaan ji-ayaayan, mii dash wiin i’iw ji-niboyang.”**</span>
 
@@ -744,7 +689,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">“Noongom idash gidazhimin bizaan ji-ayaayan (“and now I tell you to remain quietly), mii dash wiin i’iw ji-niboyang.” (for now is the time that we shall die.”)</span>
 
-<span class="l-orig">(81) “Anin, anin gä∙i∙nā‘pinänk tcinibung?”</span>
+<span class="l-orig">(81) “Ānīn, ānīn gä∙i∙nā‘pinänk tcinibung?”</span>
 
 <span class="l-fiero">**“Aaniin, aaniin ge-inaa’binank ji-niboong?”**</span>
 
@@ -752,7 +697,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">“Aaniin, aaniin ge-inaa’binank ji-niboong?” (“what, what will be the cause of our death?”)</span>
 
-<span class="l-orig">(82) “Mạnitōg kuca kāma‘kamadwā īni‘ᵘ utami‘kumiwān.”</span>
+<span class="l-orig">(82) “Mạnitōg kuca kāma‘kamadwā īni´ᵘ utạmi‘kumiwān.”</span>
 
 <span class="l-fiero">**“Manidoog gosha gaa-makamadwaa iniw odamikomiwaan.”**</span>
 
@@ -760,7 +705,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">“Manidoog gosha gaa-makamadwaa iniw odamikomiwaan.” (“why, the manitous from whom you took their beaver.”)</span>
 
-<span class="l-orig">(83) Cigwa’ änitibikạtinig kāgīgitō tcakābäs; cigwa tibātcimu: “Nīyogunaga‘k, kīwi‘pimawinä∙u∙gōmin.”</span>
+<span class="l-orig">(83) Cigwa’ änitibikạtinig kāgīgitō tcakābäs; cigwa tibātcimu: “Nīyogunạga‘k, kīwī‘pimawinä∙u∙gōmin.”</span>
 
 <span class="l-fiero">**Zhigwa ani-dibikadinig gaagiigido jaakaabish; zhigwa dibaajimo: “Niiyogonaga’k, giwii-bimawinawigomin.”**</span>
 
@@ -768,7 +713,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Zhigwa ani-dibikadinig gaagiigido jaakaabish (when night came, the gnome discoursed at length); zhigwa dibaajimo (then he told the tidings — *dibaajimo ‘relate/prophesy’*): “Niiyogonaga’k, giwii-bimawinawigomin.” (“when four days are up, we shall be assailed by someone coming against us.” — *bimawinaw- ‘attack/assail’ flagged*)</span>
 
-<span class="l-orig">(84) Kānī∙o∙gunaga‘k cigwa pīdwäwäcinu. Ā‘pitcisa sägisi a∙i∙‘kwä. “Ucimudā!” udinān iniyocīmäyạn.</span>
+<span class="l-orig">(84) Kānī∙o∙gunaga‘k cigwa pīdwäwäcinuᵉ. Ā‘pitcisa sägisi a∙i∙kwä. “Ucimudā!” udinān īniyocīmäyạn.</span>
 
 <span class="l-fiero">**Gaa-niiyogonaga’k zhigwa biidwewezhino. Aapijisa zegizi a-ii-kwe. “Ozhimodaa!” odinaan ini-oshiimeyan.**</span>
 
@@ -776,7 +721,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Gaa-niiyogonaga’k zhigwa biidwewezhino (after the four days were up, the sound of someone coming was heard). Aapijisa zegizi a-ii-kwe (very much alarmed was the woman). “Ozhimodaa!” odinaan ini-oshiimeyan (“let us flee!” she said to her little brother — *ozhimo- ‘flee’*).</span>
 
-<span class="l-orig">(85) Kāwīn, kāwīn ucimusī. Cigwa päcu’ pī∙a∙yāwan oganōnān iniyocīmäyạn: “Mānū wīdạmawicin ānīn wā∙i∙citcigäyạn kä∙u∙ndcipimādisiyạnk!”</span>
+<span class="l-orig">(85) Kāwīn, kāwīn ucimusī. Cigwa päcu’ pī∙a∙yāwan ogạnōnān īniyocīmäyạn: “Mānū wīdạmawicin ānīn wā∙i∙citcigäyạn kä∙u∙ndcipimādisiyạnk!”</span>
 
 <span class="l-fiero">**Gaawiin, gaawiin ozhimosii. Zhigwa besho bi-ayaawan oganoonaan ini-oshiimeyan: “Maanoo wiindamawishin aaniin waa-izhichigeyan ge-onji-bimaadiziyang!”**</span>
 
@@ -784,9 +729,9 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Gaawiin, gaawiin ozhimosii (nay, he did not flee). Zhigwa besho bi-ayaawan (when the others were drawing near) oganoonaan ini-oshiimeyan (she spoke to her little brother): “Maanoo wiindamawishin aaniin waa-izhichigeyan ge-onji-bimaadiziyang!” (“please tell me what you intend to do whereby we may live!”)</span>
 
-<span class="l-orig">(86) “Nimisä, ānīndi aᵉa’ᵘ nindäsîn?”  
+<span class="l-orig">(86) “Nimisä, ānīndi aᵉa´ᵘ nindäsîn?”  
 “Ayāgu aᵘ gitäsim.”  
-“Nantawâbam.”</span>
+“Nantawâbạm.”</span>
 
 <span class="l-fiero">**“Nimise, aaniindi a’aw nindesin?”  
 “Ayaa go aw gidesim.”  
@@ -798,9 +743,7 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">“Nimise, aaniindi a’aw nindesin?” (“my elder sister, where is that shell of mine?” — *es ‘mussel-shell’*) “Ayaa go aw gidesim.” (“your shell is in its place.”) “Nandawaabam.” (“seek for it.”)</span>
 
-*äs / nindäsîn / gidäsim — “mussel-shell” (es); the protective shell of the climax, drafted, flagged.*
-
-<span class="l-orig">(87) Kägä‘t äcinạntawābạmāt īni‘ᵘ äsạn. Cigwasa omi‘kawān a∙i∙‘kwä.</span>
+<span class="l-orig">(87) Kägä‘t äcinạntawābạmāt īni´ᵘ äsạn. Cigwasa omi‘kawān a∙i∙‘kwä.</span>
 
 <span class="l-fiero">**Geget ezhi-nandawaabamaad iniw esan. Zhigwasa omikawaan a-ii-kwe.**</span>
 
@@ -824,33 +767,31 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Zhigwa besho bi-ayaawan (by this time the others were drawing near), gega go ji-debinaagozinid (and almost now was he in sight).</span>
 
-<span class="l-orig">(90) “Ontās, nimisä‘!” Idạc imāⁿ äcikạckābowä∙u∙disuwāt. “Niwing pi‘to‘kamigāk tawi∙a∙‘pīta∙kicin!”</span>
+<span class="l-orig">(90) “Ontās, nimisäⁿ!” Idạc imāⁿ äcikạckābowä∙u∙disuwāt. “Nīwing pī‘tō‘kạmigāk tawi∙a∙‘pīta‘kīcin!”</span>
 
-<span class="l-fiero">**“Ondaas, nimise!” Idash imaa ezhi-gashkaaboowe’odisowaad. “Niiwing bi-dookamigaak da-wii-apiita-gizhin!”**</span>
+<span class="l-fiero">**“Ondaas, nimisenh!” Idash imaa ezhi-gashkaaboowe’odisowaad. “Niiwing bi-dookamigaak da-wii-apiita-kiizhin*!”**</span>
 
 <span class="l-eng">*“Come hither, O my elder sister!” And there beneath the shell they hid themselves. “Four times as thick as (the shell of) the earth, so let the thickness (of this) be.”*</span>
 
-<span class="l-gloss">“Ondaas, nimise!” (“come hither, my elder sister!”) Idash imaa ezhi-gashkaaboowe’odisowaad (and there beneath the shell they hid themselves — *gashkaaboowe’odiso- ‘shut oneself under’ flagged*). “Niiwing bi-dookamigaak da-wii-apiita-gizhin!” (“four times as thick as the earth’s [shell], so let its thickness be!” — *apiita-gizhin ‘be so thick’ flagged*)</span>
+<span class="l-gloss">“Ondaas, nimisenh!” (“come hither, my elder sister!”) Idash imaa ezhi-gashkaaboowe’odisowaad (and there beneath the shell they hid themselves — *gashkaaboowe’odiso- ‘shut oneself under’ flagged*). “Niiwing bi-dookamigaak da-wii-apiita-kiizhin*!” (“four times as thick as the earth’s [shell], so let its thickness be!” — *apiita-gizhin ‘be so thick’ flagged*)</span>
 
-<span class="l-orig">(91) Cigwa imā madwätagwicinōᵉ iᵘ windigōᵉ, madwäpa‘kitä om∙āwạn utäsiman. Kāwīn kạnạgä tcibigwa∙u∙mint.</span>
+<span class="l-orig">(91) Cigwa imāⁿ mạdwätagwicinōᵉ iᵘ wīndigōᵉ, mạdwäpa‘kitä∙om∙āwạn utäsimạn. Kāwīn kạnạgä tcibīgwa∙u∙mint.</span>
 
 <span class="l-fiero">**Zhigwa imaa madwe-dagwishinog iw windigoog, madwe-bakite’omaawan odesiman. Gaawiin ganage ji-bigwa’omind.**</span>
 
-<span class="l-eng">*At that moment then they heard the sound of the Windigōs arriving, they heard the sound of them striking his shell. But in no wise did they burst it.*</span>
+<span class="l-eng">*At that moment then they heard the sound of the Wīndigōs arriving, they heard the sound of them striking his shell. But in no wise did they burst it.*</span>
 
 <span class="l-gloss">Zhigwa imaa madwe-dagwishinog iw windigoog (then was heard the sound of the Windigos arriving), madwe-bakite’omaawan odesiman (they heard them striking his shell — *bakite’om- ‘strike (a hollow object)’ flagged*). Gaawiin ganage ji-bigwa’omind (but in no wise did they burst it — *bigwa’om- ‘burst by striking’ flagged*).</span>
 
-<span class="l-orig">(92) “Äyu’, äyu’, äyu!” inwä tcakābäs anamayai. Madwägigitowạn windigōn: “Tcakābäs! kīgigitimāgis ‘Nintābwāwinanigō’ änäntamowanän. Kāwīn kīn awacimā kīmanitōwisi.”</span>
+<span class="l-orig">(92) “Äyu´, äyu´, äyu!” inwä tcakābäs ạnāmaya∙ī∙. Mạdwägigītowạn wīndigōn: “Tcakābäs! kīgigitimāgis ‘Nintābwāwinạnigō’ änäntạmowạnän. Kāwīn kīn awạcimā kīmạnitōwisī.”</span>
 
 <span class="l-fiero">**“Eyo, eyo, eyo!” inwe jaakaabish anaamayaii. Madwe-giigidowan windigoon: “Jaakaabish! gigidimaagiz ‘Nindaabwaawinanigoo’ enendamowanen. Gaawiin giin awashime gii-manidowizisii.”**</span>
 
-<span class="l-eng">*“Hey, hey, hey!” cried the gnome from underneath. He heard the voice of the Windigō saying: “O gnome! you are to be pitied if ‘I cannot be killed’ be the mind that you have. Not a manitou of higher power are you.”*</span>
+<span class="l-eng">*“Hey, hey, hey!” cried the gnome from underneath. He heard the voice of the Wīndigō saying: “O gnome! you are to be pitied if ‘I cannot be killed’ be the mind that you have. Not a manitou of higher power are you.”*</span>
 
 <span class="l-gloss">“Eyo, eyo, eyo!” inwe jaakaabish anaamayaii (“hey, hey, hey!” cried the gnome from underneath — *cry carried verbatim, excluded from mining*). Madwe-giigidowan windigoon (the Windigo’s voice was heard): “Jaakaabish! gigidimaagiz ‘Nindaabwaawinanigoo’ enendamowanen (“O gnome! you are to be pitied if ‘I cannot be killed’ be your thought). Gaawiin giin awashime gii-manidowizisii.” (you are not a manitou of higher power.”)</span>
 
-*The gnome’s cry “Äyu′, äyu′, äyu!” / “Äya′, äya′, aya′!” (§94) carried verbatim, excluded from mining.*
-
-<span class="l-orig">(93) Tcakābäs äjikīgitut: “Kāwīn kitābīguwāsiwāwā aᵃaᵘ nindäsîm, midāsuni‘k pītābi‘kisi.”</span>
+<span class="l-orig">(93) Tcakābäs äjikīgitut: “Kāwīn kītābīguwāsiwāwā aᵉa´ᵘ nindäsîm, midāsuni‘k pītābi‘kisi.”</span>
 
 <span class="l-fiero">**Jaakaabish ezhi-giigidod: “Gaawiin gidaa-biigwa’osiwaawaa a’aw nindesim, midaaso-onik bi-daabikizi.”**</span>
 
@@ -858,21 +799,21 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 
 <span class="l-gloss">Jaakaabish ezhi-giigidod (the gnome spoke): “Gaawiin gidaa-biigwa’osiwaawaa a’aw nindesim (“you could not burst this shell of mine), midaaso-onik bi-daabikizi.” (for it is ten arms thick.” — *midaaso-onik ‘ten arms [in length]’ flagged*)</span>
 
-<span class="l-orig">(94) Anic ningutwā‘tciwạg īgi‘ᵘ windigōg. Päjik aᵘ kīgitu: “Ānīna kägijināgwa‘k käbwāwaganāmint?” Äcipa‘ki‘tä∙o∙wāt ki‘tci∙a∙nigu‘k, kāwīn ganaga pigwāckāsī aᵘ äs. Tayōc madwänāwatcino tcagāpäs: “Äya’, äya’, aya’! Mi∙i∙‘ᵘ, mīti‘ᵘ ici∙ā∙nici‘tamu‘k! Kāwin po‘tc kitapigwawasiwawa. Pisindawicyu‘k! Kīcpîn nōmag wi∙a∙yāyäg ningabā‘kinā aᵘ nindäsîm. Kāwin wi‘kā kīnawā kītākackitōsin tcibā‘kinäg aᵘ nindäsîm. Ạgataga wi‘kwatci∙i∙‘k iᵃ tcibā‘kinäg!”</span>
+<span class="l-orig">(94) Ānīc ningutwā‘tciwạg īgi´ᵘ wīndigōg. Päjik aᵘ kīgitu: “Ānīna kägījināgwa‘k käbwāwagạnāmint?” Äcipa‘ki‘tä∙o∙wāt ki‘tci änigu‘k, kāwin gạnạgä pigwāckāsī aᵘ äs. Tayōc mạdwänāwạtcino tcagāpäs: “Äya´, äya’, āya’! Mī∙i∙’ᵘ, mī∙i∙ᵘ ici ānici‘tamu‘k! Kāwīn pō‘tc kītāpigwawāsiwāwa. Pisindawicyu‘k! Kīcpîn nōmạg wī∙a∙yāyäg ningabā‘kinā aᵘ nindäsîm. Kāwīn wī‘kā kīnawā kītākackitōsin tcibā‘kinäg aᵘ nindäsîm. Ạgạtạga wī‘kwatci∙i∙‘k iᵘ tcipā‘kinäg!”</span>
 
-<span class="l-fiero">**Aanish ningodwaachiwag igiw windigoog. Bezhig aw giigido: “Aaniina ge-gizhinaagwak ge-bwaa-waganaamind?” Ezhi-bakite’owaad gichi-enigok, gaawiin ganage bigwaashkaasii aw es. Dayooch madwe-naawajino jaakaabish: “Eya, eya, aya! Mii i’iw, mii diw izhi-aanizhi’tamok! Gaawiin booch gidaa-bigwa’osiwaawaa. Bizindawishiyok! Giishpin noomag wii-ayaayeg ninga-baakinaa aw nindesim. Gaawiin wiikaa giinawaa gidaa-gashkitoosiin ji-baakineg aw nindesim. Agataga wii-gwajii’ik iw ji-baakineg!”**</span>
+<span class="l-fiero">**Aanish ningodwaachiwag igiw windigoog. Bezhig aw giigido: “Aaniina ge-gizhinaagwak ge-bwaa-waganaamind?” Ezhi-bakite’owaad gichi-enigok, gaawiin ganage bigwaashkaasii aw es. Dayoosh* madwe-naawajino jaakaabish: “Eya, eya, aya! Mii i’iw, mii iw izhi-aanizhi’tamok! Gaawiin booch gidaa-bigwa’osiwaawaa. Bizindawishiyok! Giishpin noomag wii-ayaayeg ninga-baakinaa aw nindesim. Gaawiin wiikaa giinawaa gidaa-gashkitoosiin ji-baakineg aw nindesim. Agataga wii-gwajii’ik iw ji-baakineg!”**</span>
 
-<span class="l-eng">*Now, six was the number of the Windigōs. One of them spoke, saying: “How is it possible that the thing can be so difficult to burst?” When he struck it with all his might, not a whit did the shell break. Still yet could be heard the voice of the gnome whooping: “Hey, hey, hey! Now then, now then, you had better quit! It is impossible for you to burst it. Harken to me! If a little while longer you intend to remain, I will open this shell of mine. You yourselves could never open this shell of mine. Now, just you try opening it!”*</span>
+<span class="l-eng">*Now, six was the number of the Wīndigōs. One of them spoke, saying: “How is it possible that the thing can be so difficult to burst?” When he struck it with all his might, not a whit did the shell break. Still yet could be heard the voice of the gnome whooping: “Hey, hey, hey! Now then, now then, you had better quit! It is impossible for you to burst it. Harken to me! If a little while longer you intend to remain, I will open this shell of mine. You yourselves could never open this shell of mine. Now, jus you try opening it!”*</span>
 
-<span class="l-gloss">Aanish ningodwaachiwag igiw windigoog (now, six were the Windigos). Bezhig aw giigido (one of them spoke): “Aaniina ge-gizhinaagwak ge-bwaa-waganaamind?” (“how can it be so hard to burst?”) Ezhi-bakite’owaad gichi-enigok (when he struck it with all his might), gaawiin ganage bigwaashkaasii aw es (not a whit did the shell break). Dayooch madwe-naawajino jaakaabish (still the gnome’s whooping was heard): “Eya, eya, aya! (“hey, hey, hey! — *cry carried verbatim*) Mii i’iw, mii diw izhi-aanizhi’tamok! (now then, now then, you had better quit! — *aanizhi’taa- ‘give up’ flagged*) Gaawiin booch gidaa-bigwa’osiwaawaa (it is impossible for you to burst it). Bizindawishiyok! (harken to me!) Giishpin noomag wii-ayaayeg ninga-baakinaa aw nindesim (if you mean to stay a little longer, I will open this shell of mine). Gaawiin wiikaa giinawaa gidaa-gashkitoosiin ji-baakineg aw nindesim (you yourselves could never open it). Agataga wii-gwajii’ik iw ji-baakineg!” (now just try opening it!”)</span>
+<span class="l-gloss">Aanish ningodwaachiwag igiw windigoog (now, six were the Windigos). Bezhig aw giigido (one of them spoke): “Aaniina ge-gizhinaagwak ge-bwaa-waganaamind?” (“how can it be so hard to burst?”) Ezhi-bakite’owaad gichi-enigok (when he struck it with all his might), gaawiin ganage bigwaashkaasii aw es (not a whit did the shell break). Dayoosh* madwe-naawajino jaakaabish (still the gnome’s whooping was heard): “Eya, eya, aya! (“hey, hey, hey! — *cry carried verbatim*) Mii i’iw, mii iw izhi-aanizhi’tamok! (now then, now then, you had better quit! — *aanizhi’taa- ‘give up’ flagged*) Gaawiin booch gidaa-bigwa’osiwaawaa (it is impossible for you to burst it). Bizindawishiyok! (harken to me!) Giishpin noomag wii-ayaayeg ninga-baakinaa aw nindesim (if you mean to stay a little longer, I will open this shell of mine). Gaawiin wiikaa giinawaa gidaa-gashkitoosiin ji-baakineg aw nindesim (you yourselves could never open it). Agataga wii-gwajii’ik iw ji-baakineg!” (now just try opening it!”)</span>
 
-<span class="l-orig">(95) Kägä‘t aᵘ windigō utānawipa‘kwatcigwānān. Käga‘pī∙i∙gu sägisi windigō. Cigwa tcagābäs äjikạnōnāt: “Minạc isi‘ wikiwäsiwäg? Nạckäsa kamīgānininîm.” Cigwa wīpā kāpuwänān; pitcinagigu mämāsi‘kānit īni‘ äsan, tci∙ā∙nigu‘k mādcāwạg windigōg.</span>
+<span class="l-orig">(95) Kägä‘t aᵘ wīndigō utānawipa‘kwạtcigwānān. Käga‘pī∙i∙gu sägisi wīndigō. Cigwa tcagābäs äjikạnōnāt: “Mīnạc iᵉi´ᵘ wīkīwäsiwäg? Nạckäsa kamīgānininîm.” Cigwa wīpā‘kāpuwänān; pitcīnạgigu mämāsi‘kānit īniᵘ äsạn, tci∙ā∙nigu‘k mādcāwạg wīndigōg.</span>
 
-<span class="l-fiero">**Geget aw windigoo odaanawi-bakwajigwaanaan. Gabe’apii-igo zegizi windigoo. Zhigwa jaakaabish ezhi-ganoonaad: “Minaj isi wii-giiwesiweg? Naashkesa ga-miigaanininim.” Zhigwa wii-baakaaboowenaan; bijiinag igo memaasi’kaanid iniw esan, ji-enigok maajaawag windigoog.**</span>
+<span class="l-fiero">**Geget aw windigoo odaanawi-bakwajigwaanaan. Gegapii igo zegizi windigoo. Zhigwa jaakaabish ezhi-ganoonaad: “Minash* i’iw wii-giiwesiweg? Naashkesa ga-miigaanininim.” Zhigwa wii-baakaaboowenaan; bijiinag igo memaasi’kaanid iniw esan, ji-enigok maajaawag windigoog.**</span>
 
-<span class="l-eng">*Verily, the Windigō tried in vain to pry it up. And then at last alarmed became the Windigō. Presently the gnome then spoke to them, saying: “Is it that you do not intend to withdraw? Therefore then I will fight you.” Then was he on the point of opening it; as soon as his shell began moving, with all speed departed the Windigōs.*</span>
+<span class="l-eng">*Verily, the Wīndigō tried in vain to pry it up. And then at last alarmed became the Wīndigō. Presently the gnome then spoke to them, saying: “Is it that you do not intend to withdraw? Therefore then I will fight you.” Then was he on the point of opening it; as soon as his shell began moving, with all speed departed the Wīndigōs.*</span>
 
-<span class="l-gloss">Geget aw windigoo odaanawi-bakwajigwaanaan (verily the Windigo tried in vain to pry it up — *bakwajigwaan- ‘pry up’ flagged*). Gabe’apii-igo zegizi windigoo (and at last the Windigo grew alarmed). Zhigwa jaakaabish ezhi-ganoonaad (presently the gnome spoke to them): “Minaj isi wii-giiwesiweg? (“is it you do not intend to withdraw?) Naashkesa ga-miigaanininim.” (therefore I will fight you.”) Zhigwa wii-baakaaboowenaan (then he was about to open it); bijiinag igo memaasi’kaanid iniw esan (as soon as his shell began to move — *maasi’kaa- ‘begin to move’ flagged*), ji-enigok maajaawag windigoog (with all speed the Windigos departed).</span>
+<span class="l-gloss">Geget aw windigoo odaanawi-bakwajigwaanaan (verily the Windigo tried in vain to pry it up — *bakwajigwaan- ‘pry up’ flagged*). Gegapii igo zegizi windigoo (and at last the Windigo grew alarmed). Zhigwa jaakaabish ezhi-ganoonaad (presently the gnome spoke to them): “Minash* i’iw wii-giiwesiweg? (“is it you do not intend to withdraw?) Naashkesa ga-miigaanininim.” (therefore I will fight you.”) Zhigwa wii-baakaaboowenaan (then he was about to open it); bijiinag igo memaasi’kaanid iniw esan (as soon as his shell began to move — *maasi’kaa- ‘begin to move’ flagged*), ji-enigok maajaawag windigoog (with all speed the Windigos departed).</span>
 
 <span class="l-orig">(96) Mīsa pinäwitcīt kī∙ạ∙gōtä.</span>
 
@@ -881,7 +822,5 @@ Bears-with-Heads-at-Both-Ends do I seek to encounter.”*</span>
 <span class="l-eng">*And so the buttocks of the ruffed grouse now hang aloft.*</span>
 
 <span class="l-gloss">Mii sa (and so it is) binewi-jiid (the ruffed grouse’s rump) gii-agoode (now hangs aloft). *the closing that leaves the story to the listener’s own wondering⟩*</span>
-
-*“Mii sa binewi-jiid gii-agoode.” — the FULL-FORM binewi-jiid (rump) carrier with the hanging-verb printed on the page (gii-agoode), as in #45 / #72 / #73 / #74. Fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. (Per M., 2026.)*
 
 </div>

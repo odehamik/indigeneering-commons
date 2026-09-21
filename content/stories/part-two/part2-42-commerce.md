@@ -2,7 +2,6 @@
 title: "42. Commerce"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -53,6 +52,8 @@ COMMERCE.
 
 *¹ Hudson Bay Company factor. (Jones’s note)*
 
+*¹ Hudson Bay Company factor. (Jones’s note)*
+
 <span class="l-orig">(5) Ā‘pidci kīsạnạgạt ka‘kina kägō.</span>
 
 <span class="l-fiero">**Aapiji gii-sanagad gakina gegoo.**</span>
@@ -61,13 +62,15 @@ COMMERCE.
 
 <span class="l-gloss">Aapiji gii-sanagad (exceedingly dear/hard was) gakina gegoo (everything).</span>
 
-<span class="l-orig">(6) Nîswi wâbijäciwạg, mī∙i∙’ᵘ päjigwâbik kī∙i∙nạgizowād;² cāngwäciwạg nīwin, mī∙i∙’ᵘ päjigwābi‘k; wâguc, ā‘pidci wänicicit, ma‘kadäwâguc, nīwâbi‘k ä‘ta gī∙i∙nagizu; cōniyāwâguc nījwâbik ä‘ta kī∙i∙nạgizu; nīgik kayä nījwābik ä‘ta kī∙i∙nạgisu; udcīg päjigwābi‘k; pijyᵘ gayä päjigwâbi‘k; ma‘kwa ā‘pidci wänicicit nīwâbik; nawạtc ägāⁿjīyit nījwâbik; ami‘k kayä nījwâbi‘k, ägāⁿjīyit päjigwâbi‘k; wajajkwạg nīctạna, mī∙i∙’ᵘ päjigwâbik.</span>
+<span class="l-orig">(6) Nîswi wâbijäciwạg, mī∙i∙’ᵘ päjigwâbik kī∙i∙nạgizowād;² cāngwäciwạg nīwin, mī∙i∙´ᵘ päjigwābi‘k; wâguc, ā‘pidci wänicicit, ma‘kadäwâguc, nīwâbi‘k ä‘ta gī∙i∙nagizu; cōniyāwâguc nījwâbik ä‘ta kī∙i∙nạgizu; nīgik kayä nījwābik ä‘ta kī∙i∙nạgisu; udcīg päjigwābi‘k; pijyᵘ gayä päjigwâbi‘k; ma‘kwa ā‘pidci wänicicit nīwâbik; nawạtc ägāⁿjīyit nījwâbik; ami‘k kayä nījwâbi‘k, ägāⁿjīyit päjigwâbi‘k; wajajkwạg nīctạna, mī∙i∙´ᵘ päjigwâbik.</span>
 
 <span class="l-fiero">**Niswi waabizheshiwag, mii iw bezhigwaabik gii-inagizowaad; zhaangweshiwag niiwin, mii iw bezhigwaabik; waagosh, aapiji wenizhishid, makadewaagosh, niiwaabik eta gii-inagizo; zhooniyaawaagosh niizhwaabik eta gii-inagizo; nigig gaye niizhwaabik eta gii-inagizo; ojiig bezhigwaabik; bizhiw gaye bezhigwaabik; makwa aapiji wenizhishid niiwaabik; nawaj egaanzhiiyid niizhwaabik; amik gaye niizhwaabik, egaanzhiiyid bezhigwaabik; wazhashkwag nishtana, mii iw bezhigwaabik.**</span>
 
 <span class="l-eng">*Three martens,² it was a dollar that they were worth; minks (to the number of) four, that (was) a dollar; a fox, one that was very fine, a black fox, four dollars was all it was worth; a silver fox was worth only four dollars; and an otter was worth only two dollars; a fisher (was worth) one dollar; and a lynx (was worth) one dollar; a bear that was very fine (was worth) four dollars; a smaller one (was worth) two dollars; and a beaver (was worth) two dollars, one that was small (was worth) one dollar; muskrats (to the number of) twenty, that was one dollar.*</span>
 
 <span class="l-gloss">Niswi waabizheshiwag (three martens), mii iw bezhigwaabik (one dollar; *lit. “one piece of metal”*) gii-inagizowaad (is what they were worth); zhaangweshiwag niiwin (four minks), mii iw bezhigwaabik (that was a dollar); waagosh (a fox), aapiji wenizhishid (a very fine one), makadewaagosh (a black fox), niiwaabik eta gii-inagizo (was worth only four dollars); zhooniyaawaagosh (a silver fox) niizhwaabik eta gii-inagizo (was worth only two dollars); nigig gaye (and an otter) niizhwaabik eta gii-inagizo (was worth only two dollars); ojiig bezhigwaabik (a fisher one dollar); bizhiw gaye bezhigwaabik (and a lynx one dollar); makwa aapiji wenizhishid (a very fine bear) niiwaabik (four dollars); nawaj egaanzhiiyid (a smaller one) niizhwaabik (two dollars); amik gaye niizhwaabik (and a beaver two dollars), egaanzhiiyid bezhigwaabik (a small one one dollar); wazhashkwag nishtana (twenty muskrats), mii iw bezhigwaabik (that was one dollar).</span>
+
+*² Skins. (Jones’s note)*
 
 *² Skins. (Jones’s note)*
 
@@ -87,7 +90,7 @@ COMMERCE.
 
 <span class="l-gloss">Anishaa (nevertheless) aapiji gii-maanewag (very numerous were they) awesiiyensag (the small game animals).</span>
 
-<span class="l-orig">(9) Kāwī‘kā cōniyā ningīmīnigōsīmin, miyä‘tạgu ạno‘kādcigạn kāmäckudōnạmāgōyāng; kayädạc kīsạnạgạt ạno‘kātcigạn.</span>
+<span class="l-orig">(9) Kāwī‘kā cōniyā ningīmīnigōsīmin, mīyä‘tạgu ạno‘kādcigạn kāmäckudōnạmāgōyāng; kayädạc kīsạnạgạt ạno‘kātcigạn.</span>
 
 <span class="l-fiero">**Gaawiikaa zhooniyaa ningii-miinigoosiimin, miiy eta go anokaajigan gaa-meshkwadoonamaagooyaang; gaye dash gii-sanagad anokaajigan.**</span>
 

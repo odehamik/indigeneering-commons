@@ -2,7 +2,6 @@
 title: "61. Nanabushu Swallowed by the Sturgeon"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -83,7 +82,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(9) “Mīnagu kā∙i∙jipīnicipimātisiyān?” udinān ō‘kumisạn.</span>
 
-<span class="l-fiero">**“Mii na go ge-izhi-piinishi-bimaadiziyaan?” odinaan ookomisan.**</span>
+<span class="l-fiero">**“Mii na go ge-izhi-biinishi-bimaadiziyaan?” odinaan ookomisan.**</span>
 
 <span class="l-eng">*“Is it possible that simply without cause I came into being?” he said to his grandmother.*</span>
 
@@ -155,11 +154,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(18) Awä kisayäⁿ mī∙a∙ᵘ kānīgit, i∙i∙witạc iskwātc äyāmạga‘k anicinābänāgitcin wäbinigātädạc iᵘ; mīdạc äjini‘kātäg ạbinōtcī∙u∙dapi‘kwäcimun, ijini‘kātä.</span>
 
-<span class="l-fiero">**Awe gi-sayenh mii aw gaa-niigid, i’iw idash ishkwaach e-yaamagag anishinaabe naagishin webinigaade dash iw; mii dash e-zhinikaadeg abinoojiinh odapikweshimon, izhinikaate.**</span>
+<span class="l-fiero">**Awe gi-sayenh mii aw gaa-niigid, i’iw idash ishkwaach e-yaamagak anishinaabe naagishin webinigaade dash iw; mii dash e-zhinikaadeg abinoojii odapikweshimon, izhinikaade.**</span>
 
 <span class="l-eng">*After that elder brother of yours was born, then that which is the last to come when one is born was thrown away ; for it is called a place-for-the-babe-to-rest-its-head, such is its name.*</span>
 
-<span class="l-gloss">Awe gi-sayenh mii aw gaa-niigid (that elder brother of yours, he who was born), i’iw idash ishkwaach e-yaamagag anishinaabe naagishin (and the thing that comes last when a person is born) webinigaade dash iw (was thrown away); mii dash e-zhinikaadeg (and this is what it is called) abinoojiinh odapikweshimon (a babe’s little head-rest), izhinikaate (so it is named).</span>
+<span class="l-gloss">Awe gi-sayenh mii aw gaa-niigid (that elder brother of yours, he who was born), i’iw idash ishkwaach e-yaamagak anishinaabe naagishin (and the thing that comes last when a person is born) webinigaade dash iw (was thrown away); mii dash e-zhinikaadeg (and this is what it is called) abinoojii odapikweshimon (a babe’s little head-rest), izhinikaade (so it is named).</span>
 
 <span class="l-orig">(19) Mīdạc imā kīn wändātîsiyạn, nōcis.</span>
 
@@ -179,11 +178,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(21) Mīdạc nāgạtc kā∙i∙cinōntawint apinōdcī mạdwämawit iwiti agōtäg iᵘ pi‘kwäcimunäns.</span>
 
-<span class="l-fiero">**Mii dash naagaj gaa-izhi-noondawind abinoojiinh madwe-mawid iwidi agoodeg iw bikweshimonens.**</span>
+<span class="l-fiero">**Mii dash naagaj gaa-izhi-noondawind abinoojii madwe-mawid iwidi agoodeg iw bikweshimonens.**</span>
 
 <span class="l-eng">*And so after a while there was heard the cry of a babe at yonder place where hung the little-rest-for-the-head.*</span>
 
-<span class="l-gloss">Mii dash naagaj gaa-izhi-noondawind abinoojiinh (and then after a while a babe was heard) madwe-mawid (crying) iwidi agoodeg iw bikweshimonens (yonder where that little head-rest hung).</span>
+<span class="l-gloss">Mii dash naagaj gaa-izhi-noondawind abinoojii (and then after a while a babe was heard) madwe-mawid (crying) iwidi agoodeg iw bikweshimonens (yonder where that little head-rest hung).</span>
 
 <span class="l-orig">(22) Mīdạc kā∙i∙ci∙i∙cāyān, mīdạc imā kīmi‘kōnān.</span>
 
@@ -259,27 +258,27 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(31) “ạnicā tcikaskändạmạn, kayä tcigwī∙i∙nawi∙i∙nändansiyạn,” udigōn ō‘kumisạn.</span>
 
-<span class="l-fiero">**“anishaa ji-kahkendaman, gaye ji-gwii’inawi’inendanziyan,” odigoon ookomisan.**</span>
+<span class="l-fiero">**“anishaa ji-gashkendaman, gaye ji-gwii’inawi’inendanziyan,” odigoon ookomisan.**</span>
 
 <span class="l-eng">*“that for no cause you should be sad, and that you should not be disturbed in your peace of mind,” he was told by his grandmother.*</span>
 
-<span class="l-gloss">“anishaa ji-kahkendaman (“so that you would not be sad for nothing), gaye ji-gwii’inawi’inendanziyan,” (and that you would not be troubled in mind,”) odigoon ookomisan (he was told by his grandmother).</span>
+<span class="l-gloss">“anishaa ji-gashkendaman (“so that you would not be sad for nothing), gaye ji-gwii’inawi’inendanziyan,” (and that you would not be troubled in mind,”) odigoon ookomisan (he was told by his grandmother).</span>
 
 <span class="l-orig">(32) “Pîsānigu tcîpimādisiyạn; änicigu wâbạndạmạn kījik pādciwayāsäyāgin; kayä cayīgwa kīsis pạmō‘ka∙ạ∙ngin äji∙o∙nānigwändāgwa‘k, tci∙i∙ji∙o∙nānigwändạmạn.</span>
 
-<span class="l-fiero">**“Bizaan igo ji-bimaadiziyan; enishigo waabandaman giizhig baaji-wayaaseyaagin; gaye zhayiigwa giizis ba-mooka’angin ezhi-onaanigwendaagwag, ji-izhi-onaanigwendaman.**</span>
+<span class="l-fiero">**“Bizaan igo ji-bimaadiziyan; enishigo waabandaman giizhig baaji-wayaaseyaagin; gaye zhayiigwa giizis ba-mooka’angin ezhi-onaanigwendaagwak, ji-izhi-onaanigwendaman.**</span>
 
 <span class="l-eng">*“And that in peace you should live; that you should behold with a feeling of contentment the light of day when it comes ; and that whenever the sun comes forth, when a sense of gladness pervades all things, you should be joyful too.*</span>
 
-<span class="l-gloss">“Bizaan igo ji-bimaadiziyan (“so that you would live in peace); enishigo waabandaman giizhig baaji-wayaaseyaagin (that you would simply behold the day as its light breaks forth); gaye zhayiigwa giizis ba-mooka’angin (and that when the sun comes up) ezhi-onaanigwendaagwag (as all things turn glad), ji-izhi-onaanigwendaman (you too would be glad).</span>
+<span class="l-gloss">“Bizaan igo ji-bimaadiziyan (“so that you would live in peace); enishigo waabandaman giizhig baaji-wayaaseyaagin (that you would simply behold the day as its light breaks forth); gaye zhayiigwa giizis ba-mooka’angin (and that when the sun comes up) ezhi-onaanigwendaagwak (as all things turn glad), ji-izhi-onaanigwendaman (you too would be glad).</span>
 
 <span class="l-orig">(33) Mī∙i’∙ᵘ wī‘kā kā∙u∙ndcikägō∙i∙nisinowān,” udigōn ō‘kumisạn.</span>
 
-<span class="l-fiero">**Mii i’iw wiikaa gaa-onji-kegoo-inisinowaan,” odigoon ookomisan.**</span>
+<span class="l-fiero">**Mii i’iw wiikaa gaa-onji-gegoo-inisinowaan,” odigoon ookomisan.**</span>
 
 <span class="l-eng">*Now, that was why I never imparted any thing to you,” he was told by his grandmother.*</span>
 
-<span class="l-gloss">Mii i’iw wiikaa gaa-onji-kegoo-inisinowaan,” (that was why I never told you anything,”) odigoon ookomisan (he was told by his grandmother).</span>
+<span class="l-gloss">Mii i’iw wiikaa gaa-onji-gegoo-inisinowaan,” (that was why I never told you anything,”) odigoon ookomisan (he was told by his grandmother).</span>
 
 <span class="l-orig">(34) Mīdạc Nänabucu cayīgwa ināt ō‘kumisạn:</span>
 
@@ -299,11 +298,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(36) Ninganạntawâbạmāg awänänạn kānisiguwāt nigī∙i∙gōg kayä nisayäⁿ.”</span>
 
-<span class="l-fiero">**Ninga-nandawaabamaag awenenan gaa-nisigowaad ni-gii’igoog gaye ni-sayen.”**</span>
+<span class="l-fiero">**Ninga-nandawaabamaag awenenan gaa-nisigowaad ni-gii’igoog gaye ni-sayenh.”**</span>
 
 <span class="l-eng">*I am going to seek those who slew my parents and my elder brother.”*</span>
 
-<span class="l-gloss">Ninga-nandawaabamaag awenenan gaa-nisigowaad ni-gii’igoog (I am going to look for whoever it was that killed those who gave birth to me) gaye ni-sayen.” (and my elder brother.”)</span>
+<span class="l-gloss">Ninga-nandawaabamaag awenenan gaa-nisigowaad ni-gii’igoog (I am going to look for whoever it was that killed those who gave birth to me) gaye ni-sayenh.” (and my elder brother.”)</span>
 
 <span class="l-orig">(37) Mīdạc ägut ō‘kumisạn: “Kägu’, nōjis.</span>
 
@@ -331,7 +330,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(40) Mīdạc äjimādcāt Nänabucu awipîsa∙ạ∙nk wī∙u∙ji‘tōd pigwa‘kōn kayä sawānạn.</span>
 
-<span class="l-fiero">**Mii dash ezhi-maajaad Nenaboozhoo awi-pisa’ang wii-ozhitood bikwakoon gaye sawaanan.**</span>
+<span class="l-fiero">**Mii dash ezhi-maajaad Nenaboozhoo awi-bisa’ang wii-ozhitood bikwakoon gaye sawaanan.**</span>
 
 <span class="l-eng">*So then off went Nänabushu, he went to seek (for a small straight tree, easy) to split, to the end that he might make some arrows and some spears.*</span>
 
@@ -387,11 +386,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(47) Mīdạc kägä‘t ā‘pagisut aᵘ mindimōyä, kīskabak idac nāni‘kibitōt sipōtcigạn mīnāt.</span>
 
-<span class="l-fiero">**Mii dash geget apagizod aw mindimooye, giiskabag idash naanikibidood siboojigan miinaad.**</span>
+<span class="l-fiero">**Mii dash geget apagizod aw mindimooye, giishkabag* idash naanikibidood siboojigan miinaad.**</span>
 
 <span class="l-eng">*It was true that over leaned the old woman, and from the meeting-place of the wall and the ground she drew forth a whetstone and gave it to him.*</span>
 
-<span class="l-gloss">Mii dash geget apagizod aw mindimooye (it was true that the old woman leaned over), giiskabag idash naanikibidood siboojigan (and from along the wall’s edge she pulled out a whetstone) miinaad (giving it to him).</span>
+<span class="l-gloss">Mii dash geget apagizod aw mindimooye (it was true that the old woman leaned over), giishkabag idash naanikibidood siboojigan (and from along the wall’s edge she pulled out a whetstone) miinaad (giving it to him).</span>
 
 <span class="l-orig">(48) Mīdạc äji∙u∙tā‘pinạng Nänabucu, mīdạc äjimādcī∙a∙sipōtcigät.</span>
 
@@ -507,7 +506,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(62) Mīdạc äjipasiguntcisät; mīdạc äjinawatcipitōd wâgā‘kwa‘t;</span>
 
-<span class="l-fiero">**Mii dash ezhi-pazigonjised; mii dash ezhi-nawajibidood waagaakwat;**</span>
+<span class="l-fiero">**Mii dash ezhi-bazigonjised; mii dash ezhi-nawajibidood waagaakwat;**</span>
 
 <span class="l-eng">*Thereupon he leaped to his feet thereupon he grabbed and fastened down the axe ;*</span>
 
@@ -515,11 +514,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(63) äjiki‘tcipapa‘kitäᵒwāt asinīn änābitagāwạninig.</span>
 
-<span class="l-fiero">**ezhi-kichi-pabakiteowaad asiniin enaabidagaawaninig.**</span>
+<span class="l-fiero">**ezhi-kichi-babakiteowaad asiniin enaabidagaawaninig.**</span>
 
 <span class="l-eng">*he thoroughly pounded it with a stone right on the sharp edge.*</span>
 
-<span class="l-gloss">ezhi-gichi-babakiteowaad asiniin (he pounded it hard with a stone) enaabidagaawaninig (right along the sharp cutting edge).</span>
+<span class="l-gloss">ezhi-kichi-babakiteowaad asiniin (he pounded it hard with a stone) enaabidagaawaninig (right along the sharp cutting edge).</span>
 
 <span class="l-orig">(64) Mīdạc kägä‘t ki‘tci∙u∙jī‘tād wīmādcāt; nībiwa ugī∙u∙jitōnạn ubīgwa‘kōn osawānạn kayä.</span>
 
@@ -539,19 +538,19 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(66) kāwīn tibātutcigātäsinōn wägunän kāyōgwän kī∙u∙ji‘tōd ki‘tci nībiwa ūbīgwa‘kōn kayä odasawānạn,</span>
 
-<span class="l-fiero">**gaawiin dibaajigaadesinoon wegonen gaayoogwen gii-ozhitood gichi-niibiwa obikwakoon gaye odasawaanan,**</span>
+<span class="l-fiero">**gaawiin dibaadojigaadesinoon* wegonen gaayoogwen gii-ozhitood gichi-niibiwa obikwakoon gaye odasawaanan,**</span>
 
 <span class="l-eng">*it is not told what he used when he made the great number of his arrows and spears,*</span>
 
-<span class="l-gloss">gaawiin dibaajigaadesinoon wegonen gaayoogwen (it is not told with what) gii-ozhitood gichi-niibiwa obikwakoon gaye odasawaanan (he made his very many arrows and spears).</span>
+<span class="l-gloss">gaawiin dibaadojigaadesinoon* wegonen gaayoogwen (it is not told with what) gii-ozhitood gichi-niibiwa obikwakoon gaye odasawaanan (he made his very many arrows and spears).</span>
 
 <span class="l-orig">(67) iᵘ kīkīckāpitäsitōd owâgā‘kwạt;</span>
 
-<span class="l-fiero">**iw giikiizhkaabidesidood owaagaakwad;**</span>
+<span class="l-fiero">**iw gii-giishkaabidesidood* owaagaakwad;**</span>
 
 <span class="l-eng">*for he had dulled his axe ;*</span>
 
-<span class="l-gloss">iw giikiizhkaabidesidood owaagaakwad (for he had blunted the edge of his axe).</span>
+<span class="l-gloss">iw gii-giishkaabidesidood owaagaakwad (for he had blunted the edge of his axe).</span>
 
 <span class="l-orig">(68) mīyä‘tagu täbātcimint kī‘kījī‘tā∙i∙tisut.</span>
 
@@ -587,19 +586,19 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(72) kīwīmbikawāt mi‘tigōn;</span>
 
-<span class="l-fiero">**Gii-wiimbikawaad mitigoon;**</span>
+<span class="l-fiero">**Gii-wiimbigawaad mitigoon;**</span>
 
 <span class="l-eng">*he hewed it out of a log ;*</span>
 
-<span class="l-gloss">Gii-wiimbikawaad mitigoon (he hollowed out a log).</span>
+<span class="l-gloss">Gii-wiimbigawaad mitigoon (he hollowed out a log).</span>
 
 <span class="l-orig">(73) äniginitigu ogī∙i∙niku‘kwātōn inā.</span>
 
-<span class="l-fiero">**eniginid igo ogii-inikokwaadoon inaa.**</span>
+<span class="l-fiero">**eniginid igo ogii-inigokwaadoon inaa.**</span>
 
 <span class="l-eng">*the measure of himself was the size he made it, so it is told of him.*</span>
 
-<span class="l-gloss">eniginid igo ogii-inikokwaadoon inaa (the size of himself he made it, so it is told).</span>
+<span class="l-gloss">eniginid igo ogii-inigokwaadoon inaa (the size of himself he made it, so it is told).</span>
 
 <span class="l-orig">(74) Mīdạc kīmawinäwāt micinạmägwän.</span>
 
@@ -627,11 +626,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(77) “Aiyāngwāmisin, nōjis,” udigōn; “ingutci kīgatinikātōn kīyaᵘ,” udigōn ō‘kumisạn.</span>
 
-<span class="l-fiero">**“Ayaangwaamizin, noozhis,” odigoon; “ingoji gigadi-nikaadoon giiyaw,” odigoon ookomisan.**</span>
+<span class="l-fiero">**“Ayaangwaamizin, noozhis,” odigoon; “ingoji gigad-inigaatoon giiyaw,” odigoon ookomisan.**</span>
 
 <span class="l-eng">*“Be careful, my grandson,” he was told; “somewhere will you bring harm upon yourself,” he was told by his grandmother.*</span>
 
-<span class="l-gloss">“Ayaangwaamizin, noozhis,” odigoon (“be careful, my grandson,” he was told); “ingoji gigadi-nikaadoon giiyaw,” (“somewhere you will harm your own body,”) odigoon ookomisan (he was told by his grandmother).</span>
+<span class="l-gloss">“Ayaangwaamizin, noozhis,” odigoon (“be careful, my grandson,” he was told); “ingoji gigad-inigaatoon giiyaw,” (“somewhere you will harm your own body,”) odigoon ookomisan (he was told by his grandmother).</span>
 
 <span class="l-orig">(78) “Kāwīn, nō‘kumis, ningatagwicin minawa omā,” udinān.</span>
 
@@ -643,7 +642,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(79) Mīsa´ Nänabucu cayīgwa äjipa‘kubīnạng utcīnān, mādcāt kwaya‘k ki‘tcimicawagām;</span>
 
-<span class="l-fiero">**Mii sa Nenaboozhoo zhayiigwa ezhi-pakobiinang ojiimaan, maajaad gwayak gichi-mishawagaam;**</span>
+<span class="l-fiero">**Mii sa Nenaboozhoo zhayiigwa ezhi-bakobiinang ojiimaan, maajaad gwayak gichi-mishawagaam;**</span>
 
 <span class="l-eng">*And as Nänabushu now shoved his canoe into the water, he proceeded straight out to sea;*</span>
 
@@ -651,7 +650,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(80) kägā dạc nänāwạgām tägucing, mī äjipīpāgit, nạgamut:</span>
 
-<span class="l-fiero">**gegaa dash nenaawagaam degoshing, mii ezhi-piibaagid, nagamod:**</span>
+<span class="l-fiero">**gegaa dash nenaawagaam degoshing, mii ezhi-biibaagid, nagamod:**</span>
 
 <span class="l-eng">*and when almost at the middle part of the sea he was come, then he cried with a loud voice, singing :*</span>
 
@@ -731,11 +730,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(90) A‘panägu kīwäⁿ kāsāswänik u‘tawagạn; minawā mi‘kawit, pīndāgiyaᵘ kīⁿgōⁿyạn ayā.</span>
 
-<span class="l-fiero">**Apane go giiwenh gaa-saaswenig otawagan; miinawaa mikawid, biindaagiiyaw giingoonyan ayaa.**</span>
+<span class="l-fiero">**Apane go giiwenh gaa-saaswenig otawagan; miinawaa mikawid, biindaagiiyaw giigoonyan ayaa.**</span>
 
 <span class="l-eng">*All the while they say there was a hissing- sound in the ears , and when he recovered his wits, inside of a fish he was.*</span>
 
-<span class="l-gloss">Apane go giiwenh gaa-saaswenig otawagan (all the while, they say, there was a hissing in his ears); miinawaa mikawid (and when he came to his senses), biindaagiiyaw giingoonyan ayaa (inside a fish he was).</span>
+<span class="l-gloss">Apane go giiwenh gaa-saaswenig otawagan (all the while, they say, there was a hissing in his ears); miinawaa mikawid (and when he came to his senses), biindaagiiyaw giigoonyan ayaa (inside a fish he was).</span>
 
 <span class="l-orig">(91) Mīdạc pîsān ayāt iwiti; mīdạc kīwäⁿ cayīgwa ki‘känimāt īni’ᵘ kīⁿgōⁿyạn animādcīnigut.</span>
 
@@ -747,11 +746,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(92) Mīdạc ‘aᵉa’ᵘ ugimākīⁿgōⁿ kīwät ändāwāt ạnāmipīg anāwaya∙ī∙ ki‘tcigạming.</span>
 
-<span class="l-fiero">**Mii dash a’aw ogimaa-giigoonh giiwed endaawaad anaamibiing anaawaya’ii gichi-gaming.**</span>
+<span class="l-fiero">**Mii dash a’aw ogimaa-giigoonh giiwed endaawaad anaamibiig anaawaya’ii gichi-gaming.**</span>
 
 <span class="l-eng">*And so the chief of fishes returned to the home under water on the floor of the sea.*</span>
 
-<span class="l-gloss">Mii dash a’aw ogimaa-giigoonh giiwed (and so that chief-fish returned home) endaawaad anaamibiing anaawaya’ii gichi-gaming (to where they dwell beneath the water, on the floor of the great water).</span>
+<span class="l-gloss">Mii dash a’aw ogimaa-giigoonh giiwed (and so that chief-fish returned home) endaawaad anaamibiig anaawaya’ii gichi-gaming (to where they dwell beneath the water, on the floor of the great water).</span>
 
 <span class="l-orig">(93) Mīdạc kīⁿwäⁿ mạdwäkiˢ‘tcisagaswä∙i∙tiwāt, madwäkiˢtcikayä ānimi‘tāgusinit; māmayawänit iᵘ kī‘kumint.</span>
 
@@ -795,7 +794,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(98) Mīdạc kīⁿwäⁿ bä‘kā äcimạmātcīt nāni‘kinạnk udạsawān; mīdạc äjipa‘pacipa∙ạ∙nk.</span>
 
-<span class="l-fiero">**Mii dash giiwenh bekaa ezhi-mamaajiid naanikinang odasawaan; mii dash ezhi-pabazhiba’ang.**</span>
+<span class="l-fiero">**Mii dash giiwenh bekaa ezhi-mamaajiid naanikinang odasawaan; mii dash ezhi-babazhiba’ang.**</span>
 
 <span class="l-eng">*Thereupon they say that softly he moved (and) pulled out a pointed arrow ; and then he began pricking it.*</span>
 
@@ -827,11 +826,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(102) Mīdạc cayīgwa ānuwī‘kwutōd tcicicigaguwät, kāwīn dạc ugaski‘tōsīn.</span>
 
-<span class="l-fiero">**Mii dash zhayiigwa aano-wiikwodood ji-shishigagowed, gaawiin dash ogaskitoosiin.**</span>
+<span class="l-fiero">**Mii dash zhayiigwa aano-wiikwodood ji-shishigagowed, gaawiin dash ogashkitoosiin.**</span>
 
 <span class="l-eng">*And so presently did he begin trying to vomit, but he was not able to do it.*</span>
 
-<span class="l-gloss">Mii dash zhayiigwa aano-wiikwodood ji-shishigagowed (and so presently he tried in vain to vomit), gaawiin dash ogaskitoosiin (but he could not do it).</span>
+<span class="l-gloss">Mii dash zhayiigwa aano-wiikwodood ji-shishigagowed (and so presently he tried in vain to vomit), gaawiin dash ogashkitoosiin (but he could not do it).</span>
 
 <span class="l-orig">(103) Mīdạc mädwä∙i∙‘kitut: “Kāwäsa, Nänabucu nimāni‘kāg,” i‘kito.</span>
 
@@ -843,7 +842,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(104) Ānawi kägä‘t ki‘tci∙ạ∙no‘kī Nänabucu tcicacigaguwānāsiwint; mī kā∙i∙jipimidā‘kwạnạng umi‘tigwābīn, mīdạc īni’ᵘ mäntcimā‘kwīt Nänabucu.</span>
 
-<span class="l-fiero">**Aanawi geget gichi-anokii Nenaboozhoo ji-shashigagowaanaasiwind; mii gaa-izhi-pimidaakwanang omitigwaabiin, mii dash iniw menjimaakwiid Nenaboozhoo.**</span>
+<span class="l-fiero">**Aanawi geget gichi-anokii Nenaboozhoo ji-shashigagowaanaasiwind; mii gaa-izhi-bimidaakwanang omitigwaabiin, mii dash iniw menjimaakwiid Nenaboozhoo.**</span>
 
 <span class="l-eng">*True was it, indeed, that hard worked Nänabushu to keep from being cast out; so then crosswise he placed his arrows, and so by them he held on.*</span>
 
@@ -927,7 +926,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-eng">*And so it is said that they were going to bury him, for really a long while had they kept him;*</span>
 
-<span class="l-gloss">Mii dash giiwenh waa-izhi-bagidenimaawaad (and so they say they were going to lay him away), aanawi ginwenzh ogii-ganawenimaawaan (for a long while indeed they had kept him).</span>
+<span class="l-gloss">Mii dash giiwenh waa-izhi-bagidenimaawaad (and so they say they were going to lay him away), aanawi ginwenzh ogii-kanawenimaawaan (for a long while indeed they had kept him).</span>
 
 <span class="l-orig">(115) māgicā ta∙ā∙bitcībā, kīinändạmōg.</span>
 
@@ -979,7 +978,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(121) Ā‘pidci kīpā‘tayīnowạg, miziwä änigu‘kwāg iᵘ ki‘tcigạmi kī∙u∙ndciwạg kī∙a∙wipạgidänimāwāt utōgimāmiwān.</span>
 
-<span class="l-fiero">**Aapiji gii-paatayiinowag, miziwe e-nigokwaag iw gichi-gami gii-onjiwag gii-awi-bagidenimaawaad odoo-gimaamiwaan.**</span>
+<span class="l-fiero">**Aapiji gii-baatayiinowag, miziwe e-nigokwaag iw gichi-gami gii-onjiwag gii-awi-bagidenimaawaad odoo-gimaamiwaan.**</span>
 
 <span class="l-eng">*Exceedingly numerous they were, from every part of the sea had they come to be at the burial of their chief.*</span>
 
@@ -987,7 +986,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(122) Mīdạc kīⁿwäⁿ wīn Nänabucu ändạjiwawänändạnk ānīn kätijikaski‘tōd tcisāga∙ạ∙nk imā pīndcaya∙ī∙ kīⁿgōⁿying kayä kīningwa∙o∙mint.</span>
 
-<span class="l-fiero">**Mii dash giiwenh wiin Nenaboozhoo endazhi-wawenendag aaniin ged-izhi-kashkitood ji-saaga’ang imaa biinjaya’ii giigoonying gaye gii-ningwa’omind.**</span>
+<span class="l-fiero">**Mii dash giiwenh wiin Nenaboozhoo endazhi-wawenendang aaniin ged-izhi-gashkitood ji-saaga’ang imaa biinjaya’ii giigoonying gaye gii-ningwa’omind.**</span>
 
 <span class="l-eng">*In the mean while they say that Nänabushu had been thinking out a plan how he might succeed in getting out from the inside of the fish which now was also lying buried.*</span>
 
@@ -1027,7 +1026,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(127) Mīdạc kägä‘t kā∙i∙jikiˢtcinōdink, ka‘kina kägō kīpa‘kudāmikā∙a∙n imā kīkiˢtcigạming ināmaya∙ī∙ ä‘tägini.</span>
 
-<span class="l-fiero">**Mii dash geget gaa-izhi-kichi-nooding, gakina gegoo gii-pakodaamikaa’an imaa gii-kichi-gaming inaamaya’ii etegini.**</span>
+<span class="l-fiero">**Mii dash geget gaa-izhi-kichi-nooding, gakina gegoo gii-bakodaamikaa’an imaa gii-kichi-gaming inaamaya’ii etegini.**</span>
 
 <span class="l-eng">*Thereupon truly there rose a mighty wind, everything that was on the floor of the sea came to the surface by force of the waves.*</span>
 
@@ -1107,7 +1106,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(137) Mīdạc kayāckwạg äjipạsigwa∙o∙wāt, kayä ạninōndāgusiwāt kạgwānisaka‘kạmig äni‘tāgusiwāt.</span>
 
-<span class="l-fiero">**Mii dash gayaashkwag ezhi-pazigwa’owaad, gaye ani-noondaagoziwaad gagwaanisagakamig e-nitaagoziwaad.**</span>
+<span class="l-fiero">**Mii dash gayaashkwag ezhi-bazigwa’owaad, gaye ani-noondaagoziwaad gagwaanisagakamig e-nitaagoziwaad.**</span>
 
 <span class="l-eng">*Thereupon the gulls flew up , and as they went, they could be heard uttering a frightful cry, for such was the sound they made.*</span>
 
@@ -1115,11 +1114,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(138) Mī Nänabucu kā∙i∙cinawatinạngin u‘tawagạn, kā∙i∙jiki‘pi‘tänitisut.</span>
 
-<span class="l-fiero">**Mii Nenaboozhoo gaa-izhi-nawadinangin otawagan, gaa-izhi-kipitenidisod.**</span>
+<span class="l-fiero">**Mii Nenaboozhoo gaa-izhi-nawadinangin otawagan, gaa-izhi-gipitenidizod*.**</span>
 
 <span class="l-eng">*Whereupon Nänabushu seized his ears (and) closed them with the hands (to keep from hearing the din).*</span>
 
-<span class="l-gloss">Mii Nenaboozhoo gaa-izhi-nawadinangin otawagan (whereupon Nenaboozhoo seized his ears), gaa-izhi-kipitenidisod (and stopped them up).</span>
+<span class="l-gloss">Mii Nenaboozhoo gaa-izhi-nawadinangin otawagan (whereupon Nenaboozhoo seized his ears), gaa-izhi-gipitenidizod (and stopped them up).</span>
 
 <span class="l-orig">(139) Nāgạtc dạc minawā kī∙ạ∙ndutạm, mīc minawā kī‘kạnōnāt:</span>
 
@@ -1127,7 +1126,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-eng">*And in a little while again he listened, where upon again he spoke to them, saying:*</span>
 
-<span class="l-gloss">Naagaj dash miinawaa gii-andodam (and after a while again he listened), mii’sh miinawaa gii-ganoonaad (whereupon again he spoke to them).</span>
+<span class="l-gloss">Naagaj dash miinawaa gii-andodam (and after a while again he listened), mii’sh miinawaa gii-kanoonaad (whereupon again he spoke to them).</span>
 
 <span class="l-orig">(140) “‘Āᵘ, nîcīm,² pạgwanätciganānandamawiciyu‘k aᵘ kīⁿgōⁿ!” udināᵉ.</span>
 
@@ -1139,7 +1138,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(141) Mīdạc kägä‘t äjipisānayāwāt.</span>
 
-<span class="l-fiero">**Mii dash geget ezhi-pisaanayaawaad.**</span>
+<span class="l-fiero">**Mii dash geget ezhi-bisaanayaawaad.**</span>
 
 <span class="l-eng">*Thereupon truly they became silent.*</span>
 
@@ -1195,19 +1194,19 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(148) “Kāwīn kuca nindākaski∙ā∙siwānān,” udigōᵉ.</span>
 
-<span class="l-fiero">**“Gaawiin gosha nindaa-kashki’aasiiwaanaan,” odigoo’.**</span>
+<span class="l-fiero">**“Gaawiin gosha nindaa-gashki’aasiiwaanaan,” odigoo’.**</span>
 
 <span class="l-eng">*“We surely could not (make an opening into) him,” he was told.*</span>
 
-<span class="l-gloss">“Gaawiin gosha nindaa-kashki’aasiiwaanaan,” odigoo’ (“surely we could not do it to him,” he was told).</span>
+<span class="l-gloss">“Gaawiin gosha nindaa-gashki’aasiiwaanaan,” odigoo’ (“surely we could not do it to him,” he was told).</span>
 
 <span class="l-orig">(149) “Awa’ᵘ” udināᵉ. “Kīgakaski∙ā∙wā!”</span>
 
-<span class="l-fiero">**“Awaw” odinaa’. “Giga-kashki’aawaa!”**</span>
+<span class="l-fiero">**“Awaw” odinaa’. “Giga-gashki’aawaa!”**</span>
 
 <span class="l-eng">*“Yea, (you can)!” he said to them. “You can do it!”*</span>
 
-<span class="l-gloss">“Awaw” odinaa’ (“yea!” he said to them). “Giga-kashki’aawaa!” (“you can do it!”)</span>
+<span class="l-gloss">“Awaw” odinaa’ (“yea!” he said to them). “Giga-gashki’aawaa!” (“you can do it!”)</span>
 
 <span class="l-orig">(150) Mīdạc kägä‘t äjimādci‘tāwāt pagwanätciganāmāwāt; wī‘kā dạc ogacki∙ā∙wān.</span>
 
@@ -1275,7 +1274,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(158) “‘Āᵘ,” udinān, “mīdạc ijipazigu∙i∙yu‘k.”</span>
 
-<span class="l-fiero">**“Aaw,” odinaan, “mii dash izhi-pazigo’iyok.”**</span>
+<span class="l-fiero">**“Aaw,” odinaan, “mii dash izhi-bazigo’iyok.”**</span>
 
 <span class="l-eng">*“Now, then,” he said to them, “now fly away!”*</span>
 
@@ -1291,11 +1290,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(160) Mīdạc a‘pōtc kā∙i∙ji∙u∙niciciwāt ka‘kina mini‘k a‘pī ka‘kina päsịgō∙o∙wāt.</span>
 
-<span class="l-fiero">**Mii dash booch gaa-izhi-onizhishiwaad gakina minik apii gakina bezigo’owaad.**</span>
+<span class="l-fiero">**Mii dash apooch* gaa-izhi-onizhishiwaad gakina minik apii gakina bezigo’owaad.**</span>
 
 <span class="l-eng">*Yet nevertheless just as beautiful were all the rest when they all started to fly away.*</span>
 
-<span class="l-gloss">Mii dash booch gaa-izhi-onizhishiwaad gakina minik (yet just as beautiful were all of them) apii gakina bezigo’owaad (when they all flew up).</span>
+<span class="l-gloss">Mii dash apooch* gaa-izhi-onizhishiwaad gakina minik (yet just as beautiful were all of them) apii gakina bezigo’owaad (when they all flew up).</span>
 
 <span class="l-orig">(161) Mīdạc Nänabucu kā∙i∙jimādci‘tāt kīpigickicwāt īni’ᵘ kīⁿgōⁿyạn.</span>
 
@@ -1371,11 +1370,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(170) “Āⁱ, wägutugwänsa pạnä wändcīciwāgwänu‘ku, aya āwacänsạg!”</span>
 
-<span class="l-fiero">**“Aay, wegodogwen sa pane wenji-izhi-waagwenoko, aya aawashensag!”**</span>
+<span class="l-fiero">**“Aay, wegodogwen sa bane wenji-izhi-waagwenoko, aya aawashensag!”**</span>
 
 <span class="l-eng">*“Oh, I should like to know why they continually say this to me, these little animal-folk!”*</span>
 
-<span class="l-gloss">“Aay, wegodogwen sa pane wenji-izhi-waagwenoko (“oh, I wonder why they keep saying this to me), aya aawashensag!” (these little animal-folk!”)</span>
+<span class="l-gloss">“Aay, wegodogwen sa bane wenji-izhi-waagwenoko (“oh, I wonder why they keep saying this to me), aya aawashensag!” (these little animal-folk!”)</span>
 
 <span class="l-orig">(171) “Kāwīn, nō‘kumis.</span>
 
@@ -1395,7 +1394,7 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(173) Mīdạc änijipīndigät.</span>
 
-<span class="l-fiero">**Mii dash eni-zhi-piindiged.**</span>
+<span class="l-fiero">**Mii dash eni-zhi-biindiged.**</span>
 
 <span class="l-eng">*And then into the lodge he went.*</span>
 
@@ -1415,15 +1414,13 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-gloss">Mii dash Nenaboozhoo aapiji zhawenimaad ookomisan (so then Nenaboozhoo deeply pitied his grandmother).</span>
 
-*⚠️ ⭐ PAGE-VERIFIED ABSENCE, 2026-08-29 — **Jones genuinely printed no English for this section.** The Ojibwe `Mīdạc Nänabucu ā‘pidci cawänimāt ō‘kumisạn.` is printed on **p.482 l.8** (re-cropped at 3.6×), and the facing **p.483** runs straight from *“…the while she had been weeping.”* into *“And then afterwards he had made her younger.”* — the translation of §174 into the translation of §176, with nothing between them (re-cropped at 4.0×). The sentence was left untranslated by Jones. The `---` marker is therefore removed and the field left empty, per the rule that a no-content marker must never stand where the print is simply silent. This cell was NOT written by a retrofit — it pre-dates this record’s sweeps. **Nothing else in this record was touched**; its Fiero and gloss here are unchanged, and the standing docx-versus-record divergences of needs-eyes §10 were not gone near.*
-
 <span class="l-orig">(176) Mīdạc nawạtc kā∙i∙ji∙ā∙ntci∙u∙skinīgi∙ā∙t.</span>
 
-<span class="l-fiero">**Mii dash nawaj gaa-izhi-aanji-oskiniigi’aad.**</span>
+<span class="l-fiero">**Mii dash nawaj gaa-izhi-aanji-oshkiniigi’aad.**</span>
 
 <span class="l-eng">*And then afterwards he had made her younger.*</span>
 
-<span class="l-gloss">Mii dash nawaj gaa-izhi-aanji-oskiniigi’aad (and then afterwards he made her young again).</span>
+<span class="l-gloss">Mii dash nawaj gaa-izhi-aanji-oshkiniigi’aad (and then afterwards he made her young again).</span>
 
 <span class="l-gloss">(1) For other versions see Nos. 7 (p. 49), 28 (p. 207), 29 (p. 215).</span>
 

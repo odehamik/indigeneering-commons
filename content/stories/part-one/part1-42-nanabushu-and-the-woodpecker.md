@@ -2,7 +2,6 @@
 title: "42. Nanabushu and the Woodpecker"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,7 +18,7 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(1) Wäyābạninig mīnawā ānukīyusä, mīsa∙u∙ndcita kāwīn kägō uni‘tōsīn.</span>
 
-<span class="l-fiero">**Weyaabaninig miinawaa aano-kiiyose, mii sa onjida gaawiin gegoo onitoosiin.**</span>
+<span class="l-fiero">**Weyaabaninig miinawaa aano-giiyose, mii sa onjida gaawiin gegoo onitoosiin.**</span>
 
 <span class="l-eng">*On the morrow he went on another fruitless hunt for game, and it was just his luck not to kill a thing.*</span>
 
@@ -35,11 +34,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(3) Käga‘pī äjikīgitut wīwạn: “Kägä‘t kīgō‘pạtis. Awạcîmä intawā kistcikī∙ō∙täyạn; mīyä‘ta kä∙i∙ciwīsiniyạngibạn, mīyä‘ta tciwâbạniciyạnk.”</span>
 
-<span class="l-fiero">**Gegapii ezhi-kiigidod wiiwan: “Geget gii-goopadis.  Awashime indawaa gisjikii-oodeyan; mii eta ge-izhi-wiisiniyangiban, mii eta ji-waabanishiyang.”**</span>
+<span class="l-fiero">**Gegapii ezhi-giigidod wiiwan: “Geget gii-goopadis.  Awashime indawaa gichi-gii-oodeyan*; mii eta ge-izhi-wiisiniyangiban, mii eta ji-waabanishiyang.”**</span>
 
 <span class="l-eng">*At last then up spoke the woman: “Really, you are of no use. It would therefore be much better for you to go on a visit among (your friends); for only by such means shall we obtain food to eat, only in that way shall we live through the winter.”*</span>
 
-<span class="l-gloss">Gegapii ezhi-giigidod wiiwan (at last his wife spoke up): “Geget gii-goopadis (“truly you have been of no use). Awashime indawaa *gisjikii-oodeyan* (it would be far better for you to go visiting — *stem flagged: ‘go on a visit’*); mii eta ge-izhi-wiisiniyangiban (only thus could we have food to eat), mii eta ji-waabanishiyang.” (only thus shall we see the morning through.”)</span>
+<span class="l-gloss">Gegapii ezhi-giigidod wiiwan (at last his wife spoke up): “Geget gii-goopadis (“truly you have been of no use). Awashime indawaa gichi-gii-oodeyan* (it would be far better for you to go visiting — *stem flagged: ‘go on a visit’*); mii eta ge-izhi-wiisiniyangiban (only thus could we have food to eat), mii eta ji-waabanishiyang.” (only thus shall we see the morning through.”)</span>
 
 <span class="l-orig">(4) Kigicäp äjimādcāt Nänabucu.</span>
 
@@ -59,11 +58,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(6) A∙ī∙nābit, awīya owâbạmān pabāmātạgā‘kunit. Äni∙i∙cāt,</span>
 
-<span class="l-fiero">**Ayinaabid, awiiya owaabamaan bebaamaadagaakonid.**</span>
+<span class="l-fiero">**Ayinaabid, awiiya owaabamaan babaamaadagaakonid.**</span>
 
 <span class="l-eng">*While looking around, he saw somebody walking about on the ice.*</span>
 
-<span class="l-gloss">Ayinaabid (as he looked about), awiiya owaabamaan (he saw someone) bebaamaadagaakonid (walking about on the ice).</span>
+<span class="l-gloss">Ayinaabid (as he looked about), awiiya owaabamaan (he saw someone) babaamaadagaakonid (walking about on the ice).</span>
 
 <span class="l-orig">(7) owâbạmān īniniwạn.</span>
 
@@ -83,19 +82,19 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(9) Cigwa owâbandān wīgiwām; ạnipīndigäwạn kayä wīn kā∙u∙nạbit owâbạmān i‘kwäwạn tạcimackimutā‘känit.</span>
 
-<span class="l-fiero">**Zhigwa owaabandaan wiigiwaam; ani-piindigewan gaye wiin gaa-onabid owaabamaan ikwewan dazhi-mashkimodikenid.**</span>
+<span class="l-fiero">**Zhigwa owaabandaan wiigiwaam; ani-biindigewan gaye wiin gaa-onabid owaabamaan ikwewan dazhi-mashkimodaakenid.**</span>
 
 <span class="l-eng">*Presently he saw a wigwam ; when in the other went, so then (did) he. When he was seated, he saw a woman busily making a bag.*</span>
 
-<span class="l-gloss">Zhigwa owaabandaan wiigiwaam (presently he saw a wigwam); ani-biindigewan (the other went in) gaye wiin (and so did he too). Gaa-onabid (when he was seated) owaabamaan ikwewan (he saw a woman) dazhi-mashkimodikenid (there making a bag).</span>
+<span class="l-gloss">Zhigwa owaabandaan wiigiwaam (presently he saw a wigwam); ani-biindigewan (the other went in) gaye wiin (and so did he too). Gaa-onabid (when he was seated) owaabamaan ikwewan (he saw a woman) dazhi-mashkimodaakenid (there making a bag).</span>
 
 <span class="l-orig">(10) Nānāgägu cigwa kạnōnimāwạn: “Tạganā’, ạgōc ‘aᵉa’ᵘ a‘ki‘k.” Kägä‘t</span>
 
-<span class="l-fiero">**Naanaa gego zhigwa genoonimaawan: “Daga naa, agoozh a’aw akik.”**</span>
+<span class="l-fiero">**Naanaa gego zhigwa ganoonimaawan: “Daga naa, agoozh a’aw akik.”**</span>
 
 <span class="l-eng">*After a while she was then spoken to: “Please hang up the kettle.”*</span>
 
-<span class="l-gloss">Naanaa gego zhigwa genoonimaawan (after a while she was spoken to): “Daga naa, agoozh a’aw akik.” (“please now, hang up that kettle.”)</span>
+<span class="l-gloss">Naanaa gego zhigwa ganoonimaawan (after a while she was spoken to): “Daga naa, agoozh a’aw akik.” (“please now, hang up that kettle.”)</span>
 
 <span class="l-orig">(11) a∙i∙‘kwä a‘ki‘kwạn otōnagōnān.</span>
 
@@ -107,7 +106,7 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(12) Kā‘kīcī‘tāt, pānimagu nạmạdapinit undcipạsigwa∙ō∙wạn, ạbạcīng apạgisōwạn nōndāgusiwạn: “Kwu, kwu, kwu, kwu!” inwäwạn.</span>
 
-<span class="l-fiero">**Gaa-kiizhiitaad, baanimaa go namadabinid onji-pasigwa’owan, abazhing abagizowan noondaagoziwan: “Gwo, gwo, gwo, gwo!” inwewan.**</span>
+<span class="l-fiero">**Gaa-giizhiitaad, baanimaa go namadabinid onji-bazigwa’owan, abazhing abagizowan noondaagoziwan: “Gwo, gwo, gwo, gwo!” inwewan.**</span>
 
 <span class="l-eng">*When she had finished, then of a sudden he that was seated flew up, a-lighting yonder on the lodge-pole, (and) could be heard saying: “Kwu, kwu, kwu, kwu!” such was his cry.*</span>
 
@@ -131,11 +130,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(15) Nāgạtciku māntāminaᵉ pisīgisäwaᵉ mī∙i∙māⁿ a‘ki‘kunk, mīdạc iᵘ äcimōckinänit īni’ᵘ uda‘ki‘kōwān.</span>
 
-<span class="l-fiero">**Naagaj igo mandaamina’ bi-siigisewa’ mii imaa akikong, mii dash iw ezhi-mooshkinaanid iniw odakikoowaan.**</span>
+<span class="l-fiero">**Naagaj igo mandaamina’ bi-siigisewa’ mii imaa akikong, mii dash iw ezhi-mooshkinenid iniw odakikoowaan.**</span>
 
 <span class="l-eng">*And after a while some corn came pouring into the kettle there, whereupon full of it became their kettle.*</span>
 
-<span class="l-gloss">Naagaj igo mandaamina’ bi-siigisewa’ (after a while the kernels of corn came pouring in) mii imaa akikong (there into the kettle), mii dash iw ezhi-mooshkinaanid (and so it filled up) iniw odakikoowaan (their kettle).</span>
+<span class="l-gloss">Naagaj igo mandaamina’ bi-siigisewa’ (after a while the kernels of corn came pouring in) mii imaa akikong (there into the kettle), mii dash iw ezhi-mooshkinenid (and so it filled up) iniw odakikoowaan (their kettle).</span>
 
 <span class="l-orig">(16) Pā∙i∙cinīsikwāskwaninit, mīsa’ nāsāp anicinābä.</span>
 
@@ -147,11 +146,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(17) Ānīc, mīgu mīnawā iᵘ kīwawänabinit īni’ᵘ i‘kwäwạn mackimutä‘känit, kīgitunit īni’ᵘ: “Wägunäcina käya‘pābōwäyank? mīnacigwunā∙i∙ᵘ?”</span>
 
-<span class="l-fiero">**Aaniish, mii go miinawaa iw gii-wawenabinid iniw ikwewan mashkimodikenid, giigidonid iniw: “Wegonesh ina ge-yapaabooweyang? Mii na zhigwo naa iw?”**</span>
+<span class="l-fiero">**Aaniish, mii go miinawaa iw gii-wawenabinid iniw ikwewan mashkimodekenid, giigidonid iniw: “Wegonesh ina ge-yapaabooweyang? Mii na zhigwo naa iw?”**</span>
 
 <span class="l-eng">*Well, and so another time was the woman seated, making her sack, when she said: “What shall we put (into the corn) for seasoning, or shall it be just so?”*</span>
 
-<span class="l-gloss">Aaniish, mii go miinawaa iw gii-wawenabinid iniw ikwewan (well, and again the woman sat down) mashkimodikenid (making her bag), giigidonid iniw (she spoke): “Wegonesh ina ge-yapaabooweyang? (“what shall we use for the broth?) Mii na zhigwo naa iw?” (or is it ready just so?”)</span>
+<span class="l-gloss">Aaniish, mii go miinawaa iw gii-wawenabinid iniw ikwewan (well, and again the woman sat down) mashkimodekenid (making her bag), giigidonid iniw (she spoke): “Wegonesh ina ge-yapaabooweyang? (“what shall we use for the broth?) Mii na zhigwo naa iw?” (or is it ready just so?”)</span>
 
 <span class="l-orig">(18) Kuniginīn, ugā‘kā‘kāsiyābi‘kinān i∙i∙ᵘ mō‘kumān.</span>
 
@@ -163,23 +162,23 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(19) Kuniginīn, äcimätạgwacäbināt īni’ᵘ wīwini, kuniguca pi‘kwanāning äcimāticwāt, kumāgu mini‘k uba‘kwäcwān.</span>
 
-<span class="l-fiero">**Goniginiin, ezhi-maadagwashaabinaad iniw wiiwani, gonigosha bikwanaaning ezhi-maadishwaad, gomaa go minik obakweshwaan.**</span>
+<span class="l-fiero">**Goniginiin, ezhi-medagwashebinaad* iniw wiiwini, gonigosha bikwanaaning ezhi-maadishwaad, gomaa go minik obakweshwaan.**</span>
 
 <span class="l-eng">*Behold, when he uncovered his wife, plump on her very back he then began slicing her, rather large pieces he sliced off.*</span>
 
-<span class="l-gloss">Goniginiin, ezhi-maadagwashaabinaad iniw wiiwani (behold, he uncovered his wife), gonigosha bikwanaaning ezhi-maadishwaad (and right on her back he began carving), gomaa go minik obakweshwaan (rather large pieces he sliced off).</span>
+<span class="l-gloss">Goniginiin, ezhi-medagwashebinaad* iniw wiiwini (behold, he uncovered his wife), gonigosha bikwanaaning ezhi-maadishwaad (and right on her back he began carving), gomaa go minik obakweshwaan (rather large pieces he sliced off).</span>
 
 <span class="l-orig">(20) Kā‘pa‘kwäcwāt, mīdạc i∙i∙ᵘ usi‘kōn äcisinagwunạmāwāt īmāⁿ kīpa‘kwäcwāt.</span>
 
-<span class="l-fiero">**Gaa-pakweshwaad, mii dash i’iw ozikoon ezhi-sinigwonamawaad imaa gii-pakweshwed.**</span>
+<span class="l-fiero">**Gaa-bakweshwaad, mii dash i’iw ozikoon ezhi-sinagwonamawaad* imaa gii-bakweshwaad.**</span>
 
 <span class="l-eng">*When he had done with carving her, he then rubbed his spittle over (the place) where he had carved her.*</span>
 
-<span class="l-gloss">Gaa-bakweshwaad (when he had finished slicing her), mii dash i’iw ozikoon ezhi-sinigwonamawaad (he rubbed his spittle over) imaa gii-bakweshwed (where he had carved).</span>
+<span class="l-gloss">Gaa-bakweshwaad (when he had finished slicing her), mii dash i’iw ozikoon ezhi-sinagwonamawaad* (he rubbed his spittle over) imaa gii-bakweshwaad (where he had carved).</span>
 
 <span class="l-orig">(21) Mīdạc imāⁿ uda‘ki‘kowāng äcipōdā‘kwä∙ạ∙mowāt i wiyās.</span>
 
-<span class="l-fiero">**Mii dash imaa odakikowaang ezhi-poodaakwe’amowaad i wiiyaas.**</span>
+<span class="l-fiero">**Mii dash imaa odakikowaang ezhi-boodaakwe’amowaad i wiiyaas.**</span>
 
 <span class="l-eng">*And then into their kettle they put the meat to boil.*</span>
 
@@ -187,15 +186,15 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(22) Äci∙ō∙ⁿsunit oda‘kikowān.</span>
 
-<span class="l-fiero">**Ezhi-onzonid odakikowaang.**</span>
+<span class="l-fiero">**Ezhi-onzonid odakikowaan.**</span>
 
 <span class="l-eng">*Then their kettle began boiling.*</span>
 
-<span class="l-gloss">Ezhi-onzonid odakikowaang (then their kettle began boiling).</span>
+<span class="l-gloss">Ezhi-onzonid odakikowaan (then their kettle began boiling).</span>
 
 <span class="l-orig">(23) Cigwa kākīcitänig, äci∙ạ∙gwābīga∙ạ∙nk; Nänabucu pạgitînạmawā tciwīsinit kạyä ∙i∙ māndāminaᵉ.</span>
 
-<span class="l-fiero">**Zhigwa gaa-kiizhidenig, ezhi-agwaabiiga’ang; Nenaboozhoo bagidinamawaa ji-wiisinid gaye i mandaamina’.**</span>
+<span class="l-fiero">**Zhigwa gaa-giizhidenig, ezhi-agwaabiiga’ang; Nenaboozhoo bagidinamawaa ji-wiisinid gaye i mandaamina’.**</span>
 
 <span class="l-eng">*Now, after the food was done cooking, then out she dipped it ; and in front of Nänabushu, that he might eat, she placed (the meat) and the corn.*</span>
 
@@ -211,19 +210,19 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(25) Ā‘pidci kā‘täwīsinit, mī∙i’∙ᵘ äci∙ā∙nacī‘tạnk.</span>
 
-<span class="l-fiero">**Aapiji gaa-de-wiisinid, mii iw ezhi-aanizhiitang.**</span>
+<span class="l-fiero">**Aapiji gaa-de-wiisinid, mii iw ezhi-aanazhiitang*.**</span>
 
 <span class="l-eng">*After he was quite satisfied with food, he accordingly ceased eating.*</span>
 
-<span class="l-gloss">Aapiji gaa-de-wiisinid (when he had eaten his fill), mii iw ezhi-aanizhiitang (he then left off eating).</span>
+<span class="l-gloss">Aapiji gaa-de-wiisinid (when he had eaten his fill), mii iw ezhi-aanazhiitang* (he then left off eating).</span>
 
 <span class="l-orig">(26) Mīsa’ mīnawa äjikānāt ugīcō‘tä∙u∙naᵉ.</span>
 
-<span class="l-fiero">**Mii sa miinawa ezhi-kaanaad ogishoote’ona’.**</span>
+<span class="l-fiero">**Mii sa miinawa ezhi-gaanaad ogiishoote’ona’.**</span>
 
 <span class="l-eng">*And then again he hid his mittens.*</span>
 
-<span class="l-gloss">Mii sa miinawa ezhi-gaanaad ogishoote’ona’ (and then again he hid his mittens).</span>
+<span class="l-gloss">Mii sa miinawa ezhi-gaanaad ogiishoote’ona’ (and then again he hid his mittens).</span>
 
 <span class="l-orig">(27) “Mī∙i∙’ᵘ mādcāyān kīwäyān.”</span>
 
@@ -243,11 +242,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(29) Mīnawā, kumāgu a‘pī änitạgwicink, pīpāgi Nänabucu: “Kiwanitcigāgimä!”</span>
 
-<span class="l-fiero">**Miinawaa, gomaago apii eni-dagwishing, biipaagi Nenaboozhoo: “Giwanichigaagime!”**</span>
+<span class="l-fiero">**Miinawaa, gomaago apii eni-dagwishing, biibaagi Nenaboozhoo: “Giwanichigaagime!”**</span>
 
 <span class="l-eng">*Again, after some distance he was come, out called Nänabushu: “I have forgotten something!”*</span>
 
-<span class="l-gloss">Miinawaa, gomaago apii eni-dagwishing (again, when he had gone some distance), biipaagi Nenaboozhoo (Nenaboozhoo called out): “Giwanichigaagime!” (“I have forgotten something!”)</span>
+<span class="l-gloss">Miinawaa, gomaago apii eni-dagwishing (again, when he had gone some distance), biibaagi Nenaboozhoo (Nenaboozhoo called out): “Giwanichigaagime!” (“I have forgotten something!”)</span>
 
 <span class="l-orig">(30) Kāwīn ānutäbwä‘tawāsī.</span>
 
@@ -259,31 +258,31 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(31) Äckạm änigu‘k pīpāgi, käga‘pī, “Mānū, iciwītawi‘k Nänabucu ugīcō‘täunaᵉ.” Kägä‘t</span>
 
-<span class="l-fiero">**Eshkam enigok biipaagi, gegapii, “Maanoo, izhiwidawik Nenaboozhoo ogiishoote’ona’.”**</span>
+<span class="l-fiero">**Eshkam enigok biibaagi, gegapii, “Maanoo, izhiwidawik Nenaboozhoo ogiishoote’ona’.”**</span>
 
 <span class="l-eng">*Louder still he shouted, till finally, “Well, then do you take to Nänabushu his mittens.”*</span>
 
-<span class="l-gloss">Eshkam enigok biipaagi (louder and louder he shouted), gegapii (until at last), “Maanoo, izhiwidawik Nenaboozhoo ogiishoote’ona’.” (“very well, take Nenaboozhoo his mittens.”)</span>
+<span class="l-gloss">Eshkam enigok biibaagi (louder and louder he shouted), gegapii (until at last), “Maanoo, izhiwidawik Nenaboozhoo ogiishoote’ona’.” (“very well, take Nenaboozhoo his mittens.”)</span>
 
 <span class="l-orig">(32) kwīwisänsạg uticīwināwā.</span>
 
-<span class="l-fiero">**Geget gwiiwizensag odi-shiiwinaawaa.**</span>
+<span class="l-fiero">**Geget gwiiwizensag odizhiiwinaawaa.**</span>
 
 <span class="l-eng">*To be sure, the boys took them to him.*</span>
 
-<span class="l-gloss">Geget gwiiwizensag odi-shiiwinaawaa (sure enough, the boys took them to him).</span>
+<span class="l-gloss">Geget gwiiwizensag odizhiiwinaawaa (sure enough, the boys took them to him).</span>
 
 <span class="l-orig">(33) Ānīc, wâsagu utạcā‘pagitawāwā äjikạnōnāt: “Nictcīmictcā, päcugu pīcāyu‘k, Kīpa‘kạtämawāsa kīnawā. Wâbạnk kōsiwā tabīcā, nāwa‘kwäg ugapinātin kämītciyäg.”</span>
 
-<span class="l-fiero">**Aaniish, waasa go odashaapagidawaawaa ezhi-ganoonaad: “Ni-shiimisha, besho go bi-izhaayok.  Gi-bakadem awa sa giinawaa.  Waabang goosiwaa da-bi-izhaa, naawakweg oga-pi-naadin ge-miijiyeg.”**</span>
+<span class="l-fiero">**Aaniish, waasa go odashaapagidawaawaa ezhi-ganoonaad: “Ni-shiimisha, besho go bi-izhaayok.  Gi-bakademawaa sa giinawaa.  Waabang goosiwaa da-bi-izhaa, naawakweg oga-bi-naadin ge-miijiyeg.”**</span>
 
 <span class="l-eng">*Now, from afar were they throwing them to him, when he said to them: “My little brothers, up close do you come. You must be hungry. To-morrow let your father come over, at noon let him come to get some food for you to eat.”*</span>
 
-<span class="l-gloss">Aaniish, waasa go odashaapagidawaawaa (now, from far off they tossed them to him) ezhi-ganoonaad (when he said to them): “Ni-shiimisha, besho go bi-izhaayok (“my little brothers, come up close). Gi-bakadem awa sa giinawaa (you must be hungry). Waabang goosiwaa da-bi-izhaa (tomorrow let your father come over), naawakweg oga-bi-naadin ge-miijiyeg.” (at noon let him come fetch food for you to eat.”)</span>
+<span class="l-gloss">Aaniish, waasa go odashaapagidawaawaa (now, from far off they tossed them to him) ezhi-ganoonaad (when he said to them): “Ni-shiimisha, besho go bi-izhaayok (“my little brothers, come up close). Gi-bakademawaa sa giinawaa (you must be hungry). Waabang goosiwaa da-bi-izhaa (tomorrow let your father come over), naawakweg oga-bi-naadin ge-miijiyeg.” (at noon let him come fetch food for you to eat.”)</span>
 
 <span class="l-orig">(34) Mīsa’ äjikīwät Nänabucu kā‘tagwicink äntāwāt, mīsạnā mīnawā wīsiniwāt.</span>
 
-<span class="l-fiero">**Mii sa ezhi-kiiwed Nenaboozhoo gaa-tagwishing endaawaad, mii sa naa miinawaa wiisiniwaad.**</span>
+<span class="l-fiero">**Mii sa ezhi-giiwed Nenaboozhoo gaa-tagwishing endaawaad, mii sa naa miinawaa wiisiniwaad.**</span>
 
 <span class="l-eng">*And so it is said that when Nänabushu was come at where they lived, then the poor things ate again.*</span>
 
@@ -291,35 +290,35 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(35) Mīwīni∙i∙ᵘ kī‘kanōnāt wīwạn: “Nackänā! mackimutä‘kän.”</span>
 
-<span class="l-fiero">**Mii wi iniw gii-kanoonaad wiiwan: “Nashkenaa! mashkimodiken.”**</span>
+<span class="l-fiero">**Mii wi iniw gii-ganoonaad wiiwan: “Nashkenaa! mashkimodeken.”**</span>
 
 <span class="l-eng">*There upon he spoke to his wife, saying : “ Now, come and make a bag!”*</span>
 
-<span class="l-gloss">Mii wi iniw gii-ganoonaad wiiwan (thereupon he spoke to his wife): “Nashkenaa! mashkimodiken.” (“look here! make a bag.”)</span>
+<span class="l-gloss">Mii wi iniw gii-ganoonaad wiiwan (thereupon he spoke to his wife): “Nashkenaa! mashkimodeken.” (“look here! make a bag.”)</span>
 
 <span class="l-orig">(36) Äjikạnōnigut Nänabucu wīwạn: “Intaskā mīnawā iᵘ awīya kägō kīcinawāwạtän. Ätạtạgwacaku kīmänici ickwā‘kamik kītōtaⁿzīwạn!”</span>
 
-<span class="l-fiero">**Ezhi-kanoonigod Nenaboozhoo wiiwan: “Indaskaa miinawaa iw awiya gegoo gii-shinawaawaden.  Edadagwashako gii-menishi ishkwaakamik gii-doodanziiwan!”**</span>
+<span class="l-fiero">**Ezhi-ganoonigod Nenaboozhoo wiiwan: “Indaskaa miinawaa iw awiya gegoo gii-izhi-nawaawaden.  Edadagwashago* gii-menishi ishkwaakamig gii-doodanziiwan!”**</span>
 
 <span class="l-eng">*Then was Nänabushu answered by his wife saying: “No doubt but that you have again seen somebody doing something. Oh, how you make me ashamed in your trying always to do everything !”*</span>
 
-<span class="l-gloss">Ezhi-ganoonigod Nenaboozhoo wiiwan (then Nenaboozhoo was answered by his wife): “Indaskaa miinawaa iw awiya gegoo *gii-shinawaawaden* (“no doubt you have again seen someone doing something — *stem flagged*). Edadagwashako gii-menishi ishkwaakamik gii-doodanziiwan!” (oh, how you shame me, always trying to do everything!” — *first clause stem uncertain, flagged*)</span>
+<span class="l-gloss">Ezhi-ganoonigod Nenaboozhoo wiiwan (then Nenaboozhoo was answered by his wife): “Indaskaa miinawaa iw awiya gegoo gii-izhi-nawaawaden (“no doubt you have again seen someone doing something). Edadagwashago* gii-menishi ishkwaakamig gii-doodanziiwan!” (oh, how you shame me, always trying to do everything!” — *first clause stem uncertain, flagged*)</span>
 
 <span class="l-orig">(37) Nänabucu äjikīgitut: “Mānū! mackimutä‘kän.”</span>
 
-<span class="l-fiero">**Nenaboozhoo ezhi-kiigidod: “Maanoo! mashkimodiken.”**</span>
+<span class="l-fiero">**Nenaboozhoo ezhi-giigidod: “Maanoo! mashkimodeken.”**</span>
 
 <span class="l-eng">*Nänabushu then spoke up: “Never you mind! just you make the bag.”*</span>
 
-<span class="l-gloss">Nenaboozhoo ezhi-giigidod (Nenaboozhoo then spoke up): “Maanoo! mashkimodiken.” (“never mind! just make the bag.”)</span>
+<span class="l-gloss">Nenaboozhoo ezhi-giigidod (Nenaboozhoo then spoke up): “Maanoo! mashkimodeken.” (“never mind! just make the bag.”)</span>
 
 <span class="l-orig">(38) “Wägunäcinā kä∙ā∙batci‘tōyān i∙i∙ᵘ tcimackimutä‘käyān?”</span>
 
-<span class="l-fiero">**“Wegonesh ina ge-aabajitooyaan i’iw ji-mashkimodikeyaan?”**</span>
+<span class="l-fiero">**“Wegonesh ina ge-aabajitooyaan i’iw ji-mashkimodekeyaan?”**</span>
 
 <span class="l-eng">*“Pray, what shall I use to make the bag?”*</span>
 
-<span class="l-gloss">“Wegonesh ina ge-aabajitooyaan i’iw ji-mashkimodikeyaan?” (“pray, what shall I use to make the bag?”)</span>
+<span class="l-gloss">“Wegonesh ina ge-aabajitooyaan i’iw ji-mashkimodekeyaan?” (“pray, what shall I use to make the bag?”)</span>
 
 <span class="l-orig">(39) Ānīc, wīgubīc udayān a∙i∙‘kwä, mīsạnā iᵘ wänābīginạnk.</span>
 
@@ -355,15 +354,15 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(43) Nänabucu pīwâbi‘kuc ugīkācibōtōn.</span>
 
-<span class="l-fiero">**Nenaboozhoo biiwaabikozh ogiikaashiboodoon.**</span>
+<span class="l-fiero">**Nenaboozhoo biiwaabikozh ogii-gaashiboodoon.**</span>
 
 <span class="l-eng">*Nänabushu sharpened an old piece of metal.*</span>
 
-<span class="l-gloss">Nenaboozhoo biiwaabikozh ogiikaashiboodoon (Nenaboozhoo sharpened an old piece of metal).</span>
+<span class="l-gloss">Nenaboozhoo biiwaabikozh ogii-gaashiboodoon (Nenaboozhoo sharpened an old piece of metal).</span>
 
 <span class="l-orig">(44) Kā‘pīndigänit, Nänabucu pạsiguntcisä.</span>
 
-<span class="l-fiero">**Gaa-piindigenid, Nenaboozhoo bazigonjise.**</span>
+<span class="l-fiero">**Gaa-biindigenid, Nenaboozhoo bazigonjise.**</span>
 
 <span class="l-eng">*After the other had come in, Nänabushu then sprang up.*</span>
 
@@ -435,19 +434,19 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(53) Nänabucu cigwa ạnipạga‘katisi äjikīgitut: “Mānū gu, mackimutä‘kän!” udinān īni’ᵘ wīwạn.</span>
 
-<span class="l-fiero">**Nenaboozhoo zhigwa ani-pagakaadizi ezhi-kiigidod: “Maanoo go, mashkimodiken!” odinaan iniw wiiwan.**</span>
+<span class="l-fiero">**Nenaboozhoo zhigwa ani-bagakaadizi ezhi-giigidod: “Maanoo go, mashkimodeken!” odinaan iniw wiiwan.**</span>
 
 <span class="l-eng">*Nänabushu was now becoming conscious when he said : “Never you mind, but make the sack!” he said to his wife.*</span>
 
-<span class="l-gloss">Nenaboozhoo zhigwa ani-bagakaadizi (Nenaboozhoo was now coming to his senses) ezhi-giigidod (when he spoke): “Maanoo go, mashkimodiken!” (“never mind, make the bag!”) odinaan iniw wiiwan (he said to his wife).</span>
+<span class="l-gloss">Nenaboozhoo zhigwa ani-bagakaadizi (Nenaboozhoo was now coming to his senses) ezhi-giigidod (when he spoke): “Maanoo go, mashkimodeken!” (“never mind, make the bag!”) odinaan iniw wiiwan (he said to his wife).</span>
 
 <span class="l-orig">(54) Ānīc, kägä‘t mādci‘tā ‘aᵉa’ᵘ i‘kwä mackimutä‘kät. Mī∙i∙ᵘ</span>
 
-<span class="l-fiero">**Aaniish, geget maajitaa a’aw ikwe mashkimodaakaad.**</span>
+<span class="l-fiero">**Aaniish, geget maajitaa a’aw ikwe mashkimodeked.**</span>
 
 <span class="l-eng">*Now, truly the woman started upon the work of making the sack.*</span>
 
-<span class="l-gloss">Aaniish, geget maajitaa a’aw ikwe mashkimodaakaad (now, truly the woman set to work making the bag).</span>
+<span class="l-gloss">Aaniish, geget maajitaa a’aw ikwe mashkimodeked (now, truly the woman set to work making the bag).</span>
 
 <span class="l-orig">(55) cigwa kī∙u∙tā‘pinạnk iᵘ mō‘kumān, cigwa umanibitawān ‘iᵉi’ᵘ ubabīnsikawāgạnicini.</span>
 
@@ -475,15 +474,15 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(58) Medạc äcikạnōnigut pīwitän: “Pä‘kā! kạnạbạtc kīganisā kimindimō∙i∙mic. Intawā pītōn iᵘ mō‘kumān.”</span>
 
-<span class="l-fiero">**Mii dash ezhi-kanoonigod biiwiden: “Bekaa! ganabaj giga-nisaa gi-mindimooyemish.  Indawaa biidoon iw mookomaan.”**</span>
+<span class="l-fiero">**Mii dash ezhi-ganoonigod biiwiden: “Bekaa! ganabaj giga-nisaa gi-mindimooyimish.  Indawaa biidoon iw mookomaan.”**</span>
 
 <span class="l-eng">*Then was he addressed by the guest saying: “Stop! perhaps you will kill your old woman. Therefore fetch hither the knife.”*</span>
 
-<span class="l-gloss">Mii dash ezhi-ganoonigod biiwiden (then the guest spoke to him): “Bekaa! ganabaj giga-nisaa gi-mindimooyemish (“stop! you may well kill your old woman). Indawaa biidoon iw mookomaan.” (so hand over the knife.”)</span>
+<span class="l-gloss">Mii dash ezhi-ganoonigod biiwiden (then the guest spoke to him): “Bekaa! ganabaj giga-nisaa gi-mindimooyimish (“stop! you may well kill your old woman). Indawaa biidoon iw mookomaan.” (so hand over the knife.”)</span>
 
 <span class="l-orig">(59) Äcipa‘kwäcumint īni’ᵘ wīwạn, äcipōtā‘kwä∙ạ∙minit imāⁿ uda‘ki‘kōwāng.</span>
 
-<span class="l-fiero">**Ezhi-pakweshomind iniw wiiwan, ezhi-poodaakwe’aminid imaa odakikoowaang.**</span>
+<span class="l-fiero">**Ezhi-bakweshomind iniw wiiwan, ezhi-boodaakwe’aminid imaa odakikoowaang.**</span>
 
 <span class="l-eng">*When (the visitor) sliced off a piece from the wife of (Nänabushu), he put it into their kettle to boil.*</span>
 
@@ -499,11 +498,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(61) Nāgạtcigu māndāminaᵉ pisīgibisōwaᵉ, uta‘ki‘kōwāng i∙i∙mā äcisībigisunit.</span>
 
-<span class="l-fiero">**Naagaj igo mandaamina’ bi-siigibizowa’, odakikoowang i’imaa ezhi-siigibizonid.**</span>
+<span class="l-fiero">**Naagaj igo mandaamina’ bi-siigibizowa’, odakikoowaang i’imaa ezhi-siigibizonid.**</span>
 
 <span class="l-eng">*After a while some corn came pouring out, into their kettle it poured.*</span>
 
-<span class="l-gloss">Naagaj igo mandaamina’ bi-siigibizowa’ (after a while the kernels of corn came pouring), odakikoowang i’imaa ezhi-siigibizonid (into their kettle they poured).</span>
+<span class="l-gloss">Naagaj igo mandaamina’ bi-siigibizowa’ (after a while the kernels of corn came pouring), odakikoowaang i’imaa ezhi-siigibizonid (into their kettle they poured).</span>
 
 <span class="l-orig">(62) Kāmōckinänit īni’ᵘ uda‘ki‘kōwān, mīsa∙i∙ᵘ Nänabucu iciwisinit.</span>
 

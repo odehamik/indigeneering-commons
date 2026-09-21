@@ -2,7 +2,6 @@
 title: "57. Little-Image"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,31 +18,31 @@ LITTLE-IMAGE.
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Wâbạnunk wändạbit mạnidō niwītibātcimā, aᵉa‘ᵘ mạzininiⁿs mī∙i∙‘ᵘ äjini‘kāsut. Wīn mạzininiⁿs kāwīn wī‘kā wīsinisī. Iwidạc omāⁿ a‘king kī‘pīcāgubạnän mī∙i∙‘ᵘ wātibātutamōwag udai∙i∙ntōwan. Cigwasa kī‘pimādcā wīwâbandank ō a‘ki. Tägwicink o∙ō∙wa‘ki cigwa ugīwâbandān zāgi∙i∙gạn; owâbạmạ iᵉi‘ᵘ abinōdciyaᵉ ma‘kadä‘känit, picicig abinōdciyaᵉ. Uda‘kawa∙a∙ tci∙ạ∙nigu‘ pīnit. Kāwin dạc nängîm ickwā‘tāsiwaᵉ; ānic ạnōdcigu icictcigäwaᵉ; kạgwätciganitiwaᵉ. Cigwasa nāwa‘kwänig ạnigu‘ pīwa kīwänit. Ka‘kina kānimādcānit äcimādcāt ijāt imā kā‘tana‘kamạgisinit; owâbandān a‘pidci cōⁿca‘kwạtinig. Mīdạc imāⁿ äcimōni‘kät imäⁿ kā‘tana‘kạmigạtinig äciningwa∙u∙tisut.</span>
+<span class="l-orig">(1) Wâbạnunk wändạbit mạnidō niwītibātcimā, aᵉa‘ᵘ mạzininiⁿs mī∙i∙´ᵘ äjini‘kāsut. Wīn mạzininiⁿs kāwīn wī‘kā wīsinisī. Iwidạc omāⁿ a‘kīng kī‘pīcāgubạnän mī∙i∙´ᵘ wātibātutạmōwag udai∙ī∙ntōwạn. Cigwasa kī‘pimādcā wīwâbạndạnk ō a‘ki. Tägwicink o∙ō∙wa‘ki cigwa ugīwâbạndān zāga∙i∙gạn; owâbạmā iᵉi‘ᵘ abinōdcīyaᵉ ma‘kạdä‘känit, picicig ạbinōdciyaᵉ. Uda‘kawā∙a∙ᵉ tci∙ạ∙nigu‘pīnit. Kāwīn dạc nāngîm ickwā‘tāsiwaᵉ; ānīc ạnōdcigu icictcigäwaᵉ; kạgwätcigạnitiwaᵉ. Cigwasa nāwa‘kwänig ạnigu‘pīwaᵉ kīwänit. Ka‘kina kānimādcānit äcimādcāt ijāt imā kā‘tana‘kamạgisinit; owâbạndān ā‘pidci cōⁿcā‘kwạtinig. Mīdạc imāⁿ äcimōni‘kät imäⁿ kā‘tana‘kạmigạtinig äcinīngwa∙u∙tisut.</span>
 
-<span class="l-fiero">**Waabanong wendabid manidoo niwii-dibaajimaa, a’aw maziniinens mii iw ezhinikaazod. Wiin maziniinens gaawiin wiikaa wiisinisii. Iwidash omaa akiing gii-bi-izhaagoban mii iw waa-dibaadodamowaan odayi’iindowan. Zhigwa sa gii-bi-maajaa wii-waabandang o’ow aki. Dagwishing o’ow aki zhigwa ogii-waabandaan zaaga’igan; owaabamaa iniw abinoojiiyag *ma’kadä’känit*, bizhishig abinoojiiyag. Oda’kawa’a *tci∙ạ∙nigu’ pīnit*. Gaawiin dash *nängîm* ishkwaataasiiwag; aaniish anooj igo izhichigewag; gagwejiganidiwag. Zhigwa sa naawakwenig aniigok biiwa giiwenid. Gakina gaa-ni-maajaanid ezhi-maajaad izhaad imaa gaa-danakamigizinid; owaabandaan aapiji *cōⁿca’kwạtinig*. Mii dash imaa ezhi-mooni’ked imaa gaa-danakamigadinig ezhi-ningwa’odizod.**</span>
+<span class="l-fiero">**Waabanong wendabid manidoo niwii-dibaajimaa, a’aw maziniinens mii iw ezhinikaazod. Wiin maziniinens gaawiin wiikaa wiisinisii. Iwidash omaa akiing gii-bi-izhaagoban mii iw waa-dibaadodamowaan odayi’iindowan. Zhigwa sa gii-bi-maajaa wii-waabandang o’ow aki. Dagwishing o’ow aki zhigwa ogii-waabandaan zaaga’igan; owaabamaa iniw abinoojiiyag makadekenid, bizhishig abinoojiiyag. Oda’kawa’a ji-ani-gopiinid. Gaawiin dash naangim* ishkwaataasiiwag; aaniish anooj igo izhichigewag; gagwejiganidiwag. Zhigwa sa naawakwenig ani-gopiiwag giiwenid. Gakina gaa-ni-maajaanid ezhi-maajaad izhaad imaa gaa-danakamigizinid; owaabandaan aapiji zhoonzhaakwadinig*. Mii dash imaa ezhi-mooni’ked imaa gaa-danakamigadinig ezhi-ningwa’odizod.**</span>
 
 <span class="l-eng">*About the manitou that looks from the east I intend to tell, of Little-Image, for such was he called. Now, Little-Image never ate. And concerning the things he did when he came here upon earth is what I am now going to relate. Now, hither he started out of desire to see this earth. When he arrived at this earth, he then saw a lake; he beheld some children that were fasting, a vast number of children. He waited for them to go up from the lake. Not till after a long while did they make an end of their fasting; all sorts of things were they doing; they were running foot-races one with another. When it was noon, then went they up from the lake bound for home. When they had all departed, then went he over to the place where they had been playing; he saw that the ice was very smooth. And when he dug a hole at the place where they had been playing, he then covered himself up.*</span>
 
-<span class="l-gloss">Waabanong wendabid manidoo (the manitou who sits/looks from the east) niwii-dibaajimaa (I intend to tell of), a’aw maziniinens (that Little-Image) mii iw ezhinikaazod (for so he was called). Wiin maziniinens gaawiin wiikaa wiisinisii (Little-Image himself never ate). Iwidash omaa akiing gii-bi-izhaagoban (and here to this earth he once came) mii iw waa-dibaadodamowaan odayi’iindowan (and that is what I am going to relate, the things he did — *segmentation flagged*). Zhigwa sa gii-bi-maajaa (now then he set out hither) wii-waabandang o’ow aki (wishing to see this earth). Dagwishing o’ow aki (when he arrived at this earth) zhigwa ogii-waabandaan zaaga’igan (then he saw a lake); owaabamaa iniw abinoojiiyag (he beheld those children) *ma’kadä’känit* (who were fasting — *stem flagged*), bizhishig abinoojiiyag (a great many children). Oda’kawa’a (he waited for them) *tci∙ạ∙nigu’ pīnit* (to go up — *flagged*). Gaawiin dash *nängîm* (and not soon — *flagged*) ishkwaataasiiwag (did they end their fasting); aaniish anooj igo izhichigewag (now, all sorts of things they did); gagwejiganidiwag (they ran races against one another — *stem flagged*). Zhigwa sa naawakwenig (now, when it was noon) aniigok biiwa giiwenid (with all speed up they went heading home — *flagged*). Gakina gaa-ni-maajaanid (after they had all gone off) ezhi-maajaad izhaad imaa gaa-danakamigizinid (then off he went to where they had been playing); owaabandaan aapiji *cōⁿca’kwạtinig* (he saw the ice was very smooth — *stem flagged*). Mii dash imaa ezhi-mooni’ked (and so there he dug a hole) imaa gaa-danakamigadinig (at the place where they had been playing) ezhi-ningwa’odizod (then he covered himself up).</span>
+<span class="l-gloss">Waabanong wendabid manidoo (the manitou who sits/looks from the east) niwii-dibaajimaa (I intend to tell of), a’aw maziniinens (that Little-Image) mii iw ezhinikaazod (for so he was called). Wiin maziniinens gaawiin wiikaa wiisinisii (Little-Image himself never ate). Iwidash omaa akiing gii-bi-izhaagoban (and here to this earth he once came) mii iw waa-dibaadodamowaan odayi’iindowan (and that is what I am going to relate, the things he did — *segmentation flagged*). Zhigwa sa gii-bi-maajaa (now then he set out hither) wii-waabandang o’ow aki (wishing to see this earth). Dagwishing o’ow aki (when he arrived at this earth) zhigwa ogii-waabandaan zaaga’igan (then he saw a lake); owaabamaa iniw abinoojiiyag (he beheld those children) makadekenid (who were fasting — *stem flagged*), bizhishig abinoojiiyag (a great many children). Oda’kawa’a (he waited for them) ji-ani-gopiinid (to go up — *flagged*). Gaawiin dash naangim* (and not soon — *flagged*) ishkwaataasiiwag (did they end their fasting); aaniish anooj igo izhichigewag (now, all sorts of things they did); gagwejiganidiwag (they ran races against one another — *stem flagged*). Zhigwa sa naawakwenig (now, when it was noon) ani-gopiiwag giiwenid (with all speed up they went heading home — *flagged*). Gakina gaa-ni-maajaanid (after they had all gone off) ezhi-maajaad izhaad imaa gaa-danakamigizinid (then off he went to where they had been playing); owaabandaan aapiji zhoonzhaakwadinig* (he saw the ice was very smooth — *stem flagged*). Mii dash imaa ezhi-mooni’ked (and so there he dug a hole) imaa gaa-danakamigadinig (at the place where they had been playing) ezhi-ningwa’odizod (then he covered himself up).</span>
 
-<span class="l-orig">(2) Cigwa wänägucininig pībā‘piwaᵉ madwämāta‘kamigisiwaᵉ. Cigwa kägä‘ pimida‘ku‘kānā. Ningutingigu äcita‘ku‘kānit madwägigitōwạn: “Awiya ninda‘ku‘kāna.” Äcimūna∙u∙nt, mīsa iᵉi‘ᵘ äcimi‘kwägunä∙u∙nt. Äcipasigwīt, kägätsa päcigini‘ kistci∙i∙niniwiwan, ā‘pidcigu ozāgi∙i∙gōn. Mīgu isi‘ᵘ äjī‘kwā‘tānit mägwa gạgwätci kaciwänit. “Nīdci,” udinān; “ānîn wīnā kima‘kadä‘käwāt ugōᵘ abinōtciyaᵉ?”</span>
+<span class="l-orig">(2) Cigwa wänāgucininig pībā‘piwaᵉ mạdwämāta‘kamigisiwaᵉ. Cigwa kägā pimida‘ku‘kānā. Ningutingigu äcita‘ku‘kānit mạdwägīgitōwạn: “Awiya nīnda‘ku‘kāna.” Äcimūna∙u∙nt, mīsa iᵉi´ᵘ äcimi‘kwāgunä∙u∙nt. Äcipạsigwīt, kägätsa päciginiᵘ kistcī∙i∙nīniwiwạn, ā‘pidcigu ozāgī∙i∙gōn. Mīgu iᵉi´ᵘ äjījkwā‘tānit mägwā gạgwätci kaciwänit. “Nīdcī,” udinān; “ānīn wīnā kīma‘kadä‘käwāt ugō´ᵘ abinōtciyạg?”</span>
 
-<span class="l-fiero">**Zhigwa wenagoshinig bii-baapiwag madwe-maada’kamigiziwag. Zhigwa geget bimida’kokaanaa. Ningoding igo ezhi-da’kokaanid madwe-giigidowan: “Awiya ninda’kokaanaa.” Ezhi-moona’ond, mii iw ezhi-mikwegone’ond. Ezhi-bazigwiid, geget sa bezhig ina’kistchi-ininiwiwan, aapiji go ozaagi’igoon. Mii go izhi ezhi-ishkwaataanid megwaa gagweji-gaazhiwenid. “Niijii,” odinaan; “aaniin wiinaa gi-ma’kadä’käwaad ogow abinoojiiyag?”**</span>
+<span class="l-fiero">**Zhigwa wenagoshinig bii-baapiwag madwe-maada’kamigiziwag. Zhigwa geget bimida’kokaanaa. Ningoding igo ezhi-da’kokaanid madwe-giigidowan: “Awiya ninda’kokaanaa.” Ezhi-moona’ond, mii iw ezhi-mikwegone’ond. Ezhi-bazigwiid, geget sa bezhig iniw gichi-ininiwiwan, aapiji go ozaagi’igoon. Mii go izhi ezhi-ishkwaataanid megwaa gagweji-gaazhiwenid. “Niijii,” odinaan; “aaniin wiinaa gii-makadekewaad ogow abinoojiiyag?”**</span>
 
 <span class="l-eng">*When it was evening, (he heard them) as they came laughing (and) as they began playing. Presently they almost tramped him under foot. When once they stepped upon him, he heard one say: “Upon somebody have I stepped.” Then he was uncovered, and it was in the snow that he was found. When he rose to his feet, there, in truth, (he beheld) a full-grown man among them, and by him he was much liked. Accordingly then (the man) ceased playing, while the others continued racing. “My friend,” he said to him, “why have these children blackened (themselves)?”*</span>
 
-<span class="l-gloss">Zhigwa wenagoshinig (now when it grew evening) bii-baapiwag (they came laughing) madwe-maada’kamigiziwag (they were heard beginning to play). Zhigwa geget bimida’kokaanaa (now truly they nearly trod over him — *stem flagged*). Ningoding igo ezhi-da’kokaanid (once when one stepped on him) madwe-giigidowan (one was heard to speak): “Awiya ninda’kokaanaa.” (“on somebody have I stepped.”) Ezhi-moona’ond (then he was dug/uncovered — *passive; stem flagged*), mii iw ezhi-mikwegone’ond (and so it was in the snow he was found — *stem flagged*). Ezhi-bazigwiid (when he rose up), geget sa bezhig (truly indeed one) *kistci∙i∙niniwiwan* (a full-grown man — *flagged*), aapiji go ozaagi’igoon (and by him he was much liked). Mii go izhi ezhi-ishkwaataanid (and so then that one ceased) megwaa *gagweji-gaazhiwenit* (while the rest were racing — *stem flagged*). “Niijii,” odinaan (“my friend,” he said to him); “aaniin wiinaa gi-ma’kadä’käwaad ogow abinoojiiyag?” (“why then have these children blackened themselves? — *stem flagged*”)</span>
+<span class="l-gloss">Zhigwa wenagoshinig (now when it grew evening) bii-baapiwag (they came laughing) madwe-maada’kamigiziwag (they were heard beginning to play). Zhigwa geget bimida’kokaanaa (now truly they nearly trod over him — *stem flagged*). Ningoding igo ezhi-da’kokaanid (once when one stepped on him) madwe-giigidowan (one was heard to speak): “Awiya ninda’kokaanaa.” (“on somebody have I stepped.”) Ezhi-moona’ond (then he was dug/uncovered — *passive; stem flagged*), mii iw ezhi-mikwegone’ond (and so it was in the snow he was found — *stem flagged*). Ezhi-bazigwiid (when he rose up), geget sa bezhig (truly indeed one) *kistci∙i∙niniwiwan* (a full-grown man — *flagged*), aapiji go ozaagi’igoon (and by him he was much liked). Mii go izhi ezhi-ishkwaataanid (and so then that one ceased) megwaa *gagweji-gaazhiwenit* (while the rest were racing — *stem flagged*). “Niijii,” odinaan (“my friend,” he said to him); “aaniin wiinaa gii-makadekewaad ogow abinoojiiyag?” (“why then have these children blackened themselves? — *stem flagged*”)</span>
 
-<span class="l-orig">(3) “Kā, nidci, niwī‘kagwänạgatciba∙i∙timin, o∙o∙ kiwâbamiyāng kagwätciganitiyānk. Kiwâbamāᵉ ogōᵘ abinōtcīyạᵉ mīgu bā‘pic mini‘k äckunanigōyānk. Ninda‘tāgämin; kīcpin pa‘kināgōyānk ninīwana∙o∙gōmin,—naganint kicpîn. Ma‘kwagidạc ningagwạtcikanānānig. Mäwicagu nōsinābạnīg ki‘kidamwawag, kayä īgi‘ᵘ ningänänig. Midạc ä‘tagu iᵘ mini‘k wayābamatwa abinōdciyaᵉ äckunanitwā. Wâbangidạc mī∙i∙‘ᵘ mīnawā ugagagwätcikạniguwạn. Mīsa iᵉi‘ᵘ kā∙u∙ndciwâbamatwa ma‘kadä‘käwād igi‘ᵘ abinōtciyaᵉ; ki∙i∙gucimōwag igi‘ᵘ abinōdciyaᵉ ạnawipawādamāsuwāt kä∙u∙ndcipimādisiwāt. Mīsa iᵉi‘ᵘ mini‘k änātcimu‘tōnān.”</span>
+<span class="l-orig">(3) “Kā, nīdcī, nīwī‘kagwänạgạtciba∙i∙timin, o∙o∙ kīwâbạmiyāng kagwätciganitiyānk. Kiwâbạmāk ogō´ᵘ ạbinōtcīyạg mīgu bā‘pic mini‘k äckunạnigōyānk. Ninda‘tāgämin; kīcpin pa‘kināgōyānk ninīwạna∙o∙gōmin,—nạgạnint kīcpîn. Ma‘kwagidạc ningagwạtcikạnānānig. Mäwicagu nōsinābạnīg kī‘kidạmwāwạg, kayä īgi´ᵘ ningänānig. Mīdạc ä‘tạgu iᵘ mini‘k wayābạmạtwā ạbinōdcīyạg äckunạnitwā. Wâbạngidac mī∙i∙‘ᵘ mīnawā ugagạgwätcikạniguwān. Mīsa iᵉi´ᵘ kā∙u∙ndciwâbạmạtwā ma‘kadä‘käwād īgi´ᵘ ạbinōtcīyạg; kī∙ī∙gucimōwạg īgi‘ᵘ ạbinōdcīyạg ānawipawādamāsuwāt kä∙u∙ndcipimādisiwāt. Mīsa iᵉi´ᵘ mini‘k änātcimu‘tōnān.”</span>
 
-<span class="l-fiero">**“Gaa, niijii, niwii-gagwe-nagachi-ba’idimin, o’ow gi-waabamiyaang gagwejiganidiyaang. Gi-waabamaag ogow abinoojiiyag mii go baabiizh minik *äckunanigōyānk*. Ninda-daagemin; giishpin bakinaagooyaang niniiwana’oogomin,—naganind giishpin. Makwag idash nin-gagwe-jiganaanaanig. Mewizha go noosinaabaniig gii-gidamwaawag, gaye igiw ningenaanig. Mii dash eta go iw minik waabamadwaa abinoojiiyag *äckunanitwā*. Waabang idash mii iw miinawaa ogagwejiganigowaan. Mii iw gaa-onji-waabamadwaa ma’kadä’käwaad igiw abinoojiiyag; gii-igoozhimowag igiw abinoojiiyag anawi-bawaadamaazowaad gaa-onji-bimaadiziwaad. Mii iw minik enaajimo’donaan.”**</span>
+<span class="l-fiero">**“Gaa, niijii, niwii-gagwe-nagachi-ba’idimin, o’ow gi-waabamiyaang gagwejiganidiyaang. Gi-waabamaag ogow abinoojiiyag mii go baabiizh minik eshkonanigooyaang*. Ninda-daagemin; giishpin bakinaagooyaang niniiwana’oogomin,—naganind giishpin. Makwag idash nin-gagwe-jiganaanaanig. Mewizha go noosinaabaniig gii-gidamwaawag, gaye igiw ningenaanig. Mii dash eta go iw minik waabamadwaa abinoojiiyag eshkonanidwaa*. Waabang idash mii iw miinawaa ogagwejiganigowaan. Mii iw gaa-onji-waabamadwaa makadekewaad igiw abinoojiiyag; gii-igoozhimowag igiw abinoojiiyag anawi-bawaadamaazowaad gaa-onji-bimaadiziwaad. Mii iw minik enaajimo’donaan.”**</span>
 
 <span class="l-eng">*“Why, my friend, we are in training together to know how to run, this number of us whom you see running foot-races with one another. You now behold these children, and that is all that is left of us. We are in a contest; if we are beaten, then we are slain,— that is, the one beaten in the race (is slain). Now with the bears are we racing. And long ago our fathers of old were eaten up, so too our mothers. Therefore this number of children whom you see is all that is left of them. And to-morrow they will be entered into another race. That is why you see the children painted black; in a fast are the children, that by so doing they may dream of what shall give them life. This is all that I have to tell you.”*</span>
 
-<span class="l-gloss">“Gaa, niijii (“why, my friend), niwii-gagwe-nagachi-ba’idimin (we are training to be able to outrun in the race — *fused stem flagged*), o’ow gi-waabamiyaang gagwejiganidiyaang (this number of us you see racing one another). Gi-waabamaag ogow abinoojiiyag (you see these children) mii go baabiizh minik *äckunanigōyānk* (and that is all that is left of us — *stem flagged*). Ninda-daagemin (we are in a contest); giishpin bakinaagooyaang niniiwana’oogomin (if we are beaten, we are slain),—naganind giishpin (the one beaten, if so). Makwag idash nin-gagwe-jiganaanaanig (and with the bears we are racing). Mewizha go noosinaabaniig gii-gidamwaawag (long ago our late fathers were eaten up), gaye igiw ningenaanig (and our mothers too). Mii dash eta go iw minik (and so that is all that is left) waabamadwaa abinoojiiyag *äckunanitwā* (of the children you see — *stem flagged*). Waabang idash mii iw miinawaa ogagwejiganigowaan (and tomorrow again they will be raced). Mii iw gaa-onji-waabamadwaa ma’kadä’käwaad igiw abinoojiiyag (that is why you see the children fasting/blackened); gii-igoozhimowag igiw abinoojiiyag (the children are made to fast — *stem flagged*) anawi-bawaadamaazowaad gaa-onji-bimaadiziwaad (that they may dream of what shall give them life — *stem flagged*). Mii iw minik enaajimo’donaan.” (“that is all I have to tell you.”)</span>
+<span class="l-gloss">“Gaa, niijii (“why, my friend), niwii-gagwe-nagachi-ba’idimin (we are training to be able to outrun in the race — *fused stem flagged*), o’ow gi-waabamiyaang gagwejiganidiyaang (this number of us you see racing one another). Gi-waabamaag ogow abinoojiiyag (you see these children) mii go baabiizh minik eshkonanigooyaang* (and that is all that is left of us — *stem flagged*). Ninda-daagemin (we are in a contest); giishpin bakinaagooyaang niniiwana’oogomin (if we are beaten, we are slain),—naganind giishpin (the one beaten, if so). Makwag idash nin-gagwe-jiganaanaanig (and with the bears we are racing). Mewizha go noosinaabaniig gii-gidamwaawag (long ago our late fathers were eaten up), gaye igiw ningenaanig (and our mothers too). Mii dash eta go iw minik (and so that is all that is left) waabamadwaa abinoojiiyag eshkonanidwaa* (of the children you see — *stem flagged*). Waabang idash mii iw miinawaa ogagwejiganigowaan (and tomorrow again they will be raced). Mii iw gaa-onji-waabamadwaa makadekewaad igiw abinoojiiyag (that is why you see the children fasting/blackened); gii-igoozhimowag igiw abinoojiiyag (the children are made to fast — *stem flagged*) anawi-bawaadamaazowaad gaa-onji-bimaadiziwaad (that they may dream of what shall give them life — *stem flagged*). Mii iw minik enaajimo’donaan.” (“that is all I have to tell you.”)</span>
 
-<span class="l-orig">(4) Ānic mī cigwa wunạgucininig. “Ambäsạnōnā, nīdci, ändāyānk icātā!”</span>
+<span class="l-orig">(4) Ānīc mī cigwa wunāgucininig. “Ambäsạnōnā, nīdcī, ändāyānk icātā!”</span>
 
 <span class="l-fiero">**Aaniish mii zhigwa wenagoshinig. “Ambesanoonaa, niijii, endaayaang izhaadaa!”**</span>
 
@@ -51,7 +50,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Aaniish mii zhigwa wenagoshinig (now it was getting on toward evening). “Ambesanoonaa, niijii (“come now, my friend), endaayaang izhaadaa!” (“to where we live let us go!”)</span>
 
-<span class="l-orig">(5) Kägä‘t ku‘piwag. Cigwa pīndigäwag ändānit. Cigwa ka‘kina tạgwicinu abinōtciyaᵉ. Ambä, kägätsa inigāwagäntam a∙a∙‘i∙nini, aⁿ gā∙u∙ticiwät. Cigwasa mādci‘tāwạn ini‘ᵘ wīdci‘kiwäyan kīzizä‘kwänit. Kā‘kīzizä‘kwänit, “Ambä, nidci! kayä gin wīsinîn,” udigōn.</span>
+<span class="l-orig">(5) Kägä‘t ku‘pīwạg. Cigwa pīndigäwạg ändānit. Cigwa ka‘kina tạgwicinuᵉ ạbinōtcīyaᵉ. Ạmbä, kägätsa īnigāwạgäntạm aᵉa∙i∙nini, aᵘ gā∙u∙ticiwät. Cigwasa mādci‘tāwạn īni´ᵘ wīdci‘kiwäyạn kīzizä‘kwänit. Kā‘kīzizä‘kwänit, “Ạmbä, nīdcī! kayä gīn wīsinîn,” udigōn.</span>
 
 <span class="l-fiero">**Geget go-obiiwag. Zhigwa biindigewag endaanid. Zhigwa gakina dagwishinoo abinoojiiyag. Ambe, geget sa inigaawagendam a’aw inini, a’aw gaa-onji-odichiwed. Zhigwa sa maajiitaawan iniw wiijiikiweyan giizizekwenid. Gaa-giizizekwenid, “Ambe, niijii! gaye giin wiisinin,” odigoon.**</span>
 
@@ -59,7 +58,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Geget go-obiiwag (truly up from the lake they went — *stem flagged*). Zhigwa biindigewag endaanid (then they entered where the others dwelt). Zhigwa gakina dagwishinoo abinoojiiyag (then all the children arrived). Ambe, geget sa inigaawagendam a’aw inini (oh, truly sorry felt the man), a’aw gaa-onji-odichiwed (he who had come as visitor — *stem flagged*). Zhigwa sa maajiitaawan iniw wiijiikiweyan giizizekwenid (then his friend began to cook). Gaa-giizizekwenid (after he had finished cooking), “Ambe, niijii! gaye giin wiisinin,” (“come, my friend! you too eat,”) odigoon (he was told).</span>
 
-<span class="l-orig">(6) “Tayā, nīdci! kāwīn niwīsinisī. Migwanā iⁿ indawā iciwīsinin.”</span>
+<span class="l-orig">(6) “Tayā, nīdcī! kāwīn niwīsinisī. Mīgwạnā iᵘ indawā iciwīsinin.”</span>
 
 <span class="l-fiero">**“Dayaa, niijii! gaawiin niwiisinisii. Migwana iw indawaa izhi-wiisinin.”**</span>
 
@@ -67,15 +66,17 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">“Dayaa, niijii! (“oh no, my friend!) gaawiin niwiisinisii (I do not eat). Migwana iw indawaa izhi-wiisinin.” (“but you had better go ahead and eat.” — *migwana particle flagged*)</span>
 
-<span class="l-orig">(7) Kägä‘t äciwisinit a∙i∙nini. Cigwasa kawicimowạn. Anicinā kāwin wī‘kā nibāsī kayä wīsinisī. Mīsa cigwa unabit, ningutingigu inändam: “Ambäsanō, ‘Ningitcinaganā,’ tawi∙i∙nābandam asa‘ᵘ nitcikiwänzi.”</span>
+<span class="l-orig">(7) Kägä‘t äciwīsinit a∙i∙nini. Cigwasa kawicimowạn. Ānīcînā kāwīn wī‘kā nibāsī kayä wīsinisī. Mīsa cigwa unạbit, ningutingigu inändạm: “Ạmbäsạnō, ‘Ningitcinạganā,’ tawī∙i∙nābạndạm aᵉa´ᵘ nītcikiwäⁿzī.”</span>
 
-<span class="l-fiero">**Geget ezhi-wiisinid a’aw inini. Zhigwa sa gawishimowan. Anishinaa gaawiin wiikaa nibaasii gaye wiisinisii. Mii sa zhigwa onabid, ningoding igo inendam: “Ambesanoo, ‘Nin-gichi-naganaa,’ daa-wi-inaabandam asa’aw niijiikiwenzii.”**</span>
+<span class="l-fiero">**Geget ezhi-wiisinid a’aw inini. Zhigwa sa gawishimowan. Anishinaa gaawiin wiikaa nibaasii gaye wiisinisii. Mii sa zhigwa onabid, ningoding igo inendam: “Ambesanoo, ‘Nin-gichi-naganaa,’ daa-wi-inaabandam a’aw niijiikiwenzii.”**</span>
 
 <span class="l-eng">*Truly then did the man eat. In a while (the man) lay down to sleep. But of course he never slept or ate. Accordingly, while sitting there, of a sudden he willed: “Behold, ‘I left him far behind (in the race),’ let my friend dream!”*</span>
 
 <span class="l-gloss">Geget ezhi-wiisinid a’aw inini (truly the man ate). Zhigwa sa gawishimowan (then he lay down to sleep). Anishinaa gaawiin wiikaa nibaasii gaye wiisinisii (but of course he [Little-Image] never sleeps or eats — *anishinaa particle flagged*). Mii sa zhigwa onabid (and so as he sat there), ningoding igo inendam (of a sudden he thought/willed): “Ambesanoo, ‘Nin-gichi-naganaa,’ (“come now, ‘I have far outrun him,’) daa-wi-inaabandam asa’aw niijiikiwenzii.” (“let this my friend dream!” — *daa-wi- modal + stem flagged*)</span>
 
-<span class="l-orig">(8) Cigwasa kigicäb kuckusiwạn witcikiwäyạn oganōnān: “Nidci, kāna kägō kitinābandazi?”</span>
+*Jones’s printed footnote 1 (foot of Ojibwe p.488), marker set on the English p.489 at “But of course he¹ never slept or ate”: “Little-Image.” Restored verbatim 2026-09-02 by the English gate; Jones’s text, nothing added.*
+
+<span class="l-orig">(8) Cigwasa kigīcäb kuckusiwạn wītcikiwäyạn oganōnān: “Nīdcī, kāna kägō kitinābạndạzī?”</span>
 
 <span class="l-fiero">**Zhigwa sa gigizheb goshkoziwan wiijiikiweyan oganoonaan: “Niijii, gaa-na gego gi-inaabandazi?”**</span>
 
@@ -83,15 +84,15 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Zhigwa sa gigizheb goshkoziwan wiijiikiweyan (when in the morning his friend woke) oganoonaan (he spoke to him): “Niijii, gaa-na gego gi-inaabandazi?” (“my friend, did you not dream of anything?”)</span>
 
-<span class="l-orig">(9) “Tāyā, nīdci, ki‘tciwâsami naganāᵉ kägwä‘tciganaᵉ nindinābandam.”</span>
+<span class="l-orig">(9) “Tāyā, nīdcī, ki‘tciwâsạmī nạganāg kägwä‘tcigạnạg nindinābandạm.”</span>
 
-<span class="l-fiero">**“Daayaa, niijii, gichi-waasa minaganaag gagwejiganag nindinaabandam.”**</span>
+<span class="l-fiero">**“Daayaa, niijii, gichi-waasa mii naganaag gagwejiganag nindinaabandam.”**</span>
 
 <span class="l-eng">*“Why, my friend, ‘a great distance behind did I leave him with whom I ran,’ was the dream I had.”*</span>
 
-<span class="l-gloss">“Daayaa, niijii (“why, my friend), gichi-waasa naganaag gagwejiganag (a great way off did I leave the one I raced — *stem flagged*) nindinaabandam.” (so I dreamed.”)</span>
+<span class="l-gloss">“Daayaa, niijii (“why, my friend), gichi-waasa mii naganaag gagwejiganag (a great way off did I leave the one I raced — *stem flagged*) nindinaabandam.” (so I dreamed.”)</span>
 
-<span class="l-orig">(10) “Ä, kägä‘t nīdci, kīganaganā wâkagwätcikanat.”</span>
+<span class="l-orig">(10) “Äᵉ, kägä‘t nīdcī, kīganạgạnā wâkagwätcikanạt.”</span>
 
 <span class="l-fiero">**“E, geget niijii, gii-ga-naganaa waa-gagwejiganad.”**</span>
 
@@ -99,7 +100,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">“E, geget niijii (“yea, truly, my friend), gii-ga-naganaa waa-gagwejiganad.” (you shall outrun the one you mean to race.” — *preverb chain flagged*)</span>
 
-<span class="l-orig">(11) Cigwa kā∙i∙‘ckwāwīsinit pītwäwäcinōn; ki‘pīpindigäwan ma‘kwạn, piganōnimāwan witci‘kiwäyan: “Mīsa cigwa tcigagagwätcikanitiyangiban. Nisimitana pimatcic igi‘ᵘ abinōtciyaᵉ.” Mīsa iᵉi‘ᵘ änicisāga∙a∙minit.</span>
+<span class="l-orig">(11) Cigwa kā∙i∙ckwāwīsinit pītwäwäcinōn; kipīpīndigäwạn ma‘kwạn, pigạnōnimāwạn wītci‘kiwäyạn: “Mīsa cigwa tcigạgagwätcikanitiyạngibạn. Nisimitạna pimātcīc īgi´ᵘ ạbinōtcīyạg.” Mīsa iᵉi´ᵘ änīcịsāga∙a∙minit.</span>
 
 <span class="l-fiero">**Zhigwa gaa-izhi-ishkwaa-wiisinid biidweweshinoon; gii-bii-biindigewan makwan, biganoonimaawan wiijiikiweyan: “Mii sa zhigwa ji-gagwejiganidiyangiban. Nisimidana bima-jish igiw abinoojiiyag.” Mii iw ezhi-ni-zaaga’aminid.**</span>
 
@@ -107,15 +108,15 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Zhigwa gaa-izhi-ishkwaa-wiisinid (as soon as they had finished eating) biidweweshinoon (the sound of someone coming was heard); gii-bii-biindigewan makwan (a bear came entering in), biganoonimaawan wiijiikiweyan (it spoke to his friend): “Mii sa zhigwa ji-gagwejiganidiyangiban (“it is now time we two race — *preterite-conditional flagged*). Nisimidana bima-jish igiw abinoojiiyag.” (thirty of the children bring along — *stem flagged*) Mii iw ezhi-ni-zaaga’aminid (and so out of doors it went).</span>
 
-<span class="l-orig">(12) “Auwisa, mīsa cigwa tci∙a∙nimādcāyank, nidci. Awiyās wābạntamawicinān!” udinān ini‘ ininiwan. Kägä‘t änicimādcāwāt. Änitagwicinuwat, āca kā‘tagwicininigwän kānānibitäbinitigu. Cigwa‘ pisạgini‘känā.</span>
+<span class="l-orig">(12) “Auwisa, mīsa cigwa tci∙ạ∙nimādcāyạnk, nīdcī. Awiyās wābạntamawicinān!” udinān īni‘ᵘ ininiwạn. Kägä‘t änicimādcāwāt. Änitạgwicinuwāt, āca kā‘tạgwicininigwän kānānibitäbinitigu. Cigwa´ pisạgini‘känā.</span>
 
-<span class="l-fiero">**“Auwisa, mii sa zhigwa ji-ani-maajaayang, niijii. Awiyaas waabandamawishinaan!” odinaan iniw ininiwan. Geget ezhi-ni-maajaawaad. Eni-dagwishinowaad, aazha gaa-dagwishininigwen gaa-naanibidebinidigo. Zhigwa bizaagini’kenaa.**</span>
+<span class="l-fiero">**“Aawisa*, mii sa zhigwa ji-ani-maajaayang, niijii. Awiyaas waabandamawishinaan!” odinaan iniw ininiwan. Geget ezhi-ni-maajaawaad. Eni-dagwishinowaad, aazha gaa-dagwishininigwen gaa-naanibidebinidigo. Zhigwa bizaagini’kenaa.**</span>
 
 <span class="l-eng">*“Well, it is now time for us to be going, my friend. Come (and) watch us!” he said to the man. In truth, then on their way they went. As they arrived, already must the others have come, for there they were seated in a row. Presently he was approached (and greeted) with a shake of the hand.*</span>
 
-<span class="l-gloss">“Auwisa, mii sa zhigwa ji-ani-maajaayang, niijii (“well, it is now time we two go off, my friend). Awiyaas waabandamawishinaan!” (come watch for us! — *stem flagged*) odinaan iniw ininiwan (he said to the man). Geget ezhi-ni-maajaawaad (truly off they went). Eni-dagwishinowaad (as they arrived), aazha gaa-dagwishininigwen (already the others must have come) gaa-naanibidebinidigo (for there they sat in a row — *stem flagged*). Zhigwa bizaagini’kenaa (presently he was greeted with a handshake — *stem flagged*).</span>
+<span class="l-gloss">“Aawisa*, mii sa zhigwa ji-ani-maajaayang, niijii (“well, it is now time we two go off, my friend). Awiyaas waabandamawishinaan!” (come watch for us! — *stem flagged*) odinaan iniw ininiwan (he said to the man). Geget ezhi-ni-maajaawaad (truly off they went). Eni-dagwishinowaad (as they arrived), aazha gaa-dagwishininigwen (already the others must have come) gaa-naanibidebinidigo (for there they sat in a row — *stem flagged*). Zhigwa bizaagini’kenaa (presently he was greeted with a handshake — *stem flagged*).</span>
 
-<span class="l-orig">(13) “Mīsạ cigwa tcigagwätcikanitiyank.” Midạc iᵉi‘ᵘ kā∙i∙jikanōnint anicinābä: “Wägunäc iᵉi‘ᵘ nindā∙u∙ndcinaganā änändaman? Kīn tibātcimun wā∙u∙ndcinagaciyan.”</span>
+<span class="l-orig">(13) “Mīsạ cigwa tcigạgwätcikạnitiyạnk.” Mīdạc iᵉi´ᵘ kā∙i∙jikạnōnint ạnicinābä: “Wägunäc iᵉi´ᵘ nindā∙u∙ndcinạgạnā änändạmạn? Kīn tibātcimun wā∙u∙ndcinạgạciyạn.”</span>
 
 <span class="l-fiero">**“Mii sa zhigwa ji-gagwejiganidiyang.” Mii dash iw gaa-izhi-ganoonind anishinaabe: “Wegonen iw ninda-onji-naganaa enendaman? Giin dibaajimon waa-onji-nagazhiyan.”**</span>
 
@@ -141,6 +142,8 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">“Bizaani sa go (“just simply), ‘Ninaganaa,’ (‘I outran him,’) ningii-inaabandam dibikong.” (I dreamed last night.”)</span>
 
+*Jones’s printed footnote 1 (foot of Ojibwe p.490), marker set on the English p.491 at “was what I dreamed¹ last night”: “That he had a propitious dream was evidence that he had received power. A dream is power.” Restored verbatim 2026-09-02 by the English gate; Jones’s text, nothing added.*
+
 <span class="l-orig">(16) “‘Āᵉaᵘ, mādcādātci∙ä∙nigu‘k!”</span>
 
 <span class="l-fiero">**“Aw, maajaadaa ji-enigok!”**</span>
@@ -149,7 +152,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">“Aw, maajaadaa ji-enigok!” (“come, let us be off as fast as we can!” — *demonstrative/interjection flagged*)</span>
 
-<span class="l-orig">(17) Mi‘tig iwiti pada‘kidäni, udōdi‘tānāwa tätibickō. Cigwa inändam a∙i∙nini, mi a‘wä kā∙u∙diciwät: “Ambäsa, ugabīnaganān.” Kägä‘t pinạgaciwawan widcikiwäyan. Kägä‘t minwändam a∙i∙nini kä‘pitạgwicininit. Anic upagamāgan udaiyān aⁿ kägwätcikạciwät; mīsa isi‘ᵘ äcinīwanawāt ini‘ᵘ kägwätciganāt kayä igiwäti nisimitana ma‘kwaᵉ.</span>
+<span class="l-orig">(17) Mi‘tig iwiti pada‘kidäni, udōdi‘tānāwa tätibickō. Cigwa inändạm a∙i∙nini, mī∙a∙wä kā∙u∙diciwät: “Ambäsa, ugabīnaganān.” Kägä‘t pinạgaciwawạn wīdcikiwäyạn. Kägä‘t minwändạm a∙i∙nini kä‘pitạgwicininit. Ānīc upạgạmāgạn udaiyān aᵉa´ᵘ kägwätcikạciwät; mīsa iᵉi‘ᵘ äcinīwạnawāt īni‘ᵘ kägwätcigạnāt kayä igiwäti nisimitạna ma‘kwaᵉ.</span>
 
 <span class="l-fiero">**Mitig iwidi badakideni, odoodi’taanaawaa dadibishkoo. Zhigwa inendam a’aw inini, mii a’aw gaa-onji-odichiwed: “Ambesa, oga-bii-naganaan.” Geget bii-nagazhiwewan wiijiikiweyan. Geget minwendam a’aw inini gaa-bi-dagwishininid. Aaniish obagamaagan odayaan a’aw gagwejigaazhiwed; mii sa iw ezhi-niiwanawaad iniw gagwejiganaad gaye igiwedi nisimidana makwag.**</span>
 
@@ -159,7 +162,9 @@ LITTLE-IMAGE.
 
 *Jones’s footnote ² (English p491 foot), attaching to “A post at yonder place was standing” (Mi‘tig iwiti pada‘kidäni): “To mark the starting-place.”*
 
-<span class="l-orig">(18) Kägä‘t minwändamōᵉ abinōtciyaᵉ. Midạc iᵉi‘ᵘ äcikīwätābīwāt ma‘kwaᵉ, upindiganāwa ändāwāt. Mīsa cigwa madci‘tāwāt tcībā‘kwäwät. Kägä‘t minuwisiniwạg. Wänāgucininig pimitä uduci‘tōnāwān; ā, kägä‘t nībiwa! Kägä‘t minwäntamōᵉ. Cigwa tibi‘kạtini, mīsa wi‘kwatci∙ā∙t wītci‘kiwäyạn, wī∙a∙camāt; mīsa kāwīn wisinisiwan. Indawadạc uwindamāgōn: “Kāwin wī‘kā niwīsinisi kayä ninibāsī. Mīgu isi‘ᵘ, nidcī, inändan: kāwin wī‘ka kiganaganigōsi.”</span>
+*Jones’s footnote ² (English p491 foot), attaching to “A post at yonder place was standing” (Mi‘tig iwiti pada‘kidäni): “To mark the starting-place.”*
+
+<span class="l-orig">(18) Kägä‘t minwändạmōg ạbinōtcīyạg. Mīdạc iᵉi´ᵘ äcikīwätābīwāt ma‘kwaᵉ, upīndigạnāwa ändāwāt. Mīsa cigwa mādci‘tāwāt tcībā‘kwäwāt. Kägä‘t minuwīsiniwạg. Wänāgucininig pimitä uduci‘tōnāwān; ā, kägä‘t nībiwa! Kägä‘t minwäntạmōg. Cigwa tibi‘kạtini, mīsa wī‘kwatci∙ā∙t wītci‘kiwäyạn, wī∙a∙camāt; mīsa kāwīn wīsinisiwạn. Indawadạc uwīndamāgōn: “Kāwīn wī‘kā niwīsinisī kayä ninibāsī. Mīgu iᵉi´ᵘ, nīdcī, inändạn: kāwīn wī‘kā kigạnạgạnigōsī.”</span>
 
 <span class="l-fiero">**Geget minwendamoog abinoojiiyag. Mii dash iw ezhi-giiwetaabiiwaad makwag, obindiganaawaa endaawaad. Mii sa zhigwa maajiitaawaad jiibaakwewaad. Geget mino-wiisiniwag. Wenagoshinig bimide odoozhi’toonaawaan; aa, geget niibiwa! Geget minwendamoog. Zhigwa dibikadini, mii sa wii-gwajayaa’aad wiijiikiweyan, wii-ashamaad; mii sa gaawiin wiisinisiwan. Indawaa dash owindamaagoon: “Gaawiin wiikaa niwiisinisii gaye ninibaasii. Mii go izhi, niijii, inendan: gaawiin wiikaa giga-naganigoosii.”**</span>
 
@@ -167,15 +172,15 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Geget minwendamoog abinoojiiyag (truly happy were the children). Mii dash iw ezhi-giiwetaabiiwaad makwag (and so they dragged the bears home — *stem flagged*), obindiganaawaa endaawaad (they carried them into where they lived). Mii sa zhigwa maajiitaawaad jiibaakwewaad (then they set to cooking). Geget mino-wiisiniwag (truly they ate well). Wenagoshinig bimide odoozhi’toonaawaan (in the evening they made grease); aa, geget niibiwa! (oh, truly much!) Geget minwendamoog (truly they were pleased). Zhigwa dibikadini (then it grew dark), mii sa wii-gwajayaa’aad wiijiikiweyan (and so he tried to prevail on his friend — *stem flagged*), wii-ashamaad (wanting to feed him); mii sa gaawiin wiisinisiwan (but he would not eat). Indawaa dash owindamaagoon (so then he was told): “Gaawiin wiikaa niwiisinisii gaye ninibaasii (“never do I eat or sleep). Mii go izhi, niijii, inendan (so this, my friend, keep in mind): gaawiin wiikaa giga-naganigoosii.” (never shall you be outrun.”)</span>
 
-<span class="l-orig">(19) Cigwadạc tibi‘kadini, mīsa iti‘ᵘ äjinibanit īni‘ᵘ witcikiwäⁿyan. Äyabi‘tātibikatinig inändam: “‘Tciwāsa ninaganāsan kägwätciganaᵉ,’ tawi∙i∙nābandam!”</span>
+<span class="l-orig">(19) Cigwadạc tibi‘kadini, mīsa iti‘ᵘ äjinibānit īni´ᵘ wītcikiwäⁿyạn. Äyābi‘tātibikạtinig inändạm: “‘Tciwāsa ninạgạnāsạn kägwätcigạnạg,’ tawī∙i∙nābạndạm!”</span>
 
 <span class="l-fiero">**Zhigwa dash dibikadini, mii sa iw ezhi-nibanid iniw wiijiikiweyan. Eyaabita-dibikadinig inendam: “‘Ji-waasa ninaganaasan gagwejiganag,’ daa-wi-inaabandam!”**</span>
 
-<span class="l-eng">*And now it was night, whereupon to sleep went his companion. When it came midnight, he thought: “A great way behind do I leave him with whom I race,’ let him dream!”*</span>
+<span class="l-eng">*And now it was night, whereupon to sleep went his companion. When it came midnight, he thought: “‘A great way behind do I leave him with whom I race,’ let him dream!”*</span>
 
 <span class="l-gloss">Zhigwa dash dibikadini (and now it was night), mii sa iw ezhi-nibanid iniw wiijiikiweyan (and so his friend went to sleep). Eyaabita-dibikadinig inendam (when midnight came he thought): “‘Ji-waasa ninaganaasan gagwejiganag,’ (‘a great way off I will leave the one I race,’) daa-wi-inaabandam!” (let him dream! — *modal flagged*)</span>
 
-<span class="l-orig">(20) Kigicäb kuckusi. Kā∙i∙‘ckwawisinit pīdwäwäcinōn; pipindigäwan, uganōnigōn: “Mi∙i∙‘ᵘ cigwa tcikạgwätciganitiyang. ‘Āⁿ, ābi‘ta abinōtciyaᵉ pimädcic,” udigōn.</span>
+<span class="l-orig">(20) Kigīcäb kuckusi. Kā∙i∙ckwāwīsinit pīdwäwäcinōn; pipīndigäwạn, ugạnōnigōn: “Mī∙i∙´ᵘ cigwa tcikạgwätcigạnitiyạng. ‘Āᵘ, ābi‘ta ạbinōtcīyạg pimādcīc,” udigōn.</span>
 
 <span class="l-fiero">**Gigizheb goshkozi. Gaa-izhi-ishkwaa-wiisinid biidweweshinoon; bi-biindigewan, oganoonigoon: “Mii iw zhigwa ji-gagwejiganidiyang. ‘Aaw, aabita abinoojiiyag bima-jish,’ odigoon.**</span>
 
@@ -183,7 +188,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Gigizheb goshkozi (in the morning he awoke). Gaa-izhi-ishkwaa-wiisinid biidweweshinoon (after he ate, the sound of someone coming was heard); bi-biindigewan (in came a bear), oganoonigoon (he was addressed): “Mii iw zhigwa ji-gagwejiganidiyang (“it is now time we race). ‘Aaw, aabita abinoojiiyag bima-jish,’ (“now, half the children bring along,” — *stem flagged*) odigoon (he was told).</span>
 
-<span class="l-orig">(21) Kägä‘t madcawag, mada∙a∙nat ayāwā iyabinōtciyaᵉ. Cigwa tagwicinōᵉ. Äjikanōnigut ini‘ᵘ ma‘kwan: “Mīsa cigwa tcigagwätciganitiyang. Wägunäc ninda∙u∙ndcinaganā änäntamạn? Kîn tibatcimun kä∙u∙ndcinagaciyan; äcinīcugunīyān mi∙i∙‘ᵘ cawänimi‘pan ‘aᵉa‘ᵘ ninābi‘kawāgan,” kiniwayānan unābi‘kawānini. “‘Āⁿ, kin nitạm tibātcimum kä∙undcinagaciyan.”</span>
+<span class="l-orig">(21) Kägä‘t mādcāwag, mạda∙ạ∙nāt ayāwāᵉ iyabinōtcīyaᵉ. Cigwa tạgwicinōg. Äjikanōnigut īni´ᵘ ma‘kwạn: “Mīsa cigwa tcigạgwätcigạnitiyạng. Wägunäc ninda∙u∙ndcinạgạnā änäntamạn? Kîn tibātcimun kä∙u∙ndcinạgạciyạn; äcinīcugunīyān mi∙i∙´ᵘ cawänimi‘pan ‘aᵉa‘ᵘ ninābi‘kawāgan,” kiniwayānan unābi‘kawānini. “‘Āⁿ, kin nitạm tibātcimum kä∙undcinagaciyan.”</span>
 
 <span class="l-fiero">**Geget maajaawag, mada’anaad ayaawaa iniw abinoojiiyag. Zhigwa dagwishinoog. Ezhi-ganoonigod iniw makwan: “Mii sa zhigwa ji-gagwejiganidiyang. Wegonen ninda-onji-naganaa enendaman? Giin dibaajimon waa-onji-nagazhiyan; ezhi-niizhogoniiyaan mii iw zhawenimi’pan a’aw ninaabi’kawaagan,” giniweyaanan onaabi’kawaanini. “Aaw, giin nitam dibaajimon waa-onji-nagazhiyan.”**</span>
 
@@ -191,7 +196,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Geget maajaawag, mada’anaad ayaawaa iniw abinoojiiyag (truly they set out, the man following the bear’s track to where the children were — *stem flagged*). Zhigwa dagwishinoog (then they arrived). Ezhi-ganoonigod iniw makwan (he was addressed by the bear): “Mii sa zhigwa ji-gagwejiganidiyang (“it is now time we race). Wegonen ninda-onji-naganaa enendaman? (by what do you think you will outrun me?) Giin dibaajimon waa-onji-nagazhiyan (you declare by what you will outrun me); ezhi-niizhogoniiyaan mii iw zhawenimi’pan a’aw ninaabi’kawaagan,” (in a twelve-day fast this necklace of mine blest me,” — *count + stem flagged*) giniweyaanan onaabi’kawaanini (a bird-eagle’s skin was about his neck — *bird-name flagged*). “Aaw, giin nitam dibaajimon waa-onji-nagazhiyan.” (“now, you in turn declare by what you will outrun me.”)</span>
 
-<span class="l-orig">(22) “Pisani sạgu, ‘nīnaganā,’ ningīnābandam tibi‘kunk.” ‘Aᵉa‘ᵘ panä mädcāwag. Cigwa mi‘tig pata‘kidänig tägwicinōwāt, o∙o∙ tōtam aᵉa‘ᵘ inini; näyāp pangicin imā kā‘pi∙u∙ndcimādcāwat; atcinagu ki‘pangicing, anwi ä‘pitcipitäg mi∙i∙‘ᵘ ä‘pīsi‘kāt. Midạc anipangicink panä tcingitcisäwan. Oganōnān: “Kijī‘kān! Kigagwätciganitimin!” Tciwāsa unaganān. Kā‘pitạgwicininit, upagamāgan umamōn; äjinīwanawāt. Midạc i‘i‘ niwanawāt iwäti ma‘kwaᵉ, abi‘ta ändacinit uniwanawaᵉ.</span>
+<span class="l-orig">(22) “Pisani sạgu, ‘nīnaganā,’ ningīnābandam tibi‘kunk.” ‘Aᵉa‘ᵘ panä mädcāwag. Cigwa mi‘tig pata‘kidänig tägwicinōwāt, o∙o∙ tōtam aᵉa‘ᵘ inini; näyāp pangicin imā kā‘pi∙u∙ndcimādcāwat; atcinagu ki‘pangicing, anwi ä‘pitcipitäg mi∙i∙‘ᵘ ä‘pīsi‘kāt. Mīdạc anipangicink panä tcingitcisäwan. Oganōnān: “Kijī‘kān! Kigagwätciganitimin!” Tciwāsa unaganān. Kā‘pitạgwicininit, upagamāgan umamōn; äjinīwanawāt. Mīdạc iᵉi‘ᵘ nīwạnawāt iwäti ma‘kwaᵉ, abi‘ta ändacinit uniwanawaᵉ.</span>
 
 <span class="l-fiero">**“Bizaani sa go, ‘ninaganaa,’ ningii-inaabandam dibikong.” A’aw bane maajaawag. Zhigwa mitig badakidenig dagwishinowaad, o’ow doodam a’aw inini; naayaab bangishin imaa gaa-bi-onji-maajaawaad; achina go gii-bangishing, anwi e’pichi-bideg mii iw e’pi-zii’kaad. Mii dash ani-bangishing bane jiingichisewan. Oganoonaan: “Gizhiikaan! Gigagwejiganidimin!” Ji-waasa onaganaan. Gaa-bi-dagwishininid, obagamaagan omamoon; ezhi-niiwanawaad. Mii dash iw niiwanawaad iwedi makwag, aabita endashinid oniiwanawag.**</span>
 
@@ -199,7 +204,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">“Bizaani sa go, ‘ninaganaa,’ ningii-inaabandam dibikong.” (“just simply, ‘I outran him,’ I dreamed last night.”) A’aw bane maajaawag (well, off they started — *bane particle flagged*). Zhigwa mitig badakidenig dagwishinowaad (when they reached the standing post), o’ow doodam a’aw inini (this the man did); naayaab bangishin imaa gaa-bi-onji-maajaawaad (back he leaped to where they had started); achina go gii-bangishing (a little while he was leaping to it), anwi e’pichi-bideg mii iw e’pi-zii’kaad (as swift as a missile he went — *stem flagged*). Mii dash ani-bangishing bane jiingichisewan (and then as he slowed, on came the bear leaping — *stem flagged*). Oganoonaan (he spoke to it): “Gizhiikaan! Gigagwejiganidimin!” (“come faster! we are racing!”) Ji-waasa onaganaan (far behind he left it). Gaa-bi-dagwishininid (after it had come), obagamaagan omamoon (he took up his club); ezhi-niiwanawaad (he clubbed it dead). Mii dash iw niiwanawaad iwedi makwag (and so he clubbed those bears), aabita endashinid oniiwanawag (half their number he clubbed to death).</span>
 
-<span class="l-orig">(23) Mīdạc kägä‘t abinōdcīyạᵉ kiwäwināwāt; kägä‘t mōtcigisiwạg. Kägāgwanā kabätibi‘k magu‘käwag. Cigwa piwâbanini; kwatcisawin pamō‘ka∙a∙minig; cigwasa pinawa‘kwäni; mīsa kāwīn awiya tci∙u∙ndcitạgwicininit. Aᵉa‘ᵘ mạzininiⁿs kīgito: “Taga, nīdci, awi∙a∙ntawâbam!”</span>
+<span class="l-orig">(23) Mīdạc kägä‘t ạbinōdcīyạg kīwäwināwāt; kägä‘t mōtcigisiwạg. Kägāgwanā kabätibi‘k magu‘käwag. Cigwa piwâbanini; kwatcisawin pamō‘ka∙a∙minig; cigwasa pinawa‘kwäni; mīsa kāwīn awiya tci∙u∙ndcitạgwicininit. Aᵉa‘ᵘ mạzininiⁿs kīgito: “Taga, nīdci, awi∙a∙ntawâbam!”</span>
 
 <span class="l-fiero">**Mii dash geget abinoojiiyag giiwewinaawaad; geget moojigiziwag. Gegaa gwana gabe-dibik mago’kewag. Zhigwa bi-waabanini; gwajisawin bi-mooka’aminig; zhigwa sa bi-naawakweni; mii sa gaawiin awiya ji-onji-dagwishininid. A’aw maziniinens giigido: “Daga, niijii, awi-andawaabam!”**</span>
 
@@ -207,7 +212,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Mii dash geget abinoojiiyag giiwewinaawaad (and so truly the children were taken home); geget moojigiziwag (truly happy they were). Gegaa gwana gabe-dibik mago’kewag (nearly all night they were busy with the meat — *stem flagged*). Zhigwa bi-waabanini (then dawn came); gwajisawin bi-mooka’aminig (in time the sun rose — *stem flagged*); zhigwa sa bi-naawakweni (then it came noon); mii sa gaawiin awiya ji-onji-dagwishininid (and yet no one had come). A’aw maziniinens giigido (Little-Image spoke): “Daga, niijii, awi-andawaabam!” (“come, my friend, go look for them!”)</span>
 
-<span class="l-orig">(24) Äjimādcāt a∙i∙nini; änitạgwicink iwiti ändānit iᵉi‘ᵘ ma‘kwaᵉ, awäniban, panä kā∙u∙cimunigwän. Äjikiwäba‘tōt a∙i∙nini. Cigwa tägwicink oganōnān ini‘ᵘ mạzininīⁿsan: “Mīsa‘ ki∙u∙cimuwāt.”</span>
+<span class="l-orig">(24) Äjimādcāt a∙i∙nini; änitạgwicink iwiti ändānit iᵉi´ᵘ ma‘kwaᵉ, awäniban, panä kā∙u∙cimunigwän. Äjikiwäba‘tōt a∙i∙nini. Cigwa tägwicink oganōnān ini´ᵘ mạzininīⁿsan: “Mīsa´ ki∙u∙cimuwāt.”</span>
 
 <span class="l-fiero">**Ezhi-maajaad a’aw inini; eni-dagwishing iwidi endaanid iniw makwag, awaniban, bane gaa-onji-gimoonigwen. Ezhi-giiwebatood a’aw inini. Zhigwa dagwishing oganoonaan iniw maziniinensan: “Mii sa gii-gimoowaad.”**</span>
 
@@ -215,7 +220,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Ezhi-maajaad a’aw inini (then the man departed); eni-dagwishing iwidi endaanid iniw makwag (when he reached yonder where the bears dwelt), awaniban (none were there — *flagged*), bane gaa-onji-gimoonigwen (whither they had fled, no one knew — *stem flagged*). Ezhi-giiwebatood a’aw inini (then the man ran back home). Zhigwa dagwishing oganoonaan iniw maziniinensan (when he arrived he spoke to Little-Image): “Mii sa gii-gimoowaad.” (“so they have fled.”)</span>
 
-<span class="l-orig">(25) “‘Aᵉa‘ᵘ, nīdci, kipạgamāgan udā‘pinan! Nō‘pinanātānig.” Äjimādcāwāt, mōcag pimipa‘towag. Ningutingigu ki∙a∙nimāwanitiwaᵉ. “Aᵉaⁿ, nidci, niwanawātānig!” Äni∙a∙pī‘tci∙a∙timāwāt uniwanawāwān. Kägä‘t utaniniwanawāwān. Mīsa‘ ka‘kina kā∙i∙jinisāwāt, äjikiwäwāt. Ändāwāt kā‘tạgwicinuwāt, mạzininīⁿsan kīgīto: “Nidci, misagwanā iⁿ mini‘k panātamōnān. Mīsa iᵉi∙i∙‘wäba‘k: win anicinābä ugatamwān ini‘ᵘ ma‘kwan, kayä dạc ogagusigōn ini‘ᵘ ma‘kwan. Nidci, mi giwäyān; wâbanunk ninticikiwä. Tagwicinān ningagi‘tciminwäntam ki‘pinātamōnān.”</span>
+<span class="l-orig">(25) “‘Ā‘a´ᵘ, nīdci, kipạgamāgạn udā‘pinạn! Nō‘pinanātānig.” Äjimādcāwāt, mōcag pimipa‘towag. Ningutingigu ki∙a∙nimāwanitiwaᵉ. “‘Aᵉaᵘ, nīdcī, nīwạnawātānig!” Äni∙a∙pī‘tci∙a∙timāwāt uniwanawāwān. Kägä‘t utaniniwanawāwān. Mīsa‘ ka‘kina kā∙i∙jinisāwāt, äjikiwäwāt. Ändāwāt kā‘tạgwicinuwāt, mạzininīⁿsan kīgīto: “Nīdci, misagwanā iᵘ mini‘k panātamōnān. Mīsa iᵉi∙i∙‘wäba‘k: win anicinābä ugatamwān ini´ᵘ ma‘kwan, kayä dạc ogagusigōn ini´ᵘ ma‘kwan. Nidci, mi giwäyān; wâbanunk ninticikiwä. Tagwicinān ningagi‘tciminwäntam ki‘pinātamōnān.”</span>
 
 <span class="l-fiero">**“Aw, niijii, gibagamaagan odaapinan! Noopinanaadaanig.” Ezhi-maajaawaad, moozhag bimibatoowag. Ningoding igo gii-ani-mawanidiwag. “Aaw, niijii, niiwanawaadaanig!” Eni-apii-ji-adimaawaad oniiwanawaawaan. Geget odaa-ni-niiwanawaawaan. Mii sa gakina gaa-izhi-nisaawaad, ezhi-giiwewaad. Endaawaad gaa-dagwishinowaad, maziniinensan giigido: “Niijii, mii sa gwana iw minik banaadamonaan. Mii iw ezhiwebak: wiin anishinaabe oga-damwaan iniw makwan, gaye dash oga-goozigoon iniw makwan. Niijii, mii giiweyaan; waabanong ninda-izhi-giiwe. Dagwishinaan nin-gagiji-minwendam gii-bi-naadamonaan.”**</span>
 
@@ -223,7 +228,7 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">“Aw, niijii, gibagamaagan odaapinan! (“now, my friend, take your club!) Noopinanaadaanig.” (let us follow after them.”) Ezhi-maajaawaad (off they went), moozhag bimibatoowag (all the while running). Ningoding igo gii-ani-mawanidiwag (by and by they came on them in single file — *stem flagged*). “Aaw, niijii, niiwanawaadaanig!” (“now, my friend, let us club them!”) Eni-apii-ji-adimaawaad oniiwanawaawaan (as fast as they overtook them they clubbed them — *stem flagged*). Geget odaa-ni-niiwanawaawaan (truly many they clubbed). Mii sa gakina gaa-izhi-nisaawaad (and so when they had slain them all), ezhi-giiwewaad (they came back). Endaawaad gaa-dagwishinowaad (when they arrived home), maziniinensan giigido (Little-Image spoke): “Niijii, mii sa gwana iw minik banaadamonaan (“my friend, this is the measure of help I have come to give you — *stem flagged*). Mii iw ezhiwebak (this is the way it shall be): wiin anishinaabe oga-damwaan iniw makwan (the person shall eat the bear for food), gaye dash oga-goozigoon iniw makwan (and the bear shall fear him too — *stem flagged*). Niijii, mii giiweyaan (my friend, now I go home); waabanong ninda-izhi-giiwe (to the east I return). Dagwishinaan nin-gagiji-minwendam gii-bi-naadamonaan.” (when I arrive I shall be very glad for having come to help you.”)</span>
 
-<span class="l-orig">(26) Cigwadạc gigitu a∙i∙nini: “Migwetc, nīdci. Kāginīgigu kigami‘kwänimin, kayä aⁿ anicinābä pitcinạg kä∙a∙nipimātisit ō a‘kīng; ạmantcigu mini‘k kä∙a∙‘kiwanugwän kawâwini‘k ‘aᵉa‘ᵘ anicinābä.”</span>
+<span class="l-orig">(26) Cigwadạc gigitu a∙i∙nini: “Migwetc, nīdci. Kāginīgigu kigami‘kwänimin, kayä aᵘ anicinābä pitcīnạg kä∙a∙nipimātisit ō a‘kīng; ạmantcigu mini‘k kä∙a∙‘kīwanugwän kawâwīni‘k ‘aᵉa´ᵘ ạnicinābä.”</span>
 
 <span class="l-fiero">**Zhigwa dash giigido a’aw inini: “Miigwech, niijii. Gaaginiig igo giga-mikwenimin, gaye a’aw anishinaabe bijinaag ge-ani-bimaadizid o’ow akiing; amanj igo minik ge-ani-akiwanigwen, ga-waawinik a’aw anishinaabe.”**</span>
 
@@ -231,14 +236,12 @@ LITTLE-IMAGE.
 
 <span class="l-gloss">Zhigwa dash giigido a’aw inini (and then the man spoke): “Miigwech, niijii (“thank you, my friend). Gaaginiig igo giga-mikwenimin (forever shall I remember you), gaye a’aw anishinaabe bijinaag ge-ani-bimaadizid o’ow akiing (so too the people who shall live hereafter on this earth); amanj igo minik ge-ani-akiwanigwen (however long they may be on earth — *stem flagged*), ga-waawinik a’aw anishinaabe.” (your name the people shall speak.”)</span>
 
-<span class="l-orig">(27) Mīsa iᵉi‘ᵘ pinäwitcīt kī∙ạ∙gōtä.</span>
+<span class="l-orig">(27) Mīsa iᵉi‘ᵘ pinäwitcīt kīạgōtä.</span>
 
 <span class="l-fiero">**Mii sa iw binewi-jiid gii-agoode.**</span>
 
 <span class="l-eng">*And so the buttocks of the ruffed grouse now hang aloft.*</span>
 
 <span class="l-gloss">Mii sa iw (and so it is) binewi-jiid (the ruffed grouse’s rump) gii-agoode (now hangs aloft). *(the carrier closing that leaves the story to the listener’s own wondering)*</span>
-
-*Carrier closing — FULL FORM (hanging-verb on the page): Mīsa iᵉi‘ᵘ pinäwitcīt kĭ∙ạ∙gōtä → mii sa iw binewi-jiid gii-agoode, “and so the rump of the ruffed grouse now hangs aloft.” This marks a story that asks for the listener’s own wondering; it hints without imposing. Joins the full-form set #45/#72/#73/#74 (kī∙ạ∙gōtä) and #20’s gizzard form. Demonstrative iᵉi‘ᵘ = i’iw. Per The Binewi-jiid Closing — never explained. (Per M., 2026.)*
 
 </div>

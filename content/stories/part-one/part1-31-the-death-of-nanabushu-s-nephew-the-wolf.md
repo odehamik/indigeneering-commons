@@ -2,7 +2,6 @@
 title: "31. The Death of Nanabushu's Nephew, the Wolf"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -27,7 +26,7 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(2) Wayābạninig kusiwaᵉ.</span>
 
-<span class="l-fiero">**Wayaabaninig goziwag(i).**</span>
+<span class="l-fiero">**Wayaabaninig goziwag.**</span>
 
 <span class="l-eng">*On the morrow they moved camp.*</span>
 
@@ -43,7 +42,7 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(4) Ugạnōnigōn īni’ᵘ udōcimạn: “Nänabucu, päcugu kīganibāmin.”</span>
 
-<span class="l-fiero">**Oganoonigoon iniw(ii) odoozhiman: “Nenabosho, besho go giga-nibaamin.”**</span>
+<span class="l-fiero">**Oganoonigoon iniw odoozhiman: “Nenabosho, besho go giga-nibaamin.”**</span>
 
 <span class="l-eng">*He was addressed by his nephew saying: “Nänabushu, not far away shall we stop for the night.”*</span>
 
@@ -59,7 +58,7 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(6) Kumāgu a‘pī cigwa owâbạmān ạni‘täwạnini‘k nạmạdạbinit.</span>
 
-<span class="l-fiero">**Gomaa go apii zhigwa owaabamaan anidewaninig*(iii) namadabinid.**</span>
+<span class="l-fiero">**Gomaa go apii zhigwa owaabamaan anidewaninig* namadabinid.**</span>
 
 <span class="l-eng">*Some distance on the way he saw (his nephew) seated in a spot free from snow.*</span>
 
@@ -67,15 +66,15 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(7) “Nōs, mī∙o∙mā tcinibaiyạnk,” Nänabucu udigōn.</span>
 
-<span class="l-fiero">**“Noos, mii omaa ji-nibaaying,” Nenabosho odigoon.**</span>
+<span class="l-fiero">**“Noos, mii omaa ji-nibaayang,” Nenabosho odigoon.**</span>
 
 <span class="l-eng">*“My father, here is a place for us to sleep,” Nänabushu was told.*</span>
 
-<span class="l-gloss">“Noos (“my father), mii omaa ji-nibaaying (here is where we will sleep),” Nenabosho odigoon (Nenabosho was told).</span>
+<span class="l-gloss">“Noos (“my father), mii omaa ji-nibaayang (here is where we will sleep),” Nenabosho odigoon (Nenabosho was told).</span>
 
 <span class="l-orig">(8) Kā∙i∙skwāwīsiniwāt, awäningwāmi.</span>
 
-<span class="l-fiero">**Gaa-ishkwaa-wiisiniwaad, aweningwaami.***</span>
+<span class="l-fiero">**Gaa-ishkwaa-wiisiniwaad, aweningwaami.**</span>
 
 <span class="l-eng">*After they had finished eating, he made ready to sleep.*</span>
 
@@ -89,8 +88,6 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-gloss">Gii-zhi-gii-nibaad (then he had a sleep).</span>
 
-*Page verified 2026-08-12 at 14× (printed p.250): Kīciginibāt — the gi IS printed; the shorter reading gii-zhi-nibaad is refuted. The segmentation (zhi-gii vs zhigi-) is a parse question for the lexicon stage; the letters are settled.*
-
 <span class="l-orig">(10) Mägwāgu nạnāmạdạbit pāmāgu wändcimawinit Nänabucōwạn.</span>
 
 <span class="l-fiero">**Megwaa go nanaamadabid baamaa go wenjimawinid Nenaboshoowan.**</span>
@@ -101,7 +98,7 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(11) Ajidcīcābināt. “Cī,</span>
 
-<span class="l-fiero">**Azhijiizhaabinaad.***</span>
+<span class="l-fiero">**Azhijiizhaabinaad.**</span>
 
 <span class="l-eng">*Then he waved to him with the hand.(2)*</span>
 
@@ -109,7 +106,7 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(12) indạskā nīn nimānābạmigutug,” udinān.</span>
 
-<span class="l-fiero">**“Shii, indashkaa niin nimaanaabamigodog,”(iv) odinaan.**</span>
+<span class="l-fiero">**“Shii, indashkaa niin nimaanaabamigodog,” odinaan.**</span>
 
 <span class="l-eng">*“Foh, (I) fancy that he probably is having a bad dream about me,” he said of him.*</span>
 
@@ -117,7 +114,7 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(13) Cigwa tayänibānit, kuskusiwạn.</span>
 
-<span class="l-fiero">**Zhigwa dayenibaanid,(v) goshkoziwan.**</span>
+<span class="l-fiero">**Zhigwa dayenibaanid, goshkoziwan.**</span>
 
 <span class="l-eng">*When (Nänabushu) had sleep enough, he then woke up.*</span>
 
@@ -133,7 +130,7 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(15) “Ānīn änābạndạmạn kīmawiyạn?”</span>
 
-<span class="l-fiero">**“Aaniin enaabandaman(vi) gii-mawiyan?”**</span>
+<span class="l-fiero">**“Aaniin enaabandaman gii-mawiyan?”**</span>
 
 <span class="l-eng">*“What were you dreaming about, that you should weep?”*</span>
 
@@ -141,12 +138,14 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(16) “Ä‘tawā, nindōcim kimānābạmin. Wâbạng ‘aᵉa’ᵘ mōⁿs wī‘piminicawạt.</span>
 
-<span class="l-fiero">**“Edawaa, nindoozhim gi-maanaabamin.**</span>
+<span class="l-fiero">**“Edawaa, nindoozhim gi-maanaabamin.  
+Waabang a’aw mooz wii-bimi-nizhawad.**</span>
 
 <span class="l-eng">*“Ah, my nephew, I had a bad dream about you.  
 To-morrow you will pursue a moose.*</span>
 
-<span class="l-gloss">“Edawaa (“alas), nindoozhim (my nephew) gi-maanaabamin (I had a bad dream about you).</span>
+<span class="l-gloss">“Edawaa (“alas), nindoozhim (my nephew) gi-maanaabamin (I had a bad dream about you).  
+Waabang (tomorrow) a’aw mooz wii-bimi-nizhawad (you will go in pursuit of that moose).</span>
 
 <span class="l-orig">(17) Ạmbäsạnō, kägu’ ickwā pagitō‘kän ‘iᵉi’ᵘ mi‘tigōns sībīnsing mīsawāgu cigwa täbābạmạt ‘aᵉa’ᵘ mōⁿs;</span>
 
@@ -154,9 +153,7 @@ To-morrow you will pursue a moose.*</span>
 
 <span class="l-eng">*Please don’t you delay throwing a stick into the brook, even though you are then in sight of the moose.*</span>
 
-<span class="l-gloss">Waabang (tomorrow) a’aw mooz wii-bimi-nazhawad (you will go in pursuit of that moose).  
-Waabang a’aw mooz wii-bimi-nazhawad.(vii)  
-Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (do not put off throwing the little stick into the brook) mii sa wa go zhigwa debaabamad a’aw mooz (even when you have the moose in sight).</span>
+<span class="l-gloss">Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (do not put off throwing the little stick into the brook) mii sa wa go zhigwa debaabamad a’aw mooz (even when you have the moose in sight).</span>
 
 <span class="l-orig">(18) mīgu iᵘ wī∙i∙cimindcimäntạn.”</span>
 
@@ -184,11 +181,11 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(21) Cigwasa’ äci‘kawänit ‘iᵉi’ᵘ uci‘kawānigubạnän īni’ᵘ mōⁿsōn.</span>
 
-<span class="l-fiero">**Zhigwa sa ezhikawenid i’iw ozhikawenigobanen(viii) iniw moozoon.**</span>
+<span class="l-fiero">**Zhigwa sa ezhikawenid i’iw ozhikawaanigobanen iniw moozoon.**</span>
 
 <span class="l-eng">*Now, by the trail he made, (the Wolf) was stalking the moose.(3)*</span>
 
-<span class="l-gloss">Zhigwa sa ezhikawenid (now, by the trail he had made) i’iw ozhikawenigobanen iniw moozoon (the trail by which he was stalking the moose).</span>
+<span class="l-gloss">Zhigwa sa ezhikawenid (now, by the trail he had made) i’iw ozhikawaanigobanen iniw moozoon (the trail by which he was stalking the moose).</span>
 
 <span class="l-orig">(22) Ānīc, ā‘pidci sīgwạnini.</span>
 
@@ -200,11 +197,11 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(23) Mīsa iᵘ ä∙i∙na∙ạ∙nāt kayä mī∙i∙wä iᵘ äcinạmä‘tōnit īni’ᵘ udōcimạn; mi‘tigōns ạni∙a∙‘pagitōnit i∙i∙mā pạngī sībīnsiwa‘kamigānik;</span>
 
-<span class="l-fiero">**Mii sa iw ena’anaad gaye mii iwe iw ezhi-nametoonid iniw odoozhiman; mitigoons ani-apagidoonid i’imaa bangii ziibiinswakamigaanig;**</span>
+<span class="l-fiero">**Mii sa iw ena’anaad gaye mii iwe iw ezhi-nametoonid iniw odoozhiman; mitigoons ani-apagidoonid i’imaa bangii ziibiinsiwakamigaanig;**</span>
 
 <span class="l-eng">*That was how he trailed up (his nephew), and that was how he could  tell by the trail (what) his nephew was doing; (he saw) that (his  nephew) had flung a small stick ahead on going down into the dry bed of a little brook;*</span>
 
-<span class="l-gloss">Mii sa iw ena’anaad (that was how he followed his trail) gaye mii iwe iw ezhi-nametoonid iniw odoozhiman (and that was how he could tell by the trail what his nephew was doing); mitigoons ani-apagidoonid (a little stick he had flung ahead) i’imaa bangii ziibiinswakamigaanig (down there at the little dry brook-bed);</span>
+<span class="l-gloss">Mii sa iw ena’anaad (that was how he followed his trail) gaye mii iwe iw ezhi-nametoonid iniw odoozhiman (and that was how he could tell by the trail what his nephew was doing); mitigoons ani-apagidoonid (a little stick he had flung ahead) i’imaa bangii ziibiinsiwakamigaanig (down there at the little dry brook-bed);</span>
 
 <span class="l-orig">(24) cigwasa täpābạmānigubạn īni’ᵘ mōⁿsōn;</span>
 
@@ -224,11 +221,11 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(26) mīdạc ‘iᵉi’ᵘ cigwa täbibinānigubạnän ‘aᵉa’ᵘ ma∙ī∙ngạn ā‘pidci pạngī sībīnsiwa‘kạmigānik.</span>
 
-<span class="l-fiero">**Mii dash i’iw zhigwa debibinaanigobanen(ix) a’aw ma’iingan aapiji bangii ziibiinswakamigaanig.**</span>
+<span class="l-fiero">**Mii dash i’iw zhigwa debibinaanigobanen a’aw ma’iingan aapiji bangii ziibiinsiwakamigaanig.**</span>
 
 <span class="l-eng">*And then now was the Wolf overtaking (the moose) at where there was a dry bed of a very small brook.*</span>
 
-<span class="l-gloss">Mii dash i’iw zhigwa debibinaanigobanen a’aw ma’iingan (and then the wolf was overtaking it) aapiji bangii ziibiinswakamigaanig (at the bed of a very small dry brook).</span>
+<span class="l-gloss">Mii dash i’iw zhigwa debibinaanigobanen a’aw ma’iingan (and then the wolf was overtaking it) aapiji bangii ziibiinsiwakamigaanig (at the bed of a very small dry brook).</span>
 
 <span class="l-orig">(27) Mīgu’ mīnōtc ācawikwāskwạnigubạnän, kā∙i∙jidiskī‘kāg i∙i’∙ᵘ sībīns, mīdạc imā nānāwạgām kā∙i∙jipạngicink.</span>
 
@@ -240,7 +237,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(28) ‘Pạnägu kāsāswänik īni’ᵘ u‘tawagạn.</span>
 
-<span class="l-fiero">**Pane go gaa-saswenig(x) iiniw otawagan.**</span>
+<span class="l-fiero">**Pane go gaa-saswenig iiniw otawagan.**</span>
 
 <span class="l-eng">*And at once there was ringing in his ears.*</span>
 
@@ -264,15 +261,15 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(31) Nänabucu cigwa odäbābạndān sībi pimi‘tigwayānik, ‘pạnä udōcimạn pä‘kubīkawänit.</span>
 
-<span class="l-fiero">**Nenabosho zhigwa odebaabandaan ziibi bimitigweyaanig, pane odoozhiman bekobiikawenid.**</span>
+<span class="l-fiero">**Nenabosho zhigwa odebaabandaan ziibi bimitigwayaanig, pane odoozhiman bekobiikawenid.**</span>
 
 <span class="l-eng">*Nänabushu then came in sight of a river that went flowing by, straight on down to the water he trailed his nephew.*</span>
 
-<span class="l-gloss">Nenabosho zhigwa odebaabandaan ziibi bimitigweyaanig (Nenabosho then caught sight of a river flowing by), pane odoozhiman bekobiikawenid (straight down to the water he trailed his nephew).</span>
+<span class="l-gloss">Nenabosho zhigwa odebaabandaan ziibi bimitigwayaanig (Nenabosho then caught sight of a river flowing by), pane odoozhiman bekobiikawenid (straight down to the water he trailed his nephew).</span>
 
 <span class="l-orig">(32) “Ä‘tawā! mīmāwīnini∙i∙ᵘ kīnisābāwät ‘aᵉa’ᵘ nindōcim.”</span>
 
-<span class="l-fiero">**“Edawaa! Mii maawiin iniw gii-nisaabaawed(xi) a’aw nindoozhim.”**</span>
+<span class="l-fiero">**“Edawaa! Mii maawiin iniw gii-nisaabaawed a’aw nindoozhim.”**</span>
 
 <span class="l-eng">*“Alas! it is possible that that nephew of mine has drowned.”*</span>
 
@@ -312,7 +309,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(37) Ā‘pidcisa cigwa kawanāndạm.</span>
 
-<span class="l-fiero">**Aapiji sa zhigwa gawanaandam (gwanaandam).**</span>
+<span class="l-fiero">**Aapiji sa zhigwa gawanaandam.**</span>
 
 <span class="l-eng">*Completely now was he starving.*</span>
 
@@ -328,7 +325,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(39) Wägunänīwinän ugāgīmā∙ā∙n; päcu’ odōdisān.</span>
 
-<span class="l-fiero">**Wegoneniiwinen ogaagiimaa’aan;(xii) besho odoodisaan.**</span>
+<span class="l-fiero">**Wegoneniiwinen ogaagiimaa’aan; besho odoodisaan.**</span>
 
 <span class="l-eng">*What should he do but slip stealthily up to it; nigh up to it he came.*</span>
 
@@ -336,27 +333,27 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(40) Ānawi∙i∙cinawatināt, pạngī∙i∙gu upicigupinān.</span>
 
-<span class="l-fiero">**Aanawii-izhi-nawadinaad, bangii igo obishkobinaan.(xiii)**</span>
+<span class="l-fiero">**Aanawii-izhi-nawadinaad, bangii igo obizhigobinaan*.**</span>
 
 <span class="l-eng">*In an attempt to grab it he just missed catching it.*</span>
 
-<span class="l-gloss">Aanawii-izhi-nawadinaad (when he tried to grab it), bangii igo obishkobinaan (he just barely missed catching it).</span>
+<span class="l-gloss">Aanawii-izhi-nawadinaad (when he tried to grab it), bangii igo obizhigobinaan (he just barely missed catching it).</span>
 
 <span class="l-orig">(41) Mīdạc ‘iᵉi’ᵘ kā∙i∙‘pināgubạnän, mī∙i∙ᵘ kīnīskawäyāntipät aᵉa’ᵘ ugīskimạnisī.</span>
 
-<span class="l-fiero">**Mii dash i’iw gaa-ipinaagobanen, mii iw gii-niishkaweyaandibed* a’aw ogiishkimansii.**</span>
+<span class="l-fiero">**Mii dash i’iw gaa-ipinaagobanen, mii iw gii-niishkaweyaandibed a’aw ogiishkimanisii.**</span>
 
 <span class="l-eng">*And the place where the kingfisher was seized at the time was by the tuft on its head.*</span>
 
-<span class="l-gloss">Mii dash i’iw gaa-ipinaagobanen (and the place where it was handled), mii iw gii-niishkaweyaandibed a’aw ogiishkimansii (was at the tuft on the kingfisher’s head).</span>
+<span class="l-gloss">Mii dash i’iw gaa-ipinaagobanen (and the place where it was handled), mii iw gii-niishkaweyaandibed a’aw ogiishkimanisii (was at the tuft on the kingfisher’s head).</span>
 
 <span class="l-orig">(42) Äjigạnōnigut ugīskimanisīn: “Utcītäyāp Nänabucu nīwīwīntamwābạn wīn īni’ᵘ u‘tōjimān.”</span>
 
-<span class="l-fiero">**Ezhi-ganoonigod ogiishkimansiin: “Ojiideyaab Nenabosho niwii-wiindamowaaban wiin iiniw odoozhimaan.”**</span>
+<span class="l-fiero">**Ezhi-ganoonigod ogiishkimanisiin: “Ojiideyaab Nenabosho niwii-wiindamowaaban wiin iiniw odoozhimaan.”**</span>
 
 <span class="l-eng">*Then he was addressed by the Kingfisher saying: “About the anal gut of his nephew was I going to tell Nänabushu.”*</span>
 
-<span class="l-gloss">Ezhi-ganoonigod ogiishkimansiin (then he was addressed by the kingfisher): “Ojiideyaab Nenabosho niwii-wiindamowaaban (“about the anal gut I was going to tell Nenabosho) wiin iiniw odoozhimaan.” (concerning his nephew.”)</span>
+<span class="l-gloss">Ezhi-ganoonigod ogiishkimanisiin (then he was addressed by the kingfisher): “Ojiideyaab Nenabosho niwii-wiindamowaaban (“about the anal gut I was going to tell Nenabosho) wiin iiniw odoozhimaan.” (concerning his nephew.”)</span>
 
 <span class="l-orig">(43) “Tiwä, nîcīmisā’! wägunän wâwīntamawīyạn?” “Kā,</span>
 
@@ -376,7 +373,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(45) Nänabucu, ạmbäsạnō, kīgawīntạmōn kā∙i∙ciwäbisit ‘aᵉawä mäntcinawäsiyạn.</span>
 
-<span class="l-fiero">**Nenabosho, ambe sa noo, giga-wiindamoon gaa-izhiwebizid a’awe menjinawesiyan.(xiv)**</span>
+<span class="l-fiero">**Nenabosho, ambe sa noo, giga-wiindamoon gaa-izhiwebizid a’awe menjinawesiyan.**</span>
 
 <span class="l-eng">*Nänabushu, listen! I will declare to you what happened to him for whom you have a longing.*</span>
 
@@ -392,7 +389,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(47) Imādạc sāgitawāg iᵘ sībi mī∙i∙mā ayāg ‘iᵉi’ᵘ mīnisinatāwangā; mīdạc imā ändạcikīcigạnicit ‘aᵉa’ᵘ ugimāmicipici kīcpīn mica‘kwatinig.</span>
 
-<span class="l-fiero">**Imaa dash zaagidawaag iw ziibi mii imaa ayaag i’iw minisinadaawangaa; mii dash imaa endazhi-gii-zhigishing(xv) a’aw ogimaa mishibizhi giishpin mizhakwadinig.**</span>
+<span class="l-fiero">**Imaa dash zaagidawaag iw ziibi mii imaa ayaag i’iw minisinadaawangaa; mii dash imaa endazhi-gii-zhigishing a’aw ogimaa mishibizhi giishpin mizhakwadinig.**</span>
 
 <span class="l-eng">*Now, yonder, where the river flows out into the open, is an island of sand; and it is there the chief of the big lynxes whiles the day away when the sky is clear.*</span>
 
@@ -408,19 +405,19 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(49) Nänabucu, kīcpin babīni‘tawisiwạn, kitāwâbạmā ‘aᵉa’ᵘ kitōcimiwayān, kīpa‘kunā kuca ‘aᵉa’ᵘ kidōcim.</span>
 
-<span class="l-fiero">**Nenabosho, giishpin babizinidawisiwan,(xvi) gidaa-waabamaa a’aw gidoozhima’iwayaan, gii-pakonaa gosha a’aw gidoozhim.**</span>
+<span class="l-fiero">**Nenabosho, giishpin babiinidawisiwan, gidaa-waabamaa a’aw gidoozhimiwayaan, gii-pakonaa gosha a’aw gidoozhim.**</span>
 
 <span class="l-eng">*Nänabushu, if you heed what I say, you can behold the skin of your nephew, for flayed was that nephew of yours.*</span>
 
-<span class="l-gloss">Nenabosho, giishpin babizinidawisiwan (Nenabosho, if you [do not] heed what I say), gidaa-waabamaa a’aw gidoozhima’iwayaan (you can behold the skin of your nephew), gii-pakonaa gosha a’aw gidoozhim (for flayed indeed was that nephew of yours).</span>
+<span class="l-gloss">Nenabosho, giishpin babiinidawisiwan (Nenabosho, if you heed what I say), gidaa-waabamaa a’aw gidoozhimiwayaan (you can behold the skin of your nephew), gii-pakonaa gosha a’aw gidoozhim (for flayed indeed was that nephew of yours).</span>
 
 <span class="l-orig">(50) Mīgu ‘iᵉi’ᵘ kä∙i∙citäbwä‘tawiyạn kā∙i∙ciwäbisit ‘i∙ᵉi’∙wä kā∙u∙ndciwạni∙ạ∙t kidōcim.</span>
 
-<span class="l-fiero">**Mii go i’iw ge-zhi-debwetawiyan gaa-izhiwebizid i’iwe gaa-onji-wani’ad gidoozhim.**</span>
+<span class="l-fiero">**Mii go i’iw ge-izhi-debwetawiyan gaa-izhiwebizid i’iwe gaa-onji-wani’ad gidoozhim.**</span>
 
 <span class="l-eng">*Therefore shall you believe me concerning what befell your nephew when you lost him.*</span>
 
-<span class="l-gloss">Mii go i’iw ge-zhi-debwetawiyan (therefore shall you believe me) gaa-izhiwebizid i’iwe gaa-onji-wani’ad gidoozhim (concerning what befell your nephew when you lost him).</span>
+<span class="l-gloss">Mii go i’iw ge-izhi-debwetawiyan (therefore shall you believe me) gaa-izhiwebizid i’iwe gaa-onji-wani’ad gidoozhim (concerning what befell your nephew when you lost him).</span>
 
 <span class="l-orig">(51) Pā‘tanīnowạn känawänimigut.</span>
 
@@ -432,11 +429,11 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(52) Kīcpin idạc wīn nōndawiyạn ‘iᵉi’ᵘ kä∙i∙ninān, mīgu iᵘ wātō‘tawạtigu, tcitōtawitibạn.</span>
 
-<span class="l-fiero">**Giishpin idash wiin noondawiyan i’iw ge-ininaan, mii go iw waa-doodawad igo, ji-doodawadiban.(xvii)**</span>
+<span class="l-fiero">**Giishpin idash wiin noondawiyan i’iw ge-ininaan, mii go iw waa-doodawad igo, ji-doodawidiban.**</span>
 
 <span class="l-eng">*Now, if you harken to what I say to you, then whatsoever you may wish to do to (the chief of the big lynxes), that you may do to him.*</span>
 
-<span class="l-gloss">Giishpin idash wiin noondawiyan i’iw ge-ininaan (now, if you heed what I tell you), mii go iw waa-doodawad igo (then whatever you wish to do to him), ji-doodawadiban (that you may do to him).</span>
+<span class="l-gloss">Giishpin idash wiin noondawiyan i’iw ge-ininaan (now, if you heed what I tell you), mii go iw waa-doodawad igo (then whatever you wish to do to him), ji-doodawidiban (that you may do to him).</span>
 
 <span class="l-orig">(53) Ạmbäsạnō mi‘tigwāb kīga∙u∙ci∙ā∙.</span>
 
@@ -456,7 +453,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(55) Kīgamīnin ‘iᵉi’ᵘ känāba∙i∙gäyạn.”</span>
 
-<span class="l-fiero">**Giiga-miinin i’iw ge-naaba’igeyan.”(xviii)**</span>
+<span class="l-fiero">**Giiga-miinin i’iw ge-naaba’igeyan.”**</span>
 
 <span class="l-eng">*I will give you what you shall use for a point (on your arrow).”*</span>
 
@@ -512,7 +509,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(62) Kayä ‘iᵉi’ᵘ ānusāgạn tci∙u∙ji‘tōyạn, ā‘pidcigu kīgamistcā‘tōn ‘iᵉi’ᵘ ānusāgạn. Ā,</span>
 
-<span class="l-fiero">**Gaye i’iw aanosaagan(xx) ji-ozhitooyan, aapiji go giiga-michaatoon i’iw aanosaagan.**</span>
+<span class="l-fiero">**Gaye i’iw aanosaagan ji-ozhitooyan, aapiji go giiga-michaatoon i’iw aanosaagan.**</span>
 
 <span class="l-eng">*Likewise a raft shall you build, and very large shall you make the raft.*</span>
 
@@ -520,7 +517,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(63) kīcpin ä‘ta mạnidōwiyạn, miyä‘ta iᵘ kägō tcinā‘pinạnạt.</span>
 
-<span class="l-fiero">**Aa, giishpin eta manidoowiyan, mii eta gegoo ji-naabinanad.(xxi)**</span>
+<span class="l-fiero">**Aa, giishpin eta manidoowiyan, mii eta gegoo ji-naabinanad.**</span>
 
 <span class="l-eng">*Oh, if you were only a manitou, then would you be able to get him under your power!*</span>
 
@@ -544,7 +541,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(66) Āyāngwāmisin, kägu’ ānwä‘tawici‘kän.” “Ōᵘⁿ,</span>
 
-<span class="l-fiero">**Ayaangwaamizin, gego aanwedawishiken(8).”(xxii)**</span>
+<span class="l-fiero">**Ayaangwaamizin, gego aanwedawishiken.”**</span>
 
 <span class="l-eng">*Take pains, do not fail to follow my words.”*</span>
 
@@ -584,7 +581,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(71) Cigwasa’ kā‘kīci∙ā∙t, “Mī∙i∙ᵘ iciwâbạndisun, ugickimạnizī,” udinān.</span>
 
-<span class="l-fiero">**Zhigwa sa gaagiizhi’aad, “mii iw izhi-waabandizon,(xxiii) ogiishkimanisii,” odinaan.**</span>
+<span class="l-fiero">**Zhigwa sa gaagiizhi’aad, “mii iw izhi-waabandizon, ogiishkimanisii,” odinaan.**</span>
 
 <span class="l-eng">*When he was done with him, “Now look at yourself, Kingfisher,” he said to him.*</span>
 
@@ -592,19 +589,19 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(72) Mīsa’ gägä‘t äjiwâbạndisut, gägä‘t picigänimu ‘aᵉa’ᵘ ugīckimạnisī.</span>
 
-<span class="l-fiero">**Mii sa geget ezhi-waabandizod, geget bishigenimo a’aw giishkimanisii.**</span>
+<span class="l-fiero">**Mii sa geget ezhi-waabandizod, geget bishigenimo a’aw ogiishkimanisii.**</span>
 
 <span class="l-eng">*It was true that when he looked at himself, really proud was the Kingfisher.*</span>
 
-<span class="l-gloss">Mii sa geget ezhi-waabandizod (and truly, when he looked at himself), geget bishigenimo a’aw giishkimanisii (the kingfisher was indeed proud).</span>
+<span class="l-gloss">Mii sa geget ezhi-waabandizod (and truly, when he looked at himself), geget bishigenimo a’aw ogiishkimanisii (the kingfisher was indeed proud).</span>
 
 <span class="l-orig">(73) “Mīsa’ iᵘ kä∙i∙cināgusiyạn tci∙ạ∙ni∙a∙‘kīwạnk,” i‘kido Nänabucu.</span>
 
-<span class="l-fiero">**“Mii sa iw ge-zhinaagoziyan ji-ani-akiiwang,”(xxiv) ikido Nenabosho.**</span>
+<span class="l-fiero">**“Mii sa iw ge-izhinaagoziyan ji-ani-akiiwang,” ikido Nenabosho.**</span>
 
 <span class="l-eng">*“And this is the way you shall look till the end of the world,” said Nänabushu.*</span>
 
-<span class="l-gloss">“Mii sa iw ge-zhinaagoziyan ji-ani-akiiwang,” ikido Nenabosho (“and this is how you shall look to the end of the world,” said Nenabosho).</span>
+<span class="l-gloss">“Mii sa iw ge-izhinaagoziyan ji-ani-akiiwang,” ikido Nenabosho (“and this is how you shall look to the end of the world,” said Nenabosho).</span>
 
 <span class="l-orig">(74) Mīsa’ Nänabucu äjimādcāt, nīsātciwạn icāt. Päcugu</span>
 
@@ -672,7 +669,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(82) Wâwīngä kā‘kīci‘tōt, cigwa tibi‘kạdini.</span>
 
-<span class="l-fiero">**Waawiinge(xxv) gaa-giizhitood, zhigwa dibikadini.**</span>
+<span class="l-fiero">**Waawiinge gaa-giizhitood, zhigwa dibikadini.**</span>
 
 <span class="l-eng">*When all his work was entirely done, by that time it was night.*</span>
 
@@ -696,7 +693,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(85) Cigwa pī∙i∙cpạgōtcinōn īni’ᵘ kisîsōn, owâbạndān kagicibātciwạninik ‘iᵉi’ᵘ sāga∙i∙gạn.</span>
 
-<span class="l-fiero">**Zhigwa bii-ishpagoojinoon iiniw giizisoon, owaabandaan gagiizhibaajiwaninig(xxvi) i’iw zaaga’igan.**</span>
+<span class="l-fiero">**Zhigwa bii-ishpagoojinoon iiniw giizisoon, owaabandaan gagiizhibaajiwaninig i’iw zaaga’igan.**</span>
 
 <span class="l-eng">*When high the sun was risen, he beheld moving circles upon the water of the lake.*</span>
 
@@ -704,11 +701,11 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(86) Ni‘tạm omaka‘kīn mōckạmowan, kayägu ạnōtcigu i∙i∙wisa mạnidōᵉ, ka‘kina awiya mīgu ‘iᵉi’ᵘ pämīcạgwā‘tānit ‘iᵉi’mā minisinatāwạngānik.</span>
 
-<span class="l-fiero">**Nitam omakakiin mooshkamowan, gaye go anooj igo i’iw isa manidoo, gakina  awiya mii go i’iw bemizh[i]gwaadaanid i’imaa minisinadaawangaanig.**</span>
+<span class="l-fiero">**Nitam omakakiin mooshkamowan, gaye go anooj igo i’iw isa manidoo, gakina  awiya mii go i’iw bemizhagwaadaanid i’imaa minisinadaawangaanig.**</span>
 
 <span class="l-eng">*First a toad came up to the surface, and then the various manitous, every living being then came forth from the water out upon that island of sand.*</span>
 
-<span class="l-gloss">Nitam omakakiin mooshkamowan (first a toad came to the surface), gaye go anooj igo i’iw isa manidoo (and then the various manitous), gakina awiya mii go i’iw bemizhgwaadaanid i’imaa minisinadaawangaanig (every being came forth out upon that sandy island).</span>
+<span class="l-gloss">Nitam omakakiin mooshkamowan (first a toad came to the surface), gaye go anooj igo i’iw isa manidoo (and then the various manitous), gakina awiya mii go i’iw bemizhagwaadaanid i’imaa minisinadaawangaanig (every being came forth out upon that sandy island).</span>
 
 <span class="l-orig">(87) Mīgu iᵘ piminibānit ānint.</span>
 
@@ -744,7 +741,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(91) Inābit Nänabucu, pạnägu kāwāsātigusänik.</span>
 
-<span class="l-fiero">**Inaabid Nenabosho, pane go gaawaasaadigosenig.(xxvii)**</span>
+<span class="l-fiero">**Inaabid Nenabosho, pane go gaawaasaadigosenig.**</span>
 
 <span class="l-eng">*While Nänabushu was looking, everywhere was there splashing of water.*</span>
 
@@ -760,7 +757,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(93) minditōwạn, pinābiwạn, mạdwägīgitōwạn: “Nänabucu awäti kānībawit, asātīsạgunk kī∙i∙cināgu∙u∙.”</span>
 
-<span class="l-fiero">**Geget mindidoowan, bi-naabiwan madwe-giigidoowan: “Nenabosho awedi gaa-niibawid, azaadiisagong gii-izhinaago’o.”(xxviii)**</span>
+<span class="l-fiero">**Geget mindidoowan, bi-naabiwan madwe-giigidoowan: “Nenabosho awedi gaa-niibawid, azaadiisagong gii-izhinaago’o.”**</span>
 
 <span class="l-eng">*Truly big was he, hitherward he looked as he came. He could be heard saying: “Nänabushu is the one standing yonder, the form of a poplar has he taken.”*</span>
 
@@ -768,7 +765,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(94) Ānintigu mạdwägīgitōwaᵉ: “Kaya‘t ayābạn ‘aᵉa’ᵘ ạsātīsạg.”</span>
 
-<span class="l-fiero">**Aanind igo madwe-giigidoowag: “Gayad(xxix) ayaaban a’aw azaadiisag.”**</span>
+<span class="l-fiero">**Aanind igo madwe-giigidoowag: “Gayad ayaaban a’aw azaadiisag.”**</span>
 
 <span class="l-eng">*And some could be heard saying: “Long since has that poplar been there.”*</span>
 
@@ -832,7 +829,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(102) Mīsa’ kāwīn täbwä∙ạ∙ndạⁿzī ‘aᵉa’ᵘ ugimā.</span>
 
-<span class="l-fiero">**Mii sa gaawiin debwe’andazii(xxxi) a’aw ogimaa.**</span>
+<span class="l-fiero">**Mii sa gaawiin debwe’andazii a’aw ogimaa.**</span>
 
 <span class="l-eng">*But the chief did not believe (what the Serpent said).*</span>
 
@@ -864,7 +861,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(106) Wībạgu upōni∙i∙gōn, änijimādcānit.</span>
 
-<span class="l-fiero">**Wiiba go obooni’igoon,(xxxii) eni-zhi-maajaanid.**</span>
+<span class="l-fiero">**Wiiba go obooni’igoon, eni-zhi-maajaanid.**</span>
 
 <span class="l-eng">*And in a little while he was let alone, then away started (the Bear).*</span>
 
@@ -928,7 +925,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(114) Nimināwä‘kī∙u∙ äji∙ō∙dōti‘tạnk i∙i∙mā äntạcinibānit.</span>
 
-<span class="l-fiero">**Niminaawekii’o(10) ezhi-oodoodidang i’imaa endazhi-nibaanid.**</span>
+<span class="l-fiero">**Niminaawekii’o ezhi-oodoodidang i’imaa endazhi-nibaanid.**</span>
 
 <span class="l-eng">*he poled it along as he went over to where they were asleep.*</span>
 
@@ -952,7 +949,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(117) Ā‘pidci wācä‘pīnit upimwān.</span>
 
-<span class="l-fiero">**Aapiji waa-zhebiinid* obimwaan.**</span>
+<span class="l-fiero">**Aapiji waa-zhebiinid obimwaan.**</span>
 
 <span class="l-eng">*Squarely in the side he shot him.*</span>
 
@@ -976,11 +973,11 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(120) Käyābi päjik udaiyān ‘iᵉi’ᵘ upikwa‘k äjimạmōt.</span>
 
-<span class="l-fiero">**Geyaabi bezhig odayaan i’iw bikwak ezhi-mamood.**</span>
+<span class="l-fiero">**Geyaabi bezhig odayaan i’iw obikwak ezhi-mamood.**</span>
 
 <span class="l-eng">*He had yet one other arrow, which he took.*</span>
 
-<span class="l-gloss">Geyaabi bezhig odayaan i’iw bikwak ezhi-mamood (he still had one other arrow, which he took).</span>
+<span class="l-gloss">Geyaabi bezhig odayaan i’iw obikwak ezhi-mamood (he still had one other arrow, which he took).</span>
 
 <span class="l-orig">(121) Mīdạc i∙i∙mā pitcīnạg ạtcinā‘täcininit, äcipimwāt.</span>
 
@@ -1000,7 +997,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(123) Ā‘tawā, ki‘tcibāwi‘tigōwạnini, ạgāwāgu odōdi‘tān iᵘ udānusāgạn.</span>
 
-<span class="l-fiero">**Aatawaa gichi-baawitigoowanini,(xxxiii) agaawaa go odooditaan iw odaanosaagan.**</span>
+<span class="l-fiero">**Aatawaa gichi-baawitigoowanini, agaawaa go odooditaan iw odaanosaagan.**</span>
 
 <span class="l-eng">*Oh! but there was a mighty rushing of water, and barely did he reach his raft.*</span>
 
@@ -1008,7 +1005,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(124) Mīsạgu iᵘ cigwa ạnini‘kibīnik ‘iᵉi’ᵘ sāgaigạn kayä iᵘ wạdciwạn.</span>
 
-<span class="l-fiero">**Mii sa go iw zhigwa ani-nikibiinig(xxxiv) i’iw zaaga’igan gaye iw wajiwan.**</span>
+<span class="l-fiero">**Mii sa go iw zhigwa ani-nikibiinig i’iw zaaga’igan gaye iw wajiwan.**</span>
 
 <span class="l-eng">*Thereupon then under water went lake and mountain, one after the other.*</span>
 
@@ -1040,7 +1037,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-orig">(128) nä‘kibīnit ‘iᵉi’ᵘ mi‘tigōᵉ, mī∙ạ∙‘pī äcinōgimōcka∙ạ∙ninik.</span>
 
-<span class="l-fiero">**Gwej igo nekibiinid i’iw mitigoo mii apii ezhi-noogi-mooshka’aninig.(xxxv)**</span>
+<span class="l-fiero">**Gwej igo nekibiinid i’iw mitigoo mii apii ezhi-noogi-mooshka’aninig.**</span>
 
 <span class="l-eng">*And as the trees were about to disappear under the flood, then was when the water ceased rising.*</span>
 
@@ -1074,9 +1071,7 @@ Ambe sa noo (please now), gego ishkwaa pagidooken i’iw mitigoons ziibiinsing (
 
 <span class="l-gloss">(5) From the fibre (flag reed). Jones vol. 1, p. 254.</span>
 
-<span class="l-gloss">(6) Shadow and soul are associated as the same thing (Jones, p.255).</span>
-
-<span class="l-gloss">(7) Could not locate the word aanwedaw but found aawetaw vta recognize s.o. by sound, identify s.o. by sound (Nichols and Nyholm 1995, p.19).</span>
+<span class="l-gloss">(6) Shadow and soul are associated as the same thing.</span>
 
 (8) Willed by Nänabushu.
 

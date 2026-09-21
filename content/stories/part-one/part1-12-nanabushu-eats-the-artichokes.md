@@ -2,7 +2,6 @@
 title: "12. Nanabushu Eats the Artichokes"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -43,11 +42,11 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(4) “Ānīc äni‘kāgäyäg ‘iᵉi’wisa nībiwa ạmugōyäg?”</span>
 
-<span class="l-fiero">**“Aaniish enikaageyeg i’i’w isa niibiwa amogooyeg?”**</span>
+<span class="l-fiero">**“Aaniish enikaageyeg i’iw isa niibiwa amogooyeg?”**</span>
 
 <span class="l-eng">*“What is your effect upon one after a great deal of you has been eaten?”*</span>
 
-<span class="l-gloss">“Aaniish enikaageyeg (“what effect do you have) i’i’w isa niibiwa amogooyeg?” (when a great deal of you has been eaten?”)</span>
+<span class="l-gloss">“Aaniish enikaageyeg (“what effect do you have) i’iw isa niibiwa amogooyeg?” (when a great deal of you has been eaten?”)</span>
 
 <span class="l-orig">(5) “Kāwīnsa winigu kägō nintini‘kāgäsīmin. Mīsa yä‘tagu ‘iᵉi’ᵘ pōgisi‘kāgäyānk.”</span>
 
@@ -59,19 +58,19 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(6) Mīdạc kā∙i∙ci∙ạ∙mwāt, ānīc ugī∙i∙gōᵉ i∙i∙ᵘ amuntwā; pāmā kā‘tä∙ạ∙mwāt ugī‘pōni∙ā∙ᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-amwaad, aaniish ogii-igoo’ I’iw amondwaa; baamaa gaa-de-amwaad ogii-pooni’aaw.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-amwaad, aaniish ogii-igoo’ i’iw amondwaa; baamaa gaa-de-amwaad ogii-pooni’aa’.**</span>
 
 <span class="l-eng">*Thereupon he ate them, for he was told that they were good to eat ; not till he had had his fill of them did he leave them alone.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-amwaad (thereupon he ate them), aaniish ogii-igoo’ (for he was told) i’iw amondwaa (that they were eaten); baamaa gaa-de-amwaad (not until he had eaten his fill of them) ogii-pooni’aaw (did he leave them alone).</span>
+<span class="l-gloss">Mii dash gaa-izhi-amwaad (thereupon he ate them), aaniish ogii-igoo’ (for he was told) i’iw amondwaa (that they were eaten); baamaa gaa-de-amwaad (not until he had eaten his fill of them) ogii-pooni’aa’ (did he leave them alone).</span>
 
 <span class="l-orig">(7) “Kägätsa kīwīngipugusîm,” ugī∙i∙nāᵉ.</span>
 
-<span class="l-fiero">**“Geget sa gii-wiingipogosiim,” ogii-naa.’**</span>
+<span class="l-fiero">**“Geget sa gii-wiingipogosiim,” ogii-inaa’.**</span>
 
 <span class="l-eng">*“Truly a pleasing taste you have,” he said to them.*</span>
 
-<span class="l-gloss">“Geget sa gii-wiingipogosiim,” (“truly you have a pleasing taste,”) ogii-naa.’ (he said to them).</span>
+<span class="l-gloss">“Geget sa gii-wiingipogosiim,” (“truly you have a pleasing taste,”) ogii-inaa’ (he said to them).</span>
 
 <span class="l-orig">(8) Mīdạc a‘pī∙a∙nimāmādcāt.</span>
 
@@ -83,11 +82,11 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(9) Ningutingigu ạnipạpimusät pāmāgu tātānāming, “Pōⁿᵉ!” inwänit. Äcimādcīpa‘tōt,</span>
 
-<span class="l-fiero">**Ningoding igo ani-babimosed baamaa go daadaanaaming, “Boo’!” inwenid ezhi-maajiipatood,**</span>
+<span class="l-fiero">**Ningoding igo ani-babimosed baamaa go daadaanaaming, “Boo’!” inwenid ezhi-maajiibatood,**</span>
 
 <span class="l-eng">*Now, once as he was travelling along, of a sudden at the rear, “Po!” came a sound. As he started running,*</span>
 
-<span class="l-gloss">Ningoding igo (now once) ani-babimosed (as he was walking along) baamaa go daadaanaaming (suddenly from behind him), “Boo’!” inwenid (“Po!” something sounded), ezhi-maajiipatood (then he started running),</span>
+<span class="l-gloss">Ningoding igo (now once) ani-babimosed (as he was walking along) baamaa go daadaanaaming (suddenly from behind him), “Boo’!” inwenid (“Po!” something sounded), ezhi-maajiibatood (then he started running),</span>
 
 <span class="l-orig">(10) “Awänän kā∙i∙nwät?” kī∙i∙nändạm.</span>
 
@@ -135,7 +134,7 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-eng">*Just as he was about to slacken his speed, then suddenly again, “Po!” was the sound something made.*</span>
 
-<span class="l-gloss">Gwejikoko eninanaawajised (just as he was about to slacken his speed — *stem flagged*) baamaa go miinawaa (then suddenly again), “poonh’!” enwenid (“Po!” something sounded).</span>
+<span class="l-gloss">Gwejikoko eninanaawajised (just as he was about to slacken his speed) baamaa go miinawaa (then suddenly again), “poonh’!” enwenid (“Po!” something sounded).</span>
 
 <span class="l-orig">(16) Mīsa’ sägisit. “Ạmbäsạnō, ninga∙ā∙‘kạmawā ‘aᵉa’ᵘ kā∙i∙nwät,” kī∙i∙nändạm.</span>
 
@@ -163,11 +162,11 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(19) Mīsa’ untcita änwänit. “Pōⁿᵉ!” Äcipạsiguntcisät.</span>
 
-<span class="l-fiero">**Mii sa onjida enwenid, “poonh’!’ ezhi-bazigonjised.**</span>
+<span class="l-fiero">**Mii sa onjida enwenid, “poonh’!” ezhi-bazigonjised.**</span>
 
 <span class="l-eng">*And as before, it uttered the same “Po!” Then up he leaped to his feet.*</span>
 
-<span class="l-gloss">Mii sa onjida enwenid (and as before, the same it sounded), “poonh’!’ ezhi-bazigonjised (“Po!” then up he sprang to his feet).</span>
+<span class="l-gloss">Mii sa onjida enwenid (and as before, the same it sounded), “poonh’!” ezhi-bazigonjised (“Po!” then up he sprang to his feet).</span>
 
 <span class="l-orig">(20) “Tabā‘pinisiwāgạn, awänäc waᵉa’ᵘ päminica∙o∙gwän! Kä‘tcimạnitōwigwän,” kī∙i∙nändạm äcimādcīpa‘tōt kiˢtci∙ä∙nigu‘k.</span>
 

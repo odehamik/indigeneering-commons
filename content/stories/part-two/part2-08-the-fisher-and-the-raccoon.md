@@ -2,7 +2,6 @@
 title: "8. The fisher and the raccoon"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,7 +18,7 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Ningudingsa’ udcīg mạdāpi sāga∙i∙gạnīng uskābānädinini.</span>
+<span class="l-orig">(1) Ningudingisa’ udcīg mạdāpi sāga∙i∙gạnīng uskābānädinini.</span>
 
 <span class="l-fiero">**Ningoding sa ojiig madaabii zaaga’iganiing oskaabaanedinini.**</span>
 
@@ -39,17 +38,17 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-fiero">**Inaabid awiiya owaabamaan bimibatoonid, mii dash enwenid, “Tank, tank, tank, tank!”**</span>
 
-<span class="l-eng">*As he looked, he saw somebody who was running across, and who was making that sound, “Tạnk, tạnk, tạnk, tạnk!”*</span>
+<span class="l-eng">*As he looked, he saw somebody who was running across, and who was making the sound, “Tạnk, tạnk, tạnk, tạnk!”*</span>
 
 <span class="l-gloss">Inaabid (as he looked) awiiya owaabamaan (he saw somebody) bimibatoonid (who was running along), mii dash enwenid (and who was making the sound), “Tank, tank, tank, tank!” (“Tank, tank, tank, tank!”).</span>
 
 <span class="l-orig">(4) “Îctäyā, nīdcī! Ondās, pījān!”</span>
 
-<span class="l-fiero">**“Ishtenyaa, niijii! Ondaas, biizhaan!”**</span>
+<span class="l-fiero">**“Ishteyaa*, niijii! Ondaas, biizhaan!”**</span>
 
 <span class="l-eng">*“Oh, (I) say, my friend! Hither, come here!”*</span>
 
-<span class="l-gloss">“Ishtenyaa, niijii! (“well now, my friend!) Ondaas, biizhaan!” (come over here, come!”)</span>
+<span class="l-gloss">“Ishteyaa*, niijii! (“well now, my friend!) Ondaas, biizhaan!” (come over here, come!”)</span>
 
 <span class="l-orig">(5) Mīdạc kījipījānit äsipạnạn. Mēdạc pā∙i∙nwänit, “Tạnk, tạnk, tạnk, tạnk!”</span>
 
@@ -59,7 +58,7 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-gloss">Mii dash gii-izhi-biizhaanid esibanan (thereupon a Raccoon came over). Mii dash baa-inwenid (and he came going about making the sound), “Tank, tank, tank, tank!” (“Tank, tank, tank, tank!”)</span>
 
-<span class="l-orig">(6) “Wägunän ’igi’u kā∙i∙nwäg?”</span>
+<span class="l-orig">(6) “Wägunän ‘iᵉi´ᵘ kā∙i∙nwäg?”</span>
 
 <span class="l-fiero">**“Wegonen i’iw gaa-inweg?”**</span>
 
@@ -67,27 +66,27 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-gloss">“Wegonen i’iw gaa-inweg?” (“what is that noise?”)</span>
 
-<span class="l-orig">(7) “Kāa, ningīpạgujwā, ningīpạgujwā nîndī, mēdạc nînạgic kīsāgāpīgiskāg!</span>
+<span class="l-orig">(7) “Kāᵘ, ningīpạgujwā, ningīpạgujwā nîndī, mēdạc nînạgic kīsāgāpīgiskāg!</span>
 
-<span class="l-fiero">**Gaa, ningii-bagozhwe, ningii-bagozhwe nindii, mii dash ninagizh gii-zaagaabiigiskaag!**</span>
+<span class="l-fiero">**Gaa, ningii-bagozhwe, ningii-bagozhwe nindii, mii dash ninagizh gii-zaagaabiigishkaag*!**</span>
 
 <span class="l-eng">*“Oh, I have cut it open, I have cut open my anus, and therefore my entrails have fallen out into exposure!*</span>
 
-<span class="l-gloss">“Gaa, ningii-bagozhwe (“oh, I have cut myself open), ningii-bagozhwe nindii (I have cut open my anus), mii dash ninagizh gii-zaagaabiigiskaag! (and so my entrails have slid out into the open!)</span>
+<span class="l-gloss">“Gaa, ningii-bagozhwe (“oh, I have cut myself open), ningii-bagozhwe nindii (I have cut open my anus), mii dash ninagizh gii-zaagaabiigishkaag*! (and so my entrails have slid out into the open!)</span>
 
 <span class="l-orig">(8) Mīdạc mi‘kwạm imā ningī∙ạ∙sa, mī∙i∙dạc äjipimipa‘tōyān; mīdạc awä mi‘kwạm kā∙i∙jiodābānạg, mīdạc awä, ‘Tạnk, tạnk, tạnk, tạnk!’ kā∙i∙nwäwäcing.</span>
 
-<span class="l-fiero">**Mii dash mikwan imaa ningii-asaa, mii dash ezhi-bimibatooyaan; mii dash awe mikwam gaa-izhi-odaabaanag, mii dash awe “Tank, tank, tank, tank!” gaa-inweweshing.**</span>
+<span class="l-fiero">**Mii dash mikwam imaa ningii-asaa, mii dash ezhi-bimibatooyaan; mii dash awe mikwam gaa-izhi-odaabaanag, mii dash awe “Tank, tank, tank, tank!” gaa-inweweshing.**</span>
 
-<span class="l-eng">*And so I placed a piece of ice there (on the entrails)? whereupon I then started to run; and then as I dragged that piece of ice, accordingly, ‘Tạnk, tạnk, tạnk, tạnk!’ was the sound it made.*</span>
+<span class="l-eng">*And so I placed a piece of ice there (on the entrails), whereupon I then started to run; and then as I dragged that piece of ice, accordingly, ‘Tạnk, tạnk, tạnk, tạnk!’ was the sound it made.*</span>
 
 <span class="l-gloss">Mii dash mikwam imaa ningii-asaa (and so I put a piece of ice there), mii dash ezhi-bimibatooyaan (whereupon I started running along); mii dash awe mikwam gaa-izhi-odaabaanag (and so that ice, when I dragged it), mii dash awe “Tank, tank, tank, tank!” gaa-inweweshing (that was the sound it made by being dragged).</span>
 
-<span class="l-orig">(9) Nạckä! Kayägīn ’igi’u tōdạn!” Mīdạc kīmādcāt äsipan.</span>
+<span class="l-orig">(9) Nạckä! Kayägīn ‘iᵉi´ᵘ tōdạn!” Mīdạc kīmādcāt äsipan.</span>
 
 <span class="l-fiero">**Nashke! Gaye giin i’iw doodan!” Mii dash gii-maajaad esiban.**</span>
 
-<span class="l-eng">*Now, come! the same thing go you!” Whereuppon away started Raccoon.*</span>
+<span class="l-eng">*Now, come! the same thing do you!” Whereupon away started Raccoon.*</span>
 
 <span class="l-gloss">Nashke! (look here!) Gaye giin i’iw doodan!” (you do the same thing too!”) Mii dash gii-maajaad esiban (whereupon Raccoon started off).</span>
 
@@ -107,7 +106,7 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-gloss">Bangii idash ogii-wiikobidoon onagizh (and a small part of his entrails he pulled out).</span>
 
-<span class="l-orig">(12) Mī∙i∙dạc äjimādcād, mādcipạ‘tot; mī∙i∙dac pạngī nōndāgwạdinig “Tạnk, tạnk, tạnk, tạnk!”</span>
+<span class="l-orig">(12) Mī∙i∙dạc äjimādcād, mādcipạ‘tot; mī∙i∙dạc pạngī nōndāgwạdinig “Tạnk, tạnk, tạnk, tạnk!”</span>
 
 <span class="l-fiero">**Mii dash ezhi-maajaad, maajiibatood; mii dash bangii noondaagwadinig “Tạnk, tạnk, tạnk, tạnk!”**</span>
 
@@ -123,15 +122,15 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-gloss">Eshkam igo waasa odanitaan (farther and farther off he kept hearing it).</span>
 
-<span class="l-orig">(14) Ningudingigu kāwin ugaskitōsīn tcimādcād ’igi’u ka‘kina unạgec kīmādcāmạgadinig, ka‘kina unạgic.</span>
+<span class="l-orig">(14) Ningudingigu kāwin ugaskitōsīn tcimādcād ‘iᵉi´ᵘ ka‘kina unạgec kīmādcāmạgadinig, ka‘kina unạgic.</span>
 
-<span class="l-fiero">**Ningoding igo gaawiin ogaskitoosiin ji-maajaad i’iw gakina onagizh gii-maajaamagadinig, gakina onagizh.**</span>
+<span class="l-fiero">**Ningoding igo gaawiin ogashkitoosiin ji-maajaad i’iw gakina onagizh gii-maajaamagadinig, gakina onagizh.**</span>
 
-<span class="l-eng">*And presently not was able to go, for all his entrails began spilling out, all his entrails.*</span>
+<span class="l-eng">*And presently not was he able to go, for all his entrails began spilling out, all his entrails.*</span>
 
-<span class="l-gloss">Ningoding igo gaawiin ogaskitoosiin (and presently he was not able) ji-maajaad (to go on) i’iw gakina onagizh gii-maajaamagadinig (because all his entrails had started coming out), gakina onagizh (all his entrails).</span>
+<span class="l-gloss">Ningoding igo gaawiin ogashkitoosiin (and presently he was not able) ji-maajaad (to go on) i’iw gakina onagizh gii-maajaamagadinig (because all his entrails had started coming out), gakina onagizh (all his entrails).</span>
 
-<span class="l-orig">(15) Mēdạc kā∙i∙jipa‘kibi‘tōd, mē∙i∙dạc kīmạdcạd.</span>
+<span class="l-orig">(15) Mēdạc kā∙i∙jipa‘kibi‘tōd, mē∙i∙dạc kīmādcād.</span>
 
 <span class="l-fiero">**Mii dash gaa-izhi-bakibidood, mii dash gii-maajaad.**</span>
 
@@ -163,7 +162,7 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-gloss">Mii dash enaad (whereupon he said to him):</span>
 
-<span class="l-orig">(19) “Kīnîna kāwâbạminạn sāga∙i∙gāning?”</span>
+<span class="l-orig">(19) “Kīnîna kāwâbạminạn sāga∙i∙gạning?”</span>
 
 <span class="l-fiero">**“Giin ina gaa-waabaminan zaaga’iganiing?”**</span>
 
@@ -183,7 +182,7 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-fiero">**“Geget giin gosha!”**</span>
 
-<span class="l-eng">*“Indeed you surely are!”*</span>
+<span class="l-eng">*“Indeed, you surely are!”*</span>
 
 <span class="l-gloss">“Geget giin gosha!” (“indeed you surely are!”)</span>
 
@@ -199,7 +198,7 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-fiero">**Apii dash gaa-nisaad wewiib ogii-bagojiinaan.**</span>
 
-<span class="l-eng">*And when he had slain him quickly he cut him open.*</span>
+<span class="l-eng">*And when he had slain him, quickly he cut him open.*</span>
 
 <span class="l-gloss">Apii dash gaa-nisaad (and when he had killed him) wewiib ogii-bagojiinaan (quickly he cut him open).</span>
 
@@ -211,15 +210,15 @@ THE FISHER AND THE RACCOON.
 
 <span class="l-gloss">Megwaa dash giizhidenig esiban-onagizh (and while Raccoon’s entrails were still warm), ojiig ogii-biina’aan odiiyaang (Fisher put them inside his own anus).</span>
 
-<span class="l-orig">(25) Mīdac wīn ’igi’u kā∙u∙nagijīd ’agau udcīg. Kayädạc ugī∙ạ∙mwān īni’ äsibạnạn.</span>
+<span class="l-orig">(25) Mīdac wīn ‘iᵉi´ⁿ kā∙u∙nagijīd ‘aᵉaᵘ udcīg. Kayädạc ugī∙ạ∙mwān īni’ äsibạnạn.</span>
 
 <span class="l-fiero">**Mii dash wiin i’iw gaa-onagizhiid a’aw ojiig. Gaye dash ogii-amwaan iniw esibanan.**</span>
 
-<span class="l-eng">*And this was haw Fisher got his entrails back again. And likewise he ate up Raccoon.*</span>
+<span class="l-eng">*And this was how Fisher got his entrails back again. And likewise he ate up Raccoon.*</span>
 
 <span class="l-gloss">Mii dash wiin i’iw gaa-onagizhiid a’aw ojiig (and this was how that Fisher got his entrails back). Gaye dash ogii-amwaan iniw esibanan (and likewise he ate up that Raccoon).</span>
 
-<span class="l-orig">(26) Misai ä‘kōsit.</span>
+<span class="l-orig">(26) Misaⁱ ä‘kōsit.</span>
 
 <span class="l-fiero">**Mii sa ekoozid.**</span>
 

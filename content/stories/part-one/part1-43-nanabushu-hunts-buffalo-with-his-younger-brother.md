@@ -2,7 +2,6 @@
 title: "43. Nanabushu Hunts Buffalo with his Younger Brother"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -21,67 +20,63 @@ Nänabushu Hunts Buffalo with his Younger Brother
 
 <span class="l-orig">(1) Ạnipạpimusä kīwäⁿ Nänabucu; mägwāgu kīwä papimusät ogīwâbạndān sībawāsäyā‘kwānig. Awägwāgi, kīwäⁿ päpā‘ku∙ạ∙nk, awägwāgi kīwä ‘iᵉi´ᵘ a‘ki kagwānisạgiunicicinini. “Mīsa o mackutä,” i‘kitu kīwäⁿ. Ucädināni kīwäⁿ imā kwaya‘k äjāt. Wädi‘tạnk kīⁿwäⁿ imā ucädinānik nānībawit imā. Mīgu kīwäⁿ iᵘ äjināgwatinik ucädinānik mini‘k tayäbābandạnk. Ānīc, mīsa papimusät, ạnisāsāgạtciwät, anicinābän kīwäⁿ kīpimusäwạn; ayāgwa‘kiba‘tōgwänītug āgwāskawāt. Sāgạtciwät kīwäⁿ, ā‘pidci kīwäⁿ umägwāskawān.</span>
 
-<span class="l-fiero">**Ani-babimose giiwenh Nanabozho; megwaa go giiwenh babimosed ogii-waabandaan zhiibawaasiyaakwaninig. Aawegwen go giiwenh baapaa*ku’ank*, aawegwen go giiwenh i’iw aki *gagwaanisagiinizhizhininig*. “Mii sa o mashkode,” ikido giiwenh. *Wajidinaani* giiwenh imaa gwayak ezhaad. Waa-ditang giiwenh imaa *wajidinaanig* naanibawid imaa. Mii go giiwenh iw ezhinaagwadinig *wajidinaanig* minik *dayebaabandang*. Aaniish, mii sa babimosed, ani-zaasaagajiwed, anizhinaaben giiwenh gii-bimosewan; *ayaagwa’kibatoogwenidog* agwaaskawaad. Zaagajiwed giiwenh, aapiji giiwenh omagwaaskawaan.**</span>
+<span class="l-fiero">**Ani-babimose giiwenh Nanabozho; megwaa go giiwenh babimosed ogii-waabandaan zhiibawaasiyaakwaninig. Aawegwen go giiwenh *bebaako’ang*, aawegwen go giiwenh i’iw aki *gagwaanisagiinizhizhininig*. “Mii sa o mashkode,” ikido giiwenh. *Ozhedinaani* giiwenh imaa gwayak ezhaad. *Weditang* giiwenh imaa *ozhedinaanig* naanibawid imaa. Mii go giiwenh iw ezhinaagwadinig *ozhedinaanig* minik *dayebaabandang*. Aaniish, mii sa babimosed, ani-zaasaagajiwed, anizhinaaben giiwenh gii-bimosewan; *ayaagwa’kibatoogwenidog* agwaaskawaad. Zaagajiwed giiwenh, aapiji giiwenh *omegwaaskawaan*.**</span>
 
 <span class="l-eng">*On his way, they say, was Nänabushu walking; and it is said that while walking about he beheld a vista opening out through the trees beyond. Really, so the story goes, when he broke through into the open, why, they say (what he saw) was a country marvellously beautiful. “This is a plain,” he said, so goes the story. A ridge of high land, they say, lay exactly in the direction he was bound. When he got there, it is said that yonder on the ridge he stood for a long while. Indeed, according to the story, there could be seen ridge (after ridge) as far as he could see. Well, it was while walking along, as he went up the hills and down again, (that he saw) a man, so it is said, walking hitherward; he then must have run round to head him off, when he intercepted him. When he came out upon the summit, they say right there he met him.*</span>
 
-<span class="l-gloss">Ani-babimose giiwenh Nanabozho (Nanabozho was walking along, they say) ∙ megwaa go giiwenh babimosed (while he walked about) ∙ ogii-waabandaan zhiibawaasiyaakwaninig (he saw an opening through the trees ahead) ∙ aawegwen go giiwenh i’iw aki gagwaanisagiinizhizhininig (the country, they say, was marvellously beautiful) ∙ “mii sa o mashkode,” ikido giiwenh (“this is a plain,” he said) ∙ wajidinaani giiwenh imaa gwayak ezhaad (a ridge lay just where he was bound) ∙ waa-ditang giiwenh imaa wajidinaanig naanibawid (when he got there, on the ridge he stood) ∙ mii go giiwenh iw ezhinaagwadinig wajidinaanig minik dayebaabandang (so ridge after ridge could be seen as far as he could see) ∙ aaniish, mii sa babimosed (well, so as he walked along) ∙ ani-zaasaagajiwed (going up and down the hills) ∙ anizhinaaben giiwenh gii-bimosewan (a man, they say, was walking hither) ∙ ayaagwa’kibatoogwenidog agwaaskawaad (he must have run round to head him off) ∙ zaagajiwed giiwenh aapiji giiwenh omagwaaskawaan (when he came out, he met him squarely).</span>
+<span class="l-gloss">Ani-babimose giiwenh Nanabozho (Nanabozho was walking along, they say) ∙ megwaa go giiwenh babimosed (while he walked about) ∙ ogii-waabandaan zhiibawaasiyaakwaninig (he saw an opening through the trees ahead) ∙ aawegwen go giiwenh i’iw aki gagwaanisagiinizhizhininig (the country, they say, was marvellously beautiful) ∙ “mii sa o mashkode,” ikido giiwenh (“this is a plain,” he said) ∙ ozhedinaani giiwenh imaa gwayak ezhaad (a ridge lay just where he was bound) ∙ weditang giiwenh imaa ozhedinaanig naanibawid (when he got there, on the ridge he stood) ∙ mii go giiwenh iw ezhinaagwadinig ozhedinaanig minik dayebaabandang (so ridge after ridge could be seen as far as he could see) ∙ aaniish, mii sa babimosed (well, so as he walked along) ∙ ani-zaasaagajiwed (going up and down the hills) ∙ anizhinaaben giiwenh gii-bimosewan (a man, they say, was walking hither) ∙ ayaagwa’kibatoogwenidog agwaaskawaad (he must have run round to head him off) ∙ zaagajiwed giiwenh aapiji giiwenh omegwaaskawaan (when he came out, he met him squarely).</span>
 
 *B33 (2026-08-29) · ENGLISH RESTORED AT THE PAGE SEAM. The printed English ran on across the p.363→p.365 turn — “…when he intercepted him. When he came out upon the summit, they say right there he met him. Naturally, when (Nänabushu) was observed…” — and the record had dropped sixteen printed words at the break, so that §2 opened on a patched “(So Nänabushu) was observed.” The last printed sentence, which answers this section’s closing Sāgạtciwät kīwäⁿ, ā‘pidci kīwäⁿ umägwāskawān., is restored here and the remainder to §2; pixel-verified at the foot of p.363 and the head of p.365. ⚠️ The footnote this cell formerly carried (“The last word is supplied by the editor. See pp. 340, 341.”) is NOT this story’s: it belongs to No. 42’s closing on p.362 l.11 / p.363, verified at the page, and has been removed from here.*
 
 <span class="l-orig">(2) Ānīc weyābạmigut nōgigābawiwạn. Ānīc, mī∙i∙mā kī∙u∙disāt. Cayīgwa äjikanōnāt: “Päbā∙a∙ī∙nātisiyạn, nicīm.”</span>
 
-<span class="l-fiero">**Aaniish weyaabamigod *noogigaabawiwan*. Aaniish, mii imaa gii-odisaad. Zhigwa ezhi-ganoonaad: “Babaa-ayi’aanadizad|*Babaa’inaadizan*, nishiim.”**</span>
+<span class="l-fiero">**Aaniish weyaabamigod *noogigaabawiwan*. Aaniish, mii imaa gii-odisaad. Zhigwa ezhi-ganoonaad: “*Bebaa-ayi-naadiziyan*, nishiim.”**</span>
 
 <span class="l-eng">*Naturally, when (Nänabushu) was observed, then the other halted, standing in his place. Well, it was there that (Nänabushu) got to where he was. In a while he then spoke to him: “(So) you are journeying about, my little brother.”*</span>
 
-<span class="l-gloss">Aaniish weyaabamigod (when he was seen) ∙ noogigaabawiwan (the other halted, stood still) ∙ aaniish mii imaa gii-odisaad (so it was there he reached him) ∙ zhigwa ezhi-ganoonaad (then he spoke to him) ∙ “babaa’inaadizan, nishiim” (“you are journeying about, my younger brother”).</span>
-
-*B33 (2026-08-29) · A MANUFACTURED SPIRITUS, CORRECTED AT THE PAGE. p.364 l.2 at 26× prints Päbā∙a∙ī∙nātisiyạn — the third element is ī, its macron matching the two ā macrons in the same word — where the record read Päbā∙a∙‘i∙nātisiyạn, a preaspiration mark the press never set. Restored. English: this section’s opening “Naturally, when (Nänabushu) was observed” is restored from p.365 l.2 (see §1’s note).*
+<span class="l-gloss">Aaniish weyaabamigod (when he was seen) ∙ noogigaabawiwan (the other halted, stood still) ∙ aaniish mii imaa gii-odisaad (so it was there he reached him) ∙ zhigwa ezhi-ganoonaad (then he spoke to him) ∙ “bebaa-ayi-naadiziyan, nishiim” (“you are journeying about, my younger brother”).</span>
 
 <span class="l-orig">(3) “Äᵉ, Nänabucu, o∙o∙mā päcu´ minā‘kwā ayā, mī∙i∙mā äcāyān, ninda∙u∙piji‘kī‘kä.”</span>
 
-<span class="l-fiero">**“E’, Nanabozho, o’omaa beshogwa minaakwaa ayaa, mii imaa ezhaayaan, *ninda’obiji’kike|ninda-o-bizhikiike*.”**</span>
+<span class="l-fiero">**“E’, Nanabozho, o’omaa besho minaakwaa ayaa, mii imaa ezhaayaan, *ninda-o-bizhikiike*.”**</span>
 
 <span class="l-eng">*“Yes, Nänabushu, over here, near by, is a clump of trees (on the plains), and it is thither I am bound; I am hunting for buffalo.”*</span>
 
-<span class="l-gloss">“E’, Nanabozho (yes, Nanabozho) ∙ o’omaa beshogwa minaakwaa ayaa (over here, near by, is a clump of trees) ∙ mii imaa ezhaayaan (and it is there I am going) ∙ ninda-o-bizhikiike (I go hunting for buffalo)”.</span>
+<span class="l-gloss">“E’, Nanabozho (yes, Nanabozho) ∙ o’omaa besho minaakwaa ayaa (over here, near by, is a clump of trees) ∙ mii imaa ezhaayaan (and it is there I am going) ∙ ninda-o-bizhikiike (I go hunting for buffalo)”.</span>
 
 <span class="l-orig">(4) “Tä‘tiyä, nicīm, mīsa kayä nīn! Mī∙o∙mā päcu´ minā‘kwā ayā, mī∙i∙mā äwudacīpiji‘kīkäyān. Ānīc, nicīm, kīgataniwītcīwin. Pānimā iwiti nāgạtc kīgapa‘käwinin.” Äjikanōnigut: “‘Āᵘ, ạmbäsa, Nänabucu, mādcātā!”</span>
 
-<span class="l-fiero">**“Daa-diye, nishiim, mii sa gaye niin! Mii omaa beshogwa minaakwaa ayaa, mii imaa *ewa-dazhi-bizhikiikeyaan*. Aaniish, nishiim, gigad-ani-wiijiiwin. Baanimaa iwidi naagaj giga-bakewinin.” Ezhi-ganoonigod: “A’aw, ambe sa, Nanabozho, maajaataa!”**</span>
+<span class="l-fiero">**“*Detiye*, nishiim, mii sa gaye niin! Mii omaa besho minaakwaa ayaa, mii imaa *ewo-dazhi-bizhikiikeyaan*. Aaniish, nishiim, gigad-ani-wiijiiwin. Baanimaa iwidi naagaj giga-bakewinin.” Ezhi-ganoonigod: “A’aw, ambe sa, Nanabozho, maajaataa!”**</span>
 
 <span class="l-eng">*“Why, my little brother, so am I! Over here, not far away, is a clump of trees, and it is there where I am going for buffalo. Well, my little brother, I will go along with you. Not till at yonder place after a while will I part company from you.” Then he was addressed by the other saying: “All right, come along, Nänabushu! let us be going!”*</span>
 
-<span class="l-gloss">“Daa-diye, nishiim (why, my younger brother) ∙ mii sa gaye niin (so am I too) ∙ mii omaa beshogwa minaakwaa ayaa (over here, near by, is a clump of trees) ∙ mii imaa ewa-dazhi-bizhikiikeyaan (and it is there I am going for buffalo) ∙ aaniish, nishiim, gigad-ani-wiijiiwin (well, my younger brother, I will go along with you) ∙ baanimaa iwidi naagaj giga-bakewinin (not till yonder after a while will I part from you)” ∙ ezhi-ganoonigod (then he was spoken to) ∙ “a’aw, ambe sa, Nanabozho, maajaataa!” (“all right, come, Nanabozho, let us be going!”).</span>
+<span class="l-gloss">“Detiye, nishiim (why, my younger brother) ∙ mii sa gaye niin (so am I too) ∙ mii omaa besho minaakwaa ayaa (over here, near by, is a clump of trees) ∙ mii imaa ewo-dazhi-bizhikiikeyaan (and it is there I am going for buffalo) ∙ aaniish, nishiim, gigad-ani-wiijiiwin (well, my younger brother, I will go along with you) ∙ baanimaa iwidi naagaj giga-bakewinin (not till yonder after a while will I part from you)” ∙ ezhi-ganoonigod (then he was spoken to) ∙ “a’aw, ambe sa, Nanabozho, maajaataa!” (“all right, come, Nanabozho, let us be going!”).</span>
 
 <span class="l-orig">(5) Mīsa cigwa mādcāwāt. Kạgwānisa miˢtcāni kīwäⁿ wīskwaⁱ cayägwạnsonit; mīgu kīⁿwäⁿ imā pasānagitiyänit ti‘tibisänik. Sāgạtciwäwāt kīwäⁿ imā ucädinānik äjijagaskīnit. “Nänabucu, cayīgwa imā nīsā‘ki piji‘kiwạg pimāwạnitiwạg.”</span>
 
-<span class="l-fiero">**Mii sa zhigwa maajaawaad. Gagwaanisa michaani giiwenh *wiiskwai* zhayegwanzonid; mii go giiwenh imaa basaanagidiyenid ditibisenig. Zaagajiwewaad giiwenh imaa wajidinaanig ezhi-*zhagaskinid*. “Nanabozho, zhigwa imaa niisaakii bizhikiwag bimaawanidiwag.”**</span>
+<span class="l-fiero">**Mii sa zhigwa maajaawaad. Gagwaanisa michaani giiwenh *wiiskwai* zhayegwanzonid; mii go giiwenh imaa basaanagidiyenid ditibisenig. Zaagajiwewaad giiwenh imaa *ozhedinaanig* ezhi-*zhagaskinid*. “Nanabozho, zhigwa imaa niisaakii bizhikiwag bimaawanidiwag.”**</span>
 
 <span class="l-eng">*Thereupon then were they off. Amazingly big, they say, was the bladder (pouch) which the other had dangling from his belt; indeed, they say it tossed, whirling about over the top of his crotch at the back (as he walked along). When they came out upon the summit of the ridge, they say the other suddenly crouched down (to the ground). “Nänabushu, already yonder at the foot of the hill are the buffaloes trailing along.”*</span>
 
-<span class="l-gloss">Mii sa zhigwa maajaawaad (thereupon they set off) ∙ gagwaanisa michaani giiwenh wiiskwai zhayegwanzonid (amazingly big was the bladder-pouch he had hanging from his belt) ∙ mii go giiwenh imaa basaanagidiyenid ditibisenig (it whirled about over the top of his crotch at the back) ∙ zaagajiwewaad giiwenh imaa wajidinaanig ezhi-zhagaskinid (when they came out on the ridge he suddenly crouched down) ∙ “Nanabozho, zhigwa imaa niisaakii bizhikiwag bimaawanidiwag” (“Nanabozho, already at the foot of the hill the buffaloes are trailing along”).</span>
-
-*B33 (2026-08-29) · A MANUFACTURED APOSTROPHE, CORRECTED AT THE PAGE. p.364 l.9 at 26× prints miˢtcāni — the superior ˢ (both bowls of an s, raised beside the i-dot), then tc, macron over the ā — where the record read mis’cāni: a full-size s, an apostrophe, no t, no macron. The apostrophe is a letter here; it is the glottal stop. Four defects in one token, restored. Also p.364 l.10 prints pasānagitiyänit with no dot below the a, against p.368 l.20’s pasānạgitiyät which has one — per-token variation, both carried as printed.*
+<span class="l-gloss">Mii sa zhigwa maajaawaad (thereupon they set off) ∙ gagwaanisa michaani giiwenh wiiskwai zhayegwanzonid (amazingly big was the bladder-pouch he had hanging from his belt) ∙ mii go giiwenh imaa basaanagidiyenid ditibisenig (it whirled about over the top of his crotch at the back) ∙ zaagajiwewaad giiwenh imaa ozhedinaanig ezhi-zhagaskinid (when they came out on the ridge he suddenly crouched down) ∙ “Nanabozho, zhigwa imaa niisaakii bizhikiwag bimaawanidiwag” (“Nanabozho, already at the foot of the hill the buffaloes are trailing along”).</span>
 
 <span class="l-orig">(6) Äji∙a∙jäkīwäwāt, “Ningwis, päjiksạnā udā∙u∙bimwān īni´ᵘ piji‘kiwạn, kidānawatcīmin sạnā.”¹</span>
 
-<span class="l-fiero">**Ezhi-azhegiiwewaad, “Ningwis, bezhig sana oda-o-bimwaan ini’iw bizhikiwan, gidaanawajiimin sana.”**</span>
+<span class="l-fiero">**Ezhi-azhegiiwewaad, “Ningwis, bezhig sana oda-o-bimwaan iniw bizhikiwan, gidaanawajiimin sana.”**</span>
 
 <span class="l-eng">*When they turned about on their way back, “My son, now, one of you should shoot a buffalo, for then we can have something to eat.”¹*</span>
 
-<span class="l-gloss">Ezhi-azhegiiwewaad (when they turned back) ∙ “ningwis (my son) ∙ bezhig sana oda-o-bimwaan ini’iw bizhikiwan (one of you should go shoot a buffalo) ∙ gidaanawajiimin sana (then we will have something to eat)”.</span>
+<span class="l-gloss">Ezhi-azhegiiwewaad (when they turned back) ∙ “ningwis (my son) ∙ bezhig sana oda-o-bimwaan iniw bizhikiwan (one of you should go shoot a buffalo) ∙ gidaanawajiimin sana (then we will have something to eat)”.</span>
 
 *Jones’s footnote ¹, its marker on the Ojibwe p.364 l.14 (kidānawatcīmin sạnā.”¹) and on the facing English p.365 (“…have something to eat.”¹); the note is printed at the foot of p.365: “The stranger speaking to his sons in the “bladder.”” · B33 (2026-08-29): the marker was absent from both layers of the record and is restored.*
 
 <span class="l-orig">(7) Pānimāgu, kīⁿwäⁿ, wäntcisāgitcikwāskwạninit ininiwạn imā wīskwāng, a‘panä iwiti äni∙i∙jipasatinānig äni∙a∙‘pa‘tōnit. Pānimāgu, kīwäⁿ, iwiti acädinānig wäntcisāgạtciwäkwāskwạninit piji‘kiwạn, ucimunit.</span>
 
-<span class="l-fiero">**Baanimaa go, giiwenh, wenji-zaagijigwaashkwaninid ininiwan imaa wiiskwaang, apane iwidi *ani-izhi-basadinaanig* ani-izhi-babatoonid. Baanimaa go, giiwenh, iwidi *wajidinaanig* wenji-zaagajiwegwaashkwaninid bizhikiwan, *ozhimonid*.**</span>
+<span class="l-fiero">**Baanimaa go, giiwenh, wenji-zaagijigwaashkwaninid ininiwan imaa wiiskwaang, apane iwidi *ani-izhi-basadinaanig* ani-izhi-babatoonid. Baanimaa go, giiwenh, iwidi *azhedinaanig* wenji-zaagajiwegwaashkwaninid bizhikiwan, *ozhimonid*.**</span>
 
 <span class="l-eng">*Then suddenly, they say, out leaped a man from his place in the bladder (pouch), and away he went running down the slope into yonder valley. And all at once, they say, from over the top of yonder ridge came a buffalo along; it was in flight.*</span>
 
-<span class="l-gloss">Baanimaa go giiwenh wenji-zaagijigwaashkwaninid ininiwan imaa wiiskwaang (suddenly a man leaped out of the bladder) ∙ apane iwidi ani-izhi-basadinaanig ani-izhi-babatoonid (away he went running down into the valley) ∙ baanimaa go giiwenh iwidi wajidinaanig wenji-zaagajiwegwaashkwaninid bizhikiwan (all at once a buffalo leaped out over the ridge) ∙ ozhimonid (it was fleeing).</span>
+<span class="l-gloss">Baanimaa go giiwenh wenji-zaagijigwaashkwaninid ininiwan imaa wiiskwaang (suddenly a man leaped out of the bladder) ∙ apane iwidi ani-izhi-basadinaanig ani-izhi-babatoonid (away he went running down into the valley) ∙ baanimaa go giiwenh iwidi azhedinaanig wenji-zaagajiwegwaashkwaninid bizhikiwan (all at once a buffalo leaped out over the ridge) ∙ ozhimonid (it was fleeing).</span>
 
 <span class="l-orig">(8) “Ạmbäsa, Nänabucu, mādcātā!”</span>
 
@@ -91,39 +86,37 @@ Nänabushu Hunts Buffalo with his Younger Brother
 
 <span class="l-gloss">“Ambe sa, Nanabozho, maajaataa!” (“come, Nanabozho, let us be going!”).</span>
 
-*B33 (2026-08-29) · p.364 l.19 at 40× prints Ạmbäsa with a full-weight round dot below the A — the same weight as the ä diaeresis dots on the same word — where the record read Ambäsa. The dot-below is restored. Cf. §19 and §25, where the page moves the dot to the SECOND a (Ambäsạnō): the position varies per token and is never levelled.*
-
 <span class="l-orig">(9) Sāgạtciwäwāt kīⁿwäⁿ kīnībawiwạn īni´ᵘ ininiwạn; kīcingicinōn kīⁿwäⁿ īni´ᵘ piji‘kiwạn. Ānīc, mīsa kī∙u∙disāwāt imā.</span>
 
-<span class="l-fiero">**Zaagajiwewaad giiwenh gii-niibawiwan ini’iw ininiwan; gii-zhingishinon giiwenh ini’iw bizhikiwan. Aaniish, mii sa gii-odisaawaad imaa.**</span>
+<span class="l-fiero">**Zaagajiwewaad giiwenh gii-niibawiwan iniw ininiwan; gii-zhingishinon giiwenh iniw bizhikiwan. Aaniish, mii sa gii-odisaawaad imaa.**</span>
 
 <span class="l-eng">*When they came out upon the summit, they say, there stood the man; there lay, they say, the buffalo. Well, accordingly (he and Nänabushu) came to them over there.*</span>
 
-<span class="l-gloss">Zaagajiwewaad giiwenh gii-niibawiwan ini’iw ininiwan (when they came out, there stood the man) ∙ gii-zhingishinon giiwenh ini’iw bizhikiwan (there lay the buffalo) ∙ aaniish, mii sa gii-odisaawaad imaa (well, so they came to them there).</span>
+<span class="l-gloss">Zaagajiwewaad giiwenh gii-niibawiwan iniw ininiwan (when they came out, there stood the man) ∙ gii-zhingishinon giiwenh iniw bizhikiwan (there lay the buffalo) ∙ aaniish, mii sa gii-odisaawaad imaa (well, so they came to them there).</span>
 
 <span class="l-orig">(10) “‘Āᵘ, ambä ningwis, pīndigän o∙o∙mā.” Mīsa´ kīpīndigäkwāskunit imā wīskwāng, “Ānīc, Nänabuc, mīsa cigwa tciwīninutcigäyạng.” Mīgu iᵘ kīⁿwäⁿ wā∙i∙cimādandcigänit kīgaski.</span>
 
-<span class="l-fiero">**“A’aw, ambe ningwis, biindigen o’omaa.” Mii sa’ gii-biindigegwaashkonid imaa wiiskwaang, “Aaniish, Nanabozho, mii sa zhigwa ji-wiinino’jigeyang.” Mii go iw giiwenh *we-izhi-maandanjigenid* gii-*gashki|gii-gaski*.**</span>
+<span class="l-fiero">**“A’aw, ambe ningwis, biindigen o’omaa.” Mii sa gii-biindigegwaashkonid imaa wiiskwaang, “Aaniish, Nanabozho, mii sa zhigwa ji-wiininojigeyang.” Mii go iw giiwenh *waa-izhi-maadanjigenid* gii-*gashki*.**</span>
 
 <span class="l-eng">*“All right, come along, my son! do you enter into this.” And so when (his son) leaped into the bladder pouch, “Well, Nänabushu, therefore now will we dress the meat.” Accordingly then, they say, did he wish to begin eating the meat raw.*</span>
 
-<span class="l-gloss">“A’aw, ambe ningwis, biindigen o’omaa” (“all right, come, my son, enter into this”) ∙ mii sa’ gii-biindigegwaashkonid imaa wiiskwaang (so he leaped into the bladder pouch) ∙ “aaniish, Nanabozho, mii sa zhigwa ji-wiinino’jigeyang” (“well, Nanabozho, now we will dress the meat”) ∙ mii go iw giiwenh we-izhi-maandanjigenid gii-gashki (so then he wished to begin eating it raw).</span>
+<span class="l-gloss">“A’aw, ambe ningwis, biindigen o’omaa” (“all right, come, my son, enter into this”) ∙ mii sa gii-biindigegwaashkonid imaa wiiskwaang (so he leaped into the bladder pouch) ∙ “aaniish, Nanabozho, mii sa zhigwa ji-wiininojigeyang” (“well, Nanabozho, now we will dress the meat”) ∙ mii go iw giiwenh waa-izhi-maadanjigenid gii-gashki (so then he wished to begin eating it raw).</span>
 
 <span class="l-orig">(11) “Tä, nicīm! kīdāgạbācimānānsa!” Äjikanōnigut: “Wägunäc, Nänabuc, käyābạtci‘tōyạng tcigabācimạng?”</span>
 
-<span class="l-fiero">**“Daa, nishiim! gidaa-gabaajimaanaan sa!” Ezhi-ganoonigod: “Wegonen, Nanabozho, ge-aabajitooyang ji-gabaajimang?”**</span>
+<span class="l-fiero">**“*De*, nishiim! gidaa-gabaajimaanaan sa!” Ezhi-ganoonigod: “Wegonen, Nanabozho, ge-aabajitooyang ji-gabaajimang?”**</span>
 
 <span class="l-eng">*“Why, my little brother! we should cook it by boiling!” Then he was addressed by the other saying: “What, Nänabushu, shall we use to boil it in?”*</span>
 
-<span class="l-gloss">“Daa, nishiim! gidaa-gabaajimaanaan sa!” (“why, my younger brother, we should boil it!”) ∙ ezhi-ganoonigod (then he was spoken to) ∙ “wegonen, Nanabozho, ge-aabajitooyang ji-gabaajimang?” (“what shall we use to boil it in, Nanabozho?”).</span>
+<span class="l-gloss">“De, nishiim! gidaa-gabaajimaanaan sa!” (“why, my younger brother, we should boil it!”) ∙ ezhi-ganoonigod (then he was spoken to) ∙ “wegonen, Nanabozho, ge-aabajitooyang ji-gabaajimang?” (“what shall we use to boil it in, Nanabozho?”).</span>
 
 <span class="l-orig">(12) “Nicīm, nīnganānā a‘kik.” A‘panä, kīwäⁿ, ä∙u∙sạdciwät imā ucädinānik. A‘kikōn ugīpita‘kunān Nänabucu.</span>
 
-<span class="l-fiero">**“Nishiim, ninga-naanaa akik.” Apane, giiwenh, e-o-zaagajiwed imaa wajidinaanig. Akikoon ogii-bidakonaan Nanabozho.**</span>
+<span class="l-fiero">**“Nishiim, ninga-naanaa akik.” Apane, giiwenh, e-o-zaagajiwed imaa *ozhedinaanig*. Akikoon ogii-bidakonaan Nanabozho.**</span>
 
 <span class="l-eng">*“My little brother, I will go fetch a kettle.” Away, they say, then went he over yonder ridge. With a kettle in his hand, back Nänabushu came.*</span>
 
-<span class="l-gloss">“Nishiim, ninga-naanaa akik” (“my younger brother, I will go fetch a kettle”) ∙ apane giiwenh e-o-zaagajiwed imaa wajidinaanig (away he went over the ridge) ∙ akikoon ogii-bidakonaan Nanabozho (Nanabozho came back with a kettle in his hand).</span>
+<span class="l-gloss">“Nishiim, ninga-naanaa akik” (“my younger brother, I will go fetch a kettle”) ∙ apane giiwenh e-o-zaagajiwed imaa ozhedinaanig (away he went over the ridge) ∙ akikoon ogii-bidakonaan Nanabozho (Nanabozho came back with a kettle in his hand).</span>
 
 <span class="l-orig">(13) “Ānīn dạc ‘iᵉi´ᵘ ickutä, Nänabuc?” “Ninga∙u∙ji‘tōn, nicīm.”</span>
 
@@ -135,29 +128,27 @@ Nänabushu Hunts Buffalo with his Younger Brother
 
 <span class="l-orig">(14) Kī∙u∙ndcipa‘kwänäni kīⁿwäⁿ, iᵘ ickutä imā. Ānīc, mīsa mīnawā nipinātit Nänabucu, mīsa kīpītōt nipi. Mīsa pōtā‘kwäwāt piji‘kiwạn; kāwīn ka‘kina upōtā‘kwäsīnāwān. Ānīc, mīgu kīⁿwäⁿ äni∙a∙‘kōgīzisunit ạni∙a∙gwācimāwāt, kayägu ạnipōdā‘kwäwāt. Mīsa kīgīziswāwāt ka‘kina.</span>
 
-<span class="l-fiero">**Gii-onji-bakweneni giiwenh, iw ishkode imaa. Aaniish, mii sa miinawaa *nibinaadid* Nanabozho, mii sa gii-biidood nibi. Mii sa bootaakwewaad bizhikiwan; gaawiin gakina obootaakwesiinaawaa. Aaniish, mii go giiwenh ani-a-gizizonid ani-a-gwaajimaawaad, gaye go ani-bootaakwewaad. Mii sa gii-giziswaawaad gakina.**</span>
+<span class="l-fiero">**Gii-onji-bakweneni giiwenh, iw ishkode imaa. Aaniish, mii sa miinawaa *nibinaadid* Nanabozho, mii sa gii-biidood nibi. Mii sa bootaakwewaad bizhikiwan; gaawiin gakina obootaakwesiinaawaan. Aaniish, mii go giiwenh *ani-a-koo-giizizonid* ani-a-gwaajimaawaad, gaye go ani-bootaakwewaad. Mii sa gii-giziswaawaad gakina.**</span>
 
 <span class="l-eng">*There was a sudden lift of smoke, they say; the fire was there. Well, so then next for water Nänabushu went, whereupon he fetched water. And then they cooked the buffalo in a kettle; not all of it (at one time) they cooked in the kettle. So thereupon, they say, just as fast as it was done, then forth from the kettle they took it, and then some more they put in to boil. And so they finished cooking it all.*</span>
 
-<span class="l-gloss">Gii-onji-bakweneni giiwenh iw ishkode imaa (smoke rose up, the fire was there) ∙ mii sa miinawaa nibinaadid Nanabozho (then Nanabozho went for water) ∙ mii sa gii-biidood nibi (he fetched water) ∙ mii sa bootaakwewaad bizhikiwan (they boiled the buffalo) ∙ gaawiin gakina obootaakwesiinaawaa (they did not boil it all at once) ∙ mii go giiwenh ani-a-gizizonid ani-a-gwaajimaawaad (as fast as it cooked they took it out) ∙ gaye go ani-bootaakwewaad (and put more in to boil) ∙ mii sa gii-giziswaawaad gakina (so they finished cooking it all).</span>
+<span class="l-gloss">Gii-onji-bakweneni giiwenh iw ishkode imaa (smoke rose up, the fire was there) ∙ mii sa miinawaa nibinaadid Nanabozho (then Nanabozho went for water) ∙ mii sa gii-biidood nibi (he fetched water) ∙ mii sa bootaakwewaad bizhikiwan (they boiled the buffalo) ∙ gaawiin gakina obootaakwesiinaawaan (they did not boil it all at once) ∙ mii go giiwenh ani-a-koo-giizizonid ani-a-gwaajimaawaad (as fast as it cooked they took it out) ∙ gaye go ani-bootaakwewaad (and put more in to boil) ∙ mii sa gii-giziswaawaad gakina (so they finished cooking it all).</span>
 
 <span class="l-orig">(15) “‘Āᵘ, ningwis, ạmbä, sāga∙ạ∙mu‘k tciwīsiniyäk.” Cayīgwa kīⁿwäⁿ, ininiwạn sāgạtcikwāskwạniwạn. Ā‘pidci kīwäⁿ wawīngä nīmi‘tạnawäwạn Nänabucu ạgimāt.</span>
 
-<span class="l-fiero">**“A’aw, ningwis, ambe, zaaga’amok ji-wiisiniyeg.” Zhigwa giiwenh, ininiwan zaagajigwaashkwaniwan. Aapiji giiwenh wawiinge niimidanawewan Nanabozho agindaad.**</span>
+<span class="l-fiero">**“A’aw, ningwis, ambe, zaaga’amok ji-wiisiniyeg.” Zhigwa giiwenh, ininiwan zaagajigwaashkwaniwan. Aapiji giiwenh wawiinge niimidanawewan Nanabozho *agimaad*.**</span>
 
 <span class="l-eng">*“Now, my sons, hither come you forth, that you may eat.” Presently, they say, the men came leaping out. Exactly forty in all, they say, was what Nänabushu counted them (to be).*</span>
 
-<span class="l-gloss">“A’aw, ningwis, ambe, zaaga’amok ji-wiisiniyeg” (“now, my sons, come out, that you may eat”) ∙ zhigwa giiwenh ininiwan zaagajigwaashkwaniwan (then the men came leaping out) ∙ aapiji giiwenh wawiinge niimidanawewan Nanabozho agindaad (exactly forty in all Nanabozho counted them).</span>
+<span class="l-gloss">“A’aw, ningwis, ambe, zaaga’amok ji-wiisiniyeg” (“now, my sons, come out, that you may eat”) ∙ zhigwa giiwenh ininiwan zaagajigwaashkwaniwan (then the men came leaping out) ∙ aapiji giiwenh wawiinge niimidanawewan Nanabozho agimaad (exactly forty in all Nanabozho counted them).</span>
 
 <span class="l-orig">(16) “Nänabuc, pānimā kīnawint iskwātc kīgawīsinimin.” “Kāmāwin ogōᵘ udā∙i∙skwamāsiwāwān,” inändạm Nänabucu. “Kāwin, Nänabuc, kīgatickwandamāgomin sa wīn.” Udasinā‘kän, kīⁿwäⁿ, äckwantamawintwānin.</span>
 
-<span class="l-fiero">**“Nanabozho, baanimaa giinawind ishkwaaj giga-wiisinimin.” “Gaamaawiin ogo’ow oda-ishkwamaasiiwaawaan,” inendam Nanabozho. “Gaawiin, Nanabozho, giga-ishkwandamaagomin sa wiin.” *Odaazinaaken*, giiwenh, *eshkwandamawindwaanin*.**</span>
+<span class="l-fiero">**“Nanabozho, baanimaa giinawind ishkwaaj giga-wiisinimin.” “Gaamaawiin ogo’ow oda-ishkwamaasiiwaawaan,” inendam Nanabozho. “Gaawiin, Nanabozho, gigad-ishkwandamaagomin sa wiin.” *Odazinaaken*, giiwenh, *eshkwandamawindwaanin*.**</span>
 
 <span class="l-eng">*“Nänabushu, not till after (they have) finished will you and I then eat.” “Perhaps there will not be any left,” thought Nänabushu. “Nay, Nänabushu, we shall really have some saved for us.” The chest, they say, was saved for them.*</span>
 
-<span class="l-gloss">“Nanabozho, baanimaa giinawind ishkwaaj giga-wiisinimin” (“Nanabozho, not till after will you and I eat”) ∙ “gaamaawiin ogo’ow oda-ishkwamaasiiwaawaan,” inendam Nanabozho (“perhaps there will be none left,” thought Nanabozho) ∙ “gaawiin, Nanabozho, giga-ishkwandamaagomin sa wiin” (“no, Nanabozho, some will surely be saved for us”) ∙ odaazinaaken giiwenh eshkwandamawindwaanin (the chest, they say, was saved for them).</span>
-
-*B33 (2026-08-29) · A SECOND MANUFACTURED SPIRITUS, AND A CLOSED QUOTATION. p.366 l.22 at 26× prints ogōᵘ udā∙i∙skwamāsiwāwān — two round raised dots flanking the i and nothing before skwa — where the record read udā∙i∙‘skwamāsiwāwān. Restored. p.366 l.23 also closes the quotation, kīgatickwandamāgomin sa wīn.”, and begins a NEW printed paragraph at Udasinā‘kän — the record had welded the two and left the quotation open. The quotation is now closed; ⚑ the printed paragraph break inside this section is recorded here and NOT re-segmented, because the record’s sectioning follows Jones’s English paragraphs and both fall in this section. Three dot-belows the record had invented (Udạsinā‘kän · äckwạntamawintwānin · kīgatickwạndamāgomin) are removed; the page sets none.*
+<span class="l-gloss">“Nanabozho, baanimaa giinawind ishkwaaj giga-wiisinimin” (“Nanabozho, not till after will you and I eat”) ∙ “gaamaawiin ogo’ow oda-ishkwamaasiiwaawaan,” inendam Nanabozho (“perhaps there will be none left,” thought Nanabozho) ∙ “gaawiin, Nanabozho, gigad-ishkwandamaagomin sa wiin” (“no, Nanabozho, some will surely be saved for us”) ∙ odazinaaken giiwenh eshkwandamawindwaanin (the chest, they say, was saved for them).</span>
 
 <span class="l-orig">(17) “Ạmbäsa, Nänabuc, wīsinitā.”</span>
 
@@ -169,11 +160,11 @@ Nänabushu Hunts Buffalo with his Younger Brother
 
 <span class="l-orig">(18) Ānīc mīsa´ kīkitānawäwāt kayä wīnawā.</span>
 
-<span class="l-fiero">**Aaniish mii sa’ gii-gidaanawewaad gaye wiinawaa.**</span>
+<span class="l-fiero">**Aaniish mii sa gii-gidaanawewaad gaye wiinawaa.**</span>
 
 <span class="l-eng">*So thereupon they ate up all (their share) too.*</span>
 
-<span class="l-gloss">Aaniish mii sa’ gii-gidaanawewaad gaye wiinawaa (so they too ate up all their share).</span>
+<span class="l-gloss">Aaniish mii sa gii-gidaanawewaad gaye wiinawaa (so they too ate up all their share).</span>
 
 <span class="l-orig">(19) “Ambäsạnō, nicīm, awi∙i∙cin nindōcimạg nīctạna.”¹</span>
 
@@ -229,21 +220,19 @@ Nänabushu Hunts Buffalo with his Younger Brother
 
 <span class="l-orig">(25) “Ambäsạnō, Nänabuc, ayāngwāmisin! Kini‘tābạbini‘tạm. Tạga, kägu´ kātcibā‘kwäyanin, tāgạndankän kīni‘tam.”</span>
 
-<span class="l-fiero">**“Ambe sano, Nanabozho, ayaangwaamizin! *Ginitaababini’tam*. Daga, gego’ gaa-jiibaakweyanin, *daa-gandanken* giniitam.”**</span>
+<span class="l-fiero">**“Ambe sano, Nanabozho, ayaangwaamizin! *Ginitaababini’tam*. Daga, gego gaa-jiibaakweyanin, *daa-gandanken* giniitam.”**</span>
 
 <span class="l-eng">*“I beseech you, Nänabushu, do you be careful! You are not good at giving heed. Now, do not, when you have finished cooking, taste of the food first.”*</span>
 
-<span class="l-gloss">“Ambe sano, Nanabozho, ayaangwaamizin!” (“I beg you, Nanabozho, be careful!”) ∙ ginitaababini’tam (you are not good at giving heed) ∙ daga, gego’ gaa-jiibaakweyanin, daa-gandanken giniitam (now, when you have finished cooking, do not taste it first).</span>
-
-*B33 (2026-08-29) · THE SPACING ACUTE, WHERE THE RECORD SET THE BALL-FORM SPIRITUS. p.368 l.12 at 30× prints Tạga, kägu´ kātcibā‘kwäyanin — the mark after kägu is a straight, top-thick, ball-less stroke, and kātcibā‘kwäyanin’s ‘ four characters later on the SAME LINE is a ball with a tail. The record read kägu‘. Corrected per the Orthography Key’s settlement of 2026-08-28, which names this record by section. The page also prints Ambäsạnō here, dot below the second a.*
+<span class="l-gloss">“Ambe sano, Nanabozho, ayaangwaamizin!” (“I beg you, Nanabozho, be careful!”) ∙ ginitaababini’tam (you are not good at giving heed) ∙ daga, gego gaa-jiibaakweyanin, daa-gandanken giniitam (now, when you have finished cooking, do not taste it first).</span>
 
 <span class="l-orig">(26) “Tayā, nicīm! kāwīn nindāijictcigäsī. Pānimā sagu‘ku iskwātc ningawīsin.”</span>
 
-<span class="l-fiero">**“Dayaa, nishiim! gaawiin nindaa-izhichigesii. Baanimaa sa go’ku ishkwaaj ninga-wiisin.”**</span>
+<span class="l-fiero">**“Dayaa, nishiim! gaawiin nindaa-izhichigesii. Baanimaa sa go iko ishkwaaj ninga-wiisin.”**</span>
 
 <span class="l-eng">*“Why, my little brother! I would not do (such a thing). Not till the very last will I ever eat.”*</span>
 
-<span class="l-gloss">“Dayaa, nishiim! gaawiin nindaa-izhichigesii” (“why, my younger brother, I would not do such a thing”) ∙ baanimaa sa go’ku ishkwaaj ninga-wiisin (not till the very last will I eat).</span>
+<span class="l-gloss">“Dayaa, nishiim! gaawiin nindaa-izhichigesii” (“why, my younger brother, I would not do such a thing”) ∙ baanimaa sa go iko ishkwaaj ninga-wiisin (not till the very last will I eat).</span>
 
 <span class="l-orig">(27) “Ānīc, mīsagu kạyä kīn a‘panä kägō kīgaki‘tcipisun. Nänabuc, kita∙i∙mạn ka‘kina kīzi‘kạn.” Ānīc mīsa ka‘kina kīgīsi‘kạnk Nänabucu uda∙i∙mạn.</span>
 
@@ -279,45 +268,43 @@ Nänabushu Hunts Buffalo with his Younger Brother
 
 <span class="l-orig">(31) Sāgitcikwāskwạniwạn kīⁿwäⁿ päjik udōcimạn; pạnä iwiti äjipasatinānik äni∙a∙‘pa‘tōnit. Wībạgu kīⁿwäⁿ sāgạtciwäkwāskwạniwạn piji‘kiwạn iwiti ucätinānik. Mayātcāgwänītug Nänabucu; sāgatciwät, ugīnībawi‘tawānini piji‘kiwạn udōcimạn. Mīsa kīwudisāt. “‘Āᵘ, ambä, nindōjim! pīndigän imā ändāyäg.”</span>
 
-<span class="l-fiero">**Zaagijigwaashkwaniwan giiwenh bezhig odoozhiman; *bane* iwidi ezhi-basadinaanig ani-a-babatoonid. Wiiba go giiwenh zaagajiwegwaashkwaniwan bizhikiwan iwidi wajidinaanig. Maajaagwenidog Nanabozho; zaagajiwed, ogii-niibawi’tawaanini bizhikiwan odoozhiman. Mii sa gii-odisaad. “A’aw, ambe, nindoozhim! biindigen imaa endaayeg.”**</span>
+<span class="l-fiero">**Zaagijigwaashkwaniwan giiwenh bezhig odoozhiman; *bane* iwidi ezhi-basadinaanig ani-a-babatoonid. Wiiba go giiwenh zaagajiwegwaashkwaniwan bizhikiwan iwidi *ozhedinaanig*. Mayaajaagwenidog Nanabozho; zaagajiwed, ogii-niibawi’tawaanini bizhikiwan odoozhiman. Mii sa gii-odisaad. “A’aw, ambe, nindoozhim! biindigen imaa endaayeg.”**</span>
 
 <span class="l-eng">*It is said that out leaped one of his nephews; away he went running down the slope into yonder valley. Then, in a little while, it is said that upon the summit of yonder ridge came loping a buffalo. Nänabushu must have departed thither; (for) when he came out upon the summit, there was his nephew standing beside the buffalo. Thereupon he went up to where he was. “All right, come, my nephew! enter in where you (and the rest) stay.”*</span>
 
-<span class="l-gloss">Zaagijigwaashkwaniwan giiwenh bezhig odoozhiman (one of his nephews leaped out) ∙ bane iwidi ezhi-basadinaanig ani-a-babatoonid (away he ran down into the valley) ∙ wiiba go giiwenh zaagajiwegwaashkwaniwan bizhikiwan iwidi wajidinaanig (soon a buffalo loped up over the ridge) ∙ maajaagwenidog Nanabozho (Nanabozho must have gone there) ∙ zaagajiwed, ogii-niibawi’tawaanini bizhikiwan odoozhiman (when he came out, his nephew stood beside the buffalo) ∙ mii sa gii-odisaad (so he reached him) ∙ “a’aw, ambe, nindoozhim! biindigen imaa endaayeg” (“all right, come, my nephew, enter in where you stay”).</span>
+<span class="l-gloss">Zaagijigwaashkwaniwan giiwenh bezhig odoozhiman (one of his nephews leaped out) ∙ bane iwidi ezhi-basadinaanig ani-a-babatoonid (away he ran down into the valley) ∙ wiiba go giiwenh zaagajiwegwaashkwaniwan bizhikiwan iwidi ozhedinaanig (soon a buffalo loped up over the ridge) ∙ mayaajaagwenidog Nanabozho (Nanabozho must have gone there) ∙ zaagajiwed, ogii-niibawi’tawaanini bizhikiwan odoozhiman (when he came out, his nephew stood beside the buffalo) ∙ mii sa gii-odisaad (so he reached him) ∙ “a’aw, ambe, nindoozhim! biindigen imaa endaayeg” (“all right, come, my nephew, enter in where you stay”).</span>
 
 <span class="l-orig">(32) Ānicinā, mīsa cigwa mādcīwīninu‘tcigät Nänabuc. Kākīcī‘kawāt äjipōtawät; äjinānāta‘kikōn. Ānīc, mīsa kā‘tagwicing; cayīgwa äjipōtā‘kwät piji‘kiwạn. Mīsa äni∙a∙‘kōkisisunit, ạni∙ạ∙gwācimāt, kayä ạnipōdā‘kwät. Ānīc mīsa ka‘kina kīkījiswāt. “‘Āᵘ, nindōjimitug! ambä wīsini‘k.”</span>
 
-<span class="l-fiero">**Anishinaa, mii sa zhigwa maajii-wiinino’jiged Nanabozho. Gaa-giizhii’kawaad ezhi-bootawed; ezhi-naanaadakikoon. Aaniish, mii sa gaa-dagwishing; zhigwa ezhi-bootaakwed bizhikiwan. Mii sa ani-a-gizizonid, ani-a-gwaajimaad, gaye ani-bootaakwed. Aaniish mii sa gakina gii-giiziswed. “A’aw, nindoozhimidog! ambe wiisinik.”**</span>
+<span class="l-fiero">**Anishinaa, mii sa zhigwa maajii-wiininojiged Nanabozho. Gaa-giizhii’kawaad ezhi-bootawed; ezhi-naanaadakikoon. Aaniish, mii sa gaa-dagwishing; zhigwa ezhi-bootaakwed bizhikiwan. Mii sa *ani-a-koo-gizizonid*, ani-a-gwaajimaad, gaye ani-bootaakwed. Aaniish mii sa gakina gii-giiziswaad. “A’aw, nindoozhimidog! ambe wiisinik.”**</span>
 
 <span class="l-eng">*Well, of course it was then that Nänabushu began dressing the meat. After finishing his work on (the buffalo), he then built a fire; then he went to fetch a kettle. Well, and then he came back; presently he had the buffalo cooking in the kettle. Accordingly, as fast as it was done, he took it out, and put in some more to boil. So thereupon he finished cooking it all. “Now, O my nephews! come, do you eat.”*</span>
 
-<span class="l-gloss">Anishinaa, mii sa zhigwa maajii-wiinino’jiged Nanabozho (well, of course Nanabozho began dressing the meat) ∙ gaa-giizhii’kawaad ezhi-bootawed (after finishing it, he built a fire) ∙ ezhi-naanaadakikoon (he went to fetch a kettle) ∙ mii sa gaa-dagwishing; zhigwa ezhi-bootaakwed bizhikiwan (when he got back, he had the buffalo cooking) ∙ mii sa ani-a-gizizonid, ani-a-gwaajimaad, gaye ani-bootaakwed (as fast as it cooked he took it out, and put more to boil) ∙ aaniish mii sa gakina gii-giiziswed (so he finished cooking it all) ∙ “a’aw, nindoozhimidog! ambe wiisinik” (“now, my nephews! come, eat”).</span>
+<span class="l-gloss">Anishinaa, mii sa zhigwa maajii-wiininojiged Nanabozho (well, of course Nanabozho began dressing the meat) ∙ gaa-giizhii’kawaad ezhi-bootawed (after finishing it, he built a fire) ∙ ezhi-naanaadakikoon (he went to fetch a kettle) ∙ mii sa gaa-dagwishing; zhigwa ezhi-bootaakwed bizhikiwan (when he got back, he had the buffalo cooking) ∙ mii sa ani-a-koo-gizizonid, ani-a-gwaajimaad, gaye ani-bootaakwed (as fast as it cooked he took it out, and put more to boil) ∙ aaniish mii sa gakina gii-giiziswaad (so he finished cooking it all) ∙ “a’aw, nindoozhimidog! ambe wiisinik” (“now, my nephews! come, eat”).</span>
 
 <span class="l-orig">(33) Pạngī ītug pä‘kwäpitōgwän imā wīninōwạninik tcica‘kạmut. Udōjimạn mātạndcigänit, mīsa äji∙ạ∙mäbinit cayīgwa. Mīsa kayä wīn cayīgwa Nänabucu mādạntcigät. Ānīcnā, mīsa kītäbisinīt Nänabucu. “‘Āᵘ, ạmbä, nindōjimitug! pīndigäk ändāyäg.”</span>
 
-<span class="l-fiero">**Bangii idog *bekwebidoogwen* imaa wiininowaninik *jiijaakamod*. Odoozhiman *maandanjigenid*, mii sa ezhi-a-mebinid zhigwa. Mii sa gaye wiin zhigwa Nanabozho maandanjiged. Aaniishnaa, mii sa gii-debizinid Nanabozho. “A’aw, ambe, nindoozhimidog! biindigek endaayeg.”**</span>
+<span class="l-fiero">**Bangii idog *bekwebidoogwen* imaa wiininowaninik *ji-zhakamod*. Odoozhiman *maadanjigenid*, mii sa ezhi-a-mebinid zhigwa. Mii sa gaye wiin zhigwa Nanabozho maadanjiged. Aaniishnaa, mii sa gii-debizinid Nanabozho. “A’aw, ambe, nindoozhimidog! biindigek endaayeg.”**</span>
 
 <span class="l-eng">*It was perhaps but a small piece that he pulled off to put into his mouth. His nephews then began eating, but they ceased eating in a little while. Thereupon Nänabushu then began eating too. Well, and then Nänabushu had all he wanted to eat. “All right, come along, O my nephews! do you enter in where you live.”*</span>
 
-<span class="l-gloss">Bangii idog bekwebidoogwen imaa wiininowaninik jiijaakamod (it was perhaps but a small piece he pulled off to put in his mouth) ∙ odoozhiman maandanjigenid (his nephews began eating) ∙ mii sa ezhi-a-mebinid zhigwa (but they soon stopped) ∙ mii sa gaye wiin zhigwa Nanabozho maandanjiged (then Nanabozho too began eating) ∙ aaniishnaa, mii sa gii-debizinid Nanabozho (well, Nanabozho ate his fill) ∙ “a’aw, ambe, nindoozhimidog! biindigek endaayeg” (“all right, come, my nephews, enter in where you live”).</span>
+<span class="l-gloss">Bangii idog bekwebidoogwen imaa wiininowaninik ji-zhakamod (it was perhaps but a small piece he pulled off to put in his mouth) ∙ odoozhiman maadanjigenid (his nephews began eating) ∙ mii sa ezhi-a-mebinid zhigwa (but they soon stopped) ∙ mii sa gaye wiin zhigwa Nanabozho maadanjiged (then Nanabozho too began eating) ∙ aaniishnaa, mii sa gii-debizinid Nanabozho (well, Nanabozho ate his fill) ∙ “a’aw, ambe, nindoozhimidog! biindigek endaayeg” (“all right, come, my nephews, enter in where you live”).</span>
 
 <span class="l-orig">(34) Mīsa kā‘pindigänit, äjimādcāt Nänabucu. Wändạgu kīwäⁿ kātạnwäwänik utiyāng Nänabuju udōjimạn māmīgātinigwän. Mīsa papimusät Nänabucu, ningutingigu pangi‘tōwạn udōjimạn. Sāgạtciwät kīⁿwäⁿ piji‘kiwạn kīpimāwanitiwạn. Äjä‘tāgwänītug. “‘Āᵘ, nindōjimitug! päjiksanā udā∙u∙bimwān piji‘kiwạn.” Awäniban käkạnōnigut awiya.</span>
 
-<span class="l-fiero">**Mii sa gaa-biindigenid, ezhi-maajaad Nanabozho. Wenda go giiwenh gaa-danwewenig odiyaang Nanabozho odoozhiman maamigaadinigwen. Mii sa babimosed Nanabozho, ningoding go bangi’toowan odoozhiman. Zaagajiwed giiwenh bizhikiwan gii-bimaawanidiwan. *Ezhe’tegwenidog*. “A’aw, nindoozhimidog! bezhig sana oda-o-bimwaan bizhikiwan.” Aweniban gaa-ganoonigod awiya.**</span>
+<span class="l-fiero">**Mii sa gaa-biindigenid, ezhi-maajaad Nanabozho. Wenda go giiwenh gaa-danwewenig odiyaang Nanabozho odoozhiman maamigaadinigwen. Mii sa babimosed Nanabozho, ningoding go bangi’toowan odoozhiman. Zaagajiwed giiwenh bizhikiwan gii-bimaawanidiwan. *Ezhe’taagwenidog*. “A’aw, nindoozhimidog! bezhig sana oda-o-bimwaan bizhikiwan.” Aweniban ge-ganoonigod awiya.**</span>
 
 <span class="l-eng">*Whereupon, when they went in, then departed Nänabushu. There was somewhat of a noise at Nänabushu’s buttocks, (made by) his nephews, who evidently were engaged in zealous play. And so, as Nänabushu went along, by and by his nephews ceased their noise. As he came out upon the summit, it is said the buffaloes went trailing by. Then he must have withdrawn. “Now, O my nephews! let one of you shoot a buffalo.” But from none was he given answer.*</span>
 
-<span class="l-gloss">Mii sa gaa-biindigenid, ezhi-maajaad Nanabozho (when they had gone in, Nanabozho set off) ∙ wenda go giiwenh gaa-danwewenig odiyaang Nanabozho odoozhiman maamigaadinigwen (there was a noise at his buttocks, his nephews evidently playing hard) ∙ mii sa babimosed Nanabozho, ningoding go bangi’toowan odoozhiman (as Nanabozho walked, by and by his nephews quieted) ∙ zaagajiwed giiwenh bizhikiwan gii-bimaawanidiwan (as he came out, the buffaloes were trailing by) ∙ ezhe’tegwenidog (he must have withdrawn) ∙ “a’aw, nindoozhimidog! bezhig sana oda-o-bimwaan bizhikiwan” (“now, my nephews, let one of you shoot a buffalo”) ∙ aweniban gaa-ganoonigod awiya (but no one answered him).</span>
+<span class="l-gloss">Mii sa gaa-biindigenid, ezhi-maajaad Nanabozho (when they had gone in, Nanabozho set off) ∙ wenda go giiwenh gaa-danwewenig odiyaang Nanabozho odoozhiman maamigaadinigwen (there was a noise at his buttocks, his nephews evidently playing hard) ∙ mii sa babimosed Nanabozho, ningoding go bangi’toowan odoozhiman (as Nanabozho walked, by and by his nephews quieted) ∙ zaagajiwed giiwenh bizhikiwan gii-bimaawanidiwan (as he came out, the buffaloes were trailing by) ∙ ezhe’taagwenidog (he must have withdrawn) ∙ “a’aw, nindoozhimidog! bezhig sana oda-o-bimwaan bizhikiwan” (“now, my nephews, let one of you shoot a buffalo”) ∙ aweniban ge-ganoonigod awiya (but no one answered him).</span>
 
 <span class="l-orig">(35) Äjiyābiskwīt iᵘ ugitcipisun, mīsa kāwīn awiya udōcimạn. Mādcība‘tōgwän Nänabucu, nạntuba∙ā∙t ucīmäyạn. Sāgạtciwäba‘tōt kīⁿwäⁿ kī‘pimusäwạn ucīmäyan. Ānīcnā mīsa imā kīna‘kwäckawāt. “Ānīn, Nänabuc?” udigōn.</span>
 
-<span class="l-fiero">**Ezhi-aabiskwiid iw ogichibizon, mii sa gaawiin awiya odoozhiman. Maajiibatoogwen Nanabozho, *nandoba’aad* oshiimeyan. Zaagajiwebatood giiwenh gii-bimosewan oshiimeyan. Aaniishnaa mii sa imaa gii-naakwesh­kawaad. “Aaniin, Nanabozho?” odigoon.**</span>
+<span class="l-fiero">**Ezhi-aabiskwiid iw ogichibizon, mii sa gaawiin awiya odoozhiman. Maajiibatoogwen Nanabozho, *nandobaad* oshiimeyan. Zaagajiwebatood giiwenh gii-bimosewan oshiimeyan. Aaniishnaa mii sa imaa gii-naakweshkawaad. “Aaniin, Nanabozho?” odigoon.**</span>
 
 <span class="l-eng">*When he took off his belt, there was no one of his nephews (left). Away started Nänabushu, evidently on the run, to find his little brother. As he ran out upon the hill-top, they say hither came walking his little brother. And so of course it was there that he met him. “What (is it), Nänabushu?” he was told.*</span>
 
-<span class="l-gloss">Ezhi-aabiskwiid iw ogichibizon, mii sa gaawiin awiya odoozhiman (when he unfastened his belt, none of his nephews was there) ∙ maajiibatoogwen Nanabozho, nandoba’aad oshiimeyan (off ran Nanabozho to find his younger brother) ∙ zaagajiwebatood giiwenh gii-bimosewan oshiimeyan (as he ran out, his younger brother came walking hither) ∙ aaniishnaa mii sa imaa gii-naakweshkawaad (so there he met him) ∙ “aaniin, Nanabozho?” odigoon (“what is it, Nanabozho?” he was told).</span>
-
-*B33 (2026-08-29) · A THIRD MANUFACTURED SPIRITUS, AND A LOST MACRON. p.370 l.22 at 30× prints nạntuba∙ā∙t — dot below the a of nạn, then ba, raised dot, ā with its macron, raised dot, t — with no preaspiration mark anywhere in the word. The record read nạntuba∙a∙‘t. Both defects corrected. This one was not in the 2026-08-23 finding; it was found at this session’s own re-crop.*
+<span class="l-gloss">Ezhi-aabiskwiid iw ogichibizon, mii sa gaawiin awiya odoozhiman (when he unfastened his belt, none of his nephews was there) ∙ maajiibatoogwen Nanabozho, nandobaad oshiimeyan (off ran Nanabozho to find his younger brother) ∙ zaagajiwebatood giiwenh gii-bimosewan oshiimeyan (as he ran out, his younger brother came walking hither) ∙ aaniishnaa mii sa imaa gii-naakweshkawaad (so there he met him) ∙ “aaniin, Nanabozho?” odigoon (“what is it, Nanabozho?” he was told).</span>
 
 <span class="l-orig">(36) “Niwani∙ā∙gsa nindōcimạg!”</span>
 
@@ -385,21 +372,21 @@ Nänabushu Hunts Buffalo with his Younger Brother
 
 <span class="l-orig">(44) Nänabucu ītug kwayāskwanutamugwän i wīskwaⁱ wīma‘kạmāt; ā‘tā! wändạgu, kīⁿwäⁿ, āmōn kāwạnitcīsạmigut. “Yā, yā, yā!”¹ Wändạgu kīwäⁿ kāpabācācagāwīkanäpạgisut. Udacipäji‘kukāgōn² nīmitạna āmōn, mīsa kīpōni∙i∙gut. Ki‘tci∙ā∙mōwạsiswạn kīⁿwäⁿ imā kī∙a∙‘täni.</span>
 
-<span class="l-fiero">**Nanabozho idog *gwayaaskwanodamogwen* i wiiskwai wii-maakamaad; aataa! wenda go, giiwenh, aamoon gaa-wani­jiisamigod. “Yaa, yaa, yaa!” Wenda go giiwenh *gaa-babaazhaazhagaawiganebagizod*. *Odazhi-bezhigokaagoon* niimidana aamoon, mii sa gii-booni’igod. Gichi-aamoo­wazhiswan giiwenh imaa gii-a-tenig.**</span>
+<span class="l-fiero">**Nanabozho idog *gwayaaskwanodamogwen* i *wiiskwai* wii-maakamaad; aataa! wenda go, giiwenh, aamoon gaa-wanijiisamigod. “Yaa, yaa, yaa!” Wenda go giiwenh *gaa-babaazhaazhagaawiganebagizod*. *Odazhi-bezhigokaagoon* niimidana aamoon, mii sa gii-booni’igod. *Gichi-aamoowaziswan* giiwenh imaa gii-a-tenig.**</span>
 
 <span class="l-eng">*Nänabushu doubtless made a grab for the bladder to take it from him; but oh! at that instant, they say, by the bees was he stung all over. “Yā, ya, ya!”¹ How they say he did wriggle at the back when down he fell. He was harassed by one² and forty bees, and then he was let alone. A large beehive they say was there.*</span>
 
-<span class="l-gloss">Nanabozho idog gwayaaskwanodamogwen i wiiskwai wii-maakamaad (Nanabozho doubtless grabbed for the bladder to take it from him) ∙ aataa! wenda go, giiwenh, aamoon gaa-wanijiisamigod (but oh! he was stung all over by the bees) ∙ “yaa, yaa, yaa!” (cry of pain, carried as spoken) ∙ wenda go giiwenh gaa-babaazhaazhagaawiganebagizod (how he wriggled on his back when he fell down) ∙ odazhi-bezhigokaagoon niimidana aamoon (he was set upon by one and forty bees) ∙ mii sa gii-booni’igod (then he was let alone) ∙ gichi-aamoowazhiswan giiwenh imaa gii-a-tenig (a great beehive was there).</span>
+<span class="l-gloss">Nanabozho idog gwayaaskwanodamogwen i wiiskwai wii-maakamaad (Nanabozho doubtless grabbed for the bladder to take it from him) ∙ aataa! wenda go, giiwenh, aamoon gaa-wanijiisamigod (but oh! he was stung all over by the bees) ∙ “yaa, yaa, yaa!” (cry of pain, carried as spoken) ∙ wenda go giiwenh gaa-babaazhaazhagaawiganebagizod (how he wriggled on his back when he fell down) ∙ odazhi-bezhigokaagoon niimidana aamoon (he was set upon by one and forty bees) ∙ mii sa gii-booni’igod (then he was let alone) ∙ gichi-aamoowaziswan giiwenh imaa gii-a-tenig (a great beehive was there).</span>
 
 *Jones’s footnotes ¹ and ², printed at the foot of the OJIBWE p.372 (not the facing English): “The cry made by Nänabushu.” and “The father of the other forty bees.” Markers on the Ojibwe p.372 ll.12–13 (“Yā, yā, yā!”¹ · Udacipäji‘kukāgōn²) and on the English p.373 (“Yā, ya, ya!”¹ · by one²). ⚠️ B33 (2026-08-29) CORRECTION, ANNOUNCED: the record previously asserted in this cell and in printers_notes that these two markers “carry no printed footnote text below the Ojibwe or English page — markers present, text absent.” That is wrong. The text IS printed, below the rule at the foot of p.372, pixel-verified at 3.6× and 7×. The false claim is withdrawn and the printed notes are carried. The English also prints Yā (macron) in the first of the three cries and plain ya in the second and third; restored as printed.*
 
 <span class="l-orig">(45) Nänabucu, ītug, ningutci äjimādcāgwän. Ajikīgitut: “Ācimādcī wīn wawiyạc ningītōtāgōk āmōwicạg!”</span>
 
-<span class="l-fiero">**Nanabozho, idog, ningoji ezhi-maajaagwen. Ezhi-gaagiigidod: “Aashi-maajii wiin wawiyazh ningii-doodaagook aamoowizhag!”**</span>
+<span class="l-fiero">**Nanabozho, idog, ningoji ezhi-maajaagwen. Ezhi-giigidod: “Aashi-maajii wiin wawiyazh ningii-doodaagook aamoowizhag!”**</span>
 
 <span class="l-eng">*As Nänabushu, without doubt, was starting off somewhere else, he then said: “Well, by jingo! I have been played a trick by the wretched bees.”*</span>
 
-<span class="l-gloss">Nanabozho, idog, ningoji ezhi-maajaagwen (Nanabozho, without doubt, was starting off somewhere) ∙ ezhi-gaagiigidod (then he said) ∙ “aashi-maajii wiin wawiyazh ningii-doodaagook aamoowizhag!” (“well, by jingo, I’ve been played a trick by the wretched bees!”).</span>
+<span class="l-gloss">Nanabozho, idog, ningoji ezhi-maajaagwen (Nanabozho, without doubt, was starting off somewhere) ∙ ezhi-giigidod (then he said) ∙ “aashi-maajii wiin wawiyazh ningii-doodaagook aamoowizhag!” (“well, by jingo, I’ve been played a trick by the wretched bees!”).</span>
 
 <span class="l-orig">(46) Mīsaⁱ ä‘kōsit.</span>
 

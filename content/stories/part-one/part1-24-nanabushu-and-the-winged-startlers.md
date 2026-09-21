@@ -2,7 +2,6 @@
 title: "24. Nanabushu and the Winged Startlers"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -27,11 +26,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(2) kumāgu a‘pī täkucink owâbạmāᵉ pinäⁿsaᵉ wạdiswạning, ā‘pidcigu mōckinäwaᵉ i∙i∙mā wasiswạning.</span>
 
-<span class="l-fiero">**gomaago apii degoshing owaabamaa’ binensa’ wadiswaning, aapiji go mooshkinewa’ i’imaa wadiswaning.**</span>
+<span class="l-fiero">**gomaago apii degoshing owaabamaa’ binensa’ wadiswaning, aapiji go mooshkinewa’ i’imaa waziswaning.**</span>
 
 <span class="l-eng">*when he was come a certain distance, he saw some young ruffed rouse in a nest, and very full they filled the place in the nest.*</span>
 
-<span class="l-gloss">Gomaago apii (after a certain distance) degoshing (when he arrived) owaabamaa’ binensa’ (he saw some young birds — little ruffed grouse) wadiswaning (in a nest), aapiji go mooshkinewa’ (very full did they fill it) i’imaa wadiswaning (there in the nest).</span>
+<span class="l-gloss">Gomaago apii (after a certain distance) degoshing (when he arrived) owaabamaa’ binensa’ (he saw some young birds — little ruffed grouse) wadiswaning (in a nest), aapiji go mooshkinewa’ (very full did they fill it) i’imaa waziswaning (there in the nest).</span>
 
 <span class="l-orig">(3) Nänabucu udunạbī‘tawā, ā‘pidci ucawänimāᵉ.</span>
 
@@ -91,11 +90,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(10) Nänabucu niskātcikīgitō:</span>
 
-<span class="l-fiero">**Nenaboozhoo niskaaji-giigidoo:**</span>
+<span class="l-fiero">**Nenaboozhoo nishkaaji-giigido:**</span>
 
 <span class="l-eng">*Nänabushu spoke in an angry way:*</span>
 
-<span class="l-gloss">Nenaboozhoo niskaaji-giigidoo (Nenaboozhoo spoke angrily):</span>
+<span class="l-gloss">Nenaboozhoo nishkaaji-giigido (Nenaboozhoo spoke angrily):</span>
 
 <span class="l-orig">(11) “Ānīn kägīcināgwa‘k käwīsusiwäg?</span>
 
@@ -139,11 +138,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(16) äjipạsigwīt Nänabucu;</span>
 
-<span class="l-fiero">**ezhi-pazigwiid Nenaboozhoo;**</span>
+<span class="l-fiero">**ezhi-bazigwiid Nenaboozhoo;**</span>
 
 <span class="l-eng">*Then up to his feet rose Nänabushu ;*</span>
 
-<span class="l-gloss">Ezhi-pazigwiid Nenaboozhoo (then Nenaboozhoo rose to his feet);</span>
+<span class="l-gloss">Ezhi-bazigwiid Nenaboozhoo (then Nenaboozhoo rose to his feet);</span>
 
 <span class="l-orig">(17) äcinisawawāt äcimīdcinät.</span>
 
@@ -339,11 +338,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(41) Ningīkạnōnigunān dạc: ‘Wäwäni wīndamawi‘k kimāma∙i∙wā tạgwicin.’</span>
 
-<span class="l-fiero">**Ningii-kanoonigonaan dash: ‘Weweni wiindamawik gi-maama’iwaa dagwishin.’**</span>
+<span class="l-fiero">**Ningii-ganoonigonaan dash: ‘Weweni wiindamawik gi-maama’iwaa dagwishin.’**</span>
 
 <span class="l-eng">*And we were told : Correctly inform your mother when she arrives.*</span>
 
-<span class="l-gloss">Ningii-kanoonigonaan dash (and he spoke to us): ‘Weweni wiindamawik (rightly tell) gi-maama’iwaa (your mother) dagwishin (when she arrives).’</span>
+<span class="l-gloss">Ningii-ganoonigonaan dash (and he spoke to us): ‘Weweni wiindamawik (rightly tell) gi-maama’iwaa (your mother) dagwishin (when she arrives).’</span>
 
 <span class="l-orig">(42) Mīdạc ‘iᵉi’ᵘ kā∙ạ∙nicimādcāt äjikīgitut.</span>
 
@@ -363,11 +362,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(44) Ā‘tayä, pinä unawạtạmān päcig kayä udōdä‘pinān päcig;</span>
 
-<span class="l-fiero">**Ataaya, bine onawadamaan bezhig gaye odoodebinaan bezhig;**</span>
+<span class="l-fiero">**Ataaya, bine onawadamaan bezhig gaye odoodaapinaan bezhig;**</span>
 
 <span class="l-eng">*Well, the Ruffed Grouse took up one with her mouth and another with her claws ,*</span>
 
-<span class="l-gloss">Ataaya (well), bine onawadamaan bezhig (the Ruffed Grouse took up one in her mouth) gaye odoodebinaan bezhig (and another with her claws);</span>
+<span class="l-gloss">Ataaya (well), bine onawadamaan bezhig (the Ruffed Grouse took up one in her mouth) gaye odoodaapinaan bezhig (and another with her claws);</span>
 
 <span class="l-orig">(45) äcipạsigu∙u∙t, sāga∙i∙gạnīng udiciwinān kisībīgināt.</span>
 
@@ -483,11 +482,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(59) Ā‘tā, ki‘tciwī‘kā pạpimakōtcing mica‘kisät.</span>
 
-<span class="l-fiero">**Aataa, gichi-wiikaa bapimagoojing mizhakiised.**</span>
+<span class="l-fiero">**Aataa, gichi-wiikaa babimagoojing mizhakiised.**</span>
 
 <span class="l-eng">*Oh, for a great while was he falling through the water.*</span>
 
-<span class="l-gloss">Aataa (oh), gichi-wiikaa bapimagoojing (a long while he hung drifting) mizhakiised (sinking down through the water).</span>
+<span class="l-gloss">Aataa (oh), gichi-wiikaa babimagoojing (a long while he hung drifting) mizhakiised (sinking down through the water).</span>
 
 <span class="l-orig">(60) Mīdạc iᵘ kāmica‘kīsät, kiˢtci∙ä∙nigu‘k kīsīntci‘kạmī;</span>
 
@@ -555,11 +554,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(68) Mīsa’ äji∙ạ∙gwā‘tāt Nänabucu, äjinādcāt papimusät.</span>
 
-<span class="l-fiero">**Mii sa ezhi-agwaataad Nenaboozho, ezhi-maajaad babimosed.**</span>
+<span class="l-fiero">**Mii sa ezhi-agwaataad Nenaboozhoo, ezhi-maajaad babimosed.**</span>
 
 <span class="l-eng">*And so when out of the water came Nänabushu, then off he started walking about.*</span>
 
-<span class="l-gloss">Mii sa ezhi-agwaataad Nenaboozho (and so Nenaboozhoo came up out of the water), ezhi-maajaad babimosed (and set off walking about).</span>
+<span class="l-gloss">Mii sa ezhi-agwaataad Nenaboozhoo (and so Nenaboozhoo came up out of the water), ezhi-maajaad babimosed (and set off walking about).</span>
 
 (1) For another version see No. 5.
 

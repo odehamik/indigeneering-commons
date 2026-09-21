@@ -2,7 +2,6 @@
 title: "30. The Horned Sturgeon"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -27,7 +26,7 @@ THE HORNED STURGEON.
 
 <span class="l-gloss">Ningoding (once) anishinaabeg (the people) gii-booziwag (got into their canoes) nandawaabamaawaad (seeking to see) namewan (sturgeon); anitiin (spears) odayaanaawaan (they had them); mishawagaan (far out on the water) izhaawag (they went).</span>
 
-<span class="l-orig">(2) Mī∙i∙dạc inābiwād ạnāmīndîm, ayā‘pīwâbạmāwān nạmäwạn, mī∙i∙’ᵘ pạcibawāwād nạmäwạn.</span>
+<span class="l-orig">(2) Mī∙i∙dạc inābiwād ạnāmīndîm, ayā‘pīwâbạmāwān nạmäwạn, mī∙i∙´ᵘ pạcibawāwād nạmäwạn.</span>
 
 <span class="l-fiero">**Mii idash inaabiwaad anaamiindim, ayaapii-waabamaawaan namewan, mii iw bazhibawaawaad namewan.**</span>
 
@@ -37,11 +36,11 @@ THE HORNED STURGEON.
 
 <span class="l-orig">(3) Ninguding päᵉjik ạnicinābä mạdwägīgito: “Ō, naskä kuca’ äjināguzit waᵉa’ᵘ nạmä! Utäckạni indigu mōⁿsōnk äjināgusinit udäckạni!”</span>
 
-<span class="l-fiero">**Ningoding bezhig anishinaabe madwe-giigido: “Oo, nashke gosha ezhinaagozid wa’aw name! Odeshkani indigo moozoong ezhinaagozinid odeshkani!”**</span>
+<span class="l-fiero">**Ningoding bezhig anishinaabe madwe-giigido: “Oo, nashke gosha ezhinaagozid wa’aw name! Odeshkani indigo moonzoong ezhinaagozinid odeshkani!”**</span>
 
 <span class="l-eng">*By and by a certain man was heard saying: “Oh, behold the form of this sturgeon! It has horns in the same manner as a moose!”*</span>
 
-<span class="l-gloss">Ningoding (by and by) bezhig anishinaabe (one person) madwe-giigido (was heard saying): “Oo, nashke gosha (oh, just look) ezhinaagozid (how it looks) wa’aw name (this sturgeon)! Odeshkani (it has horns) indigo moozoong (just like a moose) ezhinaagozinid (is how they look) odeshkani (its horns)!”</span>
+<span class="l-gloss">Ningoding (by and by) bezhig anishinaabe (one person) madwe-giigido (was heard saying): “Oo, nashke gosha (oh, just look) ezhinaagozid (how it looks) wa’aw name (this sturgeon)! Odeshkani (it has horns) indigo moonzoong (just like a moose) ezhinaagozinid (is how they look) odeshkani (its horns)!”</span>
 
 <span class="l-orig">(4) Mī∙i∙dac ka‘kina kī‘pījāwād tcīmānạn tciwâbạmāwād äjināgusinit.</span>
 
@@ -91,7 +90,7 @@ THE HORNED STURGEON.
 
 <span class="l-gloss">Bezhig idash jiimaan (and another canoe) miinawaa gii-izhaawag (went there again), miinawaa owaabamaawaan (and again they saw it).</span>
 
-<span class="l-orig">(10) Mī∙i∙’ᵘ äji∙o∙dā‘pinạng odạni‘t, ‘aᵉa’ᵘ ạnicinābä ogīpajibawān īni’ᵘ nạmäwạn.</span>
+<span class="l-orig">(10) Mī∙i∙´ᵘ äji∙o∙dā‘pinạng odạni‘t, ‘aᵉa´ᵘ ạnicinābä ogīpajibawān īni´ᵘ nạmäwạn.</span>
 
 <span class="l-fiero">**Mii iw ezhi-odaapinang odanit, a’aw anishinaabe ogii-bazhibawaan iniw namewan.**</span>
 
@@ -99,7 +98,7 @@ THE HORNED STURGEON.
 
 <span class="l-gloss">Mii iw ezhi-odaapinang (then taking up) odanit (his spear), a’aw anishinaabe (that man) ogii-bazhibawaan (speared) iniw namewan (the sturgeon).</span>
 
-<span class="l-orig">(11) A‘pī∙i∙dac mwā‘kibwīnnāt¹ m∙ī∙’ᵘ wâbạmāt mīgisiwạn ạgu‘kyänit imāⁿ nạmä ustigwāning.</span>
+<span class="l-orig">(11) A‘pī∙i∙dac mwā‘kibwīnnāt¹ m∙ī∙´ᵘ wâbạmāt mīgisiwạn ạgu‘kyänit imāⁿ nạmä ustigwāning.</span>
 
 <span class="l-fiero">**Apii idash mwaakibiinaad mii iw waabamaad migiziwan agokyenid imaa name oshtigwaaning.**</span>
 

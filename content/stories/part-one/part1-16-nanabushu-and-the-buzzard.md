@@ -2,7 +2,6 @@
 title: "16. Nanabushu and the Buzzard"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -41,7 +40,7 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Geget (truly) omisawinawaan (he envies him). “Ambe dash gaye niin (oh, that I too),” gii-inendam (he thought) gaa-izhi-ganoonaad (then, having spoken to him): “Gaawiin ina (not, is it) gidaa-bi-izhaasii (you could not come here), nishiimisa (my little brother)?” ogii-inaan (he said to him).</span>
 
-*Ạmbädạc, “would that;” it is less frequently used than ạmbägic and a‘pägic; the last is the best of the three forms.*
+*Jones’s footnote ¹, printed at the foot of p. 132: “Ạmbädạc, ‘would that;’ it is less frequently used than ạmbägic and a‘pägic; the last is the best of the three forms.” — carried from the document into the record 2026-09-02 (register §5 law 7).*
 
 <span class="l-orig">(4) Mīdạc kā∙i∙gut: “Kāwīn,” ugī∙i∙gōn.</span>
 
@@ -59,7 +58,7 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">“Aaniin (how) gegii-izhinaagwag (would it appear) minik awiya (as many as) gaa-waabamag (I have seen) giin idash (and you) i’iw (that) ji-bizindawisiiwaambanen (you would not listen to me)?”</span>
 
-*Kägī∙i∙cināgwa‘k, “would it look;” that is the literal meaning; but the sense is, “can it be possible.”*
+*Jones’s footnote ², printed at the foot of p. 132: “Kägī∙i∙cināgwa‘k, ‘would it look;’ that is the literal meaning; but the sense is, ‘can it be possible.’” — carried from the document into the record 2026-09-02 (register §5 law 7).*
 
 <span class="l-orig">(6) “Nänabucu, kīgusîn.”</span>
 
@@ -95,11 +94,11 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(10) “‘Aᵘ,” udinān. Mēdạc kā∙i∙ci∙i∙nāt: “Ạmbäsạnō, kīgawītcīwin.”</span>
 
-<span class="l-fiero">**“aw,” odinaan. Mii dash gaa-izhi-inaad: “Ambe sa noo, giga-wiijiiwin.”**</span>
+<span class="l-fiero">**“Aw,” odinaan. Mii dash gaa-izhi-inaad: “Ambe sa noo, giga-wiijiiwin.”**</span>
 
 <span class="l-eng">*“Good,” he said to him. Upon which he then said to him: “Pray, let me bear you company.”*</span>
 
-<span class="l-gloss">“Aaw (good),” odinaan (he says to him). Mii dash (and then) gaa-izhi-inaad (what he said to him): “Ambe sa noo (come now), giga-wiijiiwin (I will go along with you).”</span>
+<span class="l-gloss">“Aw (good),” odinaan (he says to him). Mii dash (and then) gaa-izhi-inaad (what he said to him): “Ambe sa noo (come now), giga-wiijiiwin (I will go along with you).”</span>
 
 <span class="l-orig">(11) “Awạwạ,” ugī∙i∙gōn. Mīdạc kā∙i∙ci∙u∙mbīwāt i∙i∙mā āna‘kwạtunk.</span>
 
@@ -165,7 +164,7 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Aanish (so) miinawaa (again) ezhi-daashkaasininig (when it blew apart) ezhi-bazigwa’onid (the other rose up and flew), ezhi-booniinid (alighting) i’iwedi (over yonder) eni-michaanig (where it was larger) i’iw aanakwad (that cloud).</span>
 
-*Änimi‘tcānik, “where there was a bigger;” the comparative element is in the initial stem äni-.*
+*Jones’s footnote ¹, printed at the foot of p. 134: “Änimi‘tcānik, ‘where there was a bigger;’ the comparative element is in the initial stem äni-.” — carried from the document into the record 2026-09-02 (register §5 law 7).*
 
 <span class="l-orig">(19) Mīdạc utānukanōnān: “Ānīn kätiyān, nicīmisa?” ugī∙i∙nān.</span>
 
@@ -231,6 +230,8 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Aano-wiikwaji’od (vainly struggling) awiiya (someone) ogii-noondawaa (he heard), bibaapinid (laughing) ikwewa’ (women), mii dash (and) gaa-ikidonid (what they said): “Mii sa o’omaa (here it is) ningoji (somewhere) endaad (he lives) gaa-ikidong (so they say) waabigaag (the Gray Porcupine),” ikidowa’ (they said) i’iw ikwewa’ (those women).</span>
 
+*Jones’s footnote ², printed at the foot of the English page 135: “The Foolish Maiden and her younger sister, sisters of Nänabushu.” Marker and note recovered at the page, 2026-08-19 (B5 page sweep); both were absent from this record. — carried from the document into the record 2026-09-02 (register §5 law 7).*
+
 <span class="l-orig">(27) Äcikīgitut: “Wâbigāgōwiyān ändāyān.”</span>
 
 <span class="l-fiero">**Ezhi-giigidod: “Waabigaagoowiyaan endaayaan.”**</span>
@@ -246,6 +247,8 @@ Nanabush and the Buzzards
 <span class="l-eng">*And this they said: “Suppose we should find the Gray Porcupine, my little sister,” to the other said she that was older.³*</span>
 
 <span class="l-gloss">O’ow dash (and this) ikidowa’ (they said): “Gonogena (suppose) mikawang (we find him) a’aw waabigaag (that Gray Porcupine), nishiim (my little sister),” ogii-inaan (she said to her) mii aw majiikwewis (she, the elder one).</span>
+
+*Jones’s footnote ³, printed at the foot of the English page 135: “The confusion of the subject of a question, as here, is common.” Marker and note recovered at the page, 2026-08-19 (B5 page sweep). — carried from the document into the record 2026-09-02 (register §5 law 7).*
 
 <span class="l-orig">(29) “Kāna gīn kīnōntawāsī?” udigōn īni’ᵘ ucīmäyạn. “Kīmi‘kawānān, māwīn.”</span>
 
@@ -277,7 +280,7 @@ Nanabush and the Buzzards
 
 <span class="l-eng">*“I wish the younger one would be there,” thought Nanabushu.*</span>
 
-<span class="l-gloss">“Wiikaage sa (would that) i’imaa dayaawi (he were there) a’aw weshiime’imaawid (that younger brother of his),” gii-inendam aw Nenaboozhoo (thought Nenaboozhoo).</span>
+<span class="l-gloss">“Wiikaage sa (would that) i’imaa dayaawi (he were there) a’aw weshiime’imaawid (the younger one),” gii-inendam aw Nenaboozhoo (thought Nenaboozhoo).</span>
 
 <span class="l-orig">(33) Cigwasa utāckika∙u∙gōn i∙i∙ᵘ nạntugā∙u∙gut, pīnic mạtciki‘kwäwis ka‘kina kā‘pīguga∙ạ∙nk; mi’sa kā∙i∙cigwīnawâbạmāt.</span>
 
@@ -287,13 +290,15 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Zhigwa sa (now then) odaashkika’ogoon (they split the tree on him) i’iw nandogaa’ogod (seeking him by chopping), biinish (until) majiikwewis (the elder one) gakina gaa-piigoga’ang (had chopped it all to pieces); mii sa (and so) gaa-izhi-gwiinawaabamaad (she failed to see him).</span>
 
+*Jones’s footnote ¹, printed at the foot of the English page 137: “This passage is in the passive, with ‘Nänabushu’ as subject; but in the translation it is turned about, with ‘him’ as object, and ‘the women’ as subject.” Marker and note recovered at the page, 2026-08-19 (B5 page sweep). — carried from the document into the record 2026-09-02 (register §5 law 7).*
+
 <span class="l-orig">(34) Mīsa aᵘ i‘kwä wäcīmämāwit iimāⁿ äyāt käga‘pī kā∙i∙cipō‘kwisitōt ī∙i∙ᵘ uwâgā‘kwạt.</span>
 
-<span class="l-fiero">**Mii sa aw ikwe weshiimemaawid i’imaa  eyaad gegapii gaa-izhi-bookwisdood i’iw  owaagaakwad.**</span>
+<span class="l-fiero">**Mii sa aw ikwe weshiimemaawid i’imaa  eyaad gegapii gaa-izhi-bookwisidood i’iw  owaagaakwad.**</span>
 
 <span class="l-eng">*And then the younger woman yonder, where she was, finally broke her axe.*</span>
 
-<span class="l-gloss">Mii sa aw ikwe (and then that woman) weshiimemaawid (the younger one) i’imaa eyaad (where she was) gegapii (at last) gaa-izhi-bookwisdood (when she broke) i’iw owaagaakwad (her axe).</span>
+<span class="l-gloss">Mii sa aw ikwe (and then that woman) weshiimemaawid (the younger one) i’imaa eyaad (where she was) gegapii (at last) gaa-izhi-bookwisidood (when she broke) i’iw owaagaakwad (her axe).</span>
 
 <span class="l-orig">(35) “Nicīm,” udinān a‘pī kāpō‘kwisitōnit ‘iᵉi’ᵘ uwâgā‘kwatōni; “Mīsa nīn tci∙u∙nābämiyān,” ugī∙i∙nān īni’ᵘ ucīmäyạn.</span>
 
@@ -337,7 +342,7 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(40) Äcimạdābīt sāga∙i∙gạn, mīdac ᵉi∙i∙māⁿ micawi‘kwạm kā∙i∙ci∙u∙cicink. “Ạmbäsạnō, ninga∙ạ∙mugōk ạnōtc, pinäsiwạg,” kī∙i∙nändạm.</span>
 
-<span class="l-fiero">**Ezhi-madaabiid zaaga’igan, mii dash i’imaa  mishawikwam gaa-izhi-ozhishing. “Ambe sa noo, ninga- amogoog anooj, binesiwag,” Gii-inendam.**</span>
+<span class="l-fiero">**Ezhi-madaabiid zaaga’igan, mii dash i’imaa  mishawikwam gaa-izhi-ozhishing. “Ambe sa noo, ninga-amogoog anooj, binesiwag,” Gii-inendam.**</span>
 
 <span class="l-eng">*When he came out upon a lake, then far out there on the ice he went and lay down, “Now, I shall be eaten by all kinds of birds,” he willed.*</span>
 
@@ -415,15 +420,15 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Mii dash zhigwa (and then now) eshkam igo (gradually) gaawiin doondansiiwan (it was no longer afraid), gegapii igo (till at last) owawangawenimigoon (he was treated freely and easily by it).</span>
 
-*Äckamigu kāwin tōⁿtansīwạn, “it gradually became less afraid;” literally, “it gradually did it less,” that is keeping up its fear.*
+*Jones’s footnote ¹, printed at the foot of p. 138: “Äckamigu kāwin tōⁿtansīwạn, ‘it gradually became less afraid;’ literally, ‘it gradually did it less,’ that is keeping up its fear.” — carried from the document into the record 2026-09-02 (register §5 law 7).*
 
 <span class="l-orig">(50) Käga‘pī∙i∙gu ōwi‘kitōwạn: “Ānīnta gīnawā untamāsiwäg o∙ō∙witi wīninwā‘kucīgạnät?” Mīsa gägä‘t ‘i∙i∙witi wäntạmigut.</span>
 
-<span class="l-fiero">**Gegapii igo o’ow ikidowan: “Aaniinde giinawaa ondamaasiweg  o’owidi wiininwaakoshiiganed?” Mii sa geget i’iwidi  wendamigod.**</span>
+<span class="l-fiero">**Gegapii igo o’ow ikidowan: “Aaniinda giinawaa ondamaasiweg  o’owidi wiininwaakoshiiganed?” Mii sa geget i’iwidi  wendamigod.**</span>
 
 <span class="l-eng">*Then finally this it said: “Why do you not eat of him from the small of the back, where he is fat?” Thereupon truly from that place was he eaten.*</span>
 
-<span class="l-gloss">Gegapii igo (then finally) o’ow ikidowan (this it said): “Aaniinde (why) giinawaa (you) ondamaasiweg (do not eat there of him) o’owidi (right here) wiininwaakoshiiganed (at the small of the back where he is fat)?” Mii sa geget (thereupon truly) i’iwidi (from that place) wendamigod (he was eaten by it).</span>
+<span class="l-gloss">Gegapii igo (then finally) o’ow ikidowan (this it said): “Aaniinda (why) giinawaa (you) ondamaasiweg (do not eat there of him) o’owidi (right here) wiininwaakoshiiganed (at the small of the back where he is fat)?” Mii sa geget (thereupon truly) i’iwidi (from that place) wendamigod (he was eaten by it).</span>
 
 <span class="l-orig">(51) Cigwa äckạmigu wâsa icipīndi‘kwänuwạn ‘i∙i∙māⁿ utcītīng, käga‘pīgu kāwīn sāgiti‘kwänisīwạn.</span>
 
@@ -465,14 +470,16 @@ Nanabush and the Buzzards
 
 <span class="l-gloss">Mii sa zhigwa (and then now) beshwaabandang (when he saw it near) wekwaagamiiwaninig (the far end of the water) i’iw zaaga’igan (the lake) ezhi-bagijidiyaamaad (when he released it from his rear), mii dash (whereupon) gaa-izhi-bangishininid (it fell) imaa michaya’ii (there on the ice).</span>
 
+*Jones’s footnote ², printed at the foot of p. 138: “Mi‘tcaya∙ī∙, ‘on the ice;’ literally, ‘on the firm.’” — carried from the document into the record 2026-09-02 (register §5 law 7).*
+
 *Mi‘tcaya∙ī∙, “on the ice;” literally, “on the firm.”*
 
 <span class="l-orig">(56) Mīdạc kā∙i∙nāt: “Wīnängä kīga∙i∙gō tci∙ạ∙ni∙a∙‘kīwạng,” ugī∙i∙nān. “Kīgawīnänimik ‘aᵘ ạnicinâbä.”</span>
 
-<span class="l-fiero">**Mii dash gaa-inaad: “Wiinaange giga-igoo ji-ani-akiiwang,” ogii-inaan. “Giga-wiinenimig aw  anishinaabe.”**</span>
+<span class="l-fiero">**Mii dash gaa-inaad: “Wiinenge giga-igoo ji-ani-akiiwang,” ogii-inaan. “Giga-wiinenimig aw  anishinaabe.”**</span>
 
 <span class="l-eng">*And this was what he said to it: “Buzzard shall you be called till the end of the world,” he said to it. “For your filth will you be loathed by the people.”*</span>
 
-<span class="l-gloss">Mii dash (and then) gaa-inaad (what he said to it): “Wiinaange (Buzzard) giga-igoo (you shall be called) ji-ani-akiiwang (until the end of the world),” ogii-inaan (he said to it). “Giga-wiinenimig (you will be loathed for your filth) aw anishinaabe (by the people).”</span>
+<span class="l-gloss">Mii dash (and then) gaa-inaad (what he said to it): “Wiinenge (Buzzard) giga-igoo (you shall be called) ji-ani-akiiwang (until the end of the world),” ogii-inaan (he said to it). “Giga-wiinenimig (you will be loathed for your filth) aw anishinaabe (by the people).”</span>
 
 </div>

@@ -2,7 +2,6 @@
 title: "22. Nanabushu and the Dancing Bullrushes"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -43,7 +42,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-orig">(4) Ka‘kina pingwācāgitiwa, kayädạc äci∙u∙nit ka‘kina wâbigunīn ubạta‘kibinä∙u∙ni.</span>
 
-<span class="l-fiero">**Gakina bingwaashaagidiwag, Gaye dash ezhi’onid gakina waabigoniin obadakibine’oni.**</span>
+<span class="l-fiero">**Gakina bingwaashaagidiwag, gaye dash ezhi’onid gakina waabigoniin obadakibine’oni.**</span>
 
 <span class="l-eng">*They were all nude, and they all had flowers sticking upon (their heads).*</span>
 
@@ -67,11 +66,11 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-orig">(7) Kägä‘tigu niwīki‘tcinīmi∙i∙timin.”</span>
 
-<span class="l-fiero">**Gegeti go niwii-gichi-niimi’idimin.”**</span>
+<span class="l-fiero">**Geget igo niwii-gichi-niimi’idimin.”**</span>
 
 <span class="l-eng">*To be sure, we hope for a big dance.”*</span>
 
-<span class="l-gloss">Gegeti go niwii-gichi-niimi’idimin.” (truly, we mean to have a big dance.”)</span>
+<span class="l-gloss">Geget igo niwii-gichi-niimi’idimin.” (truly, we mean to have a big dance.”)</span>
 
 <span class="l-orig">(8) “Niˢtcīmiˢtcā,² mīsạgu ᵉi∙i∙ᵘ päbā∙i∙nạnō‘kīyān, pạbānạ ntanīmi∙i∙tīyān.</span>
 
@@ -99,11 +98,11 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-orig">(11) Nicwāsugun wīnīmitiyāng, mīgu kayäᵉ, i kägạbätibi‘k wīnīmi∙i∙tīyāng.”</span>
 
-<span class="l-fiero">**Nishwaasogon wii-niimidiyaang, mii go gaye, [ge-]gabe-dibik wii-niimi’idiyaang.”**</span>
+<span class="l-fiero">**Nishwaasogon wii-niimidiyaang, mii go gaye, i ge-gabe-dibik wii-niimi’idiyaang.”**</span>
 
 <span class="l-eng">*For eight days we intend to dance, and also throughout the whole of every night do we expect to dance.”*</span>
 
-<span class="l-gloss">Nishwaasogon wii-niimidiyaang (for eight days we intend to dance), mii go gaye, [ge-]gabe-dibik wii-niimi’idiyaang.” (and also all night long we intend to dance.”)</span>
+<span class="l-gloss">Nishwaasogon wii-niimidiyaang (for eight days we intend to dance), mii go gaye, i ge-gabe-dibik wii-niimi’idiyaang.” (and also all night long we intend to dance.”)</span>
 
 <span class="l-orig">(12) “Niˢtcimiˢtcā, mānō, kayä nīn nīnganīmi∙i∙ti.”</span>
 
@@ -155,11 +154,11 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-orig">(18) Iskwạtcī nī∙o∙gun nāmi∙i∙timint mīcigwa ki‘kändạnk ayä‘kusit.</span>
 
-<span class="l-fiero">**Iskwaach niiyogon naami’idimind mii zhigwa gikendang ayekozid.**</span>
+<span class="l-fiero">**Ishkwaaji niiyogon naami’idimind mii zhigwa gikendang ayekozid.**</span>
 
 <span class="l-eng">*At the end of four days’ dancing, he then began to realize that he was tired.*</span>
 
-<span class="l-gloss">Iskwaach niiyogon naami’idimind (at the end of four days’ dancing) mii zhigwa gikendang ayekozid (he then realized he was tired).</span>
+<span class="l-gloss">Ishkwaaji niiyogon naami’idimind (at the end of four days’ dancing) mii zhigwa gikendang ayekozid (he then realized he was tired).</span>
 
 <span class="l-orig">(19) Ạbā‘pic nījwāsugun nāmi∙i∙timint ạnicāgu nạmạdạbi; ā‘pidci aiyä‘kusi, kayä wīwīsini.</span>
 

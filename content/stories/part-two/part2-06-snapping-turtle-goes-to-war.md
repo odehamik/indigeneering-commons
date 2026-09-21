@@ -2,7 +2,6 @@
 title: "6. Snapping-turtle goes to war"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,7 +18,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Ninguding kīnwä mi‘kinā‘k wīnä‘tagu päejik.</span>
+<span class="l-orig">(1) Ninguding kīⁿwä mi‘kinā‘k wīnä‘tagu päᵉjik.</span>
 
 <span class="l-fiero">**Ningoding giiwen’ mikinaak wiin eta go bezhig.**</span>
 
@@ -35,7 +34,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) gaa-inendang (what he thought).</span>
 
-<span class="l-orig">(3) “Pānimān ningadạninạndawâbạmāg käwīdcīwạgwā.”</span>
+<span class="l-orig">(3) “Pānimāⁿ ningadạninạndawâbạmāg käwīdcīwạgwā.”</span>
 
 <span class="l-fiero">**“Baanimaa ningad-ani-nandawaabamaag ge-wiijiiwagwaa”.**</span>
 
@@ -43,7 +42,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Baanimaa (after a while) ningad-ani-nandawaabamaag (I will go looking for them) ge-wiijiiwagwaa (those I shall go with).”</span>
 
-<span class="l-orig">(4) Mīdạc kīmādcād; ningudingīdạc ogī∙ạ∙ni∙u∙di‘tān wạdciwänz; mēdạc imān kā∙i∙jād ugidā‘ki, mēidạc äjipībāgit:</span>
+<span class="l-orig">(4) Mīdạc kīmādcād; ningudingīdạc ogī∙ạ∙ni∙u∙di‘tān wạdciwänz; mēdạc imāⁿ kā∙i∙jād ugidā‘ki, mēⁱdạc äjipībāgit;</span>
 
 <span class="l-fiero">**Mii dash gii-maajaad; Ningoding idash ogii-ani-oditaan wajiwens; mii dash imaa gaa-izhaad ogidaaki, mii dash ezhi-biibaagid:**</span>
 
@@ -59,7 +58,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Awenen (who) ge-wiijiiwag (will I go with) ji-nandobaniyaan (when I go to war)?”</span>
 
-<span class="l-orig">(6) Awi∙a∙dạc omạdwäna‘kwä‘tagōn:</span>
+<span class="l-orig">(6) Awi∙a∙dạc omạdwäna‘kwä‘tāgōn:</span>
 
 <span class="l-fiero">**Awiya dash omadwe-nakwetaagoon:**</span>
 
@@ -75,7 +74,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Niin (I) giga-wiijiiwin (will go with you) ji-nandobaniyan (when you go to war)!”</span>
 
-<span class="l-orig">(8) “‘Āu, ondās!” udinān.</span>
+<span class="l-orig">(8) “‘Āᵘ, ondās!” udinān.</span>
 
 <span class="l-fiero">**“Aaw, ondaas!” odinaan.**</span>
 
@@ -83,7 +82,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Aaw (all right), ondaas (come here)!” odinaan (he said to him).</span>
 
-<span class="l-orig">(9) Päcudạc pā∙ạ∙yānit īni’u ininiwạn, ogạnōnān mi‘kinā‘k:</span>
+<span class="l-orig">(9) Päcudạc pā∙ạ∙yānit īni´ᵘ ininiwạn, ogạnōnān mi‘kinā‘k:</span>
 
 <span class="l-fiero">**Besho dash baa-ayaanid iniw ininiwan, oganoonaan mikinaak:**</span>
 
@@ -91,7 +90,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Besho dash (and when nearby) baa-ayaanid (he was coming about) iniw ininiwan (that man), oganoonaan (spoke to him) mikinaak (Snapping-Turtle):</span>
 
-<span class="l-orig">(10) “Ckumān pigagwädcīn käta∙i∙jīwumbạnän mīgāzoyạng!”</span>
+<span class="l-orig">(10) “Ckumāⁿ pigagwädcīn käta∙i∙jīwumbạnän mīgāzoyạng!”</span>
 
 <span class="l-fiero">**“Shkomaa bi-gagwejiin ge-daa-izhiiwambanen miigaazoyang.”**</span>
 
@@ -99,7 +98,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Shkomaa (just) bi-gagwejiin (come and try) ge-daa-izhiiwambanen (what you would do) miigaazoyang (should we fight)!”</span>
 
-<span class="l-orig">(11) Pạgamāgạndac uda‘kunān ‘aga’u inini.</span>
+<span class="l-orig">(11) Pạgamāgạndac uda‘kunān ‘aᵉa´ᵘ inini.</span>
 
 <span class="l-fiero">**Bagamaagan dash odakonaan a’aw inini.**</span>
 
@@ -107,7 +106,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Bagamaagan dash (now a war-club) odakonaan (he held) a’aw inini (that man).</span>
 
-<span class="l-orig">(12) Mīdạc käegā‘t pigagwädcīt.</span>
+<span class="l-orig">(12) Mīdạc kāᵉgā‘t pigagwädcīt.</span>
 
 <span class="l-fiero">**Mii dash geget bi-gagwejiid.**</span>
 
@@ -115,15 +114,15 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) geget (truly) bi-gagwejiid (he came making a show).</span>
 
-<span class="l-orig">(13) “Hahahu’, hahahu’, hahahu’, hahahu’!”</span>
+<span class="l-orig">(13) “Hahahu´, hahahu´, hahahu´, hahahu´!”</span>
 
 <span class="l-fiero">**“Hahaho’, hahaho’, hahaho’, hahaho’!”**</span>
 
-<span class="l-eng">*“Hahahu, hahahu, hahahu, hahaho!”*</span>
+<span class="l-eng">*“Hahahú, hahahú, hahahú, hahahú!”*</span>
 
 <span class="l-gloss">“Hahaho’, hahaho’, hahaho’, hahaho’!”</span>
 
-<span class="l-orig">(14) Cīgwa umān pạdạgwicininit īni’u ininiwạn ugīpîminīma∙u∙gōn ‘igi’u pạgạmāgạn.</span>
+<span class="l-orig">(14) Cīgwa umāⁿ pạdạgwicininit īni´ᵘ ininiwạn ugīpîminīma∙u∙gōn ‘iᵉi´ᵘ pạgạmāgạn.</span>
 
 <span class="l-fiero">**Zhigwa omaa ba-dagwishininid iniw ininiwan ogii-bimi-niima’ogoon i’iw bagamaagan.**</span>
 
@@ -155,7 +154,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Indawaaj (you had better) giiwen (go home),” odinaan (he said to him), “maagizhaa (lest perhaps) gid-anisigoo (you be slain) miigaading (in battle),” odinaan (he said to him).</span>
 
-<span class="l-orig">(18) Mīdạc kī‘kīwäd ‘aga’u inini kī∙ạ∙nimādcā dac mī‘kinā‘k; mīnawā ninguding kī∙ạ∙nia‘kwāmạdciwä wạdciwing.</span>
+<span class="l-orig">(18) Mīdạc kī‘kīwäd ‘aᵉa´ᵘ inini kī∙ạ∙nimādcā dac mī‘kinā‘k; mīnawā ninguding kī∙ạ∙nia‘kwāmạdciwä wạdciwing.</span>
 
 <span class="l-fiero">**Mii dash gii-giiwed a’aw inini gii-ani-maajaa dash mikinaak; miinawaa ningoding gii-ani-akwaamajiwe wajiwing.**</span>
 
@@ -219,13 +218,13 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) enaad (he said to them):</span>
 
-<span class="l-orig">(26) “Skomān kạgwätcīyu‘k kädōdamägobạn mīgāsoyạnk!”</span>
+<span class="l-orig">(26) “Skomāⁿ kạgwätcīyu‘k kädōdamägobạn mīgāsoyạnk!”</span>
 
-<span class="l-fiero">**“Skomaa gagwejiiyog ge-doodamegoban miigaazoyang!”**</span>
+<span class="l-fiero">**“Skomaa gagwejiiyok ge-doodamegoban miigaazoyang!”**</span>
 
 <span class="l-eng">*“Just you show what you would do should we get into a fight!”*</span>
 
-<span class="l-gloss">“Skomaa (just) gagwejiiyog (try, you) ge-doodamegoban (what you would do) miigaazoyang (should we fight)!”</span>
+<span class="l-gloss">“Skomaa (just) gagwejiiyok (try, you) ge-doodamegoban (what you would do) miigaazoyang (should we fight)!”</span>
 
 <span class="l-orig">(27) Mīdac ka‘kina kā∙i∙ji∙o∙dci‘tāwād, tibickō asînīg kījināguziwạg.</span>
 
@@ -235,7 +234,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) gakina (all) gaa-izhi-ojitaawaad (when they drew into their shells), dibishkoo asiniig (like stones) gii-izhinaagoziwag (they looked).</span>
 
-<span class="l-orig">(28) “Ānīc, mīsa’ ogōu käwīdcī∙ạ∙gwā,” i‘kido mi‘kinā‘k.</span>
+<span class="l-orig">(28) “Ānīc, mīsa´ ogōᵘ käwīdcī∙ạ∙gwā,” i‘kido mi‘kinā‘k.</span>
 
 <span class="l-fiero">**“Aaniish mii saa ogow ge-wiijii’agwaa,” ikido mikinaak.**</span>
 
@@ -251,7 +250,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) gii-maajaawaad (they set out) nandobaniwaad (going to war).</span>
 
-<span class="l-orig">(30) Ningutingidạc ạninîbāwād tibi‘kạdinig mạdwänạgạmō päejik mîskwādäsi, mīdạc äna∙ạ∙nk: —</span>
+<span class="l-orig">(30) Ningutingidạc ạninîbāwād tibi‘kạdinig mạdwänạgạmō päᵉjik mîskwādäsi, mīdạc äna∙ạ∙nk: —</span>
 
 <span class="l-fiero">**Ningoding idash ani-nibaawaad dibikadinig madwe-nagamo bezhig miskwaadesi, mii dash ena’ang: -**</span>
 
@@ -259,19 +258,19 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Ningoding idash (and one night) ani-nibaawaad (as they were going to sleep) dibikadinig (when night fell) madwe-nagamo (was heard singing) bezhig miskwaadesi (a certain Turtle), mii dash (and so) ena’ang (this he sang):</span>
 
-<span class="l-orig">(31) “Mîcī‘känwā! ōdänāngi kīdā‘tawänigōmin yāaha!</span>
+<span class="l-orig">(31) “Mîcī‘käⁿwā! ōdänāngi kīdā‘tawänigōmin yāᵃha!</span>
 
 <span class="l-fiero">**Mishiikenwaa! oodenaangi gidaatawenigoomin yaaha!**</span>
 
-<span class="l-eng">*“O Snapping-Turtle! in a town are we prophesied an evil fate, yaaha!*</span>
+<span class="l-eng">*“O Snapping-Turtle! in a town are we prophesied an evil fate, yāᵃha!*</span>
 
 <span class="l-gloss">Mishiikenwaa! (O Snapping-Turtle!) oodenaangi (in a town) gidaatawenigoomin (we are foretold an evil fate) yaaha!</span>
 
-<span class="l-orig">(32) Nīndinā‘pawä yāaha, nīndinā‘pawä yāaha, yāaha!”</span>
+<span class="l-orig">(32) Nīndinā‘pawä yāᵃha, nīndinā‘pawä yāᵃha, yāᵃha!”</span>
 
 <span class="l-fiero">**Nindinaabawe yaaha, nindinaabawe yaaha!”**</span>
 
-<span class="l-eng">*Such was my dream, yaaha! such was my dream, yaaha, yaaha!”*</span>
+<span class="l-eng">*Such was my dream, yā-ᵃha! such was my dream, yā-ᵃha, yāᵃha!”*</span>
 
 <span class="l-gloss">Nindinaabawe (such was my dream) yaaha, nindinaabawe (such was my dream) yaaha!</span>
 
@@ -283,7 +282,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mikinaak idash (and Snapping-Turtle) nwaandawaad (when he heard him) onishkimigoon (was angered by him).</span>
 
-<span class="l-orig">(34) Mēdạc kā∙i∙ji∙u∙dā‘pinạng umō‘komān kī∙i∙nōdä i∙i∙‘mān ayānit mīdạc gạgwädcimād:</span>
+<span class="l-orig">(34) Mēdạc kā∙i∙ji∙u∙dā‘pinạng umō‘komān kī∙i∙nōdä i∙i∙´māⁿ ayānit mīdạc gạgwädcimād:</span>
 
 <span class="l-fiero">**Mii dash gaa-izhi-odaapinang omookomaan gii-inoode imaa ayaanid mii dash gagwejimaad:**</span>
 
@@ -291,7 +290,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) gaa-izhi-odaapinang (taking up) omookomaan (his knife) gii-inoode (he crawled) imaa ayaanid (to where he was) mii dash (and so) gagwejimaad (he asked him):</span>
 
-<span class="l-orig">(35) “ānīn ä‘kidoyan?”</span>
+<span class="l-orig">(35) “Ānīn ä‘kidoyan?”</span>
 
 <span class="l-fiero">**“Aaniin ekidoyan?”**</span>
 
@@ -323,21 +322,21 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) miinawaa (again) gii-ani-maajaawaad (they went on their way).</span>
 
-<span class="l-orig">(39) A‘pī∙i∙dạc wädisāwād anicinābä odä‘tōnit, mi‘kinā‘k ogī∙i∙nāg ka‘kina ucîmagạnīcimag:</span>
+<span class="l-orig">(39) A‘pī∙i∙dạc wädisāwād anicinābä odä‘tōnit, mi‘kinā‘k ogī∙i∙nāᵉ ka‘kina ucîmāgạnīcimaᵉ:</span>
 
-<span class="l-fiero">**Apii dash wedisowaad anishinaabe oodetoonid, mikinaak ogii-inaag gakina ozhimaaganishima’:**</span>
+<span class="l-fiero">**Apii dash wedisaawaad anishinaabe oodetoonid, mikinaak ogii-inaag gakina ozhimaaganishima’:**</span>
 
 <span class="l-eng">*And when they came to where some people had a town, Snapping-Turtle said to all his soldiers:*</span>
 
-<span class="l-gloss">Apii dash (and when) wedisowaad (they came to) anishinaabe oodetoonid (where people had a town), mikinaak (Snapping-Turtle) ogii-inaag (said to) gakina (all) ozhimaaganishima’ (his soldiers):</span>
+<span class="l-gloss">Apii dash (and when) wedisaawaad (they came to) anishinaabe oodetoonid (where people had a town), mikinaak (Snapping-Turtle) ogii-inaag (said to) gakina (all) ozhimaaganishima’ (his soldiers):</span>
 
-<span class="l-orig">(40) “Mī∙u∙mān ayaiyu‘k.</span>
+<span class="l-orig">(40) “Mī∙u∙māⁿ ayaiyu‘k.</span>
 
-<span class="l-fiero">**Mii omaa ayaayog.**</span>
+<span class="l-fiero">**Mii omaa ayaayok.**</span>
 
 <span class="l-eng">*“In this place do you remain.*</span>
 
-<span class="l-gloss">“Mii omaa (here) ayaayog (do you stay).”</span>
+<span class="l-gloss">“Mii omaa (here) ayaayok (do you stay).”</span>
 
 <span class="l-orig">(41) Ningạtijā, ningạnadawā‘to.”</span>
 
@@ -347,7 +346,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Ningad-izhaa (I will go), ninga-nadawaatoo (I will go to scout).”</span>
 
-<span class="l-orig">(42) Päejik uwīdcīwan umijinawämạn.</span>
+<span class="l-orig">(42) Päᵉjik uwīdcīwan umijinawämạn.</span>
 
 <span class="l-fiero">**Bezhig owiijiiwaan omizhinaweman.**</span>
 
@@ -355,7 +354,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Bezhig (one) owiijiiwaan (he went along with) omizhinaweman (his attendant).</span>
 
-<span class="l-orig">(43) Mīdạc ijāwād ayānik wigiwāmạn, päejikidạc cābundawāning kī‘pīndigäwạg nībādîbi‘k.</span>
+<span class="l-orig">(43) Mīdạc ijāwād ayānik wigiwāmạn, päᵉjikidạc cābundawāning kī‘pīndigäwạg nībādîbi‘k.</span>
 
 <span class="l-fiero">**Mii dash izhaawaad ayaanig wiigiwaaman, bezhig idash zhaabondawaaning gii-biindigewag nibaa-dibik.**</span>
 
@@ -395,7 +394,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Oodayaa’obiinoomonaawaan (they hid in their bosoms) oshtigwaanan (the heads).</span>
 
-<span class="l-orig">(48) Mīdạc kā∙i∙jikāzowād; mi‘tigwanāgạn a‘tä, imān dạc pīndik mī∙i∙mā kī‘kāzōwād.</span>
+<span class="l-orig">(48) Mīdạc kā∙i∙jikāzowād; mi‘tigwanāgạn a‘tä, imāⁿ dac pīndik mī∙i∙mā kī‘kāzōwād.</span>
 
 <span class="l-fiero">**Mii dash gaa-izhi-gaazowaad; mitigwanaagan ate, imaa biindig mii imaa gii-gaazowaad.**</span>
 
@@ -403,7 +402,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) gaa-izhi-gaazowaad (they hid themselves); mitigwanaagan (a wooden bowl) ate (was there), imaa biindig (there inside) mii imaa (there) gii-gaazowaad (they hid themselves).</span>
 
-<span class="l-orig">(49) Kigijäbidạc kīmi‘kawāwạg nīnj kīckigwäwād.</span>
+<span class="l-orig">(49) Kigijäbidạc kīmi‘kawāwạg nīⁿj kīckigwäwād.</span>
 
 <span class="l-fiero">**Gigizheb idash gii-mikawaawag niizh giishkigwewaad.**</span>
 
@@ -419,15 +418,15 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Awegwen (someone) gaa-doodamogwen (must have done it),” ikidowag (they said).</span>
 
-<span class="l-orig">(51) Mīdạc kā∙i∙jinạndawābạdcigäwād miziwä ạgwạdcing, kạwin awiya ogīm‘ikawāsiwāwān.</span>
+<span class="l-orig">(51) Mīdạc kā∙i∙jinạndawābạdcigäwād miziwä ạgwạdcing, kāwin awiya ogīmi‘kawāsiwāwān.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhinandawaabanjigewaad miziwe agwajiing, gaawiin awiya ogiimikawaasiwaawaan.**</span>
+<span class="l-fiero">**Mii dash gaa-izhinandawaabajigewaad miziwe agwajiing, gaawiin awiya ogiimikawaasiwaawaan.**</span>
 
 <span class="l-eng">*Thereupon they made a search everywhere out of doors, but they did not find anybody.*</span>
 
-<span class="l-gloss">Mii dash (and so) gaa-izhinandawaabanjigewaad (they searched) miziwe agwajiing (everywhere outdoors), gaawiin (not) awiya (anyone) ogii-mikawaasiwaawaan (did they find).</span>
+<span class="l-gloss">Mii dash (and so) gaa-izhinandawaabajigewaad (they searched) miziwe agwajiing (everywhere outdoors), gaawiin (not) awiya (anyone) ogii-mikawaasiwaawaan (did they find).</span>
 
-<span class="l-orig">(52) Kägạ‘pi kī∙i∙‘kidōwạg:</span>
+<span class="l-orig">(52) Kägạ‘pī kī∙i∙‘kidōwạg:</span>
 
 <span class="l-fiero">**Gegaapii gii-ikidowag:**</span>
 
@@ -435,7 +434,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Gegaapii (at length) gii-ikidowag (they said):</span>
 
-<span class="l-orig">(53) “Kạnabạtc mi‘kinā‘k ‘aga’u kā‘tōdạnk.”</span>
+<span class="l-orig">(53) “Kạnabạtc mi‘kinā‘k ‘aᵉa´ᵘ kā‘tōdạnk.”</span>
 
 <span class="l-fiero">**“Ganabaj mikinaak a’aw gaa-doodang.”**</span>
 
@@ -451,7 +450,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) ekidowaad (they said):</span>
 
-<span class="l-orig">(55) “Kigīwâbạndānāwā na ānawi ‘igi’u mi‘tigwanāgạn?”</span>
+<span class="l-orig">(55) “Kigīwâbạndānāwā na ānawi ‘iᵉi´ᵘ mi‘tigwanāgạn?”</span>
 
 <span class="l-fiero">**“Gigii-waabandaanaawaa na aanawi i’iw mitigwanaagan?”**</span>
 
@@ -467,7 +466,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Gaawiin (no),” ikidowag (they said).</span>
 
-<span class="l-orig">(57) Päejik idạc ạnicinābä ogīpā‘kinān ‘igi’u unāgạnic.</span>
+<span class="l-orig">(57) Päᵉjik idạc ạnicinābä ogīpā‘kinān ‘iᵉi´ᵘ unāgạnic.</span>
 
 <span class="l-fiero">**Bezhig idash anishinaabe ogii-baakinaan i’iw onaaganish.**</span>
 
@@ -475,7 +474,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Bezhig idash anishinaabe (so one person) ogii-baakinaan (uncovered) i’iw onaaganish (that wretched bowl).</span>
 
-<span class="l-orig">(58) Mīdạc imān käekä‘t ayāwād mi‘kinā‘k kayä au mījinawä.</span>
+<span class="l-orig">(58) Mīdạc imāⁿ käᵉgä‘t ayāwād mi‘kinā‘k kayä aᵘ mījinawä.</span>
 
 <span class="l-fiero">**Mii dash imaa geget ayaawaad mikinaak gaye aw mizhinawe.**</span>
 
@@ -485,13 +484,13 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-orig">(59) Mi‘kinā‘kidạc kīta‘kunā; awidạc askābäwis kīmādcība∙i∙wä, kāwīn kītäbibînāsī.</span>
 
-<span class="l-fiero">**Mikinaak idash gii-dakonaa; aw idash oshkabewis gii-maajiiba’iwe. gaawiin gii-dakinaasii.**</span>
+<span class="l-fiero">**Mikinaak idash gii-dakonaa; aw idash oshkaabewis gii-maajiiba’iwe, gaawiin gii-debibinaasii.**</span>
 
 <span class="l-eng">*Now, Snapping-Turtle was taken captive; but the attendant took to flight, he was not captured.*</span>
 
-<span class="l-gloss">Mikinaak idash (and Snapping-Turtle) gii-dakonaa (was taken captive); aw idash oshkabewis (but the attendant) gii-maajiiba’iwe (took flight), gaawiin (not) gii-dakinaasii (was he caught).</span>
+<span class="l-gloss">Mikinaak idash (and Snapping-Turtle) gii-dakonaa (was taken captive); aw idash oshkaabewis (but the attendant) gii-maajiiba’iwe (took flight), gaawiin (not) gii-debibinaasii (was he caught).</span>
 
-<span class="l-orig">(60) “Āwisạ’, nisādā mi‘kinā‘k!”</span>
+<span class="l-orig">(60) “Āwisạ´, nisādā mi‘kinā‘k!”</span>
 
 <span class="l-fiero">**“Aaw isa, nisaadaa mikinaak!”**</span>
 
@@ -523,7 +522,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“E’e (oh), nashke gosha (just look) miskwaadesiwag (the Painted-Turtles)!</span>
 
-<span class="l-orig">(64) Käegätigunā kāwīsinimin!”</span>
+<span class="l-orig">(64) Käᵉgätigunā kāwīsinimin!”</span>
 
 <span class="l-fiero">**Geget igo naa gga-wiisinimin!”**</span>
 
@@ -531,7 +530,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Geget igo naa (surely indeed now) gga-wiisinimin (we shall eat)!”</span>
 
-<span class="l-orig">(65) Mīdạc mindimoyäyạg umackimodāwān udā‘pinạmowād, kīmonjagināwād.</span>
+<span class="l-orig">(65) Mīdạc mindimoyäyạg umackimodāwān udā‘pinạmowād, kīmoⁿjagināwād.</span>
 
 <span class="l-fiero">**Mii dash mindimooyenyag omashkimodaawaan odaapinamowaad, gii-mozhaginaawaad.**</span>
 
@@ -539,7 +538,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) mindimooyenyag (the old women) omashkimodaawaan (their bags) odaapinamowaad (when they took up), gii-mozhaginaawaad (they gathered them in).</span>
 
-<span class="l-orig">(66) Mīdạc kīkistciwisiniwād mîskwādäsiwạg, mī igi’u cemāgenijạg.</span>
+<span class="l-orig">(66) Mīdạc kīkistciwisiniwād mîskwādäsiwaᵉ, mī igi’ᵘ cemāgenijạg.</span>
 
 <span class="l-fiero">**Mii dash gii-gichi-wiisiniwaad miskwaadesiwag, mii igiw zhimaaganishag.**</span>
 
@@ -563,7 +562,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) ekidod (he said):</span>
 
-<span class="l-orig">(69) “Kāwīn, nindādcāgizwạg igiu abinōdcīyạg anikibwunāmozoyān.”</span>
+<span class="l-orig">(69) “Kāwīn, nindādcāgizwāg īgiᵘ abinōdcīyạg anikibwunāmozoyān.”</span>
 
 <span class="l-fiero">**“Gaawiin, nindaajaagizwaag igiw abinoojiiyag ani-gibwonaamozoyaan.”**</span>
 
@@ -571,7 +570,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Gaawiin (no), nindaajaagizwaag (I might burn up) igiw abinoojiiyag (those children) ani-gibwonaamozoyaan (as I smother in the smoke).”</span>
 
-<span class="l-orig">(70) “Ā, kạnạbạtc gäegä‘t,” i‘kidowạg.</span>
+<span class="l-orig">(70) “Ā, kạnạbạtc gäᵉgä‘t,” i‘kidowạg.</span>
 
 <span class="l-fiero">**“Aa, ganabaj geget,” ikidowag.**</span>
 
@@ -579,7 +578,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Aa (why), ganabaj (perhaps) geget (it is true),” ikidowag (they said).</span>
 
-<span class="l-orig">(71) Mīnawā i‘kidowạg:</span>
+<span class="l-orig">(71) Minawā i‘kidāwạg:</span>
 
 <span class="l-fiero">**Miinawaa ikidowag:**</span>
 
@@ -611,7 +610,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Nindaajaagizwaag (I might burn up) abinoojiiyag (the children).”</span>
 
-<span class="l-orig">(75) “Käegä‘t māwīn,” i‘kidowạg.</span>
+<span class="l-orig">(75) “Käᵉgä‘t māwīn,” i‘kidowạg.</span>
 
 <span class="l-fiero">**“Geget maawin,” ikidowag.**</span>
 
@@ -619,7 +618,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Geget maawin (true, that might be),” ikidowag (they said).</span>
 
-<span class="l-orig">(76) Mīnawạdec kī∙i∙kidōwag:</span>
+<span class="l-orig">(76) Mīnawādec kī∙i∙‘kidōwag:</span>
 
 <span class="l-fiero">**Miinawaa dash gii-ikidowag:**</span>
 
@@ -629,13 +628,13 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-orig">(77) “Indawā nibī‘kāng pạginādā!”</span>
 
-<span class="l-fiero">**“Indawaa nibikaang paginaadaa!”**</span>
+<span class="l-fiero">**“Indawaa nibiikaang paginaadaa!”**</span>
 
 <span class="l-eng">*“Therefore into the water let us fling him!”*</span>
 
-<span class="l-gloss">“Indawaa (therefore) nibikaang (into the water) paginaadaa (let us fling him)!”</span>
+<span class="l-gloss">“Indawaa (therefore) nibiikaang (into the water) paginaadaa (let us fling him)!”</span>
 
-<span class="l-orig">(78) “Mī∙i∙’u tōdawiciyu‘k,” i‘kido mi‘kinā‘k. (1)</span>
+<span class="l-orig">(78) “Mī∙i∙´ᵘ tōdawiciyu‘k,” i‘kido mi‘kinā‘k. (1)</span>
 
 <span class="l-fiero">**“Mii iw doodawishiyok,” ikido mikinaak.**</span>
 
@@ -645,29 +644,31 @@ SNAPPING-TURTLE GOES TO WAR
 
 *(1) It is usual to tell of the snapping-turtle objecting to be thrown into the water.*
 
+*(1) It is usual to tell of the snapping-turtle objecting to be thrown into the water.*
+
 <span class="l-orig">(79) Mēdạc māmawi kīnawạdināwāt mādcīnāwāt nibī‘kāng, mi‘kinā‘kidạc kīmạmīndcimā‘kwīkāzo pä‘kāgu.</span>
 
-<span class="l-fiero">**Mii dash maamawi gii-nawadinawaad maajiinaawaad nibikaang, mikinaak idash gii-mamiinjimaakwiikaazo bekaa go.**</span>
+<span class="l-fiero">**Mii dash maamawi gii-nawadinawaad maajiinaawaad nibiikaang, mikinaak idash gii-mamiinjimaakwiikaazo bekaa go.**</span>
 
 <span class="l-eng">*And when at the same time they all seized him to carry him to the water, Snapping-Turtle pretended to resist by grabbing hold of things, but without (real) effort.*</span>
 
-<span class="l-gloss">Mii dash (and so) maamawi (all together) gii-nawadinawaad (they seized him) maajiinaawaad (carrying him off) nibikaang (to the water), mikinaak idash (and Snapping-Turtle) gii-mamiinjimaakwiikaazo (pretended to cling fast to things) bekaa go (but only lightly).</span>
+<span class="l-gloss">Mii dash (and so) maamawi (all together) gii-nawadinawaad (they seized him) maajiinaawaad (carrying him off) nibiikaang (to the water), mikinaak idash (and Snapping-Turtle) gii-mamiinjimaakwiikaazo (pretended to cling fast to things) bekaa go (but only lightly).</span>
 
-<span class="l-orig">(80) A‘pī∙i∙dạc tägwạcimāwād nibī‘käng ugīpạgināwān, mēdạc imān kī∙ạ∙ngwundcing ag‘a’u mi‘kinā‘k.</span>
+<span class="l-orig">(80) A‘pī∙i∙dac tägwạcimāwād nibī‘käng ugīpạgināwān, mēdạc imāⁿ kī∙ạ∙ngwundcing ‘aᵉa´ᵘ mi‘kinā‘k.</span>
 
-<span class="l-fiero">**Apii idash degwashimaawaad nibikaang ogii-paginaawaan, mii dash imaa gii-agwonjing a’aw mikinaak.**</span>
+<span class="l-fiero">**Apii idash degwashimaawaad nibiikaang ogii-paginaawaan, mii dash imaa gii-agwonjing a’aw mikinaak.**</span>
 
 <span class="l-eng">*And when they were come at the water, they flung him (in), and so there on the water floated Snapping-Turtle.*</span>
 
-<span class="l-gloss">Apii idash (and when) degwashimaawaad (they brought him) nibikaang (to the water) ogii-paginaawaan (they flung him in), mii dash imaa (and so there) gii-agwonjing (floated) a’aw mikinaak (that Snapping-Turtle).</span>
+<span class="l-gloss">Apii idash (and when) degwashimaawaad (they brought him) nibiikaang (to the water) ogii-paginaawaan (they flung him in), mii dash imaa (and so there) gii-agwonjing (floated) a’aw mikinaak (that Snapping-Turtle).</span>
 
-<span class="l-orig">(81) Päejikidạc i‘kwä nibinādit ogīmîsawänimān wi∙ạ∙mwāt īni’u mi‘kinā‘kwạn.</span>
+<span class="l-orig">(81) Päᵉjikidạc i‘kwä nibinādit ogīmîsawänimān wi∙ạ∙mwāt īni´ᵘ mi‘kinā‘kwạn.</span>
 
-<span class="l-fiero">**Bezhig ikwe nibinaadid ogii-misawenimaan wii-amaad iniw mikinaakwan.**</span>
+<span class="l-fiero">**Bezhig ikwe nibinaadid ogii-misawenimaan wii-amwaad iniw mikinaakwan.**</span>
 
-<span class="l-eng">*Now, a certain woman who went to get some water desired to have Snapping-Turtle to eat,*</span>
+<span class="l-eng">*Now, a certain woman who went to get some water desired to have Snapping-Turtle to eat.*</span>
 
-<span class="l-gloss">Bezhig ikwe (a certain woman) nibinaadid (who went to fetch water) ogii-misawenimaan (desired) wii-amaad (to eat) iniw mikinaakwan (that Snapping-Turtle),</span>
+<span class="l-gloss">Bezhig ikwe (a certain woman) nibinaadid (who went to fetch water) ogii-misawenimaan (desired) wii-amwaad (to eat) iniw mikinaakwan (that Snapping-Turtle).</span>
 
 <span class="l-orig">(82) Mi‘tig ogī∙o∙dā‘pinān mādcigwānāt.</span>
 
@@ -677,7 +678,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mitig (a stick) ogii-odaapinaan (she took up) maajigwaanaad (to draw him in).</span>
 
-<span class="l-orig">(83) Mi‘kinā‘kidạc kāwīn käegä‘t kinibozī.</span>
+<span class="l-orig">(83) Mi‘kinā‘kidạc kāwīn käᵉgä‘t kinibozī.</span>
 
 <span class="l-fiero">**Mikinaak idash gaawiin geget gii-nibosii.**</span>
 
@@ -685,15 +686,15 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mikinaak idash (and Snapping-Turtle) gaawiin (not) geget (really) gii-nibosii (was dead).</span>
 
-<span class="l-orig">(84) Ugīnîsān ini’u i‘käwạn, ogīkīckigwäjwān, mīdāc ki∙a∙nimādcīkwaciwät anāmīndîm.</span>
+<span class="l-orig">(84) Ugīnîsān īni´ᵘ i‘käwạn, ogīkīckigwäjwān, mīdạc ki∙a∙nimādcīkwaciwät anāmīndîm.</span>
 
 <span class="l-fiero">**Ogii-nisaan iniw ikwewan, ogiishkigwezhwaan, mii dash gii-ani-maajiikwazhiwed anaamiindim.**</span>
 
 <span class="l-eng">*He slew the woman, he cut off her head, and at that he swam off into the water below.*</span>
 
-<span class="l-gloss">Ogii-nisaan (he slew) iniw ikwewan (that woman), ogii-giishkigwezhwaan (he cut off her head), mii dash (and so) gii-ani-maajiikwazhiwed (he swam off) anaamiindim (down under the water).</span>
+<span class="l-gloss">Ogii-nisaan (he slew) iniw ikwewan (that woman), ogiishkigwezhwaan (he cut off her head), mii dash (and so) gii-ani-maajiikwazhiwed (he swam off) anaamiindim (down under the water).</span>
 
-<span class="l-orig">(85) Minisābikōngidạc kīmạdwä∙ạ∙gwā‘tā, mi‘kinā‘k mạdwänạgạmu”: —</span>
+<span class="l-orig">(85) Minisābikōngidac kīmạdwä∙ạ∙gwā‘tā, mi‘kinā‘k mạdwänạgạmᵘ: —</span>
 
 <span class="l-fiero">**Minisaabikoong idash gii-madwe-agwaataa. mikinaak madwe-nagamo:**</span>
 
@@ -709,7 +710,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Niin isa (it was I), ningii-nisaa (I slew) ya’aw ikwe (that woman)!</span>
 
-<span class="l-orig">(87) Nīnīsa, ninginisā yā∙a∙wi‘kwäa!</span>
+<span class="l-orig">(87) Nīnīsa, ninginisā yā∙a∙wi‘kwä!</span>
 
 <span class="l-fiero">**Niin isa, ningii-nisaa ya’aw ikwe!**</span>
 
@@ -725,7 +726,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Niin isa (it was I), ningii-nisaa (I slew) ya’aw ikwe (that woman)!</span>
 
-<span class="l-orig">(89) Kīmi‘kawāg ‘aga’u i‘kwä imān tcīgibīg kīckigwät.</span>
+<span class="l-orig">(89) Kīmi‘kawāᵉ ‘aᵉa´ᵘ i‘kwä imāⁿ tcīgibīg kīckigwät.</span>
 
 <span class="l-fiero">**Gii-mikawaag a’aw ikwe imaa jiigibiig giishkigwed.**</span>
 
@@ -749,7 +750,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Nigig idash (and Otter) gii-baapi (laughed):</span>
 
-<span class="l-orig">(92) “An, an, an, an!”</span>
+<span class="l-orig">(92) “Aⁿ, aⁿ, aⁿ, aⁿ!”</span>
 
 <span class="l-fiero">**“An, an, an, an!”**</span>
 
@@ -757,7 +758,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“An, an, an, an!”</span>
 
-<span class="l-orig">(93) Mēdạc kīpa‘kubīt au nīgīg.</span>
+<span class="l-orig">(93) Mēdạc kīpa‘kubīt aᵘ nīgig.</span>
 
 <span class="l-fiero">**Mii dash gii-bakobiid aw nigig.**</span>
 
@@ -765,7 +766,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) gii-bakobiid (dived) aw nigig (Otter).</span>
 
-<span class="l-orig">(94) Mi‘kinā‘k idạc ogīwâbạmān pîgōgīnit nīgīgwạn, mi‘kinā‘k idạc ogī∙a∙wi∙a∙‘kạmawān.</span>
+<span class="l-orig">(94) Mi‘kinā‘k idạc ogīwâbạmän pîgōgīnit nīgîgwạn, mi‘kinā‘k idạc ogī∙a∙wi∙a∙‘kạmawān.</span>
 
 <span class="l-fiero">**Mikinaak idash ogii-waabamaan bi-googiinid nigigwan, mikinaak idash ogii-awi-akamawaan.**</span>
 
@@ -773,7 +774,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mikinaak idash (and Snapping-Turtle) ogii-waabamaan (saw) bi-googiinid (coming diving) nigigwan (Otter), mikinaak idash (and Snapping-Turtle) ogii-awi-akamawaan (went to intercept him).</span>
 
-<span class="l-orig">(95) A‘pī∙i∙dạc pạmicạgāmäkwajiwät nīgik mi‘‘kinā‘kwạn ogīta‘kwạmigōn wītạgạyānk.</span>
+<span class="l-orig">(95) A‘pī∙i∙dạc pạmicạgāmäkwajiwät nīgik mi‘kinā‘kwạn ogīta‘kwạmigōn wītạgạyānk.</span>
 
 <span class="l-fiero">**Apii idash ba-mizhagaamekwazhiwed nigig mikinaakwan ogii-dakwamigoon wiitagayaang.**</span>
 
@@ -781,7 +782,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Apii idash (and when) ba-mizhagaamekwazhiwed (he swam close inshore) nigig (Otter) mikinaakwan (by Snapping-Turtle) ogii-dakwamigoon (he was bitten) wiitagayaang (at the penis).</span>
 
-<span class="l-orig">(96) Mīdạc īgu’ iu käyābi äjināguzit ‘aga’u nīgik.</span>
+<span class="l-orig">(96) Mīdạc īgu´ iᵘ käyābi äjināguzit ‘aᵉa´ᵘ nīgik.</span>
 
 <span class="l-fiero">**Mii dash igo iw geyaabi ezhinaagozid a’aw nigig.**</span>
 
@@ -789,7 +790,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) igo iw (that is) geyaabi (still) ezhinaagozid (the way he looks) a’aw nigig (Otter).</span>
 
-<span class="l-orig">(97) Kīmạdwäsāgibīt ‘aga’u nīgik mạdwäi‘kido:</span>
+<span class="l-orig">(97) Kīmạdwäsāgibīt ‘aᵉa´ᵘ nīgik mạdwäi‘kido:</span>
 
 <span class="l-fiero">**Gii-madwesaagibiid a’aw nigig madwe-ikido:**</span>
 
@@ -797,7 +798,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Gii-madwesaagibiid (when he was heard coming up out of the water) a’aw nigig (Otter) madwe-ikido (was heard saying):</span>
 
-<span class="l-orig">(98) “An, an, an, an, ninda‘kwạmig nindạgayānk!”</span>
+<span class="l-orig">(98) “Aⁿ, aⁿ, aⁿ, aⁿ, ninda‘kwạmig nindạgayānk!”</span>
 
 <span class="l-fiero">**“An, an, an, an, nindakwamig nindagayaang.**</span>
 
@@ -805,7 +806,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“An, an, an, an, nindakwamig (I am bitten) nindagayaang (at my penis)!”</span>
 
-<span class="l-orig">(99) “Pạgitạm!” udināwān idạc īni’u mi‘kinā‘kwạn.</span>
+<span class="l-orig">(99) “Pạgitạm!” udināwān idạc īni´ᵘ mi‘kinā‘kwạn.</span>
 
 <span class="l-fiero">**“Bagidam!” odinaawaan idash iniw mikinaakwan.**</span>
 
@@ -821,7 +822,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">“Baanimaa idash (not till) gichi-animikikaag (a great thunder-storm comes) ninga-bagidamaa (will I let go my hold on him).”</span>
 
-<span class="l-orig">(101) Pānimā idạc kästci∙ạ∙nimi‘kī‘kānig ugīpạgidạmigōn īni’u mi‘kinā‘kwạn.</span>
+<span class="l-orig">(101) Pānimā idạc kästci∙ạ∙nimi‘kī‘kānig ugīpạgidạmigōn īni’ᵘ mi‘kinā‘kwạn.</span>
 
 <span class="l-fiero">**Baanimaa idash gechi-animikikaanig ogii-bagidamigoon iniw mikinaakwan.**</span>
 
@@ -829,7 +830,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Baanimaa idash (and not till) gechi-animikikaanig (after a great thunder-storm came) ogii-bagidamigoon (was he released) iniw mikinaakwan (by Snapping-Turtle).</span>
 
-<span class="l-orig">(102) Mēdạc nīgik gī‘kīwät ändāt.</span>
+<span class="l-orig">(102) Mēdac nīgik gī‘kīwät ändāt.</span>
 
 <span class="l-fiero">**Mii dash nigig gii-giiwed endaad.**</span>
 
@@ -837,7 +838,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) nigig (Otter) gii-giiwed (went back) endaad (to his home).</span>
 
-<span class="l-orig">(103) Kînwänj ogī∙ā∙‘kuzin wītạgai.</span>
+<span class="l-orig">(103) Kînwänj ogī∙ā∙‘kuzin wītạgaⁱ.</span>
 
 <span class="l-fiero">**Ginwenzh ogii-aakozin wiitagay.**</span>
 
@@ -853,23 +854,23 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mii dash (and so) ekidod (he said):</span>
 
-<span class="l-orig">(105) “Nīnîmōk kạckigwātạmowād imān kīta‘kwạmit au mi‘kinā‘k mā∙i∙’u tcinōdcîmoyān.”</span>
+<span class="l-orig">(105) “Nīnîmōk kạckigwātạmowād imāⁿ kīta‘kwạmit aᵘ mi‘kinā‘k mī∙i∙´ᵘ tcinōdcîmoyān.”</span>
 
-<span class="l-fiero">**“Niinimoog gashkigwaadamowaad imaa gii-dakwamid aw mikinaak maa iw ji-noojimoyaan.”**</span>
+<span class="l-fiero">**“Niinimoog gashkigwaadamowaad imaa gii-dakwamid aw mikinaak mii iw ji-noojimoyaan.”**</span>
 
 <span class="l-eng">*“If my sisters-in-law would sew up the place where I was bitten by Snapping-Turtle, then I should be healed.”*</span>
 
-<span class="l-gloss">“Niinimoog (my sisters-in-law) gashkigwaadamowaad (if they would sew up) imaa (there) gii-dakwamid (where I was bitten) aw mikinaak (by Snapping-Turtle) maa iw (then) ji-noojimoyaan (I should be healed).”</span>
+<span class="l-gloss">“Niinimoog (my sisters-in-law) gashkigwaadamowaad (if they would sew up) imaa (there) gii-dakwamid (where I was bitten) aw mikinaak (by Snapping-Turtle) mii iw (then) ji-noojimoyaan (I should be healed).”</span>
 
-<span class="l-orig">(106) Käegä‘tidạc wīnimōg ogīkaskigwānigōn ‘igi‘mān wītagayāng.</span>
+<span class="l-orig">(106) Käᵉgä‘tidạc wīnimōᵉ ogīkaskigwānigōn ‘iᵉi´māⁿ wītagayāng.</span>
 
-<span class="l-fiero">**Geget idash wiinimoo’ ogii-gashkigwaanigoon i’iw maa wiitagayaang.**</span>
+<span class="l-fiero">**Geget idash wiinimoo’ ogii-gashkigwaanigoon i’iw imaa wiitagayaang.**</span>
 
 <span class="l-eng">*And to be sure, by his sisters-in-law was he sewed up at his penis.*</span>
 
-<span class="l-gloss">Geget idash (and to be sure) wiinimoo’ (his sisters-in-law) ogii-gashkigwaanigoon (sewed him up) i’iw maa (there) wiitagayaang (at his penis).</span>
+<span class="l-gloss">Geget idash (and to be sure) wiinimoo’ (his sisters-in-law) ogii-gashkigwaanigoon (sewed him up) i’iw imaa (there) wiitagayaang (at his penis).</span>
 
-<span class="l-orig">(107) Mī∙i∙’u kīnōdcimut.</span>
+<span class="l-orig">(107) Mī∙i∙’ᵘ kīnōdcimut.</span>
 
 <span class="l-fiero">**Mii iw gii-noojimod.**</span>
 
@@ -885,7 +886,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Mikinaak idash wiin (and as for Snapping-Turtle), gii-ani-maajaa (he went away), gii-ani-giiwed (on his way home he went).</span>
 
-<span class="l-orig">(109) Kā∙i∙jitagwicing dạc ändāt, ogīwābandān pinäwidis kī∙ạ∙gōdänik.</span>
+<span class="l-orig">(109) Kā∙i∙jitagwicing dac ändāt, ogīwābandān pinäwidis kī∙ạ∙gōdänik.</span>
 
 <span class="l-fiero">**Gaa-izhi-dagwishing dash endaad, ogii-waabandaan binewidis gii-agoodenig.**</span>
 
@@ -893,7 +894,7 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-gloss">Gaa-izhi-dagwishing dash (and when he arrived) endaad (at his home), ogii-waabandaan (he saw) binewidis (a ruffed grouse’s gizzard) gii-agoodenig (hanging).</span>
 
-<span class="l-orig">(110) Mīsai ä‘kōsit.</span>
+<span class="l-orig">(110) Mīsaⁱ ä‘kōsit.</span>
 
 <span class="l-fiero">**Mii sa ekoozid.**</span>
 

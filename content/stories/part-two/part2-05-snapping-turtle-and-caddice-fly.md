@@ -2,7 +2,6 @@
 title: "5. Snapping-turtle and Caddice-fly"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,13 +18,13 @@ SNAPPING-TURTLE AND CADDICE-FLY
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Ningudingisa’ kīⁿwäⁿ odätōwạg ga‘kina ändaswäwānạgizit— mi‘kinā‘k, tätäbi‘kinā‘k, pōsi‘kạdo, mîskwādäsi; mī∙i∙’ᵘ ga‘kina äjimāmawiodä‘tōwāt. Wīnidạc mi‘kinā‘k ugîmāwi.</span>
+<span class="l-orig">(1) Ningudingisa´ kīⁿwäⁿ odätōwạg ga‘kina ändaswäwānạgizit— mi‘kinā‘k, tätäbi‘kinā‘k, pōsi‘kạdo, mîskwādäsi; mī∙i∙´ᵘ ga‘kina äjimāmawiodä‘tōwāt. Wīnidạc mi‘kinā‘k ugîmāwi.</span>
 
-<span class="l-fiero">**Ningoding sa giiwenh odetoowag gakina endaswewaanagizid - mikinaak, detabikinaak, boozikado, miskwaadesi; mii iw gakina ezhi-maamawi-oodetoowaad. Wiin idash mikinaak ogimaawi.**</span>
+<span class="l-fiero">**Ningoding sa giiwenh odetoowag gakina endaswewaanagizid - mikinaak, dedebikinaak*, boozikado, miskwaadesi; mii iw gakina ezhi-maamawi-oodetoowaad. Wiin idash mikinaak ogimaawi.**</span>
 
 <span class="l-eng">*Now, once on a time they say there was a town of every kind (of turtle) that was, — a Snapping-Turtle, a Soft-Shelled Turtle, a Musk-Turtle, a Painted-Turtle; thus the total number of them that lived together in a town.*</span>
 
-<span class="l-gloss">Ningoding sa giiwenh (now, once on a time, they say) odetoowag (they had a town) gakina endaswewaanagizid (every kind there was) — mikinaak (Snapping-Turtle), detabikinaak (Soft-Shelled Turtle), boozikado (Musk-Turtle), miskwaadesi (Painted-Turtle); mii iw gakina (so the whole number of them) ezhi-maamawi-oodetoowaad (that dwelt together in one town). Wiin idash mikinaak (and he, Snapping-Turtle) ogimaawi (was the chief).</span>
+<span class="l-gloss">Ningoding sa giiwenh (now, once on a time, they say) odetoowag (they had a town) gakina endaswewaanagizid (every kind there was) — mikinaak (Snapping-Turtle), dedebikinaak* (Soft-Shelled Turtle), boozikado (Musk-Turtle), miskwaadesi (Painted-Turtle); mii iw gakina (so the whole number of them) ezhi-maamawi-oodetoowaad (that dwelt together in one town). Wiin idash mikinaak (and he, Snapping-Turtle) ogimaawi (was the chief).</span>
 
 <span class="l-orig">(2) Ningudingidạc mi‘kinā‘k inā‘kunigä wī∙ạ∙ndubạnit; umitigwapicimuni‘kän uwiawimīgānān.</span>
 
@@ -91,7 +90,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).
 Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).  
 Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
-<span class="l-orig">(8) Mīdạc kīmādcāwād ā‘pidci nībiwa uwīdcīwān udūckīnigîmaᵉ.</span>
+<span class="l-orig">(8) Mīdạc kīmādcāwād ā‘pidci nībiwa uwīdcīwān udūckīnigīmaᵉ.</span>
 
 <span class="l-fiero">**Mii dash gii-maajaawaad aapiji niibiwa owiijiiwaan odooshkiniigima’.**</span>
 
@@ -107,7 +106,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Apii dash wedisaad (and when he reached) omitigwapishimoniken oodetoonid (where Caddice-Fly had his town), bizhishig bagamaaganan (nothing but war-clubs) odakonaanaawaan (did they hold in their hands); gaawiin bakaan gegoo (nothing else of any kind) ogii-ayaasiinaawaa (did they have), mii eta go bagamaaganan (only war-clubs).</span>
 
-<span class="l-orig">(10) Mī∙i∙dạc cigwa mạwinạdạmuwād ī∙i∙’ᵘ ūdäna, mi‘tigwapicimunic udūdäna, mī∙i∙’we mīgādīwād.</span>
+<span class="l-orig">(10) Mī∙i∙dạc cigwa mạwinạdạmuwād ī∙i∙´ᵘ ūdäna, mi‘tigwapicimunic udūdäna, mī∙i∙´we mīgādīwād.</span>
 
 <span class="l-fiero">**Mii idash zhigwa mawinadamowaad i’iw oodena, mitigwapishimonish odoodena, mii iwe miigaadiwaad.**</span>
 
@@ -117,13 +116,13 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(11) Kîcpîn awiya nisint pōdānidiwạg mī∙i∙’ᵘ minawā pîmādisiwād; kayädạc pā‘pāsạganāndiwạg mīgu gayä iᵘ ändōdādiwāt, pōdānidiwāt.</span>
 
-<span class="l-fiero">**Giishpin awiya nisind boodaanidiwag mii iw miinawaa bimaadiziwaad; gaye dash baapaasaganaandiwag mii go gaye iw endoodaadiwaad, boodaanidiwag.**</span>
+<span class="l-fiero">**Giishpin awiya nisind boodaanidiwag mii iw miinawaa bimaadiziwaad; gaye dash baapaasaganaandiwag mii go gaye iw endoodaadiwaad, boodaanidiwaad*.**</span>
 
 <span class="l-eng">*When any one was slain, they breathed upon him, whereupon back to life he came; and if they had their shells cracked, then the same thing they did to one another, they breathed upon one another.*</span>
 
-<span class="l-gloss">Giishpin awiya nisind (if anyone was killed) boodaanidiwag (they breathed upon one another) mii iw miinawaa bimaadiziwaad (and so back to life they came); gaye dash baapaasaganaandiwag (and if their shells were cracked) mii go gaye iw endoodaadiwaad (the same thing too they did to one another), boodaanidiwag (they breathed upon one another).</span>
+<span class="l-gloss">Giishpin awiya nisind (if anyone was killed) boodaanidiwag (they breathed upon one another) mii iw miinawaa bimaadiziwaad (and so back to life they came); gaye dash baapaasaganaandiwag (and if their shells were cracked) mii go gaye iw endoodaadiwaad (the same thing too they did to one another), boodaanidiwaad* (they breathed upon one another).</span>
 
-<span class="l-orig">(12) Kayä īniᵘ mi‘tigwapicimunic uduckinīgîmaᵉ ändōdaminit awiya pigwaganāmint, pōdānidiwạg; mēdac näyāp nābisäwāt äjināguziwāt.</span>
+<span class="l-orig">(12) Kayä īniᵘ mi‘tigwapicimunic uduckinīgīmaᵉ ändōdaminit awiya pigwaganāmint, pōdānidiwạg; mēdac näyāp nābisäwāt äjināguziwāt.</span>
 
 <span class="l-fiero">**Gaye iniw mitigwapishimonish odooshkiniigima’ endoodaminid awiya biigwaganaamind, boodaanidiwag; mii dash neyaab naabisewaad ezhinaagoziwaad.**</span>
 
@@ -131,7 +130,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Gaye iniw mitigwapishimonish odooshkiniigima’ (the same too the young men of Caddice-Fly) endoodaminid awiya biigwaganaamind (did whenever anyone was beaten to pieces), boodaanidiwag (they breathed upon one another); mii dash neyaab naabisewaad (and so back they would take their places) ezhinaagoziwaad (looking as they had before).</span>
 
-<span class="l-orig">(13) A‘pī änināwa‘kwäg, mī∙i∙’ᵘ cigwa cāgōdci∙i∙nt mi‘kinā‘k; kāwīn kacki∙i∙disīwag tcîbi∙i∙mādci∙i∙diwād, āpidci ki‘tci mīgādiwạg.</span>
+<span class="l-orig">(13) A‘pī änināwa‘kwäg, mī∙i∙´ᵘ cigwa cāgōdci∙i∙nt mi‘kinā‘k; kāwīn kacki∙i∙disīwag tcîbi∙i∙mādci∙i∙diwād, āpidci ki‘tci mīgādiwạg.</span>
 
 <span class="l-fiero">**Apii eni-naawakweg, mii iw zhigwa zhaagooji’ind mikinaak; gaawiin gashki’idiziiwag ji-bimaaji’idiwaad, aapiji gichi-miigaadiwag.**</span>
 
@@ -147,7 +146,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Gegapii mikinaak zhaagooji’aa (at last Snapping-Turtle was vanquished).</span>
 
-<span class="l-orig">(15) Käga‘pī ga‘kina kīnisimā uduckinīgîmaᵉ; wînä‘ta mi‘kinā‘k kāwīn kînîsāsī, kī‘ta‘kunā.</span>
+<span class="l-orig">(15) Käga‘pī ga‘kina kīnisimā uduckinīgīmaᵉ; wînä‘ta mi‘kinā‘k kāwīn kînîsāsī, kī‘ta‘kunā.</span>
 
 <span class="l-fiero">**Gegapii gakina gii-nisimaa odoshkiniigima’; wiin eta mikinaak gaawiin gii-nisaasii, gii-dakonaa.**</span>
 
@@ -173,11 +172,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(18) Käga‘pī dạc kī∙i∙‘kidō mi‘kinā‘k:</span>
 
-<span class="l-fiero">**Gegapii dash ikido mikinaak:**</span>
+<span class="l-fiero">**Gegapii dash gii-ikido mikinaak:**</span>
 
 <span class="l-eng">*So at length said Snapping-Turtle:*</span>
 
-<span class="l-gloss">Gegapii dash ikido mikinaak (so at length said Snapping-Turtle):</span>
+<span class="l-gloss">Gegapii dash gii-ikido mikinaak (so at length said Snapping-Turtle):</span>
 
 <span class="l-orig">(19) “Taga, pagidiniciyu‘k!</span>
 
@@ -195,13 +194,13 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Gaawiin ninga-maajaasii. (I will not go away.)</span>
 
-<span class="l-orig">(21) Mōⁿjạg ningawīdcīwā kîgwisis,” udinān īni’ᵘ umi‘tigwapicimunikän.</span>
+<span class="l-orig">(21) Mōⁿjạg ningawīdcīwā kîgwisis,” udinān īni´ᵘ umi‘tigwapicimunikän.</span>
 
-<span class="l-fiero">**Moozhag ninda-wiijiiwaa gigwisis,” odinaan iniw omitigwapishimoniken.**</span>
+<span class="l-fiero">**Moozhag ninga-wiijiiwaa gigwisis,” odinaan iniw omitigwapishimoniken.**</span>
 
 <span class="l-eng">*All the time will I go in company with your son,” he said to Caddice-Fly.*</span>
 
-<span class="l-gloss">Moozhag ninda-wiijiiwaa gigwisis (all the time will I go along with your son),” odinaan iniw omitigwapishimoniken (he said to Caddice-Fly).</span>
+<span class="l-gloss">Moozhag ninga-wiijiiwaa gigwisis (all the time will I go along with your son),” odinaan iniw omitigwapishimoniken (he said to Caddice-Fly).</span>
 
 <span class="l-orig">(22) Kīpạgudinā.</span>
 
@@ -211,7 +210,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Gii-bagidinaa (he was set free).</span>
 
-<span class="l-orig">(23) Käᵒgä‘t mōⁿjạg uwīdcīwān īni’ᵘ uckinawän, umi‘tigwạpicimunikä ugwisạn mōⁿjạg pạbāmusäwạg.</span>
+<span class="l-orig">(23) Käᵉgä‘t mōⁿjạg uwīdcīwān īni´ᵘ uckinawän, umi‘tigwạpicimunikä ugwisạn mōⁿjạg pạbāmusäwạg.</span>
 
 <span class="l-fiero">**Geget moozhag owiijiiwaan iniw oshkinawen, omitigwapishimonike ogwisan moozhag babaamosewag.**</span>
 
@@ -219,7 +218,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Geget moozhag owiijiiwaan iniw oshkinawen (sure enough, all the while he went along with the youth), omitigwapishimonike ogwisan (the son of Caddice-Fly) moozhag babaamosewag (the two of them were always walking about the place).</span>
 
-<span class="l-orig">(24) Ningudingidạc i‘kidōwạg ‘aᵉa’ᵘ uckinawä mi‘kinā‘k gayä:</span>
+<span class="l-orig">(24) Ningudingidạc i‘kidōwạg ‘aᵉa´ᵘ uckinawä mi‘kinā‘k gayä:</span>
 
 <span class="l-fiero">**Ningoding idash ikidowag a’aw oshkinawe mikinaak gaye:**</span>
 
@@ -243,7 +242,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">“Owidi inakake ningaabii’anong izhaadaa! (over this way, toward the west, let us go!)”</span>
 
-<span class="l-orig">(27) Ugigagwädcimān ōsạn ‘aᵉa’ᵘ uckinawä, ugīpạgidinigōn dạc ōsạn.</span>
+<span class="l-orig">(27) Ugigagwädcimān ōsạn ‘aᵉa´ᵘ uckinawä, ugīpạgidinigōn dạc ōsạn.</span>
 
 <span class="l-fiero">**Ogii-gagwejimaan oosan a’aw oshkinawe, ogii-bagidinigoon dash oosan.**</span>
 
@@ -251,7 +250,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Ogii-gagwejimaan oosan a’aw oshkinawe (the youth asked his father), ogii-bagidinigoon dash oosan (and he was given leave by his father).</span>
 
-<span class="l-orig">(28) Mīdạc kīmādcāwād mi‘kinā‘k wīdcīwād īni’ᵘ uckinawän; pīnic kīmạdābīwād kistcikistcigạmīng.</span>
+<span class="l-orig">(28) Mīdạc kīmādcāwād mi‘kinā‘k wīdcīwād īni´ᵘ uckinawän; pīnic kīmạdābīwād kistcikistcigạmīng.</span>
 
 <span class="l-fiero">**Mii dash gii-maajaawaad mikinaak wiijiiwaad iniw oshkinawen; biinish gii-madaabiiwaad gichi-gichi-gamiing.**</span>
 
@@ -291,7 +290,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Apegish sa izhaayang (would, indeed, that we might go over there),” ikido aw oshkinawe (said the youth).</span>
 
-<span class="l-orig">(33) “Āwaᵘ, ijādäᵉ!” udinān mi‘kinā‘k.</span>
+<span class="l-orig">(33) “Āwaᵘ, ijādāᵉ!” udinān mi‘kinā‘k.</span>
 
 <span class="l-fiero">**Aawaw, izhaadaa!” odinaan mikinaak.**</span>
 
@@ -315,7 +314,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Omaa sa biinzon niningwiing (do you get into this armpit of mine).”</span>
 
-<span class="l-orig">(36) Mēdạc käᵒgä‘t imā kī∙a∙sāt īni’ᵘ skînawän uningwīnk.</span>
+<span class="l-orig">(36) Mēdạc käᵉgä‘t imā kī∙a∙sāt īni´ᵘ skînawän uningwīnk.</span>
 
 <span class="l-fiero">**Mii dash geget imaa gii-asaad iniw ’shkinawen oningwiing.**</span>
 
@@ -331,7 +330,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Mii dash gii-bakobiid aw mikinaak (so then into the water went Snapping-Turtle) agaamakiing izhaad eniweg (going to the other shore in a fairly easy way); ginwenzh gii-ani-dazhitaa (a long while he spent at it) agaamakiing gii-izhaad (getting over to the other shore).</span>
 
-<span class="l-orig">(38) A‘pī∙i∙dạc änimōckạmut ogīpạgidinān ini’ᵘ uckinawän.</span>
+<span class="l-orig">(38) A‘pī∙i∙dạc änimōckạmut ogīpạgidinān ini´ᵘ uckinawän.</span>
 
 <span class="l-fiero">**Apii dash eni-mooshkamod ogii-bagidinaan iniw oshkinawen.**</span>
 
@@ -349,13 +348,13 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(40) Mīdạc kā∙ạ∙nījipīndigäwāt i∙i∙māⁿ tcīsa‘kāning, ā‘pidci mōckinäwaᵉ imā äyānit pīndik tcīsa‘kāning; kāgīgitōwaᵉ nạgamōwaᵉ gayä.</span>
 
-<span class="l-fiero">**Mii dash gaa-ani-izhi-biindigewaad i’imaa jiisakaaning, aapiji mooshkinewa’ imaa eyaanid biindig jiisakaaning; gaagiidowa’ nagamowa’ gaye.**</span>
+<span class="l-fiero">**Mii dash gaa-ani-izhi-biindigewaad i’imaa jiisakaaning, aapiji mooshkinewa’ imaa eyaanid biindig jiisakaaning; gaagiigidoowa’ nagamowa’ gaye.**</span>
 
 <span class="l-eng">*And so, when they went into the conjuring-lodge, (they saw that) it was very full of them who were there inside; they were talking and singing.*</span>
 
-<span class="l-gloss">Mii dash gaa-ani-izhi-biindigewaad (and so, when they went inside) i’imaa jiisakaaning (there in the conjuring-lodge), aapiji mooshkinewa’ imaa eyaanid (very full of them who were there) biindig jiisakaaning (inside the conjuring-lodge); gaagiidowa’ nagamowa’ gaye (they were talking and singing too).</span>
+<span class="l-gloss">Mii dash gaa-ani-izhi-biindigewaad (and so, when they went inside) i’imaa jiisakaaning (there in the conjuring-lodge), aapiji mooshkinewa’ imaa eyaanid (very full of them who were there) biindig jiisakaaning (inside the conjuring-lodge); gaagiigidoowa’ nagamowa’ gaye (they were talking and singing too).</span>
 
-<span class="l-orig">(41) Igi’ᵘ pīndik tcīsa‘kāning äyāwāt udaji∙i∙ndānāwa miziwä owä kījik undinūn kayä; mī∙i∙’ᵘ wändcimạmāsi‘kāg i∙i∙wä tcīsa‘kān.</span>
+<span class="l-orig">(41) Īgi´ᵘ pīndik tcīsa‘kāning äyāwāt udaji∙i∙ndānāwa miziwä owä kījik undinūn kayä; mī∙i∙´ᵘ wändcimạmāsi‘kāg i∙i∙wä tcīsa‘kān.</span>
 
 <span class="l-fiero">**Igiw biindig jiisakaaning eyaawaad odazhindaanaawaa miziwe owe giizhig ondinoon gaye; mii iw wenji-mamaazikaag i’iwe jiisakaan.**</span>
 
@@ -363,13 +362,13 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Igiw biindig jiisakaaning eyaawaad (they that were inside the conjuring-lodge) odazhindaanaawaa miziwe owe giizhig (were talking about the whole of this sky) ondinoon gaye (and the winds too); mii iw wenji-mamaazikaag i’iwe jiisakaan (that was what made the conjuring-lodge sway).</span>
 
-<span class="l-orig">(42) Kīwi‘tāgīk wändānima‘k, kā‘pīciwäba‘k mäwija, kayä kädạnījiwäba‘k pānimā— mī∙i∙’ᵘ ga‘kina ändạjindạmowād.</span>
+<span class="l-orig">(42) Kīwi‘tāgīk wändānima‘k, kā‘pīciwäba‘k mäwija, kayä kädạnījiwäba‘k pānimā— mī∙i∙´ᵘ ga‘kina ändạjindạmowād.</span>
 
-<span class="l-fiero">**Giiwitaagiik (giiwitaagiizhig?) wendaanimak, gaa-bi-izhiwebak mewinzha, gaye ged-ani-izhiwebak baanimaa - mii iw gakina endazhindamowaad.**</span>
+<span class="l-fiero">**Giiwitaagiik wendaanimak, gaa-bi-izhiwebak mewizha, gaye ged-ani-izhiwebak baanimaa - mii iw gakina endazhindamowaad.**</span>
 
 <span class="l-eng">*Of the wide circle of the sky from whence blow the winds, of what had happened in times long ago, and of what was to come to pass in the future, — concerning all such things did they talk.*</span>
 
-<span class="l-gloss">Giiwitaagiik (the wide circle of the sky — *Jones reads giiwitaagiizhig?*) wendaanimak (from whence the winds blow), gaa-bi-izhiwebak mewinzha (what had happened long ago), gaye ged-ani-izhiwebak baanimaa (and what would come to pass by and by) — mii iw gakina endazhindamowaad (concerning all that did they talk).</span>
+<span class="l-gloss">Giiwitaagiik (the wide circle of the sky) wendaanimak (from whence the winds blow), gaa-bi-izhiwebak mewizha (what had happened long ago), gaye ged-ani-izhiwebak baanimaa (and what would come to pass by and by) — mii iw gakina endazhindamowaad (concerning all that did they talk).</span>
 
 <span class="l-orig">(43) Kînwäⁿjidạc kā∙a∙yāwād imāⁿ tcīsa‘kāning, kī∙ạ∙nizāga∙ạ∙mōg minawā.</span>
 
@@ -381,11 +380,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(44) Inābiwāt iwidi awạsina‘kakä ningābī∙ạ∙nunk wâbandāndānāwa wạdciᵘ, nībawa gayä päbāmisänit pînäsiwaᵉ wâbamāwaᵉ.</span>
 
-<span class="l-fiero">**Inabiwaad iwidi awas inakake ningaabii’anong waabandaanaawaa (owaabandaanaawaa?) wajiw, niibiwa gaye bebaamisenid binesiwa’ waabamaawaa’.**</span>
+<span class="l-fiero">**Inabiwaad iwidi awas inakake ningaabii’anong waabandaanaawaa wajiw, niibawa gaye bebaamisenid binesiwa’ waabamaawaa’.**</span>
 
 <span class="l-eng">*On looking off towards the west, they beheld a mountain, and many birds that flew about they saw.*</span>
 
-<span class="l-gloss">Inabiwaad iwidi awas inakake ningaabii’anong (on looking off yonder farther toward the west) waabandaanaawaa (they beheld — *Jones notes owaabandaanaawaa?*) wajiw (a mountain), niibiwa gaye bebaamisenid binesiwa’ (and many birds flying about) waabamaawaa’ (they saw them).</span>
+<span class="l-gloss">Inabiwaad iwidi awas inakake ningaabii’anong (on looking off yonder farther toward the west) waabandaanaawaa (they beheld) wajiw (a mountain), niibawa gaye bebaamisenid binesiwa’ (and many birds flying about) waabamaawaa’ (they saw them).</span>
 
 <span class="l-orig">(45) Mīnawādec i‘kido ‘aᵉa’ᵘ umi‘tigwapicimuni‘kä ugwisạn:</span>
 
@@ -404,7 +403,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">“Daga, izhaadaa! (pray, let us go over there!)” odinaan mikinaakwan (he said to Snapping-Turtle).</span>
 
-<span class="l-orig">(47) ‘Āᵘ, ijādaᵉ!”</span>
+<span class="l-orig">(47) ‘Āᵘ, ijādāᵉ!”</span>
 
 <span class="l-fiero">**“Aw, izhaadaa!”**</span>
 
@@ -420,13 +419,13 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Gii-izhaawag (they went over there), niibawa ogii-waabamaawaa’ banajaanya’ (many young birds they saw).</span>
 
-<span class="l-orig">(49) Päᵒjikidạc ogī∙o∙dā‘pinān ‘aᵉa’ᵘ uckinawä mī wīn ini’ᵘ kā‘pigīwänāt.</span>
+<span class="l-orig">(49) Päᵉjikidạc ogī∙o∙dā‘pinān ‘aᵉa´ᵘ uckinawä mī wīn ini´ᵘ kā‘pigīwänāt.</span>
 
-<span class="l-fiero">**Bezhig idash ogii-odaapinaan a’aw oshkinawe mii wiin iniw gaa-bi-giiwenid.**</span>
+<span class="l-fiero">**Bezhig idash ogii-odaapinaan a’aw oshkinawe mii wiin iniw gaa-bi-giiwenaad*.**</span>
 
 <span class="l-eng">*Now, one of them the youth took up, and that one he fetched back.*</span>
 
-<span class="l-gloss">Bezhig idash ogii-odaapinaan a’aw oshkinawe (now, one of them the youth took up) mii wiin iniw gaa-bi-giiwenid (and that one was the one he carried back home).</span>
+<span class="l-gloss">Bezhig idash ogii-odaapinaan a’aw oshkinawe (now, one of them the youth took up) mii wiin iniw gaa-bi-giiwenaad* (and that one was the one he carried back home).</span>
 
 <span class="l-orig">(50) Mīnawā kī‘pipīndigäwạg iwe tcīsa‘kān; kāwī‘kā ạnwāsäsinini.</span>
 
@@ -436,7 +435,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Miinawaa gii-bi-biindigewag iwe jiisakaan (again they went into the conjuring-lodge); gaa wiikaa anwaasesinini (never did it cease swaying).</span>
 
-<span class="l-orig">(51) Awidac uckinawä ugīgạgwädcimān īni’ᵘ nāganizinit:</span>
+<span class="l-orig">(51) Awidac uckinawä ugīgạgwädcimān īni´ᵘ nāganizinit:</span>
 
 <span class="l-fiero">**Aw idash oshkinawe ogii-gagwejimaan iniw naaganizinid:**</span>
 
@@ -460,7 +459,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">“Gaawiin wiikaa gii-bijisesinoon (never has it ceased swaying) minik ba-akiiwang (since the world began), gaawiin gaye wiikaa da-gibijisesinoon (and never will it be still) minik ged-ani-akiiwang (as long as the world lasts).</span>
 
-<span class="l-orig">(54) Kîcpîn ä‘ta mīziwä änigu‘kwāg owe kījik ạnwā‘tink miyä‘taⁱ māgijä tcigibitcisägibạn.</span>
+<span class="l-orig">(54) Kîcpîn ä‘ta mīziwä änigu‘kwāg owe kījik ạnwā‘tink miyä‘taⁱ māgijā tcigibitcisägibạn.</span>
 
 <span class="l-fiero">**Giishpin eta miziwe enigokwaag owe giizhig anwaating mii eta maagizhaa ji-gibijisegiban.**</span>
 
@@ -470,11 +469,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(55) Kāwīn kanabạtc wī‘kā tātätạgu anwā‘tiⁿzinōn änigu‘kwāg ōwe kījik.”</span>
 
-<span class="l-fiero">**Gaawiin ganabaj wiikaa daatetago (... eta go?) anwaatinsinoon enigokwaag owe giizhig.**</span>
+<span class="l-fiero">**Gaawiin ganabaj wiikaa daatetago anwaatinzinoon* enigokwaag owe giizhig.**</span>
 
 <span class="l-eng">*Never seemingly is it calm at one and the same time in all the length and breadth of this sky.”*</span>
 
-<span class="l-gloss">Gaawiin ganabaj wiikaa daatetago (never seemingly at one and the same time — *Jones queries: eta go?*) anwaatinsinoon enigokwaag owe giizhig (is it calm in all the breadth of this sky).”</span>
+<span class="l-gloss">Gaawiin ganabaj wiikaa daatetago (never seemingly at one and the same time) anwaatinzinoon* enigokwaag owe giizhig (is it calm in all the breadth of this sky).”</span>
 
 <span class="l-orig">(56) Mīdạc kā‘pijisāga∙ạ∙mowāt; mīnawā ugīpina∙o∙wān imāⁿ uningwīng ini’ᵘ uckinawän, kayä īni’ᵘ pạnạdcaiyạn.</span>
 
@@ -484,7 +483,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Mii dash gaa-bi-izhi-zaaga’amowaad (thereupon they came on out of doors); miinawaa ogii-bina’owaan imaa oningwiing iniw oshkinawen (again he placed the youth there in his armpit), gaye iniw banajaanyan (and the young bird too).</span>
 
-<span class="l-orig">(57) Mīdạc kā‘pijipa‘kubīt mi‘kinā‘k, pîgīwāwāt.</span>
+<span class="l-orig">(57) Mīdạc kā‘pijipa‘kubīt mi‘kinā‘k, pîgīwäwāt.</span>
 
 <span class="l-fiero">**Mii dash gaa-bi-izhi-bakobiid mikinaak, bi-giiwewaad.**</span>
 
@@ -492,7 +491,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Mii dash gaa-bi-izhi-bakobiid mikinaak (and then into the water came Snapping-Turtle), bi-giiwewaad (the two coming back on their homeward way).</span>
 
-<span class="l-orig">(58) Kägādạc pạmījạgāt mi‘kinā‘k ugīmi‘kwändān ga‘kina kīnisimindibạn uduckinīgîmaᵉ.</span>
+<span class="l-orig">(58) Kägādạc pạmījạgāt mi‘kinā‘k ugīmi‘kwändān ga‘kina kīnisimindibạn uduckinīgīmaᵉ.</span>
 
 <span class="l-fiero">**Gegaa dash ba-mizhaagaad mikinaak ogii-mikwendaan gakina gii-nisimindiban odoshkiniigima’.**</span>
 
@@ -524,7 +523,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Aw idash omitigwapishimonike ogwisan (and the son of Caddice-Fly) agaawaa gii-mooshkamo (had a hard time keeping at the surface).</span>
 
-<span class="l-orig">(62) Päᵒcu’ ayāmạgatini, ạgāwādac ugīgacki‘tōn kī‘pimijạgāt; kayä īniᵘ upạnadcāⁿyäⁿsiman ā‘pidci kīcāpwāpāwäwạn.</span>
+<span class="l-orig">(62) Päᵒcu´ ayāmạgatini, ạgāwādac ugīgacki‘tōn kī‘pimijạgāt; kayä īniᵘ upạnadcāⁿyäⁿsiman ā‘pidci kīcāpwāpāwäwạn.</span>
 
 <span class="l-fiero">**Besho ayaamagadini, agaawaa dash ogii-gashkitoon gii-bi-mizhaagaad; gaye iniw obanajaanyensiman aapiji gii-zhaabwaabaawewan.**</span>
 
@@ -540,7 +539,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Ogii-baaswaan dash gaa-mizhaagaad (and he dried it by the fire when he reached the shore).</span>
 
-<span class="l-orig">(64) Mīdac kīpîmādcāt pîgīwāt.</span>
+<span class="l-orig">(64) Mīdạc kīpîmādcāt pîgīwät.</span>
 
 <span class="l-fiero">**Mii dash gii-bi-maajaad bi-giiwed.**</span>
 
@@ -548,7 +547,7 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-gloss">Mii dash gii-bi-maajaad bi-giiwed (whereupon he started off hitherward on his way back home).</span>
 
-<span class="l-orig">(65) A‘pī∙i∙dac kā‘tạgwicink ōsạn ändānit, ā‘pidci ugīsāgi∙ā∙wän ini’ᵘ pạnạdcaiⁿyạn.</span>
+<span class="l-orig">(65) A‘pī∙i∙dac kā‘tạgwicink ōsạn ändānit, ā‘pidci ugīsāgi∙ā∙wän ini´ᵘ pạnạdcaiⁿyạn.</span>
 
 <span class="l-fiero">**Apii idash gaa-dagwishing oosan endaanid, aapiji ogii-zaagi’aawaan iniw banajaanyan.**</span>
 
@@ -558,11 +557,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(66) Nāgạdcidạc kī‘pi∙ạ∙nimi‘kī‘kā; tibickō imāⁿ ayāt pạnạdcāⁿ mī∙i∙māⁿ kī‘pinōndāguziwād animi‘kīg kī‘piwâbạmāwād unīdcānisiwān.</span>
 
-<span class="l-fiero">**Naagaj idash gii-ba-animikiikaa; dibishkoo imaa ayaad banajaanh mii imaa gii-bi-noondaagoziwaad animikiig gii-bi-waabamaawaad oniijaanisiwaan.**</span>
+<span class="l-fiero">**Naagaj idash gii-bi-animikiikaa; dibishkoo imaa ayaad banajaanh mii imaa gii-bi-noondaagoziwaad animikiig gii-bi-waabamaawaad oniijaanisiwaan.**</span>
 
-<span class="l-eng">*And after a time there came up a thunder-storm;, straight over where the young bird was came the roar of the Thunderers that had come to see their young.*</span>
+<span class="l-eng">*And after a time there came up a thunder-storm; straight over where the young bird was came the roar of the Thunderers that had come to see their young.*</span>
 
-<span class="l-gloss">Naagaj idash gii-ba-animikiikaa (and after a time there came up a thunder-storm); dibishkoo imaa ayaad banajaanh (straight over where the young bird was) mii imaa gii-bi-noondaagoziwaad animikiig (there came the roar of the Thunderers) gii-bi-waabamaawaad oniijaanisiwaan (who had come to see their young).</span>
+<span class="l-gloss">Naagaj idash gii-bi-animikiikaa (and after a time there came up a thunder-storm); dibishkoo imaa ayaad banajaanh (straight over where the young bird was) mii imaa gii-bi-noondaagoziwaad animikiig (there came the roar of the Thunderers) gii-bi-waabamaawaad oniijaanisiwaan (who had come to see their young).</span>
 
 <span class="l-orig">(67) Minawādec kī∙ạ∙nikīwäwạg animi‘kīg.</span>
 
@@ -579,7 +578,5 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 <span class="l-eng">*And so, after they had gone, the gizzard of the ruffed grouse hung aloft.*</span>
 
 <span class="l-gloss">Mii dash gaa-izhi-maajaawaad (and so, after they had gone) binewidis gii-agoode (the gizzard of the ruffed grouse hung aloft) *(the closing that leaves the story to the listener’s wondering)*.</span>
-
-*“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
 
 </div>

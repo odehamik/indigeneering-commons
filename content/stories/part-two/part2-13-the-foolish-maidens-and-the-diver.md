@@ -2,7 +2,6 @@
 title: "13. The foolish maidens and the diver"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,7 +18,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Ningudingisa’, kīⁿwäⁿ ạnicinābäg tāᵒwag, ōdä‘tōwạg.</span>
+<span class="l-orig">(1) Ningudingisa´, kīⁿwäⁿ ạnicinābäg tāᵒwag, ōdä‘tōwạg.</span>
 
 <span class="l-fiero">**Ningoding sa, giiwenh anishinaabeg daawag, oodetoowag.**</span>
 
@@ -35,7 +34,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Bezhig idash akiwenzii (and one old man) wiiwan gaye ayaawan (and his wife was there too), niizh idash oshkiniigikwen odayaawaawaan (and two young women they had), odaanisiwaan (their daughters).</span>
 
-<span class="l-orig">(3) A‘pī∙i∙dạc nä‘tāwīgiwād, īgi’ᵘ i‘kwäwạg ogạnōnigowān ugīwān:</span>
+<span class="l-orig">(3) A‘pī∙i∙dạc nä‘tāwīgiwād, īgi´ᵘ i‘kwäwạg ogạnōnigowān ugīwān:</span>
 
 <span class="l-fiero">**Apii idash netaawigiwaad, igiw ikwewag oganoonigowaan ogiiwaan:**</span>
 
@@ -51,7 +50,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Nindaanis (my daughters) ningoji awi-ayaayok (go off and stay somewhere).</span>
 
-<span class="l-orig">(5) Kägu’ omāⁿ odänāng ayā‘kyägun.”</span>
+<span class="l-orig">(5) Kägu´ omāⁿ odänāng ayā‘kyägun.”</span>
 
 <span class="l-fiero">**Gego omaanh odenaang ayaakyegon.”**</span>
 
@@ -59,7 +58,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Gego omaanh odenaang ayaakyegon (do not stay here in this town).”</span>
 
-<span class="l-orig">(6) Mī∙i∙dạc kīmādcāwād īgi’ᵘ uckînīgi‘kwäg, pabāmosäwạg; mī∙i∙dac i‘ku nībāwād pīna‘kạmigāng.</span>
+<span class="l-orig">(6) Mī∙i∙dạc kīmādcāwād īgi´ᵘ uckînīgi‘kwäg, pabāmosäwạg; mī∙i∙dac i‘ku nībāwād pīna‘kạmigāng.</span>
 
 <span class="l-fiero">**Mii dash gii-maajaawaad igiw oshkiniigikweg, babaamosewag; mii idash iko nibaawaad biinakamigaang.**</span>
 
@@ -107,7 +106,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash ekidod (and so she said) a’aw zeziikizid (the older one):</span>
 
-<span class="l-orig">(12) “Ānīn gīn ‘aᵉaᵘ a’‘pägic wī‘pämạg änändạmạn?”</span>
+<span class="l-orig">(12) “Ānīn gīn ‘aᵉaᵘ a´‘pägic wī‘pämạg änändạmạn?”</span>
 
 <span class="l-fiero">**“Aaniin giin a’aw apegish wiipemag enendaman?”**</span>
 
@@ -149,7 +148,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(17) “Mîsạnī∙i∙nā ‘aᵉawä ā‘pitci kāwâpiskizît ānāng käwī‘pämạg,” i‘kido.</span>
 
-<span class="l-fiero">**“Mii sa nii[n] inaa a’awe aapiji gaa-waabishkizid anang ge-wiipemag,” ikido.**</span>
+<span class="l-fiero">**“Mii sa niin inaa a’awe aapiji gaa-waabishkizid anang ge-wiipemag,” ikido.**</span>
 
 <span class="l-eng">*“Now, the one I should prefer to lie with is the star that looks so very white,” she said.*</span>
 
@@ -159,7 +158,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**“Giin dash?” odinaan omisenyan, “aaniin giin a’aw?”**</span>
 
-<span class="l-eng">*“And you? “she said to her big sister, “which would you?”*</span>
+<span class="l-eng">*“And you?” she said to her big sister, “which would you?”*</span>
 
 <span class="l-gloss">“Giin dash (and you)?” odinaan omisenyan (she said to her older sister), “aaniin giin a’aw (which one for you)?”</span>
 
@@ -171,17 +170,19 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash ekidod (and so she said):</span>
 
-<span class="l-orig">(20) “Mīsạni∙ī∙nā a’we ā‘pitci kāmîskwāⁿjät.”</span>
+<span class="l-orig">(20) “Mīsạni∙ī∙nā a´we ā‘pitci kāmîskwāⁿjät.”</span>
 
-<span class="l-fiero">**“Mii sa nii[n] inaa awe aapiji gaa-miskwaanzhed.**</span>
+<span class="l-fiero">**“Mii sa niin inaa awe aapiji gaa-miskwaanzhed.**</span>
 
 <span class="l-eng">*“My choice is the one that looks so very red.”*</span>
 
 <span class="l-gloss">“Mii sa niin inaa awe (the one for me is that) aapiji gaa-miskwaanzhed (one that looks so very red).”</span>
 
+** => Maji-ikwewishag? Gloss sync 2026-09-02: gloss chunk updated to quote the Fiero verbatim (nii[n], pre-existing bracketed reading), English kept.*
+
 ** => Maji-ikwewishag?*
 
-<span class="l-orig">(21) Kā∙i∙ckwā i‘kidowād idạc, mī∙i∙’u kīnibāwād.</span>
+<span class="l-orig">(21) Kā∙i∙ckwā i‘kidowād idạc, mī∙i∙´u kīnibāwād.</span>
 
 <span class="l-fiero">**Gaa-ishkwaa-ikidowaad idash, mii iw gii-nibaawaad.**</span>
 
@@ -197,7 +198,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Apii idash gweshkoziwaad gigizheb (and when they woke in the morning) bebezhig ininiwa’ owiipemaawaan (each was lying with a man); a’aw weshiime’imind (she who was the younger) oshkinawen owiipemaan (lay with a young man), aw idash wemisenimind (and she who was the elder) aapiji akiwenziiyan owiipemaan (lay with a very old man).</span>
 
-<span class="l-orig">(23) Mī∙i∙’ᵘ kī∙o∙dā‘pinigowād icpîming ạnạngōᵉ, mī∙i∙dạc kīwīdciwāwād.</span>
+<span class="l-orig">(23) Mī∙i∙´ᵘ kī∙o∙dā‘pinigowād icpîming ạnạngōᵉ, mī∙i∙dạc kīwīdciwāwād.</span>
 
 <span class="l-fiero">**Mii iw gii-odaapinigowaad ishpiming anangoo’, mii dash gii-wiijiwaawaad.**</span>
 
@@ -205,7 +206,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii iw gii-odaapinigowaad ishpiming anangoo’ (so they had been taken up into the sky by the stars), mii dash gii-wiijiwaawaad (and so they dwelt with them).</span>
 
-<span class="l-orig">(24) ‘Aᵉawidạc säzī‘kizit i‘kwä kāwīn ominwänimāsīn īni’ᵘ a‘kiwäⁿzīyạn.</span>
+<span class="l-orig">(24) ‘Aᵉawidạc säzī‘kizit i‘kwä kāwīn ominwänimāsīn īni´ᵘ a‘kiwäⁿzīyạn.</span>
 
 <span class="l-fiero">**A’aw idash zeziikizid ikwe gaawiin ominwenimaasiin iniw akiwenziiyan.**</span>
 
@@ -213,13 +214,13 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">A’aw idash zeziikizid ikwe (now the older woman) gaawiin ominwenimaasiin (was not pleased with) iniw akiwenziiyan (that old man).</span>
 
-<span class="l-orig">(25) Ningudingidạc kāmādcāwād īgi’∙u∙ ininiwạg, ogạnōnān ucīmäyạn:</span>
+<span class="l-orig">(25) Ningudingidạc kāmādcāwād īgi´∙ᵘ∙ ininiwạg, ogạnōnān ucīmäyạn:</span>
 
-<span class="l-fiero">**Ningoding idash gaa-maajaawaad igiw ikwewag, oganoonaan oshiimenyan:**</span>
+<span class="l-fiero">**Ningoding idash gaa-maajaawaad igiw ininiwag, oganoonaan oshiimeyan:**</span>
 
 <span class="l-eng">*So once, when the men were gone, she addressed her little sister, saying:*</span>
 
-<span class="l-gloss">Ningoding idash gaa-maajaawaad igiw ikwewag (and once when the men had gone off), oganoonaan oshiimenyan (she spoke to her little sister), saying:</span>
+<span class="l-gloss">Ningoding idash gaa-maajaawaad igiw ininiwag (and once when the men had gone off), oganoonaan oshiimeyan (she spoke to her little sister), saying:</span>
 
 <span class="l-orig">(26) “Nicīmäⁿ, nindawa mādcātāwᵒ ningudcⁱ!”</span>
 
@@ -261,7 +262,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Dibi wenjiigwen a’aw miigwan (wonder where this feather came from)!”</span>
 
-<span class="l-orig">(31) Mīnawādec wībạgu omi‘kawāwān mīgwạnan; käga‘pī∙i∙go ā‘pīdci nībiwa mīgwạnaᵉ owâbạmāwān.</span>
+<span class="l-orig">(31) Mīnawādec wībạgu omi‘kawāwān mīgwạnạn; käga‘pī∙i∙go ā‘pīdci nībiwa mīgwạnaᵉ owâbạmāwān.</span>
 
 <span class="l-fiero">**Miinawaa dash wiiba go omikawaawaan miigwanan; gegapii igo aapiji niibiwa miigwana’ owaabamaawaan.**</span>
 
@@ -269,7 +270,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Miinawaa dash wiiba go omikawaawaan miigwanan (and soon they found another feather); gegapii igo aapiji niibiwa miigwana’ owaabamaawaan (at last they saw a great many feathers).</span>
 
-<span class="l-orig">(32) Ningudingidạc owâbạndānāwā wīgiwāmäns mîndimōⁿyäⁿyạn imāⁿ tāwạn; kīpīndigäwạg īgi’ᵘ i‘kwäwạg.</span>
+<span class="l-orig">(32) Ningudingidạc owâbạndānāwā wīgiwāmäns mîndimōⁿyäⁿyạn imāⁿ tāwạn; kīpīndigäwạg īgi´ᵘ i‘kwäwạg.</span>
 
 <span class="l-fiero">**Ningoding idash owaabandaanaawaa wiigiwaamens mindimooyenyan imaanh daawan; gii-biindigewag igiw ikwewag.**</span>
 
@@ -297,7 +298,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Ningoding igo namadabid a’aw mindimooyenh owiikobidoon biimanakwaan, mii dash imaanh gii-nisaad biijigigwanen.**</span>
 
-<span class="l-eng">*Now presently, while the old woman was seated, she pulled upon a cord, and then there she killed a Fish-hawk.*</span>
+<span class="l-eng">*Now presently, while the old woman was seated, she pulled upon a cord, and then there she killed a fish-hawk.*</span>
 
 <span class="l-gloss">Ningoding igo namadabid a’aw mindimooyenh (now once as the old woman sat) owiikobidoon biimanakwaan (she pulled on a cord), mii dash imaanh gii-nisaad biijigigwanen (and so there she killed a fish-hawk).</span>
 
@@ -343,11 +344,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(41) “Kīcpîn uji‘tōyäg nībiwa wīgu‘p kạbōni‘kiyābīkinininim ändana‘kīyägubạn tcī∙i∙jāyäg.”</span>
 
-<span class="l-fiero">**“Giishpin ozhitooyeg niibiwa wiigob ga-boonikiyaabikinininim endanakiiyegoban ji-ayaayeg.”**</span>
+<span class="l-fiero">**“Giishpin ozhitooyeg niibiwa wiigob ga-boonikiyaabikinininim endanakiiyegoban ji-izhaayeg.”**</span>
 
 <span class="l-eng">*“If you will make a long cord, I will let you down, so that you can go back to the place where you live.”*</span>
 
-<span class="l-gloss">“Giishpin ozhitooyeg niibiwa wiigob (if you make a lot of basswood cord) ga-boonikiyaabikinininim (I will let you down by the line) endanakiiyegoban (to where you used to live) ji-ayaayeg (so you may be there).”</span>
+<span class="l-gloss">“Giishpin ozhitooyeg niibiwa wiigob (if you make a lot of basswood cord) ga-boonikiyaabikinininim (I will let you down by the line) endanakiiyegoban (to where you used to live) ji-izhaayeg (so you may be there).”</span>
 
 <span class="l-orig">(42) Mēdac kägä‘t kī∙o∙ji‘tōwād nībiwa wīgu‘p.</span>
 
@@ -375,13 +376,13 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(45) Kāda‘kubidōwād idạc mī∙i∙māⁿ ki∙ạ∙sigowād ō‘komisiwān.</span>
 
-<span class="l-fiero">**Gii-dakobidoowaad idash mii imaanh gii-asigowaad ookomisiwaan.**</span>
+<span class="l-fiero">**Gaa-dakobidoowaad idash mii imaanh gii-asigowaad ookomisiwaan.**</span>
 
 <span class="l-eng">*So after they had fastened (the cord), then into it were they put by their grandmother.*</span>
 
-<span class="l-gloss">Gii-dakobidoowaad idash (and after they had tied it) mii imaanh gii-asigowaad ookomisiwaan (then there they were put in by their grandmother).</span>
+<span class="l-gloss">Gaa-dakobidoowaad idash (and after they had tied it) mii imaanh gii-asigowaad ookomisiwaan (then there they were put in by their grandmother).</span>
 
-<span class="l-orig">(46) “Mī∙i∙’wide ändạna‘kīyägubạn kädijaiyäg.”</span>
+<span class="l-orig">(46) “Mī∙i∙´wide ändạna‘kīyägubạn kädijaiyäg.”</span>
 
 <span class="l-fiero">**“Mii iwidi endanakiiyegoban ged-izhi-ayeg.”**</span>
 
@@ -405,7 +406,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Badagwiingweshinok (cover up your faces).</span>
 
-<span class="l-orig">(49) Kägu’ gạnạgä înābi‘kägun.</span>
+<span class="l-orig">(49) Kägu´ gạnạgä înābi‘kägun.</span>
 
 <span class="l-fiero">**Gego ganage inaabikegon.**</span>
 
@@ -413,7 +414,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Gego ganage inaabikegon (on no account look out).</span>
 
-<span class="l-orig">(50) Pānimāgu kitạgwicînäg a‘kīng mī∙i∙’ᵘ tcînābiyäg.”</span>
+<span class="l-orig">(50) Pānimāgu kitạgwicînäg a‘kīng mī∙i∙´ᵘ tcīnābiyäg.”</span>
 
 <span class="l-fiero">**Baanimaa go gii-dagwishineg akiing mii iw ji-inaabiyeg.”**</span>
 
@@ -445,7 +446,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Daga naan (I say, do), nishiimenh (my little sister), inaabidaa (let us take a look)!”</span>
 
-<span class="l-orig">(54) “Kägu’ pina! kigī∙o∙ndcī∙i∙gunān ku’ca kō‘komîsinān.”</span>
+<span class="l-orig">(54) “Kägu´ pina! kigī∙o∙ndcī∙i∙gunān ku´ca kō‘komîsinān.”</span>
 
 <span class="l-fiero">**“Gego bina! gigii-onji-igonaan gosha gookomisinaan.”**</span>
 
@@ -471,11 +472,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(57) Odānugī∙o∙ndcī∙i∙gōn ucīmäyạn.</span>
 
-<span class="l-fiero">**Od-aano-gii-onji’igoon oshiimenyan.**</span>
+<span class="l-fiero">**Od-aano-gii-onji’igoon oshiimeyan.**</span>
 
 <span class="l-eng">*It was no use for her little sister to try to turn her from her purpose.*</span>
 
-<span class="l-gloss">Od-aano-gii-onji’igoon oshiimenyan (in vain her little sister tried to dissuade her).</span>
+<span class="l-gloss">Od-aano-gii-onji’igoon oshiimeyan (in vain her little sister tried to dissuade her).</span>
 
 <span class="l-orig">(58) Käga‘pī∙i∙dạc kī∙i∙nābi ‘aᵉaᵘ i‘kwä säzī’kizît; mī∙i∙dạc wâbạndạng, cīgwa täpināgwạtinig a‘ki.</span>
 
@@ -503,11 +504,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(61) Käga‘pī∙i∙dạc ogīwayäjimān ucīmäyạn.</span>
 
-<span class="l-fiero">**Gegapii idash ogii-wayezhimaan oshiimenyan.**</span>
+<span class="l-fiero">**Gegapii idash ogii-wayezhimaan oshiimeyan.**</span>
 
 <span class="l-eng">*So at last she prevailed upon her little sister.*</span>
 
-<span class="l-gloss">Gegapii idash ogii-wayezhimaan oshiimenyan (and at last she won over her little sister).</span>
+<span class="l-gloss">Gegapii idash ogii-wayezhimaan oshiimeyan (and at last she won over her little sister).</span>
 
 <span class="l-orig">(62) Mīdac nayänj kī∙i∙nābiwād; mīdac kā∙i∙jipa‘kiskānig wīgup, mēdạc pạngicinowād.</span>
 
@@ -521,7 +522,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Mii dash ezhi-nagamod a’aw ikwe:**</span>
 
-<span class="l-eng">*And this song sang the woman:*</span>
+<span class="l-eng">*And this song sang the woman:—*</span>
 
 <span class="l-gloss">Mii dash ezhi-nagamod a’aw ikwe (and so the woman sang):</span>
 
@@ -551,11 +552,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(67) Mī∙i∙dạc imāⁿ gī∙a∙yāwād, kāwīn kạski∙o∙sīwạg tcinisāndawäwād.</span>
 
-<span class="l-fiero">**Mii dash imaanh gii-ayaawaad, gaawiin gaski’osiiwag ji-nisaandawewaad.**</span>
+<span class="l-fiero">**Mii dash imaanh gii-ayaawaad, gaawiin gashki’osiiwag ji-nisaandawewaad.**</span>
 
 <span class="l-eng">*And so there they remained, they were not able to come down (from it).*</span>
 
-<span class="l-gloss">Mii dash imaanh gii-ayaawaad (and so there they stayed), gaawiin gaski’osiiwag ji-nisaandawewaad (they were not able to climb down).</span>
+<span class="l-gloss">Mii dash imaanh gii-ayaawaad (and so there they stayed), gaawiin gashki’osiiwag ji-nisaandawewaad (they were not able to climb down).</span>
 
 <span class="l-orig">(68) Anōdc awīya wâbamāwān pîmōsänit awäsīyạn; ogạnōnāwān i‘ku tcipina∙o∙gōwād.</span>
 
@@ -569,7 +570,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**“Enh, gaawiin ningashkitoosiin ji-akwaandaweyaan,” odigowaan.**</span>
 
-<span class="l-eng">*“Why, I am unable to climb up,” they were told*</span>
+<span class="l-eng">*“Why, I am unable to climb up,” they were told.*</span>
 
 <span class="l-gloss">“Enh (yes), gaawiin ningashkitoosiin ji-akwaandaweyaan (I cannot climb up),” odigowaan (they were told).</span>
 
@@ -577,7 +578,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Gaawiin odebwetaagosiiwaan gakina go awesiiya’ od-aana-gii-ganoonaawaan, gaawiin dash gi-debwetanziiwa.**</span>
 
-<span class="l-eng">*Not were they believed by all the game-folk whom they vainly addressed, and (the gamefolk) did not believe (what they heard).*</span>
+<span class="l-eng">*Not were they believed by all the game-folk whom they vainly addressed, and (the game-folk) did not believe (what they heard).*</span>
 
 <span class="l-gloss">Gaawiin odebwetaagosiiwaan (they were not believed) gakina go awesiiya’ od-aana-gii-ganoonaawaan (though they spoke in vain to all the animals), gaawiin dash gi-debwetanziiwa (and they did not believe).</span>
 
@@ -585,7 +586,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Ningoding idash gwiingwa’aagen ogii-waabamaawaan.**</span>
 
-<span class="l-eng">*Now, once the Wolverine they saw.*</span>
+<span class="l-eng">*Now, once the Wolverene they saw.*</span>
 
 <span class="l-gloss">Ningoding idash gwiingwa’aagen ogii-waabamaawaan (and once they saw a wolverine).</span>
 
@@ -605,7 +606,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Daga ondaas (come here), bi-naazikawishinaan (come over to us)!”</span>
 
-<span class="l-orig">(74) Mēdac kägä‘t kīnīsāndawä∙ā∙d īni’ᵘ ni‘tạm zäzī‘kizinit, mīnawādec skwātc ‘aᵉaᵘ ucīmäimāⁿ.</span>
+<span class="l-orig">(74) Mēdac kägä‘t kīnīsāndawä∙ā∙d īni´ᵘ ni‘tạm zäzī‘kizinit, mīnawādec skwātc ‘aᵉaᵘ ucīmäimāⁿ.</span>
 
 <span class="l-fiero">**Mii dash geget gii-niisaandawe’aad iniw nitam zeziikizinid, miinawaa dash skwaaj a’aw oshiime’imaan.**</span>
 
@@ -621,11 +622,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Giimooj idash ogii-nagadaan ozegibanweyaab (and secretly she left behind her hair-binding tape) imaanh ozasoning (there in the nest).</span>
 
-<span class="l-orig">(76) Mī∙i∙dạc kīnīsāndawäwint īgi’ᵘ i‘kwäg ogī∙i∙nāwān īni’ᵘ kwīngwa∙ā∙gän:</span>
+<span class="l-orig">(76) Mī∙i∙dạc kīnīsāndawäwint īgi´ᵘ i‘kwäg ogī∙i∙nāwān īni´ᵘ kwīngwa∙ā∙gän:</span>
 
 <span class="l-fiero">**Mii idash gii-niisaandawewind igiw ikweg ogii-inaawaan iniw gwiingwa’aagen:**</span>
 
-<span class="l-eng">*And after they were taken down, the women said to Wolverine:*</span>
+<span class="l-eng">*And after they were taken down, the women said to Wolverene:*</span>
 
 <span class="l-gloss">Mii idash gii-niisaandawewind igiw ikweg (and after the women had been taken down) ogii-inaawaan iniw gwiingwa’aagen (they said to the wolverine):</span>
 
@@ -665,7 +666,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Mii geget maajiibatood gwiingwa’aage naazikang zegibanweyaab.**</span>
 
-<span class="l-eng">*Accordingly, in truth, on a run started Wolverine, as he went to get the wrapping-tape (of the hair-knot).*</span>
+<span class="l-eng">*Accordingly, in truth, on a run started Wolverene, as he went to get the wrapping-tape (of the hair-knot).*</span>
 
 <span class="l-gloss">Mii geget maajiibatood gwiingwa’aage (and so indeed the wolverine ran off) naazikang zegibanweyaab (to go after the hair-tape).</span>
 
@@ -681,25 +682,25 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Gwiingwa’aagen idash onoopinanigowaan.**</span>
 
-<span class="l-eng">*And by Wolverine were they pursued.*</span>
+<span class="l-eng">*And by Wolverene were they pursued.*</span>
 
 <span class="l-gloss">Gwiingwa’aagen idash onoopinanigowaan (and by the wolverine they were pursued).</span>
 
 <span class="l-orig">(84) ‘Ēᵉ ēⁱ, kwīngwa∙ā∙gä cigwa pīdcipa‘tō!</span>
 
-<span class="l-fiero">**E’ e’, gwiingwa’aage zhigwa bi-izhibatoo!**</span>
+<span class="l-fiero">**E’ e’, gwiingwa’aage zhigwa biiji-batoo!**</span>
 
-<span class="l-eng">*Oh, how Wolverine then came running (back)!*</span>
+<span class="l-eng">*Oh, how Wolverene then came running (back)!*</span>
 
-<span class="l-gloss">E’ e’, gwiingwa’aage zhigwa bi-izhibatoo (oh, how the wolverine came running back)!</span>
+<span class="l-gloss">E’ e’, gwiingwa’aage zhigwa biiji-batoo (oh, how the wolverine came running back)!</span>
 
 <span class="l-orig">(85) ‘Āᵒ, i‘kwäwạg änigu‘pimipa‘tōwạg!</span>
 
-<span class="l-fiero">**Aa, ikwewag enigo[k] bimibatoowag!**</span>
+<span class="l-fiero">**Aa, ikwewag enigo bimibatoowag!**</span>
 
 <span class="l-eng">*My, but the women ran at the top of their speed!*</span>
 
-<span class="l-gloss">Aa, ikwewag enigo[k] bimibatoowag (my, how the women ran at full speed)!</span>
+<span class="l-gloss">Aa, ikwewag enigo bimibatoowag (my, how the women ran at full speed)!</span>
 
 <span class="l-orig">(86) Ā, cigwa päcu’ kwīngwa∙ā∙gä!</span>
 
@@ -709,7 +710,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Aa, zhigwa besho gwiingwa’aage (oh, how close now the wolverine was)!</span>
 
-<span class="l-orig">(87) A‘pī∙i∙dec kā∙ạ∙dimigowād, mī∙i∙’ᵘ kwāskwa∙u∙ntawād īni’ᵘ i‘kwäwạn ạnōdc tōdawād, pīnicigu onisān; pä‘kicigu udạmwān.</span>
+<span class="l-orig">(87) A‘pī∙i∙dec kā∙ạ∙dimigowād, mī∙i∙’ᵘ kwāskwa∙u∙ntawād īni´ᵘ i‘kwäwạn ạnōdc tōdawād, pīnicigu onisān; pä‘kicigu udạmwān.</span>
 
 <span class="l-fiero">**Apii idash gaa-adimigowaad, mii iw gwaaskwa’ondawaad iniw ikwewan anooj doodawaad, biinish igo onisaan; bekish igo odamwaan.**</span>
 
@@ -729,11 +730,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Gegaa dash nesind gwiingwa’aage mii iw gii-maajaad.**</span>
 
-<span class="l-eng">*And when Wolverine was nearly slain, he then went away.*</span>
+<span class="l-eng">*And when Wolverene was nearly slain, he then went away.*</span>
 
 <span class="l-gloss">Gegaa dash nesind gwiingwa’aage (and when the wolverine was nearly slain) mii iw gii-maajaad (then he went away).</span>
 
-<span class="l-orig">(90) Awidạc uskinīgi‘kwä ugīpōdānān omîsäⁿyạn, mī∙i∙’ᵘ ki‘pîmādizinit.</span>
+<span class="l-orig">(90) Awidạc uskinīgi‘kwä ugīpōdānān omîsäⁿyạn, mī∙i∙´ᵘ ki‘pîmādizinit.</span>
 
 <span class="l-fiero">**Aw idash oskiniigikwe ogii-boodaanaan omisenyan, mii iw gii-bimaadizinid.**</span>
 
@@ -765,7 +766,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash ganoonaawaad (and so they called to him):</span>
 
-<span class="l-orig">(94) “Cingibis! ondā’s, pōzi∙i∙cînām!”</span>
+<span class="l-orig">(94) “Cingibis! ondā´s, pōzi∙i∙cînām!”</span>
 
 <span class="l-fiero">**“Zhingibis! ondaas, boozishinaam!”**</span>
 
@@ -775,19 +776,19 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(95) Kāwīndạc kīgitōsī cingibis.</span>
 
-<span class="l-fiero">**Gaawiin dash gii-ikidosii zhingibis.**</span>
+<span class="l-fiero">**Gaawiin dash giigidosii zhingibis.**</span>
 
 <span class="l-eng">*But Diver did not speak.*</span>
 
-<span class="l-gloss">Gaawiin dash gii-ikidosii zhingibis (but Diver did not speak).</span>
+<span class="l-gloss">Gaawiin dash giigidosii zhingibis (but Diver did not speak).</span>
 
 <span class="l-orig">(96) Mīnawā gu odānukạnonāwān, kāwāngạnagä kīgitōsī.</span>
 
-<span class="l-fiero">**Miinawaa go odaano-ganoonaawaan, gaawiin ganage gii-ikidosii.**</span>
+<span class="l-fiero">**Miinawaa go odaano-ganoonaawaan, gaawiin ganage giigidosii.**</span>
 
 <span class="l-eng">*So again they tried in vain to speak to him, but not a word did he say.*</span>
 
-<span class="l-gloss">Miinawaa go odaano-ganoonaawaan (again they called to him in vain), gaawiin ganage gii-ikidosii (not at all did he speak).</span>
+<span class="l-gloss">Miinawaa go odaano-ganoonaawaan (again they called to him in vain), gaawiin ganage giigidosii (not at all did he speak).</span>
 
 <span class="l-orig">(97) Käga‘pī∙i∙dac i‘kido aᵘ cingibis:</span>
 
@@ -797,7 +798,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Gegaa pii idash ikido aw zhingibis (and at last Diver said):</span>
 
-<span class="l-orig">(98) “Kāwīnin nindāwisī cingibis. Nīn wämīgisigō.”¹</span>
+<span class="l-orig">(98) “Kāwīnīn nindāwisī cingibis. Nīn wämīgisigō.”¹</span>
 
 <span class="l-fiero">**“Gaawiin nindaawisii zhingibis. Niin wemiigisigoo.”**</span>
 
@@ -805,13 +806,15 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Gaawiin nindaawisii zhingibis (I am not Diver). Niin wemiigisigoo (I am Arrayed-in-Wampum).”</span>
 
+*¹ Thus trying to pass himself off as the Loon, who went by that name.  (Jones’s note, printed at the foot of p. 156, marker on “wämīgisigō.”¹ in the Ojibwe; the same marker also stands on facing English p. 157.)*
+
 <span class="l-orig">(99) “Skomāsaondās, kawābạmigō.”</span>
 
-<span class="l-fiero">**“Skomaa sa ondaas, giga-waabamigoo.”**</span>
+<span class="l-fiero">**“Skomaa sa ondaas, ga-waabamigoo.”**</span>
 
 <span class="l-eng">*“Then please come here! Let us look at you!”*</span>
 
-<span class="l-gloss">“Skomaa sa ondaas (then do come here), giga-waabamigoo (let us see you).”</span>
+<span class="l-gloss">“Skomaa sa ondaas (then do come here), ga-waabamigoo (let us see you).”</span>
 
 <span class="l-orig">(100) Mī∙i∙dec kī‘pī∙i∙jād ‘aᵉaᵘ cingibis.</span>
 
@@ -821,7 +824,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash gii-bi-izhaad a’aw zhingibis (and so Diver came over).</span>
 
-<span class="l-orig">(101) “Skumāⁿ si’‘kun!” odināwān.</span>
+<span class="l-orig">(101) “Skumāⁿ si´‘kun!” odināwān.</span>
 
 <span class="l-fiero">**“Skomaanh zikon!” odinaawaan.**</span>
 
@@ -837,7 +840,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash ezhi-bakibinaad manidoominensa’ naabishebizod (and so he plucked off the beads he wore as ear-rings); mii dash gimooj gii-zhakamod (and so secretly he put them in his mouth), mii dash zikod (and so he spat); manidoominensa’ ozikwaanaa (some beads he spat out).</span>
 
-<span class="l-orig">(103) Mēdạc īgi’ᵘ i‘kwäwạg kī∙o∙dā‘pināwād.</span>
+<span class="l-orig">(103) Mēdạc īgi´ᵘ i‘kwäwạg kī∙o∙dā‘pināwād.</span>
 
 <span class="l-fiero">**Mii dash igiw ikwewag gii-odaapinaawaad.**</span>
 
@@ -861,7 +864,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash miinawaa gwekaya’ii gii-bakibidood onaabishebizon (and so again from the other side he plucked off his ear-ring); miinawaa manidoominensa’ ogii-zikwaanaan (again some beads he spat out).</span>
 
-<span class="l-orig">(106) Mī mīnawā ma‘kandiwād īgi’ᵘ i‘kwäwag.</span>
+<span class="l-orig">(106) Mī mīnawā ma‘kandiwād īgi´ᵘ i‘kwäwag.</span>
 
 <span class="l-fiero">**Mii miinawaa makandiwaad igiw ikwewag.**</span>
 
@@ -877,7 +880,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Miinawaa, miinawaa waa-zikon (more, more, spit out)!” odinaawaan (they said to him).</span>
 
-<span class="l-orig">(108) “Kāwīn, mē∙i∙’ᵘ mini‘k,” i‘kido cingibis.</span>
+<span class="l-orig">(108) “Kāwīn, mē∙i∙´ᵘ mini‘k,” i‘kido cingibis.</span>
 
 <span class="l-fiero">**“Gaawiin, mii iw minik,” ikido zhingibis.**</span>
 
@@ -885,7 +888,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Gaawiin, mii iw minik (no, that is enough),” ikido zhingibis (said Diver).</span>
 
-<span class="l-orig">(109) Mē∙i∙dạc kīpōzi∙i∙gowād cingibisạn; i‘kwäwạg tcīmäwạg windạc cingibis āpi‘ta∙ō∙nạg nạmạdạpⁱ.</span>
+<span class="l-orig">(109) Mē∙i∙dạc kīpōzī∙i∙gowād cingibisạn; i‘kwäwạg tcīmäwạg wīndạc cingibis āpi‘ta∙ō∙nạg nạmạdạpⁱ.</span>
 
 <span class="l-fiero">**Mii dash gii-boozi’igowaad zhingibisan; ikwewag jiimewag wiin dash zhingibis aabita’oonag namadabi.**</span>
 
@@ -911,11 +914,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(112) Cingibis idạc i‘kidō:</span>
 
-<span class="l-fiero">**Zhingibis dash ikido:**</span>
+<span class="l-fiero">**Zhingibis idash ikido:**</span>
 
 <span class="l-eng">*And Diver said:*</span>
 
-<span class="l-gloss">Zhingibis dash ikido (and Diver said):</span>
+<span class="l-gloss">Zhingibis idash ikido (and Diver said):</span>
 
 <span class="l-orig">(113) “Aᵘ nīndaⁱ.”²</span>
 
@@ -924,6 +927,8 @@ The Foolish Maidens and the Diver
 <span class="l-eng">*“That is my pet.”*</span>
 
 <span class="l-gloss">“Aw ninday (that is my pet).”</span>
+
+*² Pet in the sense that a dog is a pet.  (Jones’s note, printed at the foot of English p. 157; marker ² stands on “nīndaⁱ.”² in the Ojibwe p. 156 l. 24.)*
 
 <span class="l-orig">(114) “Skomāsa gạnōj!”</span>
 
@@ -1133,7 +1138,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Aapiji wiininoowan (it was very fat).</span>
 
-<span class="l-orig">(140) Mēdạc kimōⁿzu‘käwäd; ā‘pitci minwändạmōg īgi’ᵘ i‘kwäwạg.</span>
+<span class="l-orig">(140) Mēdạc kimōⁿzu‘käwäd; ā‘pitci minwändạmōg īgi´ᵘ i‘kwäwạg.</span>
 
 <span class="l-fiero">**Mii dash gii-moozokewed; aapiji minwendamoog igiw ikwewag.**</span>
 
@@ -1149,15 +1154,15 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Ningoding idash zhingibis omisawendaan moozowis agoodenig (and once Diver craved the moose-spleen hanging there), mii dash enaad bezhig wiiwan (and so he said to one of his wives):</span>
 
-<span class="l-orig">(142) “Tagagātōn i∙i∙’ᵘ mōⁿzuwīs, ma‘kwasîm tạbigimōdi tipi‘kạdinig.”</span>
+<span class="l-orig">(142) “Tagagātōn i∙i∙´ᵘ mōⁿzuwīs, ma‘kwasîm tạbigimōdi tipi‘kạdinig.”</span>
 
-<span class="l-fiero">**“Daga gaadoon i’iw moozowis, makwasim da-bi-gimoodi dibikadenig.**</span>
+<span class="l-fiero">**“Daga gaadoon i’iw moozowis, makwasim da-bi-gimoodi dibikadinig.**</span>
 
-<span class="l-eng">*“You had better hide away the moose-spleen, for bear-dog might come and steal it during the Night.”*</span>
+<span class="l-eng">*“You had better hide away the moose-spleen, for bear-dog might come and steal it during the night.”*</span>
 
-<span class="l-gloss">“Daga gaadoon i’iw moozowis (do hide away the moose-spleen), makwasim da-bi-gimoodi dibikadenig (for the bear-dog might come and steal it in the night).</span>
+<span class="l-gloss">“Daga gaadoon i’iw moozowis (do hide away the moose-spleen), makwasim da-bi-gimoodi dibikadinig (for the bear-dog might come and steal it in the night).</span>
 
-<span class="l-orig">(143) Kāwīndạc ogīkādōsin ‘aᵉaᵘ i‘kwä ‘iᵉi’ᵘ mōⁿzuwis.</span>
+<span class="l-orig">(143) Kāwīndạc ogīkādōsīn ‘aᵉaᵘ i‘kwä ‘iᵉi’ᵘ mōⁿzuwis.</span>
 
 <span class="l-fiero">**Gaawiin dash ogii-gaadoosiin a’aw ikwe i’iw moozowis.**</span>
 
@@ -1273,7 +1278,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**“Daga niin nitam,” ikido a’aw zeziikizid.**</span>
 
-<span class="l-eng">*“Now it’s my turn, “ said the one who was older.*</span>
+<span class="l-eng">*“Now it’s my turn,” said the one who was older.*</span>
 
 <span class="l-gloss">“Daga niin nitam (now it is my turn),” ikido a’aw zeziikizid (said the older one).</span>
 
@@ -1297,7 +1302,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Nindoging idash gabeshiwaad, “Daga, zhingibis, amik wii-nishi.”**</span>
 
-<span class="l-eng">*And presently, as they were making camp, “I say, Diver! I wish you would try to kill a beaver.*</span>
+<span class="l-eng">*And presently, as they were making camp, “I say, Diver! I wish you would try to kill a beaver.”*</span>
 
 <span class="l-gloss">Nindoging idash gabeshiwaad (and once as they were making camp), “Daga, zhingibis (I say, Diver), amik wii-nishi (do try to kill a beaver).”</span>
 
@@ -1309,7 +1314,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash geget gaa-izhi-izhaad mishawagaam zhingibis (and so indeed Diver went far out on the water).</span>
 
-<span class="l-orig">(162) Mī∙i∙māⁿ ạgu’mwut mī∙i∙’ᵘ kā∙i∙nād wīwān:</span>
+<span class="l-orig">(162) Mī∙i∙māⁿ ạgu´mwut mī∙i∙´ᵘ kā∙i∙nād wīwān:</span>
 
 <span class="l-fiero">**Mii imaa agomonid mii iw gaa-inaad wiiwan:**</span>
 
@@ -1321,25 +1326,25 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**“Giishpin waabamiyan googiiyaan ikidon, ’Amikwan netaa-nisaad ginaabeminaan’.”**</span>
 
-<span class="l-eng">*“When you see me dive, say, ’Our husband is good at killing beavers.’ “*</span>
+<span class="l-eng">*“When you see me dive, say, ‘Our husband is good at killing beavers.’”*</span>
 
 <span class="l-gloss">“Giishpin waabamiyan googiiyaan (when you see me dive) ikidon (say), ‘Amikwan netaa-nisaad ginaabeminaan (our husband is good at killing beavers).’”</span>
 
-<span class="l-orig">(164) A‘pī∙i∙dạc kōgīt ‘aᵉa’ᵘ cingibis kāwin ‘iᵉiᵘ kī∙i∙‘ditosīwag.</span>
+<span class="l-orig">(164) A‘pī∙i∙dạc kōgīt ‘aᵉa´ᵘ cingibis kāwin ‘iᵉiᵘ kī∙i∙‘ditosīwag.</span>
 
-<span class="l-fiero">**Apii dash googiid a’aw zhingibis gaawiin i’iw ikidosiiwag.**</span>
+<span class="l-fiero">**Apii dash googiid a’aw zhingibis gaawiin i’iw gii-ikidosiiwag.**</span>
 
 <span class="l-eng">*But when Diver went down into the water, they did not say it.*</span>
 
-<span class="l-gloss">Apii dash googiid a’aw zhingibis (and when Diver dived) gaawiin i’iw ikidosiiwag (they did not say it).</span>
+<span class="l-gloss">Apii dash googiid a’aw zhingibis (and when Diver dived) gaawiin i’iw gii-ikidosiiwag (they did not say it).</span>
 
 <span class="l-orig">(165) “Cingibis, kiwâskätiyä.”</span>
 
-<span class="l-fiero">**“Zhingibis giwaaskediye [=>giwaabishkidiye].”**</span>
+<span class="l-fiero">**“Zhingibis giwaaskediye =>giwaabishkidiye.”**</span>
 
 <span class="l-eng">*(But they said instead), “Diver, you are white about the buttocks.”*</span>
 
-<span class="l-gloss">“Zhingibis giwaaskediye [=>giwaabishkidiye] (Diver, you are white about the rump).”</span>
+<span class="l-gloss">“Zhingibis giwaaskediye (Diver, you are white about the rump).”</span>
 
 <span class="l-orig">(166) Cingibis idạc näyāp kīmōckạmo obā‘pi∙ā∙wān.</span>
 
@@ -1349,7 +1354,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Zhingibis idash neyaab gii-mooshkamo (and Diver came back up to the surface) obaapi’aawaan (they laughed at him).</span>
 
-<span class="l-orig">(167) Mīgu∙i∙’ᵘ mōjạg änāwād, pānimā kā‘täpiwād mī kī∙i∙nāwād:</span>
+<span class="l-orig">(167) Mīgu∙i∙´ᵘ mōjạg änāwād, pānimā kā‘täpiwād mī kī∙i∙nāwād:</span>
 
 <span class="l-fiero">**Mii go moozhag enaawaad, baanimaa gaa-debiwaad mii gii-inaawaad:**</span>
 
@@ -1389,7 +1394,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Wiikobidooyok (pull on it)!” odinaa’ (he said to them).</span>
 
-<span class="l-orig">(172) Mēdạc kägät wī‘kupidōwād ‘iᵉi’ᵘ pīcāgạnāp īgi’ᵘ i‘kwäwạg, mēdạc imāⁿ ta‘kupisowād āmi‘kwạg.</span>
+<span class="l-orig">(172) Mēdạc kägät wī‘kupidōwād ‘iᵉi´ᵘ pīcāgạnāp īgi´ᵘ i‘kwäwạg, mēdạc imāⁿ ta‘kupisowād āmi‘kwạg.</span>
 
 <span class="l-fiero">**Mii dash geget wiikobidoowaad i’iw biishaaganaab igiw ikwewag, mii dash imaa dakobizowaad amikwag.**</span>
 
@@ -1397,7 +1402,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash geget wiikobidoowaad i’iw biishaaganaab igiw ikwewag (and so indeed the women pulled on the rawhide cord), mii dash imaa dakobizowaad amikwag (and there the beavers were tied fast).</span>
 
-<span class="l-orig">(173) Kitciminwändạmōg igi’ᵘ i‘kwäwạg.</span>
+<span class="l-orig">(173) Kitciminwändạmōg igi´ᵘ i‘kwäwạg.</span>
 
 <span class="l-fiero">**Gichi-minwendamoog igiw ikwewag.**</span>
 
@@ -1405,7 +1410,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Gichi-minwendamoog igiw ikwewag (greatly pleased were the women).</span>
 
-<span class="l-orig">(174) Mīdạc kī∙o∙ji∙ā∙wād īni’ᵘ āmi‘kwan.</span>
+<span class="l-orig">(174) Mīdạc kī∙o∙ji∙ā∙wād īni´ᵘ āmi‘kwan.</span>
 
 <span class="l-fiero">**Mii dash gii-ozhi’aawaad iniw amikwan.**</span>
 
@@ -1429,7 +1434,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash ekidod zhingibis (and so Diver said):</span>
 
-<span class="l-orig">(177) “Mī∙i∙’ᵘ nōngum tci∙o∙di‘tạmạng ōdä‘tōwād ạnicinābäg.</span>
+<span class="l-orig">(177) “Mī∙i∙´ᵘ nōngum tci∙o∙di‘tạmạng ōdä‘tōwād ạnicinābäg.</span>
 
 <span class="l-fiero">**“Mii iw noongom ji-oditamang oodetoowaad anishinaabeg.**</span>
 
@@ -1445,13 +1450,13 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii imaanh gaa-bi-onjiyaan (that is where I come from).</span>
 
-<span class="l-orig">(179) Käᵒgä‘t ā‘pitci oniciciwạg kidāngwä∙i∙wāg, mīgisạn nạnābicäbizōnāwān kidāngwä∙i∙wāg.”</span>
+<span class="l-orig">(179) Käᵉgä‘t ā‘pitci oniciciwạg kidāngwä∙i∙wāg, mīgisạn nạnābicäbizōnāwān kidāngwä∙i∙wāg.”</span>
 
-<span class="l-fiero">**Geget aapiji onizhishiwag gidaangwe’iwaag, miigisan nanaabichebizoonaawaan gidaangwe’iwaag.”**</span>
+<span class="l-fiero">**Geget aapiji onizhishiwag gidaangwe’iwaag, miigisan nanaabishebizoonaawaan gidaangwe’iwaag.”**</span>
 
 <span class="l-eng">*Really very beautiful are your sisters-in-law, your sisters-in-law wear ear-rings of wampum beads.”*</span>
 
-<span class="l-gloss">Geget aapiji onizhishiwag gidaangwe’iwaag (truly very beautiful are your sisters-in-law), miigisan nanaabichebizoonaawaan gidaangwe’iwaag (your sisters-in-law wear wampum ear-rings).”</span>
+<span class="l-gloss">Geget aapiji onizhishiwag gidaangwe’iwaag (truly very beautiful are your sisters-in-law), miigisan nanaabishebizoonaawaan gidaangwe’iwaag (your sisters-in-law wear wampum ear-rings).”</span>
 
 <span class="l-orig">(180) A‘pī∙i∙dạc sāgä∙o∙wād pībāgiwạg:</span>
 
@@ -1471,27 +1476,29 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(182) Mīdạc cingibis äjinība‘kwid.</span>
 
-<span class="l-fiero">**Mii dash zhingibis azhiniibakwid.**</span>
+<span class="l-fiero">**Mii dash zhingibis ezhiniibakwid.**</span>
 
 <span class="l-eng">*Thereupon Diver sat up with back erect.*</span>
 
-<span class="l-gloss">Mii dash zhingibis azhiniibakwid (and so Diver sat up with his back erect).</span>
+<span class="l-gloss">Mii dash zhingibis ezhiniibakwid (and so Diver sat up with his back erect).</span>
 
 <span class="l-orig">(183) “Īi, īniwädi ka∙i∙nāwād, ạgamigistcigạmi pämiskānit.”¹</span>
 
-<span class="l-fiero">**“I’i, iniwedi gaa-inaawaad, agami-gischigami bemis[h]kaanid.”**</span>
+<span class="l-fiero">**“Ii, iniwedi gaa-inaawaad, agami-gichigami bemishkaanid.”**</span>
 
 <span class="l-eng">*“Oh, yonder are the ones to whom they refer, they who are passing farther out (in their canoes).”*</span>
 
-<span class="l-gloss">“I’i, iniwedi gaa-inaawaad (oh, yonder are the ones they mean), agami-gischigami bemis[h]kaanid (the ones paddling out across the sea).”</span>
+<span class="l-gloss">“Ii, iniwedi gaa-inaawaad (oh, yonder are the ones they mean), agami-gichigami bemishkaanid (the ones paddling out across the sea).”</span>
 
-<span class="l-orig">(184) A‘pī∙i∙dạc käbāwād nībawa i‘kwäwaᵉ pī’jāwaᵉ, ā‘pidci oniciwaᵉ ‘iᵉi’ᵘ i‘kwäwaᵉ.</span>
+*¹ Thus trying to conceal his identity.  (Jones’s note, printed at the foot of the Ojibwe p. 162 itself, not on facing English p. 163; marker on “pämiskānit.”¹.)*
 
-<span class="l-fiero">**Apii idash gebaawaad niibawa ikwewa’ bi-izhaawa’, aapiji oni[zhi]shiwa’ iniw ikwewa’.**</span>
+<span class="l-orig">(184) A‘pī∙i∙dạc käbāwād nībawa i‘kwäwaᵉ pī’jāwaᵉ, ā´pidci oniciwaᵉ ‘iᵉi´ᵘ i‘kwäwaᵉ.</span>
+
+<span class="l-fiero">**Apii idash gebaawaad niibawa ikwewa’ bi-izhaawa’, aapiji onishiwa’ iniw ikwewa’.**</span>
 
 <span class="l-eng">*And when they went ashore, many women came, very pretty were the women.*</span>
 
-<span class="l-gloss">Apii idash gebaawaad (and when they landed) niibawa ikwewa’ bi-izhaawa’ (many women came), aapiji oni[zhi]shiwa’ iniw ikwewa’ (very pretty were those women).</span>
+<span class="l-gloss">Apii idash gebaawaad (and when they landed) niibawa ikwewa’ bi-izhaawa’ (many women came), aapiji onishiwa’ iniw ikwewa’ (very pretty were those women).</span>
 
 <span class="l-orig">(185) Mī∙i∙dec ä‘kidonit cingibis wīwäᵉ:</span>
 
@@ -1503,11 +1510,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(186) “Mīna īgi’ᵘ nindāngwänānig?”</span>
 
-<span class="l-fiero">**“Mii na igiw nindagwenaanig?”**</span>
+<span class="l-fiero">**“Mii na igiw nindaangwenaanig?”**</span>
 
-<span class="l-eng">*“Are these our sisters-in-law?’*</span>
+<span class="l-eng">*“Are these our sisters-in-law?”*</span>
 
-<span class="l-gloss">“Mii na igiw nindagwenaanig (are these our sisters-in-law)?”</span>
+<span class="l-gloss">“Mii na igiw nindaangwenaanig (are these our sisters-in-law)?”</span>
 
 <span class="l-orig">(187) “Kāwīn,” i‘kido cīngibis.</span>
 
@@ -1517,7 +1524,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">“Gaawiin (no),” ikido zhingibis (said Diver).</span>
 
-<span class="l-orig">(188) “Kägä‘t îna’ wīn īgi’ᵘ i‘kwäwạg!”</span>
+<span class="l-orig">(188) “Kägä‘t îna´ wīn īgi´ᵘ i‘kwäwạg!”</span>
 
 <span class="l-fiero">**“Geget inaa wiin igiw ikwewag!”**</span>
 
@@ -1541,7 +1548,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash ekidod zhingibis (and so Diver said),</span>
 
-<span class="l-orig">(191) “Na mīsa’ īgi’ᵘ kidāngwäⁿ∙i∙wāg! mīsa īgi’ᵘ kägä‘t i‘kwäwạg.”</span>
+<span class="l-orig">(191) “Na mīsa´ īgi´ᵘ kidāngwäⁿ∙i∙wāg! mīsa īgi´ᵘ kägä‘t i‘kwäwạg.”</span>
 
 <span class="l-fiero">**“Naa mii sa igiw gidaangwe’iwaag! mii sa go igiw geget ikwewag.”**</span>
 
@@ -1565,7 +1572,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash gii-biindigewaad zhingibis ookomisan endaanid (and so they went in where Diver’s grandmother lived).</span>
 
-<span class="l-orig">(194) A‘pī∙i∙dạc wänāgucig mī∙i∙’ᵘ mạdwänimi∙i∙diwād.</span>
+<span class="l-orig">(194) A‘pī∙i∙dạc wänāgucig mī∙i∙´ᵘ mạdwänimi∙i∙diwād.</span>
 
 <span class="l-fiero">**Apii idash wenaagoshig mii iw madwenimi’idiwaad.**</span>
 
@@ -1575,11 +1582,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(195) Kägä‘t idạc īwidi kägä‘t ändāt ‘aᵉaᵘ wämigīsạgō.</span>
 
-<span class="l-fiero">**Geget idash iwidi geget endaad a’aw wenimigiisagoo.**</span>
+<span class="l-fiero">**Geget idash iwidi geget endaad a’aw wemiigisagoo.**</span>
 
 <span class="l-eng">*Now, in truth, at that place was where lived the real Arrayed-in-Wampum.*</span>
 
-<span class="l-gloss">Geget idash iwidi geget endaad a’aw wenimigiisagoo (now indeed over there is where the real Arrayed-in-Wampum lived).</span>
+<span class="l-gloss">Geget idash iwidi geget endaad a’aw wemiigisagoo (now indeed over there is where the real Arrayed-in-Wampum lived).</span>
 
 <span class="l-orig">(196) Mī∙i∙dac ä‘kidot cingibis:</span>
 
@@ -1591,11 +1598,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(197) “Kāwīn i‘kwäwạg ijāsīwạg nīmi∙i∙ding.</span>
 
-<span class="l-fiero">**“Gaawiin ikwewag izhaawiiwag niimi’iding.**</span>
+<span class="l-fiero">**“Gaawiin ikwewag izhaasiiwag niimi’iding.**</span>
 
 <span class="l-eng">*“Women do not go to the dance.*</span>
 
-<span class="l-gloss">“Gaawiin ikwewag izhaawiiwag niimi’iding (women do not go to the dance).</span>
+<span class="l-gloss">“Gaawiin ikwewag izhaasiiwag niimi’iding (women do not go to the dance).</span>
 
 <span class="l-orig">(198) Mīdạc nîbāyu‘k,” udināᵉ wīwaᵉ cingibis.</span>
 
@@ -1661,7 +1668,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash gii-maajaawaad (and so off they went); apii idash degwishinowaad wiigiwaaming (and when they reached the wigwam), gii-baapiwag (they laughed); mii dash waabamaawaad onaabemiwaan (for they saw their husband) datangishkawind ozhiiganaang (being tramped upon at the back).</span>
 
-<span class="l-orig">(206) Kayädạc owābamāwān kägä‘t īni’ᵘ wämīgisagōn; nībiwa mīgisạn onābi‘kawān.</span>
+<span class="l-orig">(206) Kayädạc owābamāwān kägä‘t īni´ᵘ wämīgisagōn; nībiwa mīgisạn onābi‘kawān.</span>
 
 <span class="l-fiero">**Gaye dash owaabamaawaan geget iniw wemiigisagoon, niibiwa miigisan onaabikawaan.**</span>
 
@@ -1669,7 +1676,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Gaye dash owaabamaawaan geget iniw wemiigisagoon (and they also saw the real Arrayed-in-Wampum); niibiwa miigisan onaabikawaan (many wampum beads he wore about his neck).</span>
 
-<span class="l-orig">(207) A‘pī∙i∙dac äckwānīmi∙i∙ding kī‘pindigäwạg īgi’ᵘ i‘kwäwạg wämīgisạgō ändāt.</span>
+<span class="l-orig">(207) A‘pī∙i∙dac äckwānīmi∙i∙ding kī‘pīndigäwạg īgi´ᵘ i‘kwäwạg wämīgisạgō ändāt.</span>
 
 <span class="l-fiero">**Apii idash eshkwaa-niimi’iding gii-biindigewag igiw ikwewag wemiigisagoo endaad.**</span>
 
@@ -1685,13 +1692,15 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash wiibemaawaad (and so they lay with him); wiin dash zhingibis gii-giiwe endaad (and Diver himself went home) owaabamaan nibaanid wiiwan (he saw his wives asleep).</span>
 
-<span class="l-orig">(209) Mīnạngwạna iᵘ kā∙i∙citcigäwād īgi’ᵘ i‘kwäwạg; mi‘tigōn ogī∙a∙‘tōnāwān imāⁿ ändạnạpiwād;¹ ogī∙ạ∙gwajä‘tōnāwān, tibiskō awiya nîbāt mī∙i∙’ᵘ äjināgwa‘k.</span>
+<span class="l-orig">(209) Mīnạngwạna iᵘ kā∙i∙citcigäwād īgi´ᵘ i‘kwäwạg; mi‘tigōn ogī∙a∙‘tōnāwān imāⁿ ändạnạpiwād;¹ ogī∙ạ∙gwajä‘tōnāwān, tibiskō awiya nîbāt mī∙i∙´ᵘ äjināgwa‘k.</span>
 
 <span class="l-fiero">**Mii nangwana iw gaa-izhichigewaad igiw ikwewag; mitigoon ogii-atoonaawaan imaanh endanabiwaad; ogii-agwazhetoonaawaan, dibishkoo awiya nibaad mii iw ezhinaagwak.**</span>
 
 <span class="l-eng">*But it turned out that this was what the women had done; (two pieces of) wood they had put at the place where they sat; they had put (the wood) under coverlets, as if somebody were asleep, was the way it looked.*</span>
 
 <span class="l-gloss">Mii nangwana iw gaa-izhichigewaad igiw ikwewag (but it turned out this is what the women had done); mitigoon ogii-atoonaawaan imaanh endanabiwaad (they had put pieces of wood where they sat); ogii-agwazhetoonaawaan (they had covered them up), dibishkoo awiya nibaad mii iw ezhinaagwak (just as if someone were sleeping, so it looked).</span>
+
+*¹ Their particular space in the lodge.  (Jones’s note, printed at the foot of the Ojibwe p. 164 itself, not on facing English p. 165; marker on “ändạnạpiwād;¹”.)*
 
 <span class="l-orig">(210) Cingibisidac kī∙o∙nạbi nîsawa‘ya∙ī∙, a‘kawä sạgạswā tcibwākawicimut.</span>
 
@@ -1701,21 +1710,21 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Zhingibis idash gii-onabi nisawaya’ii (and Diver sat down in between), akawe zagaswaa jibwaa-gawishimod (first he had a smoke before lying down to sleep).</span>
 
-<span class="l-orig">(211) ‘Aᵉa’widac uta‘kwạmigōn äbigōn, mēdạc ä‘kidot:</span>
+<span class="l-orig">(211) ‘Aᵉa´widac uta‘kwạmigōn äbigōn, mēdạc ä‘kidot:</span>
 
-<span class="l-fiero">**A’aw idash odakwamigoon ebigoon [=> enigoon], mii dash ekidod:**</span>
+<span class="l-fiero">**A’aw idash odakwamigoon ebigoon => enigoon, mii dash ekidod:**</span>
 
 <span class="l-eng">*Now, he was bitten by some ants, whereupon he said:*</span>
 
-<span class="l-gloss">A’aw idash odakwamigoon ebigoon [=> enigoon] (now he was bitten by some ants), mii dash ekidod (and so he said):</span>
+<span class="l-gloss">A’aw idash odakwamigoon ebigoon (now he was bitten by some ants), mii dash ekidod (and so he said):</span>
 
 <span class="l-orig">(212) “Tcī, tcī, tcī, kägu’ kimōti‘kän!”</span>
 
 <span class="l-fiero">**“Chii, chii, chii, gego gimoodiken!”**</span>
 
-<span class="l-eng">*“Tchi, tchi, tchi! don’t steal!”*</span>
+<span class="l-eng">*“Tcī, tcī, tcī! don’t steal!”*</span>
 
-<span class="l-gloss">“Chii, chii, chii, gego gimoodiken (Tchi, tchi, tchi, don’t steal)!”</span>
+<span class="l-gloss">“Chii, chii, chii, gego gimoodiken (Tcī, tcī, tcī, don’t steal)!”</span>
 
 <span class="l-orig">(213) A‘pī∙i∙dạc käwicimut ogīki‘kändān pīgidcīsạg a‘tänig wīwạn i‘ku cingicininit.</span>
 
@@ -1735,11 +1744,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(215) Mēdac kīgistcigī‘kāmād o‘kumisạn, kī∙i∙jādec usayäyạn ändānit; mīdạc wâbạmād wīwaᵉ wī‘pämāwād wämīgisạgōn.</span>
 
-<span class="l-fiero">**Mii dash gii-gischi-giikaamaad ookomisan, gii-izhaa dash osayenyan endaanid; mii dash waabamaad wiiwa’ wiibemaawaad wemiigisagoon.**</span>
+<span class="l-fiero">**Mii dash gii-gichi-giikaamaad ookomisan, gii-izhaa dash osayenyan endaanid; mii dash waabamaad wiiwa’ wiibemaawaad wemiigisagoon.**</span>
 
-<span class="l-eng">*Thereupon he gave his grandmother a severe scolding, and then he went to where his elder brother lived ; whereupon he saw that his wives were lying with Arrayed-in-Wampum.*</span>
+<span class="l-eng">*Thereupon he gave his grandmother a severe scolding, and then he went to where his elder brother lived; whereupon he saw that his wives were lying with Arrayed-in-Wampum.*</span>
 
-<span class="l-gloss">Mii dash gii-gischi-giikaamaad ookomisan (and so he sharply scolded his grandmother), gii-izhaa dash osayenyan endaanid (and he went to where his elder brother lived); mii dash waabamaad wiiwa’ wiibemaawaad wemiigisagoon (and so he saw his wives lying with Arrayed-in-Wampum).</span>
+<span class="l-gloss">Mii dash gii-gichi-giikaamaad ookomisan (and so he sharply scolded his grandmother), gii-izhaa dash osayenyan endaanid (and he went to where his elder brother lived); mii dash waabamaad wiiwa’ wiibemaawaad wemiigisagoon (and so he saw his wives lying with Arrayed-in-Wampum).</span>
 
 <span class="l-orig">(216) Mēdạc kī‘kīwäd, ạsinīⁿs idạc ogīkijāpi‘kiswān.</span>
 
@@ -1749,29 +1758,29 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash gii-giiwed (and so he went back home), asiniins idash ogii-gizhaabikizwaan (and a little stone he heated red-hot).</span>
 
-<span class="l-orig">(217) Mī∙i∙dạc kī∙i∙jāt usayäⁿyan nibānit; mēdạc tāwạninit kī∙a∙‘tōd ‘iᵉi’ᵘ asinīⁿs mskwāpi‘kidänig, pīndcigunäwa.</span>
+<span class="l-orig">(217) Mī∙i∙dạc kī∙i∙jāt usayäⁿyan nibānit; mēdạc tāwạninit kī∙a∙‘tōd ‘iᵉi´ᵘ asinīⁿs mskwāpi‘kidänig, pīndcigunäwa.</span>
 
-<span class="l-fiero">**Mii dash gii-izhaad osayenyan nibaanid; mii dash daawaninid gii-atood i’iw asiniins miskwaabikidenig, biinjigonewa [=> biinjidoonewa].**</span>
+<span class="l-fiero">**Mii dash gii-izhaad osayenyan nibaanid; mii dash daawaninid gii-atood i’iw asiniins miskwaabikidenig, biinjigonewa => biinjidoonewa.**</span>
 
 <span class="l-eng">*Whereupon he went to where his elder brother was asleep; and so in where his mouth was open he placed the pebble which had been heated red, inside of his mouth he put it.*</span>
 
-<span class="l-gloss">Mii dash gii-izhaad osayenyan nibaanid (and so he went to where his elder brother slept); mii dash daawaninid gii-atood i’iw asiniins miskwaabikidenig (and so where his mouth was open he placed the red-hot stone), biinjigonewa [=> biinjidoonewa] (inside his mouth he put it).</span>
+<span class="l-gloss">Mii dash gii-izhaad osayenyan nibaanid (and so he went to where his elder brother slept); mii dash daawaninid gii-atood i’iw asiniins miskwaabikidenig (and so where his mouth was open he placed the red-hot stone), biinjigonewa (inside his mouth he put it).</span>
 
 <span class="l-orig">(218) Awidạc wämīgisagō kīnibu tcibwākuskusiwād ạnicinābäg.</span>
 
-<span class="l-fiero">**Mii dash wemiigisagoo gii-nibo jibwaa-gos[h]koziwaad anishinaabeg.**</span>
+<span class="l-fiero">**Mii dash wemiigisagoo gii-nibo jibwaa-goshkoziwaad anishinaabeg.**</span>
 
 <span class="l-eng">*So Arrayed-in-Wampum was dead before the people woke.*</span>
 
-<span class="l-gloss">Mii dash wemiigisagoo gii-nibo (and so Arrayed-in-Wampum died) jibwaa-gos[h]koziwaad anishinaabeg (before the people woke).</span>
+<span class="l-gloss">Mii dash wemiigisagoo gii-nibo (and so Arrayed-in-Wampum died) jibwaa-goshkoziwaad anishinaabeg (before the people woke).</span>
 
 <span class="l-orig">(219) Wäwīp kī‘pōzi cingibis awiwâbạndạng ạdi‘kunạgwāgạnạn.</span>
 
-<span class="l-fiero">**Wewiib gii-boozi zhingibis awi-waabandang adikonagwaananan.**</span>
+<span class="l-fiero">**Wewiib gii-boozi zhingibis awi-waabandang adikonagwaaganan.**</span>
 
 <span class="l-eng">*Early into his canoe had gone Diver to go see to the caribou-snares.*</span>
 
-<span class="l-gloss">Wewiib gii-boozi zhingibis (early Diver got into his canoe) awi-waabandang adikonagwaananan (to go see to the caribou-snares).</span>
+<span class="l-gloss">Wewiib gii-boozi zhingibis (early Diver got into his canoe) awi-waabandang adikonagwaaganan (to go see to the caribou-snares).</span>
 
 <span class="l-orig">(220) A‘pī∙i∙dạc kä‘känimind kīnibut wämīgisạgō kī∙i∙kidōwạg:</span>
 
@@ -1783,7 +1792,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(221) “Kīcpin ki‘kändạng cingibis kīnibōnit usayäⁿyạn tạmizidizu.”</span>
 
-<span class="l-fiero">**“Giishpin gikendang zhingibis gii-nibonid osayenyan da-mizidizo [=>da-nisidizo].”**</span>
+<span class="l-fiero">**“Giishpin gikendang zhingibis gii-nibonid osayenyan da-mizidizo =>da-nisidizo.”**</span>
 
 <span class="l-eng">*“When Diver learns that his elder brother is dead, he will kill himself.”*</span>
 
@@ -1823,19 +1832,19 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(226) ‘Aᵘ cingibis ogī∙a∙‘tōn odạpwi pimidasāng; nāgạtcidạc kī∙o∙niskā, mēdạc kī∙o∙dā‘pinạng mō‘komān cāyägwāgusininik; mīdạc papạjiba∙u∙disut nīdawaya∙ī∙; mī∙i∙dec kā∙i∙jikonạpisät.</span>
 
-<span class="l-fiero">**Aw zhingibis ogii-atoon odapwi bimidasaang; naagaj idash gii-onishkaa, mii dash gii-odaapinang mookomaan zhayegwagosininig [ =>zhayegosininig]; mii dash babaazhiba’odizod niidawaya’ii; mii dash gaa-izhi-gonabised.**</span>
+<span class="l-fiero">**Aw zhingibis ogii-atoon odapwi bimidasaang; naagaj idash gii-onishkaa, mii dash gii-odaapinang mookomaan zhayegwagosininig  =>zhayegosininig; mii dash babaazhiba’odizod niidawaya’ii; mii dash gaa-izhi-gonabised.**</span>
 
 <span class="l-eng">*Diver placed his paddle resting across the canoe; and by and by he rose, upon which he took a knife that had been sticking up at the side of the canoe; thereupon he stabbed himself on both sides, and then over he went with the canoe.*</span>
 
-<span class="l-gloss">Aw zhingibis ogii-atoon odapwi bimidasaang (Diver laid his paddle across the canoe); naagaj idash gii-onishkaa (and by and by he rose), mii dash gii-odaapinang mookomaan zhayegwagosininig [ =>zhayegosininig] (and so he took a knife that stuck up there); mii dash babaazhiba’odizod niidawaya’ii (and so he stabbed himself on both sides); mii dash gaa-izhi-gonabised (and so he capsized with the canoe).</span>
+<span class="l-gloss">Aw zhingibis ogii-atoon odapwi bimidasaang (Diver laid his paddle across the canoe); naagaj idash gii-onishkaa (and by and by he rose), mii dash gii-odaapinang mookomaan zhayegwagosininig (and so he took a knife that stuck up there); mii dash babaazhiba’odizod niidawaya’ii (and so he stabbed himself on both sides); mii dash gaa-izhi-gonabised (and so he capsized with the canoe).</span>
 
 <span class="l-orig">(227) Wäwīpidạc kī∙i∙jāwạg, ogīwâbạndānāwa mîskwīwāgạmininig nibi.</span>
 
-<span class="l-fiero">**Wewiib idash gii-zhaawag, ogii-waabandaanaawaa miskwiiwaagamininig nibi.**</span>
+<span class="l-fiero">**Wewiib idash gii-izhaawag, ogii-waabandaanaawaa miskwiiwaagamininig nibi.**</span>
 
 <span class="l-eng">*And speedily over there they went, they saw that the water was bloody.*</span>
 
-<span class="l-gloss">Wewiib idash gii-zhaawag (and quickly they went over), ogii-waabandaanaawaa miskwiiwaagamininig nibi (they saw the water was bloody).</span>
+<span class="l-gloss">Wewiib idash gii-izhaawag (and quickly they went over), ogii-waabandaanaawaa miskwiiwaagamininig nibi (they saw the water was bloody).</span>
 
 <span class="l-orig">(228) Mēdạc ä‘kidōwād:</span>
 
@@ -1865,7 +1874,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-fiero">**Minisaabik idash ayaani mishawagaam, mii dash imaanh waabamind zhingibis; madwe-ayaad, madwe-nagamo:**</span>
 
-<span class="l-eng">*An island of rock was out on the lake, and so there Diver was seen ; there he was heard, he was heard singing:*</span>
+<span class="l-eng">*An island of rock was out on the lake, and so there Diver was seen; there he was heard, he was heard singing:*</span>
 
 <span class="l-gloss">Minisaabik idash ayaani mishawagaam (and an island of rock was out on the lake), mii dash imaanh waabamind zhingibis (and so there Diver was seen); madwe-ayaad (he was heard there), madwe-nagamo (he was heard singing):</span>
 
@@ -1911,43 +1920,43 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(237) Kạbägīcig odānạgunōdci∙ā∙wān, kāwindec ogīnisāsiwâwān; mī∙i∙dec ki‘tciwâwâsagīmōckạmut.</span>
 
-<span class="l-fiero">**Gabe-giizhig odaano-gii-nooji’aawaan, gaawiin dash ogii-nisaasiwaawaan; mii dash gichi-waawaasa gii-mooshkamod.**</span>
+<span class="l-fiero">**Gabe-giizhig odaano-go-nooji’aawaan, gaawiin dash ogii-nisaasiwaawaan; mii dash gichi-waawaasa gii-mooshkamod.**</span>
 
 <span class="l-eng">*All day long in vain they sought to get him, but they did not kill him; for he would go a long distance before coming up to the surface.*</span>
 
-<span class="l-gloss">Gabe-giizhig odaano-gii-nooji’aawaan (all day long in vain they pursued him), gaawiin dash ogii-nisaasiwaawaan (but they did not kill him); mii dash gichi-waawaasa gii-mooshkamod (for far off he would come to the surface).</span>
+<span class="l-gloss">Gabe-giizhig odaano-go-nooji’aawaan (all day long in vain they pursued him), gaawiin dash ogii-nisaasiwaawaan (but they did not kill him); mii dash gichi-waawaasa gii-mooshkamod (for far off he would come to the surface).</span>
 
 <span class="l-orig">(238) Mī∙i∙dec kā∙i∙ji∙ạ∙nōnāwād nīⁿjin kistcisạgaskwādcimä tciskạndạmowād ketcigạmi.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-[g]anoonaawaad niizhin gischi-zagaskwaajime[’] ji-[i]skandamowaad gichigami.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-anoonaawaad niinzhin gichi-zagaskwaajime ji-skandamowaad gichigami.**</span>
 
 <span class="l-eng">*Accordingly they set two great leeches to the task of sucking the water out of the sea.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-[g]anoonaawaad niizhin gischi-zagaskwaajime[’] (and so they set two great leeches to the task) ji-[i]skandamowaad gichigami (to suck up the sea).</span>
+<span class="l-gloss">Mii dash gaa-izhi-anoonaawaad niinzhin gichi-zagaskwaajime (and so they set two great leeches to the task) ji-skandamowaad gichigami (to suck up the sea).</span>
 
 <span class="l-orig">(239) Käᵉgät ogīskạndānāwa; tibisko kistciwạdciwạn mī∙i∙’ᵘ kā∙i∙jināguziwād īgi’ᵘ kistcisạgạskwātcimäg.</span>
 
-<span class="l-fiero">**Geget ogii-[i]skandaanaawaa; dibishkoo gischi-wajiwan mii iw gaa-izhinaagoziwaad igiw gischi-zagaskwaajimeg.**</span>
+<span class="l-fiero">**Geget ogii-skandaanaawaa; dibishkoo gichi-wajiwan mii iw gaa-izhinaagoziwaad igiw gichi-zagaskwaajimeg.**</span>
 
 <span class="l-eng">*In truth, they sucked the water out; like a great mountain was the way the big leeches looked.*</span>
 
-<span class="l-gloss">Geget ogii-[i]skandaanaawaa (indeed they sucked it up); dibishkoo gischi-wajiwan mii iw gaa-izhinaagoziwaad igiw gischi-zagaskwaajimeg (like great mountains the big leeches looked).</span>
+<span class="l-gloss">Geget ogii-skandaanaawaa (indeed they sucked it up); dibishkoo gichi-wajiwan mii iw gaa-izhinaagoziwaad igiw gichi-zagaskwaajimeg (like great mountains the big leeches looked).</span>
 
 <span class="l-orig">(240) A‘pī∙i∙dạc äska‘täg kistcigạmi ningudci kī‘kāzu cingibis; pīwānạgōn dạc ogīta‘kubinān uzidāng.</span>
 
-<span class="l-fiero">**Apii dash eskated gischigami ningoji gii-gaazo zhingibis; biiwaanagoon dash ogii-dakobinaan ozidaang.**</span>
+<span class="l-fiero">**Apii dash eskated gichigami ningoji gii-gaazo zhingibis; biiwaanagoon dash ogii-dakobinaan ozidaang.**</span>
 
 <span class="l-eng">*And when the sea was dry, somewhere was Diver hidden; for some flints he had tied to his feet.*</span>
 
-<span class="l-gloss">Apii dash eskated gischigami (and when the sea was dry) ningoji gii-gaazo zhingibis (somewhere Diver was hidden); biiwaanagoon dash ogii-dakobinaan ozidaang (for he had tied flints to his feet).</span>
+<span class="l-gloss">Apii dash eskated gichigami (and when the sea was dry) ningoji gii-gaazo zhingibis (somewhere Diver was hidden); biiwaanagoon dash ogii-dakobinaan ozidaang (for he had tied flints to his feet).</span>
 
 <span class="l-orig">(241) Mī∙i∙dạc kīkīnạndawâbamāwād.</span>
 
-<span class="l-fiero">**Mii dash gii-gii-nandawaabamaawaad [=>gii-nandawaabamaawaad].**</span>
+<span class="l-fiero">**Mii dash gii-gii-nandawaabamaawaad =>gii-nandawaabamaawaad.**</span>
 
 <span class="l-eng">*Thereupon they started looking for him.*</span>
 
-<span class="l-gloss">Mii dash gii-gii-nandawaabamaawaad [=>gii-nandawaabamaawaad] (and so they started looking for him).</span>
+<span class="l-gloss">Mii dash gii-gii-nandawaabamaawaad (and so they started looking for him).</span>
 
 <span class="l-orig">(242) A‘pī∙i∙dạc mä‘kawind cingibis kīmādciba∙i∙wä; mēdac nōdci∙ā∙wād.</span>
 
@@ -1959,11 +1968,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(243) A‘pī∙i∙dạc ka‘kina kā∙i∙jāwad ạnicinābäg ī∙i∙māⁿ nîbi ayāgibạn cingibis ogīmawinạnāᵉ kistcisagaskwādcimäᵉ; mī∙i∙dạc kīmāmādijwād piwānạgōn uzidāng kada‘kupinād.</span>
 
-<span class="l-fiero">**Apii dash gakina gaa-izhaawaad anishinaabeg imaanh nibi ayaagiban zhingibis ogii-mawinanaa’ gischi-zagaskwaajime’; mii dash gii-maamaadizhwaad biiwaanagoon ozidaang gaa-dakobinaad.**</span>
+<span class="l-fiero">**Apii dash gakina gaa-izhaawaad anishinaabeg i’imaanh nibi ayaagiban zhingibis ogii-mawinanaa’ gichi-zagaskwaajime’; mii dash gii-maamaadizhwaad biiwaanagoon ozidaang gaa-dakobinaad.**</span>
 
 <span class="l-eng">*And when all the people had gone to the place where the water used to be, Diver rushed at the great leeches; thereupon he cut them up with the flints which he had tied to his feet.*</span>
 
-<span class="l-gloss">Apii dash gakina gaa-izhaawaad anishinaabeg imaanh nibi ayaagiban (and when all the people had gone to where the water used to be) zhingibis ogii-mawinanaa’ gischi-zagaskwaajime’ (Diver rushed at the great leeches); mii dash gii-maamaadizhwaad biiwaanagoon ozidaang gaa-dakobinaad (and so he cut them up with the flints he had tied to his feet).</span>
+<span class="l-gloss">Apii dash gakina gaa-izhaawaad anishinaabeg i’imaanh nibi ayaagiban (and when all the people had gone to where the water used to be) zhingibis ogii-mawinanaa’ gichi-zagaskwaajime’ (Diver rushed at the great leeches); mii dash gii-maamaadizhwaad biiwaanagoon ozidaang gaa-dakobinaad (and so he cut them up with the flints he had tied to his feet).</span>
 
 <span class="l-orig">(244) Mēdạc ka‘kina nibi kīpīzīgizäg, ka‘kina kinisābāwäwạg.</span>
 
@@ -1973,7 +1982,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-gloss">Mii dash gakina nibi gii-bi-ziigiseg (and so all the water came pouring back), gakina gii-nisaabaawewag (all were drowned).</span>
 
-<span class="l-orig">(245) Kāwīndạc win cingibis kinîsābāwäsi, mī∙i∙’ᵘ wīn kī‘pimādizit.</span>
+<span class="l-orig">(245) Kāwīndạc win cingibis kinîsābāwäsi, mī∙i∙´ᵘ wīn kī‘pimādizit.</span>
 
 <span class="l-fiero">**Gaawiin dash wiin zhingibis gii-nisaabaawesii, mii iw wiin gii-bimaadizid.**</span>
 

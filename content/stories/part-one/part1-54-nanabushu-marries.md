@@ -2,7 +2,6 @@
 title: "54. Nanabushu Marries"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -107,11 +106,11 @@ Nanabushu Marries
 
 <span class="l-orig">(12) “Nîyā,” i‘kitu ‘aᵘ mindimoyä; “mägwā kuca mạnidō∙u∙i!</span>
 
-<span class="l-fiero">**“Niyaa,” ikido aw mindimoye; “megwaa gosha manidoo’o!**</span>
+<span class="l-fiero">**“Niyaa,” ikido aw mindimoye; “megwaa gosha manidoowi!**</span>
 
 <span class="l-eng">*“Dear me!” said the old woman; “why, she is now in the condition of a manitou! (3)*</span>
 
-<span class="l-gloss">“Niyaa,” ikido aw mindimoye (“dear me!” said the old woman); “megwaa gosha manidoo’o! (“why, she is right now manidoo’o!)</span>
+<span class="l-gloss">“Niyaa,” ikido aw mindimoye (“dear me!” said the old woman); “megwaa gosha manidoowi! (“why, she is right now in the condition of a manitou!)</span>
 
 <span class="l-orig">(13) Kayä dạc kāwīn tibänindisusī, ōsạn udibänimigōn.</span>
 
@@ -131,11 +130,11 @@ Nanabushu Marries
 
 <span class="l-orig">(15) “Ānīc, mānōsa’. Mīnawā na‘kawä ningabạbāmādi’s.</span>
 
-<span class="l-fiero">**“Aaniish, maanoo sa. Miinawaa na kawe ninga-babaamaadis.**</span>
+<span class="l-fiero">**“Aaniish, maanoo sa. Miinawaa nakawe ninga-babaamaadis.**</span>
 
 <span class="l-eng">*“Well, all right. For another while will I wander about.*</span>
 
-<span class="l-gloss">“Aaniish, maanoo sa. (“well, all right then.) Miinawaa na kawe ninga-babaamaadis. (and for a while yet I will wander about.)</span>
+<span class="l-gloss">“Aaniish, maanoo sa. (“well, all right then.) Miinawaa nakawe ninga-babaamaadis. (and for a while yet I will wander about.)</span>
 
 <span class="l-orig">(16) Kīnicwāsugunaga‘k ningatạgwicin, mī∙i’∙ᵘ tcibinandu ki‘kändạmān kädi‘kitogwän aᵘ a‘kiwäⁿzi.”</span>
 
@@ -163,11 +162,11 @@ Nanabushu Marries
 
 <span class="l-orig">(19) A‘pī∙i∙dạc äni∙u∙di‘tạng iwä wīgiwāmäns owâbạndān, wäwäni pīnictcigādänig.</span>
 
-<span class="l-fiero">**Apii idash eni-oditang iwe wiigiwaamens owaabandaan, weweni biinichjigaadenig.**</span>
+<span class="l-fiero">**Apii idash eni-oditang iwe wiigiwaamens owaabandaan, weweni biinichigaadenig.**</span>
 
 <span class="l-eng">*And when he got up to the small wigwam (5), he saw that it was all set in neat order.*</span>
 
-<span class="l-gloss">Apii idash eni-oditang iwe wiigiwaamens (and when he reached that little wigwam) owaabandaan (he saw it), weweni biinichjigaadenig (all neatly tidied up).</span>
+<span class="l-gloss">Apii idash eni-oditang iwe wiigiwaamens (and when he reached that little wigwam) owaabandaan (he saw it), weweni biinichigaadenig (all neatly tidied up).</span>
 
 <span class="l-orig">(20) A‘pī∙i∙dac tä‘pābạndạnk iwä wīgiwāmäns, ubiganawābạmigōn īni’ᵘ i‘kwäwạn.</span>
 
@@ -195,35 +194,35 @@ Nanabushu Marries
 
 <span class="l-orig">(23) Mīdạc awi‘kwä kā∙i∙jitcībā‘kwät, mīdạc ä‘kitut: “Ningatawinạndumāk ninīngī∙i∙gōg.”</span>
 
-<span class="l-fiero">**Mii dash awi kwe gaa-izhi-jiibaakwed, mii dash ekidod: “Ningad-awi-nandomaag ni-niigi’igoog.”**</span>
+<span class="l-fiero">**Mii dash aw ikwe gaa-izhi-jiibaakwed, mii dash ekidod: “Ningad-awi-nandomaag ni-niigi’igoog.”**</span>
 
 <span class="l-eng">*And so when the woman had cooked a meal, she then said: “I will go ask my parents to come.”*</span>
 
-<span class="l-gloss">Mii dash awi kwe gaa-izhi-jiibaakwed (and so when that woman had cooked), mii dash ekidod (then she said): “Ningad-awi-nandomaag ni-niigi’igoog.” (“I will go invite my parents.”)</span>
+<span class="l-gloss">Mii dash aw ikwe gaa-izhi-jiibaakwed (and so when that woman had cooked), mii dash ekidod (then she said): “Ningad-awi-nandomaag ni-niigi’igoog.” (“I will go invite my parents.”)</span>
 
 <span class="l-orig">(24) Mī kā∙i∙jimādcāt ‘awi‘kwä, ugī∙a∙winạndumān ōsạn ugīn kayä.</span>
 
-<span class="l-fiero">**Mii gaa-izhi-maajaad awi kwe, ogii-awi-nandomaan oosan ogiin gaye.**</span>
+<span class="l-fiero">**Mii gaa-izhi-maajaad aw ikwe, ogii-awi-nandomaan oosan ogiin gaye.**</span>
 
 <span class="l-eng">*Accordingly then departed the woman; she went to invite her father and mother.*</span>
 
-<span class="l-gloss">Mii gaa-izhi-maajaad awi kwe (and so that woman set out), ogii-awi-nandomaan oosan ogiin gaye (she went to invite her father and her mother too).</span>
+<span class="l-gloss">Mii gaa-izhi-maajaad aw ikwe (and so that woman set out), ogii-awi-nandomaan oosan ogiin gaye (she went to invite her father and her mother too).</span>
 
 <span class="l-orig">(25) Nīngānidạc kī‘pitạgwicin awi‘kwä.</span>
 
-<span class="l-fiero">**Ninga anidash gii-pi-dagwishin aw ikwe.**</span>
+<span class="l-fiero">**Niigaan idash gii-pi-dagwishin aw ikwe.**</span>
 
 <span class="l-eng">*Before (their arrival), back home had come the woman. (6)*</span>
 
-<span class="l-gloss">Ninga anidash gii-pi-dagwishin aw ikwe (and beforehand that woman had come back home).</span>
+<span class="l-gloss">Niigaan idash gii-pi-dagwishin aw ikwe (and beforehand that woman had come back home).</span>
 
 <span class="l-orig">(26) A‘pī∙i∙dac tägucinuwāt īgiwä ki‘tci∙ạ∙nicinābäᵉg, owâbạmāwān Nänabucōn nạmạdạbinit agāmindäsīng.</span>
 
-<span class="l-fiero">**Apii idash degoshinowaad igiw gichi-anishinaabeg, owaabamaawaan Nenaboozhoon namadabinid agaamindesing.**</span>
+<span class="l-fiero">**Apii idash degoshinowaad igiwe gichi-anishinaabeg, owaabamaawaan Nenaboozhoon namadabinid agaamindesing.**</span>
 
 <span class="l-eng">*Now, when the old folks arrived, they saw Nänabushu seated in the space behind the fire. (7)*</span>
 
-<span class="l-gloss">Apii idash degoshinowaad igiw gichi-anishinaabeg (and when those elders arrived), owaabamaawaan Nenaboozhoon namadabinid agaamindesing (they saw Nenaboozhoo sitting in the place behind the fire).</span>
+<span class="l-gloss">Apii idash degoshinowaad igiwe gichi-anishinaabeg (and when those elders arrived), owaabamaawaan Nenaboozhoon namadabinid agaamindesing (they saw Nenaboozhoo sitting in the place behind the fire).</span>
 
 <span class="l-orig">(27) Mīdạc ä‘kitut awä a‘kiwäⁿzi: “Ānīc, Nänabucū, ningīwīndạmāgō ‘iᵉiᵘ kā∙i∙‘kituwạnän änänimāwạtän ‘aᵉa’wi nindānisinān.</span>
 
@@ -299,19 +298,19 @@ Nanabushu Marries
 
 <span class="l-orig">(36) Nānīngudinō upiwīdcīwān ma‘kwạn, mīdạc imā pānimā pitạgwicing ickwāndänk mī∙i∙mā nīwạnawāt.</span>
 
-<span class="l-fiero">**Naaniingodinong obi-wiijiiwaan makwan mii dash imaa baanimaa bi-dagwishing ishkwaandeng mii imaa niiwanawaad.**</span>
+<span class="l-fiero">**Naaniingodinoo obi-wiijiiwaan makwan mii dash imaa baanimaa bi-dagwishing ishkwaandeng mii imaa niiwanawaad.**</span>
 
 <span class="l-eng">*Frequently he came home in company with a bear, and not till he was come there at the doorway did he then lay it low with a club.*</span>
 
-<span class="l-gloss">Naaniingodinong obi-wiijiiwaan makwan (now and then he came home along with a bear) mii dash imaa baanimaa bi-dagwishing ishkwaandeng (and only when he had come there to the doorway) mii imaa niiwanawaad (did he there club it down).</span>
+<span class="l-gloss">Naaniingodinoo obi-wiijiiwaan makwan (now and then he came home along with a bear) mii dash imaa baanimaa bi-dagwishing ishkwaandeng (and only when he had come there to the doorway) mii imaa niiwanawaad (did he there club it down).</span>
 
 <span class="l-orig">(37) Wībadạcigu Nänabucu kīi‘kitu: “Wī‘kundiwin tci∙u∙jictcigātänig awäsīmīdcîm, mizisä gayä, ka‘kinagu ändaswäwānạgisiwāt, pinēwaᵉ gayä.”</span>
 
-<span class="l-fiero">**Wiiba dash igo Nenaboozhoo gii-ikido: “Wiikondiwin ji-ozhichigaadenig awesiinh miijim, mizise gaye, gakina go endaswewaanagiziwaad, binewa’ gaye.”**</span>
+<span class="l-fiero">**Wiiba dash igo Nenaboozhoo gii-ikido: “Wiikondiwin ji-ozhichigaadenig awesii miijim, mizise gaye, gakina go endaswewaanagiziwaad, binewa’ gaye.”**</span>
 
 <span class="l-eng">*So in a little while Nänabushu said: “A feast there shall be of game-food, and of turkeys, and of every kind of game there is, and of ruffed grouse.”*</span>
 
-<span class="l-gloss">Wiiba dash igo Nenaboozhoo gii-ikido (so before long Nenaboozhoo said): “Wiikondiwin ji-ozhichigaadenig (“a feast shall be made) awesiinh miijim, mizise gaye, (of game-meat, and of turkeys too,) gakina go endaswewaanagiziwaad, binewa’ gaye.” (of every kind there is, and of ruffed grouse too.”)</span>
+<span class="l-gloss">Wiiba dash igo Nenaboozhoo gii-ikido (so before long Nenaboozhoo said): “Wiikondiwin ji-ozhichigaadenig (“a feast shall be made) awesii miijim, mizise gaye, (of game-meat, and of turkeys too,) gakina go endaswewaanagiziwaad, binewa’ gaye.” (of every kind there is, and of ruffed grouse too.”)</span>
 
 <span class="l-orig">(38) Mīdạc kā∙i∙ciwī‘kumindwa nībiwa anicinābäᵉg, i‘kwäwag kayä.</span>
 

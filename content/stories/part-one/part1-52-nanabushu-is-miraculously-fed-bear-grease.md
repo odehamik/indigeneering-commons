@@ -2,7 +2,6 @@
 title: "52. Nanabushu is Miraculously Fed Bear-Grease"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,7 +18,7 @@ Nanabushu is Miraculously fed Bear-Grease (3)
 
 <span class="l-orig">(1) Ningudingisa’ ạnipa pimōsägubạn Nänabujū, mē∙i∙dạc a‘pī wädisāt adcidamōn tānit; kī‘pīndigädạc ändānit.</span>
 
-<span class="l-fiero">**Ningoding isa ani-pabimosegoban Nenaboozhoo, mii dash apii wedisaad ajidamoon daanid; gii-piindige dash endaanid.**</span>
+<span class="l-fiero">**Ningoding isa ani-babimosegoban Nenaboozhoo, mii dash apii wedisaad ajidamoon daanid; gii-piindige dash endaanid.**</span>
 
 <span class="l-eng">*Now, once upon a time on his way went Nänabushu walking, and it was then that he came where a squirrel lived; and he went into where (the squirrel) lived.*</span>
 
@@ -43,11 +42,11 @@ Nanabushu is Miraculously fed Bear-Grease (3)
 
 <span class="l-orig">(4) Mēdạc kā∙i∙ji∙a∙dā‘pinād udisinīmạn, mīdạc mō‘komān äjipajiba∙o∙dizut.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-adaapinaad odisiniiman, mii dash mookomaan ezhi-pazhiba’odizod.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-adaapinaad odisiniiman, mii dash mookomaan ezhi-bazhiba’odizod.**</span>
 
 <span class="l-eng">*Accordingly, taking hold of his stone (2), he then pierced himself (there) with a knife.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-adaapinaad odisiniiman (accordingly, when he took hold of his stone), mii dash mookomaan (then with a knife) ezhi-pazhiba’odizod (he pierced himself).</span>
+<span class="l-gloss">Mii dash gaa-izhi-adaapinaad odisiniiman (accordingly, when he took hold of his stone), mii dash mookomaan (then with a knife) ezhi-bazhiba’odizod (he pierced himself).</span>
 
 <span class="l-orig">(5) Medac imāⁿ pimidä wändcidciwạninig, pä‘kic nōndāguzi: “Tcī tci tci tcī tci tcī, ma‘ku pimidä!”</span>
 
@@ -81,23 +80,21 @@ Nanabushu is Miraculously fed Bear-Grease (3)
 
 <span class="l-gloss">Mii dash mookomaan odoopinang, (thereupon he took up a knife), mii dash ezhi-odaapinaad odasiniiman (and then he took hold of his stone).</span>
 
-*The page prints odō‘pinạng (long ō) beside äji∙u∙dā‘pinät (ā) in one line — carried as printed, ō/aa contrast on the page. Per the 2026-08-12 verification pass.*
-
 <span class="l-orig">(9) Mēdạc kā∙i∙jipajigibawād udạsinīmạn, mī∙i’∙ᵘ kīnisīdizut.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-pazhibawaad odasiniiman, mii iw gii-nisidizod.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-bazhigibawaad* odasiniiman, mii iw gii-nisidizod.**</span>
 
 <span class="l-eng">*And so when he had pierced his stone, he accordingly killed himself. (3)*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-pazhibawaad odasiniiman (and so when he had pierced his stone), mii iw gii-nisidizod (he accordingly killed himself).</span>
+<span class="l-gloss">Mii dash gaa-izhi-bazhigibawaad* odasiniiman (and so when he had pierced his stone — *stem flagged*), mii iw gii-nisidizod (he accordingly killed himself).</span>
 
 <span class="l-orig">(10) Ạdcidạmōdạc ogīpāpōdānān Nänabujūn, mī∙i’∙ᵘ kī‘pîmādci∙ā∙d.</span>
 
-<span class="l-fiero">**Ajidamoo dash ogii-paapoodaanaan Nenaboozhoon, mii iw gii-pimaaji’aad.**</span>
+<span class="l-fiero">**Ajidamoo dash ogii-baapoodaanaan Nenaboozhoon, mii iw gii-pimaaji’aad.**</span>
 
 <span class="l-eng">*Now, the squirrel breathed upon Nänabushu, whereupon he fetched him back to life.*</span>
 
-<span class="l-gloss">Ajidamoo dash ogii-paapoodaanaan Nenaboozhoon (now, the squirrel breathed upon Nänabushu), mii iw gii-pimaaji’aad (whereupon he brought him back to life).</span>
+<span class="l-gloss">Ajidamoo dash ogii-baapoodaanaan Nenaboozhoon (now, the squirrel breathed upon Nänabushu), mii iw gii-pimaaji’aad (whereupon he brought him back to life).</span>
 
 <span class="l-gloss">(1) For other versions see Nos. 36 (p. 311) and 40 (p. 341).</span>
 

@@ -2,7 +2,6 @@
 title: "18. The thunderers"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,13 +18,13 @@ THE THUNDERERS.
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
-<span class="l-orig">(1) Mäⁿwīca ạnicinābäg omāⁿ kāwin wī‘kā kijāsīwạg ī∙i∙māⁿ Ạnimi‘kīnäyācīng.</span>
+<span class="l-orig">(1) Mäⁿwīca ạnicinābäg omāⁿ kāwin wī‘kā kījāsīwạg ī∙i∙māⁿ Ạnimi‘kīnäyācīng.</span>
 
-<span class="l-fiero">**Mewiinzha anishinaabeg omaa gaawiin wiikaa gii-izhaasiiwag imaa Animikiineyaashiing.**</span>
+<span class="l-fiero">**Mewiinzha anishinaabeg omaa gaawiin wiikaa gii-izhaasiiwag i’imaa Animikiineyaashiing.**</span>
 
 <span class="l-eng">*Long ago the people of this place never went to yonder Thunder Cape.*</span>
 
-<span class="l-gloss">Mewiinzha (long ago) anishinaabeg (the people) omaa (here, of this place) gaawiin wiikaa (never) gii-izhaasiiwag (did not go) imaa Animikiineyaashiing (to yonder Thunder Cape).</span>
+<span class="l-gloss">Mewiinzha (long ago) anishinaabeg (the people) omaa (here, of this place) gaawiin wiikaa (never) gii-izhaasiiwag (did not go) i’imaa Animikiineyaashiing (to yonder Thunder Cape).</span>
 
 <span class="l-orig">(2) Mōⁿjạg imāⁿ animi‘kīg kīnōndāgusiwạg, pạnä āna‘kwạd kī∙a∙yāmạgạt ugidādciᵘ; mīdạc kā∙u∙ndciku‘tạmowād.</span>
 
@@ -37,11 +36,11 @@ THE THUNDERERS.
 
 <span class="l-orig">(3) O∙o∙māⁿ ina‘kakēyā Ạnimī‘kīwī‘kwädunk kī∙i∙cāwạg ạnicinābäg.</span>
 
-<span class="l-fiero">**O’omaa inakakeyaa Animikii-wiikwedong gii-izhaawag ahishinaabeg.**</span>
+<span class="l-fiero">**O’omaa inakakeyaa Animikii-wiikwedong gii-izhaawag anishinaabeg.**</span>
 
 <span class="l-eng">*Over by this way toward Thunder Bay went the people,*</span>
 
-<span class="l-gloss">O’omaa inakakeyaa (over by this way) Animikii-wiikwedong (toward Thunder Bay) gii-izhaawag (went) ahishinaabeg (the people),</span>
+<span class="l-gloss">O’omaa inakakeyaa (over by this way) Animikii-wiikwedong (toward Thunder Bay) gii-izhaawag (went) anishinaabeg (the people),</span>
 
 <span class="l-orig">(4) Ōwidi gayä ina‘ka‘kē cāwạnung Minung¹ kī∙i∙jikīwi‘tā∙u∙wạg.</span>
 
@@ -51,13 +50,17 @@ THE THUNDERERS.
 
 <span class="l-gloss">Owidi gaye inakake (and over by yonder direction) zhaawanong (toward the south) Minong (toward Isle Royal) gii-izhi-giiwitaa’owag (they went paddling about).</span>
 
+*¹ Thunder Bay, Thunder Cape, and Isle Royal are not far from Kaministiqua. [Jones’s printed footnote, p.190, recovered at the page and restored here — marker ¹ attaches to “Minung” in §4; this record’s running English numbers it (1).]*
+
 <span class="l-orig">(5) Ningudingidạc nīⁿj uskinawēg kī∙i∙‘kidōwạg: “Tạga, ma‘kadä‘kädā wīwâbạndadạdā ānīn äjiwäbạdogwä i∙i∙māⁿ nwāndāgwa‘k!”²</span>
 
-<span class="l-fiero">**Ningoding idash niizh oshkinaweg gii-ikidowag: "Daga, makadekedaa wii-waabandanadaa aaniin ezhiwebadogwe i’imaa nwaandaagwak\!"**</span>
+<span class="l-fiero">**Ningoding idash niizh oshkinaweg gii-ikidowag: “Daga, makadekedaa wii-waabandanadaa aaniin ezhiwebadogwe i’imaa nwaandaagwak!”**</span>
 
-<span class="l-eng">*Now, once two youths said: "Come, let us fast, that we may see what it is like at yonder place where the sound(2) is heard\!"*</span>
+<span class="l-eng">*Now, once two youths said: “Come, let us fast, that we may see what it is like at yonder place where the sound(2) is heard!”*</span>
 
-<span class="l-gloss">Ningoding idash (now, once) niizh oshkinaweg (two youths) gii-ikidowag (said): “Daga (come), makadekedaa (let us fast), wii-waabandanadaa (that we may see) aaniin ezhiwebadogwe (what it is like) i’imaa (at yonder place) nwaandaagwak (where the sound is heard)\!”</span>
+<span class="l-gloss">Ningoding idash (now, once) niizh oshkinaweg (two youths) gii-ikidowag (said): “Daga (come), makadekedaa (let us fast), wii-waabandanadaa (that we may see) aaniin ezhiwebadogwe (what it is like) i’imaa (at yonder place) nwaandaagwak (where the sound is heard)!”</span>
+
+*² Sound of thunder. [Jones’s printed footnote, p.190, recovered at the page and restored here — marker ² attaches to “the sound” in §5; this record’s running English numbers it (2).] · 18-V1 (verifyFlags) resolved 2026-09-02 per M.’s ruling: page-verified at p.190 l.10 — Jones prints wīwâbạndadạdā exactly as the record already carried it (no transcription error); the apparent missing syllable against the expected “-danadaa” shape is Jones’s own print, preserved as printed per the hard rule (printer’s errors preserved, never corrected). No Fiero impact — wii-waabandanadaa already carries the standard form. Jones-layer-only; closed under register §1.5.*
 
 <span class="l-orig">(6) Mīdạc kīma‘kadä‘käwād, Ạnimī‘kīwī‘kwädunk kī∙u∙ndcimādci‘tāwạg.</span>
 
@@ -77,11 +80,11 @@ THE THUNDERERS.
 
 <span class="l-orig">(8) Näcwāsạgunạga‘k īdạc kī∙ā∙mạdciwäwạg imāⁿ wätci∙ū∙ng.</span>
 
-<span class="l-fiero">**Neshwaasagonagak idash gii-aamajiwewag imaa *weji’oong* \[=wajiwing\].**</span>
+<span class="l-fiero">**Neshwaasagonagak idash gii-aamajiwewag imaa *weji’oong*.**</span>
 
 <span class="l-eng">*After a period of eight days was when they ascended yonder mountain.*</span>
 
-<span class="l-gloss">Neshwaasagonagak idash (after a period of eight days) gii-aamajiwewag (they ascended) imaa weji’oong \[=wajiwing\] (yonder mountain).</span>
+<span class="l-gloss">Neshwaasagonagak idash (after a period of eight days) gii-aamajiwewag (they ascended) imaa weji’oong [=wajiwing] (yonder mountain).</span>
 
 <span class="l-orig">(9) Äckạm ā‘pidci änigu‘k nōndāguziwạn ạnimi‘kīn.</span>
 
@@ -91,13 +94,13 @@ THE THUNDERERS.
 
 <span class="l-gloss">Eshkam aapiji enigok (ever louder) noondaagoziwan (kept growing the roar of) animikiin (the Thunderer).</span>
 
-<span class="l-orig">(10) Ninguding idạc tibickō kägō pā‘kā‘konigādäg mī∙i∙’ᵘ kā∙i∙ni‘kānig āna‘kwat.</span>
+<span class="l-orig">(10) Ninguding idạc tibickō kägō pā‘kā‘konigādäg mī∙i∙´ᵘ kä∙i∙ni‘kānig āna‘kwat.</span>
 
-<span class="l-fiero">**Ningoding idash dibishkoo gegoo baakaakonigaadeg mii iw gaa-inikaanig aanakwad.**</span>
+<span class="l-fiero">**Ningoding idash dibishkoo gegoo baakaakonigaadeg mii iw ge-inikaanig* aanakwad.**</span>
 
 <span class="l-eng">*And then suddenly it seemed as if something were now opening and now closing, for such was the way the cloud behaved.*</span>
 
-<span class="l-gloss">Ningoding idash (and then suddenly) dibishkoo (it seemed as if) gegoo (something) baakaakonigaadeg (were now opening and now closing) mii iw gaa-inikaanig (for such was the way) aanakwad (the cloud behaved).</span>
+<span class="l-gloss">Ningoding idash (and then suddenly) dibishkoo (it seemed as if) gegoo (something) baakaakonigaadeg (were now opening and now closing) mii iw ge-inikaanig* (for such was the way) aanakwad (the cloud behaved).</span>
 
 <span class="l-orig">(11) Mēdạc imāⁿ kīwâbạmāwād nīⁿj kistcipinäsiwaᵉ, nīⁿj kayä aya∙ā∙nsaᵉ; mīgu ackudä äjisänig papasạngābiwād odijināwāwān.</span>
 
@@ -107,7 +110,7 @@ THE THUNDERERS.
 
 <span class="l-gloss">Mii dash imaa (and then at that place) gii-waabamaawaad (they beheld) niizh gichi-binesiwa’ (two big birds), niizh gaye aya’aansa’ (and also two young ones); mii go ashkode ezhisenig (and it was like the play of fire) bapasangaabiwaad (as they opened and closed their eyes) odizhinaawaawaan (when they were looking at them).</span>
 
-<span class="l-orig">(12) Kạnạbạtc nīⁿjing³ ä‘kōnāmung mī∙i∙’ᵘ mini‘k kāwâbamāwād; mīnawa kīkîbisā āna‘kwạt.</span>
+<span class="l-orig">(12) Kạnạbạtc nīⁿjing³ ä‘kōnāmung mī∙i∙´ᵘ mini‘k kāwâbamāwād; mīnawa kīkîbisä āna‘kwạt.</span>
 
 <span class="l-fiero">**Ganabaj niizhing ekoonaamong mii iw minik gaa-waabamaawaad; miinawaa gii-gibise aanakwad.**</span>
 
@@ -115,19 +118,21 @@ THE THUNDERERS.
 
 <span class="l-gloss">Ganabaj niizhing ekoonaamong (perhaps as long as it takes to hold the breath twice) mii iw minik (such was the length of time) gaa-waabamaawaad (they observed them); miinawaa (then again) gii-gibise aanakwad (up closed the cloud).</span>
 
+*Layer 1 fixed; no Fiero change — the record’s gii-gibise (-e ending) already derives correctly from ä and was never corrupted by the old misreading. ³ That is, by holding the breath twice, each time as long as one could hold it. [Jones’s printed footnote, p.191, recovered at the page and restored here — marker ³ attaches to “twice” in §12.]*
+
 <span class="l-orig">(13) Mēdạc kā∙i∙‘kidot aᵘ bäᵉjik askinawä:</span>
 
-<span class="l-fiero">**Mii dash gaa-ikidod a bezhig oshkinawe:**</span>
+<span class="l-fiero">**Mii dash gaa-ikidod aw bezhig oshkinawe:**</span>
 
 <span class="l-eng">*Thereupon said one of the youths:*</span>
 
-<span class="l-gloss">Mii dash gaa-ikidod (thereupon said) a bezhig oshkinawe (one of the youths):</span>
+<span class="l-gloss">Mii dash gaa-ikidod (thereupon said) aw bezhig oshkinawe (one of the youths):</span>
 
 <span class="l-orig">(14) “Ānīj mīsaⁱ kīwâbạmạng,” udinān uwîdcīwâgạnan.</span>
 
-<span class="l-fiero">**"Aaniish mii sa gii-waabamang," odinaan owiijiiwaaganan.**</span>
+<span class="l-fiero">**“Aaniish mii sa gii-waabamang,” odinaan owiijiiwaaganan.**</span>
 
-<span class="l-eng">*"Therefore we have now really seen them," he said to his companion.*</span>
+<span class="l-eng">*“Therefore we have now really seen them,” he said to his companion.*</span>
 
 <span class="l-gloss">“Aaniish mii sa (therefore now) gii-waabamang (we have really seen them),” odinaan (he said to) owiijiiwaaganan (his companion).</span>
 
@@ -141,11 +146,11 @@ THE THUNDERERS.
 
 <span class="l-orig">(16) “Käyābi tạga wīwâbạmādā!”</span>
 
-<span class="l-fiero">**"Geyaabi daga wii-waabamaadaa\!"**</span>
+<span class="l-fiero">**“Geyaabi daga wii-waabamaadaa!”**</span>
 
-<span class="l-eng">*"Again, I say, let us try to see them\!"*</span>
+<span class="l-eng">*“Again, I say, let us try to see them!”*</span>
 
-<span class="l-gloss">“Geyaabi daga (again, I say) wii-waabamaadaa (let us try to see them)\!”</span>
+<span class="l-gloss">“Geyaabi daga (again, I say) wii-waabamaadaa (let us try to see them)!”</span>
 
 <span class="l-orig">(17) Kînwäⁿj kạganōnindiwạg.</span>
 
@@ -155,23 +160,23 @@ THE THUNDERERS.
 
 <span class="l-gloss">Ginwenzh (for a long while) gaganoonindiwag (were they debating together).</span>
 
-<span class="l-orig">(18) “Mī däbisäg,” kī∙i∙‘kito ‘aᵉa’ᵘ päᵉjik.</span>
+<span class="l-orig">(18) “Mī däbisäg,” kī∙i∙‘kito ‘aᵉa´ᵘ päᵉjik.</span>
 
-<span class="l-fiero">**"Mii debiseg," gii-ikido a’aw bezhig.**</span>
+<span class="l-fiero">**“Mii debiseg,” gii-ikido a’aw bezhig.**</span>
 
-<span class="l-eng">*"That suffices (me)," said the other.*</span>
+<span class="l-eng">*“That suffices (me),” said the other.*</span>
 
 <span class="l-gloss">“Mii debiseg (that suffices me),” gii-ikido (said) a’aw bezhig (the other).</span>
 
 <span class="l-orig">(19) Päᵉjik idạc käyābi wī∙i∙jā imāⁿ; odānungī∙ạ∙ndomān uwîdcīwâgạnạn.</span>
 
-<span class="l-fiero">**Bezhig idash geyaabi wii-izhaa imaa; *odaanongii’andomaan* \[=ogiid-aano-andomaan\] owiijiiwaaganan.**</span>
+<span class="l-fiero">**Bezhig idash geyaabi wii-izhaa imaa; *odaanongii’andomaan* =ogiid-aano-andomaan owiijiiwaaganan.**</span>
 
 <span class="l-eng">*But one still wished to go thither; in vain he tried to persuade his comrade.*</span>
 
-<span class="l-gloss">Bezhig idash geyaabi (but one still) wii-izhaa imaa (wished to go thither); odaanongii’andomaan \[=ogiid-aano-andomaan\] (in vain he tried to persuade) owiijiiwaaganan (his comrade).</span>
+<span class="l-gloss">Bezhig idash geyaabi (but one still) wii-izhaa imaa (wished to go thither); odaanongii’andomaan =ogiid-aano-andomaan (in vain he tried to persuade) owiijiiwaaganan (his comrade).</span>
 
-<span class="l-orig">(20) Mīdạc ạnimādcād kī∙i∙wät, mī∙i∙’∙ᵘ wāsigạn kī‘pi∙i∙jisänig i∙i∙māⁿ nībawi‘pạn ‘aᵉa’ᵘ skînawä, mī∙i∙’∙ᵘ kīnîsigut.</span>
+<span class="l-orig">(20) Mīdạc ạnimādcād kī∙i∙wät, mī∙i∙’∙ᵘ wāsigạn kī‘pi∙i∙jisänig i∙i∙māⁿ nībawi‘pạn ‘aᵉa’ᵘ skînawä, mī∙i∙´∙ᵘ kīnîsigut.</span>
 
 <span class="l-fiero">**Mii dash animaajaad giiwed, mii iw waasigan gii-bi-izhisenig i’imaa niibawiban a’aw shkinawe, mii iw gii-nisigod.**</span>
 
@@ -179,7 +184,7 @@ THE THUNDERERS.
 
 <span class="l-gloss">Mii dash animaajaad (and as he started on his way back) giiwed (going home), mii iw waasigan (then the lightning) gii-bi-izhisenig (came striking) i’imaa niibawiban (the place where stood) a’aw shkinawe (the youth), mii iw gii-nisigod (whereupon he was killed).</span>
 
-<span class="l-orig">(21) Mī∙i∙dạc kī‘pigīwäd ‘aᵉa’ᵘ päᵉjik uskinawä.</span>
+<span class="l-orig">(21) Mī∙i∙dạc kī‘pigīwäd ‘aᵉa´ᵘ päᵉjik uskinawä.</span>
 
 <span class="l-fiero">**Mii dash gii-bi-giiwed a’aw bezhig oshkinawe.**</span>
 
@@ -187,21 +192,25 @@ THE THUNDERERS.
 
 <span class="l-gloss">Mii dash gii-bi-giiwed (and so back home came) a’aw bezhig oshkinawe (the other youth).</span>
 
-<span class="l-orig">(22) Mī∙i∙dạc i∙i’∙ᵘ a‘pī kīmādcāwād īgi’ᵘ ạnimi‘kīg; iskwātci idac kīwâbạmā nạmạdạbit kistcibinäsi i∙i∙māⁿ Kāmānetigwäyāg¹ wạdci’ᵘ äyāmạga‘k.</span>
+<span class="l-orig">(22) Mī∙i∙dạc i∙i´∙ᵘ a‘pī kīmādcāwād īgi´ᵘ ạnimi‘kīg; iskwātci idac kīwâbạmā nạmạdạbit kistcibinäsi i∙i∙māⁿ Kāmānetigwäyāg¹ wạdci’ᵘ äyāmạga‘k.</span>
 
-<span class="l-fiero">**Mii dash iw apii gii-maajaad igiw animikiig; ishkwaaji idash gii-waabamaa namadabid gichi-binesi i’imaa Gaamaanetigweyaag wajiw eyaamagak.**</span>
+<span class="l-fiero">**Mii dash iw apii gii-maajaawaad igiw animikiig; ishkwaaji idash gii-waabamaa namadabid gichi-binesi i’imaa Gaamaanetigweyaag wajiw eyaamagak.**</span>
 
 <span class="l-eng">*Now, that was the time when the Thunderers went away; and the last time that the big bird was seen was when it was seated upon the mountain over by the River-of-Plenty;(4)*</span>
 
-<span class="l-gloss">Mii dash iw apii (now, that was the time) gii-maajaad (when went away) igiw animikiig (the Thunderers); ishkwaaji idash (and the last time) gii-waabamaa (was seen) namadabid (seated) gichi-binesi (the big bird) i’imaa Gaamaanetigweyaag (over by the River-of-Plenty) wajiw eyaamagak (where the mountain is);</span>
+<span class="l-gloss">Mii dash iw apii (now, that was the time) gii-maajaawaad (when went away) igiw animikiig (the Thunderers); ishkwaaji idash (and the last time) gii-waabamaa (was seen) namadabid (seated) gichi-binesi (the big bird) i’imaa Gaamaanetigweyaag (over by the River-of-Plenty) wajiw eyaamagak (where the mountain is);</span>
 
-<span class="l-orig">(23) Mīdạc i∙i’∙ᵘ kā∙i∙jini‘kādạmowād ạnicinābäg Ạnimi‘kīwạdci’ᵘ, mī∙i’∙ᵘ Mạ‘kēs² wadci’ᵘ ädạmowād wäyāpiskiwätcig.</span>
+*¹ Ojibwas are not agreed as to the meaning of the word “Kaministiqua.” The derivation given here is that given by Forever-Bird. [The translation of the entire clause is rather free. — T. M.] [Jones’s printed footnote, p.192, recovered at the page and restored here — marker ¹ restarts on the 192/193 spread and attaches to “Kāmānetigwäyāg” in §22 / “River-of-Plenty” in the facing English; this record’s running English numbers it (4).]*
+
+<span class="l-orig">(23) Mīdạc i∙i´∙ᵘ kā∙i∙jini‘kādạmowād ạnicinābäg Ạnimi‘kīwạdci’ᵘ, mī∙i’∙ᵘ Mạ‘kēs² wadci’ᵘ ädạmowād wäyāpiskiwätcig.</span>
 
 <span class="l-fiero">**Mii dash i’iw gaa-izhinikaadamowaad anishinaabeg Animikii-wajiw, mii iw Makes-wajiw edamowaad wayaabishkiwejig.**</span>
 
-<span class="l-eng">*and on that account the people have named it Thunder Mountain, But Makes(5) Mountain is what the white people call it.*</span>
+<span class="l-eng">*and on that account the people have named it Thunder Mountain, but Ma‘kēs(5) Mountain is what the white people call it.*</span>
 
 <span class="l-gloss">Mii dash i’iw (and on that account) gaa-izhinikaadamowaad (have named it) anishinaabeg (the people) Animikii-wajiw (Thunder Mountain), mii iw Makes-wajiw (but Makes Mountain) edamowaad (is what they call it) wayaabishkiwejig (the white people).</span>
+
+*² McKay Mountain, name given to the high mountain near Fort William, after an Ojibwa, Ma‘kēs by name. [Jones’s printed footnote, p.193 — the marker restarts at ² on the 192/193 spread; this record’s running English numbers it (5). Recovered at the page and restored here.] English restored 2026-09-02 per M.’s ruling: Jones prints the place name “Ma‘kēs” with its Ojibwe diacritics in the English translation itself (p.193 l.9, confirmed at 14×); the record had silently anglicized it to “Makes.” Restored verbatim. English restored 2026-09-02 (settler re-read): p.193 l.9 prints “…named it Thunder Mountain, but Ma‘kēs² Mountain…” — lowercase but; the record’s capital “But” corrected. Jones’s footnote ² was itself re-cropped at p.193 ll.32–33 and matches the text restored here verbatim.*
 
 <span class="l-orig">(24) Mīdạc i∙i∙’ᵘ pidcīnạg kī∙i∙jāwād imāⁿ näyācing, kāwīn gäyābi ogīku‘taⁿzīnāwa.</span>
 
@@ -211,7 +220,7 @@ THE THUNDERERS.
 
 <span class="l-gloss">Mii dash i’iw bijiinag (and then after a while) gii-izhaawaad (they began going) imaa neyaashiing (over to the cape), gaawiin geyaabi (no longer) ogii-gotanziinaawa (were they afraid of the place).</span>
 
-<span class="l-orig">(25) Ānawi gäyābi awiya ogīwâbamāwān i∙i∙’mā näyācing, ạnicinābäng ijināguziwạn.</span>
+<span class="l-orig">(25) Ānawi gäyābi awiya ogīwâbamāwān i∙i∙´mā näyācing, ạnicinābäng ijināguziwạn.</span>
 
 <span class="l-fiero">**Aanawi geyaabi awiya ogii-waabamaawaan i’imaa neyaashiing, anishinaabeng izhinaagoziwan.**</span>
 
@@ -219,7 +228,7 @@ THE THUNDERERS.
 
 <span class="l-gloss">Aanawi geyaabi (it was a fact that another time) awiya (some kind of creature) ogii-waabamaawaan (they saw) i’imaa neyaashiing (over there at the cape), anishinaabeng izhinaagoziwan (like human beings was their look).</span>
 
-<span class="l-orig">(26) Asin odcīmāniwa; a‘pī∙i∙dạc wâbạmigōwad mī∙i∙’ᵘ äjimādcī‘kwajiwänit; kwaya‘kigu kīckābi‘kāng ijipīndigä kwaciwäwạn.</span>
+<span class="l-orig">(26) Asin odcīmāniwa; a‘pī∙i∙dạc wâbạmigōwad mī∙i∙´ᵘ äjimādcī‘kwajiwänit; kwaya‘kigu kīckābi‘kāng ijipīndigä kwaciwäwạn.</span>
 
 <span class="l-fiero">**Asin ojiimaaniwa; apii idash waabamigoowad mii iw ezhi-maajiikwazhiwenid; gwayak igo giishkaabikaang izhi-biindigekwazhiwewan.**</span>
 
@@ -227,7 +236,7 @@ THE THUNDERERS.
 
 <span class="l-gloss">Asin ojiimaaniwa’ (of stone was their canoe); apii idash waabamigoowad (and when they were seen by the people) mii iw ezhi-maajiikwazhiwenid (then away they went paddling their canoe); gwayak igo giishkaabikaang (and straight into the steep cliff) izhi-biindigekwazhiwewan (they entered paddling, for fear of being seen).</span>
 
-<span class="l-orig">(27) Ānawi ogīwī‘kwạdci∙ā∙wān päcu’ wī‘kạnōnāwād, kāwīndạc ogīkaski∙ā∙siwān.</span>
+<span class="l-orig">(27) Ānawi ogīwī‘kwạdci∙ā∙wān päcu´ wī‘kạnōnāwād, kāwīndạc ogīkaski∙ā∙siwān.</span>
 
 <span class="l-fiero">**Aanawi ogii-wiikwaji’aawaan besho wii-ganoonaawaad gaawiin dash ogii-gashki’aasiwaan.**</span>
 
@@ -261,9 +270,9 @@ THE THUNDERERS.
 
 <span class="l-orig">(31) “Paya‘kwāna‘kwa‘k māndạn ningījigom, ā‘pidci ningu‘tān.</span>
 
-<span class="l-fiero">**"Bayagwaanakwak maandan ningiizhigom, aapiji ningotaan.**</span>
+<span class="l-fiero">**“Bayagwaanakwak maandan ningiizhigom, aapiji ningotaan.**</span>
 
-<span class="l-eng">*"A clear sky is verily my firmament, much am I in fear of it.*</span>
+<span class="l-eng">*“A clear sky is verily my firmament, much am I in fear of it.*</span>
 
 <span class="l-gloss">“Bayagwaanakwak maandan ningiizhigom (a clear sky is verily my firmament), aapiji ningotaan (much am I in fear of it).</span>
 
@@ -277,9 +286,9 @@ THE THUNDERERS.
 
 <span class="l-orig">(33) Paya‘kwāna‘kwa‘k māndạn ningījigom, ā‘pidci ningu‘tān.”</span>
 
-<span class="l-fiero">**Bayagwaanakwak maandan ningiizhigom, aapiji ningotaan."**</span>
+<span class="l-fiero">**Bayagwaanakwak maandan ningiizhigom, aapiji ningotaan.”**</span>
 
-<span class="l-eng">*A clear sky Is verily my firmament, much am I in fear of it."*</span>
+<span class="l-eng">*A clear sky is verily my firmament, much am I in fear of it.”*</span>
 
 <span class="l-gloss">Bayagwaanakwak maandan ningiizhigom (a clear sky is verily my firmament), aapiji ningotaan (much am I in fear of it).”</span>
 
@@ -291,7 +300,7 @@ THE THUNDERERS.
 
 <span class="l-gloss">Mii dash baabige (and then straightway) gaa-izhi-gichi-anwaating (there fell a great calm), gaye dash baabige (and also at once) gaawiin aanakwad gii-ayaasinoon (there was no sign of a cloud); baabige gii-gichi-mino-giizhigad (of a sudden there was a very beautiful day).</span>
 
-<span class="l-orig">(35) Mī∙i∙’ᵘ kī‘pimikīwä∙u∙wād īgi’ᵘ mämägwäsiwạg.</span>
+<span class="l-orig">(35) Mī∙i∙´ᵘ kī‘pimikīwä∙u∙wād īgi´ᵘ mämägwäsiwạg.</span>
 
 <span class="l-fiero">**Mii iw gii-bimi-giiwe’owaad igiw memegwesiwag.**</span>
 
@@ -309,19 +318,19 @@ THE THUNDERERS.
 
 <span class="l-orig">(37) “Ā‘pidci ozāgi∙ā∙n sämān,” kī∙i∙‘kedowag ạnicinābäg.</span>
 
-<span class="l-fiero">**"Aapiji ozaagi’aan semaan," gii-ikidowag anishinaabeg.**</span>
+<span class="l-fiero">**“Aapiji ozaagi’aan semaan,” gii-ikedowag* anishinaabeg.**</span>
 
-<span class="l-eng">*"Very fond are they of tobacco," said the people.*</span>
+<span class="l-eng">*“Very fond are they of tobacco,” said the people.*</span>
 
-<span class="l-gloss">“Aapiji ozaagi’aan semaan (very fond are they of tobacco),” gii-ikidowag anishinaabeg (said the people).</span>
+<span class="l-gloss">“Aapiji ozaagi’aan semaan (very fond are they of tobacco),” gii-ikedowag* anishinaabeg (said the people).</span>
 
 <span class="l-orig">(38) Ningudingidạc mīnawā wâbạmāwād mîcawạgām ạgumunit; ogīgạkwä āsi‘kawāwān i∙i∙māⁿ skwāndämiwạng asining.</span>
 
-<span class="l-fiero">**Ningoding idash miinawaa waabamaawaad mizhawagaam agomonid; ogii-gagwe-aazikawaawaan i’imaa shkwaandaamiwang asining.**</span>
+<span class="l-fiero">**Ningoding idash miinawaa waabamaawaad mizhawagaam agomonid; ogii-gagwe-aazikawaawaan i’imaa shkwaandemiwang* asining.**</span>
 
 <span class="l-eng">*And one other time they saw them far out on the lake in a canoe; they tried to head them off from going into a rock.*</span>
 
-<span class="l-gloss">Ningoding idash miinawaa (and one other time) waabamaawaad (they saw them) mizhawagaam agomonid (far out on the lake in a canoe); ogii-gagwe-aazikawaawaan (they tried to head them off) i’imaa shkwaandaamiwang asining (from going into a rock).</span>
+<span class="l-gloss">Ningoding idash miinawaa (and one other time) waabamaawaad (they saw them) mizhawagaam agomonid (far out on the lake in a canoe); ogii-gagwe-aazikawaawaan (they tried to head them off) i’imaa shkwaandemiwang* asining (from going into a rock).</span>
 
 <span class="l-orig">(39) Käᵉgä‘t ogī∙ā∙si‘kawâwān; mēdạc kā∙i∙ji∙ạ∙nimi‘ku pạgizōwād; kāwīn pīnābisīwạn.</span>
 
@@ -341,9 +350,9 @@ THE THUNDERERS.
 
 <span class="l-orig">(41) “Ānīn ändiyäg?”¹ udinān.</span>
 
-<span class="l-fiero">**"Aaniin endiyeg?" odinaan.**</span>
+<span class="l-fiero">**“Aaniin endiyeg?” odinaan.**</span>
 
-<span class="l-eng">*" Where do you live?"(6)*</span>
+<span class="l-eng">*“ Where do you live?”(6)*</span>
 
 <span class="l-gloss">“Aaniin endiyeg (where do you live)?” odinaan (he said to them).</span>
 
@@ -357,11 +366,11 @@ THE THUNDERERS.
 
 <span class="l-orig">(43) “Taga, gīn inābin! äniwä‘k kīn ạnicinābäng kidicināgus.”</span>
 
-<span class="l-fiero">**"Daga, giin inaabin\! eniwek giin anishinaabeng gidizhinaagoz."**</span>
+<span class="l-fiero">**“Daga, giin inaabin! eniwek giin anishinaabeng gidizhinaagoz.”**</span>
 
-<span class="l-eng">*" Come, you should look\! for as handsome as a human being do you look."*</span>
+<span class="l-eng">*“ Come, you should look! for as handsome as a human being do you look.”*</span>
 
-<span class="l-gloss">“Daga, giin inaabin (come, you should look)\! eniwek (for as much) giin anishinaabeng gidizhinaagoz (as handsome as a human being do you look).”</span>
+<span class="l-gloss">“Daga, giin inaabin (come, you should look)! eniwek (for as much) giin anishinaabeng gidizhinaagoz (as handsome as a human being do you look).”</span>
 
 <span class="l-orig">(44) Mēdạc kī∙u∙nickād päᵉjik ‘aᵉa’ᵘ mämägwäsi, micī’ngwä.</span>
 

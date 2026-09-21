@@ -2,7 +2,6 @@
 title: "35. Nanabushu and the Woodpecker"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -75,19 +74,19 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(8) Ānīc, unisitawinān äyāwạninig, mīnangwạna ‘iᵉi’ᵘ ijictcigäwāt īni’ᵘ o‘kunāsanwīn ² cägunānit i∙i∙mā ucạngwanāning ānīc mägwāgu kīnạmạdạbinit.</span>
 
-<span class="l-fiero">**Aaniish, onisitawinaan eyaawaninig, miinangwana i’iw izhichigewaad iiniw okonaasanwiin(2) zhegonaanid i’imaa oshangwanaaning aaniish megwaa go gii-namadabinid.**</span>
+<span class="l-fiero">**Aaniish, onisidawinaan eyaawaninig, miinangwana i’iw izhichigewaad iiniw okonaasanwiin(2) zhegonaanid i’imaa oshangwanaaning aaniish megwaa go gii-namadabinid.**</span>
 
 <span class="l-eng">*Now, (Nänabushu) recognized what it was, for the thing that they did was to put the bone-pointed spear(2) into the nostrils while he was seated there.*</span>
 
-<span class="l-gloss">Aaniish, onisitawinaan eyaawaninig (now, he recognized what it was), miinangwana i’iw izhichigewaad (it turned out that what they did) iiniw okonaasanwiin(2) zhegonaanid i’imaa oshangwanaaning (was to set the bone-pointed spear into his nostrils) aaniish megwaa go gii-namadabinid (while he sat there).</span>
+<span class="l-gloss">Aaniish, onisidawinaan eyaawaninig (now, he recognized what it was), miinangwana i’iw izhichigewaad (it turned out that what they did) iiniw okonaasanwiin(2) zhegonaanid i’imaa oshangwanaaning (was to set the bone-pointed spear into his nostrils) aaniish megwaa go gii-namadabinid (while he sat there).</span>
 
 <span class="l-orig">(9) A‘pī kā‘kīci∙u∙nit, pānimāgu wạndcinawạtinānit īni’ᵘ mi‘tigōn päta‘kisunit i∙i∙mā ändānit; nōndāgusiwạn.</span>
 
-<span class="l-fiero">**Apii gaa-giizhi’onid, baanimaa go wanjinawatinaanid iiniw mitigoon bedakisonid i’imaa endaanid; noondaagosiwan.**</span>
+<span class="l-fiero">**Apii gaa-giizhi’onid, baanimaa go wanjinawadinaanid iiniw mitigoon bedakisonid i’imaa endaanid; noondaagoziwan.**</span>
 
 <span class="l-eng">*When he had finished painting himself, he suddenly made for a post that was standing there where they lived; the sound of his cry could be heard.*</span>
 
-<span class="l-gloss">Apii gaa-giizhi’onid (when he had finished adorning himself), baanimaa go wanjinawatinaanid iiniw mitigoon (suddenly he sprang at a post) bedakisonid i’imaa endaanid (that stood there where they lived); noondaagosiwan (the sound of his voice was heard).</span>
+<span class="l-gloss">Apii gaa-giizhi’onid (when he had finished adorning himself), baanimaa go wanjinawadinaanid iiniw mitigoon (suddenly he sprang at a post) bedakisonid i’imaa endaanid (that stood there where they lived); noondaagoziwan (the sound of his voice was heard).</span>
 
 <span class="l-orig">(10) “Ku‘ku’k, ku’‘kuk!” inwäwạn.</span>
 
@@ -155,19 +154,19 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(18) Mīsa’ cigwa’ kīwīsinit, cigwa’ kạnōnā: “Ānīc mīsa’ kä∙i∙jikīwäwitawatwā kinītcānisạg mini‘k äckwạntcigäyạn,” kī∙i∙nā.</span>
 
-<span class="l-fiero">**Mii sa zhigwa gii-wiisinid, zhigwa ganoonaa; “Aaniish mii sa  ge-zhi-kiiwewidawadwaa giniijaanisag minik eshkwanjigeyan,” gii-inaa.**</span>
+<span class="l-fiero">**Mii sa zhigwa gii-wiisinid, zhigwa ganoonaa; “Aaniish mii sa  ge-izhi-kiiwewidawadwaa giniijaanisag minik eshkwanjigeyan,” gii-inaa.**</span>
 
 <span class="l-eng">*And so then was he eating when he was addressed: “Now, therefore, do you carry back to your children as much as you do not eat,” he was told.*</span>
 
-<span class="l-gloss">Mii sa zhigwa gii-wiisinid, zhigwa ganoonaa (and so when he was eating, he was spoken to); “Aaniish mii sa ge-zhi-kiiwewidawadwaa giniijaanisag (“now then, carry back to your children) minik eshkwanjigeyan,” (as much as you leave uneaten,”) gii-inaa (he was told).</span>
+<span class="l-gloss">Mii sa zhigwa gii-wiisinid, zhigwa ganoonaa (and so when he was eating, he was spoken to); “Aaniish mii sa ge-izhi-kiiwewidawadwaa giniijaanisag (“now then, carry back to your children) minik eshkwanjigeyan,” (as much as you leave uneaten,”) gii-inaa (he was told).</span>
 
 <span class="l-orig">(19) Mīsa’ mīnawā, wạnimō‘k, ᵉīgu∙i∙mā kā∙u∙ndcicägōntạgināt mīnawā ‘iᵉi’ᵘ ugīcō‘tä∙u∙naᵉ.</span>
 
-<span class="l-fiero">**Mii sa miinawaa wanimook, igo imaa gaa-onji-shegoondaginaad miinawaa i’iw ogii-shoode’ona.**</span>
+<span class="l-fiero">**Mii sa miinawaa wanimook, igo imaa gaa-onji-shegoondaginaad miinawaa i’iw ogiizhoode’ona.**</span>
 
 <span class="l-eng">*Thereupon again, without being seen, he slipped his mittens (in the balsam boughs under the mat).*</span>
 
-<span class="l-gloss">Mii sa miinawaa wanimook (thereupon again, unseen), igo imaa gaa-onji-shegoondaginaad miinawaa i’iw ogii-shoode’ona (he tucked away his mittens there — *shegoond-/shoode’on stem flagged*).</span>
+<span class="l-gloss">Mii sa miinawaa wanimook (thereupon again, unseen), igo imaa gaa-onji-shegoondaginaad miinawaa i’iw ogiizhoode’ona (he tucked away his mittens there — *shegoond-/shoode’on stem flagged*).</span>
 
 <span class="l-orig">(20) Mīsa’ mīnawā ạnimādcāt.</span>
 
@@ -179,11 +178,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(21) Pānimāgu mạdwäpīpāgi, “Aⁱ!” mädwä∙i∙‘kitowạn.</span>
 
-<span class="l-fiero">**Baanimaa go madwe-piibaagi, “Ay!” medwe’ikidowan.**</span>
+<span class="l-fiero">**Baanimaa go madwe-biibaagi, “Ay!” medwe’ikidowan.**</span>
 
 <span class="l-eng">*After a while he heard somebody calling aloud: “Hey!” he heard some one saying.*</span>
 
-<span class="l-gloss">Baanimaa go madwe-piibaagi (after a while a voice could be heard calling), “Ay!” medwe’ikidowan (“Hey!” someone was heard saying).</span>
+<span class="l-gloss">Baanimaa go madwe-biibaagi (after a while a voice could be heard calling), “Ay!” medwe’ikidowan (“Hey!” someone was heard saying).</span>
 
 <span class="l-orig">(22) “Kiwạnicigāgomä!” mạdwäi‘kitowạn.</span>
 
@@ -195,11 +194,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(23) “Ānīc, wägutugwänigic?” i‘kituwạn ininiwạn.</span>
 
-<span class="l-fiero">**“Aaniish, wegodogwenigish?” ikidowan ininiwan.**</span>
+<span class="l-fiero">**“Aaniish, wegodogwenigish*?” ikidowan ininiwan.**</span>
 
 <span class="l-eng">*“Why, what in the world is it?”(4) said the man.*</span>
 
-<span class="l-gloss">“Aaniish, wegodogwenigish?” (“why, what in the world is it?” — *dubitative; cf. footnote 4*) ikidowan ininiwan (said the man).</span>
+<span class="l-gloss">“Aaniish, wegodogwenigish*?” (“why, what in the world is it?” — *dubitative; cf. footnote 4*) ikidowan ininiwan (said the man).</span>
 
 <span class="l-orig">(24) Mīnạngwạna guca kägä‘t kābunit ‘iᵉi’ᵘ ugīcōtä∙u∙naᵉ.</span>
 
@@ -259,11 +258,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(31) Ānawi pimādci ba∙i∙tiwạg īgi’ᵘ kwīwicäncạg kā∙i∙ciināt: “A‘kawä, i∙i∙mā ayāyu‘k!”</span>
 
-<span class="l-fiero">**Aanawi bimaajiba’idiwag iigiw gwiiwizhenshag gaa-izhi-inaad: “Akawe, i’imaa ayaayog!”**</span>
+<span class="l-fiero">**Aanawi bimaajiba’idiwag iigiw gwiiwizhenshag gaa-izhi-inaad: “Akawe, i’imaa ayaayok!”**</span>
 
 <span class="l-eng">*In the act of starting to run away were the boys when (this) he said to them: “Hold, wait there!”*</span>
 
-<span class="l-gloss">Aanawi bimaajiba’idiwag iigiw gwiiwizhenshag (the boys were already starting to run off) gaa-izhi-inaad: “Akawe, i’imaa ayaayog!” (when he said to them: “Hold on, stay there!”)</span>
+<span class="l-gloss">Aanawi bimaajiba’idiwag iigiw gwiiwizhenshag (the boys were already starting to run off) gaa-izhi-inaad: “Akawe, i’imaa ayaayok!” (when he said to them: “Hold on, stay there!”)</span>
 
 <span class="l-orig">(32) Oᵉo’dạc udināᵉ: “Kägä‘tisa’ kiba‘kadämwāsa,” udināᵉ.</span>
 
@@ -275,11 +274,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(33) “Mī guca wīni iᵘ päbātạcī‘käwāt īgi’ᵘ kītcikiwäⁿ∙i∙wāg; mīgu iᵘ pimitä päpā∙o∙pạgạmāgạniwāt päpātacī‘käwāt īgi’ᵘ kītcikiwäⁿ∙i∙wāg, ‘iᵉi’ᵘ maskawatcipimitä.</span>
 
-<span class="l-fiero">**“Mii gosha wiini iw bebaadaashiikewaad iigiw giijikiwe’iwaag; mii go  bimide bebaa’opagamaaganiwaad bebaadashiikewaad iigiw giijikiweniwaag, i’iw mashkawajibimide.**</span>
+<span class="l-fiero">**“Mii gosha wiini iw bebaadaashiikewaad iigiw giijikiweniwaag; mii go iw bimide bebaa’opagamaaganiwaad bebaadashiikewaad iigiw giijikiweniwaag, i’iw mashkawajibimide.**</span>
 
 <span class="l-eng">*“That is exactly the way of your brothers wherever they are; it is grease that your brothers give so bountifully wherever they are, the hard frozen grease.*</span>
 
-<span class="l-gloss">“Mii gosha wiini iw bebaadaashiikewaad iigiw giijikiwe’iwaag (“that is just the way of your brothers wherever they go about); mii go bimide bebaa’opagamaaganiwaad bebaadashiikewaad iigiw giijikiweniwaag (it is grease your brothers hand out as they go about), i’iw mashkawajibimide (the hard-frozen grease).</span>
+<span class="l-gloss">“Mii gosha wiini iw bebaadaashiikewaad iigiw giijikiweniwaag (“that is just the way of your brothers wherever they go about); mii go iw bimide bebaa’opagamaaganiwaad bebaadashiikewaad iigiw giijikiweniwaag (it is grease your brothers hand out as they go about), i’iw mashkawajibimide (the hard-frozen grease).</span>
 
 <span class="l-orig">(34) Ạmbäsinō, a‘pī wâbạng kōsiwā tapī∙i∙cā,” udināᵉ.</span>
 
@@ -291,11 +290,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(35) Mīsa’ änicimādcāt.</span>
 
-<span class="l-fiero">**Mii sa eni-maajaad.**</span>
+<span class="l-fiero">**Mii sa eni-izhi-maajaad.**</span>
 
 <span class="l-eng">*And then on his way he went.*</span>
 
-<span class="l-gloss">Mii sa eni-maajaad (and then on his way he went).</span>
+<span class="l-gloss">Mii sa eni-izhi-maajaad (and then on his way he went).</span>
 
 <span class="l-orig">(36) Tägucing ändāwāt, ujī‘tā mi‘tigōn; ubada‘kinān ändāwāt, wä‘kwāgān ugī∙u∙ji‘tōn kayä.</span>
 
@@ -307,11 +306,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(37) Mīdạc ägut īni’ᵘ wīwạn: “Indạckā mīnawā kā∙i∙cinawāgwän awiya,” udigōn īni’ᵘ wīwạn.</span>
 
-<span class="l-fiero">**Mii dash egod iiniw wiiwan: “Indashke miinawaa gaa-izhi-nawaagwen awiya,” odigoon iiniw wiiwan.**</span>
+<span class="l-fiero">**Mii dash egod iiniw wiiwan: “Indashkaa miinawaa gaa-izhi-nawaagwen awiya,” odigoon iiniw wiiwan.**</span>
 
 <span class="l-eng">*And this he was told by his wife: “No doubt but that he must have seen somebody else doing that,” he was told by his wife.*</span>
 
-<span class="l-gloss">Mii dash egod iiniw wiiwan (and this his wife said to him): “Indashke miinawaa gaa-izhi-nawaagwen awiya,” (“no doubt you must have seen someone else doing this,”) odigoon iiniw wiiwan (he was told by his wife).</span>
+<span class="l-gloss">Mii dash egod iiniw wiiwan (and this his wife said to him): “Indashkaa miinawaa gaa-izhi-nawaagwen awiya,” (“no doubt you must have seen someone else doing this,”) odigoon iiniw wiiwan (he was told by his wife).</span>
 
 <span class="l-orig">(38) “Ạmạndcigisa’, äcimiwạnän kägō ānawi cictcigäyānin?” udinān īni’ᵘ wīwạn.</span>
 
@@ -339,11 +338,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(41) Ānīc mīsa’ äcipīndigāguwāt īni’ᵘ pīwitän.</span>
 
-<span class="l-fiero">**Aaniish mii sa ezhi-piindigaagowaad iiniw biiwiden.**</span>
+<span class="l-fiero">**Aaniish mii sa ezhi-biindigaagowaad iiniw biiwiden.**</span>
 
 <span class="l-eng">*So thereupon in where they were came the visitor.*</span>
 
-<span class="l-gloss">Aaniish mii sa ezhi-piindigaagowaad iiniw biiwiden (so thereupon the visitor came in to them).</span>
+<span class="l-gloss">Aaniish mii sa ezhi-biindigaagowaad iiniw biiwiden (so thereupon the visitor came in to them).</span>
 
 <span class="l-orig">(42) Mīngwana dạc īni’ᵘ mämän, ānīc, mīwạniniᵘ tinowạn kā∙u∙disāt.</span>
 
@@ -379,11 +378,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(46) “Cayīgwusa pīˢtca unagōc ‘aᵉa’ᵘ aki‘k,” udinān īni’ᵘ wīwạn.</span>
 
-<span class="l-fiero">**“Zhayiigwa sa biija’onagoosh a’aw akik,” odinaan iiniw wiiwan.**</span>
+<span class="l-fiero">**“Zhayiigwa sa biicha* onagoozh a’aw akik,” odinaan iiniw wiiwan.**</span>
 
 <span class="l-eng">*“Now, you hang up the kettle,” he said to his wife.*</span>
 
-<span class="l-gloss">“Zhayiigwa sa biija’onagoosh a’aw akik,” (“now then, hang up that kettle,”) odinaan iiniw wiiwan (he said to his wife).</span>
+<span class="l-gloss">“Zhayiigwa sa biicha* onagoozh a’aw akik,” (“now then, hang up that kettle,”) odinaan iiniw wiiwan (he said to his wife).</span>
 
 <span class="l-orig">(47) Mīsa’ gägä‘t ‘aᵉa’ᵘ i‘kwä ạnạgōnāt īni’ᵘ udạki‘kōn.</span>
 
@@ -403,11 +402,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(49) Ānīc, cigwa, mīnawā ucägwunān ‘iᵉi’ᵘ piwâbi‘k i∙i∙mā acingwạnāng.</span>
 
-<span class="l-fiero">**Aaniishi, zhigwa, miinawaa oshegwanaan i’iw biiwaabik i’imaa ashangwanaang.**</span>
+<span class="l-fiero">**Aaniish, zhigwa, miinawaa oshegwonaan i’iw biiwaabik i’imaa ashingwanaang.**</span>
 
 <span class="l-eng">*Now, then, next he stuck the metal in his nose.*</span>
 
-<span class="l-gloss">Aaniishi, zhigwa, miinawaa oshegwanaan i’iw biiwaabik i’imaa ashangwanaang (now, then, next he set the metal there in his nose).</span>
+<span class="l-gloss">Aaniish, zhigwa, miinawaa oshegwonaan i’iw biiwaabik i’imaa ashingwanaang (now, then, next he set the metal there in his nose).</span>
 
 <span class="l-orig">(50) Mägwāsạgu nạmạdạbit wädcipasingwitcisät nawạtināt īni’ᵘ mi‘tigōn kāpata‘kināt; ạnia‘kwāntawät.</span>
 
@@ -475,19 +474,19 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(58) Ạmbäsinō, pīc,” udigōn.</span>
 
-<span class="l-fiero">**Ambe sa noo biish,: odigoon.**</span>
+<span class="l-fiero">**Ambe sa noo, biish,” odigoon.**</span>
 
 <span class="l-eng">*Pray, give it to me,” she was told.*</span>
 
-<span class="l-gloss">Ambe sa noo biish,: (“come now, give it here,”) odigoon (she was told).</span>
+<span class="l-gloss">Ambe sa noo, biish,” (“come now, give it here,”) odigoon (she was told).</span>
 
 <span class="l-orig">(59) Mīdạc gägä‘t, äcimīnāt, acimiskunạmit ‘iᵉi’ᵘ uˢka‘tiguni.</span>
 
-<span class="l-fiero">**Mii dash geget, ezhi-miinaad, ezhi-miskonamid i’iw ogatigoni.**</span>
+<span class="l-fiero">**Mii dash geget, ezhi-miinaad, azhi-miskonamid i’iw ogatigoni.**</span>
 
 <span class="l-eng">*And so truly, when she gave it to him, he painted the forehead (of her husband) red.*</span>
 
-<span class="l-gloss">Mii dash geget, ezhi-miinaad (and so truly, when she gave it to him), ezhi-miskonamid i’iw ogatigoni (he reddened the forehead).</span>
+<span class="l-gloss">Mii dash geget, ezhi-miinaad (and so truly, when she gave it to him), azhi-miskonamid i’iw ogatigoni (he reddened the forehead).</span>
 
 <span class="l-orig">(60) Mīnawā utibābạndamowānini kāgīcägunạnk imā cingwạnāng.</span>
 
@@ -523,11 +522,11 @@ Nenabosho and the Woodpecker (1)
 
 <span class="l-orig">(64) Ānīc, mī iᵘ cigwa kīmi‘kawit Nänabucu, udigōn: “Mī iᵘ ta∙i∙ciwīsiniyu‘k kinīdcānisạg,” udigōn.</span>
 
-<span class="l-fiero">**Aaniish mii iw zhigwa gii-mikawid Nenabosho odigoon: “Mii iw da-zhi-wiisiniyug giniijaanisag,” odigoon.**</span>
+<span class="l-fiero">**Aaniish mii iw zhigwa gii-mikawid Nenabosho odigoon: “Mii iw da-izhi-wiisiniyok giniijaanisag,” odigoon.**</span>
 
 <span class="l-eng">*Well, so when back to consciousness came Nänabushu, he was told: “Therefore do you and your children eat,” he was told.*</span>
 
-<span class="l-gloss">Aaniish mii iw zhigwa gii-mikawid Nenabosho (well, when Nenabosho came back to himself) odigoon: “Mii iw da-zhi-wiisiniyug giniijaanisag,” odigoon (he was told: “now you and your children may eat,” he was told).</span>
+<span class="l-gloss">Aaniish mii iw zhigwa gii-mikawid Nenabosho (well, when Nenabosho came back to himself) odigoon: “Mii iw da-izhi-wiisiniyok giniijaanisag,” odigoon (he was told: “now you and your children may eat,” he was told).</span>
 
 <span class="l-orig">(65) Mīsa’ gägä‘t ạnicimādcānit, mīsạnā kīwisiniwāt.</span>
 

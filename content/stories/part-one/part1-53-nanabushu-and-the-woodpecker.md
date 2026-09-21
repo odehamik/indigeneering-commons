@@ -2,7 +2,6 @@
 title: "53. Nanabushu and the Woodpecker"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -35,11 +34,11 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-orig">(3) Mīdạc kī‘pindigāt ändānit.</span>
 
-<span class="l-fiero">**Mii dash gii-piindiged endaanid.**</span>
+<span class="l-fiero">**Mii dash gii-biindiged endaanid.**</span>
 
 <span class="l-eng">*And so he went into where the (red-head) lived.*</span>
 
-<span class="l-gloss">Mii dash gii-piindiged (and so he went inside) endaanid (where he lived).</span>
+<span class="l-gloss">Mii dash gii-biindiged (and so he went inside) endaanid (where he lived).</span>
 
 <span class="l-orig">(4) Mämäᵉdec kī∙a∙‘kwāndawä īmāⁿ pā‘täcīngwā‘kung.</span>
 
@@ -59,19 +58,19 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-orig">(6) Ạnigagwäti‘kwä∙u∙ imāⁿ mi‘tigung; ā‘pidcidạc spîmīng kitci∙ä∙nigu‘k mạdwä’kwä∙u∙t mī∙i∙māⁿ wändcipạngicininit äsibạnạn.</span>
 
-<span class="l-fiero">**Ani-gagwedikwe’o imaa mitigong; aapiji dash ishpiming gichi-enigok madwekwe’od mii imaa wenji-pangishininid esiban.**</span>
+<span class="l-fiero">**Ani-gagwedikwe’o imaa mitigong; aapiji dash ishpiming gichi-enigok madwekwe’od mii imaa wenji-bangishininid esibanan.**</span>
 
 <span class="l-eng">*(The red-head) kept testing where to peck on his way up the tree; and when very high up was heard the sound of him pecking with all his might, then down from there came falling a raccoon.*</span>
 
-<span class="l-gloss">Ani-gagwedikwe’o (he kept testing where to peck — *stem flagged*) imaa mitigong (there on the tree); aapiji dash ishpiming (and very high up) gichi-enigok (with all his might) madwekwe’od (the sound of him pecking was heard — *stem flagged*) mii imaa wenji-pangishininid esiban (then from there came falling a raccoon).</span>
+<span class="l-gloss">Ani-gagwedikwe’o (he kept testing where to peck — *stem flagged*) imaa mitigong (there on the tree); aapiji dash ishpiming (and very high up) gichi-enigok (with all his might) madwekwe’od (the sound of him pecking was heard — *stem flagged*) mii imaa wenji-bangishininid esibanan (then from there came falling a raccoon).</span>
 
 <span class="l-orig">(7) Mīwạnini kā‘kījiswād kī∙a∙cạmād Nänabujūn.</span>
 
-<span class="l-fiero">**Mii wa nini gaa-kiizhizwaad gii-ashamaad Nenaboozhoon.**</span>
+<span class="l-fiero">**Miiwanini gaa-kiizhizwaad gii-ashamaad Nenaboozhoon.**</span>
 
 <span class="l-eng">*That was what he cooked when he fed Nänabushu.*</span>
 
-<span class="l-gloss">Mii wa nini gaa-kiizhizwaad (that was the very thing he cooked) gii-ashamaad Nenaboozhoon (when he fed Nänabushu).</span>
+<span class="l-gloss">Miiwanini gaa-kiizhizwaad (that was the very thing he cooked) gii-ashamaad Nenaboozhoon (when he fed Nänabushu).</span>
 
 <span class="l-orig">(8) Äckwāwīsinit Nänabujū, “Kayä nīn nīngạtacạmāⁿ mämä.”</span>
 
@@ -91,11 +90,11 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-orig">(10) Mēdạc kā∙i∙jikāciga∙ạ∙ng nänīdawaya∙ī∙, mīdạc kīa‘tōd udänigumāng.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-zhiga’ang eyiidawaya’ii, mii dash gii-atood odenigomaang.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-gaashiga’ang* neniidawaya’ii*, mii dash gii-atood odenigomaang.**</span>
 
 <span class="l-eng">*And so when he had sharpened them at both ends, he accordingly placed them in his nostrils.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-zhiga’ang eyiidawaya’ii (and so when he had sharpened them at both ends), mii dash gii-atood (then he placed them) odenigomaang (in his nostrils).</span>
+<span class="l-gloss">Mii dash gaa-izhi-gaashiga’ang* neniidawaya’ii* (and so when he had sharpened them at both ends — *stem flagged*), mii dash gii-atood (then he placed them) odenigomaang (in his nostrils).</span>
 
 <span class="l-orig">(11) Mēdạc a‘kwāndawät imāⁿ mi‘tigung käya wīn kagwäti‘kwäᵘ.</span>
 
@@ -131,11 +130,11 @@ Nänabushu and the Woodpecker (3)
 
 <span class="l-orig">(15) Mämändạc ogīpimādci∙i∙gōn.</span>
 
-<span class="l-fiero">**Memen dash ogii-pimaaji’igoon.**</span>
+<span class="l-fiero">**Memen dash ogii-bimaaji’igoon.**</span>
 
 <span class="l-eng">*And by the red-head was he brought back to life.*</span>
 
-<span class="l-gloss">Memen dash ogii-pimaaji’igoon (and by the red-head he was brought back to life).</span>
+<span class="l-gloss">Memen dash ogii-bimaaji’igoon (and by the red-head he was brought back to life).</span>
 
 <span class="l-orig">(16) Mī∙i’∙ᵘ kī∙ạ∙nimādcad.</span>
 

@@ -2,7 +2,6 @@
 title: "3. The Orphans and Mashoos"
 description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -11,25 +10,25 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 THE ORPHANS AND MASHOOS
 
-<span class="l-eng">*Narrated by Mrs. Syrette — Series 1 (Nos. 1–3), Fort William (per Jones Part II Introduction p. ix; not credited on the story page itself).*</span>
+<span class="l-eng">*Narrated by Mrs. Marie Syrette — Series I (Nos. 1–3), Fort William. Credited on the series heading, Part II p.3: “(Told by Mrs. Marie Syrette.)” — orchestrator crop `v2_p3_0` 2026-09-13; the given name and the page credit were missing from the earlier fill (Jones Part II Introduction p. ix).*</span>
 
 <span class="l-fiero">***from Ojibwa Texts collected by William Jones (1919).***</span>
 
 <span class="l-orig">(1) Ningutinga kīⁿwäⁿ anicinābä a∙ī∙ndā widigämāgạnạn gayä nījiwạn kīwäⁿ unidcānisiwān; pājik ā‘pidci agāⁿciwạn.</span>
 
-<span class="l-fiero">**Ningotinga kiinwenh anishinaabe a’iindaa wiidigemaaganan gaye niizhiwan kiiwenh oniijaanisiwaan; pezhik aapiji agaanshiiwan.**</span>
+<span class="l-fiero">**Ningodinga giinwenh anishinaabe a’iindaa wiidigemaaganan gaye niizhiwan giiwenh oniijaanisiwaan; bezhik aapiji agaanshiiwan.**</span>
 
 <span class="l-eng">*Once on a time they say there lived a man and his wife, and two they say was the number of their children; one was very small.*</span>
 
-<span class="l-gloss">Ningotinga kiinwenh (once on a time, they say) anishinaabe a’iindaa (a person dwelt) wiidigemaaganan gaye (with his wife too) niizhiwan kiiwenh oniijaanisiwaan (two, they say, were their children); pezhik aapiji agaanshiiwan (one was very small).</span>
+<span class="l-gloss">Ningodinga giinwenh (once on a time, they say) anishinaabe a’iindaa (a person dwelt) wiidigemaaganan gaye (with his wife too) niizhiwan giiwenh oniijaanisiwaan (two, they say, were their children); bezhik aapiji agaanshiiwan (one was very small).</span>
 
 <span class="l-orig">(2) Mīdec kīwäⁿ a∙ī∙ndāwạg.</span>
 
-<span class="l-fiero">**Mii desh kiiwenh a’iindaawag.**</span>
+<span class="l-fiero">**Mii desh giiwenh a’iindaawag.**</span>
 
 <span class="l-eng">*And it is said that they continued there.*</span>
 
-<span class="l-gloss">Mii desh kiiwenh a’iindaawag (and so, they say, there they went on living).</span>
+<span class="l-gloss">Mii desh giiwenh a’iindaawag (and so, they say, there they went on living).</span>
 
 <span class="l-orig">(3) Inini āndasogījik ạndawāndcigā; awädec i‘kwä kayä wīn manisä tcībā‘kwä gayä.</span>
 
@@ -41,35 +40,35 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(4) Īni’ᵘ dec unidcānisiwā mạdcinīⁿj kwīwisänsạg.</span>
 
-<span class="l-fiero">**Iiniw desh oniijaanisiwaa majiniinzh kwiiwisensag.**</span>
+<span class="l-fiero">**Iiniw desh oniijaanisiwaa majiniinzh gwiiwizensag.**</span>
 
 <span class="l-eng">*And their two children were boys.*</span>
 
-<span class="l-gloss">Iiniw desh oniijaanisiwaa (and those children of theirs) majiniinzh kwiiwisensag (were both boys).</span>
+<span class="l-gloss">Iiniw desh oniijaanisiwaa (and those children of theirs) majiniinzh gwiiwizensag (were both boys).</span>
 
 <span class="l-orig">(5) Mīdec awä zäzī‘kizit kwīwisäns kānawānimāt ucīmäyänsạn ugīn manisänit tạnama‘kạmigizinitsagu gayä.</span>
 
-<span class="l-fiero">**Mii desh awe zeziikizit kwiiwisens kenawenimaat oshiimeyensan ogiin manisenit tanamakamigizinit sa go gaye.**</span>
+<span class="l-fiero">**Mii desh awe zeziikizit gwiiwizens kenawenimaat oshiimeyensan ogiin manisenit tanamakamigizinit sa go gaye.**</span>
 
 <span class="l-eng">*And the boy that was older had the care of his tiny brother while his mother went to gather fire-wood and while she was busy at her work.*</span>
 
-<span class="l-gloss">Mii desh awe zeziikizit kwiiwisens (and so the boy who was older) kenawenimaat oshiimeyensan (cared for his little brother) ogiin manisenit (while his mother gathered firewood) tanamakamigizinit sa go gaye (and while she was busy at her work).</span>
+<span class="l-gloss">Mii desh awe zeziikizit gwiiwizens (and so the boy who was older) kenawenimaat oshiimeyensan (cared for his little brother) ogiin manisenit (while his mother gathered firewood) tanamakamigizinit sa go gaye (and while she was busy at her work).</span>
 
 <span class="l-orig">(6) Ningudingdạc kīwäⁿ a∙ī∙ndāwāt awä inini kayä wīn āndasogīji‘k mādcāt papāndowāndcigāt.</span>
 
-<span class="l-fiero">**Ningoding dash kiiwenh a’iindaawaat awe inini gaye wiin endaso-giizhik maajaat papaa-[a]ndowenjiget.**</span>
+<span class="l-fiero">**Ningoding dash giiwenh a’iindaawaat awe inini gaye wiin endaso-giizhik maajaat papaa-ndowenjiget.**</span>
 
 <span class="l-eng">*Once on a time, so they say, while they were living at home, the man was every day away on a hunt for game.*</span>
 
-<span class="l-gloss">Ningoding dash kiiwenh a’iindaawaat (and once, they say, while they were living there) awe inini gaye wiin (the man for his part) endaso-giizhik maajaat (each day going off) papaa-[a]ndowenjiget (roaming about hunting for game).</span>
+<span class="l-gloss">Ningoding dash giiwenh a’iindaawaat (and once, they say, while they were living there) awe inini gaye wiin (the man for his part) endaso-giizhik maajaat (each day going off) papaa-ndowenjiget (roaming about hunting for game).</span>
 
-<span class="l-orig">(7) Awinini patagwicing umi‘kawān wīwạn pítcinag wimanisät kayä witcībā‘kwät.</span>
+<span class="l-orig">(7) Awinini patagwicing umi‘kawān wīwạn pîtcinag wimanisät kayä witcībā‘kwät.</span>
 
-<span class="l-fiero">**Aw inini pa-tagwishing omikawaan wiiwan pi(i)chinag wii-maniset gaye wii-chiibaakwet.**</span>
+<span class="l-fiero">**Aw inini pa-tagwishing omikawaan wiiwan pichinag wii-maniset gaye wii-chiibaakwet.**</span>
 
 <span class="l-eng">*When the man came home, his wife would that moment go for fire-wood, that she might make ready to cook the meal.*</span>
 
-<span class="l-gloss">Aw inini pa-tagwishing (when the man came home) omikawaan wiiwan (he would find his wife) pi(i)chinag wii-maniset (just then about to go for firewood) gaye wii-chiibaakwet (and about to cook).</span>
+<span class="l-gloss">Aw inini pa-tagwishing (when the man came home) omikawaan wiiwan (he would find his wife) pichinag wii-maniset (just then about to go for firewood) gaye wii-chiibaakwet (and about to cook).</span>
 
 <span class="l-orig">(8) Ạbinōdcīyạg gayä ā‘pitci nicīwunātisiwạg.</span>
 
@@ -81,11 +80,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(9) Nīguting dạc kīwäⁿ awinini māminōnändạm, inändạnk:</span>
 
-<span class="l-fiero">**Niigoting dash kiiwenh aw inini maaminoonendam, inendank:**</span>
+<span class="l-fiero">**Niigoting dash giiwenh aw inini maaminoonendam, inendank:**</span>
 
 <span class="l-eng">*And once they say the man felt as if he would give reproof, (and) thought:*</span>
 
-<span class="l-gloss">Niigoting dash kiiwenh aw inini (and once, they say, the man) maaminoonendam (pondered uneasily), inendank (thinking):</span>
+<span class="l-gloss">Niigoting dash giiwenh aw inini (and once, they say, the man) maaminoonendam (pondered uneasily), inendank (thinking):</span>
 
 <span class="l-orig">(10) “Ạmantcisa äjiwābạtogwän?” inändạm.</span>
 
@@ -95,7 +94,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Amanchisa ezhiwebatogwen?” (“I wonder what can be going on?”) inendam (he thought).</span>
 
-<span class="l-orig">(11) Mīgu tạsing äjimi‘kawāt īni’ᵘ wīwạn pitcīnạg mādci‘tānit tcībā‘kwänit.</span>
+<span class="l-orig">(11) Mīgu tạsing äjimi‘kawāt īni´ᵘ wīwạn pitcīnạg mādci‘tānit tcībā‘kwänit.</span>
 
 <span class="l-fiero">**Mii go tasing ezhi-mikawaat iiniw wiiwan pichiinag maajitaanit chiibaakwenit.**</span>
 
@@ -113,11 +112,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(13) Mīdec kīⁿwāⁿ ānāndạnk:</span>
 
-<span class="l-fiero">**Mii desh kiinwenh enendank:**</span>
+<span class="l-fiero">**Mii desh giinwenh enendank:**</span>
 
 <span class="l-eng">*And then they say he thought:*</span>
 
-<span class="l-gloss">Mii desh kiinwenh enendank (and so, they say, he thought):</span>
+<span class="l-gloss">Mii desh giinwenh enendank (and so, they say, he thought):</span>
 
 <span class="l-orig">(14) “Taga, nīngạgagwätcimā ningwisis zäzī‘kisit ānīn äjiwäba‘k āndāwāt.”</span>
 
@@ -135,21 +134,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash keget ezhi-gagwejimaat (and so truly he asked) ogwisisensan kiimooch (his little son in secret):</span>
 
-<span class="l-orig">(16) “Ningwisis,” udinān, “ambäsanōnā wīndạmawicín, ānīn äna‘kạmigisit kīga?</span>
+<span class="l-orig">(16) “Ningwisis,” udinān, “ambäsanōnā wīndạmawicîn, ānīn äna‘kạmigisit kīga?</span>
 
-<span class="l-fiero">**“Ningwisis,” odinaan, “ambesanoonaa wiindamawishi(i)n, aaniin enakamigisit kiiga?**</span>
+<span class="l-fiero">**“Ningwisis,” odinaan, “ambesanoonaa wiindamawishin, aaniin enakamigisit kiiga?**</span>
 
 <span class="l-eng">*“My son,” he said to him, “come, and truly tell me, what is your mother doing?*</span>
 
-<span class="l-gloss">“Ningwisis,” odinaan (“my son,” he said to him), “ambesanoonaa wiindamawishi(i)n (“come now, do tell me), aaniin enakamigisit kiiga? (what is your mother doing?)</span>
+<span class="l-gloss">“Ningwisis,” odinaan (“my son,” he said to him), “ambesanoonaa wiindamawishin (“come now, do tell me), aaniin enakamigisit kiiga? (what is your mother doing?)</span>
 
-<span class="l-orig">(17) Pítcinạg kimādci‘tād tägwicinānin.</span>
+<span class="l-orig">(17) Pîtcinạg kimādci‘tād tägwicinānin.</span>
 
-<span class="l-fiero">**Pi(i)chiinag kimaajitaad tegwishinaanin.**</span>
+<span class="l-fiero">**Pichiinag kimaajitaad tegwishinaanin.**</span>
 
 <span class="l-eng">*Straightway does she go to work as soon as I come home.*</span>
 
-<span class="l-gloss">Pi(i)chiinag kimaajitaad (just then she sets to work) tegwishinaanin (as soon as I arrive home).</span>
+<span class="l-gloss">Pichiinag kimaajitaad (just then she sets to work) tegwishinaanin (as soon as I arrive home).</span>
 
 <span class="l-orig">(18) Kayä gīn kecīmäⁿyäns kayä ijinägusi mawit panä.”</span>
 
@@ -177,11 +176,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(21) “Ānic kigawīndamōnsa, ānawi kāwīn kägō kīwiwīndamōsīnūninābạn; kīgawīndamōnidacigu ä‘pītci kaskändạmān a‘panä nicīmäⁿyäns mawit kākabägīji‘k,” udinān ōsạn.</span>
 
-<span class="l-fiero">**“Aniish kiigawiindamoon sa, aanawi gaawiin kegoo kiiwiwiindamoosiinooninaaban; kiigawiindamoon idash igo epiichi kas[h]kendamaan apane nishiimenyens mawit kaakabe-giizhik,” odinaan oosan.**</span>
+<span class="l-fiero">**“Aniish kiigawiindamoon sa, aanawi gaawiin kegoo kiiwiwiindamoosiinooninaaban; kiigawiindamoon idash igo epiichi kashkendamaan apane nishiimenyens mawit kaakabe-giizhik,” odinaan oosan.**</span>
 
 <span class="l-eng">*“Well, I really will tell you, yet I am not anxious to tell you anything; and I will tell you, simply for the reason that very sad am I all the time, that my little brother should cry during the whole of every day,” he (thus) said to his father.*</span>
 
-<span class="l-gloss">“Aniish kiigawiindamoon sa (“well, I will tell you then), aanawi gaawiin kegoo kiiwiwiindamoosiinooninaaban (though I was not going to tell you anything); kiigawiindamoon idash igo (but I will tell you) epiichi kas[h]kendamaan apane (because I am so sad all the while) nishiimenyens mawit kaakabe-giizhik,” (that my little brother cries the whole day through,”) odinaan oosan (he said to his father).</span>
+<span class="l-gloss">“Aniish kiigawiindamoon sa (“well, I will tell you then), aanawi gaawiin kegoo kiiwiwiindamoosiinooninaaban (though I was not going to tell you anything); kiigawiindamoon idash igo (but I will tell you) epiichi kashkendamaan apane (because I am so sad all the while) nishiimenyens mawit kaakabe-giizhik,” (that my little brother cries the whole day through,”) odinaan oosan (he said to his father).</span>
 
 <span class="l-orig">(22) “Mīgu’ kä∙a∙nimādcäyạnini kigicäp nānāge kayä wīn ninganān mīga’yä wīn ujī‘tād zazägāwạt wäwäni gayä pinā‘kwä∙u∙.</span>
 
@@ -223,13 +222,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Mii iwe waa-kikendamaan,” ikito (“that is just what I wanted to know,” he said).</span>
 
-<span class="l-orig">(27) Mīdạc awinini kīwäⁿ weyābaninig kā∙i∙ji∙a∙‘kạmowāt ini’ᵘ wīwạn.</span>
+<span class="l-orig">(27) Mīdạc awinini kīwäⁿ weyābaninig kā∙i∙ji∙a∙‘kạmowāt ini´ᵘ wīwạn.</span>
 
-<span class="l-fiero">**Mii dash aw inini kiiwenh weyaabaninig kaa-izhi-akamowaat iiniw wiiwan.**</span>
+<span class="l-fiero">**Mii dash aw inini giiwenh weyaabaninig kaa-izhi-akamowaat iiniw wiiwan.**</span>
 
 <span class="l-eng">*And then the man, so they say, on the morrow lay in wait for his wife.*</span>
 
-<span class="l-gloss">Mii dash aw inini kiiwenh (and so the man, they say) weyaabaninig (on the next day) kaa-izhi-akamowaat iiniw wiiwan (lay in wait for his wife).</span>
+<span class="l-gloss">Mii dash aw inini giiwenh (and so the man, they say) weyaabaninig (on the next day) kaa-izhi-akamowaat iiniw wiiwan (lay in wait for his wife).</span>
 
 <span class="l-orig">(28) Kägä‘t awinini weyābạninig kigijäp mādcā‘kāzo; päcudạc ä‘kudäbābạndạnk wīgiwām kī∙a∙yā ki‘kāzut.</span>
 
@@ -295,7 +294,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Pane iwiti kwayak eni-izhaanit (straight over yonder she was heading) manisekanaang (along the firewood path).</span>
 
-<span class="l-orig">(36) Kāwīndec wäwäni ugīgi‘känimāsin ini’ᵘ wīwạn äna‘kạmigizininigwän.</span>
+<span class="l-orig">(36) Kāwīndec wäwäni ugīgi‘känimāsin īni´ᵘ wīwạn äna‘kạmigizininigwän.</span>
 
 <span class="l-fiero">**Gaawiin desh weweni ogii-gikenimaasin iiniw wiiwan enakamigizininigwen.**</span>
 
@@ -303,21 +302,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Gaawiin desh weweni ogii-gikenimaasin (and not exactly did he make out) iiniw wiiwan enakamigizininigwen (whatever his wife might be up to).</span>
 
-<span class="l-orig">(37) Mīdec mīnawā kīwäⁿ weyābạninig tíbickō kā‘todạnk, kī∙i∙jāt iwiti kā∙a∙nijipickwābamā‘pạn pítcīnāgō.</span>
+<span class="l-orig">(37) Mīdec mīnawā kīwäⁿ weyābạninig tîbickō kā‘todạnk, kī∙i∙jāt iwiti kā∙a∙nijipickwābamā‘pạn pîtcīnāgō.</span>
 
-<span class="l-fiero">**Mii desh miinawaa kiiwenh weyaabaninig ti(i)bishkoo kaa-todank, kii-izhaat iwiti kaa-ani-[i]zhi-pishkwaabamaapan pi(i)chiinaagoo.**</span>
+<span class="l-fiero">**Mii desh miinawaa giiwenh weyaabaninig tibishkoo kaa-todank, kii-izhaat iwiti kaa-ani-zhi-pishkwaabamaapan pichiinaagoo.**</span>
 
 <span class="l-eng">*And then again, they say, on the next day he did the same thing, he went over to the place where he had barely lost sight of her on the day before.*</span>
 
-<span class="l-gloss">Mii desh miinawaa kiiwenh weyaabaninig (and then again, they say, the next day) ti(i)bishkoo kaa-todank (he did the same thing), kii-izhaat iwiti (he went over there) kaa-ani-[i]zhi-pishkwaabamaapan pi(i)chiinaagoo (to where he had just lost sight of her the day before).</span>
+<span class="l-gloss">Mii desh miinawaa giiwenh weyaabaninig (and then again, they say, the next day) tibishkoo kaa-todank (he did the same thing), kii-izhaat iwiti (he went over there) kaa-ani-zhi-pishkwaabamaapan pichiinaagoo (to where he had just lost sight of her the day before).</span>
 
-<span class="l-orig">(38) Mīdec kīmi‘kawāt päji‘k gistcimi‘tigōn pada‘kizunit ā‘pitci mískwā‘kuskīgāsonidcin.</span>
+<span class="l-orig">(38) Mīdec kīmi‘kawāt päji‘k gistcimi‘tigōn pada‘kizunit ā‘pitci mîskwā‘kuskīgāsonidcin.</span>
 
-<span class="l-fiero">**Mii desh kii-mikawaat pezhik gischi-mitigoon padakizonit aapichi mi(i)skwaakos[h]kiigaasonijin.**</span>
+<span class="l-fiero">**Mii desh kii-mikawaat bezhik gichi-mitigoon padakizonit aapichi miskwaakoshkiigaasonijin.**</span>
 
 <span class="l-eng">*And then he found standing alone a great tree, which was very red by reason of the bark being peeled off on account of much travel upon it.*</span>
 
-<span class="l-gloss">Mii desh kii-mikawaat (and then he found) pezhik gischi-mitigoon padakizonit (a single great tree standing) aapichi mi(i)skwaakos[h]kiigaasonijin (all very red from having its bark worn off).</span>
+<span class="l-gloss">Mii desh kii-mikawaat (and then he found) bezhik gichi-mitigoon padakizonit (a single great tree standing) aapichi miskwaakoshkiigaasonijin (all very red from having its bark worn off).</span>
 
 <span class="l-orig">(39) Mīdec, “Mī gạnabạtc ōmā ä∙i∙jāt,” inändạm.</span>
 
@@ -375,7 +374,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Shayiigwa pesho pii-aya imaa (now close by she came to where) mitigoon patakizonit (the tree was standing).</span>
 
-<span class="l-orig">(46) Mīdạc awi‘kwä äjipa‘kitä∙ā∙‘kowāt ini’ᵘ mi‘tigōn pä‘kic i‘kitut:</span>
+<span class="l-orig">(46) Mīdạc awi‘kwä äjipa‘kitä∙ā∙‘kowāt īni´ᵘ mi‘tigōn pä‘kic i‘kitut:</span>
 
 <span class="l-fiero">**Mii dash aw ikwe ezhi-pakite’aakowaat iiniw mitigoon pekish ikitot:**</span>
 
@@ -383,21 +382,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash aw ikwe ezhi-pakite’aakowaat iiniw mitigoon (and then the woman struck upon the tree) pekish ikitot (at the same time saying):</span>
 
-<span class="l-orig">(47) “Ninābämitug! Nintạgwicin minawā ābinding,” i‘kito.</span>
+<span class="l-orig">(47) “Nināpämitug! Nintạgwicin minawā ābinding,” i‘kito.</span>
 
-<span class="l-fiero">**“Ninaapemitog! Nintagwishin minawaa aabinding,” ikito.**</span>
+<span class="l-fiero">**“Ninaabemidog! Nintagwishin minawaa aabinding,” ikito.**</span>
 
 <span class="l-eng">*“O my husbands! I am come once again,” she said.*</span>
 
-<span class="l-gloss">“Ninaapemitog! (“O my husbands!) Nintagwishin minawaa aabinding,” ikito (I have come once again,” she said).</span>
+<span class="l-gloss">“Ninaabemidog! (“O my husbands!) Nintagwishin minawaa aabinding,” ikito (I have come once again,” she said).</span>
 
 <span class="l-orig">(48) Apạnä kīwäⁿgu pasāgitōtäwāt kinäbigōk.</span>
 
-<span class="l-fiero">**Apane kiiwenh go pasaagitootewaat kinebigook.**</span>
+<span class="l-fiero">**Apane giiwenh go pasaagitootewaat kinebigook.**</span>
 
 <span class="l-eng">*Without ceasing, they say, out came crawling the snakes.*</span>
 
-<span class="l-gloss">Apane kiiwenh go (without ceasing, they say) pasaagitootewaat kinebigook (out came crawling the snakes).</span>
+<span class="l-gloss">Apane giiwenh go (without ceasing, they say) pasaagitootewaat kinebigook (out came crawling the snakes).</span>
 
 <span class="l-orig">(49) Wayībagu ukī∙ā∙ngwäckāgōn wī∙u∙mwigut.</span>
 
@@ -447,13 +446,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash kii-giishenimak chi-nisak (and so I have made up my mind to kill her).</span>
 
-<span class="l-orig">(55) ningwisis,” udinān, “kicīmäⁿyäns kīgamādcīnā kīgapímōmā,” udinān.</span>
+<span class="l-orig">(55) ningwisis,” udinān, “kicīmäⁿyäns kīgamādcīnā kīgapîmōmā,” udinān.</span>
 
-<span class="l-fiero">**— Kiin dash ningwisis,” odinaan, “kishiimenyens kiiga-maajiinaa kiiga-pi(i)moomaa,” odinaan.**</span>
+<span class="l-fiero">**— Kiin dash ningwisis,” odinaan, “kishiimenyens kiiga-maajiinaa kiiga-pimoomaa,” odinaan.**</span>
 
 <span class="l-eng">*— And you, my son,” he said to him, “your wee little brother would I have you take away, I would that you carry him on your back,” he said to him.*</span>
 
-<span class="l-gloss">— Kiin dash ningwisis,” odinaan (— and you, my son,” he said to him), “kishiimenyens kiiga-maajiinaa (“your little brother you shall take away) kiiga-pi(i)moomaa,” odinaan (you shall carry him on your back,” he said to him).</span>
+<span class="l-gloss">— Kiin dash ningwisis,” odinaan (— and you, my son,” he said to him), “kishiimenyens kiiga-maajiinaa (“your little brother you shall take away) kiiga-pimoomaa,” odinaan (you shall carry him on your back,” he said to him).</span>
 
 <span class="l-orig">(56) “Nīndac ōmā ningatayā pīnic tcipitạgwicing kīgiwā,” udinān.</span>
 
@@ -473,11 +472,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(58) Mīwe gwaya‘k kädacaiyäg,” udinān; “gwaya‘k nīngābī∙a∙nung, mīdac iwiti tci∙a∙niwâbamạtwā kō‘komisạg,” udinān īni’ᵘ ugwisisänsạn.</span>
 
-<span class="l-fiero">**Mii [i]we gwayak ked-ashaiyeg,” odinaan; “gwayak niingaabii’anong, mii dash iwiti chi-ani-wabamatwaa kookomisag,” odinaan iiniw ogwisisensan.**</span>
+<span class="l-fiero">**Mii iwe gwayak ked-ashaiyeg,” odinaan; “gwayak niingaabii’anong, mii dash iwiti chi-ani-wabamatwaa kookomisag,” odinaan iiniw ogwisisensan.**</span>
 
 <span class="l-eng">*Straight in yonder direction shall you go,” he said to them; “straight toward the west, for over by that way will you go and see your grand mothers,” he said to his little son.*</span>
 
-<span class="l-gloss">Mii [i]we gwayak ked-ashaiyeg,” odinaan (“straight that way you shall go,” he said to them); “gwayak niingaabii’anong (“straight toward the west), mii dash iwiti chi-ani-wabamatwaa kookomisag,” odinaan iiniw ogwisisensan (and over there you shall go and see your grandmothers,” he said to his little son).</span>
+<span class="l-gloss">Mii iwe gwayak ked-ashaiyeg,” odinaan (“straight that way you shall go,” he said to them); “gwayak niingaabii’anong (“straight toward the west), mii dash iwiti chi-ani-wabamatwaa kookomisag,” odinaan iiniw ogwisisensan (and over there you shall go and see your grandmothers,” he said to his little son).</span>
 
 <span class="l-orig">(59) “Mīdec äninān, kīganō‘pinaca∙o∙gowā; pō‘tc aᵘ kigiwā.</span>
 
@@ -503,21 +502,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Kego gaye kipichipatookegon!” odinaan (“and never stop running, either!” he said to him).</span>
 
-<span class="l-orig">(62) “Pítcinạg kayä iwiti kō‘kumesạg kīgagigī‘kimigōg,” udinān.</span>
+<span class="l-orig">(62) “Pîtcinạg kayä iwiti kō‘kumesạg kīgagigī‘kimigōg,” udinān.</span>
 
-<span class="l-fiero">**“Pi(i)chinag gaye iwiti kookomesag kiiga-gigiikimigoog,” odinaan.**</span>
+<span class="l-fiero">**“Pichinag gaye iwiti kookomesag kiiga-gigiikimigoog,” odinaan.**</span>
 
 <span class="l-eng">*“And by and by at that place will your grandmothers give you words of advice,” he said to him.*</span>
 
-<span class="l-gloss">“Pi(i)chinag gaye iwiti kookomesag (“and by and by, over there, your grandmothers) kiiga-gigiikimigoog,” odinaan (will counsel you,” he said to him).</span>
+<span class="l-gloss">“Pichinag gaye iwiti kookomesag (“and by and by, over there, your grandmothers) kiiga-gigiikimigoog,” odinaan (will counsel you,” he said to him).</span>
 
 <span class="l-orig">(63) Mīdec kīⁿwäⁿ äjōdā‘pienāng iᵘ ta‘kināgạn ta‘kupisunit ägāⁿcī∙i∙nit ugwisisänsän.</span>
 
-<span class="l-fiero">**Mii desh kiinwenh ezhoodaapi’enaang iw takinaagan takopisonit egaanshiiinit ogwisisensen.**</span>
+<span class="l-fiero">**Mii desh giinwenh ezhoodaapi’enaang iw takinaagan takopisonit egaanshiiinit ogwisisensen.**</span>
 
 <span class="l-eng">*And then they say he took up the cradle-board on which was tied his little son.*</span>
 
-<span class="l-gloss">Mii desh kiinwenh ezhoodaapi’enaang iw takinaagan (and then, they say, he took up the cradle-board) takopisonit egaanshiiinit ogwisisensen (on which his little son was bound).</span>
+<span class="l-gloss">Mii desh giinwenh ezhoodaapi’enaang iw takinaagan (and then, they say, he took up the cradle-board) takopisonit egaanshiiinit ogwisisensen (on which his little son was bound).</span>
 
 <span class="l-orig">(64) Umbiwạnä∙ā∙t īni’ᵘ zäzī‘kisit ugwisisạn.</span>
 
@@ -527,13 +526,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Ombiwane’aat iiniw zeziikisit ogwisisan (he lifted it onto the back of his older son).</span>
 
-<span class="l-orig">(65) ‘Iᵉi’widec ta‘kināgạn kägā umạci‘kizidōn iwe ta‘kināgạn aᵘ kwīwisäns.</span>
+<span class="l-orig">(65) ´Iᵉi’widec ta‘kināgạn kägā umạci‘kizidōn iwe ta‘kināgạn aᵘ kwīwisäns.</span>
 
-<span class="l-fiero">**I’iw idesh takinaagan kegaa omashikizidoon iwe takinaagan aw kwiiwisens.**</span>
+<span class="l-fiero">**I’iw idesh takinaagan kegaa omashikizidoon iwe takinaagan aw gwiiwizens.**</span>
 
 <span class="l-eng">*And with that cradle-board the boy almost touched the ground.*</span>
 
-<span class="l-gloss">I’iw idesh takinaagan (and with that cradle-board) kegaa omashikizidoon iwe takinaagan aw kwiiwisens (the boy almost dragged it on the ground).</span>
+<span class="l-gloss">I’iw idesh takinaagan (and with that cradle-board) kegaa omashikizidoon iwe takinaagan aw gwiiwizens (the boy almost dragged it on the ground).</span>
 
 <span class="l-orig">(66) Mīdec äjimādcānit, “Kicī‘kān, ningwisis! änigu‘k pimusän,” udinān ainini.</span>
 
@@ -569,11 +568,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(70) Mīdac kāgīcī‘tāt kā∙i∙cipindigät.</span>
 
-<span class="l-fiero">**Mii dash kaa-giishiitaat kaa-[i]shi-pindiget.**</span>
+<span class="l-fiero">**Mii dash kaa-giishiitaat kaa-ishi-pindiget.**</span>
 
 <span class="l-eng">*And when he had finished work, then he went inside.*</span>
 
-<span class="l-gloss">Mii dash kaa-giishiitaat (and when he had finished) kaa-[i]shi-pindiget (then he went inside).</span>
+<span class="l-gloss">Mii dash kaa-giishiitaat (and when he had finished) kaa-ishi-pindiget (then he went inside).</span>
 
 <span class="l-orig">(71) Kī∙u∙ci‘tāt wīnisāt wīwan.</span>
 
@@ -599,13 +598,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii desh ezhi-ashonawaat (and so he stood ready with arrow nocked) chi-pi-piindigenit (for when she should come entering in).</span>
 
-<span class="l-orig">(74) Pítcinagidacigu pā∙u∙mbinạng iᵘ skwāndäm mī∙ä∙cipímwāt, mayādạc udä∙i∙ning udininawān.</span>
+<span class="l-orig">(74) Pîtcinagidacigu pā∙u∙mbinạng iᵘ skwāndäm mī∙ä∙cipîmwāt, mayādạc udä∙i∙ning udininawān.</span>
 
-<span class="l-fiero">**Pi(i)chinag idash igo paa-ombinang iw skwaandem mii eshi-pi(i)mwaat, mayaa dash ode’ining odininawaan.**</span>
+<span class="l-fiero">**Pichinag idash igo paa-ombinang iw skwaandem mii eshi-pimwaat, mayaa dash ode’ining odininawaan.**</span>
 
 <span class="l-eng">*As soon as she lifted the flap of the doorway, then he shot her, at the very centre of her heart he shot her.*</span>
 
-<span class="l-gloss">Pi(i)chinag idash igo paa-ombinang iw skwaandem (and as soon as she lifted the door-flap) mii eshi-pi(i)mwaat (then he shot her), mayaa dash ode’ining odininawaan (and right in her heart he hit her).</span>
+<span class="l-gloss">Pichinag idash igo paa-ombinang iw skwaandem (and as soon as she lifted the door-flap) mii eshi-pimwaat (then he shot her), mayaa dash ode’ining odininawaan (and right in her heart he hit her).</span>
 
 <span class="l-orig">(75) Mīdac ägut:</span>
 
@@ -615,7 +614,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash egot (and then he was asked by her):</span>
 
-<span class="l-orig">(76) “Ānic kīnā tōtạmạn?”</span>
+<span class="l-orig">(76) “Ānīc kīnā tōtạmạn?”</span>
 
 <span class="l-fiero">**“Aaniish kiinaa tootaman?”**</span>
 
@@ -647,13 +646,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash aw inini ezhi-wiikotaabaanaat (and then the man dragged her) nawach naawoshkote ezhi-asaat (and placed her nearer the centre of the fire).</span>
 
-<span class="l-orig">(80) Mīdạc äjiki‘tcipōtawät, mīdac äjisa‘kawāt; mägwādạc tạnā‘kisunit kạna wâbạmāt ini’ᵘ wīwạn.</span>
+<span class="l-orig">(80) Mīdạc äjiki‘tcipōtawät, mīdac äjisa‘kawāt; mägwādạc tạnā‘kisunit kạna wâbạmāt īni’ᵘ wīwạn.</span>
 
-<span class="l-fiero">**Mii dash ezhi-kichi-pootawet, mii dash ezhi-sakawaat; megwaa dash tanaakisonit kanawabamaat iiniw wiiwan.**</span>
+<span class="l-fiero">**Mii dash ezhi-gichi-pootawet, mii dash ezhi-sakawaat; megwaa dash tanaakisonit kanawabamaat iiniw wiiwan.**</span>
 
 <span class="l-eng">*Thereupon he built a great fire, and then he burned her; and while she was burning up, he gazed upon his wife.*</span>
 
-<span class="l-gloss">Mii dash ezhi-kichi-pootawet (and then he built a great fire), mii dash ezhi-sakawaat (and then he set her ablaze); megwaa dash tanaakisonit (and while she was burning) kanawabamaat iiniw wiiwan (he watched his wife).</span>
+<span class="l-gloss">Mii dash ezhi-gichi-pootawet (and then he built a great fire), mii dash ezhi-sakawaat (and then he set her ablaze); megwaa dash tanaakisonit (and while she was burning) kanawabamaat iiniw wiiwan (he watched his wife).</span>
 
 <span class="l-orig">(81) Udigōn:</span>
 
@@ -663,7 +662,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Odigoon (he was addressed by her):</span>
 
-<span class="l-orig">(82) “Ānic wīn wändcitōtawiyạn?</span>
+<span class="l-orig">(82) “Ānīc wīn wändcitōtawiyạn?</span>
 
 <span class="l-fiero">**“Aaniish wiin wenji-tootawiyan?**</span>
 
@@ -671,21 +670,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Aaniish wiin wenji-tootawiyan? (“why is it you treat me so?)</span>
 
-<span class="l-orig">(83) Kítínigā∙ā∙k kinīdcānsinānig kī∙u∙cī∙ạ∙twā.”</span>
+<span class="l-orig">(83) Kîtînigā∙ā∙k kinīdcānsinānig kī∙u∙cī∙ạ∙twā.”</span>
 
-<span class="l-fiero">**Ki(i)ti(i)nigaa’aak kiniijaanisinaanig kii-oshii’atwaa.”**</span>
+<span class="l-fiero">**Kitinigaa’aak kiniijaanisinaanig kii-oshii’atwaa.”**</span>
 
 <span class="l-eng">*You have brought woe upon our children by making orphans of them.”*</span>
 
-<span class="l-gloss">Ki(i)ti(i)nigaa’aak kiniijaanisinaanig (you have brought misery on our children) kii-oshii’atwaa.” (by making orphans of them.”)</span>
+<span class="l-gloss">Kitinigaa’aak kiniijaanisinaanig (you have brought misery on our children) kii-oshii’atwaa.” (by making orphans of them.”)</span>
 
-<span class="l-orig">(84) Inini kāwīn kägō i‘kitosī; ānic ogīwâbạmān kā∙i∙citigänit wīwạn, ā‘pitcidạc ugīnîckī∙i∙gōn.</span>
+<span class="l-orig">(84) Inini kāwīn kägō i‘kitosī; ānīc ogīwâbạmān kā∙i∙citigänit wīwạn, ā‘pitcidạc ugīnîckī∙i∙gōn.</span>
 
-<span class="l-fiero">**Inini gaawiin kegoo ikitosii; aaniish ogii-wabamaan kaa-ishitigenit wiiwan, aapichi dash ogii-ni(i)shkii’igoon.**</span>
+<span class="l-fiero">**Inini gaawiin kegoo ikitosii; aaniish ogii-wabamaan kaa-ishitigenit wiiwan, aapichi dash ogii-nishkii’igoon.**</span>
 
 <span class="l-eng">*The man did not say anything; for in truth he had seen what his wife had done, and very much was he angered by her.*</span>
 
-<span class="l-gloss">Inini gaawiin kegoo ikitosii (the man said nothing); aaniish ogii-wabamaan kaa-ishitigenit wiiwan (for he had seen what his wife had done), aapichi dash ogii-ni(i)shkii’igoon (and very much was he angered by her).</span>
+<span class="l-gloss">Inini gaawiin kegoo ikitosii (the man said nothing); aaniish ogii-wabamaan kaa-ishitigenit wiiwan (for he had seen what his wife had done), aapichi dash ogii-nishkii’igoon (and very much was he angered by her).</span>
 
 <span class="l-orig">(85) Awidec i‘kwä ga‘kina kägō i‘kitō kä∙u∙ndci cawänimigut unābämạn.</span>
 
@@ -695,15 +694,15 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Aw idesh ikwe gakina kegoo ikitoo (and the woman said all manner of things) ke-onji-shawenimigot onaabeman (that she might be pitied by her husband).</span>
 
-<span class="l-orig">(86) Ininidac kāwin kạnagä ābiding ogạnōnāsīn; mīgä‘tagu ki‘tci∙a∙no‘kīt wi∙ā∙ngwā‘kiswāt.</span>
+<span class="l-orig">(86) Ininidac kāwin kạnagä ābiding ogạnōnāsīn; mīgä‘tagu ki‘tci∙a∙no‘kīt wī∙ā∙ngwā‘kiswāt.</span>
 
-<span class="l-fiero">**Inini dash gaawiin kanage aabiding oganoonaasiin; miig eta go kichi-anokiit wii-aangwaakisiwaat.**</span>
+<span class="l-fiero">**Inini dash gaawiin kanage aabiding oganoonaasiin; miig eta go gichi-anokiit wii-aangwaakisiwaat.**</span>
 
 <span class="l-eng">*But the man had not a single word to say to her; he simply worked with all his might to burn her up.*</span>
 
-<span class="l-gloss">Inini dash gaawiin kanage aabiding oganoonaasiin (but the man did not address her even once); miig eta go kichi-anokiit (he just worked hard) wii-aangwaakisiwaat (to burn her up).</span>
+<span class="l-gloss">Inini dash gaawiin kanage aabiding oganoonaasiin (but the man did not address her even once); miig eta go gichi-anokiit (he just worked hard) wii-aangwaakisiwaat (to burn her up).</span>
 
-<span class="l-orig">(87) Mīgu’ pạngi ani∙ā∙‘towäg, mīgu’ minawā kanōnigut, pīnic igu māwit awi‘kwä.</span>
+<span class="l-orig">(87) Mīgu´ pạngi ani∙ā∙‘towäg, mīgu´ minawā kanōnigut, pīnic igu māwit awi‘kwä.</span>
 
 <span class="l-fiero">**Mii go pangi ani-aatoweg, mii go minawaa kanoonigot, piinish igo maawit aw ikwe.**</span>
 
@@ -729,11 +728,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(90) Mīdec kīⁿwäⁿ awinini ā‘pitci aiyä‘kusit pōdawät kabädibi‘k, wīnipāt gayä.</span>
 
-<span class="l-fiero">**Mii desh kiinwenh aapichi aiyekosit poodawet kabe-dibik, wii-nipaat gaye.**</span>
+<span class="l-fiero">**Mii desh giinwenh aapichi aiyekosit poodawet kabe-dibik, wii-nipaat gaye.**</span>
 
 <span class="l-eng">*Consequently they say the man became very tired with keeping up the fire all night long, (and) he wanted sleep.*</span>
 
-<span class="l-gloss">Mii desh kiinwenh aapichi aiyekosit (and so, they say, very tired he grew) poodawet kabe-dibik (keeping the fire all night), wii-nipaat gaye (and he wanted to sleep too).</span>
+<span class="l-gloss">Mii desh giinwenh aapichi aiyekosit (and so, they say, very tired he grew) poodawet kabe-dibik (keeping the fire all night), wii-nipaat gaye (and he wanted to sleep too).</span>
 
 <span class="l-orig">(91) Mīgu tibickō ä‘pitwäwidạminit wīwạn.</span>
 
@@ -751,13 +750,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii minawaa e-kichi-pootawet (and again he built up a great fire).</span>
 
-<span class="l-orig">(93) Tcīgaya∙i∙dạc kīⁿwäⁿ weyābạninig mīcigwa tcāgā‘kiswāt; kayä kāwin keyābi onōndawāsin.</span>
+<span class="l-orig">(93) Tcīgaya∙ī∙dạc kīⁿwäⁿ weyābạninig mīcigwa tcāgā‘kiswāt; kayä kāwīn keyābi onōndawāsin.</span>
 
-<span class="l-fiero">**Chiigaya’ii dash kiinwenh weyaabaninig mii shigwa chaagaakisiwaat; gaye gaawiin keyaabi onoondawaasiin.**</span>
+<span class="l-fiero">**Chiigaya’ii dash giinwenh weyaabaninig mii shigwa chaagaakisiwaat; gaye gaawiin geyaabi onoondawaasiin.**</span>
 
 <span class="l-eng">*And when it was nearly morning, they say that then was when he burned her up; and he no longer heard her voice.*</span>
 
-<span class="l-gloss">Chiigaya’ii dash kiinwenh weyaabaninig (and when it was nearly morning, they say) mii shigwa chaagaakisiwaat (that was when he burned her up); gaye gaawiin keyaabi onoondawaasiin (and no longer did he hear her).</span>
+<span class="l-gloss">Chiigaya’ii dash giinwenh weyaabaninig (and when it was nearly morning, they say) mii shigwa chaagaakisiwaat (that was when he burned her up); gaye gaawiin geyaabi onoondawaasiin (and no longer did he hear her).</span>
 
 <span class="l-orig">(94) Mīdec kägä‘t kätciänigu‘k pōdawät.</span>
 
@@ -769,11 +768,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(95) Mīdạc kīⁿwäⁿ wâbạninig tcāgā‘kiswāt.</span>
 
-<span class="l-fiero">**Mii dash kiinwenh wabaninig chaagaakiswaat.**</span>
+<span class="l-fiero">**Mii dash giinwenh wabaninig chaagaakiswaat.**</span>
 
 <span class="l-eng">*And then they say by morning he had her all burned up.*</span>
 
-<span class="l-gloss">Mii dash kiinwenh wabaninig chaagaakiswaat (and then, they say, by morning he had burned her clean up).</span>
+<span class="l-gloss">Mii dash giinwenh wabaninig chaagaakiswaat (and then, they say, by morning he had burned her clean up).</span>
 
 <span class="l-orig">(96) Mīdec kā∙i∙jiningwa∙ạ∙nk iᵘ udickutäm.</span>
 
@@ -801,11 +800,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(99) Mägwā kīⁿwäⁿgu ninguting ạnipapimosät ạnāgucig kwīwisäns pimōmāt ucīmäyänsạn āpitci aiyä‘kusi.</span>
 
-<span class="l-fiero">**Megwaa kiinwenh go ningoting ani-papimoset anaagoshig kwiiwisens pimoomaat oshiimeyensan aapichi aiyekosi.**</span>
+<span class="l-fiero">**Megwaa giinwenh go ningoding ani-papimoset anaagoshig gwiiwizens pimoomaat oshiimeyensan aapichi aiyekosi.**</span>
 
 <span class="l-eng">*It is said that one evening, when the boy was travelling along and carrying his little brother on his back, very weary did he become.*</span>
 
-<span class="l-gloss">Megwaa kiinwenh go ningoting ani-papimoset anaagoshig (it is said that one evening, while walking along) kwiiwisens pimoomaat oshiimeyensan (the boy carrying his little brother on his back) aapichi aiyekosi (grew very tired).</span>
+<span class="l-gloss">Megwaa giinwenh go ningoding ani-papimoset anaagoshig (it is said that one evening, while walking along) gwiiwizens pimoomaat oshiimeyensan (the boy carrying his little brother on his back) aapichi aiyekosi (grew very tired).</span>
 
 <span class="l-orig">(100) Nīgāninābit owâbandān kwayu‘k äjāt wīgiwāmäns pada‘kitänig.</span>
 
@@ -825,11 +824,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(102) Pitcīnạg kīⁿwäⁿgu päcu’ äni∙a∙yāt awiya onōndawān kīgitōnit, i‘kitunit:</span>
 
-<span class="l-fiero">**Pichiinag kiinwenh go pesho ani-ayaat awiya onoondawaan kiigitoonit, ikitonit:**</span>
+<span class="l-fiero">**Pichiinag giinwenh go pesho ani-ayaat awiya onoondawaan kiigitoonit, ikitonit:**</span>
 
 <span class="l-eng">*They say that as soon as he was come near by, he heard somebody speak, saying:*</span>
 
-<span class="l-gloss">Pichiinag kiinwenh go pesho ani-ayaat (and, they say, as soon as he came near) awiya onoondawaan kiigitoonit (he heard someone speaking), ikitonit (saying):</span>
+<span class="l-gloss">Pichiinag giinwenh go pesho ani-ayaat (and, they say, as soon as he came near) awiya onoondawaan kiigitoonit (he heard someone speaking), ikitonit (saying):</span>
 
 <span class="l-orig">(103) “Nīyā! nōcis, kigīkitimāgisim,” utiguwān.</span>
 
@@ -841,11 +840,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(104) Mī kīⁿwäⁿgu äjiki‘tcimawit aᵘ kwīwisäns, a gayä pämōmint ta‘kināgạning.</span>
 
-<span class="l-fiero">**Mii kiinwenh go ezhi-kichi-mawit aw kwiiwisens a gaye pemoomint takinaaganing.**</span>
+<span class="l-fiero">**Mii giinwenh go ezhi-gichi-mawit aw gwiiwizens a gaye pemoomint takinaaganing.**</span>
 
 <span class="l-eng">*And then they say that the boy wept bitterly, likewise he that was carried in the cradle-board.*</span>
 
-<span class="l-gloss">Mii kiinwenh go ezhi-kichi-mawit aw kwiiwisens (and then, they say, the boy wept bitterly) a gaye pemoomint takinaaganing (and so did the one carried in the cradle-board).</span>
+<span class="l-gloss">Mii giinwenh go ezhi-gichi-mawit aw gwiiwizens (and then, they say, the boy wept bitterly) a gaye pemoomint takinaaganing (and so did the one carried in the cradle-board).</span>
 
 <span class="l-orig">(105) “Pindigän!” udigowān ō‘komisiwān.</span>
 
@@ -873,11 +872,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(108) Wayābạnimigidạc kīⁿwäⁿ udigowān ō‘komisiwān: “</span>
 
-<span class="l-fiero">**Wayaabanimig idash kiinwenh odigowaan ookomisiwaan:**</span>
+<span class="l-fiero">**Wayaabanimig idash giinwenh odigowaan ookomisiwaan:**</span>
 
 <span class="l-eng">*And in the morning it is said that they were told by their grandmother:*</span>
 
-<span class="l-gloss">Wayaabanimig idash kiinwenh (and in the morning, they say) odigowaan ookomisiwaan (they were told by their grandmother):</span>
+<span class="l-gloss">Wayaabanimig idash giinwenh (and in the morning, they say) odigowaan ookomisiwaan (they were told by their grandmother):</span>
 
 <span class="l-orig">(109) ‘A‘a’ᵘ, ạmbä ạnickān!</span>
 
@@ -897,11 +896,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(111) Mīdec kīⁿwäⁿ äcimīnigut ō‘kumisạn migōs, pinā‘kwān kayä.</span>
 
-<span class="l-fiero">**Mii desh kiinwenh eshi-miinigot ookomisan migoos, pinaakwaan gaye.**</span>
+<span class="l-fiero">**Mii desh giinwenh eshi-miinigot ookomisan migoos, pinaakwaan gaye.**</span>
 
 <span class="l-eng">*And then it is said that he was given by his grandmother an awl and a comb.*</span>
 
-<span class="l-gloss">Mii desh kiinwenh eshi-miinigot ookomisan migoos (and then, they say, his grandmother gave him an awl), pinaakwaan gaye (and a comb too).</span>
+<span class="l-gloss">Mii desh giinwenh eshi-miinigot ookomisan migoos (and then, they say, his grandmother gave him an awl), pinaakwaan gaye (and a comb too).</span>
 
 <span class="l-orig">(112) Mīdạc ägut:</span>
 
@@ -927,13 +926,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Aiyaangwamisin nozhis (be careful, my grandchild).</span>
 
-<span class="l-orig">(115) Mī, ‘o ᵉ∙o∙’ wändcimīninān tcī∙ā∙badci‘toyạn kīcpîn piminija∙o∙näg päcudec tạnänimạt; mī tci∙ā∙bạgitōyạn kitōdānāming.</span>
+<span class="l-orig">(115) Mī, ‘o ᵉ∙o∙´ wändcimīninān tcī∙ā∙badci‘toyạn kīcpîn piminija∙o∙näg päcudec tạnänimạt; mī tci∙ā∙bạgitōyạn kitōdānāming.</span>
 
-<span class="l-fiero">**Mii, o’o wenji-miininaan chii-aabajitoyan kiishpi(i)n piminizha’oneg pesho desh tanenimat; mii chi-aabagitooyan kitoodaanaaming.**</span>
+<span class="l-fiero">**Mii, o’o wenji-miininaan chii-aabajitoyan kiishpin piminizha’oneg pesho desh tanenimat; mii chi-aabagitooyan kitoodaanaaming.**</span>
 
 <span class="l-eng">*And the reason why I have given you these things is that you may use them, if, when she follows after you, you think her to be near by; then you shall fling them behind you.*</span>
 
-<span class="l-gloss">Mii, o’o wenji-miininaan chii-aabajitoyan (and this is why I give you these, that you may use them) kiishpi(i)n piminizha’oneg pesho desh tanenimat (if, as she follows you, you think her near); mii chi-aabagitooyan kitoodaanaaming (then you shall fling them behind you).</span>
+<span class="l-gloss">Mii, o’o wenji-miininaan chii-aabajitoyan (and this is why I give you these, that you may use them) kiishpin piminizha’oneg pesho desh tanenimat (if, as she follows you, you think her near); mii chi-aabagitooyan kitoodaanaaming (then you shall fling them behind you).</span>
 
 <span class="l-orig">(116) Kīgapagitōn migōs,” udigōn.</span>
 
@@ -951,21 +950,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Kego dash inaabiken (“and do not look back).</span>
 
-<span class="l-orig">(118) Mīgu’ minawā kätōdamạn iwä päji‘k,” udigōn.</span>
+<span class="l-orig">(118) Mīgu´ minawā kätōdamạn iwä päji‘k,” udigōn.</span>
 
-<span class="l-fiero">**Mii go minawaa ketoodaman iwe pezhik,” odigoon.**</span>
+<span class="l-fiero">**Mii go minawaa ketoodaman iwe bezhik,” odigoon.**</span>
 
 <span class="l-eng">*The same also shall you do with the other thing,” he was told,*</span>
 
-<span class="l-gloss">Mii go minawaa ketoodaman iwe pezhik,” odigoon (the same you shall do with the other thing,” he was told),</span>
+<span class="l-gloss">Mii go minawaa ketoodaman iwe bezhik,” odigoon (the same you shall do with the other thing,” he was told),</span>
 
 <span class="l-orig">(119) “Mīdạc tcitä∙u∙tisạt minawā päji‘k kōkumis.”</span>
 
-<span class="l-fiero">**“Mii dash chi-te-otisat minawaa pezhik kookomis.”**</span>
+<span class="l-fiero">**“Mii dash chi-te-otisat minawaa bezhik kookomis.”**</span>
 
 <span class="l-eng">*“And then you will be able to reach another grandmother of yours.”*</span>
 
-<span class="l-gloss">“Mii dash chi-te-otisat minawaa pezhik kookomis.” (“and then you will reach yet another grandmother of yours.”)</span>
+<span class="l-gloss">“Mii dash chi-te-otisat minawaa bezhik kookomis.” (“and then you will reach yet another grandmother of yours.”)</span>
 
 <span class="l-orig">(120) Mīdac äji∙u∙mbiwạnä∙i∙gut ucīmäyänsạn.</span>
 
@@ -1001,11 +1000,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(124) Ningutingidạc kīwäⁿ ạnipapimiba‘tōt, ca∙ī∙gwa awiya onōndawān udōdānāming, igut:</span>
 
-<span class="l-fiero">**Ningoting idash kiiwenh ani-papimibatoot, shaiigwa awiya onoondawaan odoodaanaaming, igot:**</span>
+<span class="l-fiero">**Ningoding idash giiwenh ani-papimibatoot, shaiigwa awiya onoondawaan odoodaanaaming, igot:**</span>
 
 <span class="l-eng">*And once they say, that, as he went running along, he now heard the sound of somebody behind, saying:*</span>
 
-<span class="l-gloss">Ningoting idash kiiwenh ani-papimibatoot (and once, they say, as he went running along) shaiigwa awiya onoondawaan odoodaanaaming (now he heard someone behind him), igot (saying to him):</span>
+<span class="l-gloss">Ningoding idash giiwenh ani-papimibatoot (and once, they say, as he went running along) shaiigwa awiya onoondawaan odoodaanaaming (now he heard someone behind him), igot (saying to him):</span>
 
 <span class="l-orig">(125) “Mī∙i∙mā ayān! nīwīnōnā kicīⁿmä!”</span>
 
@@ -1017,27 +1016,27 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(126) Mīdạc kīⁿwäⁿ aᵘ kwīwisäns mi‘kwändạnk kā∙i∙gut ōsạn kayä ō‘komisạn.</span>
 
-<span class="l-fiero">**Mii dash kiinwenh aw kwiiwisens mikwendank kaa-igot oosan gaye ookomisan.**</span>
+<span class="l-fiero">**Mii dash giinwenh aw gwiiwizens mikwendank kaa-igot oosan gaye ookomisan.**</span>
 
 <span class="l-eng">*And then they say that the boy became mindful of what he had been told by his father and his grandmother.*</span>
 
-<span class="l-gloss">Mii dash kiinwenh aw kwiiwisens mikwendank (and then, they say, the boy remembered) kaa-igot oosan gaye ookomisan (what he had been told by his father and his grandmother).</span>
+<span class="l-gloss">Mii dash giinwenh aw gwiiwizens mikwendank (and then, they say, the boy remembered) kaa-igot oosan gaye ookomisan (what he had been told by his father and his grandmother).</span>
 
 <span class="l-orig">(127) Mīdạc äjiki‘tcisägisit.</span>
 
-<span class="l-fiero">**Mii dash ezhi-kichi-segisit.**</span>
+<span class="l-fiero">**Mii dash ezhi-gichi-segisit.**</span>
 
 <span class="l-eng">*And then he was greatly afraid.*</span>
 
-<span class="l-gloss">Mii dash ezhi-kichi-segisit (and then he was greatly afraid).</span>
+<span class="l-gloss">Mii dash ezhi-gichi-segisit (and then he was greatly afraid).</span>
 
-<span class="l-orig">(128) Mīdec äjimādcība‘tōd; kāwin ā‘pitci ogaskitōsin tcipimipa‘tot mī äjipā‘pītāguskạnk ta‘kināgạn udondanāng.</span>
+<span class="l-orig">(128) Mīdec äjimādcība‘tōd; kāwīn ā‘pitci ogaskitōsīn tcipimipa‘tot mī äjipā‘pītāguskạnk ta‘kināgạn udondanāng.</span>
 
-<span class="l-fiero">**Mii desh ezhi-maajiibatood; gaawiin aapichi ogas[h]kitoosiin chi-pimipatot mii ezhi-paapiitaagoskank takinaagan odondanaang.**</span>
+<span class="l-fiero">**Mii desh ezhi-maajiibatood; gaawiin aapichi ogashkitoosiin chi-pimipatot mii ezhi-paapiitaagoskank takinaagan odondanaang.**</span>
 
 <span class="l-eng">*And then he started to run; not very well was he able to run, for with the cradle-board he would hit his heels.*</span>
 
-<span class="l-gloss">Mii desh ezhi-maajiibatood (and so he began to run); gaawiin aapichi ogas[h]kitoosiin chi-pimipatot (he could not run very well) mii ezhi-paapiitaagoskank takinaagan odondanaang (for the cradle-board kept knocking his heels).</span>
+<span class="l-gloss">Mii desh ezhi-maajiibatood (and so he began to run); gaawiin aapichi ogashkitoosiin chi-pimipatot (he could not run very well) mii ezhi-paapiitaagoskank takinaagan odondanaang (for the cradle-board kept knocking his heels).</span>
 
 <span class="l-orig">(129) Mīdec minawā nōndawāt ogīn igut:</span>
 
@@ -1057,11 +1056,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(131) Nawatcidạc kistcimawiwạg nōndawāwāt ugiwān, kayạ̈dạc wīpisiskitawāsigwa.</span>
 
-<span class="l-fiero">**Nawach idash kischi-mawiwag noondawaawaat ogiwaan, gaye dash wii-pisiskitawaasigwa.**</span>
+<span class="l-fiero">**Nawach idash gichi-mawiwag noondawaawaat ogiwaan, gaye dash wii-pisiskitawaasigwa.**</span>
 
 <span class="l-eng">*And then all the more did they weep when they heard their mother, and they did not want to listen to her.*</span>
 
-<span class="l-gloss">Nawach idash kischi-mawiwag noondawaawaat ogiwaan (and all the more they wept on hearing their mother), gaye dash wii-pisiskitawaasigwa (and they did not want to heed her).</span>
+<span class="l-gloss">Nawach idash gichi-mawiwag noondawaawaat ogiwaan (and all the more they wept on hearing their mother), gaye dash wii-pisiskitawaasigwa (and they did not want to heed her).</span>
 
 <span class="l-orig">(132) Minawā dạc nāsāb udigōn ugīn:</span>
 
@@ -1095,7 +1094,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Kitinikaa’aa kosha,” odigoon (you are surely hurting him,” he was told).</span>
 
-<span class="l-orig">(136) Mīdac kägä‘t änigu‘k pimiba‘tōd, äckạm a‘pitci päcu’ tạnwäwitạmōn.</span>
+<span class="l-orig">(136) Mīdac kägä‘t änigu‘k pimiba‘tōd, äckạm a‘pitci päcu´ tạnwäwitạmōn.</span>
 
 <span class="l-fiero">**Mii dash keget enigok pimibatood, eshkam apichi pesho tanwewitamoon.**</span>
 
@@ -1105,11 +1104,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(137) Mīdạc äji∙ā∙‘pạgitōd migōs, mīdạc kiˢtciwadciᵘ äji∙a∙yāmagat; miziwä migōsiwạn.</span>
 
-<span class="l-fiero">**Mii dash ezhi-aapagitood migoos, mii dash kichi-wajiw ezhi-ayaamagat; miziwe migoosiwan.**</span>
+<span class="l-fiero">**Mii dash ezhi-aapagitood migoos, mii dash gichi-wajiw ezhi-ayaamagat; miziwe migoosiwan.**</span>
 
 <span class="l-eng">*Upon that he flung the awl, and then a great mountain came to be; everywhere over it were awls.*</span>
 
-<span class="l-gloss">Mii dash ezhi-aapagitood migoos (and then he flung the awl), mii dash kichi-wajiw ezhi-ayaamagat (and a great mountain came to be); miziwe migoosiwan (everywhere over it were awls).</span>
+<span class="l-gloss">Mii dash ezhi-aapagitood migoos (and then he flung the awl), mii dash gichi-wajiw ezhi-ayaamagat (and a great mountain came to be); miziwe migoosiwan (everywhere over it were awls).</span>
 
 <span class="l-orig">(138) Mīdạc kīnāwī‘tawāwāt ugiwān.</span>
 
@@ -1129,11 +1128,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(140) Mīdac kīⁿwäⁿ ädạnk migōs:</span>
 
-<span class="l-fiero">**Mii dash kiinwenh edank migoos:**</span>
+<span class="l-fiero">**Mii dash giinwenh edank migoos:**</span>
 
 <span class="l-eng">*Accordingly they say that it said to the awl:*</span>
 
-<span class="l-gloss">Mii dash kiinwenh edank migoos (and then, they say, she said to the awl):</span>
+<span class="l-gloss">Mii dash giinwenh edank migoos (and then, they say, she said to the awl):</span>
 
 <span class="l-orig">(141) “Tawiskawicin, ninō‘pinanāg ninītcānisạg!”</span>
 
@@ -1145,11 +1144,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(142) Kāwīndạc kạnagä ūpisîkitāgusīn.</span>
 
-<span class="l-fiero">**Gaawiin dash kanage oopisi(i)kitaagosiin.**</span>
+<span class="l-fiero">**Gaawiin dash kanage oopisikitaagosiin.**</span>
 
 <span class="l-eng">*But not in the least did (the awls) listen to her.*</span>
 
-<span class="l-gloss">Gaawiin dash kanage oopisi(i)kitaagosiin (but not in the least did they heed her).</span>
+<span class="l-gloss">Gaawiin dash kanage oopisikitaagosiin (but not in the least did they heed her).</span>
 
 <span class="l-orig">(143) Mīdạc minawā änāt: “</span>
 
@@ -1217,11 +1216,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(151) Mīdạc minawā aᵘ kwīwisäns äjiki‘tcimawit nawatc ki‘tcimādcība‘tōd; mīdacigu minawā äjipa‘pitākutūntạnäcing.</span>
 
-<span class="l-fiero">**Mii dash minawaa aw kwiiwisens ezhi-kichi-mawit nawach kichi-maajiibatood; mii dash igo minawaa ezhi-papitaakotoontaneshing.**</span>
+<span class="l-fiero">**Mii dash minawaa aw gwiiwizens ezhi-gichi-mawit nawach gichi-maajiibatood; mii dash igo minawaa ezhi-papitaakotoontaneshing.**</span>
 
 <span class="l-eng">*And then again the boy wept aloud, all the harder did he begin to run; whereupon again he bumped his heels (against the cradleboard).*</span>
 
-<span class="l-gloss">Mii dash minawaa aw kwiiwisens ezhi-kichi-mawit (and then again the boy wept aloud) nawach kichi-maajiibatood (and all the harder he began to run); mii dash igo minawaa ezhi-papitaakotoontaneshing (and again he bumped his heels against the cradle-board).</span>
+<span class="l-gloss">Mii dash minawaa aw gwiiwizens ezhi-gichi-mawit (and then again the boy wept aloud) nawach gichi-maajiibatood (and all the harder he began to run); mii dash igo minawaa ezhi-papitaakotoontaneshing (and again he bumped his heels against the cradle-board).</span>
 
 <span class="l-orig">(152) Mī minawā nōndawāwāt ugīwān, nawạtc päcu’ pīdạnwäwitạminit.</span>
 
@@ -1239,7 +1238,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash minawaa maajiibatoot (and then again he began to run), mii minawaa noondawat ogiin (and once more he heard his mother).</span>
 
-<span class="l-orig">(154) Ā‘pidci päcu’ pidạnwäwitạminit igut:</span>
+<span class="l-orig">(154) Ā‘pidci päcu´ pidạnwäwitạminit igut:</span>
 
 <span class="l-fiero">**Aapiji pesho pidanwewitaminit igot:**</span>
 
@@ -1255,21 +1254,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Piish kishiinme! Niwiinoonaa!” (“bring your little brother! I want to nurse him!”)</span>
 
-<span class="l-orig">(156) Mīdạc nawạtc mādcība‘tōd, mīdạc mīnawā äji∙ā∙pạgitōd udānāng pînā‘kwān, mīdạc pinā‘kwāniwạdci’ᵘ äjipimạtinānig udūtānāming.</span>
+<span class="l-orig">(156) Mīdạc nawạtc mādcība‘tōd, mīdạc mīnawā äji∙ā∙pạgitōd udānāng pînā‘kwān, mīdạc pinā‘kwāniwạdci´ᵘ äjipimạtinānig udūtānāming.</span>
 
-<span class="l-fiero">**Mii dash nawach maajiibatood, mii dash miinawaa ezhi-aapagitood odaanaaang pi(i)naakwaan, mii dash pinaakwaaniwajiw ezhi-pimatinaanig odootaanaaming.**</span>
+<span class="l-fiero">**Mii dash nawach maajiibatood, mii dash miinawaa ezhi-aapagitood odaanaang pinaakwaan, mii dash pinaakwaaniwajiw ezhi-pimatinaanig odootaanaaming.**</span>
 
 <span class="l-eng">*Thereupon all the harder did he start to run, and this time he flung the comb behind, whereupon a mountain-range of combs strung out over the country at the rear.*</span>
 
-<span class="l-gloss">Mii dash nawach maajiibatood (and then all the harder he ran), mii dash miinawaa ezhi-aapagitood odaanaaang pi(i)naakwaan (and this time he flung the comb behind him), mii dash pinaakwaaniwajiw ezhi-pimatinaanig odootaanaaming (and a mountain-range of combs strung out across the country behind).</span>
+<span class="l-gloss">Mii dash nawach maajiibatood (and then all the harder he ran), mii dash miinawaa ezhi-aapagitood odaanaang pinaakwaan (and this time he flung the comb behind him), mii dash pinaakwaaniwajiw ezhi-pimatinaanig odootaanaaming (and a mountain-range of combs strung out across the country behind).</span>
 
 <span class="l-orig">(157) Mīdac äjiki‘tcimādcība‘tōd; kumā‘pi minawā unōndawāwān, agāwa täbi‘tāgusinit.</span>
 
-<span class="l-fiero">**Mii dash ezhi-kichi-maajiibatood; komaapi minawaa onoondawaawaan, agaawa tebitaagosinit.**</span>
+<span class="l-fiero">**Mii dash ezhi-gichi-maajiibatood; komaapi minawaa onoondawaawaan, agaawa tebitaagosinit.**</span>
 
 <span class="l-eng">*And then he began running at full speed; and after a while they again heard her, feebly could she be heard.*</span>
 
-<span class="l-gloss">Mii dash ezhi-kichi-maajiibatood (and then he ran at full speed); komaapi minawaa onoondawaawaan (after a while they again heard her), agaawa tebitaagosinit (faintly she could be heard).</span>
+<span class="l-gloss">Mii dash ezhi-gichi-maajiibatood (and then he ran at full speed); komaapi minawaa onoondawaawaan (after a while they again heard her), agaawa tebitaagosinit (faintly she could be heard).</span>
 
 <span class="l-orig">(158) Kāwin mīnawā wība kạcki∙u∙si awi‘kwä.</span>
 
@@ -1279,7 +1278,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Gaawiin miinawaa wiiba kashki’osi aw ikwe (it was a long time before the woman could pass).</span>
 
-<span class="l-orig">(159) Mīgu minawā nāsāb ädạnk iᵘ wạdci’ᵘ, kāwīndạc upisî‘kitāgusīn; wī‘kādec kạcki∙u∙.</span>
+<span class="l-orig">(159) Mīgu minawā nāsāb ädạnk iᵘ wạdci´ᵘ, kāwīndạc upisî‘kitāgusīn; wī‘kādec kạcki∙u∙.</span>
 
 <span class="l-fiero">**Mii go minawaa naasaab edank iw wajiw, gaawiin dash opisikitaagosiin; wiika desh kashki’o.**</span>
 
@@ -1313,19 +1312,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(163) Mīdạc awä kwīwisäns änigu‘k äjipîmosät, ā‘pidci ayä‘kusit; kayä ā‘pidci cigwa tibikạtînig.</span>
 
-<span class="l-fiero">**Mii dash awe kwiiwisens enigok ezhi-pimoset, aapiji ayekosit; gaye aapiji shigwa tibikatinig.**</span>
+<span class="l-fiero">**Mii dash awe gwiiwizens enigok ezhi-pimoset, aapiji ayekosit; gaye aapiji shigwa tibikatinig.**</span>
 
 <span class="l-eng">*And then the boy walked with hurried step, very tired was he becoming; and it was now growing very dark.*</span>
 
-<span class="l-gloss">Mii dash awe kwiiwisens enigok ezhi-pimoset (and then the boy walked with hurried step), aapiji ayekosit (very tired he was growing); gaye aapiji shigwa tibikatinig (and now it was growing very dark).</span>
+<span class="l-gloss">Mii dash awe gwiiwizens enigok ezhi-pimoset (and then the boy walked with hurried step), aapiji ayekosit (very tired he was growing); gaye aapiji shigwa tibikatinig (and now it was growing very dark).</span>
 
 <span class="l-orig">(164) Ningutingidạc cigwa ạnitätakanābit, owâbạndān wīgiwāmäns; ō‘kumisạn ändānit minawā bäjik.</span>
 
-<span class="l-fiero">**Ningoting idash shigwa ani-tetakanaabit, owaabandaan wiigiwaamens; ookomisan endaanit minawaa bezhik.**</span>
+<span class="l-fiero">**Ningoding idash shigwa ani-tetakanaabit, owaabandaan wiigiwaamens; ookomisan endaanit minawaa bezhik.**</span>
 
 <span class="l-eng">*Once, as he was walking along, he raised his head to look, and saw a little wigwam; it was the home of another grandmother of his.*</span>
 
-<span class="l-gloss">Ningoting idash shigwa ani-tetakanaabit (and once, as he raised his head to look), owaabandaan wiigiwaamens (he saw a little wigwam); ookomisan endaanit minawaa bezhik (the home of yet another grandmother of his).</span>
+<span class="l-gloss">Ningoding idash shigwa ani-tetakanaabit (and once, as he raised his head to look), owaabandaan wiigiwaamens (he saw a little wigwam); ookomisan endaanit minawaa bezhik (the home of yet another grandmother of his).</span>
 
 <span class="l-orig">(165) Ā‘pidci ocawänimigōn.</span>
 
@@ -1409,27 +1408,27 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(175) “Keyābi kīgapiminica∙o∙gowā aᵘ kîgiwā.</span>
 
-<span class="l-fiero">**“Keyaabi kiiga-piminisha’ogowaa aw kigiwaa.**</span>
+<span class="l-fiero">**“Geyaabi kiiga-piminisha’ogowaa aw kigiwaa.**</span>
 
 <span class="l-eng">*“Still yet will you be followed by your mother.*</span>
 
-<span class="l-gloss">“Keyaabi kiiga-piminisha’ogowaa aw kigiwaa (“still yet your mother will pursue you).</span>
+<span class="l-gloss">“Geyaabi kiiga-piminisha’ogowaa aw kigiwaa (“still yet your mother will pursue you).</span>
 
 <span class="l-orig">(176) Awidạc, nōjis, saka‘tāgạn māninān mī ∙a∙ᵘ skwātc käda‘pạginạt; mīdạc tcidämạdābīyạn kistcizībi.</span>
 
-<span class="l-fiero">**Aw idash, noozhis, sakataagan maaninaan mii aw skwaach ked-apaginat; mii dash chi-demadaabiiyan kischi-ziibi.**</span>
+<span class="l-fiero">**Aw idash, noozhis, sakataagan maaninaan mii aw skwaach ked-apaginat; mii dash chi-demadaabiiyan gichi-ziibi.**</span>
 
 <span class="l-eng">*And now, my grandson, this punk which I have given you is the last thing for you to throw; thereupon you will be able to come out upon a great river.*</span>
 
-<span class="l-gloss">Aw idash, noozhis, sakataagan maaninaan (and now, my grandson, this punk I give you) mii aw skwaach ked-apaginat (is the last thing you shall throw); mii dash chi-demadaabiiyan kischi-ziibi (and then you will come out upon a great river).</span>
+<span class="l-gloss">Aw idash, noozhis, sakataagan maaninaan (and now, my grandson, this punk I give you) mii aw skwaach ked-apaginat (is the last thing you shall throw); mii dash chi-demadaabiiyan gichi-ziibi (and then you will come out upon a great river).</span>
 
 <span class="l-orig">(177) Mīcimā tcîwâbạmạt kistci∙u∙si‘kāsi tcîpabā∙ạ∙gumut imā sībing.</span>
 
-<span class="l-fiero">**Miishimaa chi-waabamaat kischi-osikaasi chi-pabaa’agomot imaa siibing.**</span>
+<span class="l-fiero">**Miishimaa chi-waabamaat gichi-osikaasi chi-pabaa’agomot imaa siibing.**</span>
 
 <span class="l-eng">*And there you will see a great horn-grebe that will be moving about over the water in the river there.*</span>
 
-<span class="l-gloss">Miishimaa chi-waabamaat kischi-osikaasi (and there you will see a great horned-grebe) chi-pabaa’agomot imaa siibing (moving about on the water there in the river).</span>
+<span class="l-gloss">Miishimaa chi-waabamaat gichi-osikaasi (and there you will see a great horned-grebe) chi-pabaa’agomot imaa siibing (moving about on the water there in the river).</span>
 
 <span class="l-orig">(178) Mīdạc aᵘ kägạnōnạt kīgạtinā:</span>
 
@@ -1441,9 +1440,9 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(179) ‘Nîmicōmis, skumānā ācawā∙ō∙cicinām, mạnidō nimpiminica∙o∙gonān,’ ” udigōn ōkumisạn.</span>
 
-<span class="l-fiero">**’Nimishoomis, skomaa naa aashawaa’ooshishinaam, manidoo nimpiminisha’ogonaan,’” odigoon ookomisan.**</span>
+<span class="l-fiero">**‘Nimishoomis, skomaa naa aashawaa’ooshishinaam, manidoo nimpiminisha’ogonaan,’” odigoon ookomisan.**</span>
 
-<span class="l-eng">*’O my grandfather! do please carry us across the water, for a manitou is pursuing after us,’” he was (thus) told by his grandmother.*</span>
+<span class="l-eng">*‘O my grandfather! do please carry us across the water, for a manitou is pursuing after us,’” he was (thus) told by his grandmother.*</span>
 
 <span class="l-gloss">‘Nimishoomis, skomaa naa aashawaa’ooshishinaam (‘my grandfather, do please ferry us across), manidoo nimpiminisha’ogonaan,’” odigoon ookomisan (a manidoo is pursuing us,’” he was told by his grandmother).</span>
 
@@ -1457,11 +1456,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(181) “Kīpācidä∙ạ∙mạn dạc iᵘ zībī, mī∙i∙´ᵘ kāwīn minawā käyābi kīgapiminica∙o∙gusīwā.</span>
 
-<span class="l-fiero">**“Kii-pa-aashide’aman dash iw ziibii, mii iw gaawiin minawaa kayaabi kiiga-piminisha’ogosiiwaa.**</span>
+<span class="l-fiero">**“Kii-pa-aashide’aman dash iw ziibii, mii iw gaawiin minawaa geyaabi kiiga-piminisha’ogosiiwaa.**</span>
 
 <span class="l-eng">*“And after you have crossed over the river, then no longer will you be pursued.*</span>
 
-<span class="l-gloss">“Kii-pa-aashide’aman dash iw ziibii (“and after you have crossed over that river), mii iw gaawiin minawaa kayaabi kiiga-piminisha’ogosiiwaa (then no longer will you be pursued).</span>
+<span class="l-gloss">“Kii-pa-aashide’aman dash iw ziibii (“and after you have crossed over that river), mii iw gaawiin minawaa geyaabi kiiga-piminisha’ogosiiwaa (then no longer will you be pursued).</span>
 
 <span class="l-orig">(182) Wäwäni, nōjis, pisindawicîn äjikagī‘kiminān,” udinān.</span>
 
@@ -1473,19 +1472,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(183) Mīdec äjimādcāt kwīwīsäns minawā.</span>
 
-<span class="l-fiero">**Mii desh ezhi-maajaat kwiiwisens minawaa.**</span>
+<span class="l-fiero">**Mii desh ezhi-maajaat gwiiwizens minawaa.**</span>
 
 <span class="l-eng">*And so off started the boy again.*</span>
 
-<span class="l-gloss">Mii desh ezhi-maajaat kwiiwisens minawaa (and so off started the boy again).</span>
+<span class="l-gloss">Mii desh ezhi-maajaat gwiiwizens minawaa (and so off started the boy again).</span>
 
 <span class="l-orig">(184) Ningutingdac minawā ạnipapimiba‘tōd cayīgwa minawā awīya ōnōndawān udōdānāming pīmạmāzināwi‘tāgusinit.</span>
 
-<span class="l-fiero">**Ningoting dash minawaa ani-papimibatood shayiigwa minawaa awiiya oonoondawaan odoodaanaaming piimamaazinaawitaagosinit.**</span>
+<span class="l-fiero">**Ningoding dash minawaa ani-papimibatood shayiigwa minawaa awiiya oonoondawaan odoodaanaaming piimamaazinaawitaagosinit.**</span>
 
 <span class="l-eng">*And once more, as he went running along, he heard again the sound of her coming behind with the clank of bones striking together.*</span>
 
-<span class="l-gloss">Ningoting dash minawaa ani-papimibatood (and once more, as he went running along) shayiigwa minawaa awiiya oonoondawaan odoodaanaaming (now again he heard someone behind him) piimamaazinaawitaagosinit (coming with the clatter of bones).</span>
+<span class="l-gloss">Ningoding dash minawaa ani-papimibatood (and once more, as he went running along) shayiigwa minawaa awiiya oonoondawaan odoodaanaaming (now again he heard someone behind him) piimamaazinaawitaagosinit (coming with the clatter of bones).</span>
 
 <span class="l-orig">(185) Pa‘kic pîpīpāginit, igut:</span>
 
@@ -1513,11 +1512,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(188) Mīdạc kägä‘t kistci∙änigu‘k mādcīpa‘tōd aᵘ kwīwisäns; ki‘tcimawit kayä, ki‘känimāt ugīn nō‘pinaca∙o∙gut; kayädạc mi‘kwändạnk kīnisimint ugiwān, kayädac kusāwāt.</span>
 
-<span class="l-fiero">**Mii dash keget kischi-enigok maajiipatood aw kwiiwisens; kichi-mawit gaye, kikenimat ogiin noopinasha’ogot; gaye dash mikwendank kii-nisimint ogiwaan, gaye dash kosaawaat.**</span>
+<span class="l-fiero">**Mii dash keget gichi-enigok maajiipatood aw gwiiwizens; gichi-mawit gaye, kikenimat ogiin noopinasha’ogot; gaye dash mikwendank kii-nisimint ogiwaan, gaye dash kosaawaat.**</span>
 
 <span class="l-eng">*And then, in truth, with great speed did the boy start running; and loud was he crying, for he knew that it was his mother who was pursuing him; and he was mindful tc© that their mother had been killed, and they were afraid of her.*</span>
 
-<span class="l-gloss">Mii dash keget kischi-enigok maajiipatood aw kwiiwisens (and then truly with great speed the boy ran); kichi-mawit gaye (and weeping aloud too), kikenimat ogiin noopinasha’ogot (for he knew it was his mother pursuing him); gaye dash mikwendank kii-nisimint ogiwaan (and he remembered that their mother had been killed), gaye dash kosaawaat (and they were afraid of her).</span>
+<span class="l-gloss">Mii dash keget gichi-enigok maajiipatood aw gwiiwizens (and then truly with great speed the boy ran); gichi-mawit gaye (and weeping aloud too), kikenimat ogiin noopinasha’ogot (for he knew it was his mother pursuing him); gaye dash mikwendank kii-nisimint ogiwaan (and he remembered that their mother had been killed), gaye dash kosaawaat (and they were afraid of her).</span>
 
 <span class="l-orig">(189) Minawā ōnōndawān.</span>
 
@@ -1577,11 +1576,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(196) “Pīc kicīmäⁿ!</span>
 
-<span class="l-fiero">**“Piish kishiimeh!**</span>
+<span class="l-fiero">**“Piish kishiimenh!**</span>
 
 <span class="l-eng">*“Bring me your little brother!*</span>
 
-<span class="l-gloss">“Piish kishiimeh! (“bring me your little brother!)</span>
+<span class="l-gloss">“Piish kishiimenh! (“bring me your little brother!)</span>
 
 <span class="l-orig">(197) Nīwīnōnā kicīⁿmä!”</span>
 
@@ -1593,11 +1592,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(198) Mīdạc aᵘ kwīwisäns gägä‘t ki‘tcisāgisit.</span>
 
-<span class="l-fiero">**Mii dash aw kwiiwisens geget kichi-segisit.**</span>
+<span class="l-fiero">**Mii dash aw gwiiwizens geget gichi-segisit.**</span>
 
 <span class="l-eng">*And then the boy, in truth, was greatly afraid.*</span>
 
-<span class="l-gloss">Mii dash aw kwiiwisens geget kichi-segisit (and then the boy was truly greatly afraid).</span>
+<span class="l-gloss">Mii dash aw gwiiwizens geget gichi-segisit (and then the boy was truly greatly afraid).</span>
 
 <span class="l-orig">(199) Kägā udōnändān kā∙i∙gut ōkumisạn undci wägunän ni‘tạm kätapạgi‘tōd.</span>
 
@@ -1705,11 +1704,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(212) Mīdạc ninguting minawā kwīwisäns ạnipapimiba‘tōd.</span>
 
-<span class="l-fiero">**Mii dash ningoting minawaa kwiiwisens ani-papimibatood.**</span>
+<span class="l-fiero">**Mii dash ningoding minawaa gwiiwizens ani-papimibatood.**</span>
 
 <span class="l-eng">*And so again the boy went running along the way.*</span>
 
-<span class="l-gloss">Mii dash ningoting minawaa kwiiwisens ani-papimibatood (and so once again the boy went running along).</span>
+<span class="l-gloss">Mii dash ningoding minawaa gwiiwizens ani-papimibatood (and so once again the boy went running along).</span>
 
 <span class="l-orig">(213) Cayīgwa minawā awiya pi‘täbi‘tāgusiwạn udōdānāmiwāng, iguwāt tibickō udānāng kā∙i∙ni‘tạmowāt:</span>
 
@@ -1737,11 +1736,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(216) Mīdạc aᵘ kwīwisäns nawạtc ki‘tci änigu‘k pimiba‘tōd.</span>
 
-<span class="l-fiero">**Mii dash aw kwiiwisens nawach kichi-enigok pimibatood.**</span>
+<span class="l-fiero">**Mii dash aw gwiiwizens nawach gichi-enigok pimibatood.**</span>
 
 <span class="l-eng">*Thereupon the boy with even greater speed did run.*</span>
 
-<span class="l-gloss">Mii dash aw kwiiwisens nawach kichi-enigok pimibatood (thereupon the boy ran with even greater speed).</span>
+<span class="l-gloss">Mii dash aw gwiiwizens nawach gichi-enigok pimibatood (thereupon the boy ran with even greater speed).</span>
 
 <span class="l-orig">(217) Minawā unōndawān:</span>
 
@@ -1833,11 +1832,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(228) Mīdạc kägä‘t ki‘tciwạdci´ᵘ ickutä pijicik täta‘kamaya∙ī∙ upi‘kwanāwạng.</span>
 
-<span class="l-fiero">**Mii dash keget kichi-wajiw ishkote pizhishik tetakamaya’ii opikwanaawang.**</span>
+<span class="l-fiero">**Mii dash keget gichi-wajiw ishkote pizhishik tetakamaya’ii opikwanaawang.**</span>
 
 <span class="l-eng">*And verily there was a great mountain of fire everywhere, stretching from one end of the world to the other at their rear.*</span>
 
-<span class="l-gloss">Mii dash keget kichi-wajiw ishkote (and verily there was a great mountain of fire) pizhishik tetakamaya’ii opikwanaawang (everywhere stretching across the whole land at their rear).</span>
+<span class="l-gloss">Mii dash keget gichi-wajiw ishkote (and verily there was a great mountain of fire) pizhishik tetakamaya’ii opikwanaawang (everywhere stretching across the whole land at their rear).</span>
 
 <span class="l-orig">(229) Mīdạc mādcāwāt minawā änigu‘k.</span>
 
@@ -1849,27 +1848,27 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(230) Mīdạc ‘aᵘ kwīwisäns nōndawāt ugīn mạdwäki‘tcimawinit.</span>
 
-<span class="l-fiero">**Mii dash aw kwiiwisens noondawaat ogiin madwe-kichi-mawinit.**</span>
+<span class="l-fiero">**Mii dash aw gwiiwizens noondawaat ogiin madwe-gichi-mawinit.**</span>
 
 <span class="l-eng">*And now the boy heard his mother wailing with a loud voice.*</span>
 
-<span class="l-gloss">Mii dash aw kwiiwisens noondawaat ogiin madwe-kichi-mawinit (and now the boy heard his mother wailing aloud).</span>
+<span class="l-gloss">Mii dash aw gwiiwizens noondawaat ogiin madwe-gichi-mawinit (and now the boy heard his mother wailing aloud).</span>
 
 <span class="l-orig">(231) Awạntcicidạc mādcā, kayä wīn ki‘tcimawit.</span>
 
-<span class="l-fiero">**Awanchish idash maajaa, gaye wiin kichi-mawit.**</span>
+<span class="l-fiero">**Awanchish idash maajaa, gaye wiin gichi-mawit.**</span>
 
 <span class="l-eng">*All the faster then he went, he too was weeping aloud.*</span>
 
-<span class="l-gloss">Awanchish idash maajaa (all the faster then he went), gaye wiin kichi-mawit (he too weeping aloud).</span>
+<span class="l-gloss">Awanchish idash maajaa (all the faster then he went), gaye wiin gichi-mawit (he too weeping aloud).</span>
 
 <span class="l-orig">(232) Minawā onōndawān, agāwa täbi‘tāgusinit mạdwägistcinạnīnawạdämunit.</span>
 
-<span class="l-fiero">**Minawaa onoondawaan, agaawa tebitaagosinit madwe-gischi-naniinawademonit.**</span>
+<span class="l-fiero">**Minawaa onoondawaan, agaawa tebitaagosinit madwe-gichi-naniinawademonit.**</span>
 
 <span class="l-eng">*Once more he heard her, barely could the sound of her voice be heard as she wailed in deep grief.*</span>
 
-<span class="l-gloss">Minawaa onoondawaan (once more he heard her), agaawa tebitaagosinit madwe-gischi-naniinawademonit (barely could her voice be heard as she wailed in deep grief).</span>
+<span class="l-gloss">Minawaa onoondawaan (once more he heard her), agaawa tebitaagosinit madwe-gichi-naniinawademonit (barely could her voice be heard as she wailed in deep grief).</span>
 
 <span class="l-orig">(233) Mīdạc kayä wīnawā ā‘pidci nạninawadämuwạg.</span>
 
@@ -1881,11 +1880,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(234) Mīdạc kīwäⁿ awi‘kwä äjikīwitāskạng iᵘ ckutä pīnic kī∙u∙ditạnk umi‘kạnāni unītcānisaˢ.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw ikwe ezhikiiwitaaskang iw shkote piinish kii-oditank omikanaani oniichaanisa’.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw ikwe ezhikiiwitaaskang iw shkote piinish kii-oditank omikanaani oniichaanisa’.**</span>
 
 <span class="l-eng">*And then they say that the woman passed round the boundaries of the fire till she came to the path of her children.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw ikwe ezhikiiwitaaskang iw shkote (and then, they say, the woman went round the boundary of the fire) piinish kii-oditank omikanaani oniichaanisa’ (until she reached her children’s path).</span>
+<span class="l-gloss">Mii dash giiwenh aw ikwe ezhikiiwitaaskang iw shkote (and then, they say, the woman went round the boundary of the fire) piinish kii-oditank omikanaani oniichaanisa’ (until she reached her children’s path).</span>
 
 <span class="l-orig">(235) Igi´widạc ạbinōtcīyạg kīmạdāpīwạg zīpi.</span>
 
@@ -1905,11 +1904,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(237) Mīdạc kägä‘t äjikanōnāt kwīwisäns īni´ᵘ uzi‘kāsiwạn:</span>
 
-<span class="l-fiero">**Mii dash keget ezhi-kanoonaat kwiiwisens iiniw ozikaasiwan:**</span>
+<span class="l-fiero">**Mii dash keget ezhi-kanoonaat gwiiwizens iiniw ozikaasiwan:**</span>
 
 <span class="l-eng">*And then in truth the boy spoke to Horn-Grebe:*</span>
 
-<span class="l-gloss">Mii dash keget ezhi-kanoonaat kwiiwisens iiniw ozikaasiwan (and then truly the boy spoke to Horn-Grebe):</span>
+<span class="l-gloss">Mii dash keget ezhi-kanoonaat gwiiwizens iiniw ozikaasiwan (and then truly the boy spoke to Horn-Grebe):</span>
 
 <span class="l-orig">(238) “Skumānā, nimicōmis, ājawa∙o∙cicinān!</span>
 
@@ -2000,8 +1999,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash enaat (and then he said to him):</span>
 
-<span class="l-orig">(249) “Ānic kä∙i∙cikạcki‘tōyān tci∙u∙mbōmạk nicīmäⁿ kīcpîn pạgitōmạk?” udinān.  
-“</span>
+<span class="l-orig">(249) “Ānīc kä∙i∙cikạcki‘tōyān tci∙u∙mbōmạk nicīmäⁿ kīcpîn pạgitōmạk?” udinān. “</span>
 
 <span class="l-fiero">**“Aaniish ke-ishi-kashkitooyaan chi-omboomak nishiimenh kiishpin pagitoomak?” odinaan.**</span>
 
@@ -2049,7 +2047,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Gaawiin ta-pangishinzii,” odigoon (“he will not fall,” he was told).</span>
 
-<span class="l-orig">(255) Mīdạc kägä‘t käga‘pī kā∙i∙jipạgitōmāt wäwäni.</span>
+<span class="l-orig">(255) Mīdạc kägä´t käga‘pī kā∙i∙jipạgitōmāt wäwäni.</span>
 
 <span class="l-fiero">**Mii dash keget kegapii kaa-izhi-pagitoomaat weweni.**</span>
 
@@ -2067,11 +2065,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(257) Mīdạc aᵘ zäzī‘kisit kwīwisäns kā∙i∙jiki‘tci∙ā∙nzanāmut.</span>
 
-<span class="l-fiero">**Mii dash aw zeziikisit kwiiwisens kaa-izhi-kichi-aanzanaamot.**</span>
+<span class="l-fiero">**Mii dash aw zeziikisit gwiiwizens kaa-izhi-gichi-aanzanaamot.**</span>
 
 <span class="l-eng">*And then the older boy drew a deep sigh.*</span>
 
-<span class="l-gloss">Mii dash aw zeziikisit kwiiwisens kaa-izhi-kichi-aanzanaamot (and then the older boy drew a deep sigh).</span>
+<span class="l-gloss">Mii dash aw zeziikisit gwiiwizens kaa-izhi-gichi-aanzanaamot (and then the older boy drew a deep sigh).</span>
 
 <span class="l-orig">(258) Pä‘kic ināt umicōmisạn:</span>
 
@@ -2121,7 +2119,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash egot (therefore he was told):</span>
 
-<span class="l-orig">(264) ‘Āᵘ! pōsi’, kägu dạc wīn tāngawigạnäckawici‘kän!” udinān.</span>
+<span class="l-orig">(264) ‘Āᵘ! pōsi´, kägu dạc wīn tāngawigạnäckawici‘kän!” udinān.</span>
 
 <span class="l-fiero">**“Aaw! poosi, kego dash wiin taangawiganeshkawishiken!” odinaan.**</span>
 
@@ -2163,13 +2161,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(269) “Mīci∙u∙mbōm kicīⁿmäⁿ!” udigōn.</span>
 
-<span class="l-fiero">**“Mii ishi-omboom kishiinmneh!” odigoon.**</span>
+<span class="l-fiero">**“Mii ishi-omboom kishiinmenh!” odigoon.**</span>
 
 <span class="l-eng">*“Now, then! put your little brother upon your back!” he was told.*</span>
 
-<span class="l-gloss">“Mii ishi-omboom kishiinmneh!” odigoon (“now then, take your little brother up on your back!” he was told).</span>
+<span class="l-gloss">“Mii ishi-omboom kishiinmenh!” odigoon (“now then, take your little brother up on your back!” he was told).</span>
 
-<span class="l-orig">(270) Mīdạc nawạtc kīwäni‘pạnisit kī∙u∙mbōmāt ucīmäⁿyänsạn, pī‘tcidạc kā∙i∙jisạnạgisit wīpạgitōmāt ni’‘tạm.</span>
+<span class="l-orig">(270) Mīdạc nawạtc kīwäni‘pạnisit kī∙u∙mbōmāt ucīmäⁿyänsạn, pī‘tcidạc kā∙i∙jisạnạgisit wīpạgitōmāt ni´‘tạm.</span>
 
 <span class="l-fiero">**Mii dash nawach kii-wenipanisit kii-omboomaat oshiimenyensan, piich idash kaa-izhi-sanagisit wii-pagitoomaat nitam.**</span>
 
@@ -2193,7 +2191,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Ningoding idash minawaa ikwe gaye wiin pi-tagwishinoogopan imaa ziibing (and so next the woman herself arrived there at the river).</span>
 
-<span class="l-orig">(273) Mīdạc kayä ticickō ājiwâbạmāt īni’ᵘ uzi‘kāsiwạn, ināt:</span>
+<span class="l-orig">(273) Mīdạc kayä ticickō ājiwâbạmāt īni´ᵘ uzi‘kāsiwạn, ināt:</span>
 
 <span class="l-fiero">**Mii dash gaye tishishkoo ezhi-waabamaat iiniw ozikaasiwan, inaat:**</span>
 
@@ -2244,11 +2242,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(279) ‘Āᵘ!” udinān; “mäskut kīgapāpōtcikana‘kawā nindạpisku‘kä,” udinān.</span>
 
-<span class="l-fiero">**“Aaw!” odinaan; “mes[h]kot kiiga-paapoochikanakawe nindapiskoke,” odinaan.**</span>
+<span class="l-fiero">**“Aaw!” odinaan; “meshkot kiiga-paapoochikanakawe nindapiskoke,” odinaan.**</span>
 
 <span class="l-eng">*“Come!” she said to him; “and in return you may have your desires with me.”*</span>
 
-<span class="l-gloss">“Aaw!” odinaan (“come!” she said to him); “mes[h]kot kiiga-paapoochikanakawe nindapiskoke,” odinaan (“in return you may have your way with me,” she said to him).</span>
+<span class="l-gloss">“Aaw!” odinaan (“come!” she said to him); “meshkot kiiga-paapoochikanakawe nindapiskoke,” odinaan (“in return you may have your way with me,” she said to him).</span>
 
 <span class="l-orig">(280) “Awās kāwin,” udinān.  
 “</span>
@@ -2268,7 +2266,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Aaw, wewiiptaan!” (“come, hurry up!”)</span>
 
-<span class="l-orig">(282) ‘A‘āᵘsa’!” udinān.</span>
+<span class="l-orig">(282) ‘A‘āᵘsa´!” udinān.</span>
 
 <span class="l-fiero">**“A’aaw sa!” odinaan.**</span>
 
@@ -2308,7 +2306,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Mii ji-tebikwaashkoniyaan,” inendam (“now I shall be able to leap ashore,” she thought).</span>
 
-<span class="l-orig">(287) Mīdec äjipācitawāt īni’ᵘ usa‘kāsiwạn pä‘kic ạnikwāckunit.</span>
+<span class="l-orig">(287) Mīdec äjipācitawāt īni´ᵘ usa‘kāsiwạn pä‘kic ạnikwāckunit.</span>
 
 <span class="l-fiero">**Mii dash ezhi-paashitawaat iiniw osakaasiwan pekish ani-kwaashkonit.**</span>
 
@@ -2318,11 +2316,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(288) Mīdạc äjipạngicing awi‘kwä nānāwaya∙ī∙ki‘tcigạming.</span>
 
-<span class="l-fiero">**Mii dash ezhi-pangishing aw ikwe naanaawaya’ii kichi-gaming.**</span>
+<span class="l-fiero">**Mii dash ezhi-pangishing aw ikwe naanaawaya’ii gichi-gaming.**</span>
 
 <span class="l-eng">*And then down fell the woman into the middle of the sea.*</span>
 
-<span class="l-gloss">Mii dash ezhi-pangishing aw ikwe naanaawaya’ii kichi-gaming (and then down fell the woman into the middle of the great water).</span>
+<span class="l-gloss">Mii dash ezhi-pangishing aw ikwe naanaawaya’ii gichi-gaming (and then down fell the woman into the middle of the great water).</span>
 
 <span class="l-orig">(289) Mīdạc imā ickwāyatcimint awi‘kwä.</span>
 
@@ -2334,19 +2332,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(290) Ningudingsa kīⁿwäⁿ ạnipạpimosät aᵘ kwīwisäns ạnipapimōmāt ucīmäyänsạn, omaiyaginān äjināgwạtinig, mi‘tigōn kayä omaiyạginawān.</span>
 
-<span class="l-fiero">**Ningoding sa kiinwenh ani-papimoset aw kwiiwisens ani-papimoomaat oshiimeyensan, omaiyaginaan ezhinaagwatinig, mitigoon gaye omaiyaginawaan.**</span>
+<span class="l-fiero">**Ningoding sa giinwenh ani-papimoset aw gwiiwizens ani-papimoomaat oshiimeyensan, omaiyaginaan ezhinaagwatinig, mitigoon gaye omaiyaginawaan.**</span>
 
 <span class="l-eng">*Once on a time, they say, as the boy was journeying along with his little brother upon his back, he marvelled at the sight of things, and the trees looked unfamiliar.*</span>
 
-<span class="l-gloss">Ningoting sa kiinwenh ani-papimoset aw kwiiwisens (once on a time, they say, as the boy was walking along) ani-papimoomaat oshiimeyensan (carrying his little brother on his back), omaiyaginaan ezhinaagwatinig (he marveled at how things looked), mitigoon gaye omaiyaginawaan (and the trees seemed strange to him too).</span>
+<span class="l-gloss">Ningoding sa giinwenh ani-papimoset aw gwiiwizens (once on a time, they say, as the boy was walking along) ani-papimoomaat oshiimeyensan (carrying his little brother on his back), omaiyaginaan ezhinaagwatinig (he marveled at how things looked), mitigoon gaye omaiyaginawaan (and the trees seemed strange to him too).</span>
 
 <span class="l-orig">(291) Mīdạc kīwäⁿ änändạnk:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh enendank:**</span>
+<span class="l-fiero">**Mii dash giiwenh enendank:**</span>
 
 <span class="l-eng">*And then they say that he thought:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh enendank (and then, they say, he thought):</span>
+<span class="l-gloss">Mii dash giiwenh enendank (and then, they say, he thought):</span>
 
 <span class="l-orig">(292) “Mīguca maiyagināgusiwāt ogōᵘ mi‘tigōg!”</span>
 
@@ -2358,11 +2356,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(293) Wayībạgwa mạtābīkiˢ tcigami.</span>
 
-<span class="l-fiero">**Wayiiba gwa mataabii kischi-gami.**</span>
+<span class="l-fiero">**Wayiiba gwa mataabii gichi-gami.**</span>
 
 <span class="l-eng">*And in a little while he came out upon the sea.*</span>
 
-<span class="l-gloss">Wayiiba gwa mataabii kischi-gami (and in a little while he came out upon the sea).</span>
+<span class="l-gloss">Wayiiba gwa mataabii gichi-gami (and in a little while he came out upon the sea).</span>
 
 <span class="l-orig">(294) Mīdec imā mi‘tāwạngāning asînīsi‘kāni kayä.</span>
 
@@ -2374,11 +2372,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(295) Mīdec änändạnk ᵉaᵘ kwīwisäns:</span>
 
-<span class="l-fiero">**Mii desh enendank ’aw kwiiwisens:**</span>
+<span class="l-fiero">**Mii desh enendank ’aw gwiiwizens:**</span>
 
 <span class="l-eng">*And then thought the boy:*</span>
 
-<span class="l-gloss">Mii desh enendank ’aw kwiiwisens (and then the boy thought):</span>
+<span class="l-gloss">Mii desh enendank ’aw gwiiwizens (and then the boy thought):</span>
 
 <span class="l-orig">(296) “Ningapạgitōmā ōmāⁿ nicīmäyäns.</span>
 
@@ -2390,13 +2388,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(297) Ningawạtạmi∙ā∙,” inändạm kīwäⁿ.</span>
 
-<span class="l-fiero">**Ninga-watami’aa,” inendam kiiwenh.**</span>
+<span class="l-fiero">**Ninga-watami’aa,” inendam giiwenh.**</span>
 
 <span class="l-eng">*I will play with him to amuse him,” was his thought, so they say.*</span>
 
-<span class="l-gloss">Ninga-watami’aa,” inendam kiiwenh (I will amuse him,” he thought, so they say).</span>
+<span class="l-gloss">Ninga-watami’aa,” inendam giiwenh (I will amuse him,” he thought, so they say).</span>
 
-<span class="l-orig">(298) Mīdec kägä‘t äjipạgitōmāt; micimā äji∙ā∙swā‘ku‘kimāt kayä odābā∙ạ∙mowān kayä ani‘käsini.</span>
+<span class="l-orig">(298) Mīdec kägä‘t äjipạgitōmāt; mīcimā äji∙ā∙swā‘ku‘kimāt kayä odābā∙ạ∙mowān kayä ani‘käsini.</span>
 
 <span class="l-fiero">**Mii desh keget ezhi-pagitoomaat; miish imaa ezhi-aaswaakokimaat gaye odaabaa’amowaan gaye anikesini.**</span>
 
@@ -2420,21 +2418,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash imaa eyeyaawaat (and there they stayed), owadami’aat oshimeyensan (and he amused his little brother).</span>
 
-<span class="l-orig">(301) Ninguting ōma a∙e∙yāwāt owạndamīwä∙ā∙t ucīmäyänsạn pānimāgu awiya pạtcäkisänit imā ayā tibicko; a‘kíwäⁿzīyạn.</span>
+<span class="l-orig">(301) Ninguting ōma a∙e∙yāwāt owạndamīwä∙ā∙t ucīmäyänsạn pānimāgu awiya pạtcäkisänit imā ayā tibicko; a‘kiwäⁿzīyạn.</span>
 
-<span class="l-fiero">**Ningoting ooma a’eyaawaat owandamiiwe’aat oshimeyensan paanimaa go awiya pachekisenit imaa ayaa tibishko; akiwenziiyan.**</span>
+<span class="l-fiero">**Ningoding ooma a’eyaawaat owandamiiwe’aat oshimeyensan paanimaa go awiya pachekisenit imaa ayaa tibishko; akiwenziiyan.**</span>
 
 <span class="l-eng">*Once while they were continuing there, and he was keeping company with his little brother to prevent him from crying, of a sudden somebody slid inshore with his canoe directly opposite to where they were; it was an old man.*</span>
 
-<span class="l-gloss">Ningoting ooma a’eyaawaat owandamiiwe’aat oshimeyensan (once, while they were there and he was keeping his little brother company) paanimaa go awiya pachekisenit imaa ayaa tibishko (when of a sudden someone slid inshore directly opposite where they were); akiwenziiyan (it was an old man).</span>
+<span class="l-gloss">Ningoding ooma a’eyaawaat owandamiiwe’aat oshimeyensan (once, while they were there and he was keeping his little brother company) paanimaa go awiya pachekisenit imaa ayaa tibishko (when of a sudden someone slid inshore directly opposite where they were); akiwenziiyan (it was an old man).</span>
 
 <span class="l-orig">(302) Mīdạc kīwäⁿ ägōwāt:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh egoowaat:**</span>
+<span class="l-fiero">**Mii dash giiwenh egoowaat:**</span>
 
 <span class="l-eng">*Thereupon it is said that they were asked:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh egoowaat (thereupon, they say, they were asked):</span>
+<span class="l-gloss">Mii dash giiwenh egoowaat (thereupon, they say, they were asked):</span>
 
 <span class="l-orig">(303) “Wägunen wäci‘tōyäg imā?” udigōwān.</span>
 
@@ -2446,13 +2444,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(304) Udinān dạc kwīwisäns:</span>
 
-<span class="l-fiero">**Odinaan dash kwiiwisens:**</span>
+<span class="l-fiero">**Odinaan dash gwiiwizens:**</span>
 
 <span class="l-eng">*Whereupon the boy answered him:*</span>
 
-<span class="l-gloss">Odinaan dash kwiiwisens (whereupon the boy answered him):</span>
+<span class="l-gloss">Odinaan dash gwiiwizens (whereupon the boy answered him):</span>
 
-<span class="l-orig">(305) “Kāwin kägō, nintōtamino∙ā∙ nicīmäyäns mawit,” udinān.</span>
+<span class="l-orig">(305) “Kāwīn kägō, nintōtamino∙ā∙ nicīmäyäns mawit,” udinān.</span>
 
 <span class="l-fiero">**“Gaawiin kegoo, nintootamino’aa nishiimeyens mawit,” odinaan.**</span>
 
@@ -2462,11 +2460,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(306) Mīdec kīwäⁿ ‘aᵘ a‘kwäⁿzī änāt:</span>
 
-<span class="l-fiero">**Mii desh kiiwenh aw akiwenzii enaat:**</span>
+<span class="l-fiero">**Mii desh giiwenh aw akiwenzii enaat:**</span>
 
 <span class="l-eng">*And then they say that the old man said to him:*</span>
 
-<span class="l-gloss">Mii desh kiiwenh aw akiwenzii enaat (and then, they say, the old man said to him):</span>
+<span class="l-gloss">Mii desh giiwenh aw akiwenzii enaat (and then, they say, the old man said to him):</span>
 
 <span class="l-orig">(307) “Nackä ōgowä ạsînisạg, uniciciwạg!” udinān.</span>
 
@@ -2476,13 +2474,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Nashke oogowe asinisag, onishishiwag!” odinaan (“just look at these pebbles, they are pretty!” he said to him).</span>
 
-<span class="l-orig">(308) Awidạc kīwäⁿ kwīwisäns kāwin wī∙i∙jāsī.</span>
+<span class="l-orig">(308) Awidạc kīwäⁿ kwīwisäns kāwīn wī∙i∙jāsī.</span>
 
-<span class="l-fiero">**Aw idash kiiwenh kwiiwisens gaawiin wii-izhaasii.**</span>
+<span class="l-fiero">**Aw idash giiwenh gwiiwizens gaawiin wii-izhaasii.**</span>
 
 <span class="l-eng">*And it is said that the boy was not willing to go.*</span>
 
-<span class="l-gloss">Aw idash kiiwenh kwiiwisens gaawiin wii-izhaasii (but the boy, they say, did not want to go).</span>
+<span class="l-gloss">Aw idash giiwenh gwiiwizens gaawiin wii-izhaasii (but the boy, they say, did not want to go).</span>
 
 <span class="l-orig">(309) “Mīgū täpisäwāt ōgoᵘ asînisạg wädạminwānāt,” udinān.</span>
 
@@ -2500,13 +2498,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Nawach oogawe onishishiwag,” odigoon (“but these are prettier,” he was told).</span>
 
-<span class="l-orig">(311) Ānīc kāwin kīwäⁿ kwīwisäns wī∙i∙jāsī.</span>
+<span class="l-orig">(311) Ānīc kāwīn kīwäⁿ kwīwisäns wī∙i∙jāsī.</span>
 
-<span class="l-fiero">**Aaniish gaawiin kiiwenh kwiiwisens wii-izhaasii.**</span>
+<span class="l-fiero">**Aaniish gaawiin giiwenh gwiiwizens wii-izhaasii.**</span>
 
 <span class="l-eng">*Now, they say that the boy was not anxious to go over there.*</span>
 
-<span class="l-gloss">Aaniish gaawiin kiiwenh kwiiwisens wii-izhaasii (now the boy, they say, did not want to go over there).</span>
+<span class="l-gloss">Aaniish gaawiin giiwenh gwiiwizens wii-izhaasii (now the boy, they say, did not want to go over there).</span>
 
 <span class="l-orig">(312) “Nackä ōgōᵘ, pināsi‘kaᵘ!” udigōn.</span>
 
@@ -2519,13 +2517,13 @@ THE ORPHANS AND MASHOOS
 <span class="l-orig">(313) “Kāwin,” udinān kwīwisäns; “tamawi nicīmäyäns pasigwīyān,” udinān.  
 “</span>
 
-<span class="l-fiero">**“Gaawiin,” odinaan kwiiwisens; “ta-mawi nishiimeyens pasigwiiyaan,” odinaan.**</span>
+<span class="l-fiero">**“Gaawiin,” odinaan gwiiwizens; “ta-mawi nishiimeyens pasigwiiyaan,” odinaan.**</span>
 
 <span class="l-eng">*“No,” said the boy to him; “to crying will go my little brother if I rise to my feet,” said he to him.*</span>
 
-<span class="l-gloss">“Gaawiin,” odinaan kwiiwisens (“no,” said the boy to him); “ta-mawi nishiimeyens pasigwiiyaan,” odinaan (“my little brother will cry if I stand up,” he said to him).</span>
+<span class="l-gloss">“Gaawiin,” odinaan gwiiwizens (“no,” said the boy to him); “ta-mawi nishiimeyens pasigwiiyaan,” odinaan (“my little brother will cry if I stand up,” he said to him).</span>
 
-<span class="l-orig">(314) ‘Ā, kāwin!” udinān; “kāwin tamāwisī,” udigōn īni’ᵘ a‘kiwänjī∙i∙cạn.</span>
+<span class="l-orig">(314) ‘Ā, kāwin!” udinān; “kāwīn tamāwisī,” udigōn īni’ᵘ a‘kiwänjī∙i∙cạn.</span>
 
 <span class="l-fiero">**“Aa, gaawiin!” odinaan; “gaawiin ta-maawisii,” odigoon iiniw akiwenzhii’ishan.**</span>
 
@@ -2543,27 +2541,27 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(316) Mīdạc käga‘pi aᵘ kwīwisäns äjipasigwīt kạgwānisa‘kwäwạn dạc ucīmäⁿyänsạn mawinit.</span>
 
-<span class="l-fiero">**Mii dash kegapi aw kwiiwisens ezhi-pasigwiit kagwaanisakwewan dash oshiimenyensan mawinit.**</span>
+<span class="l-fiero">**Mii dash kegapi aw gwiiwizens ezhi-pasigwiit kagwaanisakwewan dash oshiimenyensan mawinit.**</span>
 
 <span class="l-eng">*And then at last, when the boy rose to his feet, with a fearful scream his little brother gave vent.*</span>
 
-<span class="l-gloss">Mii dash kegapi aw kwiiwisens ezhi-pasigwiit (and then at last, when the boy rose to his feet) kagwaanisakwewan dash oshiimenyensan mawinit (his little brother gave a fearful scream).</span>
+<span class="l-gloss">Mii dash kegapi aw gwiiwizens ezhi-pasigwiit (and then at last, when the boy rose to his feet) kagwaanisakwewan dash oshiimenyensan mawinit (his little brother gave a fearful scream).</span>
 
 <span class="l-orig">(317) Mīdec minawā näyāp äjiwawänạpit.</span>
 
-<span class="l-fiero">**Mii desh minawaa neyaap azhi-wawenapit.**</span>
+<span class="l-fiero">**Mii desh minawaa neyaap ezhi-wawenapit.**</span>
 
 <span class="l-eng">*And then down again he sat.*</span>
 
-<span class="l-gloss">Mii desh minawaa neyaap azhi-wawenapit (and then down again he sat).</span>
+<span class="l-gloss">Mii desh minawaa neyaap ezhi-wawenapit (and then down again he sat).</span>
 
-<span class="l-orig">(318) Mīdạc aᵘ a‘kiwäjīyic äjiki‘tcipāpit; pā‘pi∙ā∙t īni’ᵘ ạpinōtcīyan ināt īni’ᵘ pä‘kic kwīwizänsạn:</span>
+<span class="l-orig">(318) Mīdạc aᵘ a‘kiwäjīyic äjiki‘tcipāpit; pā‘pi∙ā∙t īni´ᵘ ạpinōtcīyan ināt īni´ᵘ pä‘kic kwīwizänsạn:</span>
 
-<span class="l-fiero">**Mii dash aw akiwezhiiyish ezhi-kichi-paapit; paapi’aat iiniw apinoochiiyan inaat iiniw pekish kwiiwizensan:**</span>
+<span class="l-fiero">**Mii dash aw akiwezhiiyish ezhi-gichi-paapit; paapi’aat iiniw apinoochiiyan inaat iiniw pekish kwiiwizensan:**</span>
 
 <span class="l-eng">*At that the old man laughed aloud; he made fun of the children, saying at the same time to the boy:*</span>
 
-<span class="l-gloss">Mii dash aw akiwezhiiyish ezhi-kichi-paapit (at that the wretched old man laughed aloud); paapi’aat iiniw apinoochiiyan (mocking the children) inaat iiniw pekish kwiiwizensan (at the same time saying to the boy):</span>
+<span class="l-gloss">Mii dash aw akiwezhiiyish ezhi-gichi-paapit (at that the wretched old man laughed aloud); paapi’aat iiniw apinoochiiyan (mocking the children) inaat iiniw pekish kwiiwizensan (at the same time saying to the boy):</span>
 
 <span class="l-orig">(319) “Anicā mawi.</span>
 
@@ -2573,7 +2571,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Anishaa mawi (“he cries for nothing).</span>
 
-<span class="l-orig">(320) Pināsi‘kaᵘ ōgo’ᵘ asînīⁿsạn, uniciciwạg tci∙u∙daminwānāt kicīmäⁿ!” udinān.</span>
+<span class="l-orig">(320) Pināsi‘kaᵘ ōgo´ᵘ asînīⁿsạn, uniciciwạg tci∙u∙daminwānāt kicīmäⁿ!” udinān.</span>
 
 <span class="l-fiero">**Pi-naasikaw oogow asiniinsan, onishishiwag chi-odaminwaanaat kishiimenh!” odinaan.**</span>
 
@@ -2589,7 +2587,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash ezhi-pasigwiit minawaa (and then he rose to his feet again); mii go minawaa enwet aw apinoochiiyens (and once more the little baby cried).</span>
 
-<span class="l-orig">(322) Mīdạc awạndcic äji∙i∙jāt īni’ᵘ a‘kiwänzīyạn.</span>
+<span class="l-orig">(322) Mīdạc awạndcic äji∙i∙jāt īni´ᵘ a‘kiwänzīyạn.</span>
 
 <span class="l-fiero">**Mii dash awanjish ezhi-izhaat iiniw akiwenziiyan.**</span>
 
@@ -2599,13 +2597,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(323) Mīdạc kīⁿwä änāt aᵘ kwīwizäns:</span>
 
-<span class="l-fiero">**Mii dash kiinwe enaat aw kwiiwizwns:**</span>
+<span class="l-fiero">**Mii dash kiinwe enaat aw kwiiwizens:**</span>
 
 <span class="l-eng">*And they say that to him said the boy:*</span>
 
-<span class="l-gloss">Mii dash kiinwe enaat aw kwiiwizwns (and then, they say, the boy said to him):</span>
+<span class="l-gloss">Mii dash kiinwe enaat aw kwiiwizens (and then, they say, the boy said to him):</span>
 
-<span class="l-orig">(324) “Kāwin awacīmä uniciciⁿsīwạg ōgō’ᵘ asînīⁿsạg,” udinān.</span>
+<span class="l-orig">(324) “Kāwīn awacīmä uniciciⁿsīwạg ōgō´ᵘ asînīⁿsạg,” udinān.</span>
 
 <span class="l-fiero">**“Gaawiin awashime onishishinsiiwag oogoow asiniinsag,” odinaan.**</span>
 
@@ -2613,7 +2611,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Gaawiin awashime onishishinsiiwag oogoow asiniinsag,” odinaan (“these stones are no prettier,” he said to him).</span>
 
-<span class="l-orig">(325) “Ōguwäsä,” udigōn īni’ᵘ a‘kiwäji∙i∙cạn.</span>
+<span class="l-orig">(325) “Ōguwäsä,” udigōn īni´ᵘ a‘kiwäji∙i∙cạn.</span>
 
 <span class="l-fiero">**“Oogowe se,” odigoon iiniw akiwezhi’ishan.**</span>
 
@@ -2637,21 +2635,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Pi-wodaapin dash!” odigoon kiiwe (“so come and take them!” he was told, they say).</span>
 
-<span class="l-orig">(328) “Kāwin nicīmäⁿ mawi,” i‘kito kwīwisäns.</span>
+<span class="l-orig">(328) “Kāwīn nicīmäⁿ mawi,” i‘kito kwīwisäns.</span>
 
-<span class="l-fiero">**“Gaawiin nishiimenh mawi,” ikito kwiiwisens.**</span>
+<span class="l-fiero">**“Gaawiin nishiimenh mawi,” ikito gwiiwizens.**</span>
 
 <span class="l-eng">*“No, my little brother is crying,” said the boy.*</span>
 
-<span class="l-gloss">“Gaawiin nishiimenh mawi,” ikito kwiiwisens (“no, my little brother is crying,” said the boy).</span>
+<span class="l-gloss">“Gaawiin nishiimenh mawi,” ikito gwiiwizens (“no, my little brother is crying,” said the boy).</span>
 
-<span class="l-orig">(329) Awạndcici aᵘ a‘kiwäⁿjī∙i∙c ā‘pidci umigiskuskāzumān īni’ᵘ kwīwisänsạn, ināt:</span>
+<span class="l-orig">(329) Awạndcici aᵘ a‘kiwäⁿjī∙i∙c ā‘pidci umigiskuskāzumān īni´ᵘ kwīwisänsạn, ināt:</span>
 
-<span class="l-fiero">**Awanjishi aw akiwanzhii’ish aapiji omigiskoskaazomaan iiniw kwiiwisensan, inaat:**</span>
+<span class="l-fiero">**Awanjishi aw akiwanzhii’ish aapiji omigiskoskaazomaan iiniw gwiiwizensan, inaat:**</span>
 
 <span class="l-eng">*But in spite of all, the devilish old man kept on insisting with the boy to take them, saying:*</span>
 
-<span class="l-gloss">Awanjishi aw akiwanzhii’ish aapiji omigiskoskaazomaan iiniw kwiiwisensan (but in spite of all the devilish old man kept pestering the boy), inaat (saying):</span>
+<span class="l-gloss">Awanjishi aw akiwanzhii’ish aapiji omigiskoskaazomaan iiniw gwiiwizensan (but in spite of all the devilish old man kept pestering the boy), inaat (saying):</span>
 
 <span class="l-orig">(330) “Awandcic pi∙u∙dā‘pin!</span>
 
@@ -2679,19 +2677,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(333) Mīdạc kīwäⁿ aᵘ a‘kiwäⁿjī∙i∙c kā∙i∙jipōsōnäwäpuwāt īni’ᵘ kwīwisänsạn tcīmāning; pä‘kic pa‘kitä∙ạ∙nk.</span>
 
-<span class="l-fiero">**Mii dash kiiwanh aw akiwenzhii’ish kaa-izhi-poosoonewepowaat iiniw kwiiwisensan chiimaaning; pekish pakite’ank.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw akiwenzhii’ish kaa-izhi-poosoonewepowaat iiniw gwiiwizensan chiimaaning; pekish pakite’ank.**</span>
 
 <span class="l-eng">*Thereupon they say the ruthless old man scooped the boy up with the paddle, and landed him in the canoe; at the same instant he struck his canoe.*</span>
 
-<span class="l-gloss">Mii dash kiiwanh aw akiwenzhii’ish kaa-izhi-poosoonewepowaat iiniw kwiiwisensan chiimaaning (thereupon, they say, the ruthless old man scooped the boy up with the paddle into the canoe); pekish pakite’ank (and at the same instant struck his canoe).</span>
+<span class="l-gloss">Mii dash giiwenh aw akiwenzhii’ish kaa-izhi-poosoonewepowaat iiniw gwiiwizensan chiimaaning (thereupon, they say, the ruthless old man scooped the boy up with the paddle into the canoe); pekish pakite’ank (and at the same instant struck his canoe).</span>
 
 <span class="l-orig">(334) Mīdạc kīwäⁿ ‘aᵘ kwīwisäns nōndawāgubạnän ucīmäyänsạn mānsitākusinit, mạdwäkiˢtcimawinit.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw kwiiwisens noondawaagobanen oshiimeyensan maasitaakosinit, madwe-kischi-mawinit.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw gwiiwizens noondawaagobanen oshiimeyensan maasitaakosinit, madwe-gichi-mawinit.**</span>
 
 <span class="l-eng">*And then they say that the boy heard his dear little brother begin to cry, loud he heard him cry.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw kwiiwisens noondawaagobanen oshiimeyensan maasitaakosinit (and then, they say, the boy heard his dear little brother cry out), madwe-kischi-mawinit (loudly he heard him crying).</span>
+<span class="l-gloss">Mii dash giiwenh aw gwiiwizens noondawaagobanen oshiimeyensan maasitaakosinit (and then, they say, the boy heard his dear little brother cry out), madwe-gichi-mawinit (loudly he heard him crying).</span>
 
 <span class="l-orig">(335) Minawā aᵘ a‘kiwäⁿjī∙i∙c pa‘kitä∙ā∙n utcīmān.</span>
 
@@ -2703,13 +2701,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(336) Mīdạc minawā aᵘ kwīwisäns agāwa täpi‘tawāt ucīmäyänsạn, käyạbi mạdwäkiˢtcimawinit; kayä wīn kiˢtcimawit.</span>
 
-<span class="l-fiero">**Mii dash minawaa aw kwiiwisens agaawa tepitawaat oshiimeyensan, keyabi madwe-kischi-mawinit; gaye wiin kischi-mawit.**</span>
+<span class="l-fiero">**Mii dash minawaa aw gwiiwizens agaawa tepitawaat oshiimeyensan, geyaabi madwe-gichi-mawinit; gaye wiin gichi-mawit.**</span>
 
 <span class="l-eng">*And at that the boy was barely able to hear his fond little brother, still yet he heard him crying bitterly; he himserf also cried aloud.*</span>
 
-<span class="l-gloss">Mii dash minawaa aw kwiiwisens agaawa tepitawaat oshiimeyensan (and then the boy could barely hear his little brother), keyabi madwe-kischi-mawinit (still hearing him crying bitterly); gaye wiin kischi-mawit (and he too wept aloud).</span>
+<span class="l-gloss">Mii dash minawaa aw gwiiwizens agaawa tepitawaat oshiimeyensan (and then the boy could barely hear his little brother), geyaabi madwe-gichi-mawinit (still hearing him crying bitterly); gaye wiin gichi-mawit (and he too wept aloud).</span>
 
-<span class="l-orig">(337) Ānudac upạgusänimān īni’ᵘ a‘kiwäⁿjī∙i∙cạn tcināsi‘kawānit ucīmäyänsạn, awạndcicidạc pā‘pi∙i∙gōn; kayä pa‘kitä∙ạ∙nk pä‘kic utcīmānic.</span>
+<span class="l-orig">(337) Ānudac upạgusänimān īni´ᵘ a‘kiwäⁿjī∙i∙cạn tcināsi‘kawānit ucīmäyänsạn, awạndcicidạc pā‘pi∙i∙gōn; kayä pa‘kitä∙ạ∙nk pä‘kic utcīmānic.</span>
 
 <span class="l-fiero">**Aano dash opagosenimaan iiniw akiwenzhii’ishan chi-naasikawaanit oshiimeyensan, awanjish idash paapi’igoon; gaye pakite’ank pekish ochiimaanish.**</span>
 
@@ -2717,39 +2715,39 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Aano dash opagosenimaan iiniw akiwenzhii’ishan chi-naasikawaanit oshiimeyensan (though he begged the wicked old man to go to his little brother), awanjish idash paapi’igoon (yet in spite of all he was mocked); gaye pakite’ank pekish ochiimaanish (and at the same time he struck his miserable canoe).</span>
 
-<span class="l-orig">(338) Mīdac kwīwisäns kāwin keyāpi nōndawāsīn ucīmäyänsạn.</span>
+<span class="l-orig">(338) Mīdac kwīwisäns kāwīn keyāpi nōndawāsīn ucīmäyänsạn.</span>
 
-<span class="l-fiero">**Mii dash kwiiwisens gaawiin keyaapi noondawaasiin oshiimeyensan.**</span>
+<span class="l-fiero">**Mii dash gwiiwizens gaawiin keyaapi noondawaasiin oshiimeyensan.**</span>
 
 <span class="l-eng">*And then the boy at last (could) not hear his poor little brother.*</span>
 
-<span class="l-gloss">Mii dash kwiiwisens gaawiin keyaapi noondawaasiin oshiimeyensan (and then the boy could no longer hear his poor little brother).</span>
+<span class="l-gloss">Mii dash gwiiwizens gaawiin keyaapi noondawaasiin oshiimeyensan (and then the boy could no longer hear his poor little brother).</span>
 
-<span class="l-orig">(339) Mīdec ägut kīwäⁿ īni’ᵘ a‘kiwäⁿjī∙i∙cạn:</span>
+<span class="l-orig">(339) Mīdec ägut kīwäⁿ īni´ᵘ a‘kiwäⁿjī∙i∙cạn:</span>
 
-<span class="l-fiero">**Mii desh egot kiiwenh iiniw akiwenzhii’ishan:**</span>
+<span class="l-fiero">**Mii desh egot giiwenh iiniw akiwenzhii’ishan:**</span>
 
 <span class="l-eng">*And then they say he was told by the hateful old man:*</span>
 
-<span class="l-gloss">Mii desh egot kiiwenh iiniw akiwenzhii’ishan (and then, they say, he was told by the hateful old man):</span>
+<span class="l-gloss">Mii desh egot giiwenh iiniw akiwenzhii’ishan (and then, they say, he was told by the hateful old man):</span>
 
 <span class="l-orig">(340) “Ōwiti äciwīninān nindānisạg ayāwạg; päji‘k dạc kīgamīnin tciwīdigämạt,” udinạn īni’ᵘ kwīwisänsạn.</span>
 
-<span class="l-fiero">**“Oowiti eshi-wiininaan nindaanisag ayaawag; pezhik dash kiiga-miinin chi-wiidigemat,” odinaan iiniw kwiiwisensan.**</span>
+<span class="l-fiero">**“Oowiti eshi-wiininaan nindaanisag ayaawag; bezhik dash kiiga-miinin chi-wiidigemat,” odinaan iiniw gwiiwizensan.**</span>
 
 <span class="l-eng">*“Over at this place whither I am taking you, my daughters abide; and one will I give to you for a wife,” he said to the boy.*</span>
 
-<span class="l-gloss">“Oowiti eshi-wiininaan nindaanisag ayaawag (“over at the place where I am taking you my daughters live); pezhik dash kiiga-miinin chi-wiidigemat,” odinaan iiniw kwiiwisensan (and one I will give you for a wife,” he said to the boy).</span>
+<span class="l-gloss">“Oowiti eshi-wiininaan nindaanisag ayaawag (“over at the place where I am taking you my daughters live); bezhik dash kiiga-miinin chi-wiidigemat,” odinaan iiniw gwiiwizensan (and one I will give you for a wife,” he said to the boy).</span>
 
 <span class="l-orig">(341) Awidạc wīn kwīwisäns ạgāwa pimātisi ä‘pītckaskändạnk mī‘kwänimāt ucīmäyänsạn.</span>
 
-<span class="l-fiero">**Aw idash wiin kwiiwisens agaawa pimaatisi epiich-kas[h]kendank miikwenimaat oshiimeyensan.**</span>
+<span class="l-fiero">**Aw idash wiin gwiiwizens agaawa pimaatisi epiich-kashkendank miikwenimaat oshiimeyensan.**</span>
 
 <span class="l-eng">*And as for the boy, barely was he alive, so grieved was he at the thought of his dear little brother.*</span>
 
-<span class="l-gloss">Aw idash wiin kwiiwisens agaawa pimaatisi (and as for the boy, he was barely alive) epiich-kas[h]kendank miikwenimaat oshiimeyensan (so grieved was he at the thought of his dear little brother).</span>
+<span class="l-gloss">Aw idash wiin gwiiwizens agaawa pimaatisi (and as for the boy, he was barely alive) epiich-kashkendank miikwenimaat oshiimeyensan (so grieved was he at the thought of his dear little brother).</span>
 
-<span class="l-orig">(342) Mīdạc kägä‘t cayīgwa ạnitcäkisäwāt ändanit ini’ᵘ a‘kiwäⁿzīyạn.</span>
+<span class="l-orig">(342) Mīdạc kägä‘t cayīgwa ạnitcäkisäwāt ändanit ini´ᵘ a‘kiwäⁿzīyạn.</span>
 
 <span class="l-fiero">**Mii dash keget shayiigwa ani-chekisewaat endaanit iniw akiwenziiyan.**</span>
 
@@ -2773,13 +2771,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Pichiinag awiya kiga-pi-naasikaag,” odigoon (“in a little while someone will come for you,” he was told).</span>
 
-<span class="l-orig">(345) Mīdạc pạnä kīⁿwäⁿ aᵘ a‘kiwäⁿzī änijiku‘pit mīdec kīwäⁿ änāt udānisaᵉ:</span>
+<span class="l-orig">(345) Mīdạc pạnä kīⁿwäⁿ aᵘ a‘kiwäⁿzī änijiku‘pīt mīdec kīwäⁿ änāt udānisaᵉ:</span>
 
-<span class="l-fiero">**Mii dash pane kiinwenh aw akiwenzii eni-[i]zhi-kopiit mii desh kiiwenh enaat odaanisa’:**</span>
+<span class="l-fiero">**Mii dash pane giinwenh aw akiwenzii eni-zhi-kopiit mii desh giiwenh enaat odaanisa’:**</span>
 
 <span class="l-eng">*And then they say on, up from the shore, went the old man. And so it is told that he said to his daughters:*</span>
 
-<span class="l-gloss">Mii dash pane kiinwenh aw akiwenzii eni-[i]zhi-kopiit (and then, they say, up from the shore went the old man) mii desh kiiwenh enaat odaanisa’ (and so, they say, he said to his daughters):</span>
+<span class="l-gloss">Mii dash pane giinwenh aw akiwenzii eni-zhi-kopiit (and then, they say, up from the shore went the old man) mii desh giiwenh enaat odaanisa’ (and so, they say, he said to his daughters):</span>
 
 <span class="l-orig">(346) “Nîndānisitug! inini nimpinā.</span>
 
@@ -2797,13 +2795,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Awegwen dash nitam ke-bagamibatogwen iwiti nichiimaan atemagak (whichever first runs and reaches where my canoe lies) mii iw ket-ayaawaat,” odinaan (she shall be the one to have him,” he said to them).</span>
 
-<span class="l-orig">(348) “Naskā minawā awiya kīniga∙ā∙gwän aᵘ kōsinān,” i‘kitōwạg pä‘kic ạnipạsigundcipa∙i∙tiwāt; īngi’ᵘ uckinīgī‘kwäg pa∙i∙tiwāt tcīmāning.</span>
+<span class="l-orig">(348) “Naskā minawā awiya kīniga∙ā∙gwän aᵘ kōsinān,” i‘kitōwạg pä‘kic ạnipạsigundcipa∙i∙tiwāt; īngi´ᵘ uckinīgī‘kwäg pa∙i∙tiwāt tcīmāning.</span>
 
-<span class="l-fiero">**“Nas[h]ke minawaa awiya kii-niga’aagwen aw koosinaan,” ikitoowag pekish ani-pasigonjipa’itiwaat; iingiw oshkiniigiikweg pa’itiwaat chiimaaning.**</span>
+<span class="l-fiero">**“Nashke minawaa awiya kii-niga’aagwen aw koosinaan,” ikitoowag pekish ani-pasigonjipa’itiwaat; iingiw oshkiniigiikweg pa’itiwaat chiimaaning.**</span>
 
 <span class="l-eng">*“Maybe upon some other person has our father again inflicted sorrow,”they said, as at the same time they sprang to their feet and ran out of doors together; hither came the maidens, racing to the canoe.*</span>
 
-<span class="l-gloss">“Nas[h]ke minawaa awiya kii-niga’aagwen aw koosinaan,” ikitoowag (“maybe our father has brought sorrow on someone again,” they said) pekish ani-pasigonjipa’itiwaat (springing to their feet and running out together); iingiw oshkiniigiikweg pa’itiwaat chiimaaning (the young women racing to the canoe).</span>
+<span class="l-gloss">“Nashke minawaa awiya kii-niga’aagwen aw koosinaan,” ikitoowag (“maybe our father has brought sorrow on someone again,” they said) pekish ani-pasigonjipa’itiwaat (springing to their feet and running out together); iingiw oshkiniigiikweg pa’itiwaat chiimaaning (the young women racing to the canoe).</span>
 
 <span class="l-orig">(349) Mīdạc tābicko pạgạmipa∙i∙itwạg.</span>
 
@@ -2815,11 +2813,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(350) Mīdạc kīwäⁿ wâbạmāwāt kwīwisänsạn sīndạna‘kāng cingicininit.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh waabamaawaat kwiiwisensan siindanakaang shingishininit.**</span>
+<span class="l-fiero">**Mii dash giiwenh waabamaawaat gwiiwizensan siindanakaang shingishininit.**</span>
 
 <span class="l-eng">*And then it is said that they saw the boy lying asleep in the peak of the bow.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh waabamaawaat kwiiwisensan (and then, they say, they saw the boy) siindanakaang shingishininit (lying asleep in the peak of the bow).</span>
+<span class="l-gloss">Mii dash giiwenh waabamaawaat gwiiwizensan (and then, they say, they saw the boy) siindanakaang shingishininit (lying asleep in the peak of the bow).</span>
 
 <span class="l-orig">(351) Mīdạc ä‘kitōwāt “</span>
 
@@ -2839,51 +2837,51 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(353) Minawā änijiku‘pīwāt.</span>
 
-<span class="l-fiero">**Minawaa eni-[i]zhi-kopiiwaat.**</span>
+<span class="l-fiero">**Minawaa eni-zhi-kopiiwaat.**</span>
 
 <span class="l-eng">*Back from the shore then they went.*</span>
 
-<span class="l-gloss">Minawaa eni-[i]zhi-kopiiwaat (back up from the shore then they went).</span>
+<span class="l-gloss">Minawaa eni-zhi-kopiiwaat (back up from the shore then they went).</span>
 
 <span class="l-orig">(354) Mīdạc kīwäⁿ aᵘ wäcimä∙i∙mint näyāp äji∙a∙cäpạgisat, icāt näyāp iwiti tcīmāning.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw weshime’imint neyaap ezhi-ashepagisat, ishaat neyaap iwiti chiimaaning.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw weshime’imint neyaap ezhi-ashepagisat, ishaat neyaap iwiti chiimaaning.**</span>
 
 <span class="l-eng">*And then it is said that the younger sister turned, swinging quickly round as she went back there to the canoe.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw weshime’imint neyaap ezhi-ashepagisat (and then, they say, the younger sister swung quickly back round), ishaat neyaap iwiti chiimaaning (going back there to the canoe).</span>
+<span class="l-gloss">Mii dash giiwenh aw weshime’imint neyaap ezhi-ashepagisat (and then, they say, the younger sister swung quickly back round), ishaat neyaap iwiti chiimaaning (going back there to the canoe).</span>
 
 <span class="l-orig">(355) Mīdac äji∙u∙dā‘pināt kwīwisänsạn, cawänimāt.</span>
 
-<span class="l-fiero">**Mii dash ezhi-odaapinaat kwiiwisensan, shawenimaat.**</span>
+<span class="l-fiero">**Mii dash ezhi-odaapinaat gwiiwizensan, shawenimaat.**</span>
 
 <span class="l-eng">*Thereupon she took the boy up in her arms, for she pitied him.*</span>
 
-<span class="l-gloss">Mii dash ezhi-odaapinaat kwiiwisensan, shawenimaat (thereupon she took the boy up, for she pitied him).</span>
+<span class="l-gloss">Mii dash ezhi-odaapinaat gwiiwizensan, shawenimaat (thereupon she took the boy up, for she pitied him).</span>
 
 <span class="l-orig">(356) Mīdạc änijiku‘pīwināt ändāwāt; pīndigạnāt wändạpit dạc upạgitînān īni’ᵘ kwīwisänsạn.</span>
 
-<span class="l-fiero">**Mii dash eni-[i]zhi-kopiiwinaat endaawaat; piindiganaat wendapit dash opagitinaan iiniw kwiiwisensan.**</span>
+<span class="l-fiero">**Mii dash eni-zhi-kopiiwinaat endaawaat; piindiganaat wendapit dash opagitinaan iiniw gwiiwizensan.**</span>
 
 <span class="l-eng">*And then she took him up from the shore to where they lived; she fetched him inside to the place where she sat, and there put down the boy.*</span>
 
-<span class="l-gloss">Mii dash eni-[i]zhi-kopiiwinaat endaawaat (and then she carried him up from the shore to where they lived); piindiganaat wendapit dash opagitinaan iiniw kwiiwisensan (she brought him inside, and at the place where she sat she set the boy down).</span>
+<span class="l-gloss">Mii dash eni-zhi-kopiiwinaat endaawaat (and then she carried him up from the shore to where they lived); piindiganaat wendapit dash opagitinaan iiniw gwiiwizensan (she brought him inside, and at the place where she sat she set the boy down).</span>
 
 <span class="l-orig">(357) Ningudingdạc kīwäⁿ a∙ī∙ndāwāt, ānicinā ātisō‘kān, mindidu cayīgwa aᵘ kwīwisäns.</span>
 
-<span class="l-fiero">**Ningoding dash kiiwenh a’iindaawaat, aanish inaa aatisookaan, mindido shayiigwa aw kwiiwisens.**</span>
+<span class="l-fiero">**Ningoding dash giiwenh a’iindaawaat, aanish inaa aatisookaan, mindido shayiigwa aw gwiiwizens.**</span>
 
 <span class="l-eng">*And by and by they say, while they were living (there), so the story goes, large grew the boy.*</span>
 
-<span class="l-gloss">Ningoding dash kiiwenh a’iindaawaat, aanish inaa aatisookaan (and by and by, they say, as they lived there, so the story goes), mindido shayiigwa aw kwiiwisens (the boy grew large now).</span>
+<span class="l-gloss">Ningoding dash giiwenh a’iindaawaat, aanish inaa aatisookaan (and by and by, they say, as they lived there, so the story goes), mindido shayiigwa aw gwiiwizens (the boy grew large now).</span>
 
-<span class="l-orig">(358) Ningudingidạc kīwäⁿ udinān a‘kiwäⁿzī īni’ᵘ uningwạnạn:</span>
+<span class="l-orig">(358) Ningudingidạc kīwäⁿ udinān a‘kiwäⁿzī īni´ᵘ uningwạnạn:</span>
 
-<span class="l-fiero">**Ningoding idash kiiwenh odinaan akiwenzii iiniw oningwanan:**</span>
+<span class="l-fiero">**Ningoding idash giiwenh odinaan akiwenzii iiniw oningwanan:**</span>
 
 <span class="l-eng">*And once on a time they say the old man said to his son-in-law:*</span>
 
-<span class="l-gloss">Ningoding idash kiiwenh odinaan akiwenzii iiniw oningwanan (and once on a time, they say, the old man said to his son-in-law):</span>
+<span class="l-gloss">Ningoding idash giiwenh odinaan akiwenzii iiniw oningwanan (and once on a time, they say, the old man said to his son-in-law):</span>
 
 <span class="l-orig">(359) “Mīsạnā cayīgwa tcipapā∙a∙ntucīpäyạnguban,” udinān.</span>
 
@@ -2895,11 +2893,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(360) Mīsa kīⁿwäⁿ kägä‘t äjimādcāwāt, papāmickāwāt papā∙ạ∙ntucipäwāt.</span>
 
-<span class="l-fiero">**Mii sa kiinwenh keget ezhi-maajaawaat, papaamishkaawaat papaa-antoshipewaat.**</span>
+<span class="l-fiero">**Mii sa giinwenh keget ezhi-maajaawaat, papaamishkaawaat papaa-antoshipewaat.**</span>
 
 <span class="l-eng">*And then they say that in truth away they went by canoe to hunt for ducks.*</span>
 
-<span class="l-gloss">Mii sa kiinwenh keget ezhi-maajaawaat (and so, they say, truly off they went) papaamishkaawaat papaa-antoshipewaat (paddling about, hunting for ducks).</span>
+<span class="l-gloss">Mii sa giinwenh keget ezhi-maajaawaat (and so, they say, truly off they went) papaamishkaawaat papaa-antoshipewaat (paddling about, hunting for ducks).</span>
 
 <span class="l-orig">(361) Mīdạc awinini nîsidawinạng imā ucīmäyänsạn kā∙u∙ndcinạgạnāt.</span>
 
@@ -2911,11 +2909,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(362) Mīc kīwäⁿ nōndawāt awiya täpi‘tāgusinit kitunit:</span>
 
-<span class="l-fiero">**Miish kiiwenh noondawaat awiya tepitaagosinit [i]kitonit:**</span>
+<span class="l-fiero">**Miish giiwenh noondawaat awiya tepitaagosinit kitonit:**</span>
 
 <span class="l-eng">*Whereupon it is said that he heard the sound of somebody’s voice saying:*</span>
 
-<span class="l-gloss">Miish kiiwenh noondawaat awiya tepitaagosinit [i]kitonit (whereupon, they say, he heard someone’s voice saying):</span>
+<span class="l-gloss">Miish giiwenh noondawaat awiya tepitaagosinit kitonit (whereupon, they say, he heard someone’s voice saying):</span>
 
 <span class="l-orig">(363) “Nîsayäⁿ!</span>
 
@@ -2943,11 +2941,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(366) Mīdạc kägä‘t aᵘ inini kaskändạnk.</span>
 
-<span class="l-fiero">**Mii dash keget aw inini kas[h]kendank.**</span>
+<span class="l-fiero">**Mii dash keget aw inini kashkendank.**</span>
 
 <span class="l-eng">*And then truly was the man sad.*</span>
 
-<span class="l-gloss">Mii dash keget aw inini kas[h]kendank (and then truly the man was sad).</span>
+<span class="l-gloss">Mii dash keget aw inini kashkendank (and then truly the man was sad).</span>
 
 <span class="l-orig">(367) Kāwīn kägō i‘kitosī.</span>
 
@@ -2967,11 +2965,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(369) Mīdạc ninguting a∙ī∙ndāwāt ainini udinān wīwạn:</span>
 
-<span class="l-fiero">**Mii dash ningoting a’iindaawaat a inini odinaan wiiwan:**</span>
+<span class="l-fiero">**Mii dash ningoding a’iindaawaat a inini odinaan wiiwan:**</span>
 
 <span class="l-eng">*And then once upon a time, while they were dwelling (there), the man said to his wife:*</span>
 
-<span class="l-gloss">Mii dash ningoting a’iindaawaat a inini odinaan wiiwan (and then once, while they were living there, the man said to his wife):</span>
+<span class="l-gloss">Mii dash ningoding a’iindaawaat a inini odinaan wiiwan (and then once, while they were living there, the man said to his wife):</span>
 
 <span class="l-orig">(370) “Ạmbä, pạbāmiskātā!” udinān.</span>
 
@@ -2983,19 +2981,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(371) Mīdạc kīwäⁿ kägä‘t äjimādcāwāt.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh keget ezhi-maajaawaat.**</span>
+<span class="l-fiero">**Mii dash giiwenh keget ezhi-maajaawaat.**</span>
 
 <span class="l-eng">*And so it is said that truly did they go.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh keget ezhi-maajaawaat (and so, they say, truly they went).</span>
+<span class="l-gloss">Mii dash giiwenh keget ezhi-maajaawaat (and so, they say, truly they went).</span>
 
 <span class="l-orig">(372) Awidạc kīwäⁿ a‘kiwäⁿzī kāwin minwändạⁿzī.</span>
 
-<span class="l-fiero">**Aw idash kiiwenh akiwenzii gaawiin minwendanzii.**</span>
+<span class="l-fiero">**Aw idash giiwenh akiwenzii gaawiin minwendanzii.**</span>
 
 <span class="l-eng">*And it is told that the old man was not pleased about it.*</span>
 
-<span class="l-gloss">Aw idash kiiwenh akiwenzii gaawiin minwendanzii (and it is said the old man was not pleased about it).</span>
+<span class="l-gloss">Aw idash giiwenh akiwenzii gaawiin minwendanzii (and it is said the old man was not pleased about it).</span>
 
 <span class="l-orig">(373) Ināt udānisạn:</span>
 
@@ -3039,35 +3037,35 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(378) Mīdac kīwäⁿ änāt īni’ᵘ wīwạn, wīndạmawāt undci ucīmäyạn.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh enaat iiniw wiiwan, wiindamawaat onji oshiimeyan.**</span>
+<span class="l-fiero">**Mii dash giiwenh enaat iiniw wiiwan, wiindamawaat onji oshiimeyan.**</span>
 
 <span class="l-eng">*And then it is said, while speaking to his wife, he was telling her about his little brother.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh enaat iiniw wiiwan, wiindamawaat onji oshiimeyan (and then, they say, while talking to his wife, he was telling her about his little brother).</span>
+<span class="l-gloss">Mii dash giiwenh enaat iiniw wiiwan, wiindamawaat onji oshiimeyan (and then, they say, while talking to his wife, he was telling her about his little brother).</span>
 
 <span class="l-orig">(379) Mīdec kīwäⁿ mägwā tibātcimut ạnitibicko‘kạmowāt kā∙u∙ndcipōswäbawauⁿdibạnän.</span>
 
-<span class="l-fiero">**Mii desh kiiwenh megwaa tibaachimot ani-tibishko-kamowaat kaa-onji-pooswebawa’ondibanen.**</span>
+<span class="l-fiero">**Mii desh giiwenh megwaa tibaachimot ani-tibishko-kamowaat kaa-onji-pooswebawa’ondibanen.**</span>
 
 <span class="l-eng">*Whereupon they say, while going on with his story, they were then passing the place opposite to where he had been scooped up into the canoe.*</span>
 
-<span class="l-gloss">Mii desh kiiwenh megwaa tibaachimot (whereupon, they say, while he was telling the story) ani-tibishko-kamowaat kaa-onji-pooswebawa’ondibanen (they came opposite the place where he had been scooped up into the canoe).</span>
+<span class="l-gloss">Mii desh giiwenh megwaa tibaachimot (whereupon, they say, while he was telling the story) ani-tibishko-kamowaat kaa-onji-pooswebawa’ondibanen (they came opposite the place where he had been scooped up into the canoe).</span>
 
 <span class="l-orig">(380) Mīdạc, “Naskä nābîn!” udinān unāpämạn.</span>
 
-<span class="l-fiero">**Mii dash, “Nas[h]ke [i]naabin!” odinaan onaapeman.**</span>
+<span class="l-fiero">**Mii dash, “Nashke naabin!” odinaan onaapeman.**</span>
 
 <span class="l-eng">*And then, “Oh, look!” she said to her husband.*</span>
 
-<span class="l-gloss">Mii dash, “Nas[h]ke [i]naabin!” odinaan onaapeman (and then, “oh, look!” she said to her husband).</span>
+<span class="l-gloss">Mii dash, “Nashke naabin!” odinaan onaapeman (and then, “oh, look!” she said to her husband).</span>
 
 <span class="l-orig">(381) Mīdạc kīwäⁿ awinini inābit owâbạmān nîswi mā∙i∙ngạnaᵉ anigu‘pipa∙i∙tinit.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini inaabit owaabamaan niswi maa’ingana’ ani-gopipa’itinit.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini inaabit owaabamaan niswi maa’ingana’ ani-gopipa’itinit.**</span>
 
 <span class="l-eng">*Whereupon it is said that the man looked, and saw three wolves running up from the shore.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini inaabit (whereupon, they say, the man looked) owaabamaan niswi maa’ingana’ ani-gopipa’itinit (and saw three wolves running up from the shore).</span>
+<span class="l-gloss">Mii dash giiwenh aw inini inaabit (whereupon, they say, the man looked) owaabamaan niswi maa’ingana’ ani-gopipa’itinit (and saw three wolves running up from the shore).</span>
 
 <span class="l-orig">(382) Mīdạc änändạnk:</span>
 
@@ -3079,11 +3077,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(383) “Mī aᵘ nicīm päji‘k.”</span>
 
-<span class="l-fiero">**“Mii aw nishiim pezhik.”**</span>
+<span class="l-fiero">**“Mii aw nishiim bezhik.”**</span>
 
 <span class="l-eng">*“One of them may be my little brother.”*</span>
 
-<span class="l-gloss">“Mii aw nishiim pezhik.” (“one of them is my little brother.”)</span>
+<span class="l-gloss">“Mii aw nishiim bezhik.” (“one of them is my little brother.”)</span>
 
 <span class="l-orig">(384) Kumā a‘pīdạc nō‘piming minawā ōnōndawān ucīmäyạn igut:</span>
 
@@ -3109,11 +3107,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Gaawiin minawaa kiga-migoskaachisinoon,” odinaan osayeyan (never again will I trouble you,” he said to his elder brother).</span>
 
-<span class="l-orig">(387) “Tạsing wayābạmạtwānin ma∙i∙ngạnạg ‘nicīmä wayābạmạg,’ kīgatinändạm,” udigōn.</span>
+<span class="l-orig">(387) “Tạsing wayābạmạtwānin ma∙ī∙ngạnạg ‘nicīmä wayābạmạg,’ kīgatinändạm,” udigōn.</span>
 
-<span class="l-fiero">**“Tasing wayaabamatwaanin ma’iinganag ’nishiime wayaabamag,’ kiigat-inendam,” odigoon.**</span>
+<span class="l-fiero">**“Tasing wayaabamatwaanin ma’iinganag ‘nishiime wayaabamag,’ kiigat-inendam,” odigoon.**</span>
 
-<span class="l-eng">*“As often as you see the wolves, ’My little brother do I see,’ shall you think,” (thus) was he told.*</span>
+<span class="l-eng">*“As often as you see the wolves, ‘My little brother do I see,’ shall you think,” (thus) was he told.*</span>
 
 <span class="l-gloss">“Tasing wayaabamatwaanin ma’iinganag (“as often as you see the wolves) ‘nishiime wayaabamag,’ kiigat-inendam,” odigoon (‘it is my little brother I see,’ you shall think,” he was told).</span>
 
@@ -3151,19 +3149,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(392) Ningudingdạc kīwäⁿ a∙ī∙ndāwāt aᵘ a‘kiwäⁿzī niguskāctcidä∙ä∙ wâbạmāt unīngwạnạn cayīgwa kī∙ạ∙nikiˢtci∙i∙ninīwinit.</span>
 
-<span class="l-fiero">**Ningoding dash kiiwenh a’iindaawaat aw akiwenzii nigoskaashchide’e waabamaat oniingwanan shayiigwa kii-ani-kischi-ininiiwinit.**</span>
+<span class="l-fiero">**Ningoding dash giiwenh a’iindaawaat aw akiwenzii nigoskaashchide’e waabamaat oniingwanan shayiigwa kii-ani-gichi-ininiiwinit.**</span>
 
 <span class="l-eng">*Now, once, it is said, while they were living (at that place), the old man became troubled in his heart to see that his son-in-law was growing into the full stature of a man.*</span>
 
-<span class="l-gloss">Ningoding dash kiiwenh a’iindaawaat aw akiwenzii nigoskaashchide’e (now, once, they say, as they lived there, the old man grew troubled in his heart) waabamaat oniingwanan shayiigwa kii-ani-kischi-ininiiwinit (seeing his son-in-law growing into a full-grown man).</span>
+<span class="l-gloss">Ningoding dash giiwenh a’iindaawaat aw akiwenzii nigoskaashchide’e (now, once, they say, as they lived there, the old man grew troubled in his heart) waabamaat oniingwanan shayiigwa kii-ani-gichi-ininiiwinit (seeing his son-in-law growing into a full-grown man).</span>
 
-<span class="l-orig">(393) Mīdạc kīⁿwäⁿ nānāgạtawänimāt ānin kätōtạmōgwän tcînîsāt; ōgusān dạc kayä udānisạn tciki‘känimigut.</span>
+<span class="l-orig">(393) Mīdạc kīⁿwäⁿ nānāgạtawänimāt ānīn kätōtạmōgwän tcînîsāt; ōgusān dạc kayä udānisạn tciki‘känimigut.</span>
 
-<span class="l-fiero">**Mii dash kiinwenh naanaagatawenimaat aaniin ke-tootamoogwen chi-nisaat; oogoosan dash gaye odaanisan chi-kikenimigot.**</span>
+<span class="l-fiero">**Mii dash giinwenh naanaagatawenimaat aaniin ke-tootamoogwen chi-nisaat; oogoosan dash gaye odaanisan chi-kikenimigot.**</span>
 
 <span class="l-eng">*And then they say that he began to lay plans to find out how he might kill him; and yet, too, he feared that his daughter would know that he had done it.*</span>
 
-<span class="l-gloss">Mii dash kiinwenh naanaagatawenimaat aaniin ke-tootamoogwen chi-nisaat (and then, they say, he pondered how he might kill him); oogoosan dash gaye odaanisan chi-kikenimigot (and yet he feared his daughter would know he had done it).</span>
+<span class="l-gloss">Mii dash giinwenh naanaagatawenimaat aaniin ke-tootamoogwen chi-nisaat (and then, they say, he pondered how he might kill him); oogoosan dash gaye odaanisan chi-kikenimigot (and yet he feared his daughter would know he had done it).</span>
 
 <span class="l-orig">(394) Ā‘pidcidạc kīnawīnändạm pạnä ogạnawâbạmān īni’ᵘ uningwạnạn.</span>
 
@@ -3175,19 +3173,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(395) Ningutingdạc kīwäⁿ ugi‘ki‘käsi‘kawâbamigōn udānisạn.</span>
 
-<span class="l-fiero">**Ningoting dash kiiwenh ogi-kikesikawaabamigoon odanisan.**</span>
+<span class="l-fiero">**Ningoding dash giiwenh ogi-kikesikawaabamigoon odanisan.**</span>
 
 <span class="l-eng">*Now, once, they say, by the glance of an eye was he caught by his daughter at a time when he was looking at him.*</span>
 
-<span class="l-gloss">Ningoting dash kiiwenh ogi-kikesikawaabamigoon odanisan (now, once, they say, his daughter caught him with a glance of the eye) [as he was looking at him].</span>
+<span class="l-gloss">Ningoding dash giiwenh ogi-kikesikawaabamigoon odanisan (now, once, they say, his daughter caught him with a glance of the eye) [as he was looking at him].</span>
 
 <span class="l-orig">(396) Mīdạc kīwäⁿ ägut:</span>
 
-<span class="l-fiero">**Mii dash kiwenh egot:**</span>
+<span class="l-fiero">**Mii dash giiwenh egot:**</span>
 
 <span class="l-eng">*Whereupon it is said that he was asked (by her):*</span>
 
-<span class="l-gloss">Mii dash kiwenh egot (whereupon, they say, he was asked by her):</span>
+<span class="l-gloss">Mii dash giiwenh egot (whereupon, they say, he was asked by her):</span>
 
 <span class="l-orig">(397) “Ānīnsa kīn a‘panä änābạmạt aᵘ kāgạnawâbạmạt?” udinān awi‘kwä ōsan.</span>
 
@@ -3213,13 +3211,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Anishaa go naanaagatawendamaan aaninti ked-ishinantawenjikayaang waabang,” shiigwiinawi ikito aw akiwenzhii’ishigoban (“I was only thinking where we might go hunting tomorrow,” by way of excuse said that malicious old man).</span>
 
-<span class="l-orig">(400) Mīdạc kägä‘t kīwäⁿ änāt īni’ᵘ unīngwanạn:</span>
+<span class="l-orig">(400) Mīdạc kägä‘t kīwäⁿ änāt īni´ᵘ unīngwanạn:</span>
 
-<span class="l-fiero">**Mii dash keget kiiwenh enaat iiniw oniingwanan:**</span>
+<span class="l-fiero">**Mii dash keget giiwenh enaat iiniw oniingwanan:**</span>
 
 <span class="l-eng">*And then truly they say that he said to his son-in-law:*</span>
 
-<span class="l-gloss">Mii dash keget kiiwenh enaat iiniw oniingwanan (and then truly, they say, he said to his son-in-law):</span>
+<span class="l-gloss">Mii dash keget giiwenh enaat iiniw oniingwanan (and then truly, they say, he said to his son-in-law):</span>
 
 <span class="l-orig">(401) “Wâbạng kīgạnạndawäntcigämin,” udinān;</span>
 
@@ -3247,11 +3245,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(404) Mīdạc kīwä awi‘kwä änāt unābämạn:</span>
 
-<span class="l-fiero">**Mii dash kiiwe[nh] aw ikwe enaat onaabeman:**</span>
+<span class="l-fiero">**Mii dash kiiwe aw ikwe enaat onaabeman:**</span>
 
 <span class="l-eng">*And then they say the woman said to her husband:*</span>
 
-<span class="l-gloss">Mii dash kiiwe[nh] aw ikwe enaat onaabeman (and then, they say, the woman said to her husband):</span>
+<span class="l-gloss">Mii dash kiiwe aw ikwe enaat onaabeman (and then, they say, the woman said to her husband):</span>
 
 <span class="l-orig">(405) “Aiyāngwāmisin! kīwīnîsik aᵘ; ā‘pitci mạtci∙a∙‘kiwäⁿjī∙i∙ciwi.</span>
 
@@ -3295,19 +3293,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(410) Pa‘kitä∙ạ∙nk utcīmān a‘kiwäjī∙i∙c, pābigä ki‘tciwâsa kītạgwicinōg; minawā paki‘tä∙ạ∙nk utcīmānic mī gīpickōnāgwạtinig; minawā ābinding upaki‘täā∙∙n utcīmān, mīdạc ä‘tạgwicinowāt äjāwāt wa‘tạjinōdci∙ā∙wāt namäwạn.</span>
 
-<span class="l-fiero">**Pakite’ank ochiimaan akiwezhii’ish, paabige kichi-waasa kii-tagwishinoog; minawaa pakite’ank ochiimaanish mii gii-pishkoonaagwatinig; minawaa aabinding opakite’aan ochiimaan, mii dash e-tagwishinowaat ezhaawaat wa-tazhi-nooji’aawaat namewan.**</span>
+<span class="l-fiero">**Pakite’ank ochiimaan akiwezhii’ish, paabige gichi-waasa kii-tagwishinoog; minawaa pakite’ank ochiimaanish mii gii-pishkoonaagwatinig; minawaa aabinding opakite’aan ochiimaan, mii dash e-tagwishinowaat ezhaawaat wa-tazhi-nooji’aawaat namewan.**</span>
 
 <span class="l-eng">*When the hateful old man struck his canoe, at once far off were they come;when again he struck his old canoe, then the sight of land went out of view;when once more he struck his canoe, then they arrived at the place where they went to get the sturgeons.*</span>
 
-<span class="l-gloss">Pakite’ank ochiimaan akiwezhii’ish (when the hateful old man struck his canoe), paabige kichi-waasa kii-tagwishinoog (at once they were come far off); minawaa pakite’ank ochiimaanish (again he struck his miserable canoe) mii gii-pishkoonaagwatinig (then the land went out of sight); minawaa aabinding opakite’aan ochiimaan (once more he struck his canoe), mii dash e-tagwishinowaat ezhaawaat wa-tazhi-nooji’aawaat namewan (and then they arrived at the place where they would hunt sturgeon).</span>
+<span class="l-gloss">Pakite’ank ochiimaan akiwezhii’ish (when the hateful old man struck his canoe), paabige gichi-waasa kii-tagwishinoog (at once they were come far off); minawaa pakite’ank ochiimaanish (again he struck his miserable canoe) mii gii-pishkoonaagwatinig (then the land went out of sight); minawaa aabinding opakite’aan ochiimaan (once more he struck his canoe), mii dash e-tagwishinowaat ezhaawaat wa-tazhi-nooji’aawaat namewan (and then they arrived at the place where they would hunt sturgeon).</span>
 
 <span class="l-orig">(411) Mīdạc kīwäⁿ änāt a‘kiwäⁿjī∙i∙c:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh enaat akiwenzhii’ish:**</span>
+<span class="l-fiero">**Mii dash giiwenh enaat akiwenzhii’ish:**</span>
 
 <span class="l-eng">*Thereupon they say that the mean old man said to him:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh enaat akiwenzhii’ish (thereupon, they say, the mean old man said to him):</span>
+<span class="l-gloss">Mii dash giiwenh enaat akiwenzhii’ish (thereupon, they say, the mean old man said to him):</span>
 
 <span class="l-orig">(412) “Mī∙o∙mā kädajinōtamäwäyạng.</span>
 
@@ -3325,7 +3323,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii ko oomaa endashi-nootamewewaapan aamininiingibaniig,” odinaan oniigwanan (it was here the fishermen of old always used to hunt sturgeon,” he said to his son-in-law).</span>
 
-<span class="l-orig">(414) Ạnicādạc i‘kito aᵘ a‘kiwäⁿzī, kāwin wī‘ka awiya, ugīnōdci∙ā∙sin īni’ᵘ mạdcinạmäwạn.</span>
+<span class="l-orig">(414) Ạnicādạc i‘kito aᵘ a‘kiwäⁿzī, kāwin wī‘ka awiya, ugīnōdci∙ā∙sin īni´ᵘ mạdcinạmäwạn.</span>
 
 <span class="l-fiero">**Anishaa dash ikito aw akiwenzii, gaawiin wiika awiya, ogii-nooji’aasiin iiniw maji-namewan.**</span>
 
@@ -3335,11 +3333,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(415) Mīdạc kīwäⁿ aᵘ inini änāt:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini enaat:**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini enaat:**</span>
 
 <span class="l-eng">*And it is told that the man said to him:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini enaat (and then, they say, the man said to him):</span>
+<span class="l-gloss">Mii dash giiwenh aw inini enaat (and then, they say, the man said to him):</span>
 
 <span class="l-orig">(416) “Māma‘kāda‘kamig kanagä nạmätādcikātäsimik.”</span>
 
@@ -3351,11 +3349,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(417) “Mäwījakīciwäbạt, nintämi‘kawiyān.”</span>
 
-<span class="l-fiero">**“Mewiizha kii-[i]shiwebat, ninte-mikawiyaan.”**</span>
+<span class="l-fiero">**“Mewiizha kii-shiwebat, ninte-mikawiyaan.”**</span>
 
 <span class="l-eng">*“Long ago it happened, as far back as I can remember.”*</span>
 
-<span class="l-gloss">“Mewiizha kii-[i]shiwebat, ninte-mikawiyaan.” (“long ago it happened, as far back as I can recall.”)</span>
+<span class="l-gloss">“Mewiizha kii-shiwebat, ninte-mikawiyaan.” (“long ago it happened, as far back as I can recall.”)</span>
 
 <span class="l-orig">(418) “Ōⁿ!” udinān a inini.</span>
 
@@ -3367,11 +3365,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(419) Mīdạc kīwäⁿ a‘kiwänzi ä‘kiditu:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh akiwenzi ekidito: [ekido?]**</span>
+<span class="l-fiero">**Mii dash giiwenh akiwenzi ekidito: ekido?**</span>
 
 <span class="l-eng">*And then they say that the old man said:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh akiwenzi ekidito [ekido?] (and then, they say, the old man said):</span>
+<span class="l-gloss">Mii dash giiwenh akiwenzi ekidito ekido? (and then, they say, the old man said):</span>
 
 <span class="l-orig">(420) “Ambä, mīsa tcinōtci∙ạ∙ngwa!</span>
 
@@ -3389,7 +3387,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mayanaawakweg mii chi-waabamagwaa (exactly at noon is when we shall see them).</span>
 
-<span class="l-orig">(422) Ā‘pitci mạmānditōwạg īgi’ᵘ namäwạg,” udinān uningwạnạn.</span>
+<span class="l-orig">(422) Ā‘pitci mạmānditōwạg īgi´ᵘ namäwạg,” udinān uningwạnạn.</span>
 
 <span class="l-fiero">**Aapichi mamaanditoowag igiw namewag,” odinaan oningwanan.**</span>
 
@@ -3431,11 +3429,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(427) Pitcīnạgidacigu kīwäⁿ kā∙ạ∙nitạgwicing imā kā∙i∙nint tci∙i∙cāt, mīnōndawāt pīpāginit ucimisạn i‘kidunit:</span>
 
-<span class="l-fiero">**Pichiinag idash igo kiiwenh kaa-ani-tagwishing imaa kaa-inint chi-ishaat, mii noondawaat piipaaginit oshimisan ikidonit:**</span>
+<span class="l-fiero">**Pichiinag idash igo giiwenh kaa-ani-tagwishing imaa kaa-inint chi-ishaat, mii noondawaat piipaaginit oshimisan ikidonit:**</span>
 
 <span class="l-eng">*And as soon, they say, as he was come at the place where he was told to go, then he heard his father-in-law calling aloud, saying:*</span>
 
-<span class="l-gloss">Pichiinag idash igo kiiwenh kaa-ani-tagwishing imaa kaa-inint chi-ishaat (and as soon, they say, as he reached the place where he was told to go), mii noondawaat piipaaginit oshimisan ikidonit (then he heard his father-in-law calling aloud, saying):</span>
+<span class="l-gloss">Pichiinag idash igo giiwenh kaa-ani-tagwishing imaa kaa-inint chi-ishaat (and as soon, they say, as he reached the place where he was told to go), mii noondawaat piipaaginit oshimisan ikidonit (then he heard his father-in-law calling aloud, saying):</span>
 
 <span class="l-orig">(428) “Mîcinạmägwätug!</span>
 
@@ -3471,11 +3469,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(432) Mīc kīwäⁿ awinini äjikạnōnāt:</span>
 
-<span class="l-fiero">**Mish kiiwenh aw inini ezhi-kanoonaat:**</span>
+<span class="l-fiero">**Mish giiwenh aw inini ezhi-kanoonaat:**</span>
 
 <span class="l-eng">*And they say the man spoke to him, saying:*</span>
 
-<span class="l-gloss">Mish kiiwenh aw inini ezhi-kanoonaat (and they say the man spoke to him):</span>
+<span class="l-gloss">Mish giiwenh aw inini ezhi-kanoonaat (and they say the man spoke to him):</span>
 
 <span class="l-orig">(433) “Tcī, tcī, tcī, nimicōmis!</span>
 
@@ -3503,11 +3501,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(436) Mīdạc minawā kīwäⁿ kā∙i∙cikạnōnāt, kī∙i∙nāt:</span>
 
-<span class="l-fiero">**Mii dash minawaa kiiwenh kaa-ishikanoonaat, kii-inaat:**</span>
+<span class="l-fiero">**Mii dash minawaa giiwenh kaa-ishikanoonaat, kii-inaat:**</span>
 
 <span class="l-eng">*And then again, so they say, did he speak to one, saying:*</span>
 
-<span class="l-gloss">Mii dash minawaa kiiwenh kaa-ishikanoonaat, kii-inaat (and then again, they say, he spoke to one, saying):</span>
+<span class="l-gloss">Mii dash minawaa giiwenh kaa-ishikanoonaat, kii-inaat (and then again, they say, he spoke to one, saying):</span>
 
 <span class="l-orig">(437) “Nîmicōmis! kīwäwicicin ändāyān,” udinān; “kayä dạc kīgạmīc wänicicig mīdcîm kägīwäwītawạgwā ninītcānisạg,” udinān.</span>
 
@@ -3525,13 +3523,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Niishinigoban oniichaanisa’ aw inini (the man had two children at the time).</span>
 
-<span class="l-orig">(439) Mīdạc kīwäⁿ ägut īni’ᵘ mîcinamäwạn: “</span>
+<span class="l-orig">(439) Mīdạc kīwäⁿ ägut īni´ᵘ mîcinamäwạn: “</span>
 
-<span class="l-fiero">**Mii dash kiiwenh egot iiniw mishinamewan:**</span>
+<span class="l-fiero">**Mii dash giiwenh egot iiniw mishinamewan:**</span>
 
 <span class="l-eng">*And then they say that he was told by the Great-Sturgeon:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh egot iiniw mishinamewan (and then, they say, he was told by the Great-Sturgeon):</span>
+<span class="l-gloss">Mii dash giiwenh egot iiniw mishinamewan (and then, they say, he was told by the Great-Sturgeon):</span>
 
 <span class="l-orig">(440) ‘Aᵘ!” udigōn; “kigāgumin.”  
 “</span>
@@ -3590,7 +3588,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash keget aw inini ezhi-sagishigonenaat (and then truly the man took hold of the tail); mii dash eshi-shashigaakowaanigot iiniw mishnamewan (whereupon he was cast up out of the Great-Sturgeon’s belly); mii dash iwiti eko mitakamigaaning pangishin (and so there upon the shore he fell).</span>
 
-<span class="l-orig">(447) Kāwīn kanagä nibīwisī, unamämạn kayä usạgicikunänān.</span>
+<span class="l-orig">(447) Kāwīn kanagä nibīwisī, unamäman kayä usạgicikunänān.</span>
 
 <span class="l-fiero">**Gaawiin kanage nibiiwisii, onameman gaye osagishikonenaan.**</span>
 
@@ -3728,11 +3726,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(464) Ki‘tciminwändạm awi‘kwä.</span>
 
-<span class="l-fiero">**Kichi-minwendam aw ikwe.**</span>
+<span class="l-fiero">**Gichi-minwendam aw ikwe.**</span>
 
 <span class="l-eng">*Very happy was the woman.*</span>
 
-<span class="l-gloss">Kichi-minwendam aw ikwe (very happy was the woman).</span>
+<span class="l-gloss">Gichi-minwendam aw ikwe (very happy was the woman).</span>
 
 <span class="l-orig">(465) Ku‘piki‘tōd näyāp awi‘kwä, ạni∙i∙nāt umisäyạn:</span>
 
@@ -3744,11 +3742,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(466) “Umbä! kigīki‘tcinibäkwa∙i∙gomin!”</span>
 
-<span class="l-fiero">**“Ombe! kigii-kichi-nibekwa’igomin!”**</span>
+<span class="l-fiero">**“Ombe! kigii-gichi-nibekwa’igomin!”**</span>
 
 <span class="l-eng">*“Come! he has fetched us a bountiful supply of food.”*</span>
 
-<span class="l-gloss">“Ombe! kigii-kichi-nibekwa’igomin!” (“come! he has fetched us a bountiful supply of food!”)</span>
+<span class="l-gloss">“Ombe! kigii-gichi-nibekwa’igomin!” (“come! he has fetched us a bountiful supply of food!”)</span>
 
 <span class="l-orig">(467) Pasiguntcisägwän kayä wīn umisä∙i∙mā, ạnināzibīpa‘tōd.</span>
 
@@ -3776,11 +3774,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(470) Mīdạc kīwäⁿ awinini änändạnk:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini enendank:**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini enendank:**</span>
 
 <span class="l-eng">*And now they say that the man thought:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini enendank (and now, they say, the man thought):</span>
+<span class="l-gloss">Mii dash giiwenh aw inini enendank (and now, they say, the man thought):</span>
 
 <span class="l-orig">(471) “Wägunän ā‘pidci wändcimōdcigisiwāt?” inändạm.</span>
 
@@ -3790,29 +3788,29 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Wegonen aapiji wenji-moojigisiwaat?” inendam (“why are they so very happy?” he thought).</span>
 
-<span class="l-orig">(472) Mīgu’ īni’ᵘ mä‘kwänimāt päji‘k pāpināt nạmäwạn; kāwīn kayä wīn ogi‘kändạⁿzīn, kāwīn dạc kayä kägō wī∙i∙kī‘kitusī.</span>
+<span class="l-orig">(472) Mīgu’ īni´ᵘ mä‘kwänimāt päji‘k pāpināt nạmäwạn; kāwīn kayä wīn ogi‘kändạⁿzīn, kāwīn dạc kayä kägō wī∙i∙kī‘kitusī.</span>
 
-<span class="l-fiero">**Mii go iiniw mekwenimaat pezhik paapinaat namewan; gaawiin gaye wiin ogikendanziin, gaawiin dash gaye kegoo wii-kiikitosii.**</span>
+<span class="l-fiero">**Mii go iiniw mekwenimaat bezhik paapinaat namewan; gaawiin gaye wiin ogikendanziin, gaawiin dash gaye kegoo wii-kiikitosii.**</span>
 
 <span class="l-eng">*He had in mind only the one sturgeon that he had fetched; for he did not know about (the vast quantity of fish), and he also did not wish to say anything (about his adventure).*</span>
 
-<span class="l-gloss">Mii go iiniw mekwenimaat pezhik paapinaat namewan (he had in mind only the single sturgeon he had brought); gaawiin gaye wiin ogikendanziin (for he did not know about the rest), gaawiin dash gaye kegoo wii-kiikitosii (and he did not wish to say anything either).</span>
+<span class="l-gloss">Mii go iiniw mekwenimaat bezhik paapinaat namewan (he had in mind only the single sturgeon he had brought); gaawiin gaye wiin ogikendanziin (for he did not know about the rest), gaawiin dash gaye kegoo wii-kiikitosii (and he did not wish to say anything either).</span>
 
-<span class="l-orig">(473) Mīdạc kīwäⁿ īngi’ᵘ i‘kwäg wäwīp kī∙u∙ci∙ā∙wāt īni’ᵘ namäwaᵉ; kīnamä‘tä‘ku‘kānāwāt; kī∙ạ∙gōnāwāt ạgwatcīng kayä pīndig ändāwāt.</span>
+<span class="l-orig">(473) Mīdạc kīwäⁿ īngi´ᵘ i‘kwäg wäwīp kī∙u∙ci∙ā∙wāt īni´ᵘ namäwaᵉ; kīnamä‘tä‘ku‘kānāwāt; kī∙ạ∙gōnāwāt ạgwatcīng kayä pīndig ändāwāt.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh iingiw ikweg wewiip kii-oshi’aawaat iiniw namewa’; kii-nametekokaanaawaat; kii-agoonaawaat agwachiing gaye piindig endaawaat.**</span>
+<span class="l-fiero">**Mii dash giiwenh iingiw ikweg wewiip kii-oshi’aawaat iiniw namewa’; kii-nametekokaanaawaat; kii-agoonaawaat agwachiing gaye piindig endaawaat.**</span>
 
 <span class="l-eng">*And then they say that the women quickly prepared the sturgeons for use;they smoked them upon drying-frames;they hung them up out of doors and inside of where they dwelt.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh iingiw ikweg wewiip kii-oshi’aawaat iiniw namewa’ (and then, they say, the women quickly prepared the sturgeon); kii-nametekokaanaawaat (they smoked them on drying-frames); kii-agoonaawaat agwachiing gaye piindig endaawaat (they hung them up outside and inside where they lived).</span>
+<span class="l-gloss">Mii dash giiwenh iingiw ikweg wewiip kii-oshi’aawaat iiniw namewa’ (and then, they say, the women quickly prepared the sturgeon); kii-nametekokaanaawaat (they smoked them on drying-frames); kii-agoonaawaat agwachiing gaye piindig endaawaat (they hung them up outside and inside where they lived).</span>
 
 <span class="l-orig">(474) Mīdạc kiwīsiniwāt nībiwa, kayä nạmäwi‘tāmbīn ugī∙ā∙mwāwān.</span>
 
-<span class="l-fiero">**Mii dash ki[i]-wiisiniwaat niibiwa, gaye namewitaambiin ogii-aamwaawaan.**</span>
+<span class="l-fiero">**Mii dash ki-wiisiniwaat niibiwa, gaye namewitaambiin ogii-aamwaawaan.**</span>
 
-<span class="l-eng">*And then they had a great deal to eat, and [the spinal cord] of sturgeon they ate.*</span>
+<span class="l-eng">*And then they had a great deal to eat, and of sturgeon they ate.*</span>
 
-<span class="l-gloss">Mii dash ki[i]-wiisiniwaat niibiwa (and then they had much to eat), gaye namewitaambiin ogii-aamwaawaan (and the spinal cord of the sturgeon they ate).</span>
+<span class="l-gloss">Mii dash ki-wiisiniwaat niibiwa (and then they had much to eat), gaye namewitaambiin ogii-aamwaawaan (and the spinal cord of the sturgeon they ate).</span>
 
 <span class="l-orig">(475) Ingi’yudạc ạbinōdcī∙ạ∙g upapā∙a∙īndanamāwān īni’ᵘ wa‘tāmbīn.</span>
 
@@ -3824,13 +3822,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(476) Mīdạc kīwäⁿ awä a‘kawäⁿzi tạgwicing pitcägisät.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh awe akawenzi tagwishing pichegiset.**</span>
+<span class="l-fiero">**Mii dash giiwenh awe akawenzi tagwishing pichegiset.**</span>
 
 <span class="l-eng">*And they say, when the old man returned, he came riding his canoe upon the shore.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh awe akawenzi tagwishing pichegiset (and then, they say, when the old man returned, he rode his canoe up onto the shore).</span>
+<span class="l-gloss">Mii dash giiwenh awe akawenzi tagwishing pichegiset (and then, they say, when the old man returned, he rode his canoe up onto the shore).</span>
 
-<span class="l-orig">(477) Mīdạc īgi’ᵘ abinōtcī∙ạ∙g nāsipīpa∙i∙tīwāt pä‘kic ta‘ta‘kunāwāt īni’ᵘ u‘tāmbīn.</span>
+<span class="l-orig">(477) Mīdạc īgi´ᵘ abinōtcī∙ạ∙g nāsipīpa∙i∙tīwāt pä‘kic ta‘ta‘kunāwāt īni´ᵘ u‘tāmbīn.</span>
 
 <span class="l-fiero">**Mii dash iigiw abinoochii’ag naasipiipa’itiiwaat pekish tatakonaawaat iiniw otaambiin.**</span>
 
@@ -3838,13 +3836,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash iigiw abinoochii’ag naasipiipa’itiiwaat (thereupon the children ran racing down to the water) pekish tatakonaawaat iiniw otaambiin (at the same time holding the spinal cord in their hands).</span>
 
-<span class="l-orig">(478) Mēdạc kīwäⁿ änāt īni’ᵘ ūcicäⁿyaᵉ:</span>
+<span class="l-orig">(478) Mēdạc kīwäⁿ änāt īni´ᵘ ūcicäⁿyaᵉ:</span>
 
-<span class="l-fiero">**Me dash kiiwenh enaat iiniw ooshishenya’:**</span>
+<span class="l-fiero">**Me dash giiwenh enaat iiniw ooshishenya’:**</span>
 
 <span class="l-eng">*And then they say that he said to his grandchildren:*</span>
 
-<span class="l-gloss">Me dash kiiwenh enaat iiniw ooshishenya’ (and then, they say, he said to his grandchildren):</span>
+<span class="l-gloss">Me dash giiwenh enaat iiniw ooshishenya’ (and then, they say, he said to his grandchildren):</span>
 
 <span class="l-orig">(479) “Ānti kā∙u∙ndinamäg mādciyäg?”</span>
 
@@ -3862,7 +3860,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Nimpaapa’inaan sa ogii-pitoon.” (“why, our father brought it.”)</span>
 
-<span class="l-orig">(481) “Wägunän iᵉi’ᵘ?” udinān.</span>
+<span class="l-orig">(481) “Wägunän iᵉi´ᵘ?” udinān.</span>
 
 <span class="l-fiero">**“Wegonen i’iw?” odinaan.**</span>
 
@@ -3888,21 +3886,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(484) ‘Ca, nimpāpā∙i∙nān!’</span>
 
-<span class="l-fiero">**“’Sha, nimpaapaa’inaan!’**</span>
+<span class="l-fiero">**“‘Sha, nimpaapaa’inaan!’**</span>
 
-<span class="l-eng">*“’Oh, it was our father!’*</span>
+<span class="l-eng">*“‘Oh, it was our father!’*</span>
 
 <span class="l-gloss">“‘Sha, nimpaapaa’inaan!’ (“‘oh, it was our father!’)</span>
 
 <span class="l-orig">(485) Nōmikäna mîcinạmäwạn ugī‘kumigōn kipāpa.</span>
 
-<span class="l-fiero">**Noomikena mi(i)shinamewan ogii-komigoon kipaapa.**</span>
+<span class="l-fiero">**Noomikena mishinamewan ogii-komigoon kipaapa.**</span>
 
 <span class="l-eng">*Why, it is some time since that by a big sturgeon was your father swallowed.*</span>
 
-<span class="l-gloss">Noomikena mi(i)shinamewan ogii-komigoon kipaapa (why, some time ago a great sturgeon swallowed your father).</span>
+<span class="l-gloss">Noomikena mishinamewan ogii-komigoon kipaapa (why, some time ago a great sturgeon swallowed your father).</span>
 
-<span class="l-orig">(486) Cigakuca ugạcikutāmigōn aᵘ kipāpa∙i∙wā,” udinān īni’ᵘ ūcicäⁿyaᵉ.</span>
+<span class="l-orig">(486) Cigakuca ugạcikutāmigōn aᵘ kipāpa∙i∙wā,” udinān īni´ᵘ ūcicäⁿyaᵉ.</span>
 
 <span class="l-fiero">**Shiga kosha ogashikotaamigoon aw kipaapa’iwaa,” odinaan iiniw ooshishenya’.**</span>
 
@@ -3920,11 +3918,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(488) Ạwidạc a‘kiwäⁿzi ā‘pidci wänāgusininig tạgwicin.</span>
 
-<span class="l-fiero">**Aw idash akiwenzi aapiji wenaagos[h]ininig tagwishin.**</span>
+<span class="l-fiero">**Aw idash akiwenzi aapiji wenaagosininig tagwishin.**</span>
 
 <span class="l-eng">*Now, the old man was late in the evening arriving home.*</span>
 
-<span class="l-gloss">Aw idash akiwenzi aapiji wenaagos[h]ininig tagwishin (now the old man arrived home late in the evening).</span>
+<span class="l-gloss">Aw idash akiwenzi aapiji wenaagosininig tagwishin (now the old man arrived home late in the evening).</span>
 
 <span class="l-orig">(489) Kāwīn kạnagä kägō pītōsīn.</span>
 
@@ -3952,11 +3950,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(492) Mīdec kīwäⁿ a‘kiwäⁿzi kāgwīnawī∙i∙nābit.</span>
 
-<span class="l-fiero">**Mii desh kiiwenh akiwenzi kaa-gwiinawii-inaabit.**</span>
+<span class="l-fiero">**Mii desh giiwenh akiwenzi kaa-gwiinawii-inaabit.**</span>
 
 <span class="l-eng">*And then it is said that the old man knew not where to look.*</span>
 
-<span class="l-gloss">Mii desh kiiwenh akiwenzi kaa-gwiinawii-inaabit (and then, they say, the old man knew not where to look).</span>
+<span class="l-gloss">Mii desh giiwenh akiwenzi kaa-gwiinawii-inaabit (and then, they say, the old man knew not where to look).</span>
 
 <span class="l-orig">(493) Weyābạmāt unīngwạnạn cäcīngicininit wändạbinit, kāwīn kägō i‘kitosī.</span>
 
@@ -3968,11 +3966,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(494) Mīdạc kīwäⁿ minawā ninguting ānicînā ātisō‘kān mīnawā udinān uningwạnạn:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh minawaa ningoting aanish i(i)naa aatisookaan miinawaa odinaan oningwanan:**</span>
+<span class="l-fiero">**Mii dash giiwenh minawaa ningoding aanish iinaa aatisookaan miinawaa odinaan oningwanan:**</span>
 
 <span class="l-eng">*And now they say that on another occasion, according to the story, he said to his son-in-law:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh minawaa ningoting aanish i(i)naa aatisookaan (and now, they say, on another occasion, as the story goes) miinawaa odinaan oningwanan (he again said to his son-in-law):</span>
+<span class="l-gloss">Mii dash giiwenh minawaa ningoding aanish iinaa aatisookaan (and now, they say, on another occasion, as the story goes) miinawaa odinaan oningwanan (he again said to his son-in-law):</span>
 
 <span class="l-orig">(495) “Tcipabānạntukayāckwāwānwäyāngubạn!”</span>
 
@@ -3984,11 +3982,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(496) Mīdạc kīwäⁿ änāt:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh enaat:**</span>
+<span class="l-fiero">**Mii dash giiwenh enaat:**</span>
 
 <span class="l-eng">*Whereupon they say that he said to him:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh enaat (whereupon, they say, he said to him):</span>
+<span class="l-gloss">Mii dash giiwenh enaat (whereupon, they say, he said to him):</span>
 
 <span class="l-orig">(497) “Ānīn nạngwạna!”</span>
 
@@ -4016,11 +4014,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(500) Mīdạc kīwäⁿ awinini minawā aiyāngwāmimigut wīwạn ā‘pidci.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini minawaa aiyaangwaamimigot wiiwan aapiji.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini minawaa aiyaangwaamimigot wiiwan aapiji.**</span>
 
 <span class="l-eng">*And then it is said that the man was again told by his wife to be ever so careful.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini minawaa aiyaangwaamimigot wiiwan aapiji (and then, they say, the man was again warned by his wife to be very careful).</span>
+<span class="l-gloss">Mii dash giiwenh aw inini minawaa aiyaangwaamimigot wiiwan aapiji (and then, they say, the man was again warned by his wife to be very careful).</span>
 
 <span class="l-orig">(501) Mīdạc mādcāwâgubạnän, pōsiwāt minawā.</span>
 
@@ -4032,19 +4030,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(502) Mīgu mīnawā ändōdạnk aᵘ a‘kiwäⁿjī∙i∙c; pa‘kitä∙ạ∙nk utcīmānic, āja mīnawā pāpigä wâsa pitạgwicinōg; minawā pa‘kitä∙ạ∙nk utcimān mī tạgwicinowāt kiˢtciminisābi‘kunk; kiˢtciminisābi‘k.</span>
 
-<span class="l-fiero">**Mii go miinawaa endoodank aw akiwenzhii’ish; pakite’ank ochimaanish, aazha miinawaa paapige wasa pi-tagwishinoog; minawaa pakite’ank ochimaan mii tagwishinowaat kischi-minisaabikonk; kischi-minisaabik.**</span>
+<span class="l-fiero">**Mii go miinawaa endoodank aw akiwenzhii’ish; pakite’ank ochimaanish, aazha miinawaa paapige wasa pi-tagwishinoog; minawaa pakite’ank ochimaan mii tagwishinowaat gichi-minisaabikonk; gichi-minisaabik.**</span>
 
 <span class="l-eng">*And so the same thing as before the hateful old man did;he struck his old canoe, and soon they were suddenly a long distance away;again he struck his canoe, whereupon they arrived at a great island of rock; (it was) a great island of rock.*</span>
 
-<span class="l-gloss">Mii go miinawaa endoodank aw akiwenzhii’ish (and so the same thing as before the hateful old man did); pakite’ank ochimaanish (he struck his miserable canoe), aazha miinawaa paapige wasa pi-tagwishinoog (and at once again they were suddenly far off); minawaa pakite’ank ochimaan (again he struck his canoe) mii tagwishinowaat kischi-minisaabikonk (whereupon they arrived at a great rock-island); kischi-minisaabik (a great island of rock).</span>
+<span class="l-gloss">Mii go miinawaa endoodank aw akiwenzhii’ish (and so the same thing as before the hateful old man did); pakite’ank ochimaanish (he struck his miserable canoe), aazha miinawaa paapige wasa pi-tagwishinoog (and at once again they were suddenly far off); minawaa pakite’ank ochimaan (again he struck his canoe) mii tagwishinowaat gichi-minisaabikonk (whereupon they arrived at a great rock-island); gichi-minisaabik (a great island of rock).</span>
 
 <span class="l-orig">(503) “Mī∙o∙mā,” udigōn; “mīsōmā tcigạbaiyạnk,” udigōn.</span>
 
-<span class="l-fiero">**“Mii omaa,” odigoon; “miis[h] oomaa chi-gabaiyank,” odigoon.**</span>
+<span class="l-fiero">**“Mii omaa,” odigoon; “miis oomaa chi-gabaiyank,” odigoon.**</span>
 
 <span class="l-eng">*“Here is the place,” the other was told; “here is just the place where we will go ashore,” the other was told.*</span>
 
-<span class="l-gloss">“Mii omaa,” odigoon (“here is the place,” he was told); “miis[h] oomaa chi-gabaiyank,” odigoon (“right here is where we will go ashore,” he was told).</span>
+<span class="l-gloss">“Mii omaa,” odigoon (“here is the place,” he was told); “miis oomaa chi-gabaiyank,” odigoon (“right here is where we will go ashore,” he was told).</span>
 
 <span class="l-orig">(504) Mīdec kägä‘t kabāwāt.</span>
 
@@ -4152,11 +4150,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(517) Payābạmītidạc inābit āja mîcawạgān agamōwạn.</span>
 
-<span class="l-fiero">**Payaabamiit idash inaabit aazha mi(i)shawagaan agamoowan.**</span>
+<span class="l-fiero">**Payaabamiit idash inaabit aazha mishawagaan agamoowan.**</span>
 
 <span class="l-eng">*But when he turned round to look, already far out at sea was the other in the canoe.*</span>
 
-<span class="l-gloss">Payaabamiit idash inaabit (but when he turned round to look) aazha mi(i)shawagaan agamoowan (already far out at sea was the other in the canoe).</span>
+<span class="l-gloss">Payaabamiit idash inaabit (but when he turned round to look) aazha mishawagaan agamoowan (already far out at sea was the other in the canoe).</span>
 
 <span class="l-orig">(518) Mīdạc aᵘ inini nōndawāt i‘kidunit:</span>
 
@@ -4168,11 +4166,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(519) “Mîcikayackutug, kitạcamininim inini; mäⁿwīca‘ku äjinạndawäntamawiyäg!”</span>
 
-<span class="l-fiero">**“Mi(i)shi-kayashkotog, kitashamininim inini; menwiisha ko ezhi-nandawentamawiyeg!”**</span>
+<span class="l-fiero">**“Mishi-kayashkotog, kitashamininim inini; menwiisha ko ezhi-nandawentamawiyeg!”**</span>
 
 <span class="l-eng">*“O ye Great-Gulls! I feed you a man; long have you wished him of me.”*</span>
 
-<span class="l-gloss">“Mi(i)shi-kayashkotog, kitashamininim inini (“O you Great-Gulls! I feed you a man); menwiisha ko ezhi-nandawentamawiyeg!” (long have you wished him of me!”)</span>
+<span class="l-gloss">“Mishi-kayashkotog, kitashamininim inini (“O you Great-Gulls! I feed you a man); menwiisha ko ezhi-nandawentamawiyeg!” (long have you wished him of me!”)</span>
 
 <span class="l-orig">(520) Mīdạc kägä‘t pạnägu mîcikayāckwạg.</span>
 
@@ -4184,11 +4182,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(521) Mīdec kīwäⁿ awinini minawā nāsāb änāt:</span>
 
-<span class="l-fiero">**Mii desh kiiwenh aw inini minawaa naasaab enaat:**</span>
+<span class="l-fiero">**Mii desh giiwenh aw inini minawaa naasaab enaat:**</span>
 
 <span class="l-eng">*And now they say the man said to them the same thing that he had said before:*</span>
 
-<span class="l-gloss">Mii desh kiiwenh aw inini minawaa naasaab enaat (and now, they say, the man said to them the same as before):</span>
+<span class="l-gloss">Mii desh giiwenh aw inini minawaa naasaab enaat (and now, they say, the man said to them the same as before):</span>
 
 <span class="l-orig">(522) “Tcī, tcī, tcī!” udinān.</span>
 
@@ -4248,19 +4246,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(529) Mīdạc kīwäⁿ cayīgwa pipōnīnit wā‘kiwäwinigut mîcikayāckwạn.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh shayiigwa pipooninit waa-kiwewinigot mi(i)shi-kayaashkwan.**</span>
+<span class="l-fiero">**Mii dash giiwenh shayiigwa pipooninit waa-kiwewinigot mishi-kayaashkwan.**</span>
 
 <span class="l-eng">*Thereupon it is said that now came and alighted Great-Gull, by whom he was to be taken home.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh shayiigwa pipooninit waa-kiwewinigot mi(i)shi-kayaashkwan (thereupon, they say, now came and alighted Great-Gull, by whom he was to be taken home).</span>
+<span class="l-gloss">Mii dash giiwenh shayiigwa pipooninit waa-kiwewinigot mishi-kayaashkwan (thereupon, they say, now came and alighted Great-Gull, by whom he was to be taken home).</span>
 
-<span class="l-orig">(530) “‘Ā‘ā’ᵘ,” udigōn; “nimpi‘kwunāng owänạpîn.”</span>
+<span class="l-orig">(530) “‘Ā‘ā´ᵘ,” udigōn; “nimpi‘kwunāng owänạpîn.”</span>
 
-<span class="l-fiero">**“Aa’aaw,” odigoon; “nimpikwonaang owenapi(i)n.”**</span>
+<span class="l-fiero">**“Aa’aaw,” odigoon; “nimpikwonaang owenapin.”**</span>
 
 <span class="l-eng">*“All right!” he was told; “upon my back shall you sit.”*</span>
 
-<span class="l-gloss">“Aa’aaw,” odigoon (“all right!” he was told); “nimpikwonaang owenapi(i)n.” (“upon my back you shall sit.”)</span>
+<span class="l-gloss">“Aa’aaw,” odigoon (“all right!” he was told); “nimpikwonaang owenapin.” (“upon my back you shall sit.”)</span>
 
 <span class="l-orig">(531) Mīdạc kägä‘t äji∙o∙wänạbit mīdạc äjimādcīsät aᵘ micikayāck.</span>
 
@@ -4270,7 +4268,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash keget ezhi-owenabit (and truly, when he was seated) mii dash ezhi-maajiiset aw mishi-kayaashk (then away flew Great-Gull).</span>
 
-<span class="l-orig">(532) Mīdạc ạnipạpimisät owâbạmān īni’ᵘ a‘kiwäjī∙i∙cạn ābi‘tawōnạg aya‘tawācininit piminạgạmunit pä‘kic pāga∙a∙‘ku‘kwānit.</span>
+<span class="l-orig">(532) Mīdạc ạnipạpimisät owâbạmān īni´ᵘ a‘kiwäjī∙i∙cạn ābi‘tawōnạg aya‘tawācininit piminạgạmunit pä‘kic pāga∙a∙‘ku‘kwānit.</span>
 
 <span class="l-fiero">**Mii dash ani-papimiset owabamaan iiniw akiwezhii’ishan aabitawoonag ayatawaashininit piminagamonit pekish paaga’akokwenit.**</span>
 
@@ -4280,19 +4278,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(533) Mīdạc kīwäⁿ aᵘ mîcigayāck kā∙i∙jimīdcināt nāwā‘kigạn.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw mishi-gayaashk kaa-izhi-miijinaat naawaakigan.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw mishi-gayaashk kaa-izhi-miijinaat naawaakigan.**</span>
 
 <span class="l-eng">*And then they say Great-Gull muted upon his chest.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw mishi-gayaashk kaa-izhi-miijinaat naawaakigan (and then, they say, Great-Gull dropped its mute upon his chest).</span>
+<span class="l-gloss">Mii dash giiwenh aw mishi-gayaashk kaa-izhi-miijinaat naawaakigan (and then, they say, Great-Gull dropped its mute upon his chest).</span>
 
 <span class="l-orig">(534) Mīdạc kīwäⁿ kā∙i∙cināncibitōd kīmināndạnk, mīdạc kīwäⁿ ä‘kitut:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh kaa-izhinaanshibitood kiiminaandank, mii dash kiiwenh ekitot:**</span>
+<span class="l-fiero">**Mii dash giiwenh kaa-izhinaanshibitood kiiminaandank, mii dash giiwenh ekitot:**</span>
 
 <span class="l-eng">*And then they say that afterwards, when he rubbed his finger in it, he smelled of it.Whereupon they say he said:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh kaa-izhinaanshibitood kiiminaandank (and then, they say, afterward, when he rubbed his finger in it, he smelled it), mii dash kiiwenh ekitot (whereupon, they say, he said):</span>
+<span class="l-gloss">Mii dash giiwenh kaa-izhinaanshibitood kiiminaandank (and then, they say, afterward, when he rubbed his finger in it, he smelled it), mii dash giiwenh ekitot (whereupon, they say, he said):</span>
 
 <span class="l-orig">(535) “Pwā! mī yäcmāgutinig umu‘uwā naˢāngī kā∙ū∙mwugut.”</span>
 
@@ -4304,13 +4302,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(536) Mīdạc kīwäⁿ awinini kītagwicimigut ändāt īni’ᵘ mîcigayāckwạn.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini kii-tagwishimigot endaat iiniw mi(i)shi-gayaashkwan.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini kii-tagwishimigot endaat iiniw mishi-gayaashkwan.**</span>
 
 <span class="l-eng">*And so it is said that the man was conveyed home by Great-Gull.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini kii-tagwishimigot endaat iiniw mi(i)shi-gayaashkwan (and so, they say, the man was carried home by Great-Gull).</span>
+<span class="l-gloss">Mii dash giiwenh aw inini kii-tagwishimigot endaat iiniw mishi-gayaashkwan (and so, they say, the man was carried home by Great-Gull).</span>
 
-<span class="l-orig">(537) Mīdạc kipạgitinigut imā ạgạmīng.</span>
+<span class="l-orig">(537) Mīdạc kīpạgitinigut imā ạgạmīng.</span>
 
 <span class="l-fiero">**Mii dash kii-pagitinigot imaa agamiing.**</span>
 
@@ -4328,11 +4326,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(539) Ā‘pidci dạc kīwäⁿ minwändạmōn wiwạn kayä unīdcānisạn.</span>
 
-<span class="l-fiero">**Aapiji dash kiiwenh minwendamon wiiwan gaye oniijaanisan.**</span>
+<span class="l-fiero">**Aapiji dash giiwenh minwendamon wiiwan gaye oniijaanisan.**</span>
 
 <span class="l-eng">*And very pleased, so they say, were his wife and his children.*</span>
 
-<span class="l-gloss">Aapiji dash kiiwenh minwendamon wiiwan gaye oniijaanisan (and very pleased, they say, were his wife and his children).</span>
+<span class="l-gloss">Aapiji dash giiwenh minwendamon wiiwan gaye oniijaanisan (and very pleased, they say, were his wife and his children).</span>
 
 <span class="l-orig">(540) Pạnä aᵘ i‘kwä, “Ạmạntcigunā niwītigämāgạn, minawā tcitạgwicinogwän!” inändạm awi‘kwä.</span>
 
@@ -4392,11 +4390,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(547) Mīdạc kīwäⁿ kī‘kisisạngin pạngī kā‘pītōnit unāpămạn.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh kii-kiisisangin pangii kaa-pitoonit onaapeman.**</span>
+<span class="l-fiero">**Mii dash giiwenh kii-kiisisangin pangii kaa-pitoonit onaapeman.**</span>
 
 <span class="l-eng">*And then they say that she cooked the few that her husband had fetched.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh kii-kiisisangin pangii kaa-pitoonit onaapeman (and then, they say, she cooked the few that her husband had brought).</span>
+<span class="l-gloss">Mii dash giiwenh kii-kiisisangin pangii kaa-pitoonit onaapeman (and then, they say, she cooked the few that her husband had brought).</span>
 
 <span class="l-orig">(548) Mīdạc kīwīsiniwāt.</span>
 
@@ -4408,11 +4406,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(549) Mīdạc kīwäⁿ īgi’ᵘ ạbinōtcīyạg sāsāgitạpiwāt mīminawa wābạmāwāt omicōmisiwān pitạgwicininit.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh iigiw abinoochiiyag saasaagitapiwaat mii minawa waabamaawaat omishoomisiwaan pitagwishininit.**</span>
+<span class="l-fiero">**Mii dash giiwenh iigiw abinoochiiyag saasaagitapiwaat mii minawa waabamaawaat omishoomisiwaan pitagwishininit.**</span>
 
 <span class="l-eng">*And then it is said that the children were sitting out of doors, when again they saw their grandfather coming home.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh iigiw abinoochiiyag saasaagitapiwaat (and then, they say, the children were sitting outside) mii minawa waabamaawaat omishoomisiwaan pitagwishininit (when again they saw their grandfather coming home).</span>
+<span class="l-gloss">Mii dash giiwenh iigiw abinoochiiyag saasaagitapiwaat (and then, they say, the children were sitting outside) mii minawa waabamaawaat omishoomisiwaan pitagwishininit (when again they saw their grandfather coming home).</span>
 
 <span class="l-orig">(550) Mīdạc ägōwāt:</span>
 
@@ -4480,35 +4478,35 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(558) “‘Ca, nimpōpōnōn!’</span>
 
-<span class="l-fiero">**“Sha, nimpoopoonoon!’**</span>
+<span class="l-fiero">**“‘Sha, nimpoopoonoon!’**</span>
 
-<span class="l-eng">*“ ’Oh, it was our father!*</span>
+<span class="l-eng">*“ ‘Oh, it was our father!*</span>
 
-<span class="l-gloss">“Sha, nimpoopoonoon!’ (“‘oh, it was our father!’)</span>
+<span class="l-gloss">“‘Sha, nimpoopoonoon!’ (“‘oh, it was our father!’)</span>
 
-<span class="l-orig">(559) Nōmī‘käna mîcikayāckwạn ugînạngwudämigōn a kōsiwā,” udinān.</span>
+<span class="l-orig">(559) Nōmī‘käna mîcikayāckwạn ugīnạngwudämigōn a kōsiwā,” udinān.</span>
 
-<span class="l-fiero">**Noomiikena mi(i)shikayaashkwan ogii-nangwodemigoon a koosiwaa,” odinaan.**</span>
+<span class="l-fiero">**Noomiikena mishikayaashkwan ogii-nangwodemigoon a koosiwaa,” odinaan.**</span>
 
 <span class="l-eng">*’Why, it has been some time since that your father was digested by Great-Gull,” he (thus) said to them.*</span>
 
-<span class="l-gloss">Noomiikena mi(i)shikayaashkwan ogii-nangwodemigoon a koosiwaa,” odinaan (why, some time ago your father was digested by Great-Gull,” he said to them).</span>
+<span class="l-gloss">Noomiikena mishikayaashkwan ogii-nangwodemigoon a koosiwaa,” odinaan (why, some time ago your father was digested by Great-Gull,” he said to them).</span>
 
 <span class="l-orig">(560) Mīdec kīwäⁿ äji∙u∙ckipa∙i∙tiwāt īgi’ᵘ ạbinōtcī∙a∙g ạnikīwäwāt.</span>
 
-<span class="l-fiero">**Mii desh kiiwenh ezhi-oshkipa’itiwaat iigiw abinoochiii’ag ani-kiiwewaat.**</span>
+<span class="l-fiero">**Mii desh giiwenh ezhi-oshkipa’itiwaat iigiw abinoochiii’ag ani-kiiwewaat.**</span>
 
 <span class="l-eng">*Thereupon they say that back sped the children, racing home.*</span>
 
-<span class="l-gloss">Mii desh kiiwenh ezhi-oshkipa’itiwaat iigiw abinoochiii’ag ani-kiiwewaat (thereupon, they say, the children sped back, racing home).</span>
+<span class="l-gloss">Mii desh giiwenh ezhi-oshkipa’itiwaat iigiw abinoochiii’ag ani-kiiwewaat (thereupon, they say, the children sped back, racing home).</span>
 
 <span class="l-orig">(561) Mīdạc kīwäⁿ aᵘ a‘kiwäⁿjī∙i∙c änigu‘pīt; ạnipīndigät, kägä‘t dạc owâbạmān uningwạnạn ayānit pīndik.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw akiwenzhii’ish eni-gopiit; ani-piindiget, keget dash owabamaan oningwanan ayaanit piindik.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw akiwenzhii’ish eni-gopiit; ani-piindiget, keget dash owabamaan oningwanan ayaanit piindik.**</span>
 
 <span class="l-eng">*And now it is said that the old man went on up from the shore; and when he passed on inside, truly, there he saw his son-in-law, who was within.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw akiwenzhii’ish eni-gopiit (and now, they say, the old man went up from the shore); ani-piindiget (and as he passed inside), keget dash owabamaan oningwanan ayaanit piindik (truly he saw his son-in-law, who was within).</span>
+<span class="l-gloss">Mii dash giiwenh aw akiwenzhii’ish eni-gopiit (and now, they say, the old man went up from the shore); ani-piindiget (and as he passed inside), keget dash owabamaan oningwanan ayaanit piindik (truly he saw his son-in-law, who was within).</span>
 
 <span class="l-orig">(562) Mīdec kägä‘t kwīnawī∙i∙nābi; kayä inändạnk ānīn äjiwäbisigwän, ā‘pitci kwīnawī∙i∙nänimān.</span>
 
@@ -4520,7 +4518,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(563) Käwīn dạc kägō i‘kitusī minawā.</span>
 
-<span class="l-fiero">**Kewiin dash kegoo ikitosii minawaa. [gaawiin]**</span>
+<span class="l-fiero">**Kewiin dash kegoo ikitosii minawaa.**</span>
 
 <span class="l-eng">*But he had nothing further to say.*</span>
 
@@ -4528,27 +4526,27 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(564) Nīnguding dạc kīwäⁿ minawā udinān uningwạnạn:</span>
 
-<span class="l-fiero">**Niingoding dash kiiwenh minawaa odinaan oningwanan:**</span>
+<span class="l-fiero">**Niingoding dash giiwenh minawaa odinaan oningwanan:**</span>
 
 <span class="l-eng">*And so once on a time they say that he said to his son-in-law:*</span>
 
-<span class="l-gloss">Niingoding dash kiiwenh minawaa odinaan oningwanan (and so once on a time, they say, he again said to his son-in-law):</span>
+<span class="l-gloss">Niingoding dash giiwenh minawaa odinaan oningwanan (and so once on a time, they say, he again said to his son-in-law):</span>
 
 <span class="l-orig">(565) “Naˢāngī, misa minawā tcînạndawändcigäyạnguban.</span>
 
-<span class="l-fiero">**“Na’aangii, mi sa minawaa chi(i)-nandawenjigeyangoban.**</span>
+<span class="l-fiero">**“Na’aangii, mi sa minawaa chi-nandawenjigeyangoban.**</span>
 
 <span class="l-eng">*“Son-in-law, it is now time for us again to go hunting for game.*</span>
 
-<span class="l-gloss">“Na’aangii, mi sa minawaa chi(i)-nandawenjigeyangoban (“son-in-law, it is now time for us to go hunting again).</span>
+<span class="l-gloss">“Na’aangii, mi sa minawaa chi-nandawenjigeyangoban (“son-in-law, it is now time for us to go hunting again).</span>
 
 <span class="l-orig">(566) Tcî∙a∙ndu∙u∙di‘kwäyạng!”</span>
 
-<span class="l-fiero">**Chi(i)-ando-odikweyang!” [ji-(n)ando-adikweyang]**</span>
+<span class="l-fiero">**Chi-ando-odikweyang!”**</span>
 
 <span class="l-eng">*Let us go hunting for caribou!”*</span>
 
-<span class="l-gloss">Chi(i)-ando-odikweyang!” (let us go hunting for caribou!”)</span>
+<span class="l-gloss">Chi-ando-odikweyang!” (let us go hunting for caribou!”)</span>
 
 <span class="l-orig">(567) “Ānīn nạngwạna!” udinān awinini.</span>
 
@@ -4568,11 +4566,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(569) “Uci‘tōn ma‘kisînan.”</span>
 
-<span class="l-fiero">**“Oshitoon makisi(i)nan.”**</span>
+<span class="l-fiero">**“Oshitoon makisinan.”**</span>
 
 <span class="l-eng">*“Make some moccasins.”*</span>
 
-<span class="l-gloss">“Oshitoon makisi(i)nan.” (“make some moccasins.”)</span>
+<span class="l-gloss">“Oshitoon makisinan.” (“make some moccasins.”)</span>
 
 <span class="l-orig">(570) Mīdạc kägät awi‘kwä uci‘tōd.</span>
 
@@ -4608,59 +4606,59 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(574) Mīdạc kīwäⁿkägä‘t imā ucigäwāt, ki‘tci∙a∙cigạnägān uci‘tōnāwā.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh keget imaa oshigewaat, kichi-ashiganegaan oshitoonaawaa.**</span>
+<span class="l-fiero">**Mii dash giiwenh keget imaa oshigewaat, gichi-ashiganegaan oshitoonaawaa.**</span>
 
 <span class="l-eng">*And then they say that truly there they made camp, a great sheltercamp they put up.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh keget imaa oshigewaat (and then, they say, truly there they camped), kichi-ashiganegaan oshitoonaawaa (a great shelter-camp they put up).</span>
+<span class="l-gloss">Mii dash giiwenh keget imaa oshigewaat (and then, they say, truly there they camped), gichi-ashiganegaan oshitoonaawaa (a great shelter-camp they put up).</span>
 
 <span class="l-orig">(575) Kayädạc ki‘tci∙i∙ckutä nạbanäya∙ī∙.</span>
 
-<span class="l-fiero">**Gaye dash kichi-ishkote nabaneya’ii.**</span>
+<span class="l-fiero">**Gaye dash gichi-ishkote nabaneya’ii.**</span>
 
 <span class="l-eng">*And also a huge fire at one side (was kindled).*</span>
 
-<span class="l-gloss">Gaye dash kichi-ishkote nabaneya’ii (and also a great fire at one side).</span>
+<span class="l-gloss">Gaye dash gichi-ishkote nabaneya’ii (and also a great fire at one side).</span>
 
 <span class="l-orig">(576) Mīdạc kīwäⁿ aᵘ a‘kiwäⁿjī∙i∙c cayīgwa ki‘kīcändạnk wā‘tōdawāt unīngwạnạn.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw akiwrnzhii’ish shayiigwa ki-kiishendank waatoodawaat oniingwanan.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw akiwenzhii’ish shayiigwa ki-kiishendank waatoodawaat oniingwanan.**</span>
 
 <span class="l-eng">*And now it is said that the contemptible old man had already, by this time, made up his mind as to what he would do to his son-inlaw.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw akiwrnzhii’ish shayiigwa ki-kiishendank waatoodawaat oniingwanan (and now, they say, the contemptible old man had by now made up his mind what he would do to his son-in-law).</span>
+<span class="l-gloss">Mii dash giiwenh aw akiwenzhii’ish shayiigwa ki-kiishendank waatoodawaat oniingwanan (and now, they say, the contemptible old man had by now made up his mind what he would do to his son-in-law).</span>
 
 <span class="l-orig">(577) Mīdạc kīwäⁿ änāt kā∙i∙ckwâwīsiniwāt wänāgucininig:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh enaat kaa-iishkwa-wiisiniwaat wenaagoshininig:**</span>
+<span class="l-fiero">**Mii dash giiwenh enaat kaa-iishkwa-wiisiniwaat wenaagoshininig:**</span>
 
 <span class="l-eng">*Therefore they say that he said to him, after they had eaten in the evening:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh enaat kaa-iishkwa-wiisiniwaat wenaagoshininig (therefore, they say, he said to him after they had eaten in the evening):</span>
+<span class="l-gloss">Mii dash giiwenh enaat kaa-iishkwa-wiisiniwaat wenaagoshininig (therefore, they say, he said to him after they had eaten in the evening):</span>
 
 <span class="l-orig">(578) “Naˢāngī,” udinān, “kiˢtcipōduwän,” udinān.</span>
 
-<span class="l-fiero">**“Na’aangii,” odinaan, “kischi-poodowen,” odinaan.**</span>
+<span class="l-fiero">**“Na’aangii,” odinaan, “gichi-poodowen,” odinaan.**</span>
 
 <span class="l-eng">*“Son-in-law,” he (thus) said to him, “build up a great fire,” he said to him.*</span>
 
-<span class="l-gloss">“Na’aangii,” odinaan, “kischi-poodowen,” odinaan (“son-in-law,” he said to him, “build up a great fire,” he said to him).</span>
+<span class="l-gloss">“Na’aangii,” odinaan, “gichi-poodowen,” odinaan (“son-in-law,” he said to him, “build up a great fire,” he said to him).</span>
 
-<span class="l-orig">(579) “Mīdạc kī‘ki‘tcipōdawäyạn mî‘tcigagītcīyạng tcipāsạmạng; kîdai∙ī∙minānin kīkataiyagōtōmin kayä kima‘kisinānin,” udinān.</span>
+<span class="l-orig">(579) “Mīdạc kī‘ki‘tcipōdawäyạn mī‘tcigagītcīyạng tcipāsạmạng; kîdai∙ī∙minānin kīkataiyagōtōmin kayä kima‘kisinānin,” udinān.</span>
 
-<span class="l-fiero">**“Mii dash kii-kichi-poodaweyan mii chi-gagiichiiyang chi-paasamang; ki(i)dai’iiminaanin kii-kataiyagootoomin gaye kimakisinaanin,” odinaan.**</span>
+<span class="l-fiero">**“Mii dash kii-kichi-poodaweyan mii chi-gagiichiiyang chi-paasamang; kidai’iiminaanin kii-kataiyagootoomin gaye kimakisinaanin,” odinaan.**</span>
 
 <span class="l-eng">*“And after you have kindled a big fire, then let us remove our moccasins, so that we can dry them; our clothes will we hang up, and likewise our moccasins,” he (thus) said to him.*</span>
 
-<span class="l-gloss">“Mii dash kii-kichi-poodaweyan mii chi-gagiichiiyang chi-paasamang (“and after you have built a big fire, then let us take off our moccasins to dry them); ki(i)dai’iiminaanin kii-kataiyagootoomin gaye kimakisinaanin,” odinaan (we will hang up our clothes, and our moccasins too,” he said to him).</span>
+<span class="l-gloss">“Mii dash kii-kichi-poodaweyan mii chi-gagiichiiyang chi-paasamang (“and after you have built a big fire, then let us take off our moccasins to dry them); kidai’iiminaanin kii-kataiyagootoomin gaye kimakisinaanin,” odinaan (we will hang up our clothes, and our moccasins too,” he said to him).</span>
 
 <span class="l-orig">(580) Mīdạc kīwäⁿ kägä‘t awinini äjipasigwīt, kägä‘t kiˢtcipōdawät.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh keget aw inini ezhipasigwiit, keget kischi-poodawet.**</span>
+<span class="l-fiero">**Mii dash giiwenh keget aw inini ezhipasigwiit, keget gichi-poodawet.**</span>
 
 <span class="l-eng">*Thereupon they say that truly the man rose to his feet; in truth, a great fire he built.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh keget aw inini ezhipasigwiit (thereupon, they say, truly the man rose to his feet), keget kischi-poodawet (truly he built a great fire).</span>
+<span class="l-gloss">Mii dash giiwenh keget aw inini ezhipasigwiit (thereupon, they say, truly the man rose to his feet), keget gichi-poodawet (truly he built a great fire).</span>
 
 <span class="l-orig">(581) Äckwāpōdawänitidạc, udinān aᵘ a‘kiwäⁿzī uningwạnạn:</span>
 
@@ -4672,21 +4670,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(582) “Omā pī∙a∙pạgitōn mîsạn ānint, päcu omā ayāyān.</span>
 
-<span class="l-fiero">**“Omaa pii-apagitoon mi(i)san aanint, pesho oma ayaayaan.**</span>
+<span class="l-fiero">**“Omaa pii-apagitoon misan aanint, pesho oma ayaayaan.**</span>
 
 <span class="l-eng">*“Here in this place come you, and throw some of the firewood, near here where I am.*</span>
 
-<span class="l-gloss">“Omaa pii-apagitoon mi(i)san aanint, pesho oma ayaayaan (“throw some of the firewood over here, near where I am).</span>
+<span class="l-gloss">“Omaa pii-apagitoon misan aanint, pesho oma ayaayaan (“throw some of the firewood over here, near where I am).</span>
 
 <span class="l-orig">(583) Ningapạgitînānîn ạniyā‘tawäg ickutä,” udinān.</span>
 
-<span class="l-fiero">**Ninga-pagiti(i)naani(i)n aniyaataweg ishkote,” odinaan.**</span>
+<span class="l-fiero">**Ninga-pagitinaanin aniyaataweg ishkote,” odinaan.**</span>
 
 <span class="l-eng">*I will put it on when the fire gets to burning low,” he said to him.*</span>
 
-<span class="l-gloss">Ninga-pagiti(i)naani(i)n aniyaataweg ishkote,” odinaan (I will put it on when the fire burns low,” he said to him).</span>
+<span class="l-gloss">Ninga-pagitinaanin aniyaataweg ishkote,” odinaan (I will put it on when the fire burns low,” he said to him).</span>
 
-<span class="l-orig">(584) Mīdac kägä‘t awinini kīwa‘kwā‘kuwäbinạng tcīgaya∙i∙ ayānit īni’ᵘ a‘kiwäⁿjī∙i∙cạn.</span>
+<span class="l-orig">(584) Mīdac kägä‘t awinini kīwa‘kwā‘kuwäbinạng tcīgaya∙ī∙ ayānit īni´ᵘ a‘kiwäⁿjī∙i∙cạn.</span>
 
 <span class="l-fiero">**Mii dash keget aw inini kiiwakwaakowebinang chiigaya’ii ayaanit iiniw akiwenzhii’ishan.**</span>
 
@@ -4702,7 +4700,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash gaye wiin aw inini ezhi-oshiitaad wii-kawishimot (and then the man in turn made ready to go to bed).</span>
 
-<span class="l-orig">(586) Mīdạc äjikīta‘kisinät äji∙a∙yagōtōd uma‘kisinạn, kāwīn kạnagä kägō inändạndaⁿzi, “Mīmāwin ‘iᵉi’ᵘ ningadōtāgō,” tci∙i∙nändạnk.</span>
+<span class="l-orig">(586) Mīdạc äjikīta‘kisinät äji∙a∙yagōtōd uma‘kisinạn, kāwīn kạnagä kägō inändạndaⁿzi, “Mīmāwin ‘iᵉi´ᵘ ningadōtāgō,” tci∙i∙nändạnk.</span>
 
 <span class="l-fiero">**Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan, gaawiin kanage kegoo inendandanzi, “Miimaawin i’iw ningadootaagoo,” chi-inendank.**</span>
 
@@ -4710,37 +4708,37 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan (accordingly he took off his moccasins and hung them up), gaawiin kanage kegoo inendandanzi (suspecting nothing at all), “Miimaawin i’iw ningadootaagoo,” chi-inendank (such as to think, “perhaps some evil will be done to me”).</span>
 
-<span class="l-orig">(587) Mīdạc äji∙u∙jicimōni‘kät, kayä wīndạc a‘kiwäⁿjī∙i∙c tcātcīgskutäwäcin; kāwin mạci kagītcīsī.</span>
+<span class="l-orig">(587) Mīdạc äji∙u∙jicimōni‘kät, kayä wīndạc a‘kiwäⁿjī∙i∙c tcātcīgskutäwäcin; kāwīn mạci kagītcīsī.</span>
 
-<span class="l-fiero">**Mii dash ezhi-ozhishimooniket, gaye wiin dash akiiwenzhii’ish chaachiigs[h]koteweshin; gaawiin mashi kagiichiisii.**</span>
+<span class="l-fiero">**Mii dash ezhi-ozhishimooniket, gaye wiin dash akiiwenzhii’ish chaachiigshkoteweshin; gaawiin mashi kagiichiisii.**</span>
 
 <span class="l-eng">*And while he was making his pallet ready, the hateful old man was himself lying close to the fire; not yet had he taken off his moccasins.*</span>
 
-<span class="l-gloss">Mii dash ezhi-ozhishimooniket (and while he was making his pallet ready), gaye wiin dash akiiwenzhii’ish chaachiigs[h]koteweshin (the hateful old man was himself lying close to the fire); gaawiin mashi kagiichiisii (not yet had he taken off his moccasins).</span>
+<span class="l-gloss">Mii dash ezhi-ozhishimooniket (and while he was making his pallet ready), gaye wiin dash akiiwenzhii’ish chaachiigshkoteweshin (the hateful old man was himself lying close to the fire); gaawiin mashi kagiichiisii (not yet had he taken off his moccasins).</span>
 
 <span class="l-orig">(588) Mīdạc kīwäⁿ awinini änāt:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini enaat:**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini enaat:**</span>
 
 <span class="l-eng">*And then truly the man said to him:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini enaat (and then, they say, the man said to him):</span>
+<span class="l-gloss">Mii dash giiwenh aw inini enaat (and then, they say, the man said to him):</span>
 
-<span class="l-orig">(589) “Ānicinā! Ambä kagītcīciwạn tci∙a∙gōtōyan īni’ᵘ īni’ᵘ kima‘kîsinạn tcipā‘täg mägwā ki‘tcipîskạnäg?” udinān.</span>
+<span class="l-orig">(589) “Ānīcinā! Ambä kagītcīciwạn tci∙a∙gōtōyan īni´ᵘ īni´ᵘ kima‘kîsinạn tcipā‘täg mägwā ki‘tcipîskạnäg?” udinān.</span>
 
-<span class="l-fiero">**“Aaniish inaa! Ambe kagiichiishiwan chi-agootooyan iiniw iiniw kimaki(i)sinan chi-paateg megwaa kichi-pi(i)skaneg?” odinaan.**</span>
+<span class="l-fiero">**“Aaniish inaa! Ambe kagiichiishiwan chi-agootooyan iiniw iiniw kimakisinan chi-paateg megwaa gichi-piskaneg?” odinaan.**</span>
 
 <span class="l-eng">*“Why, come! Why are you not taking off your moccasins (and) hanging them up to dry while yet the fire blazes high?” he (thus) said to him.*</span>
 
-<span class="l-gloss">“Aaniish inaa! Ambe kagiichiishiwan chi-agootooyan iiniw iiniw kimaki(i)sinan chi-paateg megwaa kichi-pi(i)skaneg?” odinaan (“why, come! why don’t you take off your moccasins and hang them to dry while the fire still blazes high?” he said to him).</span>
+<span class="l-gloss">“Aaniish inaa! Ambe kagiichiishiwan chi-agootooyan iiniw iiniw kimakisinan chi-paateg megwaa gichi-piskaneg?” odinaan (“why, come! why don’t you take off your moccasins and hang them to dry while the fire still blazes high?” he said to him).</span>
 
-<span class="l-orig">(590) Mīdạc kīwäⁿ a‘kiwäⁿzi näbāngin iji∙a∙yā.</span>
+<span class="l-orig">(590) Mīdạc kīwäⁿ a‘kiwäⁿzi nạ̈bāngin iji∙a∙yā.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh akiwenzi nebaangin izhi-ayaa.**</span>
+<span class="l-fiero">**Mii dash giiwenh akiwenzi nebaangin izhi-ayaa.**</span>
 
 <span class="l-eng">*Now, they say that the old man acted as if he were asleep.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh akiwenzi nebaangin izhi-ayaa (now, they say, the old man acted as if he were asleep).</span>
+<span class="l-gloss">Mii dash giiwenh akiwenzi nebaangin izhi-ayaa (now, they say, the old man acted as if he were asleep).</span>
 
 <span class="l-orig">(591) Wī‘kāgu pimiwāwuniskā.</span>
 
@@ -4752,21 +4750,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(592) Awidac inini cācingicing mīdạc aᵘ a‘kiwäⁿzi pîtcīnạg ayagōtōd uma‘kisinicạn, pa‘kic kayä ayīntạnwäwä‘tōd.</span>
 
-<span class="l-fiero">**Aw idash inini shaashingishing mii dash aw akiwenzi pi(i)chiinag ayagootood omakisinishan, pekish gaye ayiintanwewetood.**</span>
+<span class="l-fiero">**Aw idash inini shaashingishing mii dash aw akiwenzi pichiinag ayagootood omakisinishan, pekish gaye ayiintanwewetood.**</span>
 
 <span class="l-eng">*And while the man was lying down at rest, then the old man later hung up his miserable moccasins, at the same time he kept on talking.*</span>
 
-<span class="l-gloss">Aw idash inini shaashingishing (and while the man lay resting) mii dash aw akiwenzi pi(i)chiinag ayagootood omakisinishan (then the old man at last hung up his miserable moccasins), pekish gaye ayiintanwewetood (at the same time talking on and on).</span>
+<span class="l-gloss">Aw idash inini shaashingishing (and while the man lay resting) mii dash aw akiwenzi pichiinag ayagootood omakisinishan (then the old man at last hung up his miserable moccasins), pekish gaye ayiintanwewetood (at the same time talking on and on).</span>
 
 <span class="l-orig">(593) Mīdạc kīwäⁿ awinini cigwa käwīn ā‘pidci wīnîbāt.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini shigwa gaawiin aapiji wii-ni(i)baat.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini shigwa gaawiin aapiji wii-nibaat.**</span>
 
 <span class="l-eng">*And now they say that the youth, in all this while, was not very eager about going to sleep.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini shigwa gaawiin aapiji wii-ni(i)baat (and now, they say, the youth was not very eager to fall asleep).</span>
+<span class="l-gloss">Mii dash giiwenh aw inini shigwa gaawiin aapiji wii-nibaat (and now, they say, the youth was not very eager to fall asleep).</span>
 
-<span class="l-orig">(594) Awidac a‘kiwäⁿzi awạntcic kāgīgito, tạtibātcimạt; untcitagwu pä‘kic tōtạm ciktci∙a∙iyä‘kwi∙ā∙t īni’ᵘ unīngwạnạn.</span>
+<span class="l-orig">(594) Awidac a‘kiwäⁿzi awạntcic kāgīgito, tạtibātcimạt; untcitagwu pä‘kic tōtạm ciktci∙a∙iyä‘kwi∙ā∙t īni´ᵘ unīngwạnạn.</span>
 
 <span class="l-fiero">**Aw idash akiwenzi awanchish kaagiigito, tatibaachimat; onchitagwo pekish tootam shikchi-aiyekwi’aat iiniw oniingwanan.**</span>
 
@@ -4776,43 +4774,43 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(595) A‘pīdạc nîbānit, ā‘pidci kiˢtcikiˢtcinîbānit.</span>
 
-<span class="l-fiero">**Apii dash ni(i)baanit, aapiji kischi-kischi-ni(i)baanit.**</span>
+<span class="l-fiero">**Apii dash nibaanit, aapiji gichi-gichi-nibaanit.**</span>
 
 <span class="l-eng">*And when the other fell asleep, into a very deep slumber did he fall.*</span>
 
-<span class="l-gloss">Apii dash ni(i)baanit, aapiji kischi-kischi-ni(i)baanit (and when the other fell asleep, into a very deep slumber he fell).</span>
+<span class="l-gloss">Apii dash nibaanit, aapiji gichi-gichi-nibaanit (and when the other fell asleep, into a very deep slumber he fell).</span>
 
 <span class="l-orig">(596) Mīdạc kīwäⁿ kägä‘t aᵘ inini kā∙i∙ciwäbisit a‘pī näpāt.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh keget aw inini kaa-ishiwebisit apii nepaat.**</span>
+<span class="l-fiero">**Mii dash giiwenh keget aw inini kaa-ishiwebisit apii nepaat.**</span>
 
 <span class="l-eng">*And they say it is true that what the man had done to him happened while he was asleep.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh keget aw inini kaa-ishiwebisit apii nepaat (and then, they say, truly what was done to the man happened while he slept).</span>
+<span class="l-gloss">Mii dash giiwenh keget aw inini kaa-ishiwebisit apii nepaat (and then, they say, truly what was done to the man happened while he slept).</span>
 
 <span class="l-orig">(597) Mīdạc awä a‘kīwäⁿzī ayā‘pi äjikạnōnāt wī‘ki‘känimāt tcinîbānigwän.</span>
 
-<span class="l-fiero">**Mii dash awe akiwenzi ayaapii ezhikanoonaat wii-kikenimaat chi-ni(i)baanigwen.**</span>
+<span class="l-fiero">**Mii dash awe akiwenzi ayaapii ezhikanoonaat wii-kikenimaat chi-nibaanigwen.**</span>
 
 <span class="l-eng">*And the old man now and then was addressing him to find out if he were asleep.*</span>
 
-<span class="l-gloss">Mii dash awe akiwenzi ayaapii ezhikanoonaat wii-kikenimaat chi-ni(i)baanigwen (and the old man now and then spoke to him to find out whether he was asleep).</span>
+<span class="l-gloss">Mii dash awe akiwenzi ayaapii ezhikanoonaat wii-kikenimaat chi-nibaanigwen (and the old man now and then spoke to him to find out whether he was asleep).</span>
 
 <span class="l-orig">(598) Käga‘pīdạc awinini kīnîbāt, kāwīn nōndawāsīn kạnōnigut.</span>
 
-<span class="l-fiero">**Kegapii dash aw inini kii-ni(i)baat, gaawiin noondawaasiin kanoonigot.**</span>
+<span class="l-fiero">**Kegapii dash aw inini kii-nibaat, gaawiin noondawaasiin kanoonigot.**</span>
 
 <span class="l-eng">*At last the man had fallen asleep, for he did not hear the other when he was spoken to.*</span>
 
-<span class="l-gloss">Kegapii dash aw inini kii-ni(i)baat (at last the man had fallen asleep), gaawiin noondawaasiin kanoonigot (for he did not hear when he was spoken to).</span>
+<span class="l-gloss">Kegapii dash aw inini kii-nibaat (at last the man had fallen asleep), gaawiin noondawaasiin kanoonigot (for he did not hear when he was spoken to).</span>
 
 <span class="l-orig">(599) Mīdạc kīwäⁿ kā∙i∙ci∙u∙nickāt aᵘ a‘kiwäⁿjī∙i∙cigubạn, kā∙i∙ci∙o∙tā‘pinạmawāt uningwạnạn uma‘kisinini, kī∙a∙‘todin ckudänk.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh kaa-ishii-onishkaat aw akiwenzhii-ishigoban, kaa-ishi-otaapinamawaat oningwanan omakisinini, kii-atodin shkodenk.**</span>
+<span class="l-fiero">**Mii dash giiwenh kaa-ishii-onishkaat aw akiwenzhii-ishigoban, kaa-ishi-otaapinamawaat oningwanan omakisinini, kii-atodin shkodenk.**</span>
 
 <span class="l-eng">*And then they say that after the hateful old man had risen from his pallet, he then later took down the moccasins of his son-in-law (and) put them into the fire.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh kaa-ishii-onishkaat aw akiwenzhii-ishigoban (and then, they say, after the hateful old man had risen from his pallet), kaa-ishi-otaapinamawaat oningwanan omakisinini (he took down his son-in-law’s moccasins), kii-atodin shkodenk (and put them into the fire).</span>
+<span class="l-gloss">Mii dash giiwenh kaa-ishii-onishkaat aw akiwenzhii-ishigoban (and then, they say, after the hateful old man had risen from his pallet), kaa-ishi-otaapinamawaat oningwanan omakisinini (he took down his son-in-law’s moccasins), kii-atodin shkodenk (and put them into the fire).</span>
 
 <span class="l-orig">(600) Kägādạc tcāgā‘kidäni‘k mī pitcīnạg kīgitut a‘kiwäjī∙i∙c, i‘kitut:</span>
 
@@ -4822,7 +4820,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Kegaa dash chaagaakidenik (and when they were nearly burned right up) mii pichiinag kiigitot akiwezhii’ish, ikitot (then at last the base old man spoke, saying):</span>
 
-<span class="l-orig">(601) “Pā ‘pa’, tcāgitäg kägō!</span>
+<span class="l-orig">(601) “Pā ‘pa´, tcāgitäg kägō!</span>
 
 <span class="l-fiero">**“Paa paa, chaagiteg kegoo!**</span>
 
@@ -4832,11 +4830,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(602) Naˢāngī! kima‘kîsinạn tcāgitäwạn!” udinān.</span>
 
-<span class="l-fiero">**Na’aangii! kimaki(i)sinan chaagitewan!” odinaan.**</span>
+<span class="l-fiero">**Na’aangii! kimakisinan chaagitewan!” odinaan.**</span>
 
 <span class="l-eng">*O son-in-law! your moccasins are burning up,” he (thus) said to him.*</span>
 
-<span class="l-gloss">Na’aangii! kimaki(i)sinan chaagitewan!” odinaan (son-in-law! your moccasins are burning up!” he said to him).</span>
+<span class="l-gloss">Na’aangii! kimakisinan chaagitewan!” odinaan (son-in-law! your moccasins are burning up!” he said to him).</span>
 
 <span class="l-orig">(603) Päpä‘kāgu pimiwạnickā awinini.</span>
 
@@ -4854,7 +4852,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash wabandangin omakisinan chaagitenig (and then he saw that his moccasins were burned up); aanawi dash aw akiwenzhii’ish aazha ogii-agwaawebi’aanan (for in fact the evil old man had by then thrown them out of the fire).</span>
 
-<span class="l-orig">(605) Mīdạc kā‘kạnawâbạndạnk awinini īni’ᵘ uma‘kisinạn kī‘kawicimo minawā.</span>
+<span class="l-orig">(605) Mīdạc kā‘kạnawâbạndạnk awinini īni´ᵘ uma‘kisinạn kī‘kawicimo minawā.</span>
 
 <span class="l-fiero">**Mii dash kaa-kanawabandank aw inini iiniw omakisinan kii-kawishimo minawaa.**</span>
 
@@ -4864,19 +4862,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(606) Mīdạc kīwäⁿ kägicäp kī‘pōtawät a‘kiwäⁿjī∙i∙c, mīdạc änāt unīngwạnạn:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh kegishep kii-pootawet a’kiwenzhii’ish, mii dash enaat oniingwanan:**</span>
+<span class="l-fiero">**Mii dash giiwenh kegishep kii-pootawet a’kiwenzhii’ish, mii dash enaat oniingwanan:**</span>
 
 <span class="l-eng">*And then they say that in the morning the hateful old man built the fire.Whereupon he said to his son-in-law:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh kegishep kii-pootawet a’kiwenzhii’ish (and then, they say, in the morning the hateful old man built the fire), mii dash enaat oniingwanan (whereupon he said to his son-in-law):</span>
+<span class="l-gloss">Mii dash giiwenh kegishep kii-pootawet a’kiwenzhii’ish (and then, they say, in the morning the hateful old man built the fire), mii dash enaat oniingwanan (whereupon he said to his son-in-law):</span>
 
 <span class="l-orig">(607) “Ānīn kätōtạmạn uma‘kîzinîsiwạn tcigīwäyạn?</span>
 
-<span class="l-fiero">**“Aaniin ke-tootaman omaki(i)zini(i)siwan chi-giiweyan?**</span>
+<span class="l-fiero">**“Aaniin ke-tootaman omakizinisiwan chi-giiweyan?**</span>
 
 <span class="l-eng">*“What are you going to do about getting back home, now that you have no moccasins?*</span>
 
-<span class="l-gloss">“Aaniin ke-tootaman omaki(i)zini(i)siwan chi-giiweyan? (“what will you do about going home, now that you have no moccasins?)</span>
+<span class="l-gloss">“Aaniin ke-tootaman omakizinisiwan chi-giiweyan? (“what will you do about going home, now that you have no moccasins?)</span>
 
 <span class="l-orig">(608) Wâsadạc kayä kitayāmin,” udinān.</span>
 
@@ -4928,21 +4926,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(614) Agāwadạc kīwäⁿ oganōnān awinini.</span>
 
-<span class="l-fiero">**Agawaa dash kiiwenh oganoonaan aw inini.**</span>
+<span class="l-fiero">**Agawaa dash giiwenh oganoonaan aw inini.**</span>
 
 <span class="l-eng">*Scarcely even an answer, so they say, did the man give him.*</span>
 
-<span class="l-gloss">Agawaa dash kiiwenh oganoonaan aw inini (scarcely even an answer, they say, did the man give him).</span>
+<span class="l-gloss">Agawaa dash giiwenh oganoonaan aw inini (scarcely even an answer, they say, did the man give him).</span>
 
-<span class="l-orig">(615) Mīdạc äjimādcāt a‘kiwäⁿjī∙i∙c; wīndạc awinini mī∙i∙mā ayāt, ānic kāwīn kaskitōsīn ningutci tcī∙i∙cāt.</span>
+<span class="l-orig">(615) Mīdạc äjimādcāt a‘kiwäⁿjī∙i∙c; wīndạc awinini mī∙i∙mā ayāt, ānīc kāwīn kaskitōsīn ningutci tcī∙i∙cāt.</span>
 
-<span class="l-fiero">**Mii dash ezhi-maajaat akiiwenhzhii’ish; wiin dash aw inini mii imaa ayaat, aaniish gaawiin kas[h]kitoosiin ningochi chii-izhaat.**</span>
+<span class="l-fiero">**Mii dash ezhi-maajaat akiiwenhzhii’ish; wiin dash aw inini mii imaa ayaat, aaniish gaawiin kashkitoosiin ningochi chii-izhaat.**</span>
 
 <span class="l-eng">*Thereupon the mean old man started away; while the man himself remained there at the place, for nowhere at all could he go.*</span>
 
-<span class="l-gloss">Mii dash ezhi-maajaat akiiwenhzhii’ish (thereupon the mean old man started off); wiin dash aw inini mii imaa ayaat (while the man himself remained there), aaniish gaawiin kas[h]kitoosiin ningochi chii-izhaat (for nowhere at all could he go).</span>
+<span class="l-gloss">Mii dash ezhi-maajaat akiiwenhzhii’ish (thereupon the mean old man started off); wiin dash aw inini mii imaa ayaat (while the man himself remained there), aaniish gaawiin kashkitoosiin ningochi chii-izhaat (for nowhere at all could he go).</span>
 
-<span class="l-orig">(616) Mīdạc nānāgatawändạnk ānīn kätijictcigägwän, ugi‘känimān īni’ᵘ ācinisạn kägä‘t tcināⁿzi‘kạnsininig uma‘kisînạn.</span>
+<span class="l-orig">(616) Mīdạc nānāgatawändạnk ānīn kätijictcigägwän, ugi‘känimān īni´ᵘ ācinisạn kägä‘t tcināⁿzi‘kạnsininig uma‘kisînạn.</span>
 
 <span class="l-fiero">**Mii dash naanaagatawendank aaniin ket-izhishchigegwen, ogikenimaan iiniw aashinisan keget chi-naazikansininig omakisinan.**</span>
 
@@ -4952,19 +4950,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(617) Mīdạc kīwäⁿ nindawātc aᵘ äjimādci‘tād ujī‘tād wī‘kīwät.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh nindawaach aw ezhi-maajitaad ozhiitaad wii-kiiwet.**</span>
+<span class="l-fiero">**Mii dash giiwenh nindawaach aw ezhi-maajitaad ozhiitaad wii-kiiwet.**</span>
 
 <span class="l-eng">*And then they say that accordingly he began getting ready to go back home.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh nindawaach aw ezhi-maajitaad ozhiitaad wii-kiiwet (and then, they say, accordingly he began making ready to go back home).</span>
+<span class="l-gloss">Mii dash giiwenh nindawaach aw ezhi-maajitaad ozhiitaad wii-kiiwet (and then, they say, accordingly he began making ready to go back home).</span>
 
 <span class="l-orig">(618) Mī kīwäⁿ kā∙i∙ji∙u∙dā‘pināt nîswâbi‘k asinīn, kā∙i∙jikijābi‘kiswāt, kī∙i∙‘kitut: “</span>
 
-<span class="l-fiero">**Mii kiiwen kaa-izhi-odaapinaat ni(i)swabik asiniin, kaa-izhikizhaabikiswet, kii-ikitot:**</span>
+<span class="l-fiero">**Mii giiwenh kaa-izhi-odaapinaat niswabik asiniin, kaa-izhikizhaabikiswet, kii-ikitot:**</span>
 
 <span class="l-eng">*And so they say that after he had taken three great stones (and) after he had heated them, he then said:*</span>
 
-<span class="l-gloss">Mii kiiwen kaa-izhi-odaapinaat ni(i)swabik asiniin (and so, they say, after he had taken three great stones), kaa-izhikizhaabikiswet (after he had heated them red-hot), kii-ikitot (he then said):</span>
+<span class="l-gloss">Mii giiwenh kaa-izhi-odaapinaat niswabik asiniin (and so, they say, after he had taken three great stones), kaa-izhikizhaabikiswet (after he had heated them red-hot), kii-ikitot (he then said):</span>
 
 <span class="l-orig">(619) ‘Āᵘ. nimicōmia, ạmbä, wītō‘kawicin tcikīwäyān!</span>
 
@@ -4982,29 +4980,29 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Niwiintawabamaag niniichaanisag,” ikito (I long to see my children,” he said).</span>
 
-<span class="l-orig">(621) Mīdạc kägä‘t äji∙u∙dā‘pigwānāt īni’ᵘ mîskwābī‘kisunit īni’ᵘ asînīn; kwaya‘kidạc wâ∙i∙jāt, mī∙i∙witi gwaya‘k äjiwäbuwāt.</span>
+<span class="l-orig">(621) Mīdạc kägä‘t äji∙u∙dā‘pigwānāt īni´ᵘ mîskwābī‘kisunit īni´ᵘ asînīn; kwaya‘kidạc wâ∙i∙jāt, mī∙ī∙witi gwaya‘k äjiwäbuwāt.</span>
 
-<span class="l-fiero">**Mii dash keget ezhi-odaapigwaanaat iiniw mi(i)skwaabiikisonit iiniw asi(i)niin; kwayak idash wa-izhaat, mii iwiti gwayak ezhiwebowaat.**</span>
+<span class="l-fiero">**Mii dash keget ezhi-odaapigwaanaat iiniw miskwaabiikisonit iiniw asiniin; kwayak idash wa-izhaat, mii iwiti gwayak ezhiwebowaat.**</span>
 
 <span class="l-eng">*And then truly he took these stones out (of the fire) red-hot; and directly (in the path) whither he wanted to go, along that course straight (ahead) did he roll them.*</span>
 
-<span class="l-gloss">Mii dash keget ezhi-odaapigwaanaat iiniw mi(i)skwaabiikisonit iiniw asi(i)niin (and then truly he took out the red-hot stones); kwayak idash wa-izhaat, mii iwiti gwayak ezhiwebowaat (and straight in the direction he wished to go, that way straight ahead he rolled them).</span>
+<span class="l-gloss">Mii dash keget ezhi-odaapigwaanaat iiniw miskwaabiikisonit iiniw asiniin (and then truly he took out the red-hot stones); kwayak idash wa-izhaat, mii iwiti gwayak ezhiwebowaat (and straight in the direction he wished to go, that way straight ahead he rolled them).</span>
 
 <span class="l-orig">(622) Mīdạc awasîn kägä‘t äjimādcīpisut awạcîmädạc ābi‘ta āwạninig kīnōgibiso.</span>
 
-<span class="l-fiero">**Mii dash aw asi(i)n keget ezhi-maajiipisot awashi(i)me dash aabita aawaninig kii-noogibiso.**</span>
+<span class="l-fiero">**Mii dash aw asin keget ezhi-maajiipisot awashime dash aabita aawaninig kii-noogibiso.**</span>
 
 <span class="l-eng">*Thereupon the stone truly started going, more than half the distance home it went before it stopped.*</span>
 
-<span class="l-gloss">Mii dash aw asi(i)n keget ezhi-maajiipisot (thereupon the stone truly started going) awashi(i)me dash aabita aawaninig kii-noogibiso (and more than half the distance home it went before it stopped).</span>
+<span class="l-gloss">Mii dash aw asin keget ezhi-maajiipisot (thereupon the stone truly started going) awashime dash aabita aawaninig kii-noogibiso (and more than half the distance home it went before it stopped).</span>
 
 <span class="l-orig">(623) Mīdạc kā∙ạ∙ni∙ạ∙‘pisut awạsîn mīgu kā∙ạ∙ni∙i∙ji∙a∙ni‘täwạng; mīdạc imā aᵘ inini kī∙ạ∙nipimusät.</span>
 
-<span class="l-fiero">**Mii dash kaa-ani-apisot aw asi(i)n mii go kaa-ani-izhi-anitewang; mii dash imaa aw inini kii-ani-pimoset.**</span>
+<span class="l-fiero">**Mii dash kaa-ani-apisot aw asin mii go kaa-ani-izhi-anitewang; mii dash imaa aw inini kii-ani-pimoset.**</span>
 
 <span class="l-eng">*And in the path where the stone had moved, along that course was the snow melted; accordingly by that way did the man travel.*</span>
 
-<span class="l-gloss">Mii dash kaa-ani-apisot aw asi(i)n mii go kaa-ani-izhi-anitewang (and along the path where the stone had rolled, there the snow was melted); mii dash imaa aw inini kii-ani-pimoset (and so along that path the man walked).</span>
+<span class="l-gloss">Mii dash kaa-ani-apisot aw asin mii go kaa-ani-izhi-anitewang (and along the path where the stone had rolled, there the snow was melted); mii dash imaa aw inini kii-ani-pimoset (and so along that path the man walked).</span>
 
 <span class="l-orig">(624) Mägwādạc ạnipimusät, udạminisutawān pimäya∙ī∙ awiya; mīdạc äji∙i∙nābit ōwâbạmān dạc ma∙ī∙ngạnạn pimusänit, ugi∙u∙ndcikanōnigōn:</span>
 
@@ -5016,11 +5014,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(625) “Ānīn,” udigōn: “nîsayäⁿ?”</span>
 
-<span class="l-fiero">**“Aaniin,” odigoon: “ni(i)sayenh?”**</span>
+<span class="l-fiero">**“Aaniin,” odigoon: “nisayenh?”**</span>
 
 <span class="l-eng">*“What,” he was told, “my elder brother?”*</span>
 
-<span class="l-gloss">“Aaniin,” odigoon: “ni(i)sayenh?” (“how are you,” he was told, “my elder brother?”)</span>
+<span class="l-gloss">“Aaniin,” odigoon: “nisayenh?” (“how are you,” he was told, “my elder brother?”)</span>
 
 <span class="l-orig">(626) Udinān dạc awinini:</span>
 
@@ -5042,7 +5040,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-fiero">**“Aantish ezhaiyan?” odigoon.**</span>
 
-<span class="l-eng">*“Wrhere are you going?” he was asked.*</span>
+<span class="l-eng">*“Where are you going?” he was asked.*</span>
 
 <span class="l-gloss">“Aantish ezhaiyan?” odigoon (“where are you going?” he was asked).</span>
 
@@ -5064,21 +5062,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(631) Awä nini pimipimusä ānīndi asînīn kā∙ạ∙ni∙a∙pisunit, awidạc ma∙ī∙ngạn pimäya∙ī∙ pimusä kōni‘kāng.</span>
 
-<span class="l-fiero">**Awe nini pimi-pimose aaniindi asi(i)niin kaa-ani-apisonit, aw idash ma’iingan pimeya’ii pimose koonikaang.**</span>
+<span class="l-fiero">**Awe nini pimi-pimose aaniindi asiniin kaa-ani-apisonit, aw idash ma’iingan pimeya’ii pimose koonikaang.**</span>
 
 <span class="l-eng">*Now, the man walked along where the stone had rolled; and the Wolf passed along at the side, on the snow.*</span>
 
-<span class="l-gloss">Awe nini pimi-pimose aaniindi asi(i)niin kaa-ani-apisonit (now the man walked along where the stone had rolled), aw idash ma’iingan pimeya’ii pimose koonikaang (and the wolf passed along at the side, on the snow).</span>
+<span class="l-gloss">Awe nini pimi-pimose aaniindi asiniin kaa-ani-apisonit (now the man walked along where the stone had rolled), aw idash ma’iingan pimeya’ii pimose koonikaang (and the wolf passed along at the side, on the snow).</span>
 
 <span class="l-orig">(632) Mīdạc kīwäⁿ a‘kiwäⁿjī∙i∙c tägwucing äntāwāt, wi‘kāgu pîtcinạg kī∙ạ∙nitatagucinōgubạn, kāwīn kạnagä kägō i‘kitusī.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh akiwenzhii’ish tegwoshing entaawaat, wiikaa go pi(i)chinag kii-ani-tatagoshinoogoban, gaawiin kanage kegoo ikitosii.**</span>
+<span class="l-fiero">**Mii dash giiwenh akiwenzhii’ish tegwoshing entaawaat, wiikaa go pichinag kii-ani-tatagoshinoogoban, gaawiin kanage kegoo ikitosii.**</span>
 
 <span class="l-eng">*And they say that when the mean old man arrived at home, for he was a long time reaching home, he had nothing whatever to say.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh akiwenzhii’ish tegwoshing entaawaat (and they say that when the mean old man arrived home), wiikaa go pi(i)chinag kii-ani-tatagoshinoogoban (for he was a long time reaching home), gaawiin kanage kegoo ikitosii (he had nothing whatever to say).</span>
+<span class="l-gloss">Mii dash giiwenh akiwenzhii’ish tegwoshing entaawaat (and they say that when the mean old man arrived home), wiikaa go pichinag kii-ani-tatagoshinoogoban (for he was a long time reaching home), gaawiin kanage kegoo ikitosii (he had nothing whatever to say).</span>
 
-<span class="l-orig">(633) Mīdạc wīn awi‘kwä äjikagwätcimāt īni’ᵘ ōsạn:</span>
+<span class="l-orig">(633) Mīdạc wīn awi‘kwä äjikagwätcimāt īni´ᵘ ōsạn:</span>
 
 <span class="l-fiero">**Mii dash wiin aw ikwe ezhi-kagwechimaat iiniw oosan:**</span>
 
@@ -5136,13 +5134,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(640) Mīdạc kīwäⁿ awinini mägwā pimiwīdciwāt ucīmän ma∙ī∙ngạnạn ā‘pidci unānigwäntamōg pimiwīndcīntiwāt; pä‘kic pimi∙ạ∙ninạgamōwạg ändōdạnksạgu awiya mänwändạngin.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini megwaa pimi-wiijiwaat oshiimen ma;iinganan aapiji onaanigwentamoog pimi-wiinjiintiwaat; pekish pimi-ani-nagamoowag endoodank sa go awiya menwendangin.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini megwaa pimi-wiijiwaat oshiimen ma’iinganan aapiji onaanigwentamoog pimi-wiinjiintiwaat; pekish pimi-ani-nagamoowag endoodank sa go awiya menwendangin.**</span>
 
 <span class="l-eng">*And now they say that while the man, and his younger brother the Wolf, were coming hitherward together, very happy were they as they walked along in each other’s company; at the same time they went singing on their way in the same manner as one does when in a joyful frame of mind.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini megwaa pimi-wiijiwaat oshiimen ma’iinganan (and now, they say, while the man was coming along with his younger brother the wolf) aapiji onaanigwentamoog pimi-wiinjiintiwaat (very happy were they in each other’s company); pekish pimi-ani-nagamoowag endoodank sa go awiya menwendangin (at the same time singing as they went, the way one does when in a joyful mood).</span>
+<span class="l-gloss">Mii dash giiwenh aw inini megwaa pimi-wiijiwaat oshiimen ma’iinganan (and now, they say, while the man was coming along with his younger brother the wolf) aapiji onaanigwentamoog pimi-wiinjiintiwaat (very happy were they in each other’s company); pekish pimi-ani-nagamoowag endoodank sa go awiya menwendangin (at the same time singing as they went, the way one does when in a joyful mood).</span>
 
-<span class="l-orig">(641) Awidạc inini kāwīn kạnagä udōnändạzīn cācāgunizzität ānawi pābā‘pi.</span>
+<span class="l-orig">(641) Awidạc inini kāwīn kạnagä udōnändạzīn cācāgunizität, ānawi pābā‘pi.</span>
 
 <span class="l-fiero">**Aw idash inini gaawiin kanage odoonendaziin shaashaagonizitet, aanawi paabaapi.**</span>
 
@@ -5184,29 +5182,29 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(646) “Ambä!” udigōn; “kīgạtaniwīdcīwîn,” udigōn ucīmäⁿyạn.</span>
 
-<span class="l-fiero">**“Ambe!” odigoon; “kiigat-ani-wiijiiwi(i)n,” odigoon oshiimenyan.**</span>
+<span class="l-fiero">**“Ambe!” odigoon; “kiigat-ani-wiijiiwin,” odigoon oshiimenyan.**</span>
 
 <span class="l-eng">*“Come!” he was told; “I am going to accompany you,” he was told by his younger brother.*</span>
 
-<span class="l-gloss">“Ambe!” odigoon (“come!” he was told); “kiigat-ani-wiijiiwi(i)n,” odigoon oshiimenyan (“I will go along with you,” he was told by his younger brother).</span>
+<span class="l-gloss">“Ambe!” odigoon (“come!” he was told); “kiigat-ani-wiijiiwin,” odigoon oshiimenyan (“I will go along with you,” he was told by his younger brother).</span>
 
-<span class="l-orig">(647) Kāwîndạc i‘kitusī awinini.</span>
+<span class="l-orig">(647) Kāwīndạc i‘kitusī awinini.</span>
 
-<span class="l-fiero">**Kaawi(i)n dash ikitosii aw inini.**</span>
+<span class="l-fiero">**Gaawiin dash ikitosii aw inini.**</span>
 
 <span class="l-eng">*But the man did not speak.*</span>
 
-<span class="l-gloss">Kaawi(i)n dash ikitosii aw inini (but the man did not speak).</span>
+<span class="l-gloss">Gaawiin dash ikitosii aw inini (but the man did not speak).</span>
 
 <span class="l-orig">(648) Mīdạc ạ̈jicōmīngwä‘tawāt agatändạnk tcîwīndạmawāt iᵘ kā∙i∙jiwäbisit.</span>
 
-<span class="l-fiero">**Mii dash ezhi-shoomiingwetawaat agatendank chi(i)-wiindamawaat iw kaa-izhiwebisit.**</span>
+<span class="l-fiero">**Mii dash ezhi-shoomiingwetawaat agatendank chi-wiindamawaat iw kaa-izhiwebisit.**</span>
 
 <span class="l-eng">*And as he smiled at him, he felt ashamed to tell him about what had happened to himself.*</span>
 
-<span class="l-gloss">Mii dash ezhi-shoomiingwetawaat (and as he smiled at him) agatendank chi(i)-wiindamawaat iw kaa-izhiwebisit (he was ashamed to tell him what had happened to himself).</span>
+<span class="l-gloss">Mii dash ezhi-shoomiingwetawaat (and as he smiled at him) agatendank chi-wiindamawaat iw kaa-izhiwebisit (he was ashamed to tell him what had happened to himself).</span>
 
-<span class="l-orig">(649) Mīdạc ägut īni’ᵘ ucīmäyạn ma∙ī∙ngạnạn:</span>
+<span class="l-orig">(649) Mīdạc ägut īni´ᵘ ucīmäyạn ma∙ī∙ngạnạn:</span>
 
 <span class="l-fiero">**Mii dash egot iiniw oshiimeyan ma’iinganan:**</span>
 
@@ -5226,7 +5224,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-fiero">**Gaye wiin dash aw ma’iingan gaawiin kegoo owii-inaasiin osayeyan.**</span>
 
-<span class="l-eng">*Wolf also had nothing more to say to his elder brother.*</span>
+<span class="l-eng">*And the Wolf also had nothing more to say to his elder brother.*</span>
 
 <span class="l-gloss">Gaye wiin dash aw ma’iingan gaawiin kegoo owii-inaasiin osayeyan (and the wolf too had nothing more to say to his elder brother).</span>
 
@@ -5262,7 +5260,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii nangwana shigwa tagwishing endaat (it meant that now he was arriving home).</span>
 
-<span class="l-orig">(656) Mīdạc īni’ᵘ ucīmäyạn piwä‘kwāmuninik uminisä‘kạnāwā mī∙i∙mā ä∙i∙jiwinigut īni’ᵘ ucīmäyạn.</span>
+<span class="l-orig">(656) Mīdạc īni´ᵘ ucīmäyạn piwä‘kwāmuninik uminisä‘kạnāwā mī∙i∙mā ä∙i∙jiwīnigut īni´ᵘ ucīmäyạn.</span>
 
 <span class="l-fiero">**Mii dash iiniw oshiimeyan piwekwaamoninik ominisekanaawaa mii imaa e-izhi-wiinigot iiniw oshiimeyan.**</span>
 
@@ -5304,11 +5302,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(661) “Omā nācîsîtōn ninintcīng kizitạn!”</span>
 
-<span class="l-fiero">**“Omaa naashi(i)si(i)toon nininchiing kizitan!”**</span>
+<span class="l-fiero">**“Omaa naashisitoon nininchiing kizitan!”**</span>
 
 <span class="l-eng">*“Rub your feet here on my hand!”*</span>
 
-<span class="l-gloss">“Omaa naashi(i)si(i)toon nininchiing kizitan!” (“rub your feet here on my hand!”)</span>
+<span class="l-gloss">“Omaa naashisitoon nininchiing kizitan!” (“rub your feet here on my hand!”)</span>
 
 <span class="l-orig">(662) Mīdạc kägät awinini ändōtạnk kā∙i∙gut ucīmäyạn ma∙ī∙ngạnạn.</span>
 
@@ -5352,21 +5350,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(667) Mī pîtcīnạg tạcikạgītcīd aᵘ a‘kiwäⁿjī i c.</span>
 
-<span class="l-fiero">**Mii pi(i)chinag tashikagiichiid aw akiwenzhii’ish.**</span>
+<span class="l-fiero">**Mii pichinag tashikagiichiid aw akiwenzhii’ish.**</span>
 
 <span class="l-eng">*It was at a time when the hateful old man was in the act of taking off his moccasins.*</span>
 
-<span class="l-gloss">Mii pi(i)chinag tashikagiichiid aw akiwenzhii’ish (it was just when the hateful old man was taking off his moccasins).</span>
+<span class="l-gloss">Mii pichinag tashikagiichiid aw akiwenzhii’ish (it was just when the hateful old man was taking off his moccasins).</span>
 
 <span class="l-orig">(668) “Mīna pîtcīnạg kayä kin?” udinān uningwạnạn.</span>
 
-<span class="l-fiero">**“Miina pi(i)chiinag gaye kin?” odinaan oningwanan.**</span>
+<span class="l-fiero">**“Miina pichiinag gaye kin?” odinaan oningwanan.**</span>
 
 <span class="l-eng">*“And have you just come, too?” he said to his son-in-law.*</span>
 
-<span class="l-gloss">“Miina pi(i)chiinag gaye kin?” odinaan oningwanan (“and have you just come too?” he said to his son-in-law).</span>
+<span class="l-gloss">“Miina pichiinag gaye kin?” odinaan oningwanan (“and have you just come too?” he said to his son-in-law).</span>
 
-<span class="l-orig">(669) Awidạc naˢāngi kāwīn kägō kạnạgä i‘kitusī.</span>
+<span class="l-orig">(669) Awidạc naˢāngī kāwīn kägō kạnạgä i‘kitusī.</span>
 
 <span class="l-fiero">**Aw idash na’aangii gaawiin kegoo kanage ikitosii.**</span>
 
@@ -5384,19 +5382,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(671) Mīdạc kīwäⁿ aᵘ a‘kiwäⁿjī∙i∙cigubạn kā∙i∙ckwāwīsîniwāt wēnāgucik.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw akiwenzhii’ishigoban kaa-ishkwaa-wiisi(i)niwaat wenaagoshik.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw akiwenzhii’ishigoban kaa-ishkwaa-wiisiniwaat wenaagoshik.**</span>
 
 <span class="l-eng">*And then they say that after the contemptible old man had eaten, it was then evening.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw akiwenzhii’ishigoban kaa-ishkwaa-wiisi(i)niwaat wenaagoshik (and then, they say, after the contemptible old man had eaten, it was evening).</span>
+<span class="l-gloss">Mii dash giiwenh aw akiwenzhii’ishigoban kaa-ishkwaa-wiisiniwaat wenaagoshik (and then, they say, after the contemptible old man had eaten, it was evening).</span>
 
 <span class="l-orig">(672) Mīdạc kīwäⁿ a‘kiwäⁿzi pạnä kīwäⁿ ukạnawâbạmān īni’ᵘ unīngwạnạn, kwīnawīnänạmāt.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh akiwenzi pane kiiwenh okanawabamaan iiniw oniingwanan, kwiinawi-inenamaat.**</span>
+<span class="l-fiero">**Mii dash giiwenh akiwenzi pane giiwenh okanawabamaan iiniw oniingwanan, kwiinawi-inenamaat.**</span>
 
 <span class="l-eng">*And so they say that the old man kept gazing constantly at his son-in-law, not knowing what to make of him.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh akiwenzi pane kiiwenh okanawabamaan iiniw oniingwanan (and so, they say, the old man kept gazing constantly at his son-in-law), kwiinawi-inenamaat (not knowing what to make of him).</span>
+<span class="l-gloss">Mii dash giiwenh akiwenzi pane giiwenh okanawabamaan iiniw oniingwanan (and so, they say, the old man kept gazing constantly at his son-in-law), kwiinawi-inenamaat (not knowing what to make of him).</span>
 
 <span class="l-orig">(673) “Amạntc kädạnā‘pinanāwāgän?” udinänimān.</span>
 
@@ -5410,7 +5408,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-fiero">**Apane oganawabamaan oshkiizhigwaning.**</span>
 
-<span class="l-eng">*ll the time was he gazing at him in the face.*</span>
+<span class="l-eng">*All the time was he gazing at him in the face.*</span>
 
 <span class="l-gloss">Apane oganawabamaan oshkiizhigwaning (all the time he gazed into his face).</span>
 
@@ -5440,11 +5438,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(678) “Ạnicāgu ningạnawâbạmimān mämīgunīsiwạn päbāmisänit tcīgaya∙ī∙ uskīcigunk,” udinān udānisạn.</span>
 
-<span class="l-fiero">**“Anishaa go ninganawabamimaan memiigonisiwan pebaamisenit chiigaya’ii oskiishigonk,” odinaan odaanisan.**</span>
+<span class="l-fiero">**“Anishaa go ninganawabamimaan memiigonisiwan pebaamisenit chiigaya’ii oshkiizhigonk,” odinaan odaanisan.**</span>
 
 <span class="l-eng">*“I was only watching the dragonfly that was flying close about his face, “ he said to his daughter.*</span>
 
-<span class="l-gloss">“Anishaa go ninganawabamimaan memiigonisiwan pebaamisenit chiigaya’ii oskiishigonk,” odinaan odaanisan (“I was only watching the dragonfly flying close about his face,” he said to his daughter).</span>
+<span class="l-gloss">“Anishaa go ninganawabamimaan memiigonisiwan pebaamisenit chiigaya’ii oshkiizhigonk,” odinaan odaanisan (“I was only watching the dragonfly flying close about his face,” he said to his daughter).</span>
 
 <span class="l-orig">(679) Kāwīndạc kägō mīnawa udināⁿsīn, ānawi ugi‘känimān īni’ᵘ ōsạn ändōtawānit unābämạn.</span>
 
@@ -5456,11 +5454,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(680) Mīdạc kīwäⁿmīnawā ninguting a‘kiwäⁿzī ā∙ī∙ndawāt änāt uninggwạnạn, ạnîcnā ātisō‘kān:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh miinawaa ningoting akiwenzii aa-iindawaat enaat oninggwanan ani(i)shnaa aatisookaan:**</span>
+<span class="l-fiero">**Mii dash giiwenh miinawaa ningoding akiwenzii aa-iindawaat enaat oninggwanan anishnaa aatisookaan:**</span>
 
 <span class="l-eng">*And now they say, on another occasion during the time that they were dwelling there, the old man said to his son-in-law, so the story goes:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh miinawaa ningoting akiwenzii aa-iindawaat enaat oninggwanan ani(i)shnaa aatisookaan (and now, they say, on another occasion while they lived there, the old man said to his son-in-law, so the story goes):</span>
+<span class="l-gloss">Mii dash giiwenh miinawaa ningoding akiwenzii aa-iindawaat enaat oninggwanan anishnaa aatisookaan (and now, they say, on another occasion while they lived there, the old man said to his son-in-law, so the story goes):</span>
 
 <span class="l-orig">(681) “Mīsa cigwa mīnawā tcibạndawäntcigäyạngubạn,” udinān.</span>
 
@@ -5520,11 +5518,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(688) Kumā‘pi minawā ugạnōnigōn ujinîsạn wâsa kā‘tạgwicinowāt, mīdạc a‘kiwäⁿjī∙i∙c änāt uningwạnạn:</span>
 
-<span class="l-fiero">**Komaapi minawaa oganoonigoon ozhini(i)san wasa kaa-tagwishinowaat, mii dash akiwenzhii’ish enaat oningwanan:**</span>
+<span class="l-fiero">**Komaapi minawaa oganoonigoon ozhinisan wasa kaa-tagwishinowaat, mii dash akiwenzhii’ish enaat oningwanan:**</span>
 
 <span class="l-eng">*By and by again he was addressed by his father-in-law after they had come afar.And this the old man said to his son-in-law:*</span>
 
-<span class="l-gloss">Komaapi minawaa oganoonigoon ozhini(i)san wasa kaa-tagwishinowaat (by and by again he was addressed by his father-in-law after they had come far), mii dash akiwenzhii’ish enaat oningwanan (and this the old man said to his son-in-law):</span>
+<span class="l-gloss">Komaapi minawaa oganoonigoon ozhinisan wasa kaa-tagwishinowaat (by and by again he was addressed by his father-in-law after they had come far), mii dash akiwenzhii’ish enaat oningwanan (and this the old man said to his son-in-law):</span>
 
 <span class="l-orig">(689) “Mī omāsa tcī∙u∙cigäyạng.</span>
 
@@ -5566,7 +5564,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash wenaagoshik kii-shkwaa-wiisiniwaat (thereupon in the evening, after they had finished eating) mii mi’awaa naasaab endodank aw akiwenzhii’ish (then in the same way as before behaved the malicious old man).</span>
 
-<span class="l-orig">(694) Kāwīn minawā kī∙i∙jimāminonändạnzī awinini; ā‘pitci mā a‘kiwäⁿjī∙i∙c owāwī‘kimān īni’ᵘ uningwạnạn, mīdạcigu ā‘pidci wändcini‘tāpapāmäniwāsik.</span>
+<span class="l-orig">(694) Kāwīn minawā kī∙i∙jimāminonändạnzī awinini; ā‘pitci mā a‘kiwäⁿjī∙i∙c owāwī‘kimān īni´ᵘ uningwạnạn, mīdạcigu ā‘pidci wändcini´tāpapāmäniwāsik.</span>
 
 <span class="l-fiero">**Gaawiin minawaa kii-izhi-maaminonendanzii aw inini; aapichi maa akiwenzhii’ish owaawiikimaan iiniw oningwanan, mii dash igo aapiji wenji-nitaa-papaameniwaasik.**</span>
 
@@ -5600,19 +5598,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(698) Awidạc awinini kāwīn ogạnōnāsi; mī ki‘kändạnk kitcāgisạmāgut uma‘kisînạn.</span>
 
-<span class="l-fiero">**Aw idash aw inini gaawiin oganoonaasi; mii kikendank kichaagisamaagot omakisi(i)nan.**</span>
+<span class="l-fiero">**Aw idash aw inini gaawiin oganoonaasi; mii kikendank kichaagisamaagot omakisinan.**</span>
 
 <span class="l-eng">*But the man did not speak to him; for he already knew that his moccasins had been burned up by the other.*</span>
 
-<span class="l-gloss">Aw idash aw inini gaawiin oganoonaasi (but the man did not answer him); mii kikendank kichaagisamaagot omakisi(i)nan (for he already knew that his moccasins had been burned up by the other).</span>
+<span class="l-gloss">Aw idash aw inini gaawiin oganoonaasi (but the man did not answer him); mii kikendank kichaagisamaagot omakisinan (for he already knew that his moccasins had been burned up by the other).</span>
 
 <span class="l-orig">(699) Ogi‘kändān awinini keyābi ningutwäwān ayāt uma‘kisînan pāmigitänig.</span>
 
-<span class="l-fiero">**Ogikendaan aw inini keyaabi ningotwewaan ayaat omakisi(i)nan paamigitenig.**</span>
+<span class="l-fiero">**Ogikendaan aw inini geyaabi ningotwewaan ayaat omakisinan paamigitenig.**</span>
 
 <span class="l-eng">*The man knew that he still had one pair of moccasins which were quilled.*</span>
 
-<span class="l-gloss">Ogikendaan aw inini keyaabi ningotwewaan ayaat omakisi(i)nan paamigitenig (the man knew he still had one pair of moccasins, the quilled ones).</span>
+<span class="l-gloss">Ogikendaan aw inini geyaabi ningotwewaan ayaat omakisinan paamigitenig (the man knew he still had one pair of moccasins, the quilled ones).</span>
 
 <span class="l-orig">(700) Mīdec weyâbạng unickāwāt mīdec ägut ucinînsạn:</span>
 
@@ -5630,13 +5628,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Keget sa na kigichi-izhiwepis chaagitegin apane kimakisinan,” odigoon (“truly you are most unlucky, always having your moccasins burn up,” he was told).</span>
 
-<span class="l-orig">(702) Kāwīn i‘kitusī ainini; kī∙a∙ni∙u∙jī‘tā kīpīzi‘kạnk minawā ānint ma‘kisînạn.</span>
+<span class="l-orig">(702) Kāwīn i´kitusī ainini; kī∙a∙ni∙u∙jī‘tā kīpīzi‘kạnk minawā ānint ma‘kisînạn.</span>
 
-<span class="l-fiero">**Gaawiin ikitosii a inini; kii-ani-ozhiitaa kiipiizikank minawaa aanint makisi(i)nan.**</span>
+<span class="l-fiero">**Gaawiin ikitosii a inini; kii-ani-ozhiitaa kiipiizikank minawaa aanint makisinan.**</span>
 
 <span class="l-eng">*The man did not speak; he went on making preparations, putting on his other moccasins.*</span>
 
-<span class="l-gloss">Gaawiin ikitosii a inini (the man did not speak); kii-ani-ozhiitaa kiipiizikank minawaa aanint makisi(i)nan (he went on making ready, putting on his other moccasins).</span>
+<span class="l-gloss">Gaawiin ikitosii a inini (the man did not speak); kii-ani-ozhiitaa kiipiizikank minawaa aanint makisinan (he went on making ready, putting on his other moccasins).</span>
 
 <span class="l-orig">(703) Mīc mīnawā kī‘papānạndawäntcigäwāt.</span>
 
@@ -5648,19 +5646,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(704) Minawādạc wänāgucininig mīgu minawā nāsāb ändōtạnk a‘kiwäⁿzī; minawā ucī‘tāwạg tcînîbāwāt; mīdạc minawā ayạgōtōwāt uma‘kisiniwān tcipā‘tänig.</span>
 
-<span class="l-fiero">**Minawaa dash wenaagoshininig mi igo minawaa naasaab endootank akiwenzii; minawaa oshiitaawag chi(i)-ni(i)baawaat; mii dash minawaa ayagootoowaat omakisiniwaan chi-paatenig.**</span>
+<span class="l-fiero">**Minawaa dash wenaagoshininig mi igo minawaa naasaab endootank akiwenzii; minawaa oshiitaawag chi-nibaawaat; mii dash minawaa ayagootoowaat omakisiniwaan chi-paatenig.**</span>
 
 <span class="l-eng">*And so, when it was evening, in the same manner as before acted the old man; again they made ready to go to sleep; and so again they hung up their moccasins to dry.*</span>
 
-<span class="l-gloss">Minawaa dash wenaagoshininig mi igo minawaa naasaab endootank akiwenzii (and so when it was evening, again the old man did the same as before); minawaa oshiitaawag chi(i)-ni(i)baawaat (again they made ready to sleep); mii dash minawaa ayagootoowaat omakisiniwaan chi-paatenig (and so again they hung up their moccasins to dry).</span>
+<span class="l-gloss">Minawaa dash wenaagoshininig mi igo minawaa naasaab endootank akiwenzii (and so when it was evening, again the old man did the same as before); minawaa oshiitaawag chi-nibaawaat (again they made ready to sleep); mii dash minawaa ayagootoowaat omakisiniwaan chi-paatenig (and so again they hung up their moccasins to dry).</span>
 
-<span class="l-orig">(705) Mīgu imā ayanimi‘kwīnit īni’ᵘ ujînisạn, kī∙ạ∙ntagōtōd uma‘kisinạn; ujînisạn uma‘kisinini agōtänig ugī∙ạ∙gōtōnạn uma‘kisînạn; mäskutidạc wīn agōtänigibạn uma‘kisinạn ogī∙i∙gōtowạn uma‘kisinini.</span>
+<span class="l-orig">(705) Mīgu imā ayanimi‘kwīnit īni´ᵘ ujînisạn, kī∙ạ∙ntagōtōd uma‘kisinạn; ujînisạn uma‘kisinini agōtänig ugī∙ạ∙gōtōnạn uma‘kisînạn; mäskutidạc wīn agōtänigibạn uma‘kisinạn ogī∙i∙gōtowạn uma‘kisinini.</span>
 
-<span class="l-fiero">**Mii go imaa ayanimikwiinit iiniw ozhi(i)nisan, kii-antagootood oma kisinan; ozhi(i)nisan omakisinini agootenig ogii-agootoonan omakisi(i)nan; meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini.**</span>
+<span class="l-fiero">**Mii go imaa ayanimikwiinit iiniw ozhinisan, kii-antagootood oma kisinan; ozhinisan omakisinini agootenig ogii-agootoonan omakisinan; meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini.**</span>
 
 <span class="l-eng">*Then at the place over there, the instant that his father-in-law had turned his back, he then changed the place of his moccasins;the moccasins of his father-in-law were now hanging where he had hung his own moccasins;in the place where his own moccasins had been hanging he now hung the moccasins of the other.*</span>
 
-<span class="l-gloss">Mii go imaa ayanimikwiinit iiniw ozhi(i)nisan (then, the instant his father-in-law turned his back) kii-antagootood oma kisinan (he changed the place of his moccasins); ozhi(i)nisan omakisinini agootenig ogii-agootoonan omakisi(i)nan (where his father-in-law’s moccasins hung he hung his own); meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini (and where his own moccasins had hung he hung the other’s).</span>
+<span class="l-gloss">Mii go imaa ayanimikwiinit iiniw ozhinisan (then, the instant his father-in-law turned his back) kii-antagootood oma kisinan (he changed the place of his moccasins); ozhinisan omakisinini agootenig ogii-agootoonan omakisinan (where his father-in-law’s moccasins hung he hung his own); meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini (and where his own moccasins had hung he hung the other’s).</span>
 
 <span class="l-orig">(706) Mīdạc kā∙i∙jikawicimowāt.</span>
 
@@ -5672,19 +5670,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(707) Kumā∙a∙‘pidạc minawā awidạc kīwāⁿ awinini ugīpī∙ā∙n amạntc käta∙i∙ndinigwän.</span>
 
-<span class="l-fiero">**Komaa api dash minawaa aw idash kiiwenh aw inini ogii-pii’aan amanch ket-a’indinigwen.**</span>
+<span class="l-fiero">**Komaa api dash minawaa aw idash giiwenh aw inini ogii-pii’aan amanch ket-a’indinigwen.**</span>
 
 <span class="l-eng">*And then for some time afterwards, so they say, did the man wait to see what the other would do.*</span>
 
-<span class="l-gloss">Komaa api dash minawaa aw idash kiiwenh aw inini ogii-pii’aan amanch ket-a’indinigwen (and then for a while afterward, they say, the man waited to see what the other would do).</span>
+<span class="l-gloss">Komaa api dash minawaa aw idash giiwenh aw inini ogii-pii’aan amanch ket-a’indinigwen (and then for a while afterward, they say, the man waited to see what the other would do).</span>
 
 <span class="l-orig">(708) Mīdạc kägä‘t cayīgwa kīwäⁿ pimi∙u∙nickāwạn.</span>
 
-<span class="l-fiero">**Mii dash keget shayiigwa kiiwenh pimi-onishkaawan.**</span>
+<span class="l-fiero">**Mii dash keget shayiigwa giiwenh pimi-onishkaawan.**</span>
 
 <span class="l-eng">*And then truly by now, they say, was he risen from his pallet.*</span>
 
-<span class="l-gloss">Mii dash keget shayiigwa kiiwenh pimi-onishkaawan (and then truly by now, they say, he rose from his pallet).</span>
+<span class="l-gloss">Mii dash keget shayiigwa giiwenh pimi-onishkaawan (and then truly by now, they say, he rose from his pallet).</span>
 
 <span class="l-orig">(709) “Nibā,” inänimigut.</span>
 
@@ -5694,13 +5692,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Nibaa,” inenimigot (“he is asleep,” the youth was thought to be).</span>
 
-<span class="l-orig">(710) Mīdạc pämicipīna∙ạ∙ngin īni’ᵘ uma‘kisinini, äjipạgidînạngin ckutäng,</span>
+<span class="l-orig">(710) Mīdạc pämicipīna∙ạ∙ngin īni´ᵘ uma‘kisinini, äjipạgidînạngin ckutäng,</span>
 
-<span class="l-fiero">**Mii dash pemishipiina’angin iiniw omakisinini, ezhi-pagidi(i)nangin shkoteng.**</span>
+<span class="l-fiero">**Mii dash pemishipiina’angin iiniw omakisinini, ezhi-pagidinangin shkoteng.**</span>
 
 <span class="l-eng">*And then he took down the other moccasins (and) he laid them in the fire.*</span>
 
-<span class="l-gloss">Mii dash pemishipiina’angin iiniw omakisinini (and then he took down the moccasins), ezhi-pagidi(i)nangin shkoteng (laying them in the fire).</span>
+<span class="l-gloss">Mii dash pemishipiina’angin iiniw omakisinini (and then he took down the moccasins), ezhi-pagidinangin shkoteng (laying them in the fire).</span>
 
 <span class="l-orig">(711) Mīdạc aᵘ a‘kiwäⁿjī∙i∙c käcitinä äjikawicimut, mīdạc äjikīgitut:</span>
 
@@ -5710,7 +5708,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash aw akiwenzhii’ish keshitine ezhi-kawishimot (whereupon the hateful old man at once lay down), mii dash ezhi-kiigitot (and then said):</span>
 
-<span class="l-orig">(712) “Pā‘pa’! kägō pītcimā‘tä.— Naᵉāngī, kima‘kisinạn!” udinān.</span>
+<span class="l-orig">(712) “Pā‘pa´! kägō pītcimā‘tä.— Naᵉāngī, kima‘kisinạn!” udinān.</span>
 
 <span class="l-fiero">**“Paapa! kegoo piichimaate.— Na’aangii, kimakisinan!” odinaan.**</span>
 
@@ -5766,7 +5764,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Naske! niin pimigitewan niin nimakisinan,” odinaan (“look! quill-worked are my moccasins,” he said to him).</span>
 
-<span class="l-orig">(719) “Kāwīn dạc kīn pīmigitäsinōn kima‘kisinạn,” udinān īni’ᵘ a‘kiwäⁿjī∙i∙cạn.</span>
+<span class="l-orig">(719) “Kāwīn dạc kīn pīmigitäsinōn kima‘kisinạn,” udinān īni´ᵘ a‘kiwäⁿjī∙i∙cạn.</span>
 
 <span class="l-fiero">**“Gaawiin dash kiin piimigitesinoon kimakisinan,” odinaan iiniw akiwenzhii’ishan.**</span>
 
@@ -5776,19 +5774,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(720) Mīdạc kīwäⁿ pîtcīnạg ki‘kändạnk aᵘ a‘kiwäⁿjī∙i∙c kītcāgisạnk tibinawä uma‘kizinạn.</span>
 
-<span class="l-fiero">**Mi idash kiiwenh pi(i)tchiinag kikendank aw akiwenzhii’ish kii-chaagisank tibinawe omakizinan.**</span>
+<span class="l-fiero">**Mi idash giiwenh pichiinag kikendank aw akiwenzhii’ish kii-chaagisank tibinawe omakizinan.**</span>
 
 <span class="l-eng">*And then they say not till now did the mean old man realize that his own moccasins had been consumed in the fire.*</span>
 
-<span class="l-gloss">Mi idash kiiwenh pi(i)tchiinag kikendank aw akiwenzhii’ish kii-chaagisank tibinawe omakizinan (and then, they say, not till now did the mean old man realize that his own moccasins had been burned up).</span>
+<span class="l-gloss">Mi idash giiwenh pichiinag kikendank aw akiwenzhii’ish kii-chaagisank tibinawe omakizinan (and then, they say, not till now did the mean old man realize that his own moccasins had been burned up).</span>
 
 <span class="l-orig">(721) Mīdac kīwäⁿ awinini käjtînä ucī‘tād wī∙ạ∙nikīwät.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini kezhti(i)ne oshiitaad wii-ani-kiiwet.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini kezhtine oshiitaad wii-ani-kiiwet.**</span>
 
 <span class="l-eng">*Whereupon they say that the man at once made ready to go back home.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini kezhti(i)ne oshiitaad wii-ani-kiiwet (whereupon, they say, the man at once made ready to go back home).</span>
+<span class="l-gloss">Mii dash giiwenh aw inini kezhtine oshiitaad wii-ani-kiiwet (whereupon, they say, the man at once made ready to go back home).</span>
 
 <span class="l-orig">(722) Mīdạc änāt:</span>
 
@@ -5816,11 +5814,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(725) “Wīndạmawi nindānis tcîbītōt nima‘kisînạn.”</span>
 
-<span class="l-fiero">**“Wiindamawi nindaanis chi(i)-biitoot nimakisi(i)nan.”**</span>
+<span class="l-fiero">**“Wiindamawi nindaanis chi-biitoot nimakisinan.”**</span>
 
 <span class="l-eng">*“Tell my daughter to fetch my moccasins.”*</span>
 
-<span class="l-gloss">“Wiindamawi nindaanis chi(i)-biitoot nimakisi(i)nan.” (“tell my daughter to fetch my moccasins.”)</span>
+<span class="l-gloss">“Wiindamawi nindaanis chi-biitoot nimakisinan.” (“tell my daughter to fetch my moccasins.”)</span>
 
 <span class="l-orig">(726) “Ayeᵉ!” udinān.</span>
 
@@ -5840,19 +5838,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(728) Mīdac kīwäⁿ aᵘ a‘kiwäzi kā∙ạ∙nimādcānit uningwạnạn kayä wīn ạnōtc ānu∙i∙citcigät.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw akiwezi kaa-ani-maajaanit oningwanan gaye wiin anooch aano-izhichiget.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw akiwezi kaa-ani-maajaanit oningwanan gaye wiin anooch aano-izhichiget.**</span>
 
 <span class="l-eng">*Thereupon they say that after the departure of his son-in-law, the old man likewise did all sorts of things.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw akiwezi kaa-ani-maajaanit oningwanan (thereupon, they say, after his son-in-law had departed) gaye wiin anooch aano-izhichiget (the old man too tried all sorts of things in vain).</span>
+<span class="l-gloss">Mii dash giiwenh aw akiwezi kaa-ani-maajaanit oningwanan (thereupon, they say, after his son-in-law had departed) gaye wiin anooch aano-izhichiget (the old man too tried all sorts of things in vain).</span>
 
 <span class="l-orig">(729) Ānīc kayä wīn ạsinīn utānugicāpīgiswān, ānīc wayība wīn asîn ā‘täyâbi‘kicin.</span>
 
-<span class="l-fiero">**Aaniish gaye wiin asiniin otaanogishaapiigiswaan, aaniish wayiiba wiin asi(i)n aateyabikishin.**</span>
+<span class="l-fiero">**Aaniish gaye wiin asiniin otaanogishaapiigiswaan, aaniish wayiiba wiin asin aateyabikishin.**</span>
 
 <span class="l-eng">*He too tried in vain heating a rock, but soon would the rock become cool.*</span>
 
-<span class="l-gloss">Aaniish gaye wiin asiniin otaanogishaapiigiswaan (he too tried in vain heating a rock), aaniish wayiiba wiin asi(i)n aateyabikishin (but soon would the rock cool off).</span>
+<span class="l-gloss">Aaniish gaye wiin asiniin otaanogishaapiigiswaan (he too tried in vain heating a rock), aaniish wayiiba wiin asin aateyabikishin (but soon would the rock cool off).</span>
 
 <span class="l-orig">(730) Mīdạc minawā ānuwī∙i∙cigicābi‘kiswāt, mīgu mīnawā wayība ā‘täyābi‘kicininit.</span>
 
@@ -5864,19 +5862,19 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(731) Kägä‘t mī kiˢtci∙ạ∙no‘kīt wī‘kīwät.</span>
 
-<span class="l-fiero">**Keget mii kischi-anokiit wii-kiiwet.**</span>
+<span class="l-fiero">**Keget mii gichi-anokiit wii-kiiwet.**</span>
 
 <span class="l-eng">*Truly he worked hard to get back home.*</span>
 
-<span class="l-gloss">Keget mii kischi-anokiit wii-kiiwet (truly he worked hard to get back home).</span>
+<span class="l-gloss">Keget mii gichi-anokiit wii-kiiwet (truly he worked hard to get back home).</span>
 
 <span class="l-orig">(732) Mīdạc kīwäⁿ awinini ạnitạgwicin äntāwāt.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini ani-tagwishin entaawaat.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini ani-tagwishin entaawaat.**</span>
 
 <span class="l-eng">*And now they say that the man kept on till he arrived at home.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini ani-tagwishin entaawaat (and now, they say, the man kept on till he arrived home).</span>
+<span class="l-gloss">Mii dash giiwenh aw inini ani-tagwishin entaawaat (and now, they say, the man kept on till he arrived home).</span>
 
 <span class="l-orig">(733) Mīdạc änāt:</span>
 
@@ -5928,11 +5926,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(739) Mīdạc kīwäⁿ ä‘kitut minawā:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh ekitot minawaa:**</span>
+<span class="l-fiero">**Mii dash giiwenh ekitot minawaa:**</span>
 
 <span class="l-eng">*And then they say that she said again:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh ekitot minawaa (and then, they say, she said again):</span>
+<span class="l-gloss">Mii dash giiwenh ekitot minawaa (and then, they say, she said again):</span>
 
 <span class="l-orig">(740) “Māmī nōmạg ta∙a∙yā iwiti.</span>
 
@@ -5958,21 +5956,21 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Paanimaa wabank ninga-ozhitoowanan makizinan,” ikito (“later tomorrow I will make moccasins,” she said).</span>
 
-<span class="l-orig">(743) Mīdạc kīwäⁿ gägä‘t weyâbạninig kī∙u∙ci‘tōd īni’ᵘ ma‘kizinạn.</span>
+<span class="l-orig">(743) Mīdạc kīwäⁿ gägä‘t weyâbạninig kī∙u∙ci‘tōd īni´ᵘ ma‘kizinạn.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh geget weyabaninig kii-ozhitood iiniw makizinan.**</span>
+<span class="l-fiero">**Mii dash giiwenh geget weyabaninig kii-ozhitood iiniw makizinan.**</span>
 
 <span class="l-eng">*Thereupon they say that truly on the morrow she then made the moccasins.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh geget weyabaninig kii-ozhitood iiniw makizinan (thereupon, they say, truly on the morrow she then made the moccasins).</span>
+<span class="l-gloss">Mii dash giiwenh geget weyabaninig kii-ozhitood iiniw makizinan (thereupon, they say, truly on the morrow she then made the moccasins).</span>
 
-<span class="l-orig">(744) Mīdạc kīwäⁿ ạnicnā ātiso‘kān awidạc kayä i‘kwä säzī‘kisit, äjini‘kāzugubạn Pīdābạnō‘k, mīdạc awi‘kwa kīwạna‘pitōd īni’ᵘ ma‘kisinạn wīmādcitōd.</span>
+<span class="l-orig">(744) Mīdạc kīwäⁿ ạnicnā ātiso‘kān awidạc kayä i‘kwä säzī‘kisit, äjini‘kāzugubạn Pīdābạnō‘k, mīdạc awi‘kwa kīwạna‘pitōd īni´ᵘ ma‘kisinạn wīmādcitōd.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh anish naa aatisokaan aw idash gaye ikwe seziikisit, ezhinikazogoban Piidaabanook, mii dash aw ikwe kii-wanapitood iiniw makisinan wii-maajitood.**</span>
+<span class="l-fiero">**Mii dash giiwenh anish naa aatisokaan aw idash gaye ikwe seziikisit, ezhinikazogoban Piidaabanook, mii dash aw ikwe kii-wanapitood iiniw makisinan wii-maajitood.**</span>
 
 <span class="l-eng">*And now they say, so goes the story, the woman who was older than the other, who bore the name of Coming-Dawn, was the woman who tied the moccasins into a bundle, as if she meant to take them.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh anish naa aatisokaan aw idash gaye ikwe seziikisit (and now, they say, so goes the story, the woman who was the elder), ezhinikazogoban Piidaabanook (whose name was Coming-Dawn), mii dash aw ikwe kii-wanapitood iiniw makisinan wii-maajitood (she was the woman who bundled the moccasins, meaning to take them).</span>
+<span class="l-gloss">Mii dash giiwenh anish naa aatisokaan aw idash gaye ikwe seziikisit (and now, they say, so goes the story, the woman who was the elder), ezhinikazogoban Piidaabanook (whose name was Coming-Dawn), mii dash aw ikwe kii-wanapitood iiniw makisinan wii-maajitood (she was the woman who bundled the moccasins, meaning to take them).</span>
 
 <span class="l-orig">(745) Mīdạc kā∙i∙ciwunickāt awi‘kwä kägā tciwâbạnininig, mīdạc kīsāga∙ạ∙nk kā∙i∙ckwāsasägāwạt.</span>
 
@@ -5982,7 +5980,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash kaa-izhi-wonishkaat aw ikwe kegaa chi-wabanininig (thereupon, when the woman rose near daybreak), mii dash kii-saaga’ank kaa-ishkwaa-sasegaawat (then out she went, after she had arrayed herself finely).</span>
 
-<span class="l-orig">(746) Mīdạc kā∙i∙jikīgitut pạgitōt īni’ᵘ ma‘kisinạn:</span>
+<span class="l-orig">(746) Mīdạc kā∙i∙jikīgitut pạgitōt īni´ᵘ ma‘kisinạn:</span>
 
 <span class="l-fiero">**Mii dash kaa-izhi-kiigitot pagitoot iiniw makisinan:**</span>
 
@@ -5990,7 +5988,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash kaa-izhi-kiigitot pagitoot iiniw makisinan (and so, after she had spoken, she flung the moccasins):</span>
 
-<span class="l-orig">(747) “Ōnu’ʷᵉ ma‘kisinạn kitānis Pītābạnō‘k opītōnạn.”</span>
+<span class="l-orig">(747) “Ōnu´ʷᵉ ma‘kisinạn kitānis Pītābạnō‘k opītōnạn.”</span>
 
 <span class="l-fiero">**“Oonowe makisinan kitaanis Piitabanook opiitoonan.”**</span>
 
@@ -5998,7 +5996,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Oonowe makisinan kitaanis Piitabanook opiitoonan.” (“these moccasins your daughter Coming-Dawn brings.”)</span>
 
-<span class="l-orig">(748) Mīdạcigu kā∙ạ∙ni∙a∙‘pīsi‘kāmạgatinig wâbạn mīgu’ imā kī∙ạ∙ni∙a∙yāmạgatinig ma‘kisinạn, kī∙u∙tisigut aᵘ a‘kiwäⁿjī∙i∙c.</span>
+<span class="l-orig">(748) Mīdạcigu kā∙ạ∙ni∙a∙‘pīsi‘kāmạgatinig wâbạn mīgu´ imā kī∙ạ∙ni∙a∙yāmạgatinig ma‘kisinạn, kī∙u∙tisigut aᵘ a‘kiwäⁿjī∙i∙c.</span>
 
 <span class="l-fiero">**Mii dash igo kaa-ani-apiisikaamagatinig waban mii go imaa kii-ani-ayaamagatinig makisinan, kii-otisigot aw akiwenzhii’ish.**</span>
 
@@ -6008,11 +6006,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(749) “Ā‘tā, nîṇdānis Pīdābạnō‘k!”</span>
 
-<span class="l-fiero">**“Aataa, ni(i)ndaanis Piidaabanook!”**</span>
+<span class="l-fiero">**“Aataa, nindaanis Piidaabanook!”**</span>
 
 <span class="l-eng">*“Good for you, O my daughter Coming-Dawn!”*</span>
 
-<span class="l-gloss">“Aataa, ni(i)ndaanis Piidaabanook!” (“good for you, my daughter Coming-Dawn!”)</span>
+<span class="l-gloss">“Aataa, nindaanis Piidaabanook!” (“good for you, my daughter Coming-Dawn!”)</span>
 
 <span class="l-orig">(750) Mīdạc wīpī‘tcīt a‘kiwäⁿzī.</span>
 
@@ -6086,29 +6084,29 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Aan kaa! (“oh, nothing!)</span>
 
-<span class="l-orig">(759) Ạnicāsạgu kanawâbạmimān īni’ᵘ maskutcīsiwạn päbāmōtänit pīndcīya∙ī∙ uskīcigunk,” udinān.</span>
+<span class="l-orig">(759) Ạnicāsạgu kanawâbạmimān īni´ᵘ maskutcīsiwạn päbāmōtänit pīndcīya∙ī∙ uskīcigunk,” udinān.</span>
 
-<span class="l-fiero">**Anishaa sa go kanawabamimaan iiniw maskochiisiwan pebaamootenit piinjiiya’ii oskiishigonk,” odinaan.**</span>
+<span class="l-fiero">**Anishaa sa go kanawabamimaan iiniw maskochiisiwan pebaamootenit piinjiiya’ii oshkiizhigonk,” odinaan.**</span>
 
 <span class="l-eng">*I was merely looking at the whirligig-beetle that was crawling about inside of his eye,” he said to her.*</span>
 
-<span class="l-gloss">Anishaa sa go kanawabamimaan iiniw maskochiisiwan pebaamootenit piinjiiya’ii oskiishigonk,” odinaan (I was merely watching the whirligig-beetle crawling about inside his eye,” he said to her).</span>
+<span class="l-gloss">Anishaa sa go kanawabamimaan iiniw maskochiisiwan pebaamootenit piinjiiya’ii oshkiizhigonk,” odinaan (I was merely watching the whirligig-beetle crawling about inside his eye,” he said to her).</span>
 
 <span class="l-orig">(760) Minawāgu käyābi ūwīji∙a∙‘tawān unīngwạnạn.</span>
 
-<span class="l-fiero">**Minawaa go keyaabi oowii-[i]zhi-atawaan oniingwanan.**</span>
+<span class="l-fiero">**Minawaa go geyaabi oowii-zhi-atawaan oniingwanan.**</span>
 
 <span class="l-eng">*And still again he wished to contend with his son-in-law.*</span>
 
-<span class="l-gloss">Minawaa go keyaabi oowii-[i]zhi-atawaan oniingwanan (and still again he wished to contend with his son-in-law).</span>
+<span class="l-gloss">Minawaa go geyaabi oowii-zhi-atawaan oniingwanan (and still again he wished to contend with his son-in-law).</span>
 
 <span class="l-orig">(761) Mīdạc äjimi‘kwändạnk ōwiti kistcikīckābi‘kāng; mīdạc änändạnk.</span>
 
-<span class="l-fiero">**Mii dash ezhi-mikwendank oowiti kischi-kiishkaabikaang; mii dash enendank:**</span>
+<span class="l-fiero">**Mii dash ezhi-mikwendank oowiti gichi-kiishkaabikaang; mii dash enendank:**</span>
 
 <span class="l-eng">*And then he thought of that great steep cliff yonder.And this he thought:*</span>
 
-<span class="l-gloss">Mii dash ezhi-mikwendank oowiti kischi-kiishkaabikaang (and then he thought of that great steep cliff yonder); mii dash enendank (and this he thought):</span>
+<span class="l-gloss">Mii dash ezhi-mikwendank oowiti gichi-kiishkaabikaang (and then he thought of that great steep cliff yonder); mii dash enendank (and this he thought):</span>
 
 <span class="l-orig">(762) “Mī∙i∙witi kädiciwinạg,” inändạm.</span>
 
@@ -6120,11 +6118,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(763) Mīdạc kīwäⁿ minawā ayeyāwāt ä‘kitut a‘kiwäⁿzi:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh minawaa ayeyaawaat ekitot akiwenzi:**</span>
+<span class="l-fiero">**Mii dash giiwenh minawaa ayeyaawaat ekitot akiwenzi:**</span>
 
 <span class="l-eng">*And now they say that again, while they were continuing (there), the old man said:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh minawaa ayeyaawaat ekitot akiwenzi (and now, they say, again, while they were there, the old man said):</span>
+<span class="l-gloss">Mii dash giiwenh minawaa ayeyaawaat ekitot akiwenzi (and now, they say, again, while they were there, the old man said):</span>
 
 <span class="l-orig">(764) “Ạmbäsinōnā, naᵉāngī, awicācōskutciwätā ōwiti!” udinān.</span>
 
@@ -6158,7 +6156,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash ekitot aw ikwe (and then said the woman):</span>
 
-<span class="l-orig">(768) “Cigwa kutakīn minawā!” udinān īni’ᵘ ōsạn.</span>
+<span class="l-orig">(768) “Cigwa kutakīn minawā!” udinān īni´ᵘ ōsạn.</span>
 
 <span class="l-fiero">**“Shigwa kota kiin minawaa!” odinaan iniw oosan.**</span>
 
@@ -6168,11 +6166,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(769) “Ā, ạnicāsagu nintînā.</span>
 
-<span class="l-fiero">**“Aa, anishaa sa go ninti(i)naa.**</span>
+<span class="l-fiero">**“Aa, anishaa sa go nintinaa.**</span>
 
 <span class="l-eng">*“Why, only in jest am I saying it to him.*</span>
 
-<span class="l-gloss">“Aa, anishaa sa go ninti(i)naa (“why, only in jest do I say it to him).</span>
+<span class="l-gloss">“Aa, anishaa sa go nintinaa (“why, only in jest do I say it to him).</span>
 
 <span class="l-orig">(770) Ozām pīsānayāyạng päcigwạn; kayädạc pī‘tcāgījiga‘k.</span>
 
@@ -6208,11 +6206,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(774) “Ānīn, naᵉāngī, kīwī∙î∙cānā?” udinān.</span>
 
-<span class="l-fiero">**“Aaniin, na’aangii, kiiwii-i(i)shaa naa?” odinaan.**</span>
+<span class="l-fiero">**“Aaniin, na’aangii, kiiwii-ishaa naa?” odinaan.**</span>
 
 <span class="l-eng">*“Why, son-in-law, do you want to go?” he said to him.*</span>
 
-<span class="l-gloss">“Aaniin, na’aangii, kiiwii-i(i)shaa naa?” odinaan (“well, son-in-law, do you want to go?” he said to him).</span>
+<span class="l-gloss">“Aaniin, na’aangii, kiiwii-ishaa naa?” odinaan (“well, son-in-law, do you want to go?” he said to him).</span>
 
 <span class="l-orig">(775) “Ānīn nạngwana!” i‘kitu.</span>
 
@@ -6248,11 +6246,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(779) Mīdạc kīwäⁿ cigwa kitạgwicinuwāt, ānīn kädicinạnk awinini kīckābi‘kāni nạngwạna!</span>
 
-<span class="l-fiero">**Mii dash kiiwenh shigwa ki-tagwishinowaat, aaniin ked-ishinank aw inini kiishkaabikaani nangwana!**</span>
+<span class="l-fiero">**Mii dash giiwenh shigwa ki-tagwishinowaat, aaniin ked-ishinank aw inini kiishkaabikaani nangwana!**</span>
 
 <span class="l-eng">*And now they say, on the occasion of their arrival, what did the man behold but a steep cliff!*</span>
 
-<span class="l-gloss">Mii dash kiiwenh shigwa ki-tagwishinowaat (and now, they say, when they arrived), aaniin ked-ishinank aw inini kiishkaabikaani nangwana! (what did the man behold but a steep cliff!)</span>
+<span class="l-gloss">Mii dash giiwenh shigwa ki-tagwishinowaat (and now, they say, when they arrived), aaniin ked-ishinank aw inini kiishkaabikaani nangwana! (what did the man behold but a steep cliff!)</span>
 
 <span class="l-orig">(780) “Awisa, naᵉāngī, kīni‘tạmsa kīgacōskutciwä,” udinān.</span>
 
@@ -6262,7 +6260,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Aw isa, na’aangii, kii nitam sa kiiga-shaaskochiwe,” odinaan (“now then, son-in-law, you are the first to coast down,” the mean old man said to him).</span>
 
-<span class="l-orig">(781) “Ānic dạc kīn?” udinān.</span>
+<span class="l-orig">(781) “Ānīc dạc kīn?” udinān.</span>
 
 <span class="l-fiero">**“Aaniish dash kiin?” odinaan.**</span>
 
@@ -6272,11 +6270,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(782) “Ānīc, pānimā nīn iskwātc,” udinān. “</span>
 
-<span class="l-fiero">**“Aaniich, paanimaa niin iskwaach,” odinaan.**</span>
+<span class="l-fiero">**“Aaniish, paanimaa niin iskwaach,” odinaan.**</span>
 
 <span class="l-eng">*“Why, not till (you are) done, (then will) I (go),” (the man) said to (his son-in-law).*</span>
 
-<span class="l-gloss">“Aaniich, paanimaa niin iskwaach,” odinaan (“why, not till you are done, then I go,” the man said to him).</span>
+<span class="l-gloss">“Aaniish, paanimaa niin iskwaach,” odinaan (“why, not till you are done, then I go,” the man said to him).</span>
 
 <span class="l-orig">(783) ‘Awaᵘ!” udinān.</span>
 
@@ -6294,13 +6292,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Awisa,” odinaan inini (“very well,” the man said to him).</span>
 
-<span class="l-orig">(785) Mīdạc kīwäⁿ cayīgwa äjiwawäcicimāt īni’ᵘ udābānā‘kōn, mīdạc änāt īni’ᵘ unīngwạnạn:</span>
+<span class="l-orig">(785) Mīdạc kīwäⁿ cayīgwa äjiwawäcicimāt īni´ᵘ udābānā‘kōn, mīdạc änāt īni´ᵘ unīngwạnạn:</span>
 
-<span class="l-fiero">**Mii dash kiiwenh shayiigwa ezhi-waweshishimaat iiniw odaabaanaakoon, mii dash enaat iiniw oniingwanan.**</span>
+<span class="l-fiero">**Mii dash giiwenh shayiigwa ezhi-waweshishimaat iiniw odaabaanaakoon, mii dash enaat iiniw oniingwanan.**</span>
 
 <span class="l-eng">*And now they say that already had (the father-in-law) fixed in place his toboggan, whereupon he said to his son-in-law:*</span>
 
-<span class="l-gloss">Mii dash kiiwenh shayiigwa ezhi-waweshishimaat iiniw odaabaanaakoon (and now, they say, he had already fixed his toboggan in place), mii dash enaat iiniw oniingwanan (whereupon he said to his son-in-law):</span>
+<span class="l-gloss">Mii dash giiwenh shayiigwa ezhi-waweshishimaat iiniw odaabaanaakoon (and now, they say, he had already fixed his toboggan in place), mii dash enaat iiniw oniingwanan (whereupon he said to his son-in-law):</span>
 
 <span class="l-orig">(786) “Mi‘ku ändōtamuwâ‘pạn āmininīngibạnīn, äjita‘kupisut aᵘ wâcōskutciwät,” udinān.</span>
 
@@ -6318,13 +6316,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">“Mii dash gaye giin ke-izhi-takopisoyan,” odinaan (“therefore you too must be bound on,” he said to him); “maagishaa kiigagitaash,” odinaan (“lest perhaps you bounce off,” he said to him).</span>
 
-<span class="l-orig">(788) Ānin, mīdạc kägä‘t awinini äcictcigät; mīdạc äjita‘kupinigut īni’ᵘ ujīnîsạn udābānākōng. “</span>
+<span class="l-orig">(788) Ānin, mīdạc kägä‘t awinini äcictcigät; mīdạc äjita‘kupinigut īni´ᵘ ujīnîsạn udābānākōng. “</span>
 
-<span class="l-fiero">**Aaniin, mii dash keget aw inini eshishchiget; mii dash ezhi-takopinigot iiniw ozhiini(i)san odaabaanaakoong.**</span>
+<span class="l-fiero">**Aaniin, mii dash keget aw inini eshishchiget; mii dash ezhi-takopinigot iiniw ozhiinisan odaabaanaakoong.**</span>
 
 <span class="l-eng">*Well, and so that truly the man did; and so he was bound (with cords) to his toboggan by his father-in-law.*</span>
 
-<span class="l-gloss">Aaniin, mii dash keget aw inini eshishchiget (well, and so truly the man did so); mii dash ezhi-takopinigot iiniw ozhiini(i)san odaabaanaakoong (and so he was bound with cords to his toboggan by his father-in-law).</span>
+<span class="l-gloss">Aaniin, mii dash keget aw inini eshishchiget (well, and so truly the man did so); mii dash ezhi-takopinigot iiniw ozhiinisan odaabaanaakoong (and so he was bound with cords to his toboggan by his father-in-law).</span>
 
 <span class="l-orig">(789) ‘Āᵘ, mīsa’ kä∙i∙jikāntciwäpininān,” udinān.</span>
 
@@ -6336,13 +6334,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(790) ‘Āᵘ, ānīc mīsa cāyīgwa aᵘ a‘kiwäⁿzī äjiwawäjikābawit ānīn iᵘ ā‘pidci kä∙i∙jikiˢtcikicīpisugwän inändạnk.</span>
 
-<span class="l-fiero">**Aaw, aaniish mii sa shaayiigwa aw akiwenzii ezhi-wawezhikaabawit aaniin iw aapiji ke-izhi-kischi-kishiipisogwen inendank.**</span>
+<span class="l-fiero">**Aaw, aaniish mii sa shaayiigwa aw akiwenzii ezhi-wawezhikaabawit aaniin iw aapiji ke-izhi-gichi-kishiipisogwen inendank.**</span>
 
 <span class="l-eng">*Now, then, now it was that already was the old man standing in place, thinking in what direction (the youth) would be going with such awful speed.*</span>
 
-<span class="l-gloss">Aaw, aaniish mii sa shaayiigwa aw akiwenzii ezhi-wawezhikaabawit (now then, by now the old man was standing in place) aaniin iw aapiji ke-izhi-kischi-kishiipisogwen inendank (wondering in what direction the youth would go with such terrific speed).</span>
+<span class="l-gloss">Aaw, aaniish mii sa shaayiigwa aw akiwenzii ezhi-wawezhikaabawit (now then, by now the old man was standing in place) aaniin iw aapiji ke-izhi-gichi-kishiipisogwen inendank (wondering in what direction the youth would go with such terrific speed).</span>
 
-<span class="l-orig">(791) Pā‘kạdcigu kāsasa‘ka∙a∙mīt aᵘ a‘kiwäⁿjī∙i∙c, mīsa’ kāntciwäpināt udābānā‘kōn.</span>
+<span class="l-orig">(791) Pā‘kạdcigu kāsasa‘ka∙a∙mīt aᵘ a‘kiwäⁿjī∙i∙c, mīsa´ kāntciwäpināt udābānā‘kōn.</span>
 
 <span class="l-fiero">**Paakaj igo kaasasaka’amiit aw akiwenzhii’ish, mii sa kaanchiwepinat odaabaanaakoon.**</span>
 
@@ -6350,13 +6348,13 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Paakaj igo kaasasaka’amiit aw akiwenzhii’ish (with great eagerness the malicious old man dug his feet in for a purchase), mii sa kaanchiwepinat odaabaanaakoon (and now he heaved against the toboggan).</span>
 
-<span class="l-orig">(792) Kāwīn kạnạgä wimādcāsī aᵘ udābānā‘k, ānawidạc iᵘ kīckābi‘kā intigu cōncā‘kwạt äjināgusit awạsîn tibi wäntcinō‘kickāgwän.</span>
+<span class="l-orig">(792) Kāwīn kạnạgä wīmādcāsī aᵘ udābānā‘k, ānawidạc iᵘ kīckābi‘kā intigu cōncā‘kwạt äjināgusit awạsîn tibi wäntcinō‘kickāgwän.</span>
 
-<span class="l-fiero">**Gaawiin kanage wii-maajaasii aw odaabaanaak, aanawi dash iw kishkaabikaa intigo shoonshaakwat ezhinaagosit awasi(i)n tibi wenchi-nokishkaagwen.**</span>
+<span class="l-fiero">**Gaawiin kanage wii-maajaasii aw odaabaanaak, aanawi dash iw kishkaabikaa intigo shoonshaakwat ezhinaagosit awasin tibi wenchi-nokishkaagwen.**</span>
 
 <span class="l-eng">*But not at all would the toboggan move, even though the cliff was as smooth as ice, for such was the look of the rock down which (the youth) was to slide, (but the toboggan would not go).*</span>
 
-<span class="l-gloss">Gaawiin kanage wii-maajaasii aw odaabaanaak (but not at all would the toboggan move), aanawi dash iw kishkaabikaa intigo shoonshaakwat ezhinaagosit awasi(i)n tibi wenchi-nokishkaagwen (even though the cliff was as smooth as ice, such was the look of the rock down which he was to slide, yet it would not budge).</span>
+<span class="l-gloss">Gaawiin kanage wii-maajaasii aw odaabaanaak (but not at all would the toboggan move), aanawi dash iw kishkaabikaa intigo shoonshaakwat ezhinaagosit awasin tibi wenchi-nokishkaagwen (even though the cliff was as smooth as ice, such was the look of the rock down which he was to slide, yet it would not budge).</span>
 
 <span class="l-orig">(793) Minawā änigu‘k ōgāntciwäbināt.</span>
 
@@ -6422,23 +6420,23 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Naske dash inaabiyok! (so look you!) tibi ko waabandameg kiishkaabikaa (wherever you see a high cliff) kii-wabamaawa kiizhik patakisot newadaabik (you will see a cedar standing near the edge of the rock).</span>
 
-<span class="l-orig">(801) Mī īni’ᵘ kācawänimigut aᵘ Macōs unīngwạnạn.</span>
+<span class="l-orig">(801) Mī īni´ᵘ kācawänimigut aᵘ Macōs unīngwạnạn.</span>
 
 <span class="l-fiero">**Mii iiniw kaa-shawenimigot aw Mashoos oniingwanan.**</span>
 
-<span class="l-eng">*That was the one by whom was blessed the son-in-law of Mashos.*</span>
+<span class="l-eng">*That was the one by whom was blessed the son-in-law of Mashōs.*</span>
 
 <span class="l-gloss">Mii iiniw kaa-shawenimigot aw Mashoos oniingwanan (that was the one who took pity on Mashos’s son-in-law).</span>
 
 <span class="l-orig">(802) Mīdạc kīwäⁿ kā∙ā∙‘pidcipwānawi∙ā∙t tcimādcīyāpōnit mī kīwạniskāt awinini kīyāpa∙u∙tisut.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh kaa-aapiji-pwaanawi’aat chi-maajiiyaapoonit mii kiiwaniskaat aw inini kiiy-aapa’otisot.**</span>
+<span class="l-fiero">**Mii dash giiwenh kaa-aapiji-pwaanawi’aat chi-maajiiyaapoonit mii kiiwaniskaat aw inini kiiy-aapa’otisot.**</span>
 
 <span class="l-eng">*And then they say, after (the old man) could not start him coasting down, then did the man get up (and) untie himself.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh kaa-aapiji-pwaanawi’aat chi-maajiiyaapoonit (and then, they say, after the old man could not get him started coasting down) mii kiiwaniskaat aw inini kiiy-aapa’otisot (the man got up and untied himself).</span>
+<span class="l-gloss">Mii dash giiwenh kaa-aapiji-pwaanawi’aat chi-maajiiyaapoonit (and then, they say, after the old man could not get him started coasting down) mii kiiwaniskaat aw inini kiiy-aapa’otisot (the man got up and untied himself).</span>
 
-<span class="l-orig">(803) Mīdạc kī∙a∙‘kwạmạtciwätābānāt īni’ᵘ tābānā‘kōn, mīdạc änāt: “</span>
+<span class="l-orig">(803) Mīdạc kī∙a∙‘kwạmạtciwätābānāt īni´ᵘ tābānā‘kōn, mīdạc änāt: “</span>
 
 <span class="l-fiero">**Mii dash kii-akwamachiwetaabaanaat iiniw taabaanaakoon, mii dash enaat:**</span>
 
@@ -6448,11 +6446,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(804) ‘Āᵘ, kīni‘tam dạc,” udinān.</span>
 
-<span class="l-fiero">**“Aaw, kii[n] nitam dash,” odinaan.**</span>
+<span class="l-fiero">**“Aaw, kiin nitam dash,” odinaan.**</span>
 
 <span class="l-eng">*“Now, then, it is your turn,” he (thus) said to him.*</span>
 
-<span class="l-gloss">“Aaw, kii[n] nitam dash,” odinaan (“now then, it is your turn,” he said to him).</span>
+<span class="l-gloss">“Aaw, kiin nitam dash,” odinaan (“now then, it is your turn,” he said to him).</span>
 
 <span class="l-orig">(805) “Awisa!” i‘kito a‘kiwäⁿzī.</span>
 
@@ -6480,11 +6478,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(808) Mīdạc kīwäⁿ ā∙ī∙ndạcī‘kawāt wī∙a∙‘pī‘tcimādcī∙ā∙pōsu aᵘ udābān.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aa’iindashiikawaat wii-apiichi-maajii’aapooso aw odaabaan.**</span>
+<span class="l-fiero">**Mii dash giiwenh aa’iindashiikawaat wii-apiichi-maajii’aapooso aw odaabaan.**</span>
 
 <span class="l-eng">*And now they say that while he was busy with him, eager was the toboggan to coast away.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aa’iindashiikawaat wii-apiichi-maajii’aapooso aw odaabaan (and now, they say, while he was busy with him, the toboggan was eager to coast away).</span>
+<span class="l-gloss">Mii dash giiwenh aa’iindashiikawaat wii-apiichi-maajii’aapooso aw odaabaan (and now, they say, while he was busy with him, the toboggan was eager to coast away).</span>
 
 <span class="l-orig">(809) “Ānīc mīsa iᵘ!” udinān. “</span>
 
@@ -6506,35 +6504,35 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-fiero">**Pane go Mashoos maajiyaaboono, mii sa pane aabidaaboonot akiwenzii.**</span>
 
-<span class="l-eng">*And then old Mashos started sliding off, forever away went coasting the old man.*</span>
+<span class="l-eng">*And then old Mashōs started sliding off, forever away went coasting the old man.*</span>
 
 <span class="l-gloss">Pane go Mashoos maajiyaaboono (and away old Mashos went sliding off), mii sa pane aabidaaboonot akiwenzii (forever away coasting went the old man).</span>
 
 <span class="l-orig">(812) Kumā‘pī kīwäⁿ cavīgwa pāpīpāgi aᵘ a‘kiwäⁿzi, i‘kitut:</span>
 
-<span class="l-fiero">**Komaa pii kiiwenh shayiigwa paapiipaagi aw akiwenzi, ikitot:**</span>
+<span class="l-fiero">**Komaa pii giiwenh shayiigwa paapiipaagi aw akiwenzi, ikitot:**</span>
 
 <span class="l-eng">*After a time, they say, then with a loud voice the old man began calling:*</span>
 
-<span class="l-gloss">Komaa pii kiiwenh shayiigwa paapiipaagi aw akiwenzi, ikitot (after a time, they say, then the old man began calling aloud, saying):</span>
+<span class="l-gloss">Komaa pii giiwenh shayiigwa paapiipaagi aw akiwenzi, ikitot (after a time, they say, then the old man began calling aloud, saying):</span>
 
 <span class="l-orig">(813) “Nintcīmāmbān!” Minawā, “Nintcīmābān!” Minawā, “Nintcīmāmbān!”</span>
 
 <span class="l-fiero">**“Ninchiimaambaan!” Minawaa, “Ninchiimaabaan!” Minawaa, “Ninchiimaambaan!”**</span>
 
-<span class="l-eng">*“ my canoe!” Again, “O my canoe!” Again, “ my canoe!”*</span>
+<span class="l-eng">*“O my canoe!” Again, “O my canoe!” Again, “O my canoe!”*</span>
 
 <span class="l-gloss">“Ninchiimaambaan!” Minawaa, “Ninchiimaabaan!” Minawaa, “Ninchiimaambaan!” (“my canoe!” Again, “my canoe!” Again, “my canoe!”)</span>
 
-<span class="l-orig">(814) Mīdạc kīwäⁿ ingi’ᵘ i‘kwäwạg ki‘känimāwāt cayīgwa ōsiwān kī‘pa‘kinawimint.</span>
+<span class="l-orig">(814) Mīdạc kīwäⁿ ingi´ᵘ i‘kwäwạg ki‘känimāwāt cayīgwa ōsiwān kī‘pa‘kinawimint.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh ingiw ikwewag kikenimaawaat shayiigwa oosiwaan kii-pakinawimint.**</span>
+<span class="l-fiero">**Mii dash giiwenh ingiw ikwewag kikenimaawaat shayiigwa oosiwaan kii-pakinawimint.**</span>
 
 <span class="l-eng">*Thereupon it is said that the women knew that now was their father being vanquished in the contest.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh ingiw ikwewag kikenimaawaat shayiigwa oosiwaan kii-pakinawimint (thereupon, they say, the women knew that now their father was being vanquished in the contest).</span>
+<span class="l-gloss">Mii dash giiwenh ingiw ikwewag kikenimaawaat shayiigwa oosiwaan kii-pakinawimint (thereupon, they say, the women knew that now their father was being vanquished in the contest).</span>
 
-<span class="l-orig">(815) Mīdạc ‘iᵉi’ᵘ utcīmānini wâ∙i∙cimādcāmạgatinig.</span>
+<span class="l-orig">(815) Mīdạc ‘iᵉi´ᵘ utcīmānini wâ∙i∙cimādcāmạgatinig.</span>
 
 <span class="l-fiero">**Mii dash i’iw ochiimaanini wa-izhi-maajaamagatinig.**</span>
 
@@ -6542,29 +6540,29 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-gloss">Mii dash i’iw ochiimaanini wa-izhi-maajaamagatinig (and then his canoe was eager to go).</span>
 
-<span class="l-orig">(816) Mīdạc īgi’ᵘ i‘kwäwạg kiˢtciwīnạmōwāt, wīmādcāmạgatinig ānindi ändạnänimigunit.</span>
+<span class="l-orig">(816) Mīdạc īgi´ᵘ i‘kwäwạg kiˢtciwīnạmōwāt, wīmādcāmạgatinig ānindi ändạnänimigunit.</span>
 
-<span class="l-fiero">**Mii dash iigiw ikwewag kischi-wiinamoowaat, wii-maajaamagatinig aanindi endanenimigonit.**</span>
+<span class="l-fiero">**Mii dash iigiw ikwewag gichi-wiinamoowaat, wii-maajaamagatinig aanindi endanenimigonit.**</span>
 
 <span class="l-eng">*Whereupon the women tried with great effort to hold it back, (but) it was eager to go where it was thought (the master) was.*</span>
 
-<span class="l-gloss">Mii dash iigiw ikwewag kischi-wiinamoowaat (whereupon the women tried with great effort to hold it back), wii-maajaamagatinig aanindi endanenimigonit (for it was eager to go to where its master was thought to be).</span>
+<span class="l-gloss">Mii dash iigiw ikwewag gichi-wiinamoowaat (whereupon the women tried with great effort to hold it back), wii-maajaamagatinig aanindi endanenimigonit (for it was eager to go to where its master was thought to be).</span>
 
 <span class="l-orig">(817) Anita‘kwạbitōwāt; mīgu kīwäⁿ äjimạmạdwäskāg iᵘ tcīmānic, wâ∙a∙‘pī‘tcmādcāmạga‘k.</span>
 
-<span class="l-fiero">**Ani-takwabitoowaat; mii go kiiwenh ezhi-mamadweskaag iw chiimaanish, wa-apiichmaajamagak.**</span>
+<span class="l-fiero">**Ani-takwabitoowaat; mii go giiwenh ezhi-mamadweskaag iw chiimaanish, wa-apiichmaajamagak.**</span>
 
 <span class="l-eng">*They tried in vain to tie it down; but they say that the miserable boat got to creaking, so anxious was it to be off.*</span>
 
-<span class="l-gloss">Ani-takwabitoowaat (they tried in vain to tie it down); mii go kiiwenh ezhi-mamadweskaag iw chiimaanish (but, they say, the wretched canoe got to creaking), wa-apiichmaajamagak (so eager was it to be off).</span>
+<span class="l-gloss">Ani-takwabitoowaat (they tried in vain to tie it down); mii go giiwenh ezhi-mamadweskaag iw chiimaanish (but, they say, the wretched canoe got to creaking), wa-apiichmaajamagak (so eager was it to be off).</span>
 
 <span class="l-orig">(818) Mīdạc kīwäⁿ awinini kā‘kwīnawibī∙ā∙t, “Mīsa’ käga‘pī kīpā‘ta∙i∙tisut,” udinänimān.</span>
 
-<span class="l-fiero">**Mii dash kiiwenh aw inini kaa-kwiinawibii’aat, “Mii sa kegapii kii-paata’itisot,” odinenimaan.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw inini kaa-kwiinawibii’aat, “Mii sa kegapii kii-paata’itisot,” odinenimaan.**</span>
 
 <span class="l-eng">*And now they say that after the man had become tired waiting for the other’s return, “Therefore at last has he done harm to himself,” was his thought of him.*</span>
 
-<span class="l-gloss">Mii dash kiiwenh aw inini kaa-kwiinawibii’aat (and now, they say, after the man had grown tired waiting for the other’s return), “Mii sa kegapii kii-paata’itisot,” odinenimaan (“so at last he has done harm to himself,” was his thought of him).</span>
+<span class="l-gloss">Mii dash giiwenh aw inini kaa-kwiinawibii’aat (and now, they say, after the man had grown tired waiting for the other’s return), “Mii sa kegapii kii-paata’itisot,” odinenimaan (“so at last he has done harm to himself,” was his thought of him).</span>
 
 <span class="l-orig">(819) Mīdạc äni∙a∙cikīwät.</span>
 
@@ -6584,17 +6582,17 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(821) Mīdạc imā a∙ī∙ntāwāt, mīdạc keyābi nōngum äntawâgwän.</span>
 
-<span class="l-fiero">**Mii dash imaa a’iintaawaat, mii dash keyaabi noongom entawagwen.**</span>
+<span class="l-fiero">**Mii dash imaa a’iintaawaat, mii dash geyaabi noongom entawagwen.**</span>
 
 <span class="l-eng">*And there they lived, and perhaps even to this day they may be there.*</span>
 
-<span class="l-gloss">Mii dash imaa a’iintaawaat (and there they lived), mii dash keyaabi noongom entawagwen (and perhaps even to this day they may be there).</span>
+<span class="l-gloss">Mii dash imaa a’iintaawaat (and there they lived), mii dash geyaabi noongom entawagwen (and perhaps even to this day they may be there).</span>
 
 <span class="l-orig">(822) Pinawidis kī∙a∙gotä Mạcōs utātisō‘kānan.</span>
 
 <span class="l-fiero">**Pinawidis kii-agote Mashoos otaatisookaanan.**</span>
 
-<span class="l-eng">*The gizzard of the ruffed grouse now hangs aloft for the story of Mashos.*</span>
+<span class="l-eng">*The gizzard of the ruffed grouse now hangs aloft for the story of Mashōs.*</span>
 
 <span class="l-gloss">Pinawidis kii-agote (the gizzard of the ruffed grouse now hangs aloft) Mashoos otaatisookaanan (for the story of Mashos).</span>
 

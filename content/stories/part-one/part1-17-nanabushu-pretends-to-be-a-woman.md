@@ -2,7 +2,6 @@
 title: "17. Nanabushu Pretends to be a Woman"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -35,11 +34,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(3) “Ạmạntcigic kä∙i∙jictcigä∙u∙ngubạnän tciwītigämạnk ‘aᵉa’ᵘ inini?” i‘kitōwaᵉ.</span>
 
-<span class="l-fiero">**“Amanjigish ge-izhchige’ongobanen ji-wiidigemang a’aw inini?” ikidowa’.**</span>
+<span class="l-fiero">**“Amanjigish ge-izhichige’ongobanen ji-wiidigemang a’aw inini?” ikidowa’.**</span>
 
 <span class="l-eng">*“(I) wonder how we can bring it to pass so that we can marry that man!” they said.*</span>
 
-<span class="l-gloss">“Amanjigish ge-izhchige’ongobanen (“I wonder however we might manage it) ji-wiidigemang a’aw inini?” (that we could marry that man?”) ikidowa’ (they said).</span>
+<span class="l-gloss">“Amanjigish ge-izhichige’ongobanen (“I wonder however we might manage it) ji-wiidigemang a’aw inini?” (that we could marry that man?”) ikidowa’ (they said).</span>
 
 <span class="l-orig">(4) “Ạmbäsạnō, wāwiyạc ningatōtawāg awägwäniwigwänạg,” kī∙i∙nändạm Nänabucu.</span>
 
@@ -107,11 +106,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(12) “Tạgackumā, awī∙i∙ni‘k,” udināᵉ; “‘Ninbi∙i∙cinica∙u∙gō ninīgī∙i∙gōk,’” udināᵉ iᵘ i‘kwäwaᵉ.</span>
 
-<span class="l-fiero">**“Daga shkomaa, awii-inik,” odinaa’; “Nin-bi-izhi-nisha’ogoo ni-niigi’igoog,’” odinaa’ iw ikwewa’.**</span>
+<span class="l-fiero">**“Daga shkomaa, awii-inik,” odinaa’; “Nin-bi-izhi-nizha’ogoo ni-niigi’igoog,’” odinaa’ iw ikwewa’.**</span>
 
 <span class="l-eng">*“Then pray, do you go and give him a message,” he said to them; “I have been sent hither by my parents,” he said to the women.*</span>
 
-<span class="l-gloss">“Daga shkomaa (“then come now), awii-inik,” (go and tell him,”) odinaa’ (he said to them); “Nin-bi-izhi-nisha’ogoo (“I have been sent here) ni-niigi’igoog,’” (by those who gave me birth,”) odinaa’ iw ikwewa’ (he said to the women).</span>
+<span class="l-gloss">“Daga shkomaa (“then come now), awii-inik,” (go and tell him,”) odinaa’ (he said to them); “Nin-bi-izhi-nizha’ogoo (“I have been sent here) ni-niigi’igoog,’” (by those who gave me birth,”) odinaa’ iw ikwewa’ (he said to the women).</span>
 
 <span class="l-orig">(13) Misa’ kägä‘t kā∙i∙cikīwät päcik, kā∙i∙ciwīndamawint waᵉa’ᵘ mindimōⁿyä wägusisit.</span>
 
@@ -211,11 +210,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(25) “Kägätsa kīciⁿcawisī ‘aᵉa’ᵘ nintāngwänān.”</span>
 
-<span class="l-fiero">**“Geget sa gii-zhi-nshawisii a’aw nindaangwewaan.” (6)**</span>
+<span class="l-fiero">**“Geget sa gii-zhi-nshawisii a’aw nindaangwenaan.” (6)**</span>
 
 <span class="l-eng">*“Truly a good worker is our sister-in-law.” (6)*</span>
 
-<span class="l-gloss">“Geget sa gii-zhi-nshawisii a’aw nindaangwewaan.” (“truly such a good worker is our sister-in-law.”)</span>
+<span class="l-gloss">“Geget sa gii-zhi-nshawisii a’aw nindaangwenaan.” (“truly such a good worker is our sister-in-law.”)</span>
 
 <span class="l-orig">(26) Anīc kägätsa minwäntạm ‘aᵉa’ᵘ mindimōyä, kayä ‘aᵉa’ᵘ a‘kiwäⁿzī kicincawisinit una∙ā∙ngani‘kwämiwān.</span>
 
@@ -251,11 +250,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(30) “Ạmbäsạnō, mōⁿjạg mawi’n,” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**“Ambe sa noo, moozhag mawin,” ogii-inaan.**</span>
+<span class="l-fiero">**“Ambe sa noo, moonzhag mawin,” ogii-inaan.**</span>
 
 <span class="l-eng">*“Come, now, all the while do you cry,” she said to it.*</span>
 
-<span class="l-gloss">“Ambe sa noo (“come now), moozhag mawin,” (cry all the while,”) ogii-inaan (she said to it).</span>
+<span class="l-gloss">“Ambe sa noo (“come now), moonzhag mawin,” (cry all the while,”) ogii-inaan (she said to it).</span>
 
 <span class="l-orig">(31) Mīdạc kägä‘t kā∙i∙cictcigänit,</span>
 
@@ -387,11 +386,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(47) Kägä‘t mạmītāwäntạm; äcipạsigwīt, ānu∙ạ∙nicikaskạbänit.</span>
 
-<span class="l-fiero">**Geget mamiidaawendam; e-zhi-bazigwiid, aano-anishigaskabenid.**</span>
+<span class="l-fiero">**Geget mamiidaawendam; e-zhi-bazigwiid, aano-anishigashkabenid.**</span>
 
 <span class="l-eng">*Truly was she worried about it. When she rose to her feet, in vain she tried to keep it from falling.*</span>
 
-<span class="l-gloss">Geget mamiidaawendam (truly she was troubled about it); e-zhi-bazigwiid (when she rose to her feet), aano-anishigaskabenid (in vain she tried to hold it from falling).</span>
+<span class="l-gloss">Geget mamiidaawendam (truly she was troubled about it); e-zhi-bazigwiid (when she rose to her feet), aano-anishigashkabenid (in vain she tried to hold it from falling).</span>
 
 <span class="l-orig">(48) Äcipạngicimāt ucinisạn änāsạmạbinit, äcimādcīpa‘tōd.</span>
 
@@ -403,11 +402,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(49) “Kägä‘tigu i‘kwä inäntạmōg!” i‘kitōwạn Nänabucōwạn.</span>
 
-<span class="l-fiero">**“Gegeti go ikwe inendamoog!” ikidowan Nenaboozhoowan.**</span>
+<span class="l-fiero">**“Geget igo ikwe inendamoog!” ikidowan Nenaboozhoowan.**</span>
 
 <span class="l-eng">*“Truly a real woman they thought!” said Nanabushu.*</span>
 
-<span class="l-gloss">“Gegeti go ikwe inendamoog!” (“truly a real woman they took her for!”) ikidowan Nenaboozhoowan (said Nanabushu).</span>
+<span class="l-gloss">“Geget igo ikwe inendamoog!” (“truly a real woman they took her for!”) ikidowan Nenaboozhoowan (said Nanabushu).</span>
 
 (17) Nanabushu Pretends to be a Woman
 

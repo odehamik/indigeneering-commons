@@ -2,7 +2,6 @@
 title: "14. Nanabushu and the Caribou"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -225,13 +224,13 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">“Indawaa sa oshtigwaaning ninga-ondamaa. (“I think I will eat from the head.)</span>
 
-<span class="l-orig">(27) Kāmāwīn nintāminu‘tcigäsī, nintāpā‘pī∙i∙gōg nīnimucäⁿyạg² ugī∙a∙cäwābạmān,” gī∙i∙nändạm.</span>
+<span class="l-orig">(27) Kāmāwīn nintāminu‘tcigäsī, nintāpā‘pī∙i∙gōg nīnimucäⁿyạg² ugī∙a∙cäwäbạmān,” gī∙i∙nändạm.</span>
 
-<span class="l-fiero">**Gaa maawiin nindaa-minochigesii, nindaa-paapi’igoog niinimooshenyag (3) ogii-ashewebamaan,” gii-inendam.**</span>
+<span class="l-fiero">**Gaa maawiin nindaa-minochigesii, nindaa-baapi’igoog niinimooshenyag (3) ogii-ashewebamaan,” gii-inendam.**</span>
 
 <span class="l-eng">*Perhaps it would not be proper for me to do that, for I should be made fun of by my loves (3) on account of my having begun at the opposite end,” (thus) he thought.*</span>
 
-<span class="l-gloss">Gaa maawiin nindaa-minochigesii, (perhaps it would not be right for me to do that,) nindaa-paapi’igoog niinimooshenyag (I would be laughed at by my loves) ogii-ashewebamaan,” (for starting at the wrong end,”) gii-inendam (he thought).</span>
+<span class="l-gloss">Gaa maawiin nindaa-minochigesii, (perhaps it would not be right for me to do that,) nindaa-baapi’igoog niinimooshenyag (I would be laughed at by my loves) ogii-ashewebamaan,” (for starting at the wrong end,”) gii-inendam (he thought).</span>
 
 <span class="l-orig">(28) “Nindābā‘pi∙i∙gōg nīnimōcäⁿyạg,” kīnändạm.</span>
 
@@ -275,11 +274,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(33) “Kāwīnsa, kạnạbạtc nindāpā‘pī∙‘i∙gōk.</span>
 
-<span class="l-fiero">**“Gaawiin sa, ganabaj nindaa-paabi’igoog.**</span>
+<span class="l-fiero">**“Gaawiin sa, ganabaj nindaa-baapi’igoog.**</span>
 
 <span class="l-eng">*“No indeed, for perhaps I should be laughed at.*</span>
 
-<span class="l-gloss">“Gaawiin sa, ganabaj nindaa-paabi’igoog. (“no indeed, for perhaps I would be laughed at.)</span>
+<span class="l-gloss">“Gaawiin sa, ganabaj nindaa-baapi’igoog. (“no indeed, for perhaps I would be laughed at.)</span>
 
 <span class="l-orig">(34) Ugīpimitcwäbamān nindā∙i∙gōk ki‘tci∙ā∙yābä∙ạ∙di‘kwạn, nīnimōcäⁿyạg nindā∙i∙gōg.”</span>
 
@@ -331,11 +330,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(40) Äciki‘tcipītānimạdînik, äcita‘kwạmigut ‘iᵉi’ᵘ kisībā‘kwat.</span>
 
-<span class="l-fiero">**Ezhi-gichi-piidaanimadinig, ezhi-dakwamigod i’iw giziibaakwad.**</span>
+<span class="l-fiero">**Ezhi-gichi-biidaanimadinig, ezhi-dakwamigod i’iw giziibaakwad.**</span>
 
 <span class="l-eng">*When a great gust of wind came up, he was then caught fast by the creaking tree.*</span>
 
-<span class="l-gloss">Ezhi-gichi-piidaanimadinig (when a great gust of wind came up), ezhi-dakwamigod i’iw giziibaakwad (he was caught fast by the creaking tree).</span>
+<span class="l-gloss">Ezhi-gichi-biidaanimadinig (when a great gust of wind came up), ezhi-dakwamigod i’iw giziibaakwad (he was caught fast by the creaking tree).</span>
 
 <span class="l-orig">(41) Aⁱ, mīsa imāⁿ ä∙i∙ntanagōsit!</span>
 
@@ -539,11 +538,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(66) Mīdạc äci∙u∙täckanīmạgạtînig, aⁱ, ānīc gägīcictcigät!</span>
 
-<span class="l-fiero">**Mii dash ezhi-odeshkaniimagadinig, ay, aaniish ge-izhichiged!**</span>
+<span class="l-fiero">**Mii dash ezhi-odeshkaniimagadinig, ay, aaniish ge-gii-izhichiged*!**</span>
 
 <span class="l-eng">*And so when there were horns (upon his head), ah, what was he then to do!*</span>
 
-<span class="l-gloss">Mii dash ezhi-odeshkaniimagadinig, (and so when there were horns upon him,) ay, aaniish ge-izhichiged! (ah, what was he to do!)</span>
+<span class="l-gloss">Mii dash ezhi-odeshkaniimagadinig, (and so when there were horns upon him,) ay, aaniish ge-gii-izhichiged*! (ah, what was he to do!)</span>
 
 <span class="l-orig">(67) Äcipitā‘kwicink, “Kītawänänā‘tigō, nicīmisā?”</span>
 
@@ -643,11 +642,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(79) “Nīnisa‘ku ningutci sāga∙i∙gạn äyāgin nōmagä nō‘piming kānānibwiyān.”</span>
 
-<span class="l-fiero">**“Niin isa go ningoji zaaga’igan eyaagin noomag noopiming gaa-naaniibwiyaan.”**</span>
+<span class="l-fiero">**“Niin isa go ningoji zaaga’igan eyaagin noomage* noopiming gaa-naaniibwiyaan.”**</span>
 
 <span class="l-eng">*“Wherever there is a lake, then a short way back in the forest is where I always stand.”*</span>
 
-<span class="l-gloss">“Niin isa go ningoji zaaga’igan eyaagin (“wherever there is a lake) noomag noopiming gaa-naaniibwiyaan.” (a short way back in the woods is where I always stand.”)</span>
+<span class="l-gloss">“Niin isa go ningoji zaaga’igan eyaagin (“wherever there is a lake) noomage* noopiming gaa-naaniibwiyaan.” (a short way back in the woods is where I always stand.”)</span>
 
 <span class="l-orig">(80) “Ōⁿ, nicīmisa, kitāsātīwimizạn.”</span>
 
@@ -769,7 +768,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-gloss">“Eyii’ii. Gi-mishaganigonaan!” (“halloo, he will beat us to the shore!”)</span>
 
-<span class="l-orig">(95) “Mīnangwana cigwa ānawi päcwâbatạmowänän,” inäntạm.</span>
+<span class="l-orig">(95) “Mīnangwana cigwa ānawi päcwâbatạmowānän,” inäntạm.</span>
 
 <span class="l-fiero">**“Mii nangwana zhigwa aanawi beshwaabadamowaanen,” inendam.**</span>
 

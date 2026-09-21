@@ -2,7 +2,6 @@
 title: "26. Nanabushu and the Windigo"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,11 +18,11 @@ Nanabushu and Windigo
 
 <span class="l-orig">(1) Ningutingigu papimācạgāmät īnābit iwiti ạgämikistcigạmi awiya owâbạmān ‘iᵉi’ᵘ pimācạgāmänit, ā‘pidcisa minditōwạn.</span>
 
-<span class="l-fiero">**Ningoding igo babimaazhagaamed inaabid iwidi agaami-gichi-gami awiya owaabamaan i’iw bimaazhagaamenid, aapiji sa mindidowan.**</span>
+<span class="l-fiero">**Ningoding igo babimaazhagaamed inaabid iwidi agaami-gichigami awiya owaabamaan i’iw bimaazhagaamenid, aapiji sa mindidowan.**</span>
 
 <span class="l-eng">*And once, while walking along the shore (and) looking towards the other side of the sea, he saw one passing along the coast, tremendously huge was the being.*</span>
 
-<span class="l-gloss">Ningoding igo (and once) babimaazhagaamed (as he walked along the shore) inaabid (looking off) iwidi agaami-gichi-gami (over there across the great sea) awiya owaabamaan (he saw someone) i’iw bimaazhagaamenid (passing along the shore), aapiji sa mindidowan (tremendously big was that one).</span>
+<span class="l-gloss">Ningoding igo (and once) babimaazhagaamed (as he walked along the shore) inaabid (looking off) iwidi agaami-gichigami (over there across the great sea) awiya owaabamaan (he saw someone) i’iw bimaazhagaamenid (passing along the shore), aapiji sa mindidowan (tremendously big was that one).</span>
 
 <span class="l-orig">(2) Kāwīn kanagä ä‘kōnīngitawitiyänit a‘kōsisīwạn ‘iᵉi’ᵘ mi‘tigōᵉ.</span>
 
@@ -79,7 +78,7 @@ Nanabushu and Windigo
 
 <span class="l-eng">*Now, very angry was Wīndigo made by Nänabushu.*</span>
 
-<span class="l-gloss">Aapiji dash onishkimigoon Wiindigoo (and very angry was Wiindigo made) Nenaboozhoowan (by Nenaboozhoo).</span>
+<span class="l-gloss">Aapiji dash onishkimigoon Wiindigo (and very angry was Wiindigo made) Nenaboozhoowan (by Nenaboozhoo).</span>
 
 <span class="l-orig">(9) “Kägä‘t māma‘kātc.</span>
 
@@ -91,11 +90,11 @@ Nanabushu and Windigo
 
 <span class="l-orig">(10) Kunigä, ‘Nīnä‘ta nimạnitōwi,’ inänamutug ‘aᵉa’ᵘ Nänabucu.</span>
 
-<span class="l-fiero">**Gonige, ‘Niin eta ni-manidoow,’ inendamodog a’aw Nenaboozhoo.**</span>
+<span class="l-fiero">**Gonige, ‘Niin eta ni-manidoowi,’ inendamodog a’aw Nenaboozhoo.**</span>
 
 <span class="l-eng">*Perhaps ‘I am the only manitou existing,’ may be Nänabushu’s thought.*</span>
 
-<span class="l-gloss">Gonige (perhaps), ‘Niin eta ni-manidoow,’ (‘I alone am a manidoo,’) inendamodog a’aw Nenaboozhoo (so must Nenaboozhoo be thinking).</span>
+<span class="l-gloss">Gonige (perhaps), ‘Niin eta ni-manidoowi,’ (‘I alone am a manidoo,’) inendamodog a’aw Nenaboozhoo (so must Nenaboozhoo be thinking).</span>
 
 <span class="l-orig">(11) Ạmbäsanō, ningagīwi‘tạgāmäba‘tō.”</span>
 
@@ -345,6 +344,8 @@ Nanabushu and Windigo
 
 <span class="l-gloss">“Nishiime sa (my little brother), ni-nib noongom.” (I am going to die now.”)</span>
 
+*Open for M., 2026-09-02 (26-M1): the page prints Nistcīmiˢtcā (p.198 l.26 — baseline s+tc, then superior-ˢ before the second tcā; pixel-verified at 7×). The Fiero here reads Nishiime sa, which derives from the plain nicīmisa this record prints at §73, not from this printed form; story_p1_22 renders the same lexeme (Niˢtcīmiˢtcā / Niˢtcimiˢtcā) as Nijiimijaa at §8 and §12, and Jones’s own footnote to #22 spells it Ni‘tcīmi‘tcā. Nothing was changed; the reading is M.’s to rule.*
+
 <span class="l-orig">(42) Kibi‘tcisäwạn īni’ᵘ cingusạn.</span>
 
 <span class="l-fiero">**Gibichisewan iniw zhingosan.**</span>
@@ -427,11 +428,11 @@ Nanabushu and Windigo
 
 <span class="l-orig">(52) Kīgitōwạn Nänabucōwạn: “Mäskwat kīcpin nisạt, tcipicạgäntạmạn ‘iᵉi’ᵘ kīya’ᵘ kīga∙i∙ci∙i∙n.”</span>
 
-<span class="l-fiero">**Giigidoowan Nenaboozhoowan: “Meshkwad giishpin nisad, ji-pishigendaman i’iw giiyaw giga-izhiyin.”**</span>
+<span class="l-fiero">**Giigidoowan Nenaboozhoowan: “Meshkwad giishpin nisad, ji-bishigendaman i’iw giiyaw giga-izhi’in.”**</span>
 
 <span class="l-eng">*Up spoke Nänabushu: “As your reward for killing him, I will make you proud of yourself.”*</span>
 
-<span class="l-gloss">Giigidoowan Nenaboozhoowan (Nenaboozhoo spoke up): “Meshkwad giishpin nisad (in return, if you kill him), ji-pishigendaman i’iw giiyaw giga-izhiyin.” (I will make you so that you take pride in your body.”)</span>
+<span class="l-gloss">Giigidoowan Nenaboozhoowan (Nenaboozhoo spoke up): “Meshkwad giishpin nisad (in return, if you kill him), ji-bishigendaman i’iw giiyaw giga-izhi’in.” (I will make you so that you take pride in your body.”)</span>
 
 <span class="l-orig">(53) Äjikanōnint Nänabucō: “Mī∙i’∙ᵘ icipindōmun ‘iᵉi’wä nīyawic.”</span>
 
@@ -459,11 +460,11 @@ Nanabushu and Windigo
 
 <span class="l-orig">(56) Änīji mādcītōt, käyābi kītcāngitiyäcinōn īniwä Wīndigōn.</span>
 
-<span class="l-fiero">**Eni-izhi-maajiidood, geyaabi gii-jaangidiyeshinoon iniw Wiindigoon.**</span>
+<span class="l-fiero">**Eni-izhi-maajiidood, geyaabi gii-jaangidiyeshinoon iniwe Wiindigoon.**</span>
 
 <span class="l-eng">*When he went thither taking it to him, still yet was Wīndigo lying with bottom pointing up.*</span>
 
-<span class="l-gloss">Eni-izhi-maajiidood (as he carried it along to him), geyaabi gii-jaangidiyeshinoon iniw Wiindigoon (still Wiindigo lay with bottom pointing up).</span>
+<span class="l-gloss">Eni-izhi-maajiidood (as he carried it along to him), geyaabi gii-jaangidiyeshinoon iniwe Wiindigoon (still Wiindigo lay with bottom pointing up).</span>
 
 <span class="l-orig">(57) Ugạnōnān: “O∙o∙wä udạbwānā‘kun.”</span>
 
@@ -483,11 +484,11 @@ Nanabushu and Windigo
 
 <span class="l-orig">(59) “Ä‘tawā, ạmbäsanō kīni‘tạm kīga∙u∙ji‘tōn iyabwānā‘k.”</span>
 
-<span class="l-fiero">**“Etawaa, ambe sa noo giinitam giga-ozhitoon abwaanaak.”**</span>
+<span class="l-fiero">**“Etawaa, ambe sa noo giinitam giga-ozhitoon iw abwaanaak.”**</span>
 
 <span class="l-eng">*“Oh, well! then do you take a turn at making a roasting-spit.”*</span>
 
-<span class="l-gloss">“Etawaa (oh, well now), ambe sa noo giinitam giga-ozhitoon abwaanaak.” (come, this time you make the roasting-spit.”)</span>
+<span class="l-gloss">“Etawaa (oh, well now), ambe sa noo giinitam giga-ozhitoon iw abwaanaak.” (come, this time you make the roasting-spit.”)</span>
 
 <span class="l-orig">(60) “Kāwīn,” udigōn īni’ᵘ Wīndigōn: “kinigu uji‘tōn.”</span>
 
@@ -619,11 +620,11 @@ Nanabushu and Windigo
 
 <span class="l-orig">(76) Ā‘pidcisa kā‘pīnābāwạnāt, wägunänīwinän wâpāpigạnạn unạtawâbạmān.</span>
 
-<span class="l-fiero">**Aapiji sa gaa-piinaabaawanaad, wegoneniiwinen waabaabiganan onandawaabamaan.**</span>
+<span class="l-fiero">**Aapiji sa gaa-piinaabaawanaad, wegoneniiwinen waabaabiganan onadawaabamaan*.**</span>
 
 <span class="l-eng">*After he had made him thoroughly clean, what should he do but seek for white clay.*</span>
 
-<span class="l-gloss">Aapiji sa gaa-piinaabaawanaad (after he had washed him thoroughly clean), wegoneniiwinen waabaabiganan onandawaabamaan (what should he do but go seeking white clay).</span>
+<span class="l-gloss">Aapiji sa gaa-piinaabaawanaad (after he had washed him thoroughly clean), wegoneniiwinen waabaabiganan onadawaabamaan* (what should he do but go seeking white clay).</span>
 
 <span class="l-orig">(77) Kāmi‘kawāt nawạtc utcāgiswān īni’ᵘ wâbābigạnạn.</span>
 

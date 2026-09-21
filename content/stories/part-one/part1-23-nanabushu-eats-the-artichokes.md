@@ -2,7 +2,6 @@
 title: "23. Nanabushu Eats the Artichokes"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -19,43 +18,43 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(1) Ningutingigu papimōtät owâbạndān kägō sāga‘kīnig, kumā omōna∙ā∙n; kägō äjimi‘kwāni‘kātank, kumāgu a‘kwāni.</span>
 
-<span class="l-fiero">**Ningoding igo babimooded owaabandaan gegoo zaagakiinig, gomaa omoona’aan; gegoo ezhi-mikwaanikaadang, go maa go akwaani.**</span>
+<span class="l-fiero">**Ningoding igo babimooded owaabandaan gegoo zaagakiinig, gomaa omoona’aan; gegoo ezhi-mikwaanikaadang, gomaa go akwaani.**</span>
 
 <span class="l-eng">*And once, when he was crawling about, he saw something that grew out of the ground, accordingly he dug it up; something he then found on digging it up, a certain length it extended.*</span>
 
-<span class="l-gloss">Ningoding igo babimooded (and once, as he was crawling about) owaabandaan gegoo zaagakiinig (he saw something growing out of the ground), gomaa omoona’aan (so he dug it up a little); gegoo ezhi-mikwaanikaadang (something he found on digging it up), go maa go akwaani (a certain length it extended).</span>
+<span class="l-gloss">Ningoding igo babimooded (and once, as he was crawling about) owaabandaan gegoo zaagakiinig (he saw something growing out of the ground), gomaa omoona’aan (so he dug it up a little); gegoo ezhi-mikwaanikaadang (something he found on digging it up), gomaa go akwaani (a certain length it extended).</span>
 
 <span class="l-orig">(2) Mīdạc ‘iᵉi’ᵘ äjikạnōtạnk: “Kāwīnina kītạmagōsīn? Kīⁿwīzumina? ānīn iᵘ äcini‘kāsuyäg?”</span>
 
-<span class="l-fiero">**Mii dash i’iw ezhi-ganoodang: “Gaawiin ina giitamagoosiin? Giinwiizom ina? Aaniin iw ezhinikaazoyeg?”**</span>
+<span class="l-fiero">**Mii dash i’iw ezhi-ganoodang: “Gaawiin ina giidamagoosiin? Giinwiizom ina? Aaniin iw ezhinikaazoyeg?”**</span>
 
 <span class="l-eng">*Whereupon he then spoke to it, saying: “Are you not eaten for food? Have you a name? What are you called?”*</span>
 
-<span class="l-gloss">Mii dash i’iw ezhi-ganoodang (whereupon he spoke to it): “Gaawiin ina giitamagoosiin? (“are you not eaten for food? — *passive stem flagged*) Giinwiizom ina? (have you a name?) Aaniin iw ezhinikaazoyeg?” (what are you called?”)</span>
+<span class="l-gloss">Mii dash i’iw ezhi-ganoodang (whereupon he spoke to it): “Gaawiin ina giidamagoosiin? (“are you not eaten for food? — *passive stem flagged*) Giinwiizom ina? (have you a name?) Aaniin iw ezhinikaazoyeg?” (what are you called?”)</span>
 
 <span class="l-orig">(3) “Askibwā nintigōmin.”</span>
 
-<span class="l-fiero">**“Askibwaa (Ashkibwaa) nindigoomin.”**</span>
+<span class="l-fiero">**“Ashkibwaa nindigoomin.”**</span>
 
 <span class="l-eng">*“Artichoke we are called.”*</span>
 
-<span class="l-gloss">“Askibwaa (Ashkibwaa) nindigoomin.” (“Artichoke we are called.”)</span>
+<span class="l-gloss">“Ashkibwaa nindigoomin.” (“Artichoke we are called.”)</span>
 
 <span class="l-orig">(4) “Ānīn äni‘kā‘käyäg kīcpin nībiwa ämukōyäkun? Kägōna kitini‘kāgäm?”</span>
 
-<span class="l-fiero">**“Aaniin enikaakeyeg giishpin niibiwa emokooyegon? Gegoo na gidinikaagen?”**</span>
+<span class="l-fiero">**“Aaniin enikaakeyeg* giishpin niibiwa emokooyegon? Gegoo na gidinikaagem?”**</span>
 
 <span class="l-eng">*“What physical effect do you produce if much of you be eaten? Do you cause some sort of bodily ill?”*</span>
 
-<span class="l-gloss">“Aaniin enikaakeyeg (“what effect do you produce — *stem flagged*) giishpin niibiwa emokooyegon? (if much of you be eaten?) Gegoo na gidinikaagen?” (do you cause some bodily ill?”)</span>
+<span class="l-gloss">“Aaniin enikaakeyeg* (“what physical effect do you produce — *stem flagged*) giishpin niibiwa emokooyegon? (if much of you be eaten?) Gegoo na gidinikaagem?” (do you cause some bodily ill?”)</span>
 
 <span class="l-orig">(5) “Kāwinsạgu; ningīciwackatä∙i∙wämin, kayä dạc nimpōgisi‘kāgämin. Ānīc mīsạgu iᵘ äni‘kāgäyāng.”</span>
 
-<span class="l-fiero">**“Gaawiin sa go; ningiizhiwashkade’iwemin, gaye dash nimpoogisikaagemin. Aaniish mii sa go iw enikaageyaang.”**</span>
+<span class="l-fiero">**“Gaawiin sa go; ningiizhiwashkade’iwemin, gaye dash nimboogisikaagemin. Aaniish mii sa go iw enikaageyaang.”**</span>
 
 <span class="l-eng">*“Not at all; we produce a pain in the stomach, and we cause wind. Now, that is the bodily effect we produce.”*</span>
 
-<span class="l-gloss">“Gaawiin sa go (“not at all); ningiizhiwashkade’iwemin (we cause a pain in the stomach), gaye dash nimpoogisikaagemin (and we cause wind). Aaniish mii sa go iw enikaageyaang.” (now, that is the effect we produce.”)</span>
+<span class="l-gloss">“Gaawiin sa go (“not at all); ningiizhiwashkade’iwemin (we cause a pain in the stomach), gaye dash nimboogisikaagemin (and we cause wind). Aaniish mii sa go iw enikaageyaang.” (now, that is the effect we produce.”)</span>
 
 <span class="l-orig">(6) Nänabucu omā äjimādci‘tāt, nībiwa omōna‘wā ‘iᵉi’wä ạskibwāᵉ; äcigisībīgināt, äjimādạntcigä, wäntcitạgu täwīsini.</span>
 
@@ -75,11 +74,11 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(8) Kāwīn kạnagä minān ici∙a∙yāsī, kägä‘t minumạdci∙ō∙.</span>
 
-<span class="l-fiero">**Gaawiin ganage minaan izhi-ayaasii, geget minomaji’oo.**</span>
+<span class="l-fiero">**Gaawiin ganage minaan* izhi-ayaasii, geget minomaji’oo.**</span>
 
 <span class="l-eng">*He was feeling very well, truly very well was he feeling.*</span>
 
-<span class="l-gloss">Gaawiin ganage minaan izhi-ayaasii (not in the least did he feel unwell — *minaan flagged*), geget minomaji’oo (truly well did he feel). **</span>
+<span class="l-gloss">Gaawiin ganage minaan* izhi-ayaasii (not in the least did he feel unwell — *minaan flagged*), geget minomaji’oo (truly well did he feel).</span>
 
 <span class="l-orig">(9) Äjimādcāt, kägä‘t minopimusä.</span>
 
@@ -131,19 +130,19 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(15) Āca mīnawā iwiti upi‘kwạnāng.</span>
 
-<span class="l-fiero">**Aazha miinawaa iwidi obikwannaang.**</span>
+<span class="l-fiero">**Aazha miinawaa iwidi obikwanaang.**</span>
 
 <span class="l-eng">*The same thing over again (he heard) there behind him.*</span>
 
-<span class="l-gloss">Aazha miinawaa iwidi obikwannaang (again the same thing, there behind him).</span>
+<span class="l-gloss">Aazha miinawaa iwidi obikwanaang (again the same thing, there behind him).</span>
 
 <span class="l-orig">(16) Käga‘pī umi‘tigwābīn uti‘kwạtäwān.</span>
 
-<span class="l-fiero">**Gegapii omitigwaabiin odikwadewaan.**</span>
+<span class="l-fiero">**Gegapii omitigwaabiin odikwadewaan*.**</span>
 
 <span class="l-eng">*Finally he strung his bow.*</span>
 
-<span class="l-gloss">Gegapii omitigwaabiin odikwadewaan (finally he strung his bow — *odikwadewaan flagged*).</span>
+<span class="l-gloss">Gegapii omitigwaabiin odikwadewaan* (finally he strung his bow — *odikwadewaan flagged*).</span>
 
 <span class="l-orig">(17) “‘Āᵘ, kạnōciciyu‘k.”</span>
 
@@ -163,11 +162,11 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(19) Iwiti u‘pi‘kwanāng Nänabucu kāwīn kägō owâbandạⁿzīn.</span>
 
-<span class="l-fiero">**Iwidi obikwannaang Nenabosho gaawiin gegoo owaabandaziin.**</span>
+<span class="l-fiero">**Iwidi obikwanaang Nenabosho gaawiin gegoo owaabandanziin.**</span>
 
 <span class="l-eng">*Over there at his back Nänabushu saw not a thing.*</span>
 
-<span class="l-gloss">Iwidi obikwannaang (over there at his back) Nenabosho gaawiin gegoo owaabandaziin (Nenabosho saw not a thing).</span>
+<span class="l-gloss">Iwidi obikwanaang (over there at his back) Nenabosho gaawiin gegoo owaabandanziin (Nenabosho saw not a thing).</span>
 
 <span class="l-orig">(20) “Wägunän dạc iᵘ nwāntạmān?”</span>
 
@@ -177,7 +176,7 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-gloss">“Wegonen dash iw nwaandamaan?” (“and what is this I hear?”)</span>
 
-<span class="l-orig">(21) Ācagu mīnawā, mīsạgu pācigwạnung äni‘tạnk.</span>
+<span class="l-orig">(21) Ācagu mīnawā, mīsạgu päcigwạnung äni‘tạnk.</span>
 
 <span class="l-fiero">**Aazha go miinawaa, mii sa go bezhigwanong enitang.**</span>
 
@@ -187,7 +186,7 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(22) Käga‘pī mādcība‘to, mīgu iᵘ äjikātäpạgisut, “Puⁿᵉ, puⁿᵉ, puⁿᵉ, puⁿᵉ,” inwäni.</span>
 
-<span class="l-fiero">**Gegapii maajiibatoo, mii go iw ezhi-kaade-bagizod, “Ponh, ponh, ponh, 	ponh” inweni.**</span>
+<span class="l-fiero">**Gegapii maajiibatoo, mii go iw ezhi-kaade-bagizod, “Ponh, ponh, ponh, ponh” inweni.**</span>
 
 <span class="l-eng">*Finally he started running, whereupon at every step he made, “Pu, pu, pu, pu,” was the sound made.*</span>
 
@@ -195,11 +194,11 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(23) Ningutingigu pimipa‘tōd käga‘pī nōgiba‘tō, kibi‘tcisä.</span>
 
-<span class="l-fiero">**Ningoding igo bimipatood gegapii noogibatoo, gibijise.**</span>
+<span class="l-fiero">**Ningoding igo bimibatood gegapii noogibatoo, gibijise.**</span>
 
 <span class="l-eng">*And once, as he was running along, he came to a sudden halt, he ceased running.*</span>
 
-<span class="l-gloss">Ningoding igo bimipatood (and once, as he was running along) gegapii noogibatoo (at last he came to a halt), gibijise (he stopped short).</span>
+<span class="l-gloss">Ningoding igo bimibatood (and once, as he was running along) gegapii noogibatoo (at last he came to a halt), gibijise (he stopped short).</span>
 
 <span class="l-orig">(24) Nänabucu äjikīkitut: “‘Āᵘ, mīgāciciyu‘k!”</span>
 
@@ -211,19 +210,19 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(25) Ānīc kāwīn kägō owâbạndaⁿzīn.</span>
 
-<span class="l-fiero">**Aaniish gaawiin gegoo owaabandaziin.**</span>
+<span class="l-fiero">**Aaniish gaawiin gegoo owaabandanziin.**</span>
 
 <span class="l-eng">*Of course, not a thing did he see.*</span>
 
-<span class="l-gloss">Aaniish gaawiin gegoo owaabandaziin (of course, not a thing did he see).</span>
+<span class="l-gloss">Aaniish gaawiin gegoo owaabandanziin (of course, not a thing did he see).</span>
 
 <span class="l-orig">(26) Ningutingigu mīnawā mīdạc kägä‘t änigu‘k äjimādcība‘tōt, mīsa untcita, “Puⁿᵉ, puⁿ‘, puⁿᵉ, puⁿ‘,” inwänik.</span>
 
-<span class="l-fiero">**Ningoding igo miinawaa mii dash gegt enigok ezhi-maajiibatood, mii sa onjida, “Ponh, ponh, ponh, ponh”, inwenig.**</span>
+<span class="l-fiero">**Ningoding igo miinawaa mii dash geget enigok ezhi-maajiibatood, mii sa onjida, “Ponh, ponh, ponh, ponh”, inwenig.**</span>
 
 <span class="l-eng">*So another time, when he really started to run with all his speed, the same thing happened as before, “Pu, pu, pu, pu,” was the sound that was made.*</span>
 
-<span class="l-gloss">Ningoding igo miinawaa (so another time again) mii dash gegt enigok ezhi-maajiibatood (when he really set off running with all his speed — *gegt printed; read geget*), mii sa onjida (the same thing happened on purpose), “Ponh, ponh, ponh, ponh”, inwenig (“Ponh, ponh, ponh, ponh” was the sound made).</span>
+<span class="l-gloss">Ningoding igo miinawaa (so another time again) mii dash geget enigok ezhi-maajiibatood (when he really set off running with all his speed), mii sa onjida (the same thing happened on purpose), “Ponh, ponh, ponh, ponh”, inwenig (“Ponh, ponh, ponh, ponh” was the sound made).</span>
 
 <span class="l-orig">(27) Nänabucu kibi‘tcisä.</span>
 
@@ -267,11 +266,11 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(32) Päpäcig tapōgisi‘kāgäwạn, askibwā ka‘kinạgu kägō, kayä u‘pinīg kayä wā‘kunạg.”</span>
 
-<span class="l-fiero">**Bebezhig da-poogisikaagewan, ashkibwaa gakina go gegoo, gaye opiniig gaye waakonag.”**</span>
+<span class="l-fiero">**Bebezhig da-boogisikaagewan, ashkibwaa gakina go gegoo, gaye opiniig gaye waakonag.”**</span>
 
 <span class="l-eng">*Various things will make (one) windy, (such as) the artichoke and all sorts of things, and potatoes and lichens.”*</span>
 
-<span class="l-gloss">Bebezhig da-poogisikaagewan (one thing and another will make one windy), ashkibwaa gakina go gegoo (the artichoke and all sorts of things), gaye opiniig gaye waakonag.” (and potatoes and lichens.”)</span>
+<span class="l-gloss">Bebezhig da-boogisikaagewan (one thing and another will make one windy), ashkibwaa gakina go gegoo (the artichoke and all sorts of things), gaye opiniig gaye waakonag.” (and potatoes and lichens.”)</span>
 
 (1) For another version see No. 12.
 

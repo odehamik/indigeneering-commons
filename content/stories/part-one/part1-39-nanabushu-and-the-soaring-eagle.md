@@ -2,7 +2,6 @@
 title: "39. Nanabushu and the Soaring Eagle"
 description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya Chacaby. Not a fable; understanding stays in community, by relation."
 ---
-
 <div class="four-layer">
 
 > *Read the [entry note](/) first. Not a fable — an Anishinaabe ontology carried as story. Come in to wonder.*
@@ -171,19 +170,19 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(20) ānupīndigä īni’ᵘ wīgiwāmạn, kāwīn kuca umī‘kạⁿzīn; mī ga‘kina ānugīgapäckạnk īni’ᵘ wīgiwāmạn, intawā äcikīwät.</span>
 
-<span class="l-fiero">**Miziwe aano-piindige iniw wiigiwaaman, indawaa ezhi-giiwed.**</span>
+<span class="l-fiero">**Miziwe aano-piindige iniw wiigiwaaman, gaawiin gosha omikanziin; mii gakina aano-gii-gabeshkang* iniw wiigiwaaman, indawaa ezhi-giiwed.**</span>
 
 <span class="l-eng">*In every wigwam he entered, but to no purpose, for he did not find the place (of the feast); accordingly, when into all the wigwams he had entered in vain, he then went back home.*</span>
 
-<span class="l-gloss">Miziwe aano-piindige iniw wiigiwaaman (everywhere he entered the wigwams in vain), indawaa ezhi-giiwed (so then he went back home).</span>
+<span class="l-gloss">Miziwe aano-piindige iniw wiigiwaaman (everywhere he entered the wigwams in vain), gaawiin gosha omikanziin (for he did not find the place of the feast); mii gakina aano-gii-gabeshkang* iniw wiigiwaaman (when he had gone all through those wigwams in vain — *stem flagged*), indawaa ezhi-giiwed (so then he went back home).</span>
 
 <span class="l-orig">(21) Äcipīndigät iyändāt, uganōnigōn īni’ᵘ wīwạn:</span>
 
-<span class="l-fiero">**Ezhi-biindiged endaad, oganoonigoon iniw wiiwan:**</span>
+<span class="l-fiero">**Ezhi-biindiged iyendaad*, oganoonigoon iniw wiiwan:**</span>
 
 <span class="l-eng">*On entering into the place where he dwelt, he was addressed by his wife saying:*</span>
 
-<span class="l-gloss">Ezhi-biindiged endaad (when he entered his home), oganoonigoon iniw wiiwan (he was addressed by his wife):</span>
+<span class="l-gloss">Ezhi-biindiged iyendaad* (when he entered his home), oganoonigoon iniw wiiwan (he was addressed by his wife):</span>
 
 <span class="l-orig">(22) “Ānīn dạc iᵉi’ᵘ kīwī‘kumigōwin?”</span>
 
@@ -251,11 +250,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(30) Kuniginīn, utạnikạbi‘kạmini īni’ᵘ wīgiwāmạn; sīpi kīckābi‘kānig ạnibīntigäsäwạn; mīgu iᵉi’ᵘ änitạnisit.</span>
 
-<span class="l-fiero">**Goniginiin, odani-gabikamii iniw wiigiwaaman; ziibi giishkaabikaanig ani-biindigesewan; mii go i’iw eni-danizid.**</span>
+<span class="l-fiero">**Goniginiin, odani-gabikamini* iniw wiigiwaaman; ziibi giishkaabikaanig ani-biindigesewan; mii go i’iw eni-danizid.**</span>
 
 <span class="l-eng">*Lo, the other sped past the wigwams; into the falls of a river the other ran, whereupon in he rushed.*</span>
 
-<span class="l-gloss">Goniginiin, odani-gabikamii iniw wiigiwaaman (lo, the other sped on past the wigwams); ziibi giishkaabikaanig ani-biindigesewan (into the falls of a river the other ran in); mii go i’iw eni-danizid (and that was where the other dwelt).</span>
+<span class="l-gloss">Goniginiin, odani-gabikamini* iniw wiigiwaaman (lo, the other sped on past the wigwams); ziibi giishkaabikaanig ani-biindigesewan (into the falls of a river the other ran in); mii go i’iw eni-danizid (and that was where the other dwelt).</span>
 
 <span class="l-orig">(31) Änipīndigäwāt, mūckinäbiwaᵉ wā‘kuntinit.</span>
 
@@ -315,19 +314,19 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(38) Wâbạnk kimindimō∙i∙mic tạbīmina‘kwä.</span>
 
-<span class="l-fiero">**Waabang gi-mindimooye’imish da-biiminakwe.**</span>
+<span class="l-fiero">**Waabang gi-mindimooyimish da-biiminakwe.**</span>
 
 <span class="l-eng">*To-morrow your old woman shall make some twine.*</span>
 
-<span class="l-gloss">Waabang gi-mindimooye’imish da-biiminakwe. (tomorrow your old woman is to make twine.)</span>
+<span class="l-gloss">Waabang gi-mindimooyimish da-biiminakwe. (tomorrow your old woman is to make twine.)</span>
 
 <span class="l-orig">(39) Kīkīci‘tōt ibīmina‘kwān, mīdạc iᵉi’ᵘ kä∙i∙ciki‘tcitwā∙i∙gäyạn imāⁿ wāpīgạmāg i∙i’∙ᵘ sāga∙i∙gạn.</span>
 
-<span class="l-fiero">**Gii-kiizhitood biiminakwaan, mii dash i’iw ge-izhi-kichi-dwaa’igeyan imaa wabigamaag i’iw zaaga’igan.**</span>
+<span class="l-fiero">**Gii-kiizhitood ibiiminakwaan*, mii dash i’iw ge-izhi-gichi-dwaa’igeyan imaa wabigamaag i’iw zaaga’igan.**</span>
 
 <span class="l-eng">*After she has finished the twine, then you shall make a large hole in the ice over at yonder narrows of the lake.*</span>
 
-<span class="l-gloss">Gii-kiizhitood biiminakwaan (when she has finished the twine), mii dash i’iw ge-izhi-kichi-dwaa’igeyan (then you are to chop a big hole in the ice) imaa wabigamaag i’iw zaaga’igan. (there at the narrows of the lake.)</span>
+<span class="l-gloss">Gii-kiizhitood ibiiminakwaan* (when she has finished the twine), mii dash i’iw ge-izhi-gichi-dwaa’igeyan (then you are to chop a big hole in the ice) imaa wabigamaag i’iw zaaga’igan. (there at the narrows of the lake.)</span>
 
 <span class="l-orig">(40) Mīdạc i’ᵘ usi‘tānk kigatana‘pinā ‘aᵉa’ᵘ kinīdcānis.</span>
 
@@ -459,11 +458,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(56) Kā‘kidickubināt, nạmägusạn pigitciskusäwạn.</span>
 
-<span class="l-fiero">**Gaa-kidishkobinaad, namegosan bigijiskosewan.**</span>
+<span class="l-fiero">**Gaa-kidishkobinaad, namegosan bigijishkosewan*.**</span>
 
 <span class="l-eng">*After he had pulled it out, then the trout came out of the ice.*</span>
 
-<span class="l-gloss">Gaa-kidishkobinaad (after he had pulled it out), namegosan bigijiskosewan (the trout came out of the ice).</span>
+<span class="l-gloss">Gaa-kidishkobinaad (after he had pulled it out), namegosan bigijishkosewan* (the trout came out of the ice).</span>
 
 <span class="l-orig">(57) Mägisiwâc kägä‘t minwändạm.</span>
 
@@ -475,11 +474,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(58) “Kāwin nindāyānacī‘taⁿzī kạbägīcig.”</span>
 
-<span class="l-fiero">**“Gaawiin nindayaanashiitanzii gabe-giizhig.”**</span>
+<span class="l-fiero">**“Gaawiin nindayaanazhiitanzii gabe-giizhig.”**</span>
 
 <span class="l-eng">*“I will not stop throughout the whole day.”*</span>
 
-<span class="l-gloss">“Gaawiin nindayaanashiitanzii gabe-giizhig.” (“I will not stop the whole day long.”)</span>
+<span class="l-gloss">“Gaawiin nindayaanazhiitanzii gabe-giizhig.” (“I will not stop the whole day long.”)</span>
 
 <span class="l-orig">(59) Mīnawā äcipōdā‘kwäwāt īni unīdcānisạn.</span>
 
@@ -523,11 +522,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(64) “Ạmbäsạnō, mīdạc ä‘ta iᵘ känisạnk ‘aᵉa’ᵘ nạmägus.” Kägä‘t</span>
 
-<span class="l-fiero">**“Ambe sa noo, mii dash eta iw ge-nisag a’aw namegos.”**</span>
+<span class="l-fiero">**“Ambe sa noo, mii dash eta iw ge-nisang a’aw namegos.”**</span>
 
 <span class="l-eng">*“Behold, just one more trout I will kill.”*</span>
 
-<span class="l-gloss">“Ambe sa noo, mii dash eta iw ge-nisag a’aw namegos.” (“come now, just this one more trout will I kill.”)</span>
+<span class="l-gloss">“Ambe sa noo, mii dash eta iw ge-nisang a’aw namegos.” (“come now, just this one more trout will I kill.”)</span>
 
 <span class="l-orig">(65) nībiwa.</span>
 
@@ -547,11 +546,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(67) mīdạc ä‘ta iⁿ päjik tcinisạnk.”</span>
 
-<span class="l-fiero">**Aw mii dash eta iw bezhig ji-nisag.”**</span>
+<span class="l-fiero">**Aw mii dash eta iw bezhig ji-nisang.”**</span>
 
 <span class="l-eng">*Therefore only one more will I kill.”*</span>
 
-<span class="l-gloss">Aw mii dash eta iw bezhig ji-nisag.” (so just this one more will I kill.”)</span>
+<span class="l-gloss">Aw mii dash eta iw bezhig ji-nisang.” (so just this one more will I kill.”)</span>
 
 <span class="l-orig">(68) Opōdā‘kwäwān īniyōnītcānisạn.</span>
 
@@ -571,27 +570,27 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(70) Äcibwāwipitōd ayāngwatcic, tci∙ä∙nigu‘k udānawikubidōn.</span>
 
-<span class="l-fiero">**Ezhi-bwaawipodood ayangwajizh, ji-enigok odaanawiikobidoon.**</span>
+<span class="l-fiero">**Ezhi-bwaawibidood ayangwajizh, ji-enigok odaanawiikobidoon.**</span>
 
 <span class="l-eng">*As he was losing his pull on it the longer (he held on), then with all his power he tried drawing it back.*</span>
 
-<span class="l-gloss">Ezhi-bwaawipodood ayangwajizh (as he was losing his pull on it the longer he held), ji-enigok odaanawiikobidoon (with all his might he tried in vain to draw it back).</span>
+<span class="l-gloss">Ezhi-bwaawibidood ayangwajizh (as he was losing his pull on it the longer he held), ji-enigok odaanawiikobidoon (with all his might he tried in vain to draw it back).</span>
 
 <span class="l-orig">(71) Käka‘pī äcipa‘kibidōt, misā‘pạnä unīdcānisan.</span>
 
-<span class="l-fiero">**Gegapii ezhi-pakibidood, mii sa pane oniijaanisan.**</span>
+<span class="l-fiero">**Gegapii ezhi-bakibidood, mii sa pane oniijaanisan.**</span>
 
 <span class="l-eng">*At last he broke the line, and then gone was his child. (1)*</span>
 
-<span class="l-gloss">Gegapii ezhi-pakibidood (at last he broke the line), mii sa pane oniijaanisan (and so then gone was his child).</span>
+<span class="l-gloss">Gegapii ezhi-bakibidood (at last he broke the line), mii sa pane oniijaanisan (and so then gone was his child).</span>
 
 <span class="l-orig">(72) Tciänigu‘k mawi’ mägisiwāc, kayäyu wīwạn.</span>
 
-<span class="l-fiero">**Ji-enigok mawi megiziwaash, gaye owiiwan.**</span>
+<span class="l-fiero">**Ji-enigok mawi megiziwaash, gaye owiiwan*.**</span>
 
 <span class="l-eng">*Very bitterly wept Soaring-Eagle, and also his wife.*</span>
 
-<span class="l-gloss">Ji-enigok mawi megiziwaash, gaye owiiwan (bitterly wept Soaring-Eagle, and his wife too).</span>
+<span class="l-gloss">Ji-enigok mawi megiziwaash, gaye owiiwan* (bitterly wept Soaring-Eagle, and his wife too).</span>
 
 <span class="l-orig">(73) Indawā, kā∙i∙ckwāmawit, ugīgō∙i∙miwaᵉ ugīwäwināwā ka‘kina ändāwāt.</span>
 
@@ -635,27 +634,27 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(78) “Ạmbäsa’, nawạtc nībiwa ugawạci‘tōn kimindimōwimic bimina‘kwān.</span>
 
-<span class="l-fiero">**Ambe sa, nawaj niibiwa ogawa-zhitoon gi-mindimoowemizh biiminakwaan.**</span>
+<span class="l-fiero">**Ambe sa, nawaj niibiwa ogawa-zhitoon gi-mindimoowimish biiminakwaan.**</span>
 
 <span class="l-eng">*“Behold, let your old woman make some more cord.*</span>
 
-<span class="l-gloss">Ambe sa, nawaj niibiwa ogawa-zhitoon gi-mindimoowemizh biiminakwaan. (“come now, let your old woman make more twine.)</span>
+<span class="l-gloss">Ambe sa, nawaj niibiwa ogawa-zhitoon gi-mindimoowimish biiminakwaan. (“come now, let your old woman make more twine.)</span>
 
 <span class="l-orig">(79) Kī‘kīci‘tōt, mīdạc iᵉi’ᵘ kä∙i∙cimādcāyạn, kīga∙i∙cā imāⁿ kīpa‘kibinạt aᵘ kinīdcānis.</span>
 
-<span class="l-fiero">**Gii-kiizhitood, mii dash i’iw ge-izhi-maajaayan, giga-izhaa.**</span>
+<span class="l-fiero">**Gii-kiizhitood, mii dash i’iw ge-izhi-maajaayan, giga-izhaa imaa gii-bakibinad aw gi-niijaanis.**</span>
 
 <span class="l-eng">*When she has finished it, then shall you depart, you shall go to the place where you broke the line (that held) your child.*</span>
 
-<span class="l-gloss">Gii-kiizhitood, mii dash i’iw ge-izhi-maajaayan, giga-izhaa. (when she has finished it, then you shall set off, you shall go.)</span>
+<span class="l-gloss">Gii-kiizhitood, mii dash i’iw ge-izhi-maajaayan, giga-izhaa imaa gii-bakibinad aw gi-niijaanis. (when she has finished it, then you shall set off, you shall go there where you broke away your child.)</span>
 
 <span class="l-orig">(80) Mägisiwāc, kīgi‘kändānina wändcima‘kạmigōyạn aᵘ kinīdcānis?</span>
 
-<span class="l-fiero">**Megiziwaash, giga-izhaa imaa gii-pakibinad aw gi-niijaanis?**</span>
+<span class="l-fiero">**Megiziwaash, gigikendaan ina wenji-makamigooyan aw gi-niijaanis?**</span>
 
 <span class="l-eng">*Soaring-Eagle, do you know why your child was taken from you?*</span>
 
-<span class="l-gloss">Megiziwaash, giga-izhaa imaa gii-pakibinad aw gi-niijaanis? (Soaring-Eagle, do you know why your child was broken away from you? — *literal reading of giga-izhaa here uncertain against Jones’s English question; rendered per the corpus*)</span>
+<span class="l-gloss">Megiziwaash, gigikendaan ina wenji-makamigooyan aw gi-niijaanis? (Soaring-Eagle, do you know why your child was taken from you?)</span>
 
 <span class="l-orig">(81) Usām nībiwa kigīnisāg īgi’ᵘ gīⁿgōⁿyạg.</span>
 
@@ -819,11 +818,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(101) “Nīdcānis pa∙u∙ndcī∙i∙cāyān.”</span>
 
-<span class="l-fiero">**“N-niijaanis ba-onji-izhaayaan.”**</span>
+<span class="l-fiero">**“Niijaanis ba-onji-izhaayaan.”**</span>
 
 <span class="l-eng">*“It is on account of my child that I have come.”*</span>
 
-<span class="l-gloss">“N-niijaanis ba-onji-izhaayaan.” (“it is on account of my child that I have come.”)</span>
+<span class="l-gloss">“Niijaanis ba-onji-izhaayaan.” (“it is on account of my child that I have come.”)</span>
 
 <span class="l-orig">(102) “Mī∙u∙mā ayāt aᵉa’ᵘ kinīdcānis.</span>
 
@@ -955,11 +954,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(118) Mindimōyäⁿ udōdā‘pinān owâgā‘kwạt; unīwanawān īni’ᵘ micīnạmägwän.</span>
 
-<span class="l-fiero">**Mindimooyen odoodaapinaan owaagaakwad; oniiwanawaan iniw mishinamegwen.**</span>
+<span class="l-fiero">**Mindimooyenh odoodaapinaan owaagaakwad; oniiwanawaan iniw mishinamegwen.**</span>
 
 <span class="l-eng">*The old woman picked up her axe; she clubbed the Great Sturgeon.*</span>
 
-<span class="l-gloss">Mindimooyen odoodaapinaan owaagaakwad (the old woman picked up her axe); oniiwanawaan iniw mishinamegwen (she clubbed the Great Sturgeon).</span>
+<span class="l-gloss">Mindimooyenh odoodaapinaan owaagaakwad (the old woman picked up her axe); oniiwanawaan iniw mishinamegwen (she clubbed the Great Sturgeon).</span>
 
 <span class="l-orig">(119) Ā‘tā, kägä‘t minditōwạn!</span>
 
@@ -1095,9 +1094,7 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-eng">*And so now the buttocks of the ruffed grouse hang aloft.*</span>
 
-<span class="l-gloss">Mii sa binewijiid egoodeg. (and so binewi-jiid hangs aloft.) ⟨i⟩(the closing that leaves the story to the listener’s wondering)⟨/i⟩.</span>
-
-*“Mii sa binewi-jiid . . .” — fuller forms: Mii sa binewi-jiid akoote / Mii sa binewidis akoote, “and thus the rump / the gizzard of the ruffed grouse hangs aloft.” This closing marks a story that asks for the listener’s own wondering and interpretation — it hints without imposing. The printed ellipsis plausibly stands where “akoote” hangs. (Per M., 2026.)*
+<span class="l-gloss">Mii sa binewijiid egoodeg. (and so binewi-jiid hangs aloft.) *(the closing that leaves the story to the listener’s wondering)*.</span>
 
 (39) Nanabushu and the Soaring Eagle
 
