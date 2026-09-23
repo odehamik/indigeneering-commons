@@ -106,10 +106,10 @@ THE SPIRIT-WORLD.
 
 <span class="l-orig">(12) Päᵉjik ayā kîstcitcībäwinini känawänimāt tcībayaᵉ, mī∙i∙’ᵘ kā∙i∙jinōndạmān kä‘tä∙ạ∙nicinābäᵉk kā∙i∙‘ketōwād.  Nānīngutînō ‘aᵉa´ᵘ kistcitcībäwinini ugīwänajawān.  “Kāmạci kidînändāguzī umāⁿ tcîbī∙i∙jaiyạn.”  Mīdạc i‘ku´ iᵘ nānīngudînū awiya ābidcībāt.</span>
 
-<span class="l-fiero">**Bezhig ayaa gichi-jiibay-inini genawenimaad jiibayag, mii iw gaa-izhi-noondamaan gete-anishinaabeg gaa-ikedowaad. Naaningodinoo a’aw gichi-jiibay-inini ogii-wenazha’waan. “Gaa mashi gidinendaagozii omaa ji-bi-izhaayan.” Mii dash iko iw naaningodinoo awiya aabijiibaad.**</span>
+<span class="l-fiero">**Bezhig ayaa gichi-jiibay-inini genawenimaad jiibayag, mii iw gaa-izhi-noondamaan gete-anishinaabeg gaa-ikedowaad. Naaningodinoo a’aw gichi-jiibay-inini ogii-wenazhawaan. “Gaa mashi gidinendaagozii omaa ji-bi-izhaayan.” Mii dash iko iw naaningodinoo awiya aabijiibaad.**</span>
 
 <span class="l-eng">*There was one great ghostly person who watched over the ghosts, for such was what I have heard people of old say.  Sometimes the great ghostly man sent one back (to the earth).  “Not yet is your time up to come to this place.”  And this was the occasion when one sometimes came back to life.*</span>
 
-<span class="l-gloss">Bezhig ayaa gichi-jiibay-inini (there is one great jiibay person) genawenimaad jiibayag (who watches over the jiibayag), mii iw gaa-izhi-noondamaan (for such is what I have heard) gete-anishinaabeg gaa-ikedowaad (the people of old say). Naaningodinoo (sometimes) a’aw gichi-jiibay-inini (that great jiibay man) ogii-wenazha’waan (sent one back; parse flagged). “Gaa mashi gidinendaagozii (not yet are you so destined) omaa ji-bi-izhaayan (to come here).” Mii dash iko iw (and that, as a rule, is why) naaningodinoo awiya aabijiibaad (sometimes one came back to life).</span>
+<span class="l-gloss">Bezhig ayaa gichi-jiibay-inini (there is one great jiibay person) genawenimaad jiibayag (who watches over the jiibayag), mii iw gaa-izhi-noondamaan (for such is what I have heard) gete-anishinaabeg gaa-ikedowaad (the people of old say). Naaningodinoo (sometimes) a’aw gichi-jiibay-inini (that great jiibay man) ogii-wenazhawaan (sent one back; parse flagged). “Gaa mashi gidinendaagozii (not yet are you so destined) omaa ji-bi-izhaayan (to come here).” Mii dash iko iw (and that, as a rule, is why) naaningodinoo awiya aabijiibaad (sometimes one came back to life).</span>
 
 </div>

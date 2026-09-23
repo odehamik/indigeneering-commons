@@ -316,11 +316,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(36) Mēdạc käᵉgä‘t imā kī∙a∙sāt īni´ᵘ skînawän uningwīnk.</span>
 
-<span class="l-fiero">**Mii dash geget imaa gii-asaad iniw ’shkinawen oningwiing.**</span>
+<span class="l-fiero">**Mii dash geget imaa gii-asaad iniw shkinawen oningwiing.**</span>
 
 <span class="l-eng">*Whereupon truly there in his armpit he placed the youth.*</span>
 
-<span class="l-gloss">Mii dash geget imaa gii-asaad (whereupon truly there he placed) iniw ’shkinawen oningwiing (the youth in his armpit).</span>
+<span class="l-gloss">Mii dash geget imaa gii-asaad (whereupon truly there he placed) iniw shkinawen oningwiing (the youth in his armpit).</span>
 
 <span class="l-orig">(37) Mēdạc kīpa‘kubīt aᵘ mi‘kinā‘k agāma‘kīng ijāt äniwäk; kînwäⁿj kī∙ạ∙nitaji‘tā ạgāma‘kīng kī∙i∙jāt.</span>
 

@@ -18,11 +18,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(1) Ānīc, a∙ī∙ntāwạg imā ạnicinābäg, Nänabucu unīdcānisaᵉ nīciwaᵉ wīwạn kayä.</span>
 
-<span class="l-fiero">**Aaniish, a’yiindaawag imaa anishinaabeg, Nenabosho oniijaanisa niizhiwag wiiwan gaye.**</span>
+<span class="l-fiero">**Aaniish, ayiindaawag imaa anishinaabeg, Nenabosho oniijaanisan niizhiwag wiiwan gaye.**</span>
 
 <span class="l-eng">*Now, abiding at the place were some people, the two children of Nänabushu and his wife.*</span>
 
-<span class="l-gloss">Aaniish, a’yiindaawag imaa anishinaabeg (now, some people were living there), Nenabosho oniijaanisa niizhiwag (Nenabosho’s two children) wiiwan gaye (and his wife).</span>
+<span class="l-gloss">Aaniish, ayiindaawag imaa anishinaabeg (now, some people were living there), Nenabosho oniijaanisan niizhiwag (Nenabosho’s two children) wiiwan gaye (and his wife).</span>
 
 <span class="l-orig">(2) Mīsa’ imā papipōniciwāt, ānīcînā, nawạtciku kāwin kägō una∙ä∙nimusīn.</span>
 
@@ -50,11 +50,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(5) Ningutinbiku, pạbāmusät, ạnicinābäᵉ äjiudisāt; nīciwaᵉ abinōtcīyaᵉ ạbiwạn īni’ᵘ ininiwạn.</span>
 
-<span class="l-fiero">**Ningoding igo, babaamosed, anishinaabe ezhi-odisaad; niizhiwag abinoojiiya abiwan iiniw ininiwan.**</span>
+<span class="l-fiero">**Ningoding igo, babaamosed, anishinaaben ezhi-odisaad; niizhiwag abinoojiiyan abiwan iiniw ininiwan.**</span>
 
 <span class="l-eng">*And once, when walking about, to where some people were he came; there were two children, (and) at home was the man.*</span>
 
-<span class="l-gloss">Ningoding igo, babaamosed (and once, as he was walking about), anishinaabe ezhi-odisaad (he came upon some people); niizhiwag abinoojiiya abiwan (there were two children present) iiniw ininiwan (and that man).</span>
+<span class="l-gloss">Ningoding igo, babaamosed (and once, as he was walking about), anishinaaben ezhi-odisaad (he came upon some people); niizhiwag abinoojiiyan abiwan (there were two children present) iiniw ininiwan (and that man).</span>
 
 <span class="l-orig">(6) Ānīc, mīsa’, ä‘kitunit: “Ānīn dạc nā, kīgä∙ā∙siwang ‘aᵉa’ᵘ kipīwitäminān,” udinān wīwạn.</span>
 
@@ -106,11 +106,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(12) Äjigitaskā‘kunamawāt īni’ᵘ wīwạn udạnikạmānini,² äjimi‘tawagạnäbināt; äjipäjicwāt nawāwigạn; mīsa’ äcipa‘kwäninwäcwāt; kāwīn kạnạgä mādapisīwạn īni’ᵘ i‘kwäwạn.</span>
 
-<span class="l-fiero">**Ezhi-gidashkaakonamawaad iiniw wiiwan odanikamaanini,1 ezhi-midawaganebinaad; ezhi-beshizhwaad nawaawigan; mii sa ezhi-pakweninweshwaad; gaawiin ganage maadabisiiwan iiniw ikwewan.**</span>
+<span class="l-fiero">**Ezhi-gidashkaakonamawaad iiniw wiiwan odanikamaanini, ezhi-midawaganebinaad; ezhi-beshizhwaad nawaawigan; mii sa ezhi-pakweninweshwaad; gaawiin ganage maadabisiiwan iiniw ikwewan.**</span>
 
 <span class="l-eng">*Then, unfastening his wife’s shoulder-straps,1 he exposed her at the back; he then sliced her down the middle of the back with a knife; and he then sliced away a piece of fat from her; not a whit did his wife budge.*</span>
 
-<span class="l-gloss">Ezhi-gidashkaakonamawaad iiniw wiiwan odanikamaanini,1 (then, unfastening his wife’s shoulder-straps,) ezhi-midawaganebinaad (he laid her bare at the back); ezhi-beshizhwaad nawaawigan (then he sliced her down the middle of the back); mii sa ezhi-pakweninweshwaad (and so he sliced away a piece from her); gaawiin ganage maadabisiiwan iiniw ikwewan (not a whit did the woman stir).</span>
+<span class="l-gloss">Ezhi-gidashkaakonamawaad iiniw wiiwan odanikamaanini, (then, unfastening his wife’s shoulder-straps,) ezhi-midawaganebinaad (he laid her bare at the back); ezhi-beshizhwaad nawaawigan (then he sliced her down the middle of the back); mii sa ezhi-pakweninweshwaad (and so he sliced away a piece from her); gaawiin ganage maadabisiiwan iiniw ikwewan (not a whit did the woman stir).</span>
 
 <span class="l-orig">(13) Mīsa’ kā∙i∙jipicagāwiganäcwāt īni’ᵘ wīwini, äcipōdā‘kwäwānit i∙i∙mā a‘ki‘kung.</span>
 
@@ -210,19 +210,19 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(25) Cigwa wī‘kīwä, äci∙ā∙bawāt ‘iᵉi’ᵘ ugīcōtäbisonaᵉ ‘iᵉi’ᵘ wâbōsowayānaᵉ; äcicängwāntagināt ‘iᵉi’ᵘ ugīcō‘täwunaᵉ, äjisāga∙ạ∙nk.</span>
 
-<span class="l-fiero">**Zhigwa wii-giiwe, ezhi-aabawaad i’iw ogiizhoodebizona i’iw waaboozowayaana; ezhi-shengwaandaginaad i’iw ogiizhoodewona ezhi-saaga’ang.**</span>
+<span class="l-fiero">**Zhigwa wii-giiwe, ezhi-aabawaad i’iw ogiizhoodebizonan i’iw waaboozowayaanan; ezhi-shengwaandaginaad i’iw ogiizhoodewonan ezhi-saaga’ang.**</span>
 
 <span class="l-eng">*As he was about setting out for home, he untied his mittens of  rabbit-fur; then, putting his mittens in the balsam boughs (under the mat), he went out of doors.*</span>
 
-<span class="l-gloss">Zhigwa wii-giiwe (when he was about to go home), ezhi-aabawaad i’iw ogiizhoodebizona i’iw waaboozowayaana (he untied his warm mittens of rabbit-skin); ezhi-shengwaandaginaad i’iw ogiizhoodewona (then, tucking his mittens into the balsam boughs) ezhi-saaga’ang (he went outside).</span>
+<span class="l-gloss">Zhigwa wii-giiwe (when he was about to go home), ezhi-aabawaad i’iw ogiizhoodebizonan i’iw waaboozowayaanan (he untied his warm mittens of rabbit-skin); ezhi-shengwaandaginaad i’iw ogiizhoodewonan (then, tucking his mittens into the balsam boughs) ezhi-saaga’ang (he went outside).</span>
 
 <span class="l-orig">(26) Kumā‘pī äni∙a∙yāt, usāgitcinica∙u∙gō ‘iᵉi’ᵘ ạbinōtcīyaᵉ.</span>
 
-<span class="l-fiero">**Gomaapii eni-ayaad, ozaagijinisha’ogoo i’iw abinoojiiya.**</span>
+<span class="l-fiero">**Gomaapii eni-ayaad, ozaagijinisha’ogoo i’iw abinoojiiyan.**</span>
 
 <span class="l-eng">*When some distance away he was come, out of doors rushed the children after him.*</span>
 
-<span class="l-gloss">Gomaapii eni-ayaad (when he had got some distance off), ozaagijinisha’ogoo i’iw abinoojiiya (the children rushed out of doors after him).</span>
+<span class="l-gloss">Gomaapii eni-ayaad (when he had got some distance off), ozaagijinisha’ogoo i’iw abinoojiiyan (the children rushed out of doors after him).</span>
 
 <span class="l-orig">(27) Mīdạc äcipīpāgit “Äī!” i‘kito; “kīwạnī‘kä kigīcō‘tä∙u∙nạg!”</span>
 
@@ -266,27 +266,27 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(32) Mīdạc kägä‘t wâsạgu wâ∙u∙ndciwäbinạmāgu ‘iᵉi’ᵘ abinōtcīgaᵉ.</span>
 
-<span class="l-fiero">**Mii dash geget waasa go waa-onji-webinamaago i’iw abinoojiiga.**</span>
+<span class="l-fiero">**Mii dash geget waasa go waa-onji-webinamaago i’iw abinoojiigan.**</span>
 
 <span class="l-eng">*Thereupon truly from afar were the children intending to throw them to him, when,*</span>
 
-<span class="l-gloss">Mii dash geget waasa go waa-onji-webinamaago i’iw abinoojiiga (thereupon truly from afar the children meant to throw them to him, when,)</span>
+<span class="l-gloss">Mii dash geget waasa go waa-onji-webinamaago i’iw abinoojiigan (thereupon truly from afar the children meant to throw them to him, when,)</span>
 
 <span class="l-orig">(33) “Ic!” udinaᵉ; “kāwunāgunäwäbināwāg,” udināᵉ.</span>
 
-<span class="l-fiero">**“Ish!” odinaa; “gaawonaagonewebinaawaag,” odinaa.**</span>
+<span class="l-fiero">**“Ish!” odinaan; “gaawonaagonewebinaawaag,” odinaan.**</span>
 
 <span class="l-eng">*“Stop!” he said to them; “do not throw them into the snow, (lest they be lost,)” he said to them.*</span>
 
-<span class="l-gloss">“Ish!” odinaa (“stop!” he said to them); “gaawonaagonewebinaawaag,” odinaa (“don’t throw them into the snow,” he said to them).</span>
+<span class="l-gloss">“Ish!” odinaan (“stop!” he said to them); “gaawonaagonewebinaawaag,” odinaan (“don’t throw them into the snow,” he said to them).</span>
 
 <span class="l-orig">(34) “Pimīciyu‘kiku!” udināᵉ.</span>
 
-<span class="l-fiero">**“Bi-miishiyokiko!” odinaa.**</span>
+<span class="l-fiero">**“Bi-miishiyokiko!” odinaan.**</span>
 
 <span class="l-eng">*“Come, hand them to me!” he said to them.*</span>
 
-<span class="l-gloss">“Bi-miishiyokiko!” (“come, hand them to me!”) odinaa (he said to them).</span>
+<span class="l-gloss">“Bi-miishiyokiko!” (“come, hand them to me!”) odinaan (he said to them).</span>
 
 <span class="l-orig">(35) Ānīc mīsa’ kägä‘t äwicimīnigut, mīdạc änicimādcība∙i∙tinit.</span>
 
@@ -298,11 +298,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(36) Ānīc, ugī∙i∙nāᵉ aᵘ awäti wänītcānisit: “Wâsạgu undciwäbinạmawi‘k, kāwīn kīgabạsämigusīwā.”</span>
 
-<span class="l-fiero">**Aaniish, ogii-inaa aw awedi weniijaanisid: “Waasa go onji-webinamawik, gaawiin giiga-basemigosiiwaa.”**</span>
+<span class="l-fiero">**Aaniish, ogii-inaan aw awedi weniijaanisid: “Waasa go onji-webinamawik, gaawiin giiga-basemigosiiwaa.”**</span>
 
 <span class="l-eng">*Now, yonder parent of the children had said to them: “From afar do you hand them to him, for he will not refrain from saying something to you.”*</span>
 
-<span class="l-gloss">Aaniish, ogii-inaa aw awedi weniijaanisid (now, that parent of theirs had said to them): “Waasa go onji-webinamawik (“from far off hand them to him), gaawiin giiga-basemigosiiwaa.” (for he will surely say something to you.”)</span>
+<span class="l-gloss">Aaniish, ogii-inaan aw awedi weniijaanisid (now, that parent of theirs had said to them): “Waasa go onji-webinamawik (“from far off hand them to him), gaawiin giiga-basemigosiiwaa.” (for he will surely say something to you.”)</span>
 
 <span class="l-orig">(37) Mīdạc kägä‘t ānawi‘tōtạminit, ānīc ugī∙u∙ndcī∙ā∙nidic.</span>
 
@@ -314,19 +314,19 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(38) Mīdạc kā∙i∙nāt a‘pī kāmīnigut: “Ạmbäsinō, wâbạng kōsiwā tabīcā,” ugī∙i∙nāᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-inaad apii gaa-miinigod: “Ambe sa noo, waabang koosiwaa dabiizhaa,” ogii-inaa.**</span>
+<span class="l-fiero">**Mii dash gaa-inaad apii gaa-miinigod: “Ambe sa noo, waabang koosiwaa dabiizhaa,” ogii-inaan.**</span>
 
 <span class="l-eng">*And this was what he said to them when he was given (the mittens): “Now, to-morrow let your father come,” he said to them.*</span>
 
-<span class="l-gloss">Mii dash gaa-inaad apii gaa-miinigod (and this is what he said to them when he was handed them): “Ambe sa noo, waabang koosiwaa dabiizhaa,” (“come now, tomorrow let your father come,”) ogii-inaa (he said to them).</span>
+<span class="l-gloss">Mii dash gaa-inaad apii gaa-miinigod (and this is what he said to them when he was handed them): “Ambe sa noo, waabang koosiwaa dabiizhaa,” (“come now, tomorrow let your father come,”) ogii-inaan (he said to them).</span>
 
 <span class="l-orig">(39) Mīsa’ kā∙i∙cikīwäba∙i∙tiwāt īgi’ᵘ kwīwisänsạg, äjiwīndamawāwāt unīgiigowāᵉ a‘kitunit Nänabucōwạn: “ ‘Käba‘katämwāsạ kīnawā!,’ ” udinā ‘iᵉi’ᵘ unīgī∙i∙gowaᵉ īgi’ᵘ kwīwisänsạg.</span>
 
-<span class="l-fiero">**Mii sa gaa-izhi-kiiweba’idiwaad iigiw gwiiwisensag, ezhi-wiindamawaawaad oniigi’igowaa ekidonid Nenaboshoowan: “Gebakademwaasa giinawaa!” odinaa i’iw oniigii’igowag iigiw gwiiwisensag.**</span>
+<span class="l-fiero">**Mii sa gaa-izhi-kiiweba’idiwaad iigiw gwiiwisensag, ezhi-wiindamawaawaad oniigi’igowaan ekidonid Nenaboshoowan: “Gebakademwaasa giinawaa!” odinaa i’iw oniigii’igowag iigiw gwiiwisensag.**</span>
 
 <span class="l-eng">*When the boys had raced back home, they told their parents what Nänabushu had said. “ ‘You must be hungry!’ ” the boys said to their parents.*</span>
 
-<span class="l-gloss">Mii sa gaa-izhi-kiiweba’idiwaad iigiw gwiiwisensag (when the boys had raced back home), ezhi-wiindamawaawaad oniigi’igowaa ekidonid Nenaboshoowan (they told their parents what Nenabosho had said): “Gebakademwaasa giinawaa!” (“you must surely be hungry!”) odinaa i’iw oniigii’igowag iigiw gwiiwisensag (the boys said to their parents).</span>
+<span class="l-gloss">Mii sa gaa-izhi-kiiweba’idiwaad iigiw gwiiwisensag (when the boys had raced back home), ezhi-wiindamawaawaad oniigi’igowaan ekidonid Nenaboshoowan (they told their parents what Nenabosho had said): “Gebakademwaasa giinawaa!” (“you must surely be hungry!”) odinaa i’iw oniigii’igowag iigiw gwiiwisensag (the boys said to their parents).</span>
 
 <span class="l-orig">(40) Mīsa’ ä‘kitut ainini: “Ānīcinā, ninga∙i∙cā,” i‘kito.</span>
 
@@ -346,11 +346,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(42) Ānīc ubītawāᵉ unīdcānisaᵉ ‘iᵉi’ᵘ kā∙a∙caminit.</span>
 
-<span class="l-fiero">**Aaniish obiidawaa oniijaanisa i’iw gaa-ashaminid.**</span>
+<span class="l-fiero">**Aaniish obiidawaan oniijaanisan i’iw gaa-ashaminid.**</span>
 
 <span class="l-eng">*Now, he fetched home to his children what had been given him to eat.*</span>
 
-<span class="l-gloss">Aaniish obiidawaa oniijaanisa i’iw gaa-ashaminid (now, he brought home to his children what he had been given to eat).</span>
+<span class="l-gloss">Aaniish obiidawaan oniijaanisan i’iw gaa-ashaminid (now, he brought home to his children what he had been given to eat).</span>
 
 <span class="l-orig">(43) Cigwa’ ugạnōnān īni’ᵘ wīwạn: “Kāwīnsanā wī‘kā tci∙u∙mackimutä‘käyạn?” udinān īni’ᵘ wīwạn.</span>
 
@@ -394,11 +394,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(48) Cigwasa’ pikīgitōwaᵉ unīdcānisaᵉ: “Nạckäginīn, cigwa pīwitä!” udigōᵉ.</span>
 
-<span class="l-fiero">**Zhigwa sa bi-giigidoowag oniijaanisa: “Nashke giniin, zhigwa biiwide!” odigoo.**</span>
+<span class="l-fiero">**Zhigwa sa bi-giigidoowag oniijaanisan: “Nashke giniin, zhigwa biiwide!” odigoon.**</span>
 
 <span class="l-eng">*At last came his children, saying: “Oh, see! here is a visitor!” he was told.*</span>
 
-<span class="l-gloss">Zhigwa sa bi-giigidoowag oniijaanisa (at last his children spoke up): “Nashke giniin, zhigwa biiwide!” (“look, you! now there’s a visitor!”) odigoo (he was told).</span>
+<span class="l-gloss">Zhigwa sa bi-giigidoowag oniijaanisan (at last his children spoke up): “Nashke giniin, zhigwa biiwide!” (“look, you! now there’s a visitor!”) odigoon (he was told).</span>
 
 <span class="l-orig">(49) Ānīc mīsa’ äcipīndigāgowāt īni’ᵘ pīwitän.</span>
 

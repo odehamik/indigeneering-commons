@@ -74,11 +74,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(8) Ā‘pitcisa’ nībiwa unisāwā.</span>
 
-<span class="l-fiero">**Aapiji’sh isa niibiwa onisaawaa.**</span>
+<span class="l-fiero">**Aapiji isa niibiwa onisaawaa.**</span>
 
 <span class="l-eng">*Ever so many they killed.*</span>
 
-<span class="l-gloss">Aapiji’sh isa niibiwa onisaawaa (and ever so many they killed).</span>
+<span class="l-gloss">Aapiji isa niibiwa onisaawaa (and ever so many they killed).</span>
 
 <span class="l-orig">(9) Cigwa kạckạdinini i‘ᵉiᵘ sāga∙i∙gạn.</span>
 
@@ -786,11 +786,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(97) Owâbạmāᵉ.</span>
 
-<span class="l-fiero">**Owaabamaa’.**</span>
+<span class="l-fiero">**Owaabamaan.**</span>
 
 <span class="l-eng">*He saw them.*</span>
 
-<span class="l-gloss">Owaabamaa’ (he saw them).</span>
+<span class="l-gloss">Owaabamaan (he saw them).</span>
 
 <span class="l-orig">(98) “Ānīn änạnō‘kīyäg?”</span>
 
@@ -802,7 +802,7 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(99) “Nindawipā‘pinotawānān päbāmitạgōtäg u‘kạnāb.”¹</span>
 
-<span class="l-fiero">**“Nindawi-paapinodawaanaan bebaamidagoodeg okanaab.” (3)**</span>
+<span class="l-fiero">**“Nindawi-paapinodawaanaan bebaamidagoodeg okanaab.”**</span>
 
 <span class="l-eng">*“We are going to meddle with the cord that hangs across.”*</span>
 

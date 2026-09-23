@@ -84,11 +84,11 @@ STRONG, BITTER STICK.
 
 <span class="l-orig">(9) Mīdạc a‘kawä kī∙ạ∙camigut ma‘kudä.</span>
 
-<span class="l-fiero">**Mii dash akawe gii-ashamigod makode’.**</span>
+<span class="l-fiero">**Mii dash akawe gii-ashamigod makode.**</span>
 
 <span class="l-eng">*Whereupon, before proceeding further, he was given the heart of a bear to eat.*</span>
 
-<span class="l-gloss">Mii dash akawe (and so first) gii-ashamigod (he was given to eat) makode’ (a bear’s heart).</span>
+<span class="l-gloss">Mii dash akawe (and so first) gii-ashamigod (he was given to eat) makode (a bear’s heart).</span>
 
 <span class="l-orig">(10) Kā∙i∙ckwāwīsinit ‘aᵉa’ᵘ anicinābäᵉ mī∙i∙´ᵘ kī∙u∙nạbiwāt.¹</span>
 

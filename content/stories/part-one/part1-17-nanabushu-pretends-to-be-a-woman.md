@@ -146,7 +146,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(17) Nicāgwänim. ‘Tabīcāwạg nintāngwaiyạg.’”</span>
 
-<span class="l-fiero">**Ni-zhaagwenim. ‘Daa-bi-izhaawag nindaangwayag.’(1)”**</span>
+<span class="l-fiero">**Ni-zhaagwenim. ‘Daa-bi-izhaawag nindaangwayag.’”**</span>
 
 <span class="l-eng">*I was loath (to go). ‘Let my friends come hither.’ (said the woman(1)).”*</span>
 
@@ -154,7 +154,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(18) Mīdạc ä‘kitut ‘aᵘ mintimōyä: “Ānīn dạc ‘iᵉi’ᵘ ạntawābạmāsiwäk,” utināᵉ ‘iᵉi’ᵘ udānisaᵉ.</span>
 
-<span class="l-fiero">**Mii dash e-kidod aw mindimooye(2): “Aaniin dash i’iw andawaabamaasiweg,(1)” odinaan i’iw odaanisan.**</span>
+<span class="l-fiero">**Mii dash e-kidod aw mindimooye: “Aaniin dash i’iw andawaabamaasiweg,” odinaan i’iw odaanisan.**</span>
 
 <span class="l-eng">*Thereupon said the old woman(2): “Why do you not go look for her(1)?” she said to her daughters.*</span>
 
@@ -162,7 +162,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(19) Mīdạc kägä‘t pa∙i∙cinạntawâbạmāwāt īgi’ᵘ i‘kwäwạg, mīsa’ kā∙i∙kīwäwītcīwāwāt īgi’ᵘ i‘kwäwạg.</span>
 
-<span class="l-fiero">**Mii dash geget ba-izhi-nandawaabamaawaad igiw ikwewag, mii sa gaa-giiwewiijiiwaawaad igiw ikwewag. (1)**</span>
+<span class="l-fiero">**Mii dash geget ba-izhi-nandawaabamaawaad igiw ikwewag, mii sa gaa-giiwewiijiiwaawaad igiw ikwewag.**</span>
 
 <span class="l-eng">*And so truly came the women seeking for her, whereupon back home the women went, taking her(1) with them.*</span>
 
@@ -170,7 +170,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(20) Mīdạc kā∙i∙ci∙o∙nōtä∙i∙nt iwiti wäntapinit īni’ᵘ niniwạn.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi’onoode’ind iwidi wendabinid iniw niniwan. (3)**</span>
+<span class="l-fiero">**Mii dash gaa-izhi’onoode’ind iwidi wendabinid iniw niniwan.**</span>
 
 <span class="l-eng">*And then a place was made for her there where the man(3) was seated.*</span>
 
@@ -178,7 +178,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(21) Mīsa’ cigwa’ ki∙u∙nāpämit.</span>
 
-<span class="l-fiero">**Mii sa zhigwa gii-onaabemid. (1) (4)**</span>
+<span class="l-fiero">**Mii sa zhigwa gii-onaabemid.**</span>
 
 <span class="l-eng">*Therefore she(1) now had a husband(4).*</span>
 
@@ -186,7 +186,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(22) Cigwa uwīcāmāᵉ utāngwäyaᵉ tcīmạnisäwāt.</span>
 
-<span class="l-fiero">**Zhigwa owiishaamaan odaangweyan ji-manisewaad(5).**</span>
+<span class="l-fiero">**Zhigwa owiishaamaan odaangweyan ji-manisewaad.**</span>
 
 <span class="l-eng">*By and by she wished her sisters-in-law to go with her to gather fire-wood(5).*</span>
 
@@ -210,7 +210,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(25) “Kägätsa kīciⁿcawisī ‘aᵉa’ᵘ nintāngwänān.”</span>
 
-<span class="l-fiero">**“Geget sa gii-zhi-nshawisii a’aw nindaangwenaan.” (6)**</span>
+<span class="l-fiero">**“Geget sa gii-zhi-nshawisii a’aw nindaangwenaan.”**</span>
 
 <span class="l-eng">*“Truly a good worker is our sister-in-law.” (6)*</span>
 
@@ -218,7 +218,7 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(26) Anīc kägätsa minwäntạm ‘aᵉa’ᵘ mindimōyä, kayä ‘aᵉa’ᵘ a‘kiwäⁿzī kicincawisinit una∙ā∙ngani‘kwämiwān.</span>
 
-<span class="l-fiero">**Aaniish geget sa minwendam a’aw mindimooye, gaye a’aw akiwenzii gii-zhinshawisinid ona’aanganikwemiwaan.(7)**</span>
+<span class="l-fiero">**Aaniish geget sa minwendam a’aw mindimooye, gaye a’aw akiwenzii gii-zhinshawisinid ona’aanganikwemiwaan.**</span>
 
 <span class="l-eng">*Now, thoroughly pleased was the old woman, as was also the old man, that such a good worker was their daughter-in-law.(7)*</span>
 

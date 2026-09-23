@@ -50,7 +50,7 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(5) “Ā, ạnicāsạgo nimbạbāmādis; kīnîdạc, ānindi äjāyạn?”¹</span>
 
-<span class="l-fiero">**“Aa, anishaa sa go nimbabaamaadis; giin idash, aaniindi ezhaayan?” (1)**</span>
+<span class="l-fiero">**“Aa, anishaa sa go nimbabaamaadis; giin idash, aaniindi ezhaayan?”**</span>
 
 <span class="l-eng">*“Oh, I am just simply travelling about; and you, where are you going?”*</span>
 
@@ -258,11 +258,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(31) Mī∙i∙māⁿ kī∙ạ∙gōdcink kistciginwäⁿc, pīnic ạnōdc awäsīyạg — ma∙ī∙ngạnạg; kwingwa∙ā∙gäg, udcīgạg, wâgucạg — gītạgwicinōg kī∙ạ∙mwāwād mōzōn; kāgāgiwạg gayä.</span>
 
-<span class="l-fiero">**Mii imaa gii-agoojing gichi-ginwenzh, biinish anooj awesiiyag – ma’iinganag; gwiingwa’aageg, ojiigag, waagoshag – gii-dagwishinoog gii-amwaawaad moozoon; gaagaagiwag gaye.**</span>
+<span class="l-fiero">**Mii imaa gii-agoojing gichi-ginwenzh, biinish anooj awesiiyag — ma’iinganag; gwiingwa’aageg, ojiigag, waagoshag — gii-dagwishinoog gii-amwaawaad moozoon; gaagaagiwag gaye.**</span>
 
 <span class="l-eng">*Accordingly there he hung for a great while, until all sorts of game-folk – wolves, martens, fishers, foxes – arrived to eat the moose; ravens too (arrived).*</span>
 
-<span class="l-gloss">Mii imaa gii-agoojing gichi-ginwenzh (and so there he hung a very long while), biinish anooj awesiiyag (until all sorts of animals) – ma’iinganag (wolves); gwiingwa’aageg (wolverines/martens), ojiigag (fishers), waagoshag (foxes) – gii-dagwishinoog gii-amwaawaad moozoon (arrived and ate the moose); gaagaagiwag gaye (ravens too).</span>
+<span class="l-gloss">Mii imaa gii-agoojing gichi-ginwenzh (and so there he hung a very long while), biinish anooj awesiiyag (until all sorts of animals) — ma’iinganag (wolves); gwiingwa’aageg (wolverines/martens), ojiigag (fishers), waagoshag (foxes) — gii-dagwishinoog gii-amwaawaad moozoon (arrived and ate the moose); gaagaagiwag gaye (ravens too).</span>
 
 <span class="l-orig">(32) Pānimā ka‘kina kā‘kidạmunt ‘aᵉa’ᵘ mōⁿs mī∙i’∙ᵘ pîdcīnạg, kīpạgidạmigut Nänabujū ī∙i’∙ᵘ kizībā‘kwạt.</span>
 

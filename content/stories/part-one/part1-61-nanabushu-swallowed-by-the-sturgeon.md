@@ -210,11 +210,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(25) Mīdạc äjini‘kāsut aᵘ kisayäⁿ∙i∙bạn Nänā‘pātạm.</span>
 
-<span class="l-fiero">**Mii dash ezhinikaazod aw gi-sayen’iban Nenaapaadam.**</span>
+<span class="l-fiero">**Mii dash ezhinikaazod aw gi-sayeniban Nenaapaadam.**</span>
 
 <span class="l-eng">*And the name of your elder brother was Nänā‘pātạm.*</span>
 
-<span class="l-gloss">Mii dash ezhinikaazod aw gi-sayen’iban (and the name of that late elder brother of yours) Nenaapaadam (was Nenaapaadam).</span>
+<span class="l-gloss">Mii dash ezhinikaazod aw gi-sayeniban (and the name of that late elder brother of yours) Nenaapaadam (was Nenaapaadam).</span>
 
 <span class="l-orig">(26) Mīdạc kayä kīn kā∙i∙jiwīnigōyạn Nänabucu,” udigōn ō‘kumisạn.</span>
 
@@ -226,11 +226,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(27) Mīdạc Nänabucu kiˢtcinānāgatawäntạm, kaskändạm kayä mi‘kwänimāt nạngwạna kī∙u∙sayäⁿ∙i∙t.</span>
 
-<span class="l-fiero">**Mii dash Nenaboozhoo gichi-naanaagadawendam, gashkendam gaye mikwenimaad nangwana gii-osayen’id.**</span>
+<span class="l-fiero">**Mii dash Nenaboozhoo gichi-naanaagadawendam, gashkendam gaye mikwenimaad nangwana gii-osayenid.**</span>
 
 <span class="l-eng">*Thereupon Nänabushu seriously began pondering, sad too he became at the thought that forsooth he had an elder brother.*</span>
 
-<span class="l-gloss">Mii dash Nenaboozhoo gichi-naanaagadawendam (thereupon Nenaboozhoo pondered deeply), gashkendam gaye (and he grew sad too) mikwenimaad nangwana gii-osayen’id (remembering that he had indeed had an elder brother).</span>
+<span class="l-gloss">Mii dash Nenaboozhoo gichi-naanaagadawendam (thereupon Nenaboozhoo pondered deeply), gashkendam gaye (and he grew sad too) mikwenimaad nangwana gii-osayenid (remembering that he had indeed had an elder brother).</span>
 
 <span class="l-orig">(28) Mīdạc Nänabucu cayīgwa kīwawänändạnk ānīn wâ∙i∙citcigät, mīdạc änāt ō‘kumisạn:</span>
 
@@ -610,11 +610,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(75) Mīdạc kīⁿwäⁿ Nänabucu äjimādcāt, pōjō∙ā∙t¹ ō‘kumisạn.</span>
 
-<span class="l-fiero">**Mii dash giiwenh Nenaboozhoo ezhi-maajaad, boozhoo’aad(2) ookomisan.**</span>
+<span class="l-fiero">**Mii dash giiwenh Nenaboozhoo ezhi-maajaad, boozhoo’aad ookomisan.**</span>
 
 <span class="l-eng">*And so they say that Nänabushu set out, bidding farewell to his grandmother.(2)*</span>
 
-<span class="l-gloss">Mii dash giiwenh Nenaboozhoo ezhi-maajaad (and so they say Nenaboozhoo set out), boozhoo’aad(2) ookomisan (bidding farewell to his grandmother).(2)</span>
+<span class="l-gloss">Mii dash giiwenh Nenaboozhoo ezhi-maajaad (and so they say Nenaboozhoo set out), boozhoo’aad ookomisan (bidding farewell to his grandmother).(2)</span>
 
 <span class="l-orig">(76) Mīdạc kīⁿwäⁿ ägut:</span>
 
@@ -810,11 +810,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(100) “Ā‘tā, kägātsạnā nimācitä∙ä∙.”¹</span>
 
-<span class="l-fiero">**“Aataa, geget sa naa ni-maazhide’e.”(3)**</span>
+<span class="l-fiero">**“Aataa, geget sa naa ni-maazhide’e.”**</span>
 
 <span class="l-eng">*“Oh, truly indeed but I am feeling sick at heart.”(3)*</span>
 
-<span class="l-gloss">“Aataa, geget sa naa ni-maazhide’e.”(3) (“oh, truly indeed I am sick at heart.”)(3)</span>
+<span class="l-gloss">“Aataa, geget sa naa ni-maazhide’e.” (“oh, truly indeed I am sick at heart.”)(3)</span>
 
 <span class="l-orig">(101) Mīdạc mädwä∙i∙cinạntutamawāt wīwạn tcimina∙i∙gut kägō kä∙u∙ndcicigaguwät.</span>
 
@@ -1098,11 +1098,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(136) Mīdạc äjikanōnāt: “Īct, nîcīmîsā!¹ skumānā pagwanätcigạnānandạmāwiciyu‘k aᵘ kīⁿgōⁿ!”</span>
 
-<span class="l-fiero">**Mii dash ezhi-ganoonaad: “Ishte, ni-shiime sa!(4) shkomaa naa bagwanejiganaanandamawishiyok aw giigoonh!”**</span>
+<span class="l-fiero">**Mii dash ezhi-ganoonaad: “Ishte, ni-shiime sa! shkomaa naa bagwanejiganaanandamawishiyok aw giigoonh!”**</span>
 
 <span class="l-eng">*And then he said to them : “ Hark, O my younger brothers(4)! Please peck an opening for me into the belly of this fish!”*</span>
 
-<span class="l-gloss">Mii dash ezhi-ganoonaad (and then he spoke to them): “Ishte, ni-shiime sa!(4) (“hark, O my younger brothers!) shkomaa naa bagwanejiganaanandamawishiyok aw giigoonh!” (do peck an opening into this fish for me!”)</span>
+<span class="l-gloss">Mii dash ezhi-ganoonaad (and then he spoke to them): “Ishte, ni-shiime sa! (“hark, O my younger brothers!) shkomaa naa bagwanejiganaanandamawishiyok aw giigoonh!” (do peck an opening into this fish for me!”)</span>
 
 <span class="l-orig">(137) Mīdạc kayāckwạg äjipạsigwa∙o∙wāt, kayä ạninōndāgusiwāt kạgwānisaka‘kạmig äni‘tāgusiwāt.</span>
 
@@ -1122,19 +1122,19 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(139) Nāgạtc dạc minawā kī∙ạ∙ndutạm, mīc minawā kī‘kạnōnāt:</span>
 
-<span class="l-fiero">**Naagaj dash miinawaa gii-andodam, mii’sh miinawaa gii-kanoonaad:**</span>
+<span class="l-fiero">**Naagaj dash miinawaa gii-andodam, miish miinawaa gii-kanoonaad:**</span>
 
 <span class="l-eng">*And in a little while again he listened, where upon again he spoke to them, saying:*</span>
 
-<span class="l-gloss">Naagaj dash miinawaa gii-andodam (and after a while again he listened), mii’sh miinawaa gii-kanoonaad (whereupon again he spoke to them).</span>
+<span class="l-gloss">Naagaj dash miinawaa gii-andodam (and after a while again he listened), miish miinawaa gii-kanoonaad (whereupon again he spoke to them).</span>
 
 <span class="l-orig">(140) “‘Āᵘ, nîcīm,² pạgwanätciganānandamawiciyu‘k aᵘ kīⁿgōⁿ!” udināᵉ.</span>
 
-<span class="l-fiero">**“Aaw, nishiim(5), bagwanejiganaanandamawishiyok aw giigoonh!” odinaan.**</span>
+<span class="l-fiero">**“Aaw, nishiim, bagwanejiganaanandamawishiyok aw giigoonh!” odinaan.**</span>
 
 <span class="l-eng">*“O my younger brothers(5)! peck an opening for me into the belly of this fish!” he said to them.*</span>
 
-<span class="l-gloss">“Aaw, nishiim(5), bagwanejiganaanandamawishiyok aw giigoonh!” (“O my younger brothers, peck an opening into this fish for me!”) odinaan (he said to them).</span>
+<span class="l-gloss">“Aaw, nishiim, bagwanejiganaanandamawishiyok aw giigoonh!” (“O my younger brothers, peck an opening into this fish for me!”) odinaan (he said to them).</span>
 
 <span class="l-orig">(141) Mīdạc kägä‘t äjipisānayāwāt.</span>
 
@@ -1178,11 +1178,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(146) Mīc mīnawā äjikanōnāt: “‘Āᵘ, nîcīmitug, pagwanätciganāndamawiciyu‘k.</span>
 
-<span class="l-fiero">**Mii’sh miinawaa ezhi-ganoonaad: “Aaw, ni-shiimidog, bagwanejiganaandamawishiyok.**</span>
+<span class="l-fiero">**Miish miinawaa ezhi-ganoonaad: “Aaw, ni-shiimidog, bagwanejiganaandamawishiyok.**</span>
 
 <span class="l-eng">*And so again he spoke to them, saying: “Come, my younger brothers, peck an opening for me into the belly (of this fish).*</span>
 
-<span class="l-gloss">Mii’sh miinawaa ezhi-ganoonaad (and so again he spoke to them): “Aaw, ni-shiimidog (“come, my younger brothers), bagwanejiganaandamawishiyok (peck an opening for me).</span>
+<span class="l-gloss">Miish miinawaa ezhi-ganoonaad (and so again he spoke to them): “Aaw, ni-shiimidog (“come, my younger brothers), bagwanejiganaandamawishiyok (peck an opening for me).</span>
 
 <span class="l-orig">(147) Mäckut kīgasasäkā∙i∙ninim; nīgān wänicicit päpāmisät kīgatici∙u∙nicici∙i∙nim,” udināᵉ.</span>
 
@@ -1322,11 +1322,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(164) Kīgatạmuguwāk kayä anicinābäg tci∙ạ∙ni∙a∙‘kīwạng. — Kīn dạc,” udinān mîcinamägwän:</span>
 
-<span class="l-fiero">**Gigad-amogowaag gaye anishinaabeg ji-ani-akiiwang. – Giin dash,” odinaan mishi-namegwen:**</span>
+<span class="l-fiero">**Gigad-amogowaag gaye anishinaabeg ji-ani-akiiwang. — Giin dash,” odinaan mishi-namegwen:**</span>
 
 <span class="l-eng">*And you shall be eaten by the people till the end of the world. - - And you,” he said to the Great Sturgeon,*</span>
 
-<span class="l-gloss">Gigad-amogowaag gaye anishinaabeg ji-ani-akiiwang. (and the people shall eat you till the end of the world.) – Giin dash,” odinaan mishi-namegwen (and as for you,” he said to the Great Sturgeon).</span>
+<span class="l-gloss">Gigad-amogowaag gaye anishinaabeg ji-ani-akiiwang. (and the people shall eat you till the end of the world.) — Giin dash,” odinaan mishi-namegwen (and as for you,” he said to the Great Sturgeon).</span>
 
 <span class="l-orig">(165) “Kāwīn minawā wī‘kā kīgatiniginisī tciani∙a∙‘kīwạng, kāwīn awiya tāpimādisisī,” udinān.</span>
 
@@ -1362,11 +1362,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(169) Mīdạc änijita‘pābit, mīc änāt: “Nō‘kumis, nintạgwicin,” udinān.</span>
 
-<span class="l-fiero">**Mii dash eni-zhi-dapaabid, mii’sh e-naad: “Nookomis, nindagwishin,” odinaan.**</span>
+<span class="l-fiero">**Mii dash eni-zhi-dapaabid, miish e-naad: “Nookomis, nindagwishin,” odinaan.**</span>
 
 <span class="l-eng">*And as he peeped into the lodge, he said to her: “O my grandmother ! I have now come home,” he said to her.*</span>
 
-<span class="l-gloss">Mii dash eni-zhi-dapaabid (and as he peeped in), mii’sh e-naad (he said to her): “Nookomis, nindagwishin,” odinaan (“my grandmother, I have come home,” he said to her).</span>
+<span class="l-gloss">Mii dash eni-zhi-dapaabid (and as he peeped in), miish e-naad (he said to her): “Nookomis, nindagwishin,” odinaan (“my grandmother, I have come home,” he said to her).</span>
 
 <span class="l-orig">(170) “Āⁱ, wägutugwänsa pạnä wändcīciwāgwänu‘ku, aya āwacänsạg!”</span>
 

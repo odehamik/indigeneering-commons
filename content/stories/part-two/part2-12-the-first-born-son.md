@@ -108,11 +108,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(12) Wäwäni kīnạnā∙i∙tcigādäni pīndig; i´‘kwä äjinạmä‘tōd; dcībā‘kwān kayä a´‘täni; wäwäni gayä kī∙a∙‘picimōnigä cingub∙ī∙isa´; kayädạc mî´sạn a‘täniwạn ạgwạdcing.</span>
 
-<span class="l-fiero">**Weweni gii-nanaa’ichigaadeni biindig; ikwe ezhi-nametood; jiibaakwaan gaye ateni; weweni gaye gii-apishimoonike zhingobiinsa’; gaye dash misan ateniwan agwajiing.**</span>
+<span class="l-fiero">**Weweni gii-nanaa’ichigaadeni biindig; ikwe ezhi-nametood; jiibaakwaan gaye ateni; weweni gaye gii-apishimoonike zhingobiinsa; gaye dash misan ateniwan agwajiing.**</span>
 
 <span class="l-eng">*Nice was the arrangement (of things) inside; it was like the work of a woman; and some cooking had been done; and carefully arranged were the balsam-boughs at the sleeping-places; and there was also some fire-wood outside.*</span>
 
-<span class="l-gloss">Weweni gii-nanaa’ichigaadeni biindig (nicely arranged was it inside); ikwe ezhi-nametood (it was like the work of a woman); jiibaakwaan gaye ateni (and some cooking had been done); weweni gaye gii-apishimoonike zhingobiinsa’ (and carefully laid were the balsam-boughs for sleeping); gaye dash misan ateniwan agwajiing (and there was also firewood outside).</span>
+<span class="l-gloss">Weweni gii-nanaa’ichigaadeni biindig (nicely arranged was it inside); ikwe ezhi-nametood (it was like the work of a woman); jiibaakwaan gaye ateni (and some cooking had been done); weweni gaye gii-apishimoonike zhingobiinsa (and carefully laid were the balsam-boughs for sleeping); gaye dash misan ateniwan agwajiing (and there was also firewood outside).</span>
 
 <span class="l-orig">(13) Mī∙i∙dạc ä‘kîdot zäzī‘kisit mạdcī‘kiwis:</span>
 
@@ -636,11 +636,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(78) Mī∙i∙dạc ki∙ạ∙cạmigut ō‘komisạn pā‘ta∙i∙mīnạn pimidä gayā tagunigādäni.</span>
 
-<span class="l-fiero">**Mii dash gii-ashamigod ookomisan baata-imiinan baatemiinan bimide gaye dagonigaadeni.**</span>
+<span class="l-fiero">**Mii dash gii-ashamigod ookomisan baata-imiinan bimide gaye dagonigaadeni.**</span>
 
 <span class="l-eng">*Thereupon he was fed by his grandmother upon dried blueberries and upon grease mixed with them.*</span>
 
-<span class="l-gloss">Mii dash gii-ashamigod ookomisan (thereupon he was fed by his grandmother) baata-imiinan baatemiinan (dried blueberries) bimide gaye dagonigaadeni (and grease mixed with them).</span>
+<span class="l-gloss">Mii dash gii-ashamigod ookomisan (thereupon he was fed by his grandmother) baata-imiinan (dried blueberries) bimide gaye dagonigaadeni (and grease mixed with them).</span>
 
 <span class="l-orig">(79) Mīdạc kīnibāt.</span>
 
@@ -964,11 +964,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(119) Mīnawādec wänāgucig ugī∙o∙disān omicōmisạn; mīnawādec ogī∙a∙cạmigōn wīyās pimidä gayä.</span>
 
-<span class="l-fiero">**Miinawaa dash wenaanoshig ogii-odisaan omishoomisan; miinawaa dash ogii-ashamigoon wiiyaas bimide gaye.**</span>
+<span class="l-fiero">**Miinawaa dash wenaagoshig ogii-odisaan omishoomisan; miinawaa dash ogii-ashamigoon wiiyaas bimide gaye.**</span>
 
 <span class="l-eng">*And on the next evening he came to his grandfather; and next he was fed upon meat and grease.*</span>
 
-<span class="l-gloss">Miinawaa dash wenaanoshig (and on the next evening) ogii-odisaan omishoomisan (he came to his grandfather); miinawaa dash ogii-ashamigoon wiiyaas bimide gaye (and next he was fed meat and grease).</span>
+<span class="l-gloss">Miinawaa dash wenaagoshig (and on the next evening) ogii-odisaan omishoomisan (he came to his grandfather); miinawaa dash ogii-ashamigoon wiiyaas bimide gaye (and next he was fed meat and grease).</span>
 
 <span class="l-orig">(120) Mīdạc kīnibāt.</span>
 
@@ -1952,7 +1952,7 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(242) “Nimpi‘kwạnāng pyäyāyu‘k.</span>
 
-<span class="l-fiero">**“Nimbikwanaang byeyaayok bi-ayaayok.**</span>
+<span class="l-fiero">**“Nimbikwanaang byeyaayok.**</span>
 
 <span class="l-eng">*“Behind me come.*</span>
 

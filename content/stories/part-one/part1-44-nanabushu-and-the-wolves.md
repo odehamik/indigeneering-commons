@@ -26,11 +26,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(2) Mōⁿjạg nạndawändcigäwạg, awäsīyan nisāwāt; mi‘tigwābīn odābạtci∙ā∙wān pimwāwāt awäsīan — pinäwạn, cīcibạn, nī´kạn, ạnōtcigägo ōni‘tōnāwa.</span>
 
-<span class="l-fiero">**Moozhag nandawenjigewag, awesiiyan nisaawaad; mitigwaabiin odaabaji’aawaan bimwaawaad awesiian – binewan, zhiishiiban, nikan, anooji gego onitoonaawaa.**</span>
+<span class="l-fiero">**Moozhag nandawenjigewag, awesiiyan nisaawaad; mitigwaabiin odaabaji’aawaan bimwaawaad awesiian — binewan, zhiishiiban, nikan, anooji gego onitoonaawaa.**</span>
 
 <span class="l-eng">*Often they went hunting, (and) game they killed; bow and arrows they used when they shot at the game-kind, - at ruffed grouse, ducks, geese, - and various kinds of them they killed.*</span>
 
-<span class="l-gloss">Moozhag nandawenjigewag (often they hunted), awesiiyan nisaawaad (killing game animals); mitigwaabiin odaabaji’aawaan (they used bow and arrow) bimwaawaad awesiian (when they shot at the game-kind) – binewan, zhiishiiban, nikan (ruffed grouse, ducks, geese), anooji gego onitoonaawaa (all sorts of things they killed).</span>
+<span class="l-gloss">Moozhag nandawenjigewag (often they hunted), awesiiyan nisaawaad (killing game animals); mitigwaabiin odaabaji’aawaan (they used bow and arrow) bimwaawaad awesiian (when they shot at the game-kind) — binewan, zhiishiiban, nikan (ruffed grouse, ducks, geese), anooji gego onitoonaawaa (all sorts of things they killed).</span>
 
 <span class="l-orig">(3) Kinwäⁿj ki‘tāwạg imāⁿ.</span>
 
@@ -618,7 +618,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(76) “Nōngum ku´ca ạnîmwānu kititān.”</span>
 
-<span class="l-fiero">**„Noongom gosha animwaano gididaan.”**</span>
+<span class="l-fiero">**“Noongom gosha animwaano gididaan.”**</span>
 
 <span class="l-eng">*“It was but a moment ago that you called it a dog-tail.”*</span>
 
@@ -682,7 +682,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(84) Mīdạc uskînawama∙ī∙ngạn: “Unābạndạn ānīndi tcigabäciyạng.”</span>
 
-<span class="l-fiero">**Mii dash oshkinawe-ma’iingan: „Onaabandan aaniindi ji-gabeshiyang.”**</span>
+<span class="l-fiero">**Mii dash oshkinawe-ma’iingan: “Onaabandan aaniindi ji-gabeshiyang.”**</span>
 
 <span class="l-eng">*Thereupon the young Wolf (said): “Go look for a place where we are to camp.”*</span>
 
@@ -730,7 +730,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(90) “Ạmbä, Nänabuju! āja kīnạgạnigōmin. Āja wāsa ayādogänạg kitōcimạg.”</span>
 
-<span class="l-fiero">**„Ambe, Nenaboozhoo! aazha gii-naganigoomin. Aazha waasa ayaadogenag gidoozhimag.”**</span>
+<span class="l-fiero">**“Ambe, Nenaboozhoo! aazha gii-naganigoomin. Aazha waasa ayaadogenag gidoozhimag.”**</span>
 
 <span class="l-eng">*“Come, Nänabushu! we have now been left behind. Now far away must be your nephews.”*</span>
 
@@ -1282,7 +1282,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(159) A‘kiwäⁿzi dạc i‘kido: “Änīc wīn pa‘ki‘täwạt?”</span>
 
-<span class="l-fiero">**Akiwenzii dash ikido: „Aaniish wiin bakitewad?”**</span>
+<span class="l-fiero">**Akiwenzii dash ikido: “Aaniish wiin bakitewad?”**</span>
 
 <span class="l-eng">*And the old (Wolf) said: “Why did you hit him?”*</span>
 
@@ -1290,7 +1290,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(160) “Kāwīn nīn pa‘kitäwāsī,” i‘kido Nänabujo.</span>
 
-<span class="l-fiero">**„Gaawiin nin-bakitewaasii,” ikido Nenaboozhoo.**</span>
+<span class="l-fiero">**“Gaawiin nin-bakitewaasii,” ikido Nenaboozhoo.**</span>
 
 <span class="l-eng">*“I did not hit him,” said Nänabushu.*</span>
 
@@ -1298,7 +1298,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(161) “Kägä‘t kipạgi‘täwā, kigīganawâbạmin kuca.”</span>
 
-<span class="l-fiero">**„Geget gi-bagitewaa, gigii-ganawaabamin gosha.”**</span>
+<span class="l-fiero">**“Geget gi-bagitewaa, gigii-ganawaabamin gosha.”**</span>
 
 <span class="l-eng">*„Indeed, you did hit him, for I was watching you.”*</span>
 
@@ -1306,7 +1306,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(162) “Kāwīn,” i‘kido Nänabuju.  “Kạnạbạtc kīmōtcⁱ ningīkạnawâbạmigōbạn, mēidạc ki‘kutigwạndạmān i we pigwā‘kugạn.”</span>
 
-<span class="l-fiero">**”Gaawiin,” ikido Nenaboozhoo. „Ganabaj giimooj ningii-ganawaabamigoban, mii dash gii-kodigwandamaan iwe bigwaakogan.”**</span>
+<span class="l-fiero">**”Gaawiin,” ikido Nenaboozhoo. “Ganabaj giimooj ningii-ganawaabamigoban, mii dash gii-kodigwandamaan iwe bigwaakogan.”**</span>
 
 <span class="l-eng">*„Nay, „ said Nänabushu. „Perhaps secretly was I observed by him, and that was why from my mouth I slipped my hold on the knobbed ankle-bone.”*</span>
 
@@ -1314,7 +1314,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(163) “Kägä‘t kigīpa‘ki‘täwā kuca.”</span>
 
-<span class="l-fiero">**„Geget gigii-bakitewaa gosha.”**</span>
+<span class="l-fiero">**“Geget gigii-bakitewaa gosha.”**</span>
 
 <span class="l-eng">*„Truly, indeed, you did hit him.”*</span>
 
@@ -1330,7 +1330,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(165) Ninguding idạ´c a‘kiwänzi ogạnōnān Nänabojōn: “Mīsajigwa tcigusīyạng.</span>
 
-<span class="l-fiero">**Ningoding idash akiwenzii oganoonaan Nenaboozhoon: „Mii sa zhigwa ji-goziyang.**</span>
+<span class="l-fiero">**Ningoding idash akiwenzii oganoonaan Nenaboozhoon: “Mii sa zhigwa ji-goziyang.**</span>
 
 <span class="l-eng">*Now, once the old (Wolf) spoke to Nänabushu, saying: “It is now about time that we should be moving.*</span>
 
@@ -1378,7 +1378,7 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(171) Mīnawā gīpōgidi.  “Mī awe wīgwās.¹  Pānimāgu, kī‘kạpäciyạn kī∙a∙‘tōyạn mîsạn, mī iᵘ kädicipājidcigwāskuniyạn îmāⁿ mîsạn a‘täg, mī iᵘ kädîci pîskạnäsäg îckodä.</span>
 
-<span class="l-fiero">**Miinawaa gii-boogidi. „Mii awe wiigwaas. (2) Baanimaa go, gii-kabeshiyan gii-atooyan misan, mii iw ged-izhi-baazhijigwaashkoniyan i’imaa misan ateg, mii iw ged-izhi-biskanesag ishkode.**</span>
+<span class="l-fiero">**Miinawaa gii-boogidi. “Mii awe wiigwaas. Baanimaa go, gii-kabeshiyan gii-atooyan misan, mii iw ged-izhi-baazhijigwaashkoniyan i’imaa misan ateg, mii iw ged-izhi-biskanesag ishkode.**</span>
 
 <span class="l-eng">*Again he broke wind. „That is birch-bark. (2) After a while, when you go into camp (and) have gathered the fire-wood, then shall you leap over the place where the wood is, whereupon up will start the blaze.*</span>
 

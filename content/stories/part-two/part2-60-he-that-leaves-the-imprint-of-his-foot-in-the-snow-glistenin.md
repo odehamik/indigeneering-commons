@@ -90,7 +90,7 @@ THE NARRATIVE OF HE-THAT-LEAVES-THE-IMPRINT-OF-HIS-FOOT-IN-THE-SNOW-GLISTENING.
 
 <span class="l-orig">(9) [DIAGRAM, p.516] Pīg, Kīyōn, Kānō, Tạnäs</span>
 
-<span class="l-fiero">**Pīg, Kīyōn, Kānō, Tạnäs**</span>
+<span class="l-fiero">**Biig, Giiyoon, Gaanoo, Danez**</span>
 
 <span class="l-eng">*[Diagram reproduced on pp. 516 (Ojibwe) and 517 (English): a circle with a spiral center and a long hatched line ending in an oval; four card-suit symbols at the compass points. Ojibwe labels: Pīg (top, ♠ Spade), Kīyōn (right, ♦ Diamond), Kānō (bottom, ♥ Heart), Tạnäs (left, ♣ Club). On the English page the labels are: Spade, Diamond, Heart, Club.]*</span>
 

@@ -396,7 +396,7 @@ BLUE-GARTER.
 
 <span class="l-orig">(48) Panä kīgukanawänimîn.</span>
 
-<span class="l-fiero">**Pane giigo-kanawenimin. …pane giga-kanawenimin…**</span>
+<span class="l-fiero">**Pane giigo-kanawenimin.**</span>
 
 <span class="l-eng">*Always will I look out for you.*</span>
 

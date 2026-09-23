@@ -621,11 +621,11 @@ Waabang (tomorrow) a’aw mooz wii-bimi-nizhawad (you will go in pursuit of that
 
 <span class="l-orig">(76) Wägunäniwinän udōci‘tōn ‘iᵉi’ᵘ ānusāgạn, ä‘pitcigu umiˢtcā‘tōn.</span>
 
-<span class="l-fiero">**Wegoneniiwinen odoozhitoon i’iw aanosaagan, aapiji go michaatoon.**</span>
+<span class="l-fiero">**Wegoneniiwinen odoozhitoon i’iw aanosaagan, aapiji go omichaatoon.**</span>
 
 <span class="l-eng">*What should he do but build a raft, and very large he made it.*</span>
 
-<span class="l-gloss">Wegoneniiwinen odoozhitoon i’iw aanosaagan (what should he do but build a raft), aapiji go michaatoon (and very large he made it).</span>
+<span class="l-gloss">Wegoneniiwinen odoozhitoon i’iw aanosaagan (what should he do but build a raft), aapiji go omichaatoon (and very large he made it).</span>
 
 <span class="l-orig">(77) Kā‘kīci‘tōt, äjipōsit äji∙i∙jāt imā minisina‘tāwangānik.</span>
 
@@ -701,11 +701,11 @@ Waabang (tomorrow) a’aw mooz wii-bimi-nizhawad (you will go in pursuit of that
 
 <span class="l-orig">(86) Ni‘tạm omaka‘kīn mōckạmowan, kayägu ạnōtcigu i∙i∙wisa mạnidōᵉ, ka‘kina awiya mīgu ‘iᵉi’ᵘ pämīcạgwā‘tānit ‘iᵉi’mā minisinatāwạngānik.</span>
 
-<span class="l-fiero">**Nitam omakakiin mooshkamowan, gaye go anooj igo i’iw isa manidoo, gakina  awiya mii go i’iw bemizhagwaadaanid i’imaa minisinadaawangaanig.**</span>
+<span class="l-fiero">**Nitam omakakiin mooshkamowan, gaye go anooj igo i’iw isa manidoon, gakina  awiya mii go i’iw bemizhagwaadaanid i’imaa minisinadaawangaanig.**</span>
 
 <span class="l-eng">*First a toad came up to the surface, and then the various manitous, every living being then came forth from the water out upon that island of sand.*</span>
 
-<span class="l-gloss">Nitam omakakiin mooshkamowan (first a toad came to the surface), gaye go anooj igo i’iw isa manidoo (and then the various manitous), gakina awiya mii go i’iw bemizhagwaadaanid i’imaa minisinadaawangaanig (every being came forth out upon that sandy island).</span>
+<span class="l-gloss">Nitam omakakiin mooshkamowan (first a toad came to the surface), gaye go anooj igo i’iw isa manidoon (and then the various manitous), gakina awiya mii go i’iw bemizhagwaadaanid i’imaa minisinadaawangaanig (every being came forth out upon that sandy island).</span>
 
 <span class="l-orig">(87) Mīgu iᵘ piminibānit ānint.</span>
 
@@ -933,11 +933,11 @@ Waabang (tomorrow) a’aw mooz wii-bimi-nizhawad (you will go in pursuit of that
 
 <span class="l-orig">(115) Äjikạbāt, ạnāsawaya∙ī∙ ạnitatā‘ku‘kī ‘iᵉi’ᵘ mạnidōᵉ.</span>
 
-<span class="l-fiero">**Ezhi-gabaad, anaasawaya’ii ani-dadakokii i’iw manidoo.**</span>
+<span class="l-fiero">**Ezhi-gabaad, anaasawaya’ii ani-dadakokii i’iw manidoon.**</span>
 
 <span class="l-eng">*When he went ashore, in among the manitous he stepped as he went along.*</span>
 
-<span class="l-gloss">Ezhi-gabaad (when he went ashore), anaasawaya’ii ani-dadakokii i’iw manidoo (in among the manitous he stepped as he went along).</span>
+<span class="l-gloss">Ezhi-gabaad (when he went ashore), anaasawaya’ii ani-dadakokii i’iw manidoon (in among the manitous he stepped as he went along).</span>
 
 <span class="l-orig">(116) Cigwasa udōdisān īni’ᵘ ugimān.</span>
 
@@ -1037,11 +1037,11 @@ Waabang (tomorrow) a’aw mooz wii-bimi-nizhawad (you will go in pursuit of that
 
 <span class="l-orig">(128) nä‘kibīnit ‘iᵉi’ᵘ mi‘tigōᵉ, mī∙ạ∙‘pī äcinōgimōcka∙ạ∙ninik.</span>
 
-<span class="l-fiero">**Gwej igo nekibiinid i’iw mitigoo mii apii ezhi-noogi-mooshka’aninig.**</span>
+<span class="l-fiero">**Gwej igo nekibiinid i’iw mitigoon mii apii ezhi-noogi-mooshka’aninig.**</span>
 
 <span class="l-eng">*And as the trees were about to disappear under the flood, then was when the water ceased rising.*</span>
 
-<span class="l-gloss">Gwej igo nekibiinid i’iw mitigoo (just as the trees were about to go under the flood) mii apii ezhi-noogi-mooshka’aninig (then was when the rising water stopped).</span>
+<span class="l-gloss">Gwej igo nekibiinid i’iw mitigoon (just as the trees were about to go under the flood) mii apii ezhi-noogi-mooshka’aninig (then was when the rising water stopped).</span>
 
 <span class="l-orig">(129) Kuniginīn, näyāp ani∙i∙ska‘täni. “E‘e‘e’ⁱ,”</span>
 

@@ -58,11 +58,11 @@ Nenabosho eats the Artichokes (2)
 
 <span class="l-orig">(6) Nänabucu omā äjimādci‘tāt, nībiwa omōna‘wā ‘iᵉi’wä ạskibwāᵉ; äcigisībīgināt, äjimādạntcigä, wäntcitạgu täwīsini.</span>
 
-<span class="l-fiero">**Nenabosho omaa ezhi-maajitaad, niibiwa omoonawaa i’iwe ashkibwaa; ezhi-giziibiiginaad, ezhi-maadanjige, wenjida go de-wiisini.**</span>
+<span class="l-fiero">**Nenabosho omaa ezhi-maajitaad, niibiwa omoonawaa i’iwe ashkibwaan; ezhi-giziibiiginaad, ezhi-maadanjige, wenjida go de-wiisini.**</span>
 
 <span class="l-eng">*Nänabushu then here set to work, he gathered many artichokes; when he wiped them clean with his hands, then he began eating them, till he was quite satisfied he ate.*</span>
 
-<span class="l-gloss">Nenabosho omaa ezhi-maajitaad (Nenabosho here set to work), niibiwa omoonawaa i’iwe ashkibwaa (he dug up many of those artichokes); ezhi-giziibiiginaad (when he washed them clean with his hands), ezhi-maadanjige (he began eating), wenjida go de-wiisini (until he ate quite to his fill).</span>
+<span class="l-gloss">Nenabosho omaa ezhi-maajitaad (Nenabosho here set to work), niibiwa omoonawaa i’iwe ashkibwaan (he dug up many of those artichokes); ezhi-giziibiiginaad (when he washed them clean with his hands), ezhi-maadanjige (he began eating), wenjida go de-wiisini (until he ate quite to his fill).</span>
 
 <span class="l-orig">(7) Ā‘pidci nībiwa kā‘kitạmwāt kudcipạsigwī.</span>
 

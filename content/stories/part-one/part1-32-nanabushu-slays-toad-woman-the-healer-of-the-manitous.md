@@ -51,7 +51,7 @@ Nenabosho slays Toad-Woman, the healer of the Manitous (2)
 <span class="l-orig">(5) “A‘kiyä‘kwāg nimbicinawicin, nimbicinawicin sāⁿ. A‘kiyä‘kwāg nimbicinawicin, nimbicinawicin sāⁿ.”</span>
 
 <span class="l-fiero">**“Aki ekwaag nimbishinawishin, nimbishinawishin saa  
-Aki ekwaag nimbishinawishin, nimbishinawishin saa.(1)**</span>
+Aki ekwaag nimbishinawishin, nimbishinawishin saa.**</span>
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, saa (X2)”(1)*</span>
 
@@ -509,11 +509,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(62) Mī cigwa ạni∙u∙di‘tạnk wīgiwāmäns, näyāgigu pisāga∙ạ∙mōᵉ kwīwisänsaᵉ.</span>
 
-<span class="l-fiero">**Mii zhigwa ani-oditang wiigiwaamens, neyaag igo bi-zaaga’amoo gwiiwisensa.**</span>
+<span class="l-fiero">**Mii zhigwa ani-oditang wiigiwaamens, neyaag igo bi-zaaga’amoon gwiiwisensan.**</span>
 
 <span class="l-eng">*Then presently, as he was about to arrive at the little wigwam, but before he got there, out came the boys.*</span>
 
-<span class="l-gloss">Mii zhigwa ani-oditang wiigiwaamens (then as he was nearing the little wigwam), neyaag igo bi-zaaga’amoo gwiiwisensa (but before that, out came the boys — *editorial mark carried*).</span>
+<span class="l-gloss">Mii zhigwa ani-oditang wiigiwaamens (then as he was nearing the little wigwam), neyaag igo bi-zaaga’amoon gwiiwisensan (but before that, out came the boys — *editorial mark carried*).</span>
 
 <span class="l-orig">(63) “Nō‘ko, kitagwicinina?”</span>
 
@@ -798,19 +798,19 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(98) Ēⁱ, ạnicāgu kāwạnātạgānit ‘iᵉi’ᵘ awäsīyaᵉ kayä igi’ᵘ päbāmisänit.</span>
 
-<span class="l-fiero">**Ii, anishaa go gaawanaadagaanid i’iw awesiiya gaye igiw bebaamisenid.**</span>
+<span class="l-fiero">**Ii, anishaa go gaawanaadagaanid i’iw awesiiyan gaye igiw bebaamisenid.**</span>
 
 <span class="l-eng">*Well, to swim aimlessly about was all that the animal-folk and the beings of the air could do.*</span>
 
-<span class="l-gloss">Ii (well), anishaa go gaawanaadagaanid i’iw awesiiya (the animal-folk could only swim aimlessly about) gaye igiw bebaamisenid (and those that fly about too).</span>
+<span class="l-gloss">Ii (well), anishaa go gaawanaadagaanid i’iw awesiiyan (the animal-folk could only swim aimlessly about) gaye igiw bebaamisenid (and those that fly about too).</span>
 
 <span class="l-orig">(99) Ānintigu udānapōsi∙ā∙ᵉ päpīwicī∙i∙nit; iwidạc wīn mämāndidunit ạnicāgu sa‘ki‘kwägumōwaᵉ.</span>
 
-<span class="l-fiero">**Aanindi go odaanaboozi’aa bebiiwishii’inid; iw idash wiin memaandidonid anishaa go zagigwegomoowag.**</span>
+<span class="l-fiero">**Aanindi go odaanaboozi’aan bebiiwishii’inid; iw idash wiin memaandidonid anishaa go zagigwegomoowag.**</span>
 
 <span class="l-eng">*Now, some that were tiny he tried to put aboard; and those that were big hung to (the raft) by their chins.*</span>
 
-<span class="l-gloss">Aanindi go odaanaboozi’aa bebiiwishii’inid (some of the tiny ones he tried to take aboard); iw idash wiin memaandidonid anishaa go zagigwegomoowag (and those that were big just hung on by their chins).</span>
+<span class="l-gloss">Aanindi go odaanaboozi’aan bebiiwishii’inid (some of the tiny ones he tried to take aboard); iw idash wiin memaandidonid anishaa go zagigwegomoowag (and those that were big just hung on by their chins).</span>
 
 <span class="l-orig">(100) Pō‘tcidạc mīgu iᵘ kintābīckạminit ‘iᵉi’ᵘ utcīmān.</span>
 
@@ -838,11 +838,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(103) Ogạnōnāᵉ awäsīyaᵉ: “Ä‘tawā mīsa iᵘ kīwạnī‘käyān iᵉi’ᵘ a‘ki.</span>
 
-<span class="l-fiero">**Oganoonaa awesiiya: “Etawaa mii sa iw gii-waniikeyaan i’iw aki.**</span>
+<span class="l-fiero">**Oganoonaan awesiiyan: “Etawaa mii sa iw gii-waniikeyaan i’iw aki.**</span>
 
 <span class="l-eng">*He spoke to the animal-kind, saying: “Pity it is that I forgot (to fetch along) some earth.*</span>
 
-<span class="l-gloss">Oganoonaa awesiiya (he spoke to the animal-kind): “Etawaa mii sa iw gii-waniikeyaan i’iw aki (pity it is that I forgot the earth).</span>
+<span class="l-gloss">Oganoonaan awesiiyan (he spoke to the animal-kind): “Etawaa mii sa iw gii-waniikeyaan i’iw aki (pity it is that I forgot the earth).</span>
 
 <span class="l-orig">(104) Ạmbägic pạngī pi∙a∙yāyāmbān ‘iᵉi’ᵘ a‘ki!</span>
 
@@ -1014,11 +1014,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(125) Ä‘tawā! pạbima‘kwaciwät ‘aᵉa’ᵘ ạmi‘k, mīgu iᵘ cigwa wạnäntạnk; ānutäbābạmāt ‘iᵉi’ᵘ mi‘tigōᵉ, mīsa’ kā∙i∙ciwạnäntạnk.</span>
 
-<span class="l-fiero">**Etawaa! Babimakwashiwed a’aw amik, mii go iw zhigwa wanendang; aano-tebaabamaad i’iw mitigoo, mii sa gaa-izhi-wanendang.**</span>
+<span class="l-fiero">**Etawaa! Babimakwashiwed a’aw amik, mii go iw zhigwa wanendang; aano-tebaabamaad i’iw mitigoon, mii sa gaa-izhi-wanendang.**</span>
 
 <span class="l-eng">*Alas! as down through the water the Beaver was going, then was when he became unconscious; (it was when) he tried in vain to get sight of the trees that he lost his wits.*</span>
 
-<span class="l-gloss">Etawaa! (alas!) Babimakwashiwed a’aw amik (as the beaver was making his way down through the water), mii go iw zhigwa wanendang (then he lost his senses); aano-tebaabamaad i’iw mitigoo (trying in vain to catch sight of the trees), mii sa gaa-izhi-wanendang (that was when he lost his wits).</span>
+<span class="l-gloss">Etawaa! (alas!) Babimakwashiwed a’aw amik (as the beaver was making his way down through the water), mii go iw zhigwa wanendang (then he lost his senses); aano-tebaabamaad i’iw mitigoon (trying in vain to catch sight of the trees), mii sa gaa-izhi-wanendang (that was when he lost his wits).</span>
 
 <span class="l-orig">(126) Mīsa’ Nänabucu, aya‘kawābit.</span>
 
@@ -1278,19 +1278,19 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(158) Tā, waja’ck ōsōᵘ ōdōmpinān; cayīgwa, kwạtcạk! inwäwägamicinōn.</span>
 
-<span class="l-fiero">**Taa, wazhashk oozoow oodoompinaan; zhayiigwa, ‘kwajak!’(4) inwewegamishinoon.**</span>
+<span class="l-fiero">**Taa, wazhashk oozoow oodoompinaan; zhayiigwa, ‘kwajak!’ inwewegamishinoon.**</span>
 
 <span class="l-eng">*Ay! the Muskrat lifted his tail; then “kwạtcạk!”(4) was the sound he made as he dived into the water.*</span>
 
-<span class="l-gloss">Taa, wazhashk oozoow oodoompinaan (ay! the muskrat lifted his tail); zhayiigwa, ‘kwajak!’(4) inwewegamishinoon (then ‘kwajak!’ was the sound he made diving in — *cry carried; footnote callout preserved*).</span>
+<span class="l-gloss">Taa, wazhashk oozoow oodoompinaan (ay! the muskrat lifted his tail); zhayiigwa, ‘kwajak!’ inwewegamishinoon (then ‘kwajak!’ was the sound he made diving in — *cry carried; footnote callout preserved*).</span>
 
 <span class="l-orig">(159) Ā‘tā’! waja’ck pabima‘kwaciwät, ningutingigu utäbābạmāᵉ mi‘tigōᵉ.</span>
 
-<span class="l-fiero">**Aataa! Wazhashk babimakwashiwed, ningoding igo odebaabamaa mitigoo.**</span>
+<span class="l-fiero">**Aataa! Wazhashk babimakwashiwed, ningoding igo odebaabamaan mitigoon.**</span>
 
 <span class="l-eng">*Ah! as the Muskrat was on his way through the water, he by and by came in sight of the trees.*</span>
 
-<span class="l-gloss">Aataa! (ah!) Wazhashk babimakwashiwed (as the muskrat made his way down through the water), ningoding igo odebaabamaa mitigoo (by and by he caught sight of the trees).</span>
+<span class="l-gloss">Aataa! (ah!) Wazhashk babimakwashiwed (as the muskrat made his way down through the water), ningoding igo odebaabamaan mitigoon (by and by he caught sight of the trees).</span>
 
 <span class="l-orig">(160) Kāwīn ānawi ā‘pidci a‘kwanābāwäsī.</span>
 
@@ -1398,11 +1398,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(173) Mīgu’ āca wī‘pimi∙ạ∙gwā‘tānit ‘iᵉi’ᵘ mạnidōwäncaᵉ, äjikanōwāt: “Bä‘kā, pāmā nawạtc miˢtcāg ạgwā‘tā‘käg.”</span>
 
-<span class="l-fiero">**Mii go aazha wii-bimi’agwaadaanid i’iw manidoowenzha, ezhi-ganoowaad: “Bekaa, baamaa nawaj michaag agwaadaakeg.”**</span>
+<span class="l-fiero">**Mii go aazha wii-bimi’agwaadaanid i’iw manidoowenzhan, ezhi-ganoowaad: “Bekaa, baamaa nawaj michaag agwaadaakeg.”**</span>
 
 <span class="l-eng">*Accordingly afterwards the small animal-folk were eager to go out  upon it, when he then spoke to them, saying: “Wait! not till it is  larger may you go out upon it.”*</span>
 
-<span class="l-gloss">Mii go aazha wii-bimi’agwaadaanid i’iw manidoowenzha (accordingly the small animal-folk were already eager to climb out onto it), ezhi-ganoowaad (when he spoke to them): “Bekaa, baamaa nawaj michaag agwaadaakeg (wait, not until it is larger may you go out on it).”</span>
+<span class="l-gloss">Mii go aazha wii-bimi’agwaadaanid i’iw manidoowenzhan (accordingly the small animal-folk were already eager to climb out onto it), ezhi-ganoowaad (when he spoke to them): “Bekaa, baamaa nawaj michaag agwaadaakeg (wait, not until it is larger may you go out on it).”</span>
 
 <span class="l-orig">(174) Mīnawā äjipōdādạnk, kiˢtciminis kī∙ạ∙gwantäni.</span>
 
@@ -1414,11 +1414,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(175) Mīdạc imā kiˢtcibā‘tạnīnạtinink kā∙i∙jibōtātạnk, mīsa cigwa pimādisīwạgänimunit ‘iᵉi’ᵘ mạnitōwäncaᵉ.</span>
 
-<span class="l-fiero">**Mii dash imaa gichi-baataniinadining gaa-izhi-boodaadang, mii sa zhigwa bimaadiziiwagenimonid i’iw manitoowenzha.**</span>
+<span class="l-fiero">**Mii dash imaa gichi-baataniinadining gaa-izhi-boodaadang, mii sa zhigwa bimaadiziiwagenimonid i’iw manitoowenzhan.**</span>
 
 <span class="l-eng">*And so upon the place where he had blown his breath there was much  earth, whereupon then began the little animal-kind to feel themselves secure.*</span>
 
-<span class="l-gloss">Mii dash imaa gichi-baataniinadining gaa-izhi-boodaadang (and so where he had blown his breath there was much earth), mii sa zhigwa bimaadiziiwagenimonid i’iw manitoowenzha (whereupon then the little animal-kind began to feel themselves secure).</span>
+<span class="l-gloss">Mii dash imaa gichi-baataniinadining gaa-izhi-boodaadang (and so where he had blown his breath there was much earth), mii sa zhigwa bimaadiziiwagenimonid i’iw manitoowenzhan (whereupon then the little animal-kind began to feel themselves secure).</span>
 
 <span class="l-orig">(176) Mīnawā mādci‘tā pạbwätātạnk ‘iᵉi’ᵘ a‘ki.</span>
 

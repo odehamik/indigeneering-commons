@@ -45,11 +45,11 @@ Nänabushu Swallowed by the Sturgeon (1)
 <span class="l-orig">(4) “Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘käyaᵘ.  
 Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
-<span class="l-fiero">**“Michiinamegwe *flagged*, binawakojii’an *flagged* i’ko’kayanh *flagged*. Michiinamegwe *flagged*, binawakojii’an *flagged* i’ko’zhayanh *flagged*.”**</span>
+<span class="l-fiero">**“Michiinamegwe *flagged*, binawakojii’an *flagged* ikokayanh *flagged*. Michiinamegwe *flagged*, binawakojii’an *flagged* ikozhayanh *flagged*.”**</span>
 
 <span class="l-eng">*“O big sturgeon! come swallow me, here is my decoy. O big sturgeon! come swallow me, here is my decoy.”*</span>
 
-<span class="l-gloss">“Michiinamegwe (O big sturgeon), binawakojii’an *flagged* (come swallow me), i’ko’kayanh *flagged* (here is my decoy). Michiinamegwe (O big sturgeon), binawakojii’an *flagged* (come swallow me), i’ko’zhayanh *flagged* (here is my decoy).” [song-vocables carried verbatim; the two lines differ only in käyaⁿ/cäyaⁿ as printed]</span>
+<span class="l-gloss">“Michiinamegwe (O big sturgeon), binawakojii’an *flagged* (come swallow me), ikokayanh *flagged* (here is my decoy). Michiinamegwe (O big sturgeon), binawakojii’an *flagged* (come swallow me), ikozhayanh *flagged* (here is my decoy).” [song-vocables carried verbatim; the two lines differ only in käyaⁿ/cäyaⁿ as printed]</span>
 
 <span class="l-orig">(5) Mīdạc i∙i∙mā na∙i∙tāg ayāt aᵉa´ᵘ micīnạmägwä. Māmwä‘tcidạc imā unowängigạnig mīsa imā siniguskāgut. Käga‘pi ingutci ānu∙i∙cā, mīsa´ untcita ‘iᵉi´ᵘ siniguskāgut ‘iᵉi´ᵘ migiskạn. Käga‘pīsa ogạnōnān ạdi‘kamägwạn:² “Adi‘kạmäg, ạmbāsạnō, nawatantama´ᵘ Nänabucu iwä wäwäbanābān.”</span>
 
@@ -65,11 +65,11 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-orig">(6) Kägä‘t äcinawatatạnk ‘iᵉi´ᵘ uwäwäbanābānini. Ki‘tciwīckāni ‘iᵉi´ᵘ owäwäbạnābān. Äjiwī‘kubidōt, “‘Ā‘tā, mīsa´ mīsa´, mīsa´ wā‘tiyān!” Cigwa omō‘kibinān ạdi‘kạmägwạn. “Isä,³ kāwīn kīn kīnantawänimisinōn! Kīwīnantān ‘iᵉi´ᵘ wäwäbanābān.”</span>
 
-<span class="l-fiero">**Geget ezhi-nawadandang i’iw owewebanaabaanini. Gichi-wiishkaani i’iw owewebanaabaan. Ezhi-wiikobidood, “Aataa, mii sa mii sa, mii sa waa-’idiyaan!” Zhigwa omookibinaan adikamegwan. “Ise, gaawiin giin ginandawenimisinoon! Giwii-nandaan i’iw wewebanaabaan.”**</span>
+<span class="l-fiero">**Geget ezhi-nawadandang i’iw owewebanaabaanini. Gichi-wiishkaani i’iw owewebanaabaan. Ezhi-wiikobidood, “Aataa, mii sa mii sa, mii sa waa-idiyaan!” Zhigwa omookibinaan adikamegwan. “Ise, gaawiin giin ginandawenimisinoon! Giwii-nandaan i’iw wewebanaabaan.”**</span>
 
 <span class="l-eng">*Truly then it seized that bobbing (hook) with its mouth. There was a hard pull on the bobbing (hook). When he pulled on it, “Ah, that’s it, that’s it, that’s what I want!” Presently he drew the Whitefish to the surface of the water. “Bah! I don’t want you. You befoul the bobbing (hook).”*</span>
 
-<span class="l-gloss">Geget ezhi-nawadandang i’iw owewebanaabaanini (truly it seized the bobbing hook with its mouth). Gichi-wiishkaani i’iw owewebanaabaan *flagged* (there was a hard pull on the bobbing hook). Ezhi-wiikobidood (when he pulled on it), “Aataa, mii sa mii sa, mii sa waa-’idiyaan! (ah, that’s it, that’s what I want! — *flagged*)” Zhigwa omookibinaan adikamegwan (presently he drew up the whitefish). “Ise (bah!), gaawiin giin ginandawenimisinoon (I don’t want you)! Giwii-nandaan *flagged* i’iw wewebanaabaan (you befoul the bobbing hook).”</span>
+<span class="l-gloss">Geget ezhi-nawadandang i’iw owewebanaabaanini (truly it seized the bobbing hook with its mouth). Gichi-wiishkaani i’iw owewebanaabaan *flagged* (there was a hard pull on the bobbing hook). Ezhi-wiikobidood (when he pulled on it), “Aataa, mii sa mii sa, mii sa waa-idiyaan! (ah, that’s it, that’s what I want! — *flagged*)” Zhigwa omookibinaan adikamegwan (presently he drew up the whitefish). “Ise (bah!), gaawiin giin ginandawenimisinoon (I don’t want you)! Giwii-nandaan *flagged* i’iw wewebanaabaan (you befoul the bobbing hook).”</span>
 
 *Isä, “Bah!” an exclamation of reproach; with most Ojibwa dialects it is uttered only by the feminine sex.*
 
@@ -101,11 +101,11 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-orig">(10) Tōkisäni iᵘ wäwäbạnābān. Äjiwī‘kubitōt Nänabucu uwawäbạnābān, mīsa´ nāsāo ä‘kitut: “Mīsa wā‘tiyān.” Omō‘kibạnān īni´ᵘ nạmägusạn. “Isä, kāwīn kīn kinạntawänimisinōn! Kīwinạntān ‘iᵉi´ᵘ niwäwäbạnābān.”</span>
 
-<span class="l-fiero">**Dookizeni i’iw wewebanaabaan. Ezhi-wiikobidood Naanabozho owewebanaabaan, mii sa naasaab ekidod: “Mii sa waa-’idiyaan.” Omookibanaan iniw namegosan. “Ise, gaawiin giin ginandawenimisinoon! Giwii-nandaan i’iw niwewebanaabaan.”**</span>
+<span class="l-fiero">**Dookizeni i’iw wewebanaabaan. Ezhi-wiikobidood Naanabozho owewebanaabaan, mii sa naasaab ekidod: “Mii sa waa-idiyaan.” Omookibanaan iniw namegosan. “Ise, gaawiin giin ginandawenimisinoon! Giwii-nandaan i’iw niwewebanaabaan.”**</span>
 
 <span class="l-eng">*There was a gentle pull on the bobbing (hook). As on his bobbing (hook) Nänabushu pulled, so the same thing as before he said: “This is what I want.” Out of the water he pulled the Trout. “Bah! you are not the one I want. You befoul my bobbing (hook).”*</span>
 
-<span class="l-gloss">Dookizeni i’iw wewebanaabaan (there was a gentle pull on the bobbing hook). Ezhi-wiikobidood Naanabozho owewebanaabaan (as Naanabozho pulled his bobbing hook), mii sa naasaab ekidod (the same as before he said): “Mii sa waa-’idiyaan (this is what I want — *flagged*).” Omookibanaan iniw namegosan (he drew up the trout). “Ise (bah!), gaawiin giin ginandawenimisinoon (you are not the one I want)! Giwii-nandaan i’iw niwewebanaabaan (you befoul my bobbing hook — *flagged*).”</span>
+<span class="l-gloss">Dookizeni i’iw wewebanaabaan (there was a gentle pull on the bobbing hook). Ezhi-wiikobidood Naanabozho owewebanaabaan (as Naanabozho pulled his bobbing hook), mii sa naasaab ekidod (the same as before he said): “Mii sa waa-idiyaan (this is what I want — *flagged*).” Omookibanaan iniw namegosan (he drew up the trout). “Ise (bah!), gaawiin giin ginandawenimisinoon (you are not the one I want)! Giwii-nandaan i’iw niwewebanaabaan (you befoul my bobbing hook — *flagged*).”</span>
 
 <span class="l-orig">(11) Mīnawā ubạgitạntān nạmägus. Äjimādcāt; tägwicing udōgimāmạn uganōnigōn. “Ānīc ä‘kitut?”</span>
 
@@ -215,11 +215,11 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-orig">(24) Änigu‘k mạdwägīgitōwạᵉ: “Äᵉ, mīsā‘pạnä kīnibut kitōgimāminān! Ānīc kägītōtawạnk? Mādcīnạcinā tākacki∙ā∙tcipimādisit. Intawāsagu mānu mī∙i´∙ᵘ kä∙i∙ci∙ạ∙yaguntcing.”</span>
 
-<span class="l-fiero">**Enigok madwe-gigidowa: “Ae, mii sa banaa giiniboo gidoogimaaminaan! Aaniish ge-gii-doodawang? Maajiina ji-naa daa-gashki’aa ji-bimaadizid. Indawaa sa go maanoo mii iw ge-izhi-ayagoonjing.”**</span>
+<span class="l-fiero">**Enigok madwe-gigidowan: “Ae, mii sa banaa giiniboo gidoogimaaminaan! Aaniish ge-gii-doodawang? Maajiina ji-naa daa-gashki’aa ji-bimaadizid. Indawaa sa go maanoo mii iw ge-izhi-ayagoonjing.”**</span>
 
 <span class="l-eng">*Loud sounded the voices of them, saying: “Yea, gone is our chief now dead! What can we do for him? It is difficult to be able to bring him back to life. So therefore he may just as well be left to drift upon the water.”*</span>
 
-<span class="l-gloss">Enigok madwe-gigidowa (loud sounded their voices): “Ae, mii sa banaa giiniboo gidoogimaaminaan! (yea, gone now, dead, is our chief!) Aaniish ge-gii-doodawang? (what can we do for him?) Maajiina ji-naa daa-gashki’aa ji-bimaadizid (it is hard to be able to bring him back to life). Indawaa sa go maanoo mii iw ge-izhi-ayagoonjing (so let him just drift upon the water).”</span>
+<span class="l-gloss">Enigok madwe-gigidowan (loud sounded their voices): “Ae, mii sa banaa giiniboo gidoogimaaminaan! (yea, gone now, dead, is our chief!) Aaniish ge-gii-doodawang? (what can we do for him?) Maajiina ji-naa daa-gashki’aa ji-bimaadizid (it is hard to be able to bring him back to life). Indawaa sa go maanoo mii iw ge-izhi-ayagoonjing (so let him just drift upon the water).”</span>
 
 <span class="l-orig">(25) Kumāgu ya‘pī äji∙ā∙bōskạntcisät.</span>
 
@@ -263,11 +263,11 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-orig">(30) “Kāwīn kuca ạnicā kīwī∙i∙nisinōn. Naskä kuca nāzibītā, mī∙i∙mā tciwâbamạt.”</span>
 
-<span class="l-fiero">**“Gaawiin gosha aanizhaa giwii-’inisinoon. Naske gosha naazibiitaa, mii imaa ji-waabamad.”**</span>
+<span class="l-fiero">**“Gaawiin gosha aanizhaa giwii-inisinoon. Naske gosha naazibiitaa, mii imaa ji-waabamad.”**</span>
 
 <span class="l-eng">*“Why, not a whit am I deceiving you. Just let us go down to the water, and there shall you see him.”*</span>
 
-<span class="l-gloss">“Gaawiin gosha aanizhaa giwii-’inisinoon (why, not a whit am I deceiving you). Naske gosha naazibiitaa (just let us go down to the water), mii imaa ji-waabamad (and there you shall see him).”</span>
+<span class="l-gloss">“Gaawiin gosha aanizhaa giwii-inisinoon (why, not a whit am I deceiving you). Naske gosha naazibiitaa (just let us go down to the water), mii imaa ji-waabamad (and there you shall see him).”</span>
 
 <span class="l-orig">(31) Kägä‘t ‘aᵉa´ᵘ mindimōyạ̈ äjināzibīt, ā‘taiyā, ki‘tcigīgōⁿyan.</span>
 

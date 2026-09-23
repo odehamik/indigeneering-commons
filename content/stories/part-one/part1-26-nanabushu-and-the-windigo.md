@@ -282,11 +282,11 @@ Nanabushu and Windigo
 
 <span class="l-orig">(34) Äjimādcāt icāt äcimīnāt; ō∙ō∙ udinān: “Tawa‘t, tawa‘t, tawa‘t!”¹</span>
 
-<span class="l-fiero">**Ezhi-maajaad izhaad ezhi-miinaad; o’ow odinaan: “Dawat, dawat, dawat!”(1)**</span>
+<span class="l-fiero">**Ezhi-maajaad izhaad ezhi-miinaad; o’ow odinaan: “Dawat, dawat, dawat!”**</span>
 
 <span class="l-eng">*Then he started going over to give it to (Wīndigo); this he said to him: “Oh, oh, oh!”(1)*</span>
 
-<span class="l-gloss">Ezhi-maajaad izhaad ezhi-miinaad (then he set off, going to give it to him); o’ow odinaan (this he said to him): “Dawat, dawat, dawat!”(1) (“Dawat, dawat, dawat!”(1))</span>
+<span class="l-gloss">Ezhi-maajaad izhaad ezhi-miinaad (then he set off, going to give it to him); o’ow odinaan (this he said to him): “Dawat, dawat, dawat!” (“Dawat, dawat, dawat!”)</span>
 
 <span class="l-orig">(35) Ä∙ī∙nditcin ‘aᵉa’ᵘ Nänabuco.</span>
 

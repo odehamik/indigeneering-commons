@@ -28,11 +28,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (3)
 
 <span class="l-orig">(2) “A‘ki yä‘kwāgwāgiyē nîmbicina∙u∙cin.”</span>
 
-<span class="l-fiero">**“Aki yä‘kwägwāgiyē nîmbicina∙u∙cin.”**</span>
+<span class="l-fiero">**“Aki yä‘kwāgwāgiyē nîmbicina∙u∙cin.”**</span>
 
 <span class="l-eng">*“From the ends of the world do I come with the sound of my rattles.”*</span>
 
-<span class="l-gloss">“Aki yä‘kwägwāgiyē nîmbicina∙u∙cin.” (song carried verbatim as printed; *song line — not converted; carried as sung*)</span>
+<span class="l-gloss">“Aki yä‘kwāgwāgiyē nîmbicina∙u∙cin.” (song carried verbatim as printed; *song line — not converted; carried as sung*)</span>
 
 <span class="l-orig">(3) Mīdạc kā∙i∙jināsi‘tawād, mīdạc kīwâbạmād mindimōyäyạn, omaka‘kīn; wīgubīn obimōndānạn, kayädac jicīgwạnạn ojägwānsonạn ‘aᵉaᵘ mindimōyäⁿ. Nänaboju∙o∙dec ogagwädcimān īni´ᵘ mindimōyā∙ạ∙n: “Ānīn, nō‘kimis, wā‘tōdạman īni´ᵘ wīgubīn?”</span>
 
@@ -78,13 +78,13 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (3)
 “‘A‘ki yä‘kwāgiyē nimbicina∙u∙cin.’”</span>
 
 <span class="l-fiero">**Mii dash mindimooye gii-dibaajimod: “Mii sa go iw ena’amaan nagamoyaan:”  
-“‘A‘ki yä‘kwägwāgiyē nimbicina∙u∙cin.’”**</span>
+“‘A‘ki yä‘kwāgiyē nimbicina∙u∙cin.’”**</span>
 
 <span class="l-eng">*Whereupon the old woman revealed (it), saying: “This is the way I usually sing when I sing:”  
 “‘From the ends of the world do I come with the sound of my rattles.’”*</span>
 
 <span class="l-gloss">Mii dash mindimooye gii-dibaajimod (and so the old woman told it): “Mii sa go iw ena’amaan nagamoyaan: (This indeed is what I sing when I sing:)”  
-“‘A‘ki yä‘kwägwāgiyē nimbicina∙u∙cin.’” (song carried verbatim as sung; *not converted*)</span>
+“‘A‘ki yä‘kwāgiyē nimbicina∙u∙cin.’” (song carried verbatim as sung; *not converted*)</span>
 
 <span class="l-orig">(9) Ā‘pī∙i∙dac ka´‘kina kāwīndạmāgut mī∙i´∙ᵘ kā∙i∙jinisāt. Mī∙i∙dạc kā∙i∙jipa‘kunāt mē∙i∙dec kā∙i∙i∙jipīzi‘kawād, mē∙i∙dạc kī∙o∙dā‘pinạng wīgobīn kīpîmōndạng; kayä dac jīcīgwạnạn ugījägwạsonạn. Mē∙i∙dạc kīmādcād äjāni‘pạn mîndimōyäyạn. Kayäwīndạc kī∙ạ∙ninạgamo:</span>
 
@@ -96,11 +96,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (3)
 
 <span class="l-orig">(10) “A‘ki yägwāgiyē nimbicina∙o∙cin.”</span>
 
-<span class="l-fiero">**“Aki yä‘kwägwāgiyē nimbicina∙o∙cin.”**</span>
+<span class="l-fiero">**“Aki yägwāgiyē nimbicina∙o∙cin.”**</span>
 
 <span class="l-eng">*“From the ends of the world do I come with the sound of my rattles.”*</span>
 
-<span class="l-gloss">“Aki yä‘kwägwāgiyē nimbicina∙o∙cin.” (song carried verbatim as sung; *not converted — note printed -o- here vs -u- in §2/§8, preserved as printed*)</span>
+<span class="l-gloss">“Aki yägwāgiyē nimbicina∙o∙cin.” (song carried verbatim as sung; *not converted — note printed -o- here vs -u- in §2/§8, preserved as printed*)</span>
 
 <span class="l-orig">(11) A‘pī∙i∙dạc tägwạcing ändānint ugîmāᵉ, mī∙i∙wâbạmād udōjîmạn owayānini kībîskwāndä īgạniwinint. Nänabuju owâbạmān tcītcipiskānit. Mēdac ä‘kidot: “Nîyā! nōjis, ījiwijiyu‘k ändạnạpiyān?”</span>
 
@@ -120,11 +120,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (3)
 
 <span class="l-orig">(13) Mē∙i∙dạc äjibībāgiwād: “Ä, mīsa kīnibowād mạnidōg! ‘Ā‘ā´ᵘ, mādcīdōyu‘k wīgobīn mi´ziwä a‘king ta∙i∙nābigạmanōn; mī∙i∙dạc tcigi‘känimint ānindi ayāgwän Nänabuju, kīcpin tōtō‘kābīgiskạng.” Mīdac ka´‘kina kā∙i∙jimādcāwād, kī‘pimābiginạmowād wīgobīn.</span>
 
-<span class="l-fiero">**Mii dash ezhi-biibaagiwaad: “Ä, mii sa gii-niboowaad manidoog! ‘Aaaw, maajiidooyok wiigobiin miziwe akiing da-inaabiiginamon*; mii dash ji-gikenimind aaniindi ayaagwen Nenabozho, giishpin doodookaabiigishkang.” Mii dash gakina gaa-izhi-maajaawaad, gii-bimaabiiginamowaad wiigobiin.**</span>
+<span class="l-fiero">**Mii dash ezhi-biibaagiwaad: “E, mii sa gii-niboowaad manidoog! ‘Aaaw, maajiidooyok wiigobiin miziwe akiing da-inaabiiginamon*; mii dash ji-gikenimind aaniindi ayaagwen Nenabozho, giishpin doodookaabiigishkang.” Mii dash gakina gaa-izhi-maajaawaad, gii-bimaabiiginamowaad wiigobiin.**</span>
 
 <span class="l-eng">*And then they cried aloud: “Alas! now dead are the manitous. Now, then, take you the linden-bark (twine) everywhere over the earth, and string it around; for then it will be known where Nänabushu is, should he happen to step into it (and be caught).” Thereupon they all started away, laying the linden-bark twine.*</span>
 
-<span class="l-gloss">Mii dash ezhi-biibaagiwaad (and so they cried aloud): “Ä, mii sa gii-niboowaad manidoog! (Alas, now the manitous are dead!) ‘Aaaw, maajiidooyok wiigobiin miziwe akiing da-inaabiiginamon (Come, take the linden-bark twine and string it everywhere over the earth — *inaabiigin- ‘string as cord’, flagged*); mii dash ji-gikenimind aaniindi ayaagwen Nenabozho (that is how it will be known where Nänabushu is), giishpin doodookaabiigishkang (should he step and pull the cord — *form flagged*).” Mii dash gakina gaa-izhi-maajaawaad (and so they all set out), gii-bimaabiiginamowaad wiigobiin (stringing the linden-bark twine along).</span>
+<span class="l-gloss">Mii dash ezhi-biibaagiwaad (and so they cried aloud): “E, mii sa gii-niboowaad manidoog! (Alas, now the manitous are dead!) ‘Aaaw, maajiidooyok wiigobiin miziwe akiing da-inaabiiginamon (Come, take the linden-bark twine and string it everywhere over the earth — *inaabiigin- ‘string as cord’, flagged*); mii dash ji-gikenimind aaniindi ayaagwen Nenabozho (that is how it will be known where Nänabushu is), giishpin doodookaabiigishkang (should he step and pull the cord — *form flagged*).” Mii dash gakina gaa-izhi-maajaawaad (and so they all set out), gii-bimaabiiginamowaad wiigobiin (stringing the linden-bark twine along).</span>
 
 <span class="l-orig">(14) A‘pī∙i∙däc ka´‘kina kāmādcāwād, Nänabuju ogīpigiskijwān kīstcitcibā‘kwä mạnidōwiyās. A‘pī∙i∙dạc kā‘kīzizä‘kwäd, ugī∙ạ∙ndumān ạbînōdcīyạn, mēidạc gī∙ạ∙cạmād. Päji‘kidac ạbînōdcīyạn ogīki‘känimigōn Nänabuju ayāwît ta‘pābiwạn. Mīdạc änād: “Pä‘kā, nicīmä, kägu dibādcimō‘kän!”</span>
 
@@ -172,11 +172,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (3)
 
 <span class="l-orig">(19) Nīⁿjwāswi ä‘tᵃ kī‘pōsiwạg imāⁿ pīndazāgạning a‘pī kāni‘kipīg a‘ki. Mīdac îmāⁿ kī∙a∙yāwād pīndisāgạning; ānīndidạc gayä awäsīyạn ogīpōzi∙ā∙n, pînäjīⁿyaᵉ, ạnōdc gayä awīya päbāmisätcig. A‘pī∙i∙dạc kînwāⁿj äyāwād îmāⁿ pindạzāgạning, ogīkạnōnān nä‘tāgōgīnit: “Gitākạski‘tōnāwāna pạngī a‘ki? Kīcpin pīdōyäg, nindā∙u∙ji‘tōn a‘ki.”</span>
 
-<span class="l-fiero">**Niizhwaaswi eta gii-booziwag imaa biindazaaganing apii gaa-ani-gibiig* aki. Mii dash imaa gii-ayaawaad biindisaaganing; aaniind-idash gaye awesiyan ogii-booziaan, bineshiinyan*, anooj gaye awiya bebaamisejig. Aapii-idash giinwaazh eyaawaad imaa biindazaaganing, ogii-ganoonaan netaagoogiinid: “Gidaa-gashki’toonaawaa ina bangii aki? Giishpin biidooyeg, nindaa-ozhitoon aki.”**</span>
+<span class="l-fiero">**Niizhwaaswi eta gii-booziwag imaa biindazaaganing apii gaa-ani-gibiig* aki. Mii dash imaa gii-ayaawaad biindisaaganing; aaniind-idash gaye awesiyan ogii-booziaan, bineshiinyan*, anooj gaye awiya bebaamisejig. Aapii-idash giinwaazh eyaawaad imaa biindazaaganing, ogii-ganoonaan netaagoogiinid: “Gidaa-gashkitoonaawaa ina bangii aki? Giishpin biidooyeg, nindaa-ozhitoon aki.”**</span>
 
 <span class="l-eng">*Seven only embarked upon that raft when the earth was flooded over with water. And so they remained there on the raft; some game-folk, too, he put aboard, birds, and all the various creatures that fly about in the air. And after they had been a long while on the raft, he spoke to them that were good at diving: “Can you procure a little earth? If you fetch it to me I would create an earth.”*</span>
 
-<span class="l-gloss">Niizhwaaswi eta gii-booziwag imaa biindazaaganing (only seven embarked there on the raft — *Nīⁿjwāswi ‘seven’; ä‘tᵃ ‘only’*) apii gaa-ani-gibiig aki (when the earth was flooded over — *gibiig/ka‘kipīg ‘flooded shut’, flagged*). Mii dash imaa gii-ayaawaad biindisaaganing (and so they stayed there on the raft); aaniind-idash gaye awesiyan ogii-booziaan (and some animals too he put aboard — *awesiinh ‘animal/game’*), bineshiinyan (birds), anooj gaye awiya bebaamisejig (and all sorts that fly about — *babaamise- ‘fly about’*). Aapii-idash giinwaazh eyaawaad imaa biindazaaganing (and after they had been a long while on the raft), ogii-ganoonaan netaagoogiinid (he spoke to those good at diving — *netaa-googii- ‘be expert at diving’*): “Gidaa-gashki’toonaawaa ina bangii aki? (Could you get a little earth?) Giishpin biidooyeg, nindaa-ozhitoon aki. (If you bring it, I would make an earth.)”</span>
+<span class="l-gloss">Niizhwaaswi eta gii-booziwag imaa biindazaaganing (only seven embarked there on the raft — *Nīⁿjwāswi ‘seven’; ä‘tᵃ ‘only’*) apii gaa-ani-gibiig aki (when the earth was flooded over — *gibiig/ka‘kipīg ‘flooded shut’, flagged*). Mii dash imaa gii-ayaawaad biindisaaganing (and so they stayed there on the raft); aaniind-idash gaye awesiyan ogii-booziaan (and some animals too he put aboard — *awesiinh ‘animal/game’*), bineshiinyan (birds), anooj gaye awiya bebaamisejig (and all sorts that fly about — *babaamise- ‘fly about’*). Aapii-idash giinwaazh eyaawaad imaa biindazaaganing (and after they had been a long while on the raft), ogii-ganoonaan netaagoogiinid (he spoke to those good at diving — *netaa-googii- ‘be expert at diving’*): “Gidaa-gashkitoonaawaa ina bangii aki? (Could you get a little earth?) Giishpin biidooyeg, nindaa-ozhitoon aki. (If you bring it, I would make an earth.)”</span>
 
 <span class="l-orig">(20) Ni‘tamidạc aᵘ aⁿwäⁿyạn odānạgī∙a∙nōnān tcīgōgīnit, kāwīndạc ogī‘tä∙u∙di‘tazīn a‘ki; kīnōndäkisābāwe. Usagābini‘kānān īni´ᵘ wī´gup, mī∙i∙gu ka´‘kina kā‘tōtawād, cīcī∙i∙bạn gayä māngwạn gayä āmi‘kwạn. Mēdạc kimōjskinisät, mīnawā bēijik cīcībạn, māngwạn, mīgu gayä wîn kā∙i∙jiwäbisinit. Kāwīn ogīkạski‘tōsīnāwa a‘ki.</span>
 

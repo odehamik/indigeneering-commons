@@ -28,11 +28,11 @@ Old Man Mashos.
 
 <span class="l-orig">(2) Ningudingidạc i‘kidō ‘aᵉa´ᵘ īnini:</span>
 
-<span class="l-fiero">**Naningoding idash ikido a’aw inini:**</span>
+<span class="l-fiero">**Ningoding idash ikido a’aw inini:**</span>
 
 <span class="l-eng">*Now, once said the man:*</span>
 
-<span class="l-gloss">Naningoding idash (now once in a while) ikido a’aw inini (the man said):</span>
+<span class="l-gloss">Ningoding idash (now once in a while) ikido a’aw inini (the man said):</span>
 
 <span class="l-orig">(3) “A‘pägic ki‘kändạmān ningudci ayāwād kayāckwạg!</span>
 
@@ -180,11 +180,11 @@ Old Man Mashos.
 
 <span class="l-orig">(21) Ogạnōnāᵉ kayāckwaᵉ:</span>
 
-<span class="l-fiero">**Oganoonaa’ gayaashkwan:**</span>
+<span class="l-fiero">**Oganoonaan gayaashkwan:**</span>
 
 <span class="l-eng">*He spoke to the Gulls, saying:*</span>
 
-<span class="l-gloss">Oganoonaa’ gayaashkwan: (he spoke to the gulls:)</span>
+<span class="l-gloss">Oganoonaan gayaashkwan: (he spoke to the gulls:)</span>
 
 <span class="l-orig">(22) “ ‘A‘a´ᵘ, kidạcamininim ‘aᵉa´ᵘ inini!</span>
 
@@ -244,11 +244,11 @@ Old Man Mashos.
 
 <span class="l-orig">(29) Ogīgạnōnāᵉ idạc kayāckwaᵉ ‘aᵉa´ᵘ inini tcîgīwäwinigut.</span>
 
-<span class="l-fiero">**Ogii-ganoonaa’ idash gayaashkwan a’aw inini ji-giiwewinigod.**</span>
+<span class="l-fiero">**Ogii-ganoonaan idash gayaashkwan a’aw inini ji-giiwewinigod.**</span>
 
 <span class="l-eng">*Then to the Gulls the man spoke, asking them to fetch him back home.*</span>
 
-<span class="l-gloss">Ogii-ganoonaa’ idash gayaashkwan a’aw inini (then the man spoke to the gulls) ji-giiwewinigod (to be carried back home).</span>
+<span class="l-gloss">Ogii-ganoonaan idash gayaashkwan a’aw inini (then the man spoke to the gulls) ji-giiwewinigod (to be carried back home).</span>
 
 <span class="l-orig">(30) Mī∙i∙´ᵘ käᵉgä‘t äjipimiwinigut päᵉjik kistcigayāckwạn.</span>
 
@@ -1132,11 +1132,11 @@ Old Man Mashos.
 
 <span class="l-orig">(140) “Ē‘ēⁱ, na∙ā∙ngī, nindōsāmabōn mē a‘pạnä!”</span>
 
-<span class="l-fiero">**“E’e’, na’aangii, nindoozaamaboon mii apane!”**</span>
+<span class="l-fiero">**“E’ey, na’aangii, nindoozaamaboon mii apane!”**</span>
 
 <span class="l-eng">*“O son-in-law! I am going down too far!”*</span>
 
-<span class="l-gloss">“E’e’, na’aangii, nindoozaamaboon mii apane!” (“oh, son-in-law, I am sliding down too far, away forever!”)</span>
+<span class="l-gloss">“E’ey, na’aangii, nindoozaamaboon mii apane!” (“oh, son-in-law, I am sliding down too far, away forever!”)</span>
 
 <span class="l-orig">(141) Kī‘pigīwä ‘aᵉa´ᵘ inini.</span>
 
@@ -1500,10 +1500,10 @@ Old Man Mashos.
 
 <span class="l-orig">(186) Mīsaⁱ ä‘kōsit.</span>
 
-<span class="l-fiero">**Mii sa i’ ekoozid.**</span>
+<span class="l-fiero">**Mii sa i ekoozid.**</span>
 
 <span class="l-eng">*That is as far as (the story) goes.*</span>
 
-<span class="l-gloss">Mii sa i’ ekoozid (that is as far as the story goes).</span>
+<span class="l-gloss">Mii sa i ekoozid (that is as far as the story goes).</span>
 
 </div>

@@ -28,7 +28,7 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(2) “Piyä‘kwā nimbicinawicin cāⁿ.”</span>
 
-<span class="l-fiero">**“Piyä‘kwä nimbicinawicin caⁿ.”**</span>
+<span class="l-fiero">**“Piyä‘kwā nimbicinawicin cāⁿ.”**</span>
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, shaⁿ.”*</span>
 
@@ -44,7 +44,7 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(4) “Piyä‘kwā nīmbicinawicin cāⁿ.”</span>
 
-<span class="l-fiero">**“Piyä‘kwä nimbicinawicin caⁿ.”**</span>
+<span class="l-fiero">**“Piyä‘kwā nimbicinawicin cāⁿ.”**</span>
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, shaⁿ.”*</span>
 
@@ -134,7 +134,7 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(15) “Piyä‘kwā nimbicinawicin cāⁿ.”</span>
 
-<span class="l-fiero">**“Piyä‘kwä nimbicinawicin caⁿ.”**</span>
+<span class="l-fiero">**“Piyä‘kwā nimbicinawicin cāⁿ.”**</span>
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, shaⁿ.”*</span>
 
@@ -160,7 +160,7 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(18) “Piyä‘kwā nimbicinawicin cāⁿ.”</span>
 
-<span class="l-fiero">**“Piyä‘kwä nimbicinawicin caⁿ.”**</span>
+<span class="l-fiero">**“Piyä‘kwā nimbicinawicin cāⁿ.”**</span>
 
 <span class="l-eng">*“From the ends of the earth do I come with the sound of my rattles, shaⁿ.”*</span>
 
@@ -208,11 +208,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(24) “Nyā, nōcis, kānạ mī∙i’∙ᵘ ä‘pōsoyān īni’ᵘ wīgupīn icī‘kạmān kägạbägījik pimina‘kwātạmān,” utināᵉ i∙i∙ᵘ ōcicäⁿy∙aᵉ.</span>
 
-<span class="l-fiero">**“Nya, noozhis, gaa na mii iw e-boosoyaan iniw wiigobiin ishkamaan* gegabe-giizhig biminakwaadamaan,” odinaa iniw ozhishenyan.**</span>
+<span class="l-fiero">**“Nya, noozhis, gaa na mii iw e-boosoyaan iniw wiigobiin ishkamaan* gegabe-giizhig biminakwaadamaan,” odinaan iniw ozhishenyan.**</span>
 
 <span class="l-eng">*“Ah, my grandchild! that was how I rubbed myself when working with the bast, as throughout the whole of every day I was making twine,” she said to her grandchildren.*</span>
 
-<span class="l-gloss">Nya, noozhis, (ah, my grandchild) ∙ gaa na mii iw e-boosoyaan iniw wiigobiin (that is how I rubbed myself working the bast) ∙ ishkamaan gegabe-giizhig (taking it up all day long — *stem flagged, 18-L-24*) ∙ biminakwaadamaan (making twine) ∙ odinaa iniw ozhishenyan (she said to her grandchildren)</span>
+<span class="l-gloss">Nya, noozhis, (ah, my grandchild) ∙ gaa na mii iw e-boosoyaan iniw wiigobiin (that is how I rubbed myself working the bast) ∙ ishkamaan gegabe-giizhig (taking it up all day long — *stem flagged, 18-L-24*) ∙ biminakwaadamaan (making twine) ∙ odinaan iniw ozhishenyan (she said to her grandchildren)</span>
 
 <span class="l-orig">(25) Mīdạc pī∙u∙t tcibisạgạswä∙i∙nt. Cigwa unāgucinini. Cayīgwa kägä‘t pīdäwācinōn, cigwa pīta‘pābiwạn. “Nō‘ko, awisạgạswān,” pī∙i∙‘kitōwạn. Mīdạc kägä‘t änicimādcāt. Cayīgwa udäbābạndān ‘iᵉi’ᵘ ändānit, ugīwâbạmān odōcimạn kibickwāntä∙i∙gäwint. Mīgu’ ∙i∙ᵘ ānawi äci∙a∙īnābinit, kägāgu mawi. Ạnicāgu ạntạgäntasik kāwīn untcimawisī äcipīndigät. Tcigwa kā∙u∙nabit, awänibạn käwâbạmat.</span>
 
@@ -256,11 +256,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(30) Äcini‘kipīnit i∙i∙ᵘ mi‘tigōᵉ, mīsa’ a‘panä kägä‘t unāwändān wâsa anāmīndîm a‘ki ayānik. Ōwâbạmā ayānit pämātagānit ạnōtc awäsīyaᵉ. Mīsa wīpōsiwaᵉ ‘iᵉ∙i∙māⁿ utcīmāning, mīsa’ äcī‘kunīcawāt. “Pä‘kā,” udināᵉ. “Pānimā pīcā‘käg,” udināᵉ. Mīsa cigwa kī∙i∙nändạnk: “Ānīn käcictcigäyān awägwän käbītōt ‘iᵉi’ᵘ a‘ki?” kī∙i∙nändạm. Cigwa ugī‘kạnōnāᵉ ‘iᵉi’ᵘ mạnitōwäⁿca, mīdạc ni‘tạm nigigwạn: “Kāwīnina kītānāsi‘kaⁿsīn ‘iᵉi’ᵘ a‘ki?” udinān.</span>
 
-<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-boozigwaa imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaag. “Baanimaa biizhaakeg,” odinaag. Mii sa zhigwa gii-inendang: “Aaniin ge-izhichigeyaan awegwen ge-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaag iw manidoowenza’, mii dash nitam nigigwan: “Gaawiinina gidaa-naazikanzin iw aki?” odinaan.**</span>
+<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-boozigwaa imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaag. “Baanimaa biizhaakeg,” odinaag. Mii sa zhigwa gii-inendang: “Aaniin ge-izhichigeyaan awegwen ge-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaag iw manidoowenza, mii dash nitam nigigwan: “Gaawiinina gidaa-naazikanzin iw aki?” odinaan.**</span>
 
 <span class="l-eng">*When the water overflowed the trees, then at once he truly realized what a long way down in the water the earth was. He saw all kinds of game-folk swimming around. And when they wished to go aboard his raft, he kept them off. “Wait,” he said to them. “Not till after a while do you come,” he said to them. And so he then thought: “How shall I do (to select) what one is to fetch some earth?” he thought. Presently he spoke to the smaller animal-folk, and so the first was the Otter: “Would you not go after some earth?” he said to him.*</span>
 
-<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-boozigwaa imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin ge-izhichigeyaan awegwen ge-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaag iw manidoowenza’ (he spoke to the lesser animal-folk) ∙ nitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazikanzin iw aki (would you not go after the earth) ∙ odinaag (he said to him)</span>
+<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-boozigwaa imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin ge-izhichigeyaan awegwen ge-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaag iw manidoowenza (he spoke to the lesser animal-folk) ∙ nitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazikanzin iw aki (would you not go after the earth) ∙ odinaag (he said to him)</span>
 
 <span class="l-orig">(31) Mīsa gägä‘t kā∙i∙cigōgīnit. Ningutingigu awäyāt kī∙u∙ndci∙ā∙pōckạndcisäwạn, kānisābāwänigwän. Kā∙i∙cipạbwätānāt, kā∙i∙cigagwätcimāt: “Ānīn?” ugī∙i∙nān.</span>
 

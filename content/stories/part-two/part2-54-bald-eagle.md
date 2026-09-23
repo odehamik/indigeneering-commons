@@ -36,10 +36,10 @@ BALD-EAGLE.
 
 <span class="l-orig">(3) Cigwa wīnōniwaᵉ utcīting udini‘kwänā; kābakaskạmigutigu, pinäwītcīt . . .</span>
 
-<span class="l-fiero">**Zhigwa wii-nooniwag ojiiding odinikwenaa’; gaa-bakaskamigod* igo, binewi-jiid . . .**</span>
+<span class="l-fiero">**Zhigwa wii-nooniwag ojiiding odinikwenaa; gaa-bakaskamigod* igo, binewi-jiid . . .**</span>
 
 <span class="l-eng">*When they desired to suck, down to her buttocks she put their heads; and when the sound of their mouths was heard while she was being sucked, then the buttocks of the ruffed grouse . . .*</span>
 
-<span class="l-gloss">Zhigwa wii-nooniwag (when they wanted to nurse) ojiiding (down at her rump) odinikwenaa’ (she put their heads); gaa-bakaskamigod* igo (and when the sound of their mouths was heard while she was being sucked), binewi-jiid (the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).</span>
+<span class="l-gloss">Zhigwa wii-nooniwag (when they wanted to nurse) ojiiding (down at her rump) odinikwenaa (she put their heads); gaa-bakaskamigod* igo (and when the sound of their mouths was heard while she was being sucked), binewi-jiid (the ruffed grouse’s rump) . . . (*the closing that leaves the story to the listener’s wondering*).</span>
 
 </div>

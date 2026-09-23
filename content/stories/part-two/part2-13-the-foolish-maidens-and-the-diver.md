@@ -192,11 +192,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(22) Ạ‘pī∙i∙dạc kwäckusiwād kigijäp päpäjik ininiwa owī‘pämāwād; ‘aᵉaᵘ wäcīmä∙i∙mind uskinawän owī‘pämān, awidạc wämisäⁿ∙i∙mind ā‘pitci a‘kiwäⁿzīyạn owī‘pämān.</span>
 
-<span class="l-fiero">**Apii idash gweshkoziwaad gigizheb bebezhig ininiwa’ owiipemaawaad; a’aw weshiime’imind oshkinawen owiipemaan, aw idash wemisenimind aapiji akiwenziiyan owiipemaan.**</span>
+<span class="l-fiero">**Apii idash gweshkoziwaad gigizheb bebezhig ininiwa owiipemaawaad; a’aw weshiime’imind oshkinawen owiipemaan, aw idash wemisenimind aapiji akiwenziiyan owiipemaan.**</span>
 
 <span class="l-eng">*And when they woke in the morning, each was lying in bed with a man; she that was the younger lay with a youth, and she that was the elder lay with an exceedingly aged man.*</span>
 
-<span class="l-gloss">Apii idash gweshkoziwaad gigizheb (and when they woke in the morning) bebezhig ininiwa’ owiipemaawaan (each was lying with a man); a’aw weshiime’imind (she who was the younger) oshkinawen owiipemaan (lay with a young man), aw idash wemisenimind (and she who was the elder) aapiji akiwenziiyan owiipemaan (lay with a very old man).</span>
+<span class="l-gloss">Apii idash gweshkoziwaad gigizheb (and when they woke in the morning) bebezhig ininiwa owiipemaawaan (each was lying with a man); a’aw weshiime’imind (she who was the younger) oshkinawen owiipemaan (lay with a young man), aw idash wemisenimind (and she who was the elder) aapiji akiwenziiyan owiipemaan (lay with a very old man).</span>
 
 <span class="l-orig">(23) Mī∙i∙´ᵘ kī∙o∙dā‘pinigowād icpîming ạnạngōᵉ, mī∙i∙dạc kīwīdciwāwād.</span>
 
@@ -688,11 +688,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(84) ‘Ēᵉ ēⁱ, kwīngwa∙ā∙gä cigwa pīdcipa‘tō!</span>
 
-<span class="l-fiero">**E’ e’, gwiingwa’aage zhigwa biiji-batoo!**</span>
+<span class="l-fiero">**E e, gwiingwa’aage zhigwa biiji-batoo!**</span>
 
 <span class="l-eng">*Oh, how Wolverene then came running (back)!*</span>
 
-<span class="l-gloss">E’ e’, gwiingwa’aage zhigwa biiji-batoo (oh, how the wolverine came running back)!</span>
+<span class="l-gloss">E e, gwiingwa’aage zhigwa biiji-batoo (oh, how the wolverine came running back)!</span>
 
 <span class="l-orig">(85) ‘Āᵒ, i‘kwäwạg änigu‘pimipa‘tōwạg!</span>
 
@@ -704,7 +704,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(86) Ā, cigwa päcu’ kwīngwa∙ā∙gä!</span>
 
-<span class="l-fiero">**’Aa, zhigwa besho gwiingwa’aage!**</span>
+<span class="l-fiero">**Aa, zhigwa besho gwiingwa’aage!**</span>
 
 <span class="l-eng">*My, but how close now was Wolverene!*</span>
 
@@ -1340,7 +1340,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(165) “Cingibis, kiwâskätiyä.”</span>
 
-<span class="l-fiero">**“Zhingibis giwaaskediye =>giwaabishkidiye.”**</span>
+<span class="l-fiero">**“Zhingibis giwaaskediye.”**</span>
 
 <span class="l-eng">*(But they said instead), “Diver, you are white about the buttocks.”*</span>
 
@@ -1712,7 +1712,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(211) ‘Aᵉa´widac uta‘kwạmigōn äbigōn, mēdạc ä‘kidot:</span>
 
-<span class="l-fiero">**A’aw idash odakwamigoon ebigoon => enigoon, mii dash ekidod:**</span>
+<span class="l-fiero">**A’aw idash odakwamigoon ebigoon, mii dash ekidod:**</span>
 
 <span class="l-eng">*Now, he was bitten by some ants, whereupon he said:*</span>
 
@@ -1760,7 +1760,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(217) Mī∙i∙dạc kī∙i∙jāt usayäⁿyan nibānit; mēdạc tāwạninit kī∙a∙‘tōd ‘iᵉi´ᵘ asinīⁿs mskwāpi‘kidänig, pīndcigunäwa.</span>
 
-<span class="l-fiero">**Mii dash gii-izhaad osayenyan nibaanid; mii dash daawaninid gii-atood i’iw asiniins miskwaabikidenig, biinjigonewa => biinjidoonewa.**</span>
+<span class="l-fiero">**Mii dash gii-izhaad osayenyan nibaanid; mii dash daawaninid gii-atood i’iw asiniins miskwaabikidenig, biinjigonewa.**</span>
 
 <span class="l-eng">*Whereupon he went to where his elder brother was asleep; and so in where his mouth was open he placed the pebble which had been heated red, inside of his mouth he put it.*</span>
 
@@ -1792,7 +1792,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(221) “Kīcpin ki‘kändạng cingibis kīnibōnit usayäⁿyạn tạmizidizu.”</span>
 
-<span class="l-fiero">**“Giishpin gikendang zhingibis gii-nibonid osayenyan da-mizidizo =>da-nisidizo.”**</span>
+<span class="l-fiero">**“Giishpin gikendang zhingibis gii-nibonid osayenyan da-mizidizo.”**</span>
 
 <span class="l-eng">*“When Diver learns that his elder brother is dead, he will kill himself.”*</span>
 
@@ -1832,7 +1832,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(226) ‘Aᵘ cingibis ogī∙a∙‘tōn odạpwi pimidasāng; nāgạtcidạc kī∙o∙niskā, mēdạc kī∙o∙dā‘pinạng mō‘komān cāyägwāgusininik; mīdạc papạjiba∙u∙disut nīdawaya∙ī∙; mī∙i∙dec kā∙i∙jikonạpisät.</span>
 
-<span class="l-fiero">**Aw zhingibis ogii-atoon odapwi bimidasaang; naagaj idash gii-onishkaa, mii dash gii-odaapinang mookomaan zhayegwagosininig  =>zhayegosininig; mii dash babaazhiba’odizod niidawaya’ii; mii dash gaa-izhi-gonabised.**</span>
+<span class="l-fiero">**Aw zhingibis ogii-atoon odapwi bimidasaang; naagaj idash gii-onishkaa, mii dash gii-odaapinang mookomaan zhayegwagosininig; mii dash babaazhiba’odizod niidawaya’ii; mii dash gaa-izhi-gonabised.**</span>
 
 <span class="l-eng">*Diver placed his paddle resting across the canoe; and by and by he rose, upon which he took a knife that had been sticking up at the side of the canoe; thereupon he stabbed himself on both sides, and then over he went with the canoe.*</span>
 
@@ -1952,7 +1952,7 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(241) Mī∙i∙dạc kīkīnạndawâbamāwād.</span>
 
-<span class="l-fiero">**Mii dash gii-gii-nandawaabamaawaad =>gii-nandawaabamaawaad.**</span>
+<span class="l-fiero">**Mii dash gii-gii-nandawaabamaawaad.**</span>
 
 <span class="l-eng">*Thereupon they started looking for him.*</span>
 

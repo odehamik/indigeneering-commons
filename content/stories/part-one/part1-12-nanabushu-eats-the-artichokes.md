@@ -250,11 +250,11 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(30) — “Mīdạc ‘iᵉi’ᵘ mī‘tagīni’ᵘ kā∙i∙ciwāt nicīmäyạgsa kībiwâbamạgwā īgi’ⁿ ackipwāg.¹ ‘Nimpōgisi‘kākämin,’ ningī∙i∙gōg.</span>
 
-<span class="l-fiero">**Mii dash i’iw miitagiini’w gaa-izhiwaad nishiimeyag sa gii-bi-waabamagwaa igi’n ashkipwaag. ‘nimboogizikaagemin,’ ningii-igoog.**</span>
+<span class="l-fiero">**Mii dash i’iw miitagiiniw gaa-izhiwaad nishiimeyag sa gii-bi-waabamagwaa igin ashkipwaag. ‘nimboogizikaagemin,’ ningii-igoog.**</span>
 
 <span class="l-eng">*“Why, this was just what my little brothers told me when I saw the artichokes.¹ ‘We make people windy in the stomach,’ I was told.*</span>
 
-<span class="l-gloss">Mii dash i’iw miitagiini’w (why, this is just the very thing — *particle flagged*) gaa-izhiwaad nishiimeyag (that my little brothers said) sa gii-bi-waabamagwaa igi’n ashkipwaag (when I came and saw those artichokes). ‘nimboogizikaagemin,’ (‘we make people windy in the stomach,’) ningii-igoog (I was told by them).</span>
+<span class="l-gloss">Mii dash i’iw miitagiiniw (why, this is just the very thing — *particle flagged*) gaa-izhiwaad nishiimeyag (that my little brothers said) sa gii-bi-waabamagwaa igin ashkipwaag (when I came and saw those artichokes). ‘nimboogizikaagemin,’ (‘we make people windy in the stomach,’) ningii-igoog (I was told by them).</span>
 
 *Ackipwāg, “artichokes;” literally, “raw objects.”*
 

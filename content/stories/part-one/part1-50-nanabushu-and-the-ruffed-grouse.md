@@ -43,11 +43,11 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-orig">(4) “Nābisa∙a∙ kuckungäsi!” i‘kidō Nänabujū.</span>
 
-<span class="l-fiero">**„Naabisa’a goshkogesi!” ikido Nenaboozhoo.**</span>
+<span class="l-fiero">**“Naabisa’a goshkogesi!” ikido Nenaboozhoo.**</span>
 
 <span class="l-eng">*„The deuce! she is a frightener,” said Nänabushu.*</span>
 
-<span class="l-gloss">„Naabisa’a (the deuce!) goshkogesi! (a frightener!)” ikido (said) Nenaboozhoo (Nänabushu).</span>
+<span class="l-gloss">“Naabisa’a (the deuce!) goshkogesi! (a frightener!)” ikido (said) Nenaboozhoo (Nänabushu).</span>
 
 <span class="l-orig">(5) Mēdạc kā∙i∙jimīdcinād, mīdạc kī∙ạ∙nimādcād.</span>
 
@@ -59,19 +59,19 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-orig">(6) A‘pī∙i∙dạc tägucing kîstcipinä owâbạmāᵉ unīdcānisaᵉ mōwiwinit. “Awänän kā‘tōtōnäg?”</span>
 
-<span class="l-fiero">**Apii idash degoshing gichi-bine owaabamaan oniijaanisan moowiwinid. „Awenen gaa-toodooneg?”**</span>
+<span class="l-fiero">**Apii idash degoshing gichi-bine owaabamaan oniijaanisan moowiwinid. “Awenen gaa-toodooneg?”**</span>
 
 <span class="l-eng">*Now, when home was come the old Ruffed Grouse, she saw her children covered with dung. “Who did that to you?”*</span>
 
-<span class="l-gloss">Apii idash (now, when) degoshing (she arrived home) gichi-bine (the old Ruffed Grouse) owaabamaan (she saw them) oniijaanisan (her children) moowiwinid (being covered with dung). „Awenen (who) gaa-toodooneg? (did that to you?)”</span>
+<span class="l-gloss">Apii idash (now, when) degoshing (she arrived home) gichi-bine (the old Ruffed Grouse) owaabamaan (she saw them) oniijaanisan (her children) moowiwinid (being covered with dung). “Awenen (who) gaa-toodooneg? (did that to you?)”</span>
 
 <span class="l-orig">(7) “Nänabuju ningīmīdcinigunān.”</span>
 
-<span class="l-fiero">**„Nenaboozhoo ningii-miijinigonaan.”**</span>
+<span class="l-fiero">**“Nenaboozhoo ningii-miijinigonaan.”**</span>
 
 <span class="l-eng">*“By Nänabushu were we eased upon.”*</span>
 
-<span class="l-gloss">„Nenaboozhoo (Nänabushu) ningii-miijinigonaan. (eased himself upon us.)”</span>
+<span class="l-gloss">“Nenaboozhoo (Nänabushu) ningii-miijinigonaan. (eased himself upon us.)”</span>
 
 <span class="l-orig">(8) Kinickādizi ‘aᵉa’ᵘ pinä.</span>
 
@@ -131,11 +131,11 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-orig">(15) “Wā‘kunạg kīgạtigōm,” udidān.</span>
 
-<span class="l-fiero">**„Waakonag giga-digoom,” odidaan.**</span>
+<span class="l-fiero">**“Waakonag giga-digoom,” odidaan.**</span>
 
 <span class="l-eng">*„Lichens shall you be called,” he said to them.*</span>
 
-<span class="l-gloss">„Waakonag (lichens) giga-digoom (you shall be called),” odidaan (he said to them).</span>
+<span class="l-gloss">“Waakonag (lichens) giga-digoom (you shall be called),” odidaan (he said to them).</span>
 
 <span class="l-orig">(16) Mīdạc īgi’ᵘ wā‘kunạg Nänabujū udūmigiwidiyān.</span>
 
@@ -147,10 +147,10 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-orig">(17) Mīnawā mi‘tigōnsạn ugī∙ạ∙nimindciminānạn. “Mîskwābimạgōg kīgạtigōm tciạni∙a∙‘kīyunk.”</span>
 
-<span class="l-fiero">**Miinawaa mitigoonsan ogii-ani-minjiminaanan*. „Miskwaabiimagoog giga-digoom ji-ani-akiiyong.”**</span>
+<span class="l-fiero">**Miinawaa mitigoonsan ogii-ani-minjiminaanan*. “Miskwaabiimagoog giga-digoom ji-ani-akiiyong.”**</span>
 
 <span class="l-eng">*Next he went grabbing hold of the shrubs as he passed among them. “Red willows shall you be called till the end of the world.”*</span>
 
-<span class="l-gloss">Miinawaa (again) mitigoonsan (the shrubs) ogii-ani-minjiminaanan* (he went grabbing hold of as he passed). „Miskwaabiimagoog (red willows) giga-digoom (you shall be called) ji-ani-akiiyong (till the end of the world).”</span>
+<span class="l-gloss">Miinawaa (again) mitigoonsan (the shrubs) ogii-ani-minjiminaanan* (he went grabbing hold of as he passed). “Miskwaabiimagoog (red willows) giga-digoom (you shall be called) ji-ani-akiiyong (till the end of the world).”</span>
 
 </div>

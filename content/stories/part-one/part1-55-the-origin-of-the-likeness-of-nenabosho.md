@@ -42,11 +42,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(4) Nänabucō, ami‘kwạn kayä ogīnōdci∙ā∙n; ạni‘t ogī∙u∙ji‘tōn Nänabucō mī∙i’∙ᵘ kā∙ā∙batci‘tōt ami‘kwạn kīpacipawāt; mistcigi’ᵘ ijini‘kātä ‘iᵉi’ᵘ u‘kạn kā∙u∙ji‘tōt.</span>
 
-<span class="l-fiero">**Nenaboozhoo, amikwan gaye gii-nooj’aan; anit gii-zhitoon Nenaboozhoo mii wi gaa-aabajtood mikwan gii-bzhibwaad; michigiw(1) zhinkaade wi okan gaa-zhitood.**</span>
+<span class="l-fiero">**Nenaboozhoo, amikwan gaye gii-nooj’aan; anit gii-zhitoon Nenaboozhoo mii wi gaa-aabajtood mikwan gii-bzhibwaad; michigiw zhinkaade wi okan gaa-zhitood.**</span>
 
 <span class="l-eng">*for beavers too he hunted; a harpoon Nänabushu made, and that was what he used when he speared the beaver; spine-of-a-pickerel-fin is the name of the bone (point) which he made.*</span>
 
-<span class="l-gloss">Nenaboozhoo, amikwan gaye gii-nooj’aan (Nenabosho hunted beavers too); anit gii-zhitoon Nenaboozhoo (Nenabosho made a harpoon) mii wi gaa-aabajtood (that was what he used) mikwan gii-bzhibwaad (when he speared the beaver); michigiw(1) zhinkaade (michigiw it is called) wi okan gaa-zhitood (that bone point he made).</span>
+<span class="l-gloss">Nenaboozhoo, amikwan gaye gii-nooj’aan (Nenabosho hunted beavers too); anit gii-zhitoon Nenaboozhoo (Nenabosho made a harpoon) mii wi gaa-aabajtood (that was what he used) mikwan gii-bzhibwaad (when he speared the beaver); michigiw zhinkaade (michigiw it is called) wi okan gaa-zhitood (that bone point he made).</span>
 
 <span class="l-orig">(5) Ningudingidạc ugīmi‘kawān kiˢtci∙ā∙mikwaᵉ tānit mī∙o∙wä gi‘tcikạming, ā‘pidci mamānditōwạn.</span>
 
@@ -66,7 +66,7 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(7) Nījinōn īni’ᵘ ami‘kwạg ändāwāt, mī∙i∙we päjik Minung minawādec Micibigwadōminising.</span>
 
-<span class="l-fiero">**Niizhinoon niwi amikwag endaawaad, mii iwe bezhig Minong(2) miinwaa dash Mishibiigwadoo-mnising.(3)**</span>
+<span class="l-fiero">**Niizhinoon niwi amikwag endaawaad, mii iwe bezhig Minong miinwaa dash Mishibiigwadoo-mnising.**</span>
 
 <span class="l-eng">*Two were the places where those beavers dwelt: one was over here at Isle Royal, and the other was at Michipicoten Island.*</span>
 
@@ -98,7 +98,7 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(11) Käga‘pī∙i∙dac kī∙i∙nändạm: “Intawā ningapīgwa∙ā∙n ‘iᵉi’ᵘ u‘kunim, mānōdac ta∙i∙ska‘tä ō∙ō∙ kiˢtcigạmi, mī∙i’∙ᵘ tcimi‘kawạg ‘aᵉa’ᵘ ami‘k.”</span>
 
-<span class="l-fiero">**Gegpii dash gii-nendam: “Indawaa nga-biig’aan wi okonim*,(4) maanoo dash da-skate maanda gchi-gami, mii wi ji-mkawag wa amik.”**</span>
+<span class="l-fiero">**Gegpii dash gii-nendam: “Indawaa nga-biig’aan wi okonim*, maanoo dash da-skate maanda gchi-gami, mii wi ji-mkawag wa amik.”**</span>
 
 <span class="l-eng">*So at last he thought: “Therefore I will destroy the (beaver) dam, no matter if this sea should go dry, for then I shall find the beaver.”*</span>
 
@@ -162,7 +162,7 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(19) “Mānū, nōcicäⁿyạg pitcīnạg kädạnipimādisiwāt ugabā‘pi‘tōnāwa.”</span>
 
-<span class="l-fiero">**“Maanoo, noozhshenyag(5) bjiinag ge-ni-bmaadziwaad oga-baaptoonaawaa.”**</span>
+<span class="l-fiero">**“Maanoo, noozhshenyag bjiinag ge-ni-bmaadziwaad oga-baaptoonaawaa.”**</span>
 
 <span class="l-eng">*“No matter, let my grandchildren that shall live hereafter have it to laugh at.”*</span>
 
@@ -186,7 +186,7 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(22) “Intawā a‘kawä nîngatạmwā ‘aᵉa’ᵘ nigîg,” kī∙i∙nändạm.</span>
 
-<span class="l-fiero">**“Indawaa kawe nga-mwaa wa ngig(6),” gii-nendam.**</span>
+<span class="l-fiero">**“Indawaa kawe nga-mwaa wa ngig,” gii-nendam.**</span>
 
 <span class="l-eng">*“Accordingly before (proceeding further) I will eat the otter,” he thought.*</span>
 
@@ -218,11 +218,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(26) Cigwadạc kāmanicạnk päjik ‘iᵉi’ᵘ nigikutawạg, mī∙i’∙ᵘ nōndawāt ō‘kumisạn mạdwäkwīckucinit iwiti Bāwi‘ting.</span>
 
-<span class="l-fiero">**Zhigwa dash gaa-giizhkizhang bezhig wi ngig-otawag,(7) mii wi noondwaad gookmisan mdwe-gwiishk’zhinid widi Baawting.**</span>
+<span class="l-fiero">**Zhigwa dash gaa-giizhkizhang bezhig wi ngig-otawag, mii wi noondwaad gookmisan mdwe-gwiishkzhinid widi Baawting.**</span>
 
 <span class="l-eng">*And when with a knife he sliced off one of the otter’s ears, he then heard the sound of his grandmother whistling off yonder at the Sault.*</span>
 
-<span class="l-gloss">Zhigwa dash gaa-giizhkizhang (and when he sliced off) bezhig wi ngig-otawag (one of the otter’s ears), mii wi noondwaad gookmisan (he then heard his grandmother) mdwe-gwiishk’zhinid (whistling) widi Baawting (off yonder at the Sault).</span>
+<span class="l-gloss">Zhigwa dash gaa-giizhkizhang (and when he sliced off) bezhig wi ngig-otawag (one of the otter’s ears), mii wi noondwaad gookmisan (he then heard his grandmother) mdwe-gwiishkzhinid (whistling) widi Baawting (off yonder at the Sault).</span>
 
 <span class="l-orig">(27) Mīdạc kā∙i∙jipasingutcisät, kīmādcība‘tōd.</span>
 
@@ -242,7 +242,7 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(29) Mīdạc ä‘kitut ‘aᵉa’ᵘ ma‘ka‘kīmindimōyä: “Āja a‘panä, kīpimābōnu aᵘ ạmi‘k.”</span>
 
-<span class="l-fiero">**Mii dash ekidod wa magkii-mdimooye;(8) “Aazha pane gii-bmaaboozo wa amik.”**</span>
+<span class="l-fiero">**Mii dash ekidod wa magkii-mdimooye; “Aazha pane gii-bmaaboozo wa amik.”**</span>
 
 <span class="l-eng">*Thereupon said the old Toad-Woman: “It is gone, floating with the current went the beaver.”*</span>
 
@@ -306,11 +306,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(37) Tasing äniwâbandạngin i∙i∙mā kī∙u∙cācicingibạn, ugi‘tcibā‘pitōn.</span>
 
-<span class="l-fiero">**Dasing eni-waabandangin imaa gii-zhaazh’shingban*, gchi-baaptoon.**</span>
+<span class="l-fiero">**Dasing eni-waabandangin imaa gii-zhaazhshingban*, gchi-baaptoon.**</span>
 
 <span class="l-eng">*As often as he beheld the places on the way where he had slipped and fell, heartily he laughed at them.*</span>
 
-<span class="l-gloss">Dasing eni-waabandangin (as often as he beheld them) imaa gii-zhaazh’shingban* (there where he had slipped and fallen), gchi-baaptoon (heartily he laughed at them).</span>
+<span class="l-gloss">Dasing eni-waabandangin (as often as he beheld them) imaa gii-zhaazhshingban* (there where he had slipped and fallen), gchi-baaptoon (heartily he laughed at them).</span>
 
 <span class="l-orig">(38) Mīdạc imā Micibīgwatō wī‘kwädunk mī∙i∙mā kā∙i∙ji∙u∙nạbit.</span>
 
@@ -330,7 +330,7 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(40) Mīdacigu imā a‘panä nạmạdạbit, anicinābä kīnạmạdabit mī∙i’∙ᵘ äjināgwa‘k i∙i∙ᵘ asin.</span>
 
-<span class="l-fiero">**Mii dash go imaa pane nmadbid, anishnaabe gii-nmadbid, mii wi ezhinaagwag wi asin(9).**</span>
+<span class="l-fiero">**Mii dash go imaa pane nmadbid, anishnaabe gii-nmadbid, mii wi ezhinaagwag wi asin.**</span>
 
 <span class="l-eng">*And so there he still sits, like a person sitting is the way the rock looks.*</span>
 

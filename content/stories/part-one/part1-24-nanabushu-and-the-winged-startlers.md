@@ -162,11 +162,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(19) “Nāpisawugu kuckungäcīns!² Mᵘⁿ!” inwä Nänabucu äjigi‘tcibā‘pi∙ā∙t.</span>
 
-<span class="l-fiero">**“Naapisawogo goshkongeshiins!(2) Mwn!” inwe Nenaboozhoo ezhi-gichi-baapi’aad.**</span>
+<span class="l-fiero">**“Naapisawogo goshkongeshiins! Mwn!” inwe Nenaboozhoo ezhi-gichi-baapi’aad.**</span>
 
 <span class="l-eng">*“Yes, you are a little frightener!(2) Phew!” exclaimed Nänabushu, laughing heartily at them.*</span>
 
-<span class="l-gloss">“Naapisawogo goshkongeshiins!(2) (Yes indeed, a little frightener you are!) Mwn! (Phew!)” inwe Nenaboozhoo (so said Nenaboozhoo) ezhi-gichi-baapi’aad (laughing hard at them).</span>
+<span class="l-gloss">“Naapisawogo goshkongeshiins! (Yes indeed, a little frightener you are!) Mwn! (Phew!)” inwe Nenaboozhoo (so said Nenaboozhoo) ezhi-gichi-baapi’aad (laughing hard at them).</span>
 
 <span class="l-orig">(20) “Wäwäni wīndamawi‘k kimāmā∙i∙wā tagwicing.”</span>
 
@@ -394,11 +394,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(48) Unītcanisaᵉ ka‘kina kā∙i∙jikisībīgināt, abā‘pic kā‘kīji‘tät, äjikīkitut:</span>
 
-<span class="l-fiero">**Oniijanisa’ gakina gaa-izhi-gisiibiiginaad, abaapish gaa-kiizhiitaad, ezhi-giigidod:**</span>
+<span class="l-fiero">**Oniijanisan gakina gaa-izhi-gisiibiiginaad, abaapish gaa-kiizhiitaad, ezhi-giigidod:**</span>
 
 <span class="l-eng">*When she had made all her children clean, and by the time she was done with her work, then she said:*</span>
 
-<span class="l-gloss">Oniijanisa’ gakina gaa-izhi-gisiibiiginaad (when she had washed all her children), abaapish gaa-kiizhiitaad (by the time she had finished), ezhi-giigidod (she said):</span>
+<span class="l-gloss">Oniijanisan gakina gaa-izhi-gisiibiiginaad (when she had washed all her children), abaapish gaa-kiizhiitaad (by the time she had finished), ezhi-giigidod (she said):</span>
 
 <span class="l-orig">(49) “Ạmbäsa’, ninganōsunäᵉwā ‘aᵉa’ᵘ Nänabucu, kayä wīn wäwiyoc niwītōtawā.”</span>
 
@@ -458,11 +458,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(56) ā‘pidci i∙i∙mā tcīgitawạk ạni∙i∙cisäwạn, pāmāgu Nänabucu kā∙i∙nitạnk: “T!”³</span>
 
-<span class="l-fiero">**aapiji i’imaa jiigidawag ani-izhisewan, baamaa go Nenaboozhoo gaa-initang: “D!”(3)**</span>
+<span class="l-fiero">**aapiji i’imaa jiigidawag ani-izhisewan, baamaa go Nenaboozhoo gaa-initang: “D!”**</span>
 
 <span class="l-eng">*ever so near past his ear she flew, and suddenly Nänabushu heard the sound of “T!”(3)*</span>
 
-<span class="l-gloss">aapiji i’imaa jiigidawag ani-izhisewan (very close past his ear she shot by), baamaa go Nenaboozhoo gaa-initang (and then Nenaboozhoo heard): “D!”(3)</span>
+<span class="l-gloss">aapiji i’imaa jiigidawag ani-izhisewan (very close past his ear she shot by), baamaa go Nenaboozhoo gaa-initang (and then Nenaboozhoo heard): “D!”</span>
 
 <span class="l-orig">(57) Ā‘tā, Nänabucu tabạsi, ä‘tawā äjika‘kābi‘kisät, ạnicāgu kācō‘kānig īni’ᵘ u‘tawagạn.</span>
 

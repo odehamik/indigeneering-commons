@@ -104,11 +104,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(12) Ānīc, mī∙i’∙ᵘ cigwa wunāgucininig.</span>
 
-<span class="l-fiero">**Aaniish, mii iw zhigwa w[e]naagoshininig.**</span>
+<span class="l-fiero">**Aaniish, mii iw zhigwa wenaagoshininig.**</span>
 
 <span class="l-eng">*Well, it was then evening.*</span>
 
-<span class="l-gloss">Aaniish, mii iw zhigwa w[e]naagoshininig (well, it was then evening).</span>
+<span class="l-gloss">Aaniish, mii iw zhigwa wenaagoshininig (well, it was then evening).</span>
 
 <span class="l-orig">(13) “Ānīc ‘iᵉi’ᵘ, Tcītcīgwānowis,¹ ạninanta∙u∙ninamāsiwan, māgicā takisinā tibi‘kạt.</span>
 
@@ -138,11 +138,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(16) Kāwäsā ni‘tāwusäsī, ānuwītcīwāt ‘iᵉi’ᵘ ma∙ī∙ngạnaᵉ. Äjikạnōnint Nänabucu: “Ạmbäsinō, äntōtạmāngigu pimiba‘tōyāng, mī kayä kīn kätōtạmạn.”</span>
 
-<span class="l-fiero">**Gaaw[ii] saa nitaawosesii, aano-wiijiiwaad i’iw mahiinganan. Ezhi-ganoonind Nenabosho: “Ambe sinoo, endoodamaang igo bimibatooyaang, mii gaye giin ge-doodaman.”**</span>
+<span class="l-fiero">**Gaawesaa nitaawosesii, aano-wiijiiwaad i’iw mahiinganan. Ezhi-ganoonind Nenabosho: “Ambe sinoo, endoodamaang igo bimibatooyaang, mii gaye giin ge-doodaman.”**</span>
 
 <span class="l-eng">*Not at all was he familiar with (their way of) travelling, as he tried going along with the Wolves. Then was Nänabushu told: “Come, as we do when we run along, so in like manner should you do too.”*</span>
 
-<span class="l-gloss">Gaaw[ii] saa nitaawosesii (not at all was he skilled at travelling), aano-wiijiiwaad i’iw mahiinganan (as he tried in vain to go along with the wolves). Ezhi-ganoonind Nenabosho (then Nenabosho was told): “Ambe sinoo (“come now), endoodamaang igo bimibatooyaang (as we do when we run along), mii gaye giin ge-doodaman.” (so you too should do.”)</span>
+<span class="l-gloss">Gaawesaa nitaawosesii (not at all was he skilled at travelling), aano-wiijiiwaad i’iw mahiinganan (as he tried in vain to go along with the wolves). Ezhi-ganoonind Nenabosho (then Nenabosho was told): “Ambe sinoo (“come now), endoodamaang igo bimibatooyaang (as we do when we run along), mii gaye giin ge-doodaman.” (so you too should do.”)</span>
 
 <span class="l-orig">(17) Tāyā, kayä wīn tōtạm.</span>
 
@@ -252,11 +252,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(30) “‘A‘ā’ᵘ, Nänabucu, pōdawän,” inā Nänabucu.</span>
 
-<span class="l-fiero">**“A[h]aaw, Nenabosho, boodawen,” inaa Nenabosho.**</span>
+<span class="l-fiero">**“Ahaaw, Nenabosho, boodawen,” inaa Nenabosho.**</span>
 
 <span class="l-eng">*“All right, Nänabushu, do you kindle the fire,” was told Nänabushu.*</span>
 
-<span class="l-gloss">“A[h]aaw, Nenabosho, boodawen,” (“all right, Nenabosho, kindle the fire,”) inaa Nenabosho (was Nenabosho told).</span>
+<span class="l-gloss">“Ahaaw, Nenabosho, boodawen,” (“all right, Nenabosho, kindle the fire,”) inaa Nenabosho (was Nenabosho told).</span>
 
 <span class="l-orig">(31) Ānīc misa’ Nänabucu ānawibōtawät.</span>
 
@@ -652,11 +652,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(80) Kamātcīta∙i∙kō kimintimō∙i∙mic kämīdcit.”</span>
 
-<span class="l-fiero">**Gamaajiida’igoo gi-mindimoo’[ye]mish ge-miijid.”**</span>
+<span class="l-fiero">**Gamaajiida’igoo gi-mindimooyemish ge-miijid.”**</span>
 
 <span class="l-eng">*We will send by you some food for your old woman to eat.”*</span>
 
-<span class="l-gloss">Gamaajiida’igoo gi-mindimoo’[ye]mish ge-miijid.” (we will send food by you for your old woman to eat.”)</span>
+<span class="l-gloss">Gamaajiida’igoo gi-mindimooyemish ge-miijid.” (we will send food by you for your old woman to eat.”)</span>
 
 <span class="l-orig">(81) “Kūwīn, osām pa‘kạdä.</span>
 
@@ -1292,11 +1292,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(160) Kägätsa sägisiwạg īgi’ᵘ wäwōsiwāt.</span>
 
-<span class="l-fiero">**Geget sa zegiziwag igiw we[y]oosiwaad.**</span>
+<span class="l-fiero">**Geget sa zegiziwag igiw wewoosiwaad.**</span>
 
 <span class="l-eng">*Really scared were they who were his children.*</span>
 
-<span class="l-gloss">Geget sa zegiziwag igiw we[y]oosiwaad (really scared were those who were his children).</span>
+<span class="l-gloss">Geget sa zegiziwag igiw wewoosiwaad (really scared were those who were his children).</span>
 
 <span class="l-orig">(161) Tawā’! äjita‘kābāwạnāwāt.</span>
 

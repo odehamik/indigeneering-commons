@@ -210,11 +210,11 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-orig">(25) “Twäⁿ twäⁿ, twäⁿ,”¹ ini‘tạm.</span>
 
-<span class="l-fiero">**“Dwenh dwenh, dwenh,” (1) initam.**</span>
+<span class="l-fiero">**“Dwenh dwenh, dwenh,” initam.**</span>
 
 <span class="l-eng">*“Twäⁿ, twäⁿ, twäⁿ,” (1) was what he heard.*</span>
 
-<span class="l-gloss">“Dwenh dwenh, dwenh,” (1) initam (such was what he heard).</span>
+<span class="l-gloss">“Dwenh dwenh, dwenh,” initam (such was what he heard).</span>
 
 <span class="l-orig">(26) Nawatc päcutāgwạtini. Mīnawā mādcāt änigu‘k.</span>
 
@@ -242,11 +242,11 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-orig">(29) Kumā‘pīdạc minawā andu‘tạm, mīgäyāpi äni‘tạng. “Twiⁿ twiⁿ,”¹ ini‘tạm.</span>
 
-<span class="l-fiero">**Gomaapii dash miinawaa nandotam, mii geyaapi enitang. “Dwiinh dwiinh,” (2) initam.**</span>
+<span class="l-fiero">**Gomaapii dash miinawaa nandotam, mii geyaapi enitang. “Dwiinh dwiinh,” initam.**</span>
 
 <span class="l-eng">*Farther on he listened again for the sound, and he heard it the same as before. “Twiⁿ, twiⁿ,” (2) was the sound he heard.*</span>
 
-<span class="l-gloss">Gomaapii dash miinawaa nandotam (and after a while again he listened), mii geyaapi enitang (and still he heard it the same). “Dwiinh dwiinh,” (2) initam (such was the sound he heard).</span>
+<span class="l-gloss">Gomaapii dash miinawaa nandotam (and after a while again he listened), mii geyaapi enitang (and still he heard it the same). “Dwiinh dwiinh,” initam (such was the sound he heard).</span>
 
 <span class="l-orig">(30) Mī∙i∙mā gwaya‘k ändạnitạng pimidēpināgwatinig a‘ki.</span>
 
@@ -330,7 +330,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-orig">(40) Kumā‘pīdạc pigwä‘kitāwạn mīdạc ägut:² “A-a-a ‘āᵃ, Nänabucu! kipinantupạnītawina?” udigōn.</span>
 
-<span class="l-fiero">**Gomaapii dash bi-gwekitaawan mii dash e-god: (3) “A-a-a Nenaboozhoo! Gi-bi-nandobanidaw ina?” odigoon.**</span>
+<span class="l-fiero">**Gomaapii dash bi-gwekitaawan mii dash e-god: “A-a-a Nenaboozhoo! Gi-bi-nandobanidaw ina?” odigoon.**</span>
 
 <span class="l-eng">*After a while the other then turned about, and said: (4) “Aha, aha, aha, Nänabushu! Have you come to make war upon me?” he was told.*</span>
 
@@ -522,7 +522,7 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-orig">(64) “Aⁿ-aⁿ-aⁿ-aⁿ-āⁿ!” udinān. “Mīnạngä kipapā‘pini∙i∙n!”¹ udinān Nänabucu.</span>
 
-<span class="l-fiero">**“A-a-a-a-aa!” odinaan. “Mii nange gi-pabaapini’in!” (4) odinaan Nenaboozhoo.**</span>
+<span class="l-fiero">**“A-a-a-a-aa!” odinaan. “Mii nange gi-pabaapini’in!” odinaan Nenaboozhoo.**</span>
 
 <span class="l-eng">*“Ah!” he said to him. “You surely do not think that I am simply trifling with you!” (5) to him said Nänabushu.*</span>
 
@@ -610,11 +610,11 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-orig">(75) “Kīcpîn dạc pōni∙i∙yạn, kīgamīnin kädābạtci‘tōyạn tcīābitcība∙ạ∙wā,” udigōn.</span>
 
-<span class="l-fiero">**“Giishpin dash booni’yan, giga-miinin ged-aabajitooyan ji-aabijiibaa’awaa,” odigoon.**</span>
+<span class="l-fiero">**“Giishpin dash booniyan, giga-miinin ged-aabajitooyan ji-aabijiibaa’awaa,” odigoon.**</span>
 
 <span class="l-eng">*“Now, if you leave me alone, I will give you something to use to make them come back to life again,” he was told.*</span>
 
-<span class="l-gloss">“Giishpin dash booni’yan (now if you leave me alone), giga-miinin ged-aabajitooyan (I will give you what you are to use) ji-aabijiibaa’awaa (to bring them back to life),” odigoon (he was told).</span>
+<span class="l-gloss">“Giishpin dash booniyan (now if you leave me alone), giga-miinin ged-aabajitooyan (I will give you what you are to use) ji-aabijiibaa’awaa (to bring them back to life),” odigoon (he was told).</span>
 
 <span class="l-orig">(76) “Wäwip wīndamawicin ānīn kätōtạmān tcī∙ā∙bitcība∙i∙wäyān.”</span>
 
@@ -682,11 +682,11 @@ Nänabushu slays Hewer-of-his-Shin
 
 <span class="l-orig">(84) “Uwa’!” udinān. “Anîm¹ kīn a‘panä wâ∙i∙ckā‘tōyạn a‘ki!</span>
 
-<span class="l-fiero">**“Owa!” odinaan. “Anim (5) giin apane waa-ishkaatooyan aki!**</span>
+<span class="l-fiero">**“Owa!” odinaan. “Anim giin apane waa-ishkaatooyan aki!**</span>
 
 <span class="l-eng">*“There, now!” he said to him. “Dog (6) that you are, who was ever bent upon destroying the earth!*</span>
 
-<span class="l-gloss">“Owa! (there, now!)” odinaan (he said to him). “Anim (5) giin apane (dog that you are, ever) waa-ishkaatooyan aki! (bent on destroying the earth! — *ishkaatoo- stem flagged*)</span>
+<span class="l-gloss">“Owa! (there, now!)” odinaan (he said to him). “Anim giin apane (dog that you are, ever) waa-ishkaatooyan aki! (bent on destroying the earth! — *ishkaatoo- stem flagged*)</span>
 
 <span class="l-orig">(85) Nōngumidạc kīgadici∙i∙n tci∙u∙ndcipimādạk a‘ki,” udinān.</span>
 

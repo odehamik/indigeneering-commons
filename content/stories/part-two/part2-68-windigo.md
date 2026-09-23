@@ -18,11 +18,11 @@ WINDIGO.
 
 <span class="l-orig">(1) Ānīc tāwạg ạnicinābäg unītcānisiwā ä‘tạgu. Ānīc pibōnini. Kägä‘t inändạm ‘aᵉa´ᵘ inini ku‘tātcit nōtci∙ā∙t āmi‘kwạn. Kägä‘tsa nīsānäntạm awiya ugi‘känimān. Mīdạc ningutingiku a∙i∙nạno‘kīt nōtci∙ā∙t īni´ᵘ ạmi‘kwạn, ningudingiku cigwa ‘aᵉa´ᵘ i‘kwä pāmāgu awiya mädā‘kunit wayä‘kwāgạmīng sāga∙i∙gạnīng ändāwāt. “Pabā‘pinisiwāgạn kinibūmin!” udināᵉ unītcānisaᵉ. Kägä‘t minditōwạn; kāwīn kanagä ābi‘ta äyā‘kwā‘kusinit mi‘tigōᵉ ạgōsisīwạn. Mīdạc īni´ᵘ windigōn wâdisiguwāt. Mīsa’ bīdā‘tạgā‘kōwạn, mīsa’ nājibība‘tō waᵉa´ᵘ i‘kwä. Kākī‘tcikunayät pingwācāgit. Awinạgickawāt pidātạgā‘kunit, näyāgigu ogạnōnān: “Nōs! kitạgwicinina?” udinān.</span>
 
-<span class="l-fiero">**Aaniish daawag anishinaabeg oniijaanisiwaa e-dagoo. Aaniish biboonini. Geget inendam a’aw inini gotaajid noojii’aad amikwan. Geget sa niisaanendam awiya ogii-kenimaan. Mii dash ningoding igo a-i-nanokid noojii’aad iniw amikwan, ningoding igo zhigwa a’aw ikwe baamaa go awiya medaakoonid wayiikwaagamiing zaaga’igaaning endaawaad. “Babaabinisiwaagan giniboomin!” odinaan oniijaanisa. Geget mindidowan; gaawiin ganage aabita eyaakwaakozinid mitigoog agoozisiiwan. Mii dash iniw wiindigoon waadizigowaad. Mii sa biidaadagaakowan, mii sa naajiibaabatoo a’aw ikwe. Gaa-giizhi-goonayed bingwaazhagid. Awi-nagishkawaad bidaadagaakoonid, neyaag igo oganoonaan: “Noos! gidagwishinina?” odinaan.**</span>
+<span class="l-fiero">**Aaniish daawag anishinaabeg oniijaanisiwaa e-dagoo. Aaniish biboonini. Geget inendam a’aw inini gotaajid noojii’aad amikwan. Geget sa niisaanendam awiya ogii-kenimaan. Mii dash ningoding igo a-i-nanokid noojii’aad iniw amikwan, ningoding igo zhigwa a’aw ikwe baamaa go awiya medaakoonid wayiikwaagamiing zaaga’igaaning endaawaad. “Babaabinisiwaagan giniboomin!” odinaan oniijaanisan. Geget mindidowan; gaawiin ganage aabita eyaakwaakozinid mitigoog agoozisiiwan. Mii dash iniw wiindigoon waadizigowaad. Mii sa biidaadagaakowan, mii sa naajiibaabatoo a’aw ikwe. Gaa-giizhi-goonayed bingwaazhagid. Awi-nagishkawaad bidaadagaakoonid, neyaag igo oganoonaan: “Noos! gidagwishinina?” odinaan.**</span>
 
 <span class="l-eng">*Now, there were abiding some people with only their children. Now, it was winter. Truly in the mind of the man rose thoughts of fear while on the hunt for beaver. Truly cautious he became of some creature (whose presence) he felt. And so once, while he was busily engaged catching beaver, at that time there suddenly (appeared to) the woman some one that was travelling over the ice from the other end of the lake, (and coming to) where she (and her family) lived. “Alas! and now we are going to die!” she said to her children. Truly big was the creature; not even half so tall (as he) were the trees, (such) was how high he reached. It was by the Windigō that they were visited. And as he came hitherward over the ice, then to the lake ran the woman (to meet him). Removing all her clothes, she had nothing on. On her way to meet him as he came along on the ice, and while yet some distance away, she spoke to him, saying: “O my father! have you now returned home?” she said to him.*</span>
 
-<span class="l-gloss">Aaniish daawag anishinaabeg (now, there were some people living) oniijaanisiwaa e-dagoo (with only their children present). Aaniish biboonini (now it was winter). Geget inendam a’aw inini (truly the man had it in mind) gotaajid (being afraid; *gotaaji- ‘be afraid/cautious’*) noojii’aad amikwan (while hunting beaver). Geget sa niisaanendam (truly uneasy was he) awiya ogii-kenimaan (he sensed someone/something). Mii dash ningoding igo (and so once) a-i-nanokid noojii’aad iniw amikwan (while he was busy hunting that beaver), ningoding igo zhigwa a’aw ikwe (once, now, that woman —) baamaa go awiya medaakoonid (suddenly someone travelling over the ice — *stem flagged*) wayiikwaagamiing zaaga’igaaning (from the far end of the lake) endaawaad (to where they lived). “Babaabinisiwaagan (“alas! — *interjection flagged, 68-H5*) giniboomin!” (we are going to die!”) odinaan oniijaanisa (she said to her children). Geget mindidowan (truly big was he); gaawiin ganage aabita (not even half) eyaakwaakozinid mitigoog (so tall as the trees stood) agoozisiiwan (such was how high he reached — *stem flagged*). Mii dash iniw wiindigoon (and so by that Windigo) waadizigowaad (they were visited). Mii sa biidaadagaakowan (and so as he came over the ice toward them), mii sa naajiibaabatoo a’aw ikwe (the woman ran out to meet him). Gaa-giizhi-goonayed bingwaazhagid (having taken off her clothes, she was bare). Awi-nagishkawaad bidaadagaakoonid (going to meet him as he came over the ice), neyaag igo oganoonaan (while yet some way off she spoke to him): “Noos! gidagwishinina?” (“O my father! have you come home?”) odinaan (she said to him).</span>
+<span class="l-gloss">Aaniish daawag anishinaabeg (now, there were some people living) oniijaanisiwaa e-dagoo (with only their children present). Aaniish biboonini (now it was winter). Geget inendam a’aw inini (truly the man had it in mind) gotaajid (being afraid; *gotaaji- ‘be afraid/cautious’*) noojii’aad amikwan (while hunting beaver). Geget sa niisaanendam (truly uneasy was he) awiya ogii-kenimaan (he sensed someone/something). Mii dash ningoding igo (and so once) a-i-nanokid noojii’aad iniw amikwan (while he was busy hunting that beaver), ningoding igo zhigwa a’aw ikwe (once, now, that woman —) baamaa go awiya medaakoonid (suddenly someone travelling over the ice — *stem flagged*) wayiikwaagamiing zaaga’igaaning (from the far end of the lake) endaawaad (to where they lived). “Babaabinisiwaagan (“alas! — *interjection flagged, 68-H5*) giniboomin!” (we are going to die!”) odinaan oniijaanisan (she said to her children). Geget mindidowan (truly big was he); gaawiin ganage aabita (not even half) eyaakwaakozinid mitigoog (so tall as the trees stood) agoozisiiwan (such was how high he reached — *stem flagged*). Mii dash iniw wiindigoon (and so by that Windigo) waadizigowaad (they were visited). Mii sa biidaadagaakowan (and so as he came over the ice toward them), mii sa naajiibaabatoo a’aw ikwe (the woman ran out to meet him). Gaa-giizhi-goonayed bingwaazhagid (having taken off her clothes, she was bare). Awi-nagishkawaad bidaadagaakoonid (going to meet him as he came over the ice), neyaag igo oganoonaan (while yet some way off she spoke to him): “Noos! gidagwishinina?” (“O my father! have you come home?”) odinaan (she said to him).</span>
 
 <span class="l-orig">(2) Mīdạc ä‘kitunit: “Kāwīn ningi‘kändạⁿzī tci∙o∙dānisiminān.”</span>
 
@@ -58,11 +58,11 @@ WINDIGO.
 
 <span class="l-orig">(6) Cigwasa gägä‘t pīndigä∙ō∙täwạn īni´ᵘ ōsạn. Ānīc mīsa´ udōtcīmāni unītcānisaᵉ. Kägä‘t kicäwādisiwạn; mīsạgu a‘pạnä ta‘kunānit ‘iᵉi´ᵘ unītcānisaᵉ.</span>
 
-<span class="l-fiero">**Zhigwa sa geget biindige’otaawan iniw oosan. Aaniish mii sa odoojiimaani oniijaanisa. Geget gizhewaadiziwan; mii sa go apane dakonaanid i’iw oniijaanisa.**</span>
+<span class="l-fiero">**Zhigwa sa geget biindige’otaawan iniw oosan. Aaniish mii sa odoojiimaani oniijaanisan. Geget gizhewaadiziwan; mii sa go apane dakonaanid i’iw oniijaanisan.**</span>
 
 <span class="l-eng">*Then truly in came crawling that father of hers. So thereupon he kissed her children. Truly gentle was he, and it was then all the while that he had those children of hers in his hands.*</span>
 
-<span class="l-gloss">Zhigwa sa geget biindige’otaawan (then truly in he crept) iniw oosan (that father of hers). Aaniish mii sa odoojiimaani oniijaanisa (so then he kissed her children). Geget gizhewaadiziwan (truly gentle was he); mii sa go apane (and so all the while) dakonaanid i’iw oniijaanisa (he held those children of hers).</span>
+<span class="l-gloss">Zhigwa sa geget biindige’otaawan (then truly in he crept) iniw oosan (that father of hers). Aaniish mii sa odoojiimaani oniijaanisan (so then he kissed her children). Geget gizhewaadiziwan (truly gentle was he); mii sa go apane (and so all the while) dakonaanid i’iw oniijaanisan (he held those children of hers).</span>
 
 <span class="l-orig">(7) Kägä‘t minwäntạm ‘aᵉa’ᵘ i‘kwä. Cigwa ogạnōnigōn ōsạn: “Nindānis, ạmbä, tạga, awinagiskaᵘ na∙ā∙ngic! Cigwa indigu pīdādạgā‘ku. Mīsa´ gägä‘t oᵉō´ᵘ ici´, kägu´ wīn mīnawā inā‘kän ‘iᵉi´ᵘ kāgī∙i∙nạtwā īgi´ᵘ kinītcānisạg ‘iᵉi´ᵘ kā∙i∙nạtwā ‘ Mạnitō nindāwänimā ’ kī∙i∙‘kitoyạn. Mīdạc ici´ ‘aᵉa´ᵘ na∙ā∙ngic: ‘ Nōs kītạgwicin ’, ici´, māgicā ningasägi∙ā∙’’, udinān īni´ᵘ udānisạn.</span>
 
@@ -130,11 +130,11 @@ WINDIGO.
 
 <span class="l-orig">(15) “Ōᵘⁿ, kāwīn wīn ningī∙i∙dạⁿzīn. Ingutci wīcing tcī∙i∙nạtînāg nindạcigạgwätwä. Kägä‘t mī∙i∙mā sāga∙i∙gānsing wâbandạmān inạtînāg. Tạga‘pī wâbạng ijā‘kạnk!” udinān.</span>
 
-<span class="l-fiero">**“Oonh, gaawiin wiin ningii-idanziin. Ingoji wiizhing ji-inadinaag nindazhi-gagwedwe. Geget mii imaa zaaga’igaansing waabandamaan inadinaag. Daga’ waabang izhaakang!” odinaan.**</span>
+<span class="l-fiero">**“Oonh, gaawiin wiin ningii-idanziin. Ingoji wiizhing ji-inadinaag nindazhi-gagwedwe. Geget mii imaa zaaga’igaansing waabandamaan inadinaag. Daga waabang izhaakang!” odinaan.**</span>
 
 <span class="l-eng">*“Oh, I did not have (such as that in mind). If somewhere were a hill like a (beaver’s) dwelling was what I asked about. Truly at yonder small lake did I see a hill like that. Now, to-morrow let us go thither!” he said to him.*</span>
 
-<span class="l-gloss">“Oonh, gaawiin wiin ningii-idanziin (“oh, that is not what I meant). Ingoji wiizhing ji-inadinaag (somewhere where a hill rises like a lodge) nindazhi-gagwedwe (is what I was asking about). Geget mii imaa zaaga’igaansing (truly there at the small lake) waabandamaan inadinaag (I saw a hill like that). Daga’ waabang izhaakang!” (“now, tomorrow let us go there!”) odinaan (he said to him).</span>
+<span class="l-gloss">“Oonh, gaawiin wiin ningii-idanziin (“oh, that is not what I meant). Ingoji wiizhing ji-inadinaag (somewhere where a hill rises like a lodge) nindazhi-gagwedwe (is what I was asking about). Geget mii imaa zaaga’igaansing (truly there at the small lake) waabandamaan inadinaag (I saw a hill like that). Daga waabang izhaakang!” (“now, tomorrow let us go there!”) odinaan (he said to him).</span>
 
 <span class="l-orig">(16) Mīsa´ kägä‘t weyābạninig mādcāwạg. Cigwa udōdi‘tānāwa kāgagīpōnạminit udōnini. “Kägätsa pā‘ta∙ī∙nowạg,” udigōn. “Aya∙ā∙nsạg ayātugänig,” udigōn. Cigwa udạnināⁿzi‘kạmini sāgiskusininik. Ānīc uzāwâbi‘k wäsa‘ka∙u∙ninit; äjipa‘ki‘tä∙ạ∙minit, pạnägu gāsīgitcisänit. “ ‘A ‘āu´, na∙ā∙ngī! kiwajickumạg!”</span>
 
@@ -148,11 +148,11 @@ WINDIGO.
 
 <span class="l-orig">(17) Umawinanāᵉ ‘aᵉa´ᵘ inini. Mīsa´ mīnawā päjik utạnināⁿzi‘kạmini ạnigāgīmā‘tōnit mīnawā upa‘kitä∙ạ∙minit. “ ‘A ‘a´ᵘ, na∙ā∙ngī! kiwạcickumạg!”</span>
 
-<span class="l-fiero">**Omawinanaan a’aw inini. Mii sa miinawaa bezhig odani-naazhikamini ani-gaagiimaa’toonid miinawaa obakite’aminid. “ ‘Aw, naangii*! giwazhishkomag!”**</span>
+<span class="l-fiero">**Omawinanaan a’aw inini. Mii sa miinawaa bezhig odani-naazhikamini ani-gaagiimaatoonid miinawaa obakite’aminid. “ ‘Aw, naangii*! giwazhishkomag!”**</span>
 
 <span class="l-eng">*At them rushed the man. And then up to another (dwelling) went the Windigō without making any noise, and he also struck that. “Come on, son-in-law! (here) are your muskrats!”*</span>
 
-<span class="l-gloss">Omawinanaan a’aw inini (the man rushed at them). Mii sa miinawaa bezhig odani-naazhikamini (and to another one he then went) ani-gaagiimaa’toonid (going up quietly — *stem flagged, 68-H7*) miinawaa obakite’aminid (and he struck it too). “ ‘Aw, naangii*! giwazhishkomag!” (“come on, son-in-law! here are your muskrats!”)</span>
+<span class="l-gloss">Omawinanaan a’aw inini (the man rushed at them). Mii sa miinawaa bezhig odani-naazhikamini (and to another one he then went) ani-gaagiimaatoonid (going up quietly — *stem flagged, 68-H7*) miinawaa obakite’aminid (and he struck it too). “ ‘Aw, naangii*! giwazhishkomag!” (“come on, son-in-law! here are your muskrats!”)</span>
 
 <span class="l-orig">(18) Unānīwana‘wā.</span>
 
@@ -260,11 +260,11 @@ WINDIGO.
 
 <span class="l-orig">(31) Ugi‘kändān ‘aᵉa’ᵘ inini. Mīdạc änāt: “Ningi‘kändān ‘iᵉi´ᵘ i∙i∙witi icināgwa‘k tibickō, ạnicādạc wâsa’. Pāmā ningawīnibāmin.”</span>
 
-<span class="l-fiero">**Ogikendaan a’aw inini. Mii dash enaad: “Ningikendaan i’iw i-iwidi izhinaagwak dibishkoo, anish idash waasa’. Baamaa ninga-wii-nibaamin.”**</span>
+<span class="l-fiero">**Ogikendaan a’aw inini. Mii dash enaad: “Ningikendaan i’iw i-iwidi izhinaagwak dibishkoo, anish idash waasa. Baamaa ninga-wii-nibaamin.”**</span>
 
 <span class="l-eng">*About (a place where beavers were) did the man know. And this he said to him: “I know of a place over there that looks like (a place for beavers), but it is a long way off. By and by he and I will go spend the night there.”*</span>
 
-<span class="l-gloss">Ogikendaan a’aw inini (the man knew of a place). Mii dash enaad (and this he said to him): “Ningikendaan i’iw i-iwidi izhinaagwak dibishkoo (“I know a place over there that looks just (like one)), anish idash waasa’ (but it is far off). Baamaa ninga-wii-nibaamin.” (by and by we will go spend the night there.”)</span>
+<span class="l-gloss">Ogikendaan a’aw inini (the man knew of a place). Mii dash enaad (and this he said to him): “Ningikendaan i’iw i-iwidi izhinaagwak dibishkoo (“I know a place over there that looks just (like one)), anish idash waasa (but it is far off). Baamaa ninga-wii-nibaamin.” (by and by we will go spend the night there.”)</span>
 
 <span class="l-orig">(32) Kāmōtcigisinit. “Mīsạnā mīnawā tcigīwīsiniyān,” udigōn īni´ᵘ ujinisạn. Kägä‘t minwäntạmōn. Äcimādcāwāt. Cigwasa udōdi‘tānāwa. “Mīsa´ ōmā kī∙ī∙tạmān.” Owâbạndān ubigạmānig sāga∙i∙gạn.</span>
 
@@ -300,11 +300,11 @@ WINDIGO.
 
 <span class="l-orig">(36) Ānīc kägä‘t udānupa‘ki‘tä∙o∙wān, kāwīn onisāsīn. Obā‘pi∙i∙gōn pa‘kitä∙o∙wānit bä‘kā asa‘ka∙o∙nini, mīsa´ kīnisānit. “Käyābi, na∙ā∙ngī! päcigutug,” udigōn. Mīsa´ kägä‘t mīnawā papānạndunaci∙i∙gänit.</span>
 
-<span class="l-fiero">**Aaniish geget odaano-bakite’owaan, gaawiin onisaasiin. Obapii’igoon bakite’owaanid beka’ ozaka’oonini, mii sa gii-nisaanid. “Geyaabi, naangii*! bezhigodog,” odigoon. Mii sa geget miinawaa baa-banandonezhi’igenid.**</span>
+<span class="l-fiero">**Aaniish geget odaano-bakite’owaan, gaawiin onisaasiin. Obapii’igoon bakite’owaanid beka ozaka’oonini, mii sa gii-nisaanid. “Geyaabi, naangii*! bezhigodog,” odigoon. Mii sa geget miinawaa baa-banandonezhi’igenid.**</span>
 
 <span class="l-eng">*Now, truly he struck (the beaver) in vain, for he could not kill it. He was laughed at by (the Windigō), who struck it gently with his cane, whereupon (the old man) killed it. “Wait a while, son-in-law! there may still be another,” (the man) was told. Whereupon truly roundabout went he to chase up (another).*</span>
 
-<span class="l-gloss">Aaniish geget odaano-bakite’owaan, gaawiin onisaasiin (now truly he struck it in vain, he could not kill it). Obapii’igoon bakite’owaanid beka’ ozaka’oonini (he was laughed at when the other struck it gently with his cane), mii sa gii-nisaanid (and so he killed it). “Geyaabi, naangii*! bezhigodog,” (“wait, son-in-law! there may be one more,”) odigoon (he was told). Mii sa geget miinawaa baa-banandonezhi’igenid (and so truly again he went about to chase one up).</span>
+<span class="l-gloss">Aaniish geget odaano-bakite’owaan, gaawiin onisaasiin (now truly he struck it in vain, he could not kill it). Obapii’igoon bakite’owaanid beka ozaka’oonini (he was laughed at when the other struck it gently with his cane), mii sa gii-nisaanid (and so he killed it). “Geyaabi, naangii*! bezhigodog,” (“wait, son-in-law! there may be one more,”) odigoon (he was told). Mii sa geget miinawaa baa-banandonezhi’igenid (and so truly again he went about to chase one up).</span>
 
 <span class="l-orig">(37) Kägä‘t mīnawā ogī∙ạ∙manisu. Mīnawā ubīpāgimān ujinisạn, mīgu mīnawā pā∙u∙ndcitcīga‘kwäpạgisunit. Mīsa´ mīnawā ạgwāpīginānit īni´ᵘ ạmi‘kwạn. “ ‘Ā ‘au´, na∙ā∙ngī, nīwạnuwⁱ!” udigōn.</span>
 
@@ -356,11 +356,11 @@ WINDIGO.
 
 <span class="l-orig">(43) Mīsa’ kägä‘t cigwa pigīwänit. Mīsa’ i∙i∙mā ändacī‘känit ‘iᵉi’ᵘ ōcicäⁿyaᵉ. Mīzạ’n mī‘ku’ nānīmi∙ā∙t i∙i∙mā ‘iᵉi’ᵘ ōcicäⁿyaᵉ, äna∙ạ∙mawāt i∙i∙mā unạgā‘kinindcing nībawinit ‘iᵉi’ᵘ ōcicäⁿyaᵉ. O∙ō∙widạc utina∙ạ∙mawāᵉ:—</span>
 
-<span class="l-fiero">**Mii sa geget zhigwa bi-giiwenid. Mii sa i-imaa endazhi-kenid i’iw oozhishenyag. Mii sa go nii-nimi’aad i-imaa i’iw oozhishenyag, ena’amawaad i-imaa onagaakinindjing niibawinid i’iw oozhishenyag. O’ow idash odina’amawaa:—**</span>
+<span class="l-fiero">**Mii sa geget zhigwa bi-giiwenid. Mii sa i-imaa endazhi-kenid i’iw oozhishenyag. Mii sa go nii-nimi’aad i-imaa i’iw oozhishenyag, ena’amawaad i-imaa onagaakinindjing niibawinid i’iw oozhishenyag. O’ow idash odina’amawaan:—**</span>
 
 <span class="l-eng">*Thereupon truly in a while back home (the old man) came. And so roundabout him played those little grandchildren of his. And now all the while was he making his little grandchildren dance there, he sang to his little grandchildren as they stood there in the palm of his hand. And this was the way he sang to them:—*</span>
 
-<span class="l-gloss">Mii sa geget zhigwa bi-giiwenid (and so truly presently he came home). Mii sa i-imaa endazhi-kenid i’iw oozhishenyag (there about him his grandchildren played). Mii sa go nii-nimi’aad i-imaa i’iw oozhishenyag (and all the while he made his grandchildren dance), ena’amawaad i-imaa onagaakinindjing niibawinid i’iw oozhishenyag (singing to them as they stood in the palm of his hand). O’ow idash odina’amawaa:— (and this is what he sang to them:—)</span>
+<span class="l-gloss">Mii sa geget zhigwa bi-giiwenid (and so truly presently he came home). Mii sa i-imaa endazhi-kenid i’iw oozhishenyag (there about him his grandchildren played). Mii sa go nii-nimi’aad i-imaa i’iw oozhishenyag (and all the while he made his grandchildren dance), ena’amawaad i-imaa onagaakinindjing niibawinid i’iw oozhishenyag (singing to them as they stood in the palm of his hand). O’ow idash odina’amawaan:— (and this is what he sang to them:—)</span>
 
 <span class="l-orig">(44) “Pigickanidisī, pigickanidisī, pigickanidisī, pigickanidisī.”</span>
 
@@ -372,11 +372,11 @@ WINDIGO.
 
 <span class="l-orig">(45) Mīsa´ pạnä utcīmāt iᵘ ucicäyaᵉ. Kägä‘t ocawänimāᵉ ‘iᵉi´ᵘ ōcicäyaᵉ. Mīsạgu pạnä pīmāntawānigut.</span>
 
-<span class="l-fiero">**Mii sa bane ojiimaad iw oozhishenya. Geget ozhawenimaa i’iw oozhishenya. Mii sa go bane bi-maandawaanigod.**</span>
+<span class="l-fiero">**Mii sa bane ojiimaad iw oozhishenyan. Geget ozhawenimaan i’iw oozhishenyan. Mii sa go bane bi-maandawaanigod.**</span>
 
 <span class="l-eng">*Whereupon would he immediately kiss his little grandchildren. Really kind was he to his little grandchildren. And so continually was he made use of by them to crawl upon.*</span>
 
-<span class="l-gloss">Mii sa bane ojiimaad iw oozhishenya (and so at once he kissed his grandchildren). Geget ozhawenimaa i’iw oozhishenya (truly kind was he to his grandchildren). Mii sa go bane bi-maandawaanigod (and so continually they clambered up upon him — *stem flagged*).</span>
+<span class="l-gloss">Mii sa bane ojiimaad iw oozhishenyan (and so at once he kissed his grandchildren). Geget ozhawenimaan i’iw oozhishenyan (truly kind was he to his grandchildren). Mii sa go bane bi-maandawaanigod (and so continually they clambered up upon him — *stem flagged*).</span>
 
 <span class="l-orig">(46) Cigwa´ ninguting a‘pī äniyābāwānik udigōn: “Ānīc, mīsa´ cigwa´ tcimādcāyān,” udigōn īni´ᵘ ōsạn. “Ānīc mīsagu i´ᵘ mini‘k kā‘piwītci∙a∙yāwinạguk, nindānis.” Mīdạc kā∙i∙nāt: “Ạmbäsinō, kägu´ wī‘kā ugāmwāsiwāwaᵉ ‘iᵉi´ᵘ ami‘kwunīckwaᵉ!” udinān īni´ᵘ udānisạn. “Kägä‘t mīgu i kä∙i∙ciwäbak kā∙i∙ninān, nindānis; ‘iᵉi´ᵘ wī‘kā tci∙ạ∙mwāsigwā īgi´ᵘ nōcicäⁿyạg. Kīcpin ạmwāwāt, pō‘tc ningaki‘känimāg. Ningapitạgwicin kīcpin ạmwāwāt nōcicäⁿyạg tci∙ạ∙ni∙a∙‘kīwạng,” ugī∙i∙nān īni´ᵘ udānisạn.</span>
 

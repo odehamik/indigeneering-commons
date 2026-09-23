@@ -20,11 +20,11 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(1) Mīsa´ cigwa mīnawā kī‘pạbāmātisit wo∙ō∙ a‘ki. Ningutingigu pạbāmusät ogīwâbạndān sāga∙i∙gạn; ogīwâbạmā awīya tạcī‘känit. “Awägwänạgigic?” kī∙i∙nändạm. Mēdạc kā∙i∙cināsi‘kawāt i∙i∙māⁿ tạcī‘känit, kuniginīn ‘iᵉi´ᵘ ni‘ka! “Ạmạntcigic kätōtạwāwagwän?” kī∙i∙nändam. Cigwa ugīmi‘kwäntān i∙i∙ᵘ käcictcigät. “Taga, wa∙ō∙ ninga∙i∙nāg,” kī∙i∙nändạm. “‘Ạmbäsạnō, kīganīmi∙i∙ninim’ ninga∙i∙nāg,” kī∙i∙nändạm. Mīdạc ācikupipa‘tōd i∙i∙ᵘ sāga∙i∙gạn; kāwīicikạckīgināt cīngubīᵉ i∙i∙māⁿ u‘kunācicink, mīdạc äcimādatāwạngusät.</span>
 
-<span class="l-fiero">**Mii sa’ zhigwa minawaa gii-babaamaadizid o’ow aki. Ningoding igo babaamosed ogii-waabandaan zaaga’igan; ogii-waabamaa awiya dazhiikenid. “Awegwen-igo-ginig?” gii-inendam. Mii dash gaa-izhi-inaazikawaad iimaa dazhiikenid, goniginiin iw nika! “Amaanj igo ge-doodawaawagwen?” gii-inendam. Zhigwa ogii-mikwendaan iw ge-izhichiged. “Daga, waaw ninga-inaag,” gii-inendam. “Ambesanoo, giga-niimi’ininim ninga-inaag,” gii-inendam. Mii dash gaa-izhi-gibiibatood iw zaaga’igan; gaa-wii-izhi-gashkiginaad zhingobii iimaa okonaazhishing, mii dash gaa-izhi-madataawangosed.**</span>
+<span class="l-fiero">**Mii sa zhigwa minawaa gii-babaamaadizid o’ow aki. Ningoding igo babaamosed ogii-waabandaan zaaga’igan; ogii-waabamaa awiya dazhiikenid. “Awegwen-igo-ginig?” gii-inendam. Mii dash gaa-izhi-inaazikawaad iimaa dazhiikenid, goniginiin iw nika! “Amaanj igo ge-doodawaawagwen?” gii-inendam. Zhigwa ogii-mikwendaan iw ge-izhichiged. “Daga, waaw ninga-inaag,” gii-inendam. “Ambesanoo, giga-niimi’ininim ninga-inaag,” gii-inendam. Mii dash gaa-izhi-gibiibatood iw zaaga’igan; gaa-wii-izhi-gashkiginaad zhingobiin iimaa okonaazhishing, mii dash gaa-izhi-madataawangosed.**</span>
 
 <span class="l-eng">*And so again he went travelling about over this earth. Now, once while he was walking about, he saw a lake; he saw some creatures moving about there. “Wonder who they are!” he thought. And so, when he went over to the place where they were busied, lo, they were geese! “Wonder how I shall do to get at them!” he thought. Presently he discovered what he would do. “I say, this will I tell them,” he thought. “‘Please let me make you dance,’ I will say to them,” he thought. And then he ran up from the lake; after he had been off gathering balsam-boughs in his old soiled blanket, then out upon the beach he went walking.*</span>
 
-<span class="l-gloss">Mii sa’ zhigwa minawaa (and so now again) ∙ gii-babaamaadizid o’ow aki (he went about over this earth) ∙ Ningoding igo babaamosed (once, as he walked about) ∙ ogii-waabandaan zaaga’igan (he saw a lake) ∙ ogii-waabamaa awiya dazhiikenid (he saw beings moving about there) ∙ Awegwen-igo (wonder who they are) ∙ gaa-izhi-inaazikawaad iimaa (so he went up to them) ∙ goniginiin iw nika (lo, they were geese) ∙ Amaanj igo ge-doodawaawagwen (wonder how I shall get at them) ∙ ogii-mikwendaan iw ge-izhichiged (he found out what he would do) ∙ Daga, waaw ninga-inaag (I say, this I will tell them) ∙ Ambesanoo, giga-niimi’ininim (please, I will make you dance) ∙ gaa-izhi-gibiibatood iw zaaga’igan (he ran up from the lake) ∙ gaa-wii-izhi-gashkiginaad zhingobii iimaa okonaazhishing (gathering balsam-boughs in his old soiled blanket) ∙ gaa-izhi-madataawangosed (then he went walking on the beach).</span>
+<span class="l-gloss">Mii sa zhigwa minawaa (and so now again) ∙ gii-babaamaadizid o’ow aki (he went about over this earth) ∙ Ningoding igo babaamosed (once, as he walked about) ∙ ogii-waabandaan zaaga’igan (he saw a lake) ∙ ogii-waabamaa awiya dazhiikenid (he saw beings moving about there) ∙ Awegwen-igo (wonder who they are) ∙ gaa-izhi-inaazikawaad iimaa (so he went up to them) ∙ goniginiin iw nika (lo, they were geese) ∙ Amaanj igo ge-doodawaawagwen (wonder how I shall get at them) ∙ ogii-mikwendaan iw ge-izhichiged (he found out what he would do) ∙ Daga, waaw ninga-inaag (I say, this I will tell them) ∙ Ambesanoo, giga-niimi’ininim (please, I will make you dance) ∙ gaa-izhi-gibiibatood iw zaaga’igan (he ran up from the lake) ∙ gaa-wii-izhi-gashkiginaad zhingobiin iimaa okonaazhishing (gathering balsam-boughs in his old soiled blanket) ∙ gaa-izhi-madataawangosed (then he went walking on the beach).</span>
 
 *1 For other versions see Nos. 20 and 48. — ‘kāwīicikạckīgināt’ — the page prints ‘kāwīi-’ + ‘cikạckīgināt’ across a line break (p.100 ll.24–25, no raised dots at 20×); the Fiero reads gaa-izhi-gashkiginaad with no -wii- syllable. Page/Fiero divergence — carried as printed, flagged for the lexicon stage (11-L). [B20 retrofit, 2026-08-24]*
 
@@ -38,11 +38,11 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(3) Cigwasa owâbạmā Nänabucu, “Namạntc wīni∙i∙ᵘ kītōtawäk ningutci wä∙ā∙baminagōgun! Kägä‘tagu ningitci∙i∙nigāwagäntạm. Nackäginīn äna‘kạmiga‘k o∙ō∙witi wäntusäyān. Kägä‘t minawānigusiwạg, ki‘tcipapā‘pina‘kamigisiwạg o∙ō∙witi wäntusäyān. Ätatanā, ki‘tcinānīmi∙i∙tiwạg! Nackä, o∙o∙māⁿ pīcāyu‘k.”</span>
 
-<span class="l-fiero">**Zhigwa sa’ owaabamaa Nenabozho, “Namanj wini-i gidoodaweg* ningoji we-waabaminagoogon! Geget igo ningichi-inigaawendam. Nashke-ginin enakamigak o’ow-iidi wendoseyaan. Geget minawaanigoziwag, gichi-babaa-bina’amigiziwag o’ow-iidi wendoseyaan. Edadanaa*, gichi-inenimidiwag! Nashke, o’omaa biizhaayok*.”**</span>
+<span class="l-fiero">**Zhigwa sa owaabamaa Nenabozho, “Namanj wini-i gidoodaweg* ningoji we-waabaminagoogon! Geget igo ningichi-inigaawendam. Nashke-ginin enakamigak o’ow-iidi wendoseyaan. Geget minawaanigoziwag, gichi-babaa-bina’amigiziwag o’ow-iidi wendoseyaan. Edadanaa*, gichi-inenimidiwag! Nashke, o’omaa biizhaayok*.”**</span>
 
 <span class="l-eng">*When Nänabushu saw them, “Wonder why you act so whenever I see you anywhere! Truly hurt am I over my disappointment. Learn what is going on over here from whence I come. Truly, a fine time are they having, in a highly delightful manner are they enjoying themselves over here from whence I come. Oh, my! but what a great time they always have dancing! Hark! Come you hither.”*</span>
 
-<span class="l-gloss">Zhigwa sa’ owaabamaa Nenabozho (now when Nenabozho saw them) ∙ Namanj wini-i gidoodaweg* (wonder why you act so) ∙ ningoji we-waabaminagoogon (wherever I see you) ∙ Geget igo ningichi-inigaawendam (truly I am much disappointed) ∙ Nashke-ginin enakamigak o’ow-iidi wendoseyaan (see what is going on where I come from) ∙ Geget minawaanigoziwag (truly they are having a fine time) ∙ gichi-babaa-bina’amigiziwag (greatly enjoying themselves about) ∙ Edadanaa*, gichi-inenimidiwag (oh my, what regard they have for one another) ∙ Nashke, o’omaa biizhaayok* (hark, come hither).</span>
+<span class="l-gloss">Zhigwa sa owaabamaa Nenabozho (now when Nenabozho saw them) ∙ Namanj wini-i gidoodaweg* (wonder why you act so) ∙ ningoji we-waabaminagoogon (wherever I see you) ∙ Geget igo ningichi-inigaawendam (truly I am much disappointed) ∙ Nashke-ginin enakamigak o’ow-iidi wendoseyaan (see what is going on where I come from) ∙ Geget minawaanigoziwag (truly they are having a fine time) ∙ gichi-babaa-bina’amigiziwag (greatly enjoying themselves about) ∙ Edadanaa*, gichi-inenimidiwag (oh my, what regard they have for one another) ∙ Nashke, o’omaa biizhaayok* (hark, come hither).</span>
 
 <span class="l-orig">(4) Ānīc kägä‘t pī∙i∙cāwaᵉ.</span>
 
@@ -54,11 +54,11 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(5) “Nicīmisātug, nīmi∙i∙tiwin nimpītōn. Mīsagu ōno´ᵘ nagạmunạn kā∙i∙ciwạnäyān. Nackäsạgu kīganīmi∙i∙ninim. Uci‘tōyu‘k i∙i∙māⁿ kitacinīmi∙i∙nagu‘k.”</span>
 
-<span class="l-fiero">**“Nishiimisidog, niimi’idiwin nimbidoon. Mii sa’ igo ono’ow nagamonan gaa-izhi-onaneyaan. Nashke sa’ igo giga-niimi’ininim. Ozhitooyok iimaa gida-dazhi-niimi’inagok.”**</span>
+<span class="l-fiero">**“Nishiimisidog, niimi’idiwin nimbidoon. Mii sa igo ono’ow nagamonan gaa-izhi-onaneyaan. Nashke sa igo giga-niimi’ininim. Ozhitooyok iimaa gida-dazhi-niimi’inagok.”**</span>
 
 <span class="l-eng">*“O my little brothers! a dance have I fetched (to you). Now, these are (all) songs that I have upon my back. So therefore I am going to have you dance. Arrange you there a place where I am to have you dance.”*</span>
 
-<span class="l-gloss">Nishiimisidog (my little brothers) ∙ niimi’idiwin nimbidoon (a dance I have brought) ∙ Mii sa’ igo ono’ow nagamonan gaa-izhi-onaneyaan (these are the songs I have prepared) ∙ Nashke sa’ igo giga-niimi’ininim (so then I will make you dance) ∙ ozhitooyok iimaa gida-dazhi-niimi’inagok (make ready a place there where I am to have you dance).</span>
+<span class="l-gloss">Nishiimisidog (my little brothers) ∙ niimi’idiwin nimbidoon (a dance I have brought) ∙ Mii sa igo ono’ow nagamonan gaa-izhi-onaneyaan (these are the songs I have prepared) ∙ Nashke sa igo giga-niimi’ininim (so then I will make you dance) ∙ ozhitooyok iimaa gida-dazhi-niimi’inagok (make ready a place there where I am to have you dance).</span>
 
 <span class="l-orig">(6) Ānīc kägä‘t ạgwā‘tāwạg īgi´ᵘ ni‘känsạg, mīdạc cigwa uji‘tōwāt ‘i∙i∙māⁿ wātạcinīmi∙i∙ntwā. Ānīc ugi‘kino∙ạ∙mawā ‘iᵉi´ᵘ kä∙u∙ci‘tōnit. Ạbā‘pic kā‘kīcitōnit.</span>
 
@@ -70,19 +70,19 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(7) “Ānīc mīsa cigwa tcibīndigäyäg.” Mīsa´ äcimōckinänit. Abā‘pic kä‘kinō∙ạ∙mawāt kä∙i∙cictcigänit. “Mīgū iᵉi´ᵘ käni∙i∙na∙ạ∙mān käni∙a∙ī∙ntōtạmäg; mī∙i´∙ᵘ kä∙i∙citcigäyäg. Nạckä, kīga‘ki‘kino∙a∙mōnininim ‘iᵉi´ᵘ käni∙i∙na∙ạ∙mān, mīgu ᵉi´ᵘ käni∙a∙ī∙ntōtạmäg,” udinā i∙i∙ᵘ ni‘käⁿsaᵉ. “Ānīn wīn käcipabāmi‘tawiyäg usām tcī‘kindisoyān, ningapạsigwīwīnigu. Mīgu‘ku iᵘ kätātōtạmān i∙i∙ᵘ tcā‘kintisoyānin. Ānīc mīsa´ mīgu ‘iᵉi´ᵘ tcibabātạcicimoyān, i∙i∙ᵘ tcitcī‘kindisoyān tcibabānānīmiyān änigu‘k.”</span>
 
-<span class="l-fiero">**“Aaniish mii sa’ zhigwa ji-biindigeyeg.” Mii sa’ ezhi-mooshkinenid. Abaapish ge-gikinawa’amawaad ge-izhi-izhichigenid. “Mii go iw ge-ani-ina’amaan ge-ani-doodameg; mii iw ge-izhichigeyeg. Nashke, giga-gikinawa’amooninim iw ge-ani-ina’amaan, mii go iw ge-ani-doodameg,” odinaa iniw nikasan. “Aaniin win ge-izhi-babaamitawiyeg osaam dekindizoyaan, ninga-bazigwiwinigo. Mii go iw ge-doodamaan iw dekindizoyaanin. Aaniish mii sa’ mii go iw ji-babaa-dazhichimoyaan, iw ji-dekindizoyaan ji-babaa-naaniimiyaan enigok.”**</span>
+<span class="l-fiero">**“Aaniish mii sa zhigwa ji-biindigeyeg.” Mii sa ezhi-mooshkinenid. Abaapish ge-gikinawa’amawaad ge-izhi-izhichigenid. “Mii go iw ge-ani-ina’amaan ge-ani-doodameg; mii iw ge-izhichigeyeg. Nashke, giga-gikinawa’amooninim iw ge-ani-ina’amaan, mii go iw ge-ani-doodameg,” odinaa iniw nikasan. “Aaniin win ge-izhi-babaamitawiyeg osaam dekindizoyaan, ninga-bazigwiwinigo. Mii go iw ge-doodamaan iw dekindizoyaanin. Aaniish mii sa mii go iw ji-babaa-dazhichimoyaan, iw ji-dekindizoyaan ji-babaa-naaniimiyaan enigok.”**</span>
 
 <span class="l-eng">*“Now it is time for you to enter in.” Whereupon they filled (the place) full. In due time he taught them what they should do. “Now, the way that I shall sing is the way that you should do; such is the way you are to act. Now, listen! I will teach you what I shall sing, and that is what you are to do,” he said to the goslings. “You shall pay no heed to me when I become overwrought with excitement, for I shall be leaping to my feet. That is what I shall be doing when I get to feeling good. Now, that is the very way I shall move about in the dance, because I shall be so happy when I am moving about dancing.”*</span>
 
-<span class="l-gloss">Aaniish mii sa’ zhigwa ji-biindigeyeg (now it is time for you to enter) ∙ Mii sa’ ezhi-mooshkinenid (so they filled it full) ∙ Abaapish ge-gikinawa’amawaad ge-izhi-izhichigenid (in time he taught them what to do) ∙ Mii go iw ge-ani-ina’amaan ge-ani-doodameg (the way I sing is the way you act) ∙ giga-gikinawa’amooninim (I will teach you) ∙ odinaa iniw nikasan (he said to the goslings) ∙ osaam dekindizoyaan, ninga-bazigwiwinigo (when I get overwrought I shall leap up) ∙ ge-doodamaan iw dekindizoyaanin (that is what I do when feeling that way) ∙ ji-babaa-dazhichimoyaan (I shall dance about) ∙ ji-babaa-naaniimiyaan enigok (because I shall be dancing about greatly).</span>
+<span class="l-gloss">Aaniish mii sa zhigwa ji-biindigeyeg (now it is time for you to enter) ∙ Mii sa ezhi-mooshkinenid (so they filled it full) ∙ Abaapish ge-gikinawa’amawaad ge-izhi-izhichigenid (in time he taught them what to do) ∙ Mii go iw ge-ani-ina’amaan ge-ani-doodameg (the way I sing is the way you act) ∙ giga-gikinawa’amooninim (I will teach you) ∙ odinaa iniw nikasan (he said to the goslings) ∙ osaam dekindizoyaan, ninga-bazigwiwinigo (when I get overwrought I shall leap up) ∙ ge-doodamaan iw dekindizoyaanin (that is what I do when feeling that way) ∙ ji-babaa-dazhichimoyaan (I shall dance about) ∙ ji-babaa-naaniimiyaan enigok (because I shall be dancing about greatly).</span>
 
 <span class="l-orig">(8) Ānīc mīsa cigwa mādcīnīmi∙ā∙t i∙i∙ᵘ ni‘käⁿsa. Kägätsa udcī‘kimāᵉ nīmi∙ā∙t. “Ānīc, mīmāwīn cigwa tciwīnisạgwa,” inäntạm. Mīdạc äjinagạmut:</span>
 
-<span class="l-fiero">**Aaniish mii sa’ zhigwa maajiniimi’aad iniw nikasan. Geget sa’ odei-gimaa-niimi’aad. “Aaniish, mii maawiin niimi’izowaad igiw ninikasimag.” Mii dash ezhi-nagamod:**</span>
+<span class="l-fiero">**Aaniish mii sa zhigwa maajiniimi’aad iniw nikasan. Geget sa odei-gimaa-niimi’aad. “Aaniish, mii maawiin niimi’izowaad igiw ninikasimag.” Mii dash ezhi-nagamod:**</span>
 
 <span class="l-eng">*Well, it was now that he began to make the goslings dance. Truly happy he made them when he had them dancing. “Well, perhaps now is the time for me to kill them,” he thought. And so he sang:*</span>
 
-<span class="l-gloss">Aaniish mii sa’ zhigwa maajiniimi’aad iniw nikasan (now he began to make the goslings dance) ∙ Geget sa’ odei-gimaa-niimi’aad (truly he danced them with full heart) ∙ mii maawiin niimi’izowaad igiw ninikasimag (perhaps now my goslings dance well) ∙ mii dash ezhi-nagamod (and so he sang).</span>
+<span class="l-gloss">Aaniish mii sa zhigwa maajiniimi’aad iniw nikasan (now he began to make the goslings dance) ∙ Geget sa odei-gimaa-niimi’aad (truly he danced them with full heart) ∙ mii maawiin niimi’izowaad igiw ninikasimag (perhaps now my goslings dance well) ∙ mii dash ezhi-nagamod (and so he sang).</span>
 
 <span class="l-orig">(9) “Nabanäkātäcimuwin nimbītōn, nicīmisitug!”</span>
 
@@ -166,11 +166,11 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(19) Ickwāntäng wīn mānk a∙ī∙ntạcicimu. Kägätsa wāwisạgickāgōn awīya. “Ānīnta?” inäntạm ‘aᵉa´ᵘ mānk. “Taga pina ningatōskāb,” inäntạm. “Untikwanāntagu obō‘kugwäbinā o∙ō∙ nāminit,” inäntạm ‘aᵉa´ᵘ mānk. Äcitōskābit, kuniginīn kägä‘t na∙i∙tā inābit upimipō‘kugwäbināni.</span>
 
-<span class="l-fiero">**Ishkwaandeng win maang aa-indazhishimo. Geget sa’ wawisagishkaagon awiya. “Aaniin dash?” inendam a’aw maang. “Daga bina ninga-doozhkaab,” inendam. “Ondikonaan dago obookogwebinaa o’ow naaminid,” inendam a’aw maang. Ezhi-doozhkaabid, goniginiin geget naa-idaa inaabid obimi-bookogwebinaani.**</span>
+<span class="l-fiero">**Ishkwaandeng win maang aa-indazhishimo. Geget sa wawisagishkaagon awiya. “Aaniin dash?” inendam a’aw maang. “Daga bina ninga-doozhkaab,” inendam. “Ondikonaan dago obookogwebinaa o’ow naaminid,” inendam a’aw maang. Ezhi-doozhkaabid, goniginiin geget naa-idaa inaabid obimi-bookogwebinaani.**</span>
 
 <span class="l-eng">*By the doorway was yonder Loon dancing. Truly was he hurt when jostled by some one bumping against him. “What is the matter?” thought the Loon. “I think I had better open my eyes and see,” he thought. “It is seemingly probable that he is breaking the necks of these who are dancing,” thought the Loon. When he opened his eyes to look, lo, it truly was in time to see that (Nänabushu) was busily breaking the necks (of the goslings).*</span>
 
-<span class="l-gloss">Ishkwaandeng win maang aa-indazhishimo (by the doorway the Loon was dancing) ∙ Geget sa’ wawisagishkaagon awiya (truly he was jostled by someone) ∙ Aaniin dash … inendam a’aw maang (what is it, thought the Loon) ∙ Daga bina ninga-doozhkaab (let me open my eyes a little) ∙ Ondikonaan dago obookogwebinaa o’ow naaminid (it must be he is breaking the necks of these dancers) ∙ Ezhi-doozhkaabid (when he opened his eyes) ∙ goniginiin geget naa-idaa inaabid (lo, truly as he looked) ∙ obimi-bookogwebinaani (he was going about breaking necks).</span>
+<span class="l-gloss">Ishkwaandeng win maang aa-indazhishimo (by the doorway the Loon was dancing) ∙ Geget sa wawisagishkaagon awiya (truly he was jostled by someone) ∙ Aaniin dash … inendam a’aw maang (what is it, thought the Loon) ∙ Daga bina ninga-doozhkaab (let me open my eyes a little) ∙ Ondikonaan dago obookogwebinaa o’ow naaminid (it must be he is breaking the necks of these dancers) ∙ Ezhi-doozhkaabid (when he opened his eyes) ∙ goniginiin geget naa-idaa inaabid (lo, truly as he looked) ∙ obimi-bookogwebinaani (he was going about breaking necks).</span>
 
 <span class="l-orig">(20) O∙ō∙māⁿ äntạcicimut īni´ᵘ kāwāwisạgickāgut, mīnangwana kāwinänit. Äjisāgitcikwāskwanit. “Mīmāwīn tcitäba‘kupipa∙i∙wäyāmbān,” inäntạm äcipīgāgit ‘aᵉa´ᵘ mānk. “Abā‘pinisiwāgạn, Nänabucu kidickwạnigunān!” i‘kitō ‘aᵉa´ᵘ mānk.</span>
 
@@ -198,11 +198,11 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(23) Mīsa´ kā∙i∙cinibāt, mīsa´ kā∙i∙citcāngitiyänit; sāgi∙ā∙t ‘i∙i´∙ᵘ unikänsimaᵉ.</span>
 
-<span class="l-fiero">**Mii sa’ gaa-izhi-nibaad, mii sa’ gaa-izhi-jaangidiyenid; zaagi’aad iniw onikasiman.**</span>
+<span class="l-fiero">**Mii sa gaa-izhi-nibaad, mii sa gaa-izhi-jaangidiyenid; zaagi’aad iniw onikasiman.**</span>
 
 <span class="l-eng">*And so when he went to sleep, he then lay with the bottom projecting upward; for he was selfish of his goslings.*</span>
 
-<span class="l-gloss">Mii sa’ gaa-izhi-nibaad (so now he lay to sleep) ∙ gaa-izhi-jaangidiyenid (lying with bottom projecting) ∙ zaagi’aad iniw onikasiman (anxious over his goslings) — [Layer-1 here is a short Ojibwe sentence; Jones’s facing English at this point carries the fuller fire/baking/bottom-watch narration. *flagged* alignment: English fuller than Ojibwe at this break.]</span>
+<span class="l-gloss">Mii sa gaa-izhi-nibaad (so now he lay to sleep) ∙ gaa-izhi-jaangidiyenid (lying with bottom projecting) ∙ zaagi’aad iniw onikasiman (anxious over his goslings) — [Layer-1 here is a short Ojibwe sentence; Jones’s facing English at this point carries the fuller fire/baking/bottom-watch narration. *flagged* alignment: English fuller than Ojibwe at this break.]</span>
 
 <span class="l-orig">(24) Ānīc pimickāwāt īgi´ᵘ ạnicinābäg Nänabucōwạn kitcānkitiyä‘kisowạn. “Nänabucu owäti. Kägō māwīn ugīni‘tōnātug,” i‘kitōwạg īgi´ᵘ ạnicinābäg.</span>
 
@@ -270,7 +270,7 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(32) Cigwa kuskusi Nänabucu. “Ēⁱ, nindōnsāmingwām! Mīmāwīn usāmisuwāgwän īgi´ᵘ nini‘käⁿsimạg. Tagataga skumākuta.” Äni∙i∙ciwīkubitōt i∙i∙ᵘ usidänsini, mīgu äcināni‘kibitōt. “Na´, mīsa kägä‘t usāmisōwāt nini‘känsimạg.” Mīnawā päcig utānuwī‘kubitōn, mīgäyābi äci∙u∙ndcipitōt. “Mīsa gägä‘t usāmisuwāt īgi´ᵘ nini‘känsimag.” Mīdạc ka‘kina änīciwī‘kubitōt, “Kạnạbạtc māwīn ningīgimōtimigōg,” inändạm.</span>
 
-<span class="l-fiero">**Zhigwa goshkozi Nenabozho. “Ee, nindoonzaamingwan! Mii maawiin osaamisawegwen igiw ninikasimag ishkomaagoda.” Ani-izhi-wiikobidood iw osidaansin, mii go ezhi-naa-nikibidood. “Naa’, mii sa’ geget osaamisowaad igiw ninikasimag.” Minawaa bezhig odanowiikobidoon, mii go-gaye-aabi ezhi-onjibidood. “Mii sa’ geget osaamisowaad igiw ninikasimag.” Mii dash gakina ani-izhi-wiikobidood, “Ganabaj maawiin ningii-gimoodimigoog,” inendam.**</span>
+<span class="l-fiero">**Zhigwa goshkozi Nenabozho. “Ee, nindoonzaamingwan! Mii maawiin osaamisawegwen igiw ninikasimag ishkomaagoda.” Ani-izhi-wiikobidood iw osidaansin, mii go ezhi-naa-nikibidood. “Naa, mii sa geget osaamisowaad igiw ninikasimag.” Minawaa bezhig odanowiikobidoon, mii geyaabi ezhi-onjibidood. “Mii sa geget osaamisowaad igiw ninikasimag.” Mii dash gakina ani-izhi-wiikobidood, “Ganabaj maawiin ningii-gimoodimigoog,” inendam.**</span>
 
 <span class="l-eng">*Then up woke Nänabushu. “Why, I have overslept! Perhaps overdone must be those goslings of mine. Perhaps I had better look at them.” As one after another he pulled out their little feet, he was pulling them off. “Why, it is true that over-long have my goslings cooked.” Another he tried in vain to pull out, and that too he pulled off. “It is true that too long have my goslings been cooking.” And so, when one after another he had taken them all out, then, “Perhaps I may have been robbed,” he thought.*</span>
 
@@ -278,7 +278,7 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(33) Ō∙ō∙dac uditān i∙i∙ᵘ utcīt: “Kīgayānimis kīcpîn kā‘kimōtimigōwānän,” uditān ‘iᵉi´ᵘ utcīt. Mīdạc ānubạbānạntwāwanga∙i∙gät, mīsa´ kāwīn kạnạgä päjik umi‘kawāsīn. “Mîcạnîm!” i‘kitō. “Wäntcitōtawit kīwīntạmạwisi‘k!” i‘kitō. Kägä‘t unickī∙i∙gun ‘iᵉi´ᵘ utcīt.</span>
 
-<span class="l-fiero">**O’ow idash oditaan iniw ojid: “Giga-ayaanimiz gishpin gaa-gimoodimigooyaanen,” oditaan iw ojid. Mii dash aano-babaa-nandawaawangaa’iged, mii sa’ gaawiin ganage bezhig omikawaasiin. “Mishanim!” ikido. “Wenji-doodawid giwiindamawisiik!” ikido. Geget onishki’igon iw ojid.**</span>
+<span class="l-fiero">**O’ow idash oditaan iniw ojid: “Giga-ayaanimiz gishpin gaa-gimoodimigooyaanen,” oditaan iw ojid. Mii dash aano-babaa-nandawaawangaa’iged, mii sa gaawiin ganage bezhig omikawaasiin. “Mishanim!” ikido. “Wenji-doodawid giwiindamawisiik!” ikido. Geget onishki’igon iw ojid.**</span>
 
 <span class="l-eng">*So this he said to his bottom: “You shall suffer if I have been robbed,” he said to his bottom. Thereupon he searched about in among the ashes, but not a single one did he find. “Wretch!” he said. “For what reason should he thus treat me, that he should not tell me!” he said. Truly was he angered by his bottom.*</span>
 
@@ -286,11 +286,11 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(34) Mīsa´ äcimāwạndcitōt misạ´n, uticpā‘kwisitōnạn īni´ᵘ misạn. Äciki‘tcipōtawät, abā‘pic kā‘kitcipōtawät äcinisawa∙a∙ng ‘iᵉi´ᵘ ickutä. Ānīc, tcāgisu.</span>
 
-<span class="l-fiero">**Mii sa’ ezhi-mawanjitood misan, odishpakwisidoonan iniw misan. Ezhi-gichi-boodawed, abaapish gaa-gichi-boodawed ezhi-niisawa’ang iw ishkode. Aaniish, jaagizo.**</span>
+<span class="l-fiero">**Mii sa ezhi-mawanjitood misan, odishpakwisidoonan iniw misan. Ezhi-gichi-boodawed, abaapish gaa-gichi-boodawed ezhi-niisawa’ang iw ishkode. Aaniish, jaagizo.**</span>
 
 <span class="l-eng">*And so, when he set to gathering firewood, high he stacked the pile. Then he kindled a great fire; and by the time he had the fire going strong, he stood over the fire with legs spread apart. Well, he was thoroughly burned.*</span>
 
-<span class="l-gloss">Mii sa’ ezhi-mawanjitood misan (so he gathered firewood) ∙ odishpakwisidoonan iniw misan (he stacked the wood high) ∙ Ezhi-gichi-boodawed (he kindled a great fire) ∙ abaapish gaa-gichi-boodawed (when the fire was strong) ∙ ezhi-niisawa’ang iw ishkode (he stood astride the fire) ∙ Aaniish, jaagizo (well, he was burned).</span>
+<span class="l-gloss">Mii sa ezhi-mawanjitood misan (so he gathered firewood) ∙ odishpakwisidoonan iniw misan (he stacked the wood high) ∙ Ezhi-gichi-boodawed (he kindled a great fire) ∙ abaapish gaa-gichi-boodawed (when the fire was strong) ∙ ezhi-niisawa’ang iw ishkode (he stood astride the fire) ∙ Aaniish, jaagizo (well, he was burned).</span>
 
 <span class="l-orig">(35) Ạnicāgu, “Tcī!” kā∙i∙nwäwätänig ‘iᵉi´ᵘ utcīt; pīnicigu kāsī‘tawickāt, kāsītawitiyät. Ānīc o∙ō∙dạc uditān ‘iᵉi´ᵘ utcīt: “Äeᵉ, ‘tcīⁿ, tcīⁿ, tcīⁿ!’ kā∙i∙nwäyạn kā‘kimōtimigōyān īgi´ᵘ nini‘känsimạg,” uditān ‘iᵉi´ᵘ utcīt. Mädwätänig. “Mīmāwīni∙i∙ᵘ tcāgisugwän,” kī∙i∙nändam.</span>
 
@@ -302,11 +302,11 @@ Nänabushu breaks the Necks of the Dancing Geese (1)
 
 <span class="l-orig">(36) Mīdạc kā∙i∙cii‘kugābawit cayīgwa ānawīmādcā, mīgu iᵘ äjikaskitōsig ‘iᵉi´ᵘ ānuwimādcāt. Mīgu iᵘ äcitōngitiyä∙a∙mīt, ānīc kāwīn ugạckitōsīn ‘iᵉi´ᵘ tcîpîmusät. “Ānīnta äci∙ā∙yāwānän?” inäntạm. Mīsa´ äcipwānawītōt ānuwīpimusät. O∙o∙dạc kī∙i∙nändạm: “Amạntcigic nạntawīn i∙i∙wisa kībwānawi‘tōyān, tcipimusäyān?” Mīdạc kā∙i∙cinạntawâbạntạnk ningutci ki‘tcigīckābi‘kānig, cigwadạc kā∙i∙cicōckwạtciwät ‘iᵉi´māⁿ kīckābi‘kānig.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-iikogaabawid zhigwa anawi-maajaa, mii go iw ezhi-gashkitoosig iw anawi-maajaad. “Aaniin dash ezhi-ayaawaanen?” inendam. Mii sa’ ezhi-bwaanawitood anawi-bimosed. O’ow idash gii-inendam: “Amaanj igo nandawiin i’iwisa gibwaanawitoyaan, ji-bimoseyaan?” Mii dash gaa-izhi-nandawaabandaank ningoji gichi-giishkabikaanig, zhigwa dash gaa-izhi-zhooshkwajiwed iw’imaa giishkabikaanig.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-iikogaabawid zhigwa anawi-maajaa, mii go iw ezhi-gashkitoosig iw anawi-maajaad. “Aaniin dash ezhi-ayaawaanen?” inendam. Mii sa ezhi-bwaanawitood anawi-bimosed. O’ow idash gii-inendam: “Amaanj igo nandawiin i’iwisa gibwaanawitoyaan, ji-bimoseyaan?” Mii dash gaa-izhi-nandawaabandaank ningoji gichi-giishkabikaanig, zhigwa dash gaa-izhi-zhooshkwajiwed i’imaa giishkabikaanig.**</span>
 
 <span class="l-eng">*And after he had taken his stand away (from the fire), he then tried in vain to go; but he was unable to try to start. And so his legs were stretched far apart, but he was not able to walk. “Wonder what may be the matter with me!” he thought. And so he was without strength when he tried to walk. So this he thought: “I am curious to know what it is that prevents me from being able to walk.” And when he had sought for a place where there was a very steep cliff, then down from the cliff he slid.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-iikogaabawid (after he stood away from the fire) ∙ zhigwa anawi-maajaa (he tried to go but in vain) ∙ ezhi-gashkitoosig (he could not) ∙ Aaniin dash ezhi-ayaawaanen (wonder what is the matter with me) ∙ ezhi-bwaanawitood anawi-bimosed (he failed when he tried to walk) ∙ Amaanj igo nandawiin … gibwaanawitoyaan … ji-bimoseyaan (wonder what keeps me from walking) ∙ gaa-izhi-nandawaabandaank ningoji gichi-giishkabikaanig (he sought a steep cliff) ∙ gaa-izhi-zhooshkwajiwed iw’imaa giishkabikaanig (he slid down the cliff).</span>
+<span class="l-gloss">Mii dash gaa-izhi-iikogaabawid (after he stood away from the fire) ∙ zhigwa anawi-maajaa (he tried to go but in vain) ∙ ezhi-gashkitoosig (he could not) ∙ Aaniin dash ezhi-ayaawaanen (wonder what is the matter with me) ∙ ezhi-bwaanawitood anawi-bimosed (he failed when he tried to walk) ∙ Amaanj igo nandawiin … gibwaanawitoyaan … ji-bimoseyaan (wonder what keeps me from walking) ∙ gaa-izhi-nandawaabandaank ningoji gichi-giishkabikaanig (he sought a steep cliff) ∙ gaa-izhi-zhooshkwajiwed i’imaa giishkabikaanig (he slid down the cliff).</span>
 
 <span class="l-orig">(37) Kāpạngicing, ābạnābit, pạnägu kābä∙a∙yagu‘känig i∙i∙ᵘ utōmigitiyān. Mīdạc kā∙i∙‘kitut: “Ēi, wā‘kunạg uga∙i∙nāwān ạnicinābäg tci∙ạ∙nia‘kīwạng!”</span>
 

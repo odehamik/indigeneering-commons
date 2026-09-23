@@ -20,11 +20,11 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-orig">(1) Ninguding kīⁿwä mi‘kinā‘k wīnä‘tagu päᵉjik.</span>
 
-<span class="l-fiero">**Ningoding giiwen’ mikinaak wiin eta go bezhig.**</span>
+<span class="l-fiero">**Ningoding giiwen mikinaak wiin eta go bezhig.**</span>
 
 <span class="l-eng">*Once on a time they say a Snapping-Turtle (was) all alone.*</span>
 
-<span class="l-gloss">Ningoding (once) giiwen’ (they say) mikinaak (Snapping-Turtle) wiin eta go (he alone) bezhig (one).</span>
+<span class="l-gloss">Ningoding (once) giiwen (they say) mikinaak (Snapping-Turtle) wiin eta go (he alone) bezhig (one).</span>
 
 <span class="l-orig">(2) Mīdạc kā∙i∙nändạng:</span>
 
@@ -116,11 +116,11 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-orig">(13) “Hahahu´, hahahu´, hahahu´, hahahu´!”</span>
 
-<span class="l-fiero">**“Hahaho’, hahaho’, hahaho’, hahaho’!”**</span>
+<span class="l-fiero">**“Hahaho, Hahaho, Hahaho, Hahaho!”**</span>
 
 <span class="l-eng">*“Hahahú, hahahú, hahahú, hahahú!”*</span>
 
-<span class="l-gloss">“Hahaho’, hahaho’, hahaho’, hahaho’!”</span>
+<span class="l-gloss">“Hahaho, Hahaho, Hahaho, Hahaho!”</span>
 
 <span class="l-orig">(14) Cīgwa umāⁿ pạdạgwicininit īni´ᵘ ininiwạn ugīpîminīma∙u∙gōn ‘iᵉi´ᵘ pạgạmāgạn.</span>
 

@@ -170,11 +170,11 @@ THE THUNDERERS.
 
 <span class="l-orig">(19) Päᵉjik idạc käyābi wī∙i∙jā imāⁿ; odānungī∙ạ∙ndomān uwîdcīwâgạnạn.</span>
 
-<span class="l-fiero">**Bezhig idash geyaabi wii-izhaa imaa; *odaanongii’andomaan* =ogiid-aano-andomaan owiijiiwaaganan.**</span>
+<span class="l-fiero">**Bezhig idash geyaabi wii-izhaa imaa; *odaanongii’andomaan* owiijiiwaaganan.**</span>
 
 <span class="l-eng">*But one still wished to go thither; in vain he tried to persuade his comrade.*</span>
 
-<span class="l-gloss">Bezhig idash geyaabi (but one still) wii-izhaa imaa (wished to go thither); odaanongii’andomaan =ogiid-aano-andomaan (in vain he tried to persuade) owiijiiwaaganan (his comrade).</span>
+<span class="l-gloss">Bezhig idash geyaabi (but one still) wii-izhaa imaa (wished to go thither); odaanongii’andomaan (in vain he tried to persuade) owiijiiwaaganan (his comrade).</span>
 
 <span class="l-orig">(20) Mīdạc ạnimādcād kī∙i∙wät, mī∙i∙’∙ᵘ wāsigạn kī‘pi∙i∙jisänig i∙i∙māⁿ nībawi‘pạn ‘aᵉa’ᵘ skînawä, mī∙i∙´∙ᵘ kīnîsigut.</span>
 

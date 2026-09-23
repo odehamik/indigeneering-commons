@@ -266,11 +266,11 @@ FILCHER-OF-MEAT.
 
 <span class="l-orig">(31) Mīsa cigwa ạnimādcād. Nayāwa‘kwänig owâbạndān wīgiwām; äcita‘pābit, mīsa gäyābi nījiwaᵉ mindimōyäyaᵉ nạmạdabinit. “Nōjis, pīndigän.” Oganōnigōᵉ: “Pīndigän!” Kā∙u∙nạbit mīgōsạn sasāgāpi‘kisininiwạn utōskwaninink. Wäwäni ki∙ā∙cạmigō. Cigwa a‘ki‘kwan äcōnạgōnānit; pimidä opōdā‘kwä∙ạ∙mini. Äcikạnōnigut: “Nōjis, tibātcimun wīsāga∙ạ∙mạn.” Ānīc kagipingwäwaᵉ. Cigwasa äci∙ạ∙cạmigut. Kā∙i∙ckwāwīsinit mī∙i∙ᵘ cigwa a∙ī∙da∙i∙ckwānt kīpimī∙i∙nāwigạnäpinit.</span>
 
-<span class="l-fiero">**Mii sa zhigwa ani-maajaad. Naawakwenig owaabandaan wiigiwaam; ezhi-dapaabid, mii sa geyaabi niizhiwa mindimooyeyan namadabinid. “Noozhis, biindigen.” Oganoonigoon: “Biindigen!” Gaa-onabid migoosan zasaagaabikizininiwan odooskwaninink. Weweni gii-ashamigoo. Zhigwa akikwan ezhi-oonagonaanid; bimide oboodaakwe’amini. Ezhi-ganoonigod: “Noozhis, dibaajimon wii-zaaga’aman.” Aaniish gagiibingwewa. Zhigwa sa ezhi-ashamigod. Gaa-ishkwaa-wiisinid mii iw zhigwa a-ida-ishkwaand gii-bimi-inaawiganebinid.**</span>
+<span class="l-fiero">**Mii sa zhigwa ani-maajaad. Naawakwenig owaabandaan wiigiwaam; ezhi-dapaabid, mii sa geyaabi niizhiwan mindimooyeyan namadabinid. “Noozhis, biindigen.” Oganoonigoon: “Biindigen!” Gaa-onabid migoosan zasaagaabikizininiwan odooskwaninink. Weweni gii-ashamigoo. Zhigwa akikwan ezhi-oonagonaanid; bimide oboodaakwe’amini. Ezhi-ganoonigod: “Noozhis, dibaajimon wii-zaaga’aman.” Aaniish gagiibingwewan. Zhigwa sa ezhi-ashamigod. Gaa-ishkwaa-wiisinid mii iw zhigwa a-ida-ishkwaand gii-bimi-inaawiganebinid.**</span>
 
 <span class="l-eng">*So then it was that he started on his way. When it was noon, he saw a wigwam; on peeping in, just as before, (he saw) two old women that were sitting down. “My grandson, come in!” He was addressed by them saying: “Come in!” When he sat down, (he saw) some awls sticking out from each elbow. Well was he fed by them. Presently they hung up a kettle; some grease they put in to boil. Then he was addressed by them saying: “My grandson, make known by word when you wish to go out of doors.” Now, they were blind. Presently he was fed. After he had finished eating, then it was that on both sides of the door they took their places.*</span>
 
-<span class="l-gloss">Mii sa zhigwa ani-maajaad (so then he set out). Naawakwenig owaabandaan wiigiwaam (at noon he saw a wigwam); ezhi-dapaabid, mii sa geyaabi niizhiwa mindimooyeyan namadabinid (peeping in, again two old women sitting). “Noozhis, biindigen.” Oganoonigoon: “Biindigen!” (“my grandson, come in!” they said.) Gaa-onabid migoosan zasaagaabikizininiwan odooskwaninink (when he sat, awls were sticking out from each of their elbows). Weweni gii-ashamigoo (well was he fed). Zhigwa akikwan ezhi-oonagonaanid (presently they hung up a kettle); bimide oboodaakwe’amini (grease they put in to boil). Ezhi-ganoonigod (then they said): “Noozhis, dibaajimon wii-zaaga’aman.” (“my grandson, say when you wish to go outside.”) Aaniish gagiibingwewa (now, they were blind). Zhigwa sa ezhi-ashamigod (presently he was fed). Gaa-ishkwaa-wiisinid (after he ate) mii iw zhigwa a-ida-ishkwaand gii-bimi-inaawiganebinid (they took their places on both sides of the door).</span>
+<span class="l-gloss">Mii sa zhigwa ani-maajaad (so then he set out). Naawakwenig owaabandaan wiigiwaam (at noon he saw a wigwam); ezhi-dapaabid, mii sa geyaabi niizhiwan mindimooyeyan namadabinid (peeping in, again two old women sitting). “Noozhis, biindigen.” Oganoonigoon: “Biindigen!” (“my grandson, come in!” they said.) Gaa-onabid migoosan zasaagaabikizininiwan odooskwaninink (when he sat, awls were sticking out from each of their elbows). Weweni gii-ashamigoo (well was he fed). Zhigwa akikwan ezhi-oonagonaanid (presently they hung up a kettle); bimide oboodaakwe’amini (grease they put in to boil). Ezhi-ganoonigod (then they said): “Noozhis, dibaajimon wii-zaaga’aman.” (“my grandson, say when you wish to go outside.”) Aaniish gagiibingwewan (now, they were blind). Zhigwa sa ezhi-ashamigod (presently he was fed). Gaa-ishkwaa-wiisinid (after he ate) mii iw zhigwa a-ida-ishkwaand gii-bimi-inaawiganebinid (they took their places on both sides of the door).</span>
 
 <span class="l-orig">(32) “Mīmāwīni∙i∙´ᵘ wâ∙u∙ndciniciwāt īni‘ᵘ odōskwaniwān,” inändạm. Cigwa mi‘tig utaiyān, u‘kunās äjinīmā‘kwa∙ạ∙nk. “Nō‘kō, cigwa nintạnisāga∙ạ∙m.” Äni∙i∙jitō‘kawāt u‘kunās.</span>
 
@@ -290,11 +290,11 @@ FILCHER-OF-MEAT.
 
 <span class="l-orig">(34) Mīsa iᵘ pidcīnạg äcizāga∙ạ∙nk aᵉawinini. Animādcā. Ningutingugu owâbamā udinīganaᵉ panägu tä‘kama‘kamig. “Kāwīn ninkutci kītā∙i∙ciwīmāskawāsīg,” ugī∙i∙gōn īni´ᵘ omicōmisạn. “Ānīcnā kä∙i∙citcigäyān? ‘A∙a∙´ᵘ, nimicō, ambäsa´, wīcibāyāni‘kän!” udinān īni´ᵘ utạga‘kutcīcimạn. Äciki‘tcipạgwīt. “Aᵘ, mī gwaya‘k ināni‘kän!”</span>
 
-<span class="l-fiero">**Mii sa iw bijiinaag ezhi-zaaga’ang a’aw inini. Ani-maajaa. Ningoding igo owaabamaa odinigaanan banego dakamakamig. “Gaawiin ningoji gii-daa-izhi-wii-maashkawaasiig,” ogii-igoon iniw omishoomisan. “Aaniish naa ge-izhi-jigeyaan? A’aw, nimishoo, ambesa’, wii-zhibaayaaniken!” odinaan iniw od-akakojiishiman. Ezhi-gichi-bagwid. “Aw, mii gwayak inaaniken!”**</span>
+<span class="l-fiero">**Mii sa iw bijiinaag ezhi-zaaga’ang a’aw inini. Ani-maajaa. Ningoding igo owaabamaa odinigaanan banego dakamakamig. “Gaawiin ningoji gii-daa-izhi-wii-maashkawaasiig,” ogii-igoon iniw omishoomisan. “Aaniish naa ge-izhi-jigeyaan? A’aw, nimishoo, ambesa, wii-zhibaayaaniken!” odinaan iniw od-akakojiishiman. Ezhi-gichi-bagwid. “Aw, mii gwayak inaaniken!”**</span>
 
 <span class="l-eng">*And then presently out went the man. On his way he went. And by and by he saw some shoulder-blades (hanging) across the way before him. “In no direction can you go to pass around them,” he had been told by his grandfather. “So what am I now to do? Now, my grandfather, come, make a passageway under the ground!” he said to his woodchuck. Then he took it out from the bosom of his garment. “Now, then, straight ahead do you dig the way!”*</span>
 
-<span class="l-gloss">Mii sa iw bijiinaag ezhi-zaaga’ang a’aw inini (and then at last the man went out). Ani-maajaa (on his way he went). Ningoding igo owaabamaa odinigaanan banego dakamakamig (by and by he saw shoulder-blades right across the way). “Gaawiin ningoji gii-daa-izhi-wii-maashkawaasiig,” ogii-igoon iniw omishoomisan (“in no direction can you go round them,” his grandfather had told him). “Aaniish naa ge-izhi-jigeyaan? (“so what am I to do?) A’aw, nimishoo, ambesa’, wii-zhibaayaaniken!” (now, my grandfather, come, make a passage under the ground!”) odinaan iniw od-akakojiishiman (he said to his woodchuck). Ezhi-gichi-bagwid (then he took it out from his bosom). “Aw, mii gwayak inaaniken!” (“now, dig the way straight ahead!”)</span>
+<span class="l-gloss">Mii sa iw bijiinaag ezhi-zaaga’ang a’aw inini (and then at last the man went out). Ani-maajaa (on his way he went). Ningoding igo owaabamaa odinigaanan banego dakamakamig (by and by he saw shoulder-blades right across the way). “Gaawiin ningoji gii-daa-izhi-wii-maashkawaasiig,” ogii-igoon iniw omishoomisan (“in no direction can you go round them,” his grandfather had told him). “Aaniish naa ge-izhi-jigeyaan? (“so what am I to do?) A’aw, nimishoo, ambesa, wii-zhibaayaaniken!” (now, my grandfather, come, make a passage under the ground!”) odinaan iniw od-akakojiishiman (he said to his woodchuck). Ezhi-gichi-bagwid (then he took it out from his bosom). “Aw, mii gwayak inaaniken!” (“now, dig the way straight ahead!”)</span>
 
 <span class="l-orig">(35) Kägä‘t äjimādāni‘ka‘t aᵘ ka‘kutcīc mīgu ‘iᵉi’ᵘ änitanisit. Kägä‘t kiciyāni‘käwan. Kumāgu a‘pī pägamāni‘känit, ugạnōnān: “Mī∙i∙´ᵘ cigwa icipa‘pāni‘kän!” Kägä‘t äcipa‘pāni‘känit; pitcīnạgigu päpāni‘känit äcitạngīckawānit i∙i∙ᵘ untinīganaᵉ, pạnägu, “Sāⁿ!” kā∙i∙nwäwäcininit utinīganaᵉ.</span>
 
@@ -314,11 +314,11 @@ FILCHER-OF-MEAT.
 
 <span class="l-orig">(37) “‘A‘a´ᵘ, sāsāgīngwäpạgisun, nintagakutcīcīm!”</span>
 
-<span class="l-fiero">**“A’aw, zasaagiingwebagizon, nind-aka’kojiishiim!”**</span>
+<span class="l-fiero">**“A’aw, zasaagiingwebagizon, nind-akakojiishiim!”**</span>
 
 <span class="l-eng">*“Now, then, pop out your face, my woodchuck!”*</span>
 
-<span class="l-gloss">“A’aw, zasaagiingwebagizon, nind-aka’kojiishiim!” (“now, pop out your face, my woodchuck!”) — *zasaagiingwebagizo- ‘thrust the face out suddenly’, flagged*</span>
+<span class="l-gloss">“A’aw, zasaagiingwebagizon, nind-akakojiishiim!” (“now, pop out your face, my woodchuck!”) — *zasaagiingwebagizo- ‘thrust the face out suddenly’, flagged*</span>
 
 <span class="l-orig">(38) Kägä‘t äjinōndāgusīt tci∙ä∙nigu‘k aᵉa´ᵘ aga‘kutcīcī. Madwägigitōwan inininiwan: “Kägōwītug āwanini mägitạmuwāt.”</span>
 
@@ -454,13 +454,13 @@ Mīdac ä‘ta īgi´ⁿ kāmawimiwāt käbimādisiwāt.”</span>
 
 <span class="l-fiero">**“Nōngum nibi tasa‘kidä,  
 Mīgu gayä iya‘ki tcisa‘kitäk.  
-Mīdac ä‘ta īgi’ⁿ kāmawimiwāt käbimādisiwāt.”**</span>
+Mīdac ä‘ta īgi´ⁿ kāmawimiwāt käbimādisiwāt.”**</span>
 
 <span class="l-eng">*“This day shall water burn,  
 And the earth shall also catch on fire.  
 And then only they that wept for me shall live.”*</span>
 
-<span class="l-gloss">“Nōngum nibi tasa‘kidä” (line 1: “this day shall the water burn”); “Mīgu gayä iya‘ki tcisa‘kitäk” (line 2: “and the earth too shall catch fire”); “Mīdac ä‘ta īgi’ⁿ kāmawimiwāt käbimādisiwāt” (line 3: “and only they who wept for me shall live” — SONG, carried verbatim in both layers, not converted, merge-excluded; the sung prophecy of the fire-judgment).</span>
+<span class="l-gloss">“Nōngum nibi tasa‘kidä” (line 1: “this day shall the water burn”); “Mīgu gayä iya‘ki tcisa‘kitäk” (line 2: “and the earth too shall catch fire”); “Mīdac ä‘ta īgi´ⁿ kāmawimiwāt käbimādisiwāt” (line 3: “and only they who wept for me shall live” — SONG, carried verbatim in both layers, not converted, merge-excluded; the sung prophecy of the fire-judgment).</span>
 
 <span class="l-orig">(55) Ina∙ạ∙m äci∙ạ∙mạtcimāt īniyōsạn.</span>
 
@@ -496,11 +496,11 @@ And then only they that wept for me shall live.”*</span>
 
 <span class="l-orig">(59) Mīnawā päcig iyōpigwa‘k nō‘piming äcīna∙ä∙t. Kāpạngisininig i∙i∙wisa ūpīgwa‘k, mī nāsāp äcipiskạnänig. Ā‘tā´, kägä‘t kīciyākitäni! Owâbạndānāwa anicinābäg. Mīsa miziwä, cigwasa miziwä kinawạtitäni. Mīdạc iᵉi´ᵘ äcipīpāgit: “Kāmawimīyäg o∙o∙māⁿ ijāyu‘k! Kayä aᵉa´ᵘ nīmāmā tạbimātisi.”</span>
 
-<span class="l-fiero">**Miinawaa bezhig iyo-bigwak noopiming ezhi-ina’aad. Gaa-bangisininig i’iwisa obigwak, mii naasaab ezhi-biskanenig. Aataa’, geget gizhiyaakideni! Owaabandaanaawaa anishinaabeg. Mii sa miziwe, zhigwa sa miziwe gii-nawatitenig. Mii dash i’iw ezhi-biibaagid: “Gaa-mawimiyeg o’omaa izhaayok! Gaye a’aw nimaamaa daa-bimaadizi.”**</span>
+<span class="l-fiero">**Miinawaa bezhig iyo-bigwak noopiming ezhi-ina’aad. Gaa-bangisininig i’iwisa obigwak, mii naasaab ezhi-biskanenig. Aataa, geget gizhiyaakideni! Owaabandaanaawaa anishinaabeg. Mii sa miziwe, zhigwa sa miziwe gii-nawatitenig. Mii dash i’iw ezhi-biibaagid: “Gaa-mawimiyeg o’omaa izhaayok! Gaye a’aw nimaamaa daa-bimaadizi.”**</span>
 
 <span class="l-eng">*His other arrow he let fly inland. When yonder arrow of his had fallen, then in the same way up blazed the fire. Ah, in truth, swiftly sped the fire! The people saw it. It was everywhere, and presently it went burning everywhere. Thereupon then he called aloud: “You who wept for me, come you hither! And my mother shall also live.”*</span>
 
-<span class="l-gloss">Miinawaa bezhig iyo-bigwak noopiming ezhi-ina’aad (his other arrow he shot inland). Gaa-bangisininig i’iwisa obigwak, mii naasaab ezhi-biskanenig (when that arrow fell, the fire blazed up the same way). Aataa’, geget gizhiyaakideni! (ah, truly swiftly the fire sped!) Owaabandaanaawaa anishinaabeg (the people saw it). Mii sa miziwe, zhigwa sa miziwe gii-nawatitenig (it was everywhere, presently burning everywhere). Mii dash i’iw ezhi-biibaagid (then he called aloud): “Gaa-mawimiyeg o’omaa izhaayok! (“you who wept for me, come here!) Gaye a’aw nimaamaa daa-bimaadizi.” (and my mother too shall live.”)</span>
+<span class="l-gloss">Miinawaa bezhig iyo-bigwak noopiming ezhi-ina’aad (his other arrow he shot inland). Gaa-bangisininig i’iwisa obigwak, mii naasaab ezhi-biskanenig (when that arrow fell, the fire blazed up the same way). Aataa, geget gizhiyaakideni! (ah, truly swiftly the fire sped!) Owaabandaanaawaa anishinaabeg (the people saw it). Mii sa miziwe, zhigwa sa miziwe gii-nawatitenig (it was everywhere, presently burning everywhere). Mii dash i’iw ezhi-biibaagid (then he called aloud): “Gaa-mawimiyeg o’omaa izhaayok! (“you who wept for me, come here!) Gaye a’aw nimaamaa daa-bimaadizi.” (and my mother too shall live.”)</span>
 
 <span class="l-orig">(60) Mīdạc o∙o∙ äcinībuwāt.</span>
 

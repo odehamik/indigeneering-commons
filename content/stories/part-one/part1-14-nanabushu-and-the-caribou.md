@@ -50,11 +50,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(5) “Ạmạntcigic kä∙i∙nā‘pinanāwạgipanän?”</span>
 
-<span class="l-fiero">**“Amanj igo’sh ge-inaapinanaawagipanen?”**</span>
+<span class="l-fiero">**“Amanj igosh ge-inaapinanaawagipanen?”**</span>
 
 <span class="l-eng">*“Wonder how can I get hold of him!”*</span>
 
-<span class="l-gloss">“Amanj igo’sh ge-inaapinanaawagipanen?” (“wonder how I could get hold of him!”)</span>
+<span class="l-gloss">“Amanj igosh ge-inaapinanaawagipanen?” (“wonder how I could get hold of him!”)</span>
 
 <span class="l-orig">(6) Äciwâbạmigut, “Intacītug käpasämit,” inändạm ‘aᵘ ạdi‘k.</span>
 
@@ -226,7 +226,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(27) Kāmāwīn nintāminu‘tcigäsī, nintāpā‘pī∙i∙gōg nīnimucäⁿyạg² ugī∙a∙cäwäbạmān,” gī∙i∙nändạm.</span>
 
-<span class="l-fiero">**Gaa maawiin nindaa-minochigesii, nindaa-baapi’igoog niinimooshenyag (3) ogii-ashewebamaan,” gii-inendam.**</span>
+<span class="l-fiero">**Gaa maawiin nindaa-minochigesii, nindaa-baapi’igoog niinimooshenyag ogii-ashewebamaan,” gii-inendam.**</span>
 
 <span class="l-eng">*Perhaps it would not be proper for me to do that, for I should be made fun of by my loves (3) on account of my having begun at the opposite end,” (thus) he thought.*</span>
 
@@ -322,7 +322,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(39) Mīdạc iwiti awipōsinạng;¹ kayägu wīninōn ugīsindā‘kwicimān.</span>
 
-<span class="l-fiero">**Mii dash iwidi awi-poozinang; (4) gaye go wiininoon ogiziindaakwishimaan.**</span>
+<span class="l-fiero">**Mii dash iwidi awi-poozinang; gaye go wiininoon ogiziindaakwishimaan.**</span>
 
 <span class="l-eng">*And so there he went and placed the fat; (4) and he put the fat in where it was creaking.*</span>
 
@@ -450,11 +450,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(55) Ānīc kayä kāma‘kạndinit i∙i∙ᵘ ma∙ī∙ngạna.</span>
 
-<span class="l-fiero">**Aaniish gaye gaa-makandinid i’iw ma’iingana’.**</span>
+<span class="l-fiero">**Aaniish gaye gaa-makandinid i’iw ma’iingana.**</span>
 
 <span class="l-eng">*So of course the Wolves also grabbed that away from one another.*</span>
 
-<span class="l-gloss">Aaniish gaye gaa-makandinid i’iw ma’iingana’ (so the wolves too grabbed that away from one another).</span>
+<span class="l-gloss">Aaniish gaye gaa-makandinid i’iw ma’iingana (so the wolves too grabbed that away from one another).</span>
 
 <span class="l-orig">(56) Kā‘kitānawänit änimādcība∙i∙tinit; äcipạgitạmigut.</span>
 

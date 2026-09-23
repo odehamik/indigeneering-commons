@@ -20,11 +20,11 @@ THE FIRST-BORN SONS PLAY BALL.
 
 <span class="l-orig">(1) Ningudingsa kīⁿwäⁿ kīdāwạg mạdcī‘kiwisạg; udä‘tōwạg; ā‘pidci kistciōdäna ī∙i∙māⁿ ayāwāt.</span>
 
-<span class="l-fiero">**Ningoding sa giiwen’ gii-daawag majiikiwisag; oodetoowag; aapiji gichi-oodena i’imaa ayaawaad.**</span>
+<span class="l-fiero">**Ningoding sa giiwenh gii-daawag majiikiwisag; oodetoowag; aapiji gichi-oodena i’imaa ayaawaad.**</span>
 
 <span class="l-eng">*Once on a time, as the story goes, there lived some first-born sons; in a town they dwelt; exceedingly large was the town where they were.*</span>
 
-<span class="l-gloss">Ningoding sa giiwen’ (once on a time, they say) gii-daawag majiikiwisag (there lived some first-born sons); oodetoowag (they had a town); aapiji gichi-oodena (very large was the town) i’imaa ayaawaad (where they were).</span>
+<span class="l-gloss">Ningoding sa giiwenh (once on a time, they say) gii-daawag majiikiwisag (there lived some first-born sons); oodetoowag (they had a town); aapiji gichi-oodena (very large was the town) i’imaa ayaawaad (where they were).</span>
 
 <span class="l-orig">(2) Ạnōdc ijitcigäwạg udạminōwāt; tạsing kājigadinigin udaminōwạg.</span>
 
@@ -132,11 +132,11 @@ THE FIRST-BORN SONS PLAY BALL.
 
 <span class="l-orig">(15) Käga‘pī kī∙ạ∙nicāgōdciwinā ‘aᵉa’ᵘ mạdcī‘kiwis, wīn dạc pipōnisä kīmījạgadō ningābī∙a∙nunk ina‘kakä.</span>
 
-<span class="l-fiero">**Gegapii gii-ani-zhaagooji’winaa a’aw majiikiwis, wiin dash biboonise gii-mizhagadoo ningaabii’anong inagake.**</span>
+<span class="l-fiero">**Gegapii gii-ani-zhaagoojiwinaa a’aw majiikiwis, wiin dash biboonise gii-mizhagadoo ningaabii’anong inagake.**</span>
 
 <span class="l-eng">*At last was the first-born being beaten, for Winter-Wind had made a goal on the side toward the west.*</span>
 
-<span class="l-gloss">Gegapii gii-ani-zhaagooji’winaa a’aw majiikiwis (at last that first-born was being beaten), wiin dash biboonise (and Winter-Wind for his part) gii-mizhagadoo ningaabii’anong inagake (made a goal at the side toward the west).</span>
+<span class="l-gloss">Gegapii gii-ani-zhaagoojiwinaa a’aw majiikiwis (at last that first-born was being beaten), wiin dash biboonise (and Winter-Wind for his part) gii-mizhagadoo ningaabii’anong inagake (made a goal at the side toward the west).</span>
 
 <span class="l-orig">(16) A‘pī∙i∙dạc kāpa‘kinawint ‘aᵉa´ᵘ mạdcī‘kiwis ugīkạnōnigōn pipōnisän:</span>
 
@@ -164,11 +164,11 @@ THE FIRST-BORN SONS PLAY BALL.
 
 <span class="l-orig">(19) Mīsa∙i∙ äjipa‘kinōnān,” ināⁿ.</span>
 
-<span class="l-fiero">**Mii sa i’ ezhi-bakinoonaan,” inaan.**</span>
+<span class="l-fiero">**Mii sa i ezhi-bakinoonaan,” inaan.**</span>
 
 <span class="l-eng">*Therefore such is what I have won from you,” he was told.*</span>
 
-<span class="l-gloss">Mii sa i’ ezhi-bakinoonaan,” (“therefore such is how I have won from you,”) inaan (he was told).</span>
+<span class="l-gloss">Mii sa i ezhi-bakinoonaan,” (“therefore such is how I have won from you,”) inaan (he was told).</span>
 
 <span class="l-orig">(20) Mīdạc ī∙i∙´u kā∙u∙ndci∙i∙jiwäba‘k.</span>
 

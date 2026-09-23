@@ -1030,19 +1030,19 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(127) “Pa‘! wayāsiwit nimpītcimāma.”</span>
 
-<span class="l-fiero">**“Pa’! wayaasiwid nimbiijimaamaa.”**</span>
+<span class="l-fiero">**“Pa! wayaasiwid nimbiijimaamaa.”**</span>
 
 <span class="l-eng">*“Phew! somebody of the flesh I smell as I come.”*</span>
 
-<span class="l-gloss">“Pa’! wayaasiwid (someone of the flesh) nimbiijimaamaa (I smell as I come).”</span>
+<span class="l-gloss">“Pa! wayaasiwid (someone of the flesh) nimbiijimaamaa (I smell as I come).”</span>
 
 <span class="l-orig">(128) Mīgu mīnawā päjik, “Pa‘! wayāsiwit nimpītcimāma.”</span>
 
-<span class="l-fiero">**Mii go miinawaa bezhig, “Pa’! wayaasiwid nimbiijimaamaa.”**</span>
+<span class="l-fiero">**Mii go miinawaa bezhig, “Pa! wayaasiwid nimbiijimaamaa.”**</span>
 
 <span class="l-eng">*And so another, “Phew! some one of the flesh I smell as I come.”*</span>
 
-<span class="l-gloss">Mii go miinawaa bezhig (and then another), “Pa’! wayaasiwid (someone of the flesh) nimbiijimaamaa (I smell as I come).”</span>
+<span class="l-gloss">Mii go miinawaa bezhig (and then another), “Pa! wayaasiwid (someone of the flesh) nimbiijimaamaa (I smell as I come).”</span>
 
 <span class="l-orig">(129) Mīgu ka‘kina kā∙i∙‘kitowāt.</span>
 
@@ -1318,11 +1318,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(163) “Pa‘, wāyāsiwit nimpītcimāmā!” i‘kitōwag.</span>
 
-<span class="l-fiero">**“Pa’, waayaasiwid nimbiijimaamaa!” ikidowag.**</span>
+<span class="l-fiero">**“Pa, waayaasiwid nimbiijimaamaa!” ikidowag.**</span>
 
 <span class="l-eng">*“Phew! some one of the flesh I smelled as I came in,” (thus) they said.*</span>
 
-<span class="l-gloss">“Pa’, waayaasiwid (someone of the flesh) nimbiijimaamaa (I smell as I come)!” ikidowag (they said).</span>
+<span class="l-gloss">“Pa, waayaasiwid (someone of the flesh) nimbiijimaamaa (I smell as I come)!” ikidowag (they said).</span>
 
 <span class="l-orig">(164) Mīgu ka‘kina äkitowāt.</span>
 

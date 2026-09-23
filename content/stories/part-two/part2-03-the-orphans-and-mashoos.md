@@ -424,11 +424,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(52) Mīdạc kīwīndạmāwāt unīdcānisa‘, kī∙i∙nāt:</span>
 
-<span class="l-fiero">**Mii dash kii-wiindamaawaat oniijaanisa’, kii-inaat:**</span>
+<span class="l-fiero">**Mii dash kii-wiindamaawaat oniijaanisan, kii-inaat:**</span>
 
 <span class="l-eng">*And then he spoke to his children, he said to them:*</span>
 
-<span class="l-gloss">Mii dash kii-wiindamaawaat oniijaanisa’ (and then he told his children), kii-inaat (saying to them):</span>
+<span class="l-gloss">Mii dash kii-wiindamaawaat oniijaanisan (and then he told his children), kii-inaat (saying to them):</span>
 
 <span class="l-orig">(53) “Ningīwâbạmā kīgiwā ändōdạnk.</span>
 
@@ -1696,11 +1696,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(211) Mīdạc mīnawā kimādcinicawād unītcānisaˢ.</span>
 
-<span class="l-fiero">**Mii dash miinawaa ki-maajinishawaad oniichaanisa’.**</span>
+<span class="l-fiero">**Mii dash miinawaa ki-maajinishawaad oniichaanisan.**</span>
 
 <span class="l-eng">*And then again she went in pursuit of her children.*</span>
 
-<span class="l-gloss">Mii dash miinawaa ki-maajinishawaad oniichaanisa’ (and then again she went pursuing her children).</span>
+<span class="l-gloss">Mii dash miinawaa ki-maajinishawaad oniichaanisan (and then again she went pursuing her children).</span>
 
 <span class="l-orig">(212) Mīdạc ninguting minawā kwīwisäns ạnipapimiba‘tōd.</span>
 
@@ -1880,11 +1880,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(234) Mīdạc kīwäⁿ awi‘kwä äjikīwitāskạng iᵘ ckutä pīnic kī∙u∙ditạnk umi‘kạnāni unītcānisaˢ.</span>
 
-<span class="l-fiero">**Mii dash giiwenh aw ikwe ezhikiiwitaaskang iw shkote piinish kii-oditank omikanaani oniichaanisa’.**</span>
+<span class="l-fiero">**Mii dash giiwenh aw ikwe ezhikiiwitaaskang iw shkote piinish kii-oditank omikanaani oniichaanisan.**</span>
 
 <span class="l-eng">*And then they say that the woman passed round the boundaries of the fire till she came to the path of her children.*</span>
 
-<span class="l-gloss">Mii dash giiwenh aw ikwe ezhikiiwitaaskang iw shkote (and then, they say, the woman went round the boundary of the fire) piinish kii-oditank omikanaani oniichaanisa’ (until she reached her children’s path).</span>
+<span class="l-gloss">Mii dash giiwenh aw ikwe ezhikiiwitaaskang iw shkote (and then, they say, the woman went round the boundary of the fire) piinish kii-oditank omikanaani oniichaanisan (until she reached her children’s path).</span>
 
 <span class="l-orig">(235) Igi´widạc ạbinōtcīyạg kīmạdāpīwạg zīpi.</span>
 
@@ -1944,11 +1944,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(242) “Äⁿyeˢ,” udinān.</span>
 
-<span class="l-fiero">**“Enye’,” odinaan.**</span>
+<span class="l-fiero">**“Enye,” odinaan.**</span>
 
 <span class="l-eng">*“We will,” he said to him.*</span>
 
-<span class="l-gloss">“Enye’,” odinaan (“we will,” he said to him).</span>
+<span class="l-gloss">“Enye,” odinaan (“we will,” he said to him).</span>
 
 <span class="l-orig">(243) “Kīnä‘tạgu k∙igatājawa∙o∙nin, kāwīn wīn kicīⁿmä,” udigōn.</span>
 
@@ -2057,11 +2057,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(256) “Āwidac kīni‘tạm kigatājo∙o∙nin,” udigōn.</span>
 
-<span class="l-fiero">**“Aw idash kiinitam kigat-aazhoo’nin,” odigoon.**</span>
+<span class="l-fiero">**“Aw idash kiinitam kigat-aazhoonin,” odigoon.**</span>
 
 <span class="l-eng">*“Therefore first you will I carry across the water,” he was told.*</span>
 
-<span class="l-gloss">“Aw idash kiinitam kigat-aazhoo’nin,” odigoon (“so you first I will carry across,” he was told).</span>
+<span class="l-gloss">“Aw idash kiinitam kigat-aazhoonin,” odigoon (“so you first I will carry across,” he was told).</span>
 
 <span class="l-orig">(257) Mīdạc aᵘ zäzī‘kisit kwīwisäns kā∙i∙jiki‘tci∙ā∙nzanāmut.</span>
 
@@ -3365,7 +3365,7 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(419) Mīdạc kīwäⁿ a‘kiwänzi ä‘kiditu:</span>
 
-<span class="l-fiero">**Mii dash giiwenh akiwenzi ekidito: ekido?**</span>
+<span class="l-fiero">**Mii dash giiwenh akiwenzi ekidito:**</span>
 
 <span class="l-eng">*And then they say that the old man said:*</span>
 
@@ -3534,11 +3534,11 @@ THE ORPHANS AND MASHOOS
 <span class="l-orig">(440) ‘Aᵘ!” udigōn; “kigāgumin.”  
 “</span>
 
-<span class="l-fiero">**“ ’Aw!” odigoon; “kigaa-gomin.”**</span>
+<span class="l-fiero">**“ Aw!” odigoon; “kigaa-gomin.”**</span>
 
 <span class="l-eng">*“All right!” (thus) he was told; “I will swallow you.”*</span>
 
-<span class="l-gloss">“’Aw!” odigoon (“all right!” he was told); “kigaa-gomin.” (“I will swallow you.”)</span>
+<span class="l-gloss">“Aw!” odigoon (“all right!” he was told); “kigaa-gomin.” (“I will swallow you.”)</span>
 
 <span class="l-orig">(441) ‘A!” i‘kito kayä wīn inini; “pōtcinạngä nimpimātis,” inändạm awinini.</span>
 
@@ -4230,11 +4230,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(527) “Ayeˢ,” udigōn.</span>
 
-<span class="l-fiero">**“Aye’,” odigoon.**</span>
+<span class="l-fiero">**“Aye,” odigoon.**</span>
 
 <span class="l-eng">*“All right!” he was told.*</span>
 
-<span class="l-gloss">“Aye’,” odigoon (“all right!” he was told).</span>
+<span class="l-gloss">“Aye,” odigoon (“all right!” he was told).</span>
 
 <span class="l-orig">(528) Mīdac awä inini pạngi mādcītōd wâwạnōn.</span>
 
@@ -4438,11 +4438,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(553) “Wägunen tino wâwanūn?” udināˢ.</span>
 
-<span class="l-fiero">**“Wegonen tino wawanoon?” odinaa’.**</span>
+<span class="l-fiero">**“Wegonen tino wawanoon?” odinaan.**</span>
 
 <span class="l-eng">*“What kind of eggs?” he said to them.*</span>
 
-<span class="l-gloss">“Wegonen tino wawanoon?” odinaa’ (“what kind of eggs?” he said to them).</span>
+<span class="l-gloss">“Wegonen tino wawanoon?” odinaan (“what kind of eggs?” he said to them).</span>
 
 <span class="l-orig">(554) “Kayāckwāwạnūnsa;” udināwān.</span>
 

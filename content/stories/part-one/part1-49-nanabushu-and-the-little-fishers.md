@@ -131,7 +131,7 @@ Ojiigensag (little fishers) inaa (indeed) gaa-poopookojiibinagwaa (are the ones 
 
 <span class="l-orig">(15) A‘pī∙i∙dac ädimint, mi‘tigunk kī∙ā∙‘pạgizo.¹</span>
 
-<span class="l-fiero">**Apii dash edimind, mitigong gii-apagizo. (1)**</span>
+<span class="l-fiero">**Apii dash edimind, mitigong gii-apagizo.**</span>
 
 <span class="l-eng">*And when he was overtaken, he turned instantly into a log. (1)*</span>
 

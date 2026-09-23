@@ -370,11 +370,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(45) “Ōᵘ!”</span>
 
-<span class="l-fiero">**“Ōu!”**</span>
+<span class="l-fiero">**“Ōᵘ!”**</span>
 
 <span class="l-eng">*“Oh!”*</span>
 
-<span class="l-gloss">“Ōu!” (an interjection — carried verbatim from Layer 1, per the vocable rule).</span>
+<span class="l-gloss">“Ōᵘ!” (an interjection — carried verbatim from Layer 1, per the vocable rule).</span>
 
 <span class="l-orig">(46) i‘kito mindamōyä.</span>
 
@@ -594,7 +594,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(73) Mīdạc wäwīp cayīgwa wī∙u∙mbōmāt Nänabucu ō‘kumisạn. Mīdạc änāt: “‘Āᵘ, kīga∙u∙mbōmin,” udinān ō‘kumisạn.</span>
 
-<span class="l-fiero">**Mii dash wewiib zhayiigwa wii-ombomaad Nenabozho ookomisan. Mii dash enaad: “ ‘Āᵘ, gigad-ombomin,’ ” odinaan ookomisan.**</span>
+<span class="l-fiero">**Mii dash wewiib zhayiigwa wii-ombomaad Nenabozho ookomisan. Mii dash enaad: “Aaw, gigad-ombomin,” odinaan ookomisan.**</span>
 
 <span class="l-eng">*And so hastily was Nänabushu now going to carry his grandmother upon his back. Thereupon he said to her: “Come, let me carry you upon my back!” he said to her.*</span>
 

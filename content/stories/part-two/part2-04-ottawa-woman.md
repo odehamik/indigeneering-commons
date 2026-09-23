@@ -20,11 +20,11 @@ OTTAWA-WOMAN.
 
 <span class="l-orig">(1) Ningudingsa kīⁿwäⁿ kī∙a∙i∙ndā udāwā‘kwä, niji‘käwizi.</span>
 
-<span class="l-fiero">**Ningoding sa giiwen’ gii-ayindaa odaawaakwe, nizhikewizi.**</span>
+<span class="l-fiero">**Ningoding sa giiwenh gii-ayindaa odaawaakwe, nizhikewizi.**</span>
 
 <span class="l-eng">*Now, once on a time, it is said, there was an Ottawa-Woman; she was alone.*</span>
 
-<span class="l-gloss">Ningoding sa giiwen’ (now, once it is said) gii-ayindaa odaawaakwe (there lived an Ottawa-Woman), nizhikewizi (she was alone).</span>
+<span class="l-gloss">Ningoding sa giiwenh (now, once it is said) gii-ayindaa odaawaakwe (there lived an Ottawa-Woman), nizhikewizi (she was alone).</span>
 
 <span class="l-orig">(2) Kāwīn ininiwạn udayāwāsīn ạnōdc kägō udōji‘tōn, a‘picimunạn ka‘kina gägōn kā∙i∙jitcigäwād i‘kwäwạg, mạckimudạn kayä; mī∙i∙’ᵘ äniwä‘k kāwin ā‘pidci kạckändạⁿzī nicikäwizit.</span>
 

@@ -36,11 +36,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(3) O∙ō∙widạc kī∙i∙‘kitōwạg īgi’ᵘ ma∙i∙nganạg: “Kägu päcu’ ā‘pitci icā‘kägun, kägō kīwī∙i∙gowā,” ugīināᵉ.</span>
 
-<span class="l-fiero">**O’ow idash gii-ikidowag igiw ma’iinganag: “Gego besho aapiji izhaakegon, gegoo giwii-igowaa,” ogii-inaa.**</span>
+<span class="l-fiero">**O’ow idash gii-ikidowag igiw ma’iinganag: “Gego besho aapiji izhaakegon, gegoo giwii-igowaa,” ogii-inaan.**</span>
 
 <span class="l-eng">*And this said the wolves: “Go you not so very close, for he wishes to say something to you,” they said of him.*</span>
 
-<span class="l-gloss">O’ow idash gii-ikidowag igiw ma’iinganag (and this the wolves said), Gego besho aapiji izhaakegon (do not go too close), gegoo giwii-igowaa (he wants to tell you something), ogii-inaa (so it was said).</span>
+<span class="l-gloss">O’ow idash gii-ikidowag igiw ma’iinganag (and this the wolves said), Gego besho aapiji izhaakegon (do not go too close), gegoo giwii-igowaa (he wants to tell you something), ogii-inaan (so it was said).</span>
 
 <span class="l-orig">(4) Mīdạc kägä‘t nāgäwāsa wāntcigābāwiwāt kạnonāwāt.</span>
 

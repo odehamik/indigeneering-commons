@@ -258,11 +258,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(31) Äckạm änigu‘k pīpāgi, käga‘pī, “Mānū, iciwītawi‘k Nänabucu ugīcō‘täunaᵉ.” Kägä‘t</span>
 
-<span class="l-fiero">**Eshkam enigok biibaagi, gegapii, “Maanoo, izhiwidawik Nenaboozhoo ogiishoote’ona’.”**</span>
+<span class="l-fiero">**Eshkam enigok biibaagi, gegapii, “Maanoo, izhiwidawik Nenaboozhoo ogiishoote’onan.”**</span>
 
 <span class="l-eng">*Louder still he shouted, till finally, “Well, then do you take to Nänabushu his mittens.”*</span>
 
-<span class="l-gloss">Eshkam enigok biibaagi (louder and louder he shouted), gegapii (until at last), “Maanoo, izhiwidawik Nenaboozhoo ogiishoote’ona’.” (“very well, take Nenaboozhoo his mittens.”)</span>
+<span class="l-gloss">Eshkam enigok biibaagi (louder and louder he shouted), gegapii (until at last), “Maanoo, izhiwidawik Nenaboozhoo ogiishoote’onan.” (“very well, take Nenaboozhoo his mittens.”)</span>
 
 <span class="l-orig">(32) kwīwisänsạg uticīwināwā.</span>
 

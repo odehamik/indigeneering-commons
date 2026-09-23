@@ -36,11 +36,11 @@ MAGIC PAINT.
 
 <span class="l-orig">(3) “Nīⁿj mạzininīⁿsạg uji, tạ∙a∙gāncī∙i∙wạg —pä∙jik kīn, pä∙jikidạc ‘aᵉa´ᵘ uckinīgi‘kwä.</span>
 
-<span class="l-fiero">**“Niizh mazininiinsag ozhi’, da-agaashii’iwag – bezhig giin, bezhig idash a’aw oshkiniigikwe.**</span>
+<span class="l-fiero">**“Niizh mazininiinsag ozhi, da-agaashii’iwag — bezhig giin, bezhig idash a’aw oshkiniigikwe.**</span>
 
 <span class="l-eng">*“Two little images do you make, let them be small, —one (to represent) yourself, and one the maiden.*</span>
 
-<span class="l-gloss">“Niizh mazininiinsag ozhi’ (“make two little images), da-agaashii’iwag (let them be small) — bezhig giin (one, yourself), bezhig idash a’aw oshkiniigikwe (and one, that young woman).</span>
+<span class="l-gloss">“Niizh mazininiinsag ozhi (“make two little images), da-agaashii’iwag (let them be small) — bezhig giin (one, yourself), bezhig idash a’aw oshkiniigikwe (and one, that young woman).</span>
 
 <span class="l-orig">(4) Kigawīnā ‘aᵉa´ᵘ äjini‘kāzut.</span>
 
@@ -92,7 +92,7 @@ MAGIC PAINT.
 
 <span class="l-orig">(10) Kīcpin gayä anicinābä ābatci∙ā∙d unamạnạn wīnisāt awäsīyạn mōzōn, ạdi‘kwạn kayä, kīcpîn māda∙ạ∙nāt ā‘pidci uckinạminit,— jäbai a‘pītinạnk ‘aᵉa´ᵘ awäsī,— mī∙i∙´ᵘ äji∙ā∙ba∙ạ∙nk ī∙i∙´ᵘ unạmạn.</span>
 
-<span class="l-fiero">**Giishpin gaye anishinaabe aabaji’aad onamanan wii-nisaad awesiiyan moozoon, adikwan gaye, giishpin maada’anaad aapiji oshkinaminid, – zhebai aabidinang a’aw awesii, – mii iw ezhi-aaba’ang i’iw onaman.**</span>
+<span class="l-fiero">**Giishpin gaye anishinaabe aabaji’aad onamanan wii-nisaad awesiiyan moozoon, adikwan gaye, giishpin maada’anaad aapiji oshkinaminid, — zhebai aabidinang a’aw awesii, — mii iw ezhi-aaba’ang i’iw onaman.**</span>
 
 <span class="l-eng">*And if a man also wishes to use the magic paint for the purpose of killing game-animals, a moose, or a caribou, if he is following close upon a fresh trail they have just made, — as, for instance, the trail of a game-animal made this morning, — then he unties (the covering of) the magic paint.*</span>
 

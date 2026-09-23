@@ -74,11 +74,11 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-orig">(8) “Niˢtcīmiˢtcā,² mīsạgu ᵉi∙i∙ᵘ päbā∙i∙nạnō‘kīyān, pạbānạ ntanīmi∙i∙tīyān.</span>
 
-<span class="l-fiero">**“Nijiimijaa,(1) mii sa go i’iw bebaa-inanookiiyaan, babaa-nanda-niimi’idiiyaan.**</span>
+<span class="l-fiero">**“Nijiimijaa, mii sa go i’iw bebaa-inanookiiyaan, babaa-nanda-niimi’idiiyaan.**</span>
 
 <span class="l-eng">*“My little brothers, this is precisely what I am travelling about for, round about am I seeking for a place to dance.*</span>
 
-<span class="l-gloss">“Nijiimijaa,(1) (“my little brothers,) mii sa go i’iw bebaa-inanookiiyaan (this is just the very thing I go about working at), babaa-nanda-niimi’idiiyaan (going about seeking a place to dance).</span>
+<span class="l-gloss">“Nijiimijaa, (“my little brothers,) mii sa go i’iw bebaa-inanookiiyaan (this is just the very thing I go about working at), babaa-nanda-niimi’idiiyaan (going about seeking a place to dance).</span>
 
 <span class="l-orig">(9) Kiˢtci∙ạ∙nigu‘k kīgawi‘tō‘kōninim.”</span>
 

@@ -82,11 +82,11 @@ Nanabush Flies with the Geese
 
 <span class="l-orig">(9) Mīdạc kā∙i∙nāt: “Anigä‘kā kītākackī∙i∙sīm kayä nīn tcipimisäyāmbān?”</span>
 
-<span class="l-fiero">**Mii dash gaa-inaad: “Anigekaa gidaa-gashkii’siim gaye niin ji-bimiseyaambaan?”**</span>
+<span class="l-fiero">**Mii dash gaa-inaad: “Anigekaa gidaa-gashkiisiim gaye niin ji-bimiseyaambaan?”**</span>
 
 <span class="l-eng">*And this he then said to them: “I want to know if you could fix me up so that I too might fly.”*</span>
 
-<span class="l-gloss">Mii dash (and then) gaa-inaad (what he said to them): “Anigekaa (I wonder, I should like to know) gidaa-gashkii’siim (could you manage/fix it for me) gaye niin (me too, also I) ji-bimiseyaambaan (that I might fly)?”</span>
+<span class="l-gloss">Mii dash (and then) gaa-inaad (what he said to them): “Anigekaa (I wonder, I should like to know) gidaa-gashkiisiim (could you manage/fix it for me) gaye niin (me too, also I) ji-bimiseyaambaan (that I might fly)?”</span>
 
 <span class="l-orig">(10) “Nänabucu, ānawi kītākạckī∙i∙gō tcipimisäyạn, kāwīnidạc kītāpisindaⁿzī ‘iᵉi’ᵘ kä∙i∙gōyạmbạm.”</span>
 
@@ -318,11 +318,11 @@ Nänabucu uwītcisāmā ucīmisaᵉ, ucīmisaᵉ. Tāpangicin.”</span>
 
 <span class="l-orig">(38) Mīsa’ kägä‘t äci∙ā∙biskwamigut kanawâbạmāt; kāmạmō wābitänit igu iᵘ mindimōyäyaᵉ.</span>
 
-<span class="l-fiero">**Mii sa geget ezhi-aabiskwamigod ganawaabamaad; gaa-mamoowaabidenid igo iw mindimooyeya’.**</span>
+<span class="l-fiero">**Mii sa geget ezhi-aabiskwamigod ganawaabamaad; gaa-mamoowaabidenid igo iw mindimooyeyan.**</span>
 
 <span class="l-eng">*And so truly, while being unbound, was he watching them; (he saw that) the old women had dung in their teeth.*</span>
 
-<span class="l-gloss">Mii sa geget (and so truly) ezhi-aabiskwamigod (the way he was being unbound/untied) ganawaabamaad (while watching them); gaa-mamoowaabidenid igo (that they had it caught in their teeth) iw mindimooyeya’ (those old women).</span>
+<span class="l-gloss">Mii sa geget (and so truly) ezhi-aabiskwamigod (the way he was being unbound/untied) ganawaabamaad (while watching them); gaa-mamoowaabidenid igo (that they had it caught in their teeth) iw mindimooyeyan (those old women).</span>
 
 <span class="l-orig">(39) Kā‘kīcī‘kāgut äcinānīwanuwāt.²</span>
 

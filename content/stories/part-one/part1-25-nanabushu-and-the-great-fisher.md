@@ -366,11 +366,11 @@ Gichi-gami deshkiikaag,” (the shores of the sea draw apart,” — *song line 
 
 <span class="l-orig">(42) “Pabā‘pinisiwāgạn, mīsa gägä‘t nibuyān!”</span>
 
-<span class="l-fiero">**“Babaapiniwaagan, mii sa geget niboyaan!”**</span>
+<span class="l-fiero">**“Babaapiniziwaagan, mii sa geget niboyaan!”**</span>
 
 <span class="l-eng">*“Woe is me, for now surely I shall die!”*</span>
 
-<span class="l-gloss">“Babaapiniwaagan (“woe is me — *stem flagged*), mii sa geget niboyaan!” (now surely I shall die!”)</span>
+<span class="l-gloss">“Babaapiniziwaagan (“woe is me — *stem flagged*), mii sa geget niboyaan!” (now surely I shall die!”)</span>
 
 <span class="l-orig">(43) Wägunäniwinän äjikaski‘tōt tcipīpāgi: “Mici∙u∙tcīg!”</span>
 
