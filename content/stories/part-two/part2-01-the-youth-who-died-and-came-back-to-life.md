@@ -28,11 +28,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(2) Ānīcinā usägi∙ā∙ unigī∙i∙gōᵉ.</span>
 
-<span class="l-fiero">**Aaniish inaa ozegi’aa oniigi’igoo’.**</span>
+<span class="l-fiero">**Aaniish inaa ozegi’aa oniigi’igoon.**</span>
 
 <span class="l-eng">*Naturally of course he frightened his parents.*</span>
 
-<span class="l-gloss">Aaniish inaa (well then) ozegi’aa (he frightened them) oniigi’igoo’ (his parents).</span>
+<span class="l-gloss">Aaniish inaa (well then) ozegi’aa (he frightened them) oniigi’igoon (his parents).</span>
 
 <span class="l-orig">(3) Ā‘pidci dạc kayä osāgi∙i∙gōgubạn; ā‘pidci mī‘kawātci∙u∙skinawägubạn, kayä ni‘tā∙ạ∙ndawäntcigägubạn.</span>
 
@@ -60,11 +60,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(6) Mīdạc kīwäⁿ cayīgwa ānāt unīgī∙i∙gōᵉ: “Mī∙i´∙ᵘ intawātc ijipōni∙i∙ciyu‘k; kāwīn a‘pō‘tc kạnabạtc nintāmino∙a∙yāsī,” udinān.</span>
 
-<span class="l-fiero">**Mii dash giiwenh zhayiigwa enaad oniigi’igoo’: “Mii iw indawaaj izhi-booni’ishiyok; gaawiin abooch ganabaj nindaa-mino-ayaasii,” odinaan.**</span>
+<span class="l-fiero">**Mii dash giiwenh zhayiigwa enaad oniigi’igoon: “Mii iw indawaaj izhi-booni’ishiyok; gaawiin abooch ganabaj nindaa-mino-ayaasii,” odinaan.**</span>
 
 <span class="l-eng">*And then they say that now he said to his parents: “It is better that you now leave me alone; for not at all is it likely that I shall recover,” he (thus) said to them.*</span>
 
-<span class="l-gloss">Mii dash giiwenh (and then they say) zhayiigwa enaad oniigi’igoo’ (now he said to his parents): “Mii iw indawaaj izhi-booni’ishiyok (it is better for you to stop); gaawiin abooch ganabaj nindaa-mino-ayaasii (because probably i won’t recover),” odinaan (he said to them).</span>
+<span class="l-gloss">Mii dash giiwenh (and then they say) zhayiigwa enaad oniigi’igoon (now he said to his parents): “Mii iw indawaaj izhi-booni’ishiyok (it is better for you to stop); gaawiin abooch ganabaj nindaa-mino-ayaasii (because probably i won’t recover),” odinaan (he said to them).</span>
 
 <span class="l-orig">(7) “Ānīc wīn, ningwis, wändci∙i∙‘kituyạn? Pîtcīnạg kuca kiwīmādcīpimātis,” udigōn ugīn.</span>
 
@@ -454,11 +454,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(55) Mīdạc imā ayīnābit mī undciwâbạmāt ạnimucaᵉ nīdawa‘kạna nạmạdạbinit.</span>
 
-<span class="l-fiero">**Mii dash imaa ayinaabid mii onji-waabamaad animosha’ niidawakana namadabinid.**</span>
+<span class="l-fiero">**Mii dash imaa ayinaabid mii onji-waabamaad animoshan niidawakana namadabinid.**</span>
 
 <span class="l-eng">*Thereupon, as roundabout he looked from where he was, he beheld the dogs which sat upon both sides of the road.*</span>
 
-<span class="l-gloss">Mii dash imaa ayinaabid (and as he looked about from where he was) mii onji-waabamaad (from there he saw) animosha’ (dogs) niidawakana namadabinid (sitting on both sides of the road).</span>
+<span class="l-gloss">Mii dash imaa ayinaabid (and as he looked about from where he was) mii onji-waabamaad (from there he saw) animoshan (dogs) niidawakana namadabinid (sitting on both sides of the road).</span>
 
 <span class="l-orig">(56) Mīdạc imā ta‘kamaya∙ī∙ mī‘kạnāng änagōtcinowāt īgi´ᵘ udinīgạnạg nābidä∙ō∙sowāt, kägā tānga‘kīkōtcinōg.</span>
 
@@ -542,11 +542,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(66) Mīsa´ wäwäni kā∙i∙jicībā‘kawāt īni´ᵘ udinīgạnaᵉ kīkuckukanakickawāsig kanagä kī∙ạ∙mạdci∙ā∙sig ạnimucaᵉ.</span>
 
-<span class="l-fiero">**Mii sa weweni gaa-izhi-zhiibaakawaad iniw odiniigana’ gii-goshkoganagishkawaasig ganage gii-amaji’aasig animosha’.**</span>
+<span class="l-fiero">**Mii sa weweni gaa-izhi-zhiibaakawaad iniw odiniiganan gii-goshkoganagishkawaasig ganage gii-amaji’aasig animoshan.**</span>
 
 <span class="l-eng">*And then afterwards, by using care, he passed through the wild-cucumbers without causing them to rattle and without even awakening the dogs.*</span>
 
-<span class="l-gloss">Mii sa weweni gaa-izhi-zhiibaakawaad iniw odiniigana’ (and so, carefully, he passed on through the wild-cucumbers) gii-goshkoganagishkawaasig (without setting them knocking) ganage gii-amaji’aasig animosha’ (and without so much as waking the dogs).</span>
+<span class="l-gloss">Mii sa weweni gaa-izhi-zhiibaakawaad iniw odiniiganan (and so, carefully, he passed on through the wild-cucumbers) gii-goshkoganagishkawaasig (without setting them knocking) ganage gii-amaji’aasig animoshan (and without so much as waking the dogs).</span>
 
 <span class="l-orig">(67) Mīdạc änicimādcāt ạnimāda∙a∙tōd iᵘ mi‘kana.</span>
 
@@ -942,11 +942,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(116) Mīdạc mindimōyä kīgitut:</span>
 
-<span class="l-fiero">**Mii dash mindimooyenh giigidod*:**</span>
+<span class="l-fiero">**Mii dash mindimooyenh giigidod:**</span>
 
 <span class="l-eng">*Thereat the old woman spoke:*</span>
 
-<span class="l-gloss">Mii dash mindimooyenh giigidod* (and then the old woman said):</span>
+<span class="l-gloss">Mii dash mindimooyenh giigidod (and then the old woman said):</span>
 
 <span class="l-orig">(117) “Äyeᵉ,” udinān.</span>
 
@@ -1054,19 +1054,19 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(130) Mīdạc pīndigäwāt; wīndạc mindimoyä ugīkạnōnāᵉ:</span>
 
-<span class="l-fiero">**Mii dash biindigewaad; wiin dash mindimooyenh ogii-ganoona’:**</span>
+<span class="l-fiero">**Mii dash biindigewaad; wiin dash mindimooyenh ogii-ganoonaan:**</span>
 
 <span class="l-eng">*Thereupon they entered; and the old woman herself spoke to them, saying:*</span>
 
-<span class="l-gloss">Mii dash biindigewaad (and then they came inside); wiin dash mindimooyenh ogii-ganoona’ (and the old woman herself spoke to them):</span>
+<span class="l-gloss">Mii dash biindigewaad (and then they came inside); wiin dash mindimooyenh ogii-ganoonaan (and the old woman herself spoke to them):</span>
 
 <span class="l-orig">(131) “Kiningwunisiwā kī‘tagwicin,” udināᵉ.</span>
 
-<span class="l-fiero">**“Giningwanisiwaa gii-dagwishin,” odinaa’.**</span>
+<span class="l-fiero">**“Giningwanisiwaa gii-dagwishin,” odinaan.**</span>
 
 <span class="l-eng">*“Your nephew has arrived,” she said to them.*</span>
 
-<span class="l-gloss">“Giningwanisiwaa gii-dagwishin (your nephew has arrived),” odinaa’ (she said to them).</span>
+<span class="l-gloss">“Giningwanisiwaa gii-dagwishin (your nephew has arrived),” odinaan (she said to them).</span>
 
 <span class="l-orig">(132) “Ōⁿ! ningawīdcīwānān nīmi∙iding,” udinān.</span>
 
@@ -1078,11 +1078,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(133) “Äyeᵉ, wīdcīwi‘k!” udināᵉ.</span>
 
-<span class="l-fiero">**“Eye’, wiijiiwig!” odinaa’.**</span>
+<span class="l-fiero">**“Eye’, wiijiiwig!” odinaan.**</span>
 
 <span class="l-eng">*“Yes, go with him!” she said to them.*</span>
 
-<span class="l-gloss">“Eye’ (yes), wiijiiwig (take him along)!” odinaa’ (she said to them).</span>
+<span class="l-gloss">“Eye’ (yes), wiijiiwig (take him along)!” odinaan (she said to them).</span>
 
 <span class="l-orig">(134) Mīdạc awä uskinawä kạnawâbamādin kīⁿwäⁿ äjināgusinit.</span>
 
@@ -1094,19 +1094,19 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(135) Kāwīn ānawi kägō icināgusisīwaᵉ; ạnicibābängiku wäwäni äjināgusiwạn.</span>
 
-<span class="l-fiero">**Gaawiin aanawi gegoo izhinaagosisiiwa’; anishinaabeng igo weweni ezhinaagoziwan.**</span>
+<span class="l-fiero">**Gaawiin aanawi gegoo izhinaagosisiiwan; anishinaabeng igo weweni ezhinaagoziwan.**</span>
 
 <span class="l-eng">*There was, for all that, nothing peculiar in their look; like a person exactly was the aspect of each.*</span>
 
-<span class="l-gloss">Gaawiin aanawi gegoo izhinaagosisiiwa’ (for all that, they did not look any different); anishinaabeng igo weweni ezhinaagoziwan (each one looked exactly like a person).</span>
+<span class="l-gloss">Gaawiin aanawi gegoo izhinaagosisiiwan (for all that, they did not look any different); anishinaabeng igo weweni ezhinaagoziwan (each one looked exactly like a person).</span>
 
 <span class="l-orig">(136) Ā‘pidci kayä upicigänimān īni’ᵘ usigwusaᵉ, wīnisisiwān kuca mīgu äjimīja‘kīsitōwāt!</span>
 
-<span class="l-fiero">**Aapiji gaye obishigenimaan iniw ozigwosa’, wiinizisiwaan gosha mii go ezhi-miizhagiizidoowaad!**</span>
+<span class="l-fiero">**Aapiji gaye obishigenimaan iniw ozigwosan, wiinizisiwaan gosha mii go ezhi-miizhagiizidoowaad!**</span>
 
 <span class="l-eng">*And very much he admired the look of his aunts, for their hair really touched the ground!*</span>
 
-<span class="l-gloss">Aapiji gaye obishigenimaan iniw ozigwosa’ (and he greatly admired those aunts of his), wiinizisiwaan gosha mii go ezhi-miizhagiizidoowaad (for their hair reached right down to their feet)!</span>
+<span class="l-gloss">Aapiji gaye obishigenimaan iniw ozigwosan (and he greatly admired those aunts of his), wiinizisiwaan gosha mii go ezhi-miizhagiizidoowaad (for their hair reached right down to their feet)!</span>
 
 <span class="l-orig">(137) Mīgu kayä wīnawā ininiwạg ayā‘pitaku ayīndasininiwạn.</span>
 
@@ -1346,11 +1346,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(166) Mīdạc kayä wīnawā äjinīminit wītcīwāganaᵉ, kāwīndạc wīn nīmisī.</span>
 
-<span class="l-fiero">**Mii dash gaye wiinawaa ezhi-niiminid wiijiiwaagana’, gaawiin dash wiin niimisii.**</span>
+<span class="l-fiero">**Mii dash gaye wiinawaa ezhi-niiminid wiijiiwaaganan, gaawiin dash wiin niimisii.**</span>
 
 <span class="l-eng">*And his companions likewise danced, but he himself did not dance.*</span>
 
-<span class="l-gloss">Mii dash gaye wiinawaa ezhi-niiminid wiijiiwaagana’ (and his companions danced too), gaawiin dash wiin niimisii (but he himself did not dance).</span>
+<span class="l-gloss">Mii dash gaye wiinawaa ezhi-niiminid wiijiiwaaganan (and his companions danced too), gaawiin dash wiin niimisii (but he himself did not dance).</span>
 
 <span class="l-orig">(167) A‘pōtcidạc päcig uwītcigabawi‘tāgōn a‘panä.</span>
 
@@ -1362,19 +1362,19 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(168) Mīdạc wâbamāt pämicimunitciᵉ; äjināgusinit ānint kāwīn ustigwānisīwaᵉ; ānint kāwin unindcīsīwạn; ānint kāwīn u‘kātisīwaᵉ; mīnōtcidạc nīmiwaᵉ.</span>
 
-<span class="l-fiero">**Mii dash waabamaad bemishimoniji’; ezhinaagozinid aanind gaawiin oshtigwaanisiiwa’; aanind gaawiin onijiisiiwan; aanind gaawiin okaadisiiwa’; miinooj idash niimiwa’.**</span>
+<span class="l-fiero">**Mii dash waabamaad bemishimonijin; ezhinaagozinid aanind gaawiin oshtigwaanisiiwan; aanind gaawiin onijiisiiwan; aanind gaawiin okaadisiiwan; miinooj idash niimiwan.**</span>
 
 <span class="l-eng">*And then he beheld them as they went dancing past; in appearance some were without their heads; some were without their hands; some had not their legs; but, in spite of that, they danced.*</span>
 
-<span class="l-gloss">Mii dash waabamaad (and then he saw them) bemishimoniji’ (the ones dancing past); ezhinaagozinid (in how they looked) aanind gaawiin oshtigwaanisiiwa’ (some had no heads); aanind gaawiin onijiisiiwan (some had no hands); aanind gaawiin okaadisiiwa’ (some had no legs); miinooj idash niimiwa’ (but even so they danced).</span>
+<span class="l-gloss">Mii dash waabamaad (and then he saw them) bemishimonijin (the ones dancing past); ezhinaagozinid (in how they looked) aanind gaawiin oshtigwaanisiiwan (some had no heads); aanind gaawiin onijiisiiwan (some had no hands); aanind gaawiin okaadisiiwan (some had no legs); miinooj idash niimiwan (but even so they danced).</span>
 
 <span class="l-orig">(169) Cayīgwa kānickwā∙ā∙pi‘tātibi‘katinig mīcayīgwa kägä‘t ạnōdc ijinạng; ānint adciticimōwaᵉ; ānint kayä, kōnkō∙i∙tiwaᵉ ijinạm.</span>
 
-<span class="l-fiero">**Zhayiigwa gaa-ni-ishkwaa-aabitaa-dibikadinig mii zhayiigwa geget anooj izhinang; aanind ajidizhimoowa’; aanind gaye, goonkoo’idiwa’ izhinam.**</span>
+<span class="l-fiero">**Zhayiigwa gaa-ni-ishkwaa-aabitaa-dibikadinig mii zhayiigwa geget anooj izhinang; aanind ajidizhimoowan; aanind gaye, goonkoo’idiwan izhinam.**</span>
 
 <span class="l-eng">*When it was now past the middle of the night, then truly different things he saw; some were with their heads down; and that some pushed each other face forward, was the way it seemed to him.*</span>
 
-<span class="l-gloss">Zhayiigwa gaa-ni-ishkwaa-aabitaa-dibikadinig (now when it was past the middle of the night) mii zhayiigwa geget anooj izhinang (then truly he saw all manner of things); aanind ajidizhimoowa’ (some moved head-downward); aanind gaye, goonkoo’idiwa’ izhinam (and some, as it looked to him, shoved one another head-first).</span>
+<span class="l-gloss">Zhayiigwa gaa-ni-ishkwaa-aabitaa-dibikadinig (now when it was past the middle of the night) mii zhayiigwa geget anooj izhinang (then truly he saw all manner of things); aanind ajidizhimoowan (some moved head-downward); aanind gaye, goonkoo’idiwan izhinam (and some, as it looked to him, shoved one another head-first).</span>
 
 <span class="l-orig">(170) Pitcīnạgigu säzik tciwābạnk unōndawān kwāckucinit; mīnạngwana ‘aᵉa´ᵘ täbātcimut ānīn ä‘pītcitibi‘ka‘k.</span>
 

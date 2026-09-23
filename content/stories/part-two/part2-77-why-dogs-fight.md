@@ -52,11 +52,11 @@ WHY DOGS FIGHT, AND WHY PEOPLE ARE ENVIOUS.
 
 <span class="l-orig">(5) Pānimā∙u∙gu päjig inini wändcipạsingutcisät äjinawandạndạn iᵉiᵘ waca‘kạmūnitiwāt.</span>
 
-<span class="l-fiero">**Baanimaa go bezhig inini wenji-bazigonjised ezhi-nawadandang i’iw wezhakamoonidiwaad.**</span>
+<span class="l-fiero">**Baanimaa go bezhig inini wenji-bazigonjised ezhi-nawadandang i’iw waa-zhakamoonidiwaad.**</span>
 
 <span class="l-eng">*Then of a sudden one of the men, leaping up from his place, seized in his mouth that which they had to be swallowed.*</span>
 
-<span class="l-gloss">Baanimaa go (then suddenly) bezhig inini (one man) wenji-bazigonjised (leaping up from his place) ezhi-nawadandang (seized in his mouth) i’iw wezhakamoonidiwaad (the thing they were to give one another to swallow).</span>
+<span class="l-gloss">Baanimaa go (then suddenly) bezhig inini (one man) wenji-bazigonjised (leaping up from his place) ezhi-nawadandang (seized in his mouth) i’iw waa-zhakamoonidiwaad (the thing they were to give one another to swallow).</span>
 
 <span class="l-orig">(6) Äjinawantamint kīwäⁿ, aᵉa´ᵘ kānawandandạnk.</span>
 

@@ -66,11 +66,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(7) Kīⁿgōⁿyaᵉ utạtcitagōnāwaᵉ.</span>
 
-<span class="l-fiero">**Giigoonya’ odajidagoonaawa’.**</span>
+<span class="l-fiero">**Giigoonyan odajidagoonaawan.**</span>
 
 <span class="l-eng">*They hung the fish upon racks, with the heads down.*</span>
 
-<span class="l-gloss">Giigoonya’ odajidagoonaawa’ (they hung the fish up on racks).</span>
+<span class="l-gloss">Giigoonyan odajidagoonaawan (they hung the fish up on racks).</span>
 
 <span class="l-orig">(8) Ā‘pitcisa’ nībiwa unisāwā.</span>
 
@@ -90,11 +90,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(10) Mīsa’ äcikusinit Nänabucūwạn; ka‘kina omādcīnāᵉ kīⁿgōⁿyaᵉ.</span>
 
-<span class="l-fiero">**Mii sa ezhi-gozinid Nenaboozhoowan; gakina omaajiinaa’ giigoonya’.**</span>
+<span class="l-fiero">**Mii sa ezhi-gozinid Nenaboozhoowan; gakina omaajiinaan giigoonyan.**</span>
 
 <span class="l-eng">*Thereupon Nänabushu moved camp; all the fish he took away with him.*</span>
 
-<span class="l-gloss">Mii sa ezhi-gozinid Nenaboozhoowan (then Nenaboozhoo moved camp); gakina omaajiinaa’ giigoonya’ (all the fish he took away with him).</span>
+<span class="l-gloss">Mii sa ezhi-gozinid Nenaboozhoowan (then Nenaboozhoo moved camp); gakina omaajiinaan giigoonyan (all the fish he took away with him).</span>
 
 <span class="l-orig">(11) Mīsa‘pạnä kāwīn gägō ogamīdcisīn mägisiwāc.</span>
 
@@ -130,19 +130,19 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(15) Ningutinigu, unāgucininig ā‘pitci wīwīsini; kayä īni’ᵘ wīwạn kayä iᵉi’ᵘ unītcānisaᵉ nīciwaᵉ.</span>
 
-<span class="l-fiero">**Ningoding igo, onaagoshininig aapiji wii-wiisini; gaye iniw wiiwan gaye i’iw oniijaanisa’ niizhiwa’.**</span>
+<span class="l-fiero">**Ningoding igo, onaagoshininig aapiji wii-wiisini; gaye iniw wiiwan gaye i’iw oniijaanisan niizhiwan.**</span>
 
 <span class="l-eng">*Now, one evening he craved exceedingly for some food to eat; so too (did) his wife, and his children, two in number.*</span>
 
-<span class="l-gloss">Ningoding igo, onaagoshininig (and once, one evening) aapiji wii-wiisini (he wanted very much to eat); gaye iniw wiiwan (and so too his wife) gaye i’iw oniijaanisa’ niizhiwa’ (and his children, two of them).</span>
+<span class="l-gloss">Ningoding igo, onaagoshininig (and once, one evening) aapiji wii-wiisini (he wanted very much to eat); gaye iniw wiiwan (and so too his wife) gaye i’iw oniijaanisan niizhiwan (and his children, two of them).</span>
 
 <span class="l-orig">(16) Kuckwāwātisiwaᵉ.</span>
 
-<span class="l-fiero">**Goshkwaawaadiziwa’.**</span>
+<span class="l-fiero">**Goshkwaawaadiziwan.**</span>
 
 <span class="l-eng">*They were living quietly (there).*</span>
 
-<span class="l-gloss">Goshkwaawaadiziwa’ (they were keeping still and quiet).</span>
+<span class="l-gloss">Goshkwaawaadiziwan (they were keeping still and quiet).</span>
 
 <span class="l-orig">(17) Awīya pītwäwäcinōn äjipīndigänit.</span>
 
@@ -202,11 +202,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(24) Mīsa a‘pī äjiki‘tcimawinit īni’ᵘ wīwạn kayä unīdcānisaᵉ intawā äjikawicimuwāt; weyābạninig mīsạgu kāwīn kägō omītcisīnāwa.</span>
 
-<span class="l-fiero">**Mii sa apii ezhi-gichi-mawinid iniw wiiwan gaye oniijaanisa’ indawaa ezhi-gawishimowaad; weyaabaninig mii sa go gaawiin gegoo omiijisiinaawaa.**</span>
+<span class="l-fiero">**Mii sa apii ezhi-gichi-mawinid iniw wiiwan gaye oniijaanisan indawaa ezhi-gawishimowaad; weyaabaninig mii sa go gaawiin gegoo omiijisiinaawaa.**</span>
 
 <span class="l-eng">*Thereupon then bitterly wept his wife and his children. Accordingly then went they to bed; in the morning there was nothing for them to eat.*</span>
 
-<span class="l-gloss">Mii sa apii ezhi-gichi-mawinid iniw wiiwan gaye oniijaanisa’ (then it was that his wife and his children wept bitterly) indawaa ezhi-gawishimowaad (so then they lay down to sleep); weyaabaninig mii sa go gaawiin gegoo omiijisiinaawaa (when morning came, there was nothing at all for them to eat).</span>
+<span class="l-gloss">Mii sa apii ezhi-gichi-mawinid iniw wiiwan gaye oniijaanisan (then it was that his wife and his children wept bitterly) indawaa ezhi-gawishimowaad (so then they lay down to sleep); weyaabaninig mii sa go gaawiin gegoo omiijisiinaawaa (when morning came, there was nothing at all for them to eat).</span>
 
 <span class="l-orig">(25) Cigwa mīnawā tibi‘kạdini, mīdạc kägä‘t wīwīsiniwāt.</span>
 
@@ -258,11 +258,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(31) Änipīndigäwāt, mūckinäbiwaᵉ wā‘kuntinit.</span>
 
-<span class="l-fiero">**Eni-piindigewaad, mooshkinebiwa’ waakondinid.**</span>
+<span class="l-fiero">**Eni-piindigewaad, mooshkinebiwan waakondinid.**</span>
 
 <span class="l-eng">*As they went on in, (he found) the place filled up with guests.*</span>
 
-<span class="l-gloss">Eni-piindigewaad (as they went on in), mooshkinebiwa’ waakondinid (the place was filled with guests).</span>
+<span class="l-gloss">Eni-piindigewaad (as they went on in), mooshkinebiwan waakondinid (the place was filled with guests).</span>
 
 <span class="l-orig">(32) Kiˢtcipā‘pi∙ā∙.</span>
 
@@ -402,11 +402,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(49) Mīdạc i∙i∙ᵘ äjipīndigät iᵘ ändāt, kägä‘t mōtcigisiwạn īni wīwạn kayä unīdcānisaᵉ; tci∙ä∙nigu‘k wīsiniwaᵉ.</span>
 
-<span class="l-fiero">**Mii dash i’iw ezhi-piindiged iw endaad, geget moojigiziwan iniw wiiwan gaye oniijaanisa’; ji-enigok wiisiniwa’.**</span>
+<span class="l-fiero">**Mii dash i’iw ezhi-piindiged iw endaad, geget moojigiziwan iniw wiiwan gaye oniijaanisan; ji-enigok wiisiniwan.**</span>
 
 <span class="l-eng">*And so when he entered his home, truly pleased were his wife and his children; with great eagerness did they eat.*</span>
 
-<span class="l-gloss">Mii dash i’iw ezhi-piindiged iw endaad (and so when he entered his home), geget moojigiziwan iniw wiiwan gaye oniijaanisa’ (truly glad were his wife and his children); ji-enigok wiisiniwa’ (with great eagerness they ate).</span>
+<span class="l-gloss">Mii dash i’iw ezhi-piindiged iw endaad (and so when he entered his home), geget moojigiziwan iniw wiiwan gaye oniijaanisan (truly glad were his wife and his children); ji-enigok wiisiniwan (with great eagerness they ate).</span>
 
 <span class="l-orig">(50) Mīsạgu iᵘ cigwa’ mādci‘tāt aᵘ mindimōyä pīmina‘kwät kạbätibi‘k; wäyābaninig okīci‘tōn i∙i∙ᵘ obīmina‘kwān.</span>
 
@@ -594,19 +594,19 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(73) Indawā, kā∙i∙ckwāmawit, ugīgō∙i∙miwaᵉ ugīwäwināwā ka‘kina ändāwāt.</span>
 
-<span class="l-fiero">**Indawaa, gaa-ishkwaa-mawid, ogiigoo’imiwa’ ogiiwewinaawaa gakina endaawaad.**</span>
+<span class="l-fiero">**Indawaa, gaa-ishkwaa-mawid, ogiigoo’imiwan ogiiwewinaawaa gakina endaawaad.**</span>
 
 <span class="l-eng">*Accordingly, when he had ceased crying, they carried all their fish back to where they lived.*</span>
 
-<span class="l-gloss">Indawaa, gaa-ishkwaa-mawid (so then, when he had finished crying), ogiigoo’imiwa’ ogiiwewinaawaa gakina endaawaad (all their fish they carried back home to where they lived).</span>
+<span class="l-gloss">Indawaa, gaa-ishkwaa-mawid (so then, when he had finished crying), ogiigoo’imiwan ogiiwewinaawaa gakina endaawaad (all their fish they carried back home to where they lived).</span>
 
 <span class="l-orig">(74) Kā∙i∙ciwīnāwāt iᵉi’ᵘ kīgōⁿyaᵉ, mādcā awigạgwätwät; mīdạc icāt iniwä nigigwan.</span>
 
-<span class="l-fiero">**Gaa-izhiwinaawaad i’iw giigoonya’, maajaa awi-gagwedwed; mii dash izhaad iniw nigigwan.**</span>
+<span class="l-fiero">**Gaa-izhiwinaawaad i’iw giigoonyan, maajaa awi-gagwedwed; mii dash izhaad iniw nigigwan.**</span>
 
 <span class="l-eng">*After they had dressed the fish, he departed thence to make inquiry; and so he went to where the Otter was.*</span>
 
-<span class="l-gloss">Gaa-izhiwinaawaad i’iw giigoonya’ (after they had brought the fish), maajaa awi-gagwedwed (he set off to go ask about it); mii dash izhaad iniw nigigwan (and so he went to the Otter).</span>
+<span class="l-gloss">Gaa-izhiwinaawaad i’iw giigoonyan (after they had brought the fish), maajaa awi-gagwedwed (he set off to go ask about it); mii dash izhaad iniw nigigwan (and so he went to the Otter).</span>
 
 <span class="l-orig">(75) Cigwa’ ugạnōnān:</span>
 
@@ -746,11 +746,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(92) Owâbạmāᵉ i‘kwäwaᵉ; äjigạnōnāᵉ:</span>
 
-<span class="l-fiero">**Owaabamaa’ ikwewa’; Ezhi-ganoonaa’:**</span>
+<span class="l-fiero">**Owaabamaan ikwewan; Ezhi-ganoonaan:**</span>
 
 <span class="l-eng">*He beheld some women; to them he spoke, saying:*</span>
 
-<span class="l-gloss">Owaabamaa’ ikwewa’ (he saw some women); Ezhi-ganoonaa’ (he spoke to them):</span>
+<span class="l-gloss">Owaabamaan ikwewan (he saw some women); Ezhi-ganoonaan (he spoke to them):</span>
 
 <span class="l-orig">(93) “Ānin änano‘kīyạg wābigạmāg?”</span>
 
@@ -986,11 +986,11 @@ Nanabushu and the Soaring Eagle
 
 <span class="l-orig">(122) Anicinābäᵉ unādamāguwāᵉ, mī pitcīnạg kạcki∙ā∙wāt.</span>
 
-<span class="l-fiero">**Anishinaabe’ onaadamaagowaa’, mii bijiinag gashki’aawaad.**</span>
+<span class="l-fiero">**Anishinaaben onaadamaagowaan, mii bijiinag gashki’aawaad.**</span>
 
 <span class="l-eng">*By the people were they helped to drag him, and that was when they were able to handle him.*</span>
 
-<span class="l-gloss">Anishinaabe’ onaadamaagowaa’ (by the people they were helped), mii bijiinag gashki’aawaad (and only then could they manage him).</span>
+<span class="l-gloss">Anishinaaben onaadamaagowaan (by the people they were helped), mii bijiinag gashki’aawaad (and only then could they manage him).</span>
 
 <span class="l-orig">(123) Mīsa iᵘ cigwa’ ki‘tạgwicimāwāt. “Kägä‘t,</span>
 

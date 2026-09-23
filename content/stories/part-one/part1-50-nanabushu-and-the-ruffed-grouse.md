@@ -26,11 +26,11 @@ Nänabushu and the Ruffed Grouse
 
 <span class="l-orig">(2) Mīnawā pinänsaᵉ umi‘kawāᵉ nạmạdạbinit. “Ānīn äjini‘kāsud kigiwā?”</span>
 
-<span class="l-fiero">**Miinawaa binensa’ omikawaa’ namadabinid. “Aaniin e-zhinikaazod gi-giwaa?”**</span>
+<span class="l-fiero">**Miinawaa binensan omikawaan namadabinid. “Aaniin e-zhinikaazod gi-giwaa?”**</span>
 
 <span class="l-eng">*Next some young Ruffed Grouse he found, that were sitting down. “What is the name of your mother?”*</span>
 
-<span class="l-gloss">Miinawaa (again) binensa’ (some young Ruffed Grouse) omikawaa’ (he found them) namadabinid (as they were sitting). “Aaniin (what) e-zhinikaazod (is named) gi-giwaa? (your mother?)”</span>
+<span class="l-gloss">Miinawaa (again) binensan (some young Ruffed Grouse) omikawaan (he found them) namadabinid (as they were sitting). “Aaniin (what) e-zhinikaazod (is named) gi-giwaa? (your mother?)”</span>
 
 <span class="l-orig">(3) “Kuckungäsi.”</span>
 
@@ -59,11 +59,11 @@ Goshkogesi (a frightener — the name carried as spoken).</span>
 
 <span class="l-orig">(6) A‘pī∙i∙dạc tägucing kîstcipinä owâbạmāᵉ unīdcānisaᵉ mōwiwinit. “Awänän kā‘tōtōnäg?”</span>
 
-<span class="l-fiero">**Apii idash degoshing gichi-bine owaabamaa’ oniijaanisa’ moowiwinid. „Awenen gaa-toodooneg?”**</span>
+<span class="l-fiero">**Apii idash degoshing gichi-bine owaabamaan oniijaanisan moowiwinid. „Awenen gaa-toodooneg?”**</span>
 
 <span class="l-eng">*Now, when home was come the old Ruffed Grouse, she saw her children covered with dung. “Who did that to you?”*</span>
 
-<span class="l-gloss">Apii idash (now, when) degoshing (she arrived home) gichi-bine (the old Ruffed Grouse) owaabamaa’ (she saw them) oniijaanisa’ (her children) moowiwinid (being covered with dung). „Awenen (who) gaa-toodooneg? (did that to you?)”</span>
+<span class="l-gloss">Apii idash (now, when) degoshing (she arrived home) gichi-bine (the old Ruffed Grouse) owaabamaan (she saw them) oniijaanisan (her children) moowiwinid (being covered with dung). „Awenen (who) gaa-toodooneg? (did that to you?)”</span>
 
 <span class="l-orig">(7) “Nänabuju ningīmīdcinigunān.”</span>
 

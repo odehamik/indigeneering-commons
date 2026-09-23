@@ -2450,11 +2450,11 @@ BLUE-GARTER.
 
 <span class="l-orig">(304) Mīdec minawā a‘kiwäⁿzi pipạgạmisät, äji∙u∙ci‘kawāt pinäwaᵉ.</span>
 
-<span class="l-fiero">**Mii desh minawaa akiwenzi pipagamiset, ezhi-oshikawaat binewa’.**</span>
+<span class="l-fiero">**Mii desh minawaa akiwenzi pipagamiset, ezhi-oshikawaat binewan.**</span>
 
 <span class="l-eng">*And so again the old man was coming up to them on the run, when he caused the partridges to fly up.*</span>
 
-<span class="l-gloss">Mii desh minawaa akiwenzi pipagamiset (and so again the old man came running up to them), ezhi-oshikawaat binewa’ (when he flushed the partridges up).</span>
+<span class="l-gloss">Mii desh minawaa akiwenzi pipagamiset (and so again the old man came running up to them), ezhi-oshikawaat binewan (when he flushed the partridges up).</span>
 
 <span class="l-orig">(305) Mīdec a‘kiwäⁿzi ānu∙i∙jinantomāt:</span>
 

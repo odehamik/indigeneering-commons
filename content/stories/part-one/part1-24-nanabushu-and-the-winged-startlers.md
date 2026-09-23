@@ -26,35 +26,35 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(2) kumāgu a‘pī täkucink owâbạmāᵉ pinäⁿsaᵉ wạdiswạning, ā‘pidcigu mōckinäwaᵉ i∙i∙mā wasiswạning.</span>
 
-<span class="l-fiero">**gomaago apii degoshing owaabamaa’ binensa’ wadiswaning, aapiji go mooshkinewa’ i’imaa waziswaning.**</span>
+<span class="l-fiero">**gomaago apii degoshing owaabamaan binensan wadiswaning, aapiji go mooshkinewan i’imaa waziswaning.**</span>
 
 <span class="l-eng">*when he was come a certain distance, he saw some young ruffed rouse in a nest, and very full they filled the place in the nest.*</span>
 
-<span class="l-gloss">Gomaago apii (after a certain distance) degoshing (when he arrived) owaabamaa’ binensa’ (he saw some young birds — little ruffed grouse) wadiswaning (in a nest), aapiji go mooshkinewa’ (very full did they fill it) i’imaa waziswaning (there in the nest).</span>
+<span class="l-gloss">Gomaago apii (after a certain distance) degoshing (when he arrived) owaabamaan binensan (he saw some young birds — little ruffed grouse) wadiswaning (in a nest), aapiji go mooshkinewan (very full did they fill it) i’imaa waziswaning (there in the nest).</span>
 
 <span class="l-orig">(3) Nänabucu udunạbī‘tawā, ā‘pidci ucawänimāᵉ.</span>
 
-<span class="l-fiero">**Nenaboozhoo odonabiitawaa, aapiji ozhawenimaa’.**</span>
+<span class="l-fiero">**Nenaboozhoo odonabiitawaa, aapiji ozhawenimaan.**</span>
 
 <span class="l-eng">*Nänabushu sat down beside them, very tender was his feeling for them.*</span>
 
-<span class="l-gloss">Nenaboozhoo odonabiitawaa’ (Nenaboozhoo sat down beside them), aapiji ozhawenimaa’ (very tender was his feeling toward them).</span>
+<span class="l-gloss">Nenaboozhoo odonabiitawaa’ (Nenaboozhoo sat down beside them), aapiji ozhawenimaan (very tender was his feeling toward them).</span>
 
 <span class="l-orig">(4) Udạgimā ändạcinint; midāswi ạcinīⁿjtạciwaᵉ.</span>
 
-<span class="l-fiero">**Odagimaa endashinind; midaaswi-ashi-niizh dashiwa’.**</span>
+<span class="l-fiero">**Odagimaa endashinind; midaaswi-ashi-niizh dashiwan.**</span>
 
 <span class="l-eng">*He counted how many they were ; twelve was their number.*</span>
 
-<span class="l-gloss">Odagimaa’ endashinind (he counted how many they were); midaaswi-ashi-niizh dashiwa’ (twelve was their number).</span>
+<span class="l-gloss">Odagimaa’ endashinind (he counted how many they were); midaaswi-ashi-niizh dashiwan (twelve was their number).</span>
 
 <span class="l-orig">(5) Cigwadạc ugạnōnāᵉ:</span>
 
-<span class="l-fiero">**Zhigwa dash oganoonaa’:**</span>
+<span class="l-fiero">**Zhigwa dash oganoonaan:**</span>
 
 <span class="l-eng">*And then he spoke to them, asking:*</span>
 
-<span class="l-gloss">Zhigwa dash oganoonaa’ (and now he spoke to them):</span>
+<span class="l-gloss">Zhigwa dash oganoonaan (and now he spoke to them):</span>
 
 <span class="l-orig">(6) “Ānīn äcini‘kāsuyäg?”</span>
 
@@ -74,11 +74,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(8) Kāwīn ugạcki‘tōsīnāwāᵉ tcigīkitōwāt.</span>
 
-<span class="l-fiero">**Gaawiin ogashkitoosiinaawaa’ ji-giigidowaad.**</span>
+<span class="l-fiero">**Gaawiin ogashkitoosiinaawaan ji-giigidowaad.**</span>
 
 <span class="l-eng">*Not were they able to speak.*</span>
 
-<span class="l-gloss">Gaawiin ogashkitoosiinaawaa’ (they were not able) ji-giigidowaad (to speak).</span>
+<span class="l-gloss">Gaawiin ogashkitoosiinaawaan (they were not able) ji-giigidowaad (to speak).</span>
 
 <span class="l-orig">(9) Pācīg gīkitō: “Kāwīn niwīsusīmin.”</span>
 
@@ -114,11 +114,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(13) Ānīc ā‘pidci osägimāᵉ; wī‘kā kīgitōwaᵉ:</span>
 
-<span class="l-fiero">**Aaniish aapiji ozegimaa’; wiikaa giigidowa’:**</span>
+<span class="l-fiero">**Aaniish aapiji ozegimaan; wiikaa giigidowan:**</span>
 
 <span class="l-eng">*Naturally much did he alarm them ; after a long while they said:*</span>
 
-<span class="l-gloss">Aaniish aapiji ozegimaa’ (naturally he frightened them greatly); wiikaa giigidowa’ (after a long while they spoke):</span>
+<span class="l-gloss">Aaniish aapiji ozegimaan (naturally he frightened them greatly); wiikaa giigidowan (after a long while they spoke):</span>
 
 <span class="l-orig">(14) “Ānīc, kuckungäcīns mī∙i∙ᵘ äjini‘kāsoyāng.”</span>
 
@@ -154,11 +154,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(18) Pạnägu kāwạsibi‘tōnit, Nänabucu ugạnōnāᵉ:</span>
 
-<span class="l-fiero">**Bane go gaawasibitoonid, Nenaboozhoo oganoonaa’:**</span>
+<span class="l-fiero">**Bane go gaawasibitoonid, Nenaboozhoo oganoonaan:**</span>
 
 <span class="l-eng">*(Observing) them suddenly groping about in the slush, Nänabushu addressed them, saying:*</span>
 
-<span class="l-gloss">Bane go gaawasibitoonid (as they floundered about in it), Nenaboozhoo oganoonaa’ (Nenaboozhoo spoke to them):</span>
+<span class="l-gloss">Bane go gaawasibitoonid (as they floundered about in it), Nenaboozhoo oganoonaan (Nenaboozhoo spoke to them):</span>
 
 <span class="l-orig">(19) “Nāpisawugu kuckungäcīns!² Mᵘⁿ!” inwä Nänabucu äjigi‘tcibā‘pi∙ā∙t.</span>
 
@@ -274,11 +274,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(33) Cigwạdạc iwiti pinä upītawāᵉ kämīdcinit unīdcānisaᵉ, ạnīn kä∙i∙cinawāt unīdcānisaᵉ!</span>
 
-<span class="l-fiero">**Zhigwa dash iwidi bine obiidawaa’ ge-miijinid oniijaanisa’, aaniin ge-izhinawaad oniijaanisa’!**</span>
+<span class="l-fiero">**Zhigwa dash iwidi bine obiidawaan ge-miijinid oniijaanisan, aaniin ge-izhinawaad oniijaanisan!**</span>
 
 <span class="l-eng">*And when at yonder place the Ruffed Grouse was come, fetching home to her children some food for them to eat, how was she to find her children !*</span>
 
-<span class="l-gloss">Zhigwa dash iwidi bine obiidawaa’ (and now over there the Ruffed Grouse brought to them) ge-miijinid oniijaanisa’ (food for her children to eat), aaniin ge-izhinawaad oniijaanisa’! (how was she to find her children!)</span>
+<span class="l-gloss">Zhigwa dash iwidi bine obiidawaan (and now over there the Ruffed Grouse brought to them) ge-miijinid oniijaanisan (food for her children to eat), aaniin ge-izhinawaad oniijaanisan! (how was she to find her children!)</span>
 
 <span class="l-orig">(34) Ä‘tawā, wäntạgu kāwusibi‘tōnit.</span>
 

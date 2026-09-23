@@ -354,11 +354,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(43) Ningutingigu inābit iwiti wayäkwākusi’ᵘ ma∙i∙ngạnaᵉ untatābīpa∙i∙tiwaᵉ, mīdạc äcikạnōnāt: “Kägu wīn ōmāⁿ pīcākägun!”</span>
 
-<span class="l-fiero">**Ningoding igo inaabid iwidi wayekwaakosiw ma’iingana’ ondadaabiipa’idiwa’, mii dash ezhi-ganoonaad: “Gego wiin o’omaa bi-izhaakegon!”**</span>
+<span class="l-fiero">**Ningoding igo inaabid iwidi wayekwaakosiw ma’iinganan ondadaabiipa’idiwan, mii dash ezhi-ganoonaad: “Gego wiin o’omaa bi-izhaakegon!”**</span>
 
 <span class="l-eng">*Then suddenly, while looking toward the other end of the meadow, (he saw) some wolves running hitherward into the meadow, whereupon he addressed them, saying: “Don’t you come this way!”*</span>
 
-<span class="l-gloss">Ningoding igo inaabid iwidi wayekwaakosiw (then suddenly, as he looked off to the far end of the meadow) ma’iingana’ ondadaabiipa’idiwa’, (some wolves came running this way into the meadow,) mii dash ezhi-ganoonaad: (whereupon he called to them:) “Gego wiin o’omaa bi-izhaakegon!” (“don’t you come this way!”)</span>
+<span class="l-gloss">Ningoding igo inaabid iwidi wayekwaakosiw (then suddenly, as he looked off to the far end of the meadow) ma’iinganan ondadaabiipa’idiwan, (some wolves came running this way into the meadow,) mii dash ezhi-ganoonaad: (whereupon he called to them:) “Gego wiin o’omaa bi-izhaakegon!” (“don’t you come this way!”)</span>
 
 <span class="l-orig">(44) “Kägō māwīn ugīni‘tōnātug Nänabucu.</span>
 
@@ -378,19 +378,19 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(46) Intigumi kībigagwätcikanitiwāᵉ.</span>
 
-<span class="l-fiero">**Indigomi gii-bi-gagwejikanidiwa’.**</span>
+<span class="l-fiero">**Indigomi gii-bi-gagwejikanidiwan.**</span>
 
 <span class="l-eng">*It seemed as if they tried to race (to where he was).*</span>
 
-<span class="l-gloss">Indigomi gii-bi-gagwejikanidiwa’ (it seemed as though they tried to race one another there).</span>
+<span class="l-gloss">Indigomi gii-bi-gagwejikanidiwan (it seemed as though they tried to race one another there).</span>
 
 <span class="l-orig">(47) Cayigwa pạgạmisäwaᵉ, äciwâbạmānit īni’ᵘ udadi‘kumạn.</span>
 
-<span class="l-fiero">**Zhayiigwa bagamisewa’, ezhi-waabamaanid iniw odadikoman.**</span>
+<span class="l-fiero">**Zhayiigwa bagamisewan, ezhi-waabamaanid iniw odadikoman.**</span>
 
 <span class="l-eng">*Now, when they came running up to the place, they saw his caribou.*</span>
 
-<span class="l-gloss">Zhayiigwa bagamisewa’ (now, when they came running up), ezhi-waabamaanid iniw odadikoman (they saw his caribou).</span>
+<span class="l-gloss">Zhayiigwa bagamisewan (now, when they came running up), ezhi-waabamaanid iniw odadikoman (they saw his caribou).</span>
 
 <span class="l-orig">(48) A‘pạnägu kāma‘kạndinit.</span>
 
@@ -434,11 +434,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(53) Cigwa wānimādciba∙i∙tīwaᵉ, “Kägu’ wīn, nicīmisātug, icpiming inābi‘kägun!”</span>
 
-<span class="l-fiero">**Zhigwa waa-ani-maajiiba’idiwa’, “Gego wiin, ni-shiimisadog, ishpiming inaabikegon!”**</span>
+<span class="l-fiero">**Zhigwa waa-ani-maajiiba’idiwan, “Gego wiin, ni-shiimisadog, ishpiming inaabikegon!”**</span>
 
 <span class="l-eng">*Presently were they about to race away when, “Don’t now, O my little brothers, don’t you look up!”*</span>
 
-<span class="l-gloss">Zhigwa waa-ani-maajiiba’idiwa’, (presently, as they were about to race away,) “Gego wiin, ni-shiimisadog, ishpiming inaabikegon!” (“don’t now, my little brothers, don’t you look up!”)</span>
+<span class="l-gloss">Zhigwa waa-ani-maajiiba’idiwan, (presently, as they were about to race away,) “Gego wiin, ni-shiimisadog, ishpiming inaabikegon!” (“don’t now, my little brothers, don’t you look up!”)</span>
 
 <span class="l-orig">(54) Ānīc äcidā‘taganāpiwāt īgi’ᵘ ma∙ī∙ngạnạg, pạnägu wīnin kā∙i∙nagōtänig.</span>
 
@@ -538,11 +538,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(66) Mīdạc äci∙u∙täckanīmạgạtînig, aⁱ, ānīc gägīcictcigät!</span>
 
-<span class="l-fiero">**Mii dash ezhi-odeshkaniimagadinig, ay, aaniish ge-gii-izhichiged*!**</span>
+<span class="l-fiero">**Mii dash ezhi-odeshkaniimagadinig, ay, aaniish ge-gii-izhichiged!**</span>
 
 <span class="l-eng">*And so when there were horns (upon his head), ah, what was he then to do!*</span>
 
-<span class="l-gloss">Mii dash ezhi-odeshkaniimagadinig, (and so when there were horns upon him,) ay, aaniish ge-gii-izhichiged*! (ah, what was he to do!)</span>
+<span class="l-gloss">Mii dash ezhi-odeshkaniimagadinig, (and so when there were horns upon him,) ay, aaniish ge-gii-izhichiged! (ah, what was he to do!)</span>
 
 <span class="l-orig">(67) Äcipitā‘kwicink, “Kītawänänā‘tigō, nicīmisā?”</span>
 
@@ -722,11 +722,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(89) Pạpimātạgāt, ningutingigu awiya unōntawā: “‘E‘ē‘e, adi‘k pämādagāt!” i‘kitōwaᵉ.</span>
 
-<span class="l-fiero">**Babimaadagaad, ningoding igo awiya onoondawaa: “Eyiiye, adik bemaadagaad!” ikidowa’.**</span>
+<span class="l-fiero">**Babimaadagaad, ningoding igo awiya onoondawaa: “Eyiiye, adik bemaadagaad!” ikidowan.**</span>
 
 <span class="l-eng">*While swimming along he suddenly heard the sound of somebody (saying): “Halloo, there goes a caribou swimming along!” they said.*</span>
 
-<span class="l-gloss">Babimaadagaad, (as he swam along,) ningoding igo awiya onoondawaa: (suddenly he heard someone:) “Eyiiye, adik bemaadagaad!” (“halloo, there goes a caribou swimming!”) ikidowa’ (they said).</span>
+<span class="l-gloss">Babimaadagaad, (as he swam along,) ningoding igo awiya onoondawaa: (suddenly he heard someone:) “Eyiiye, adik bemaadagaad!” (“halloo, there goes a caribou swimming!”) ikidowan (they said).</span>
 
 <span class="l-orig">(90) Ānīc, “‘A∙‘a∙ᵘ, māwinata∙u∙‘k!”</span>
 
@@ -786,11 +786,11 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(97) Äckạm pigīgitōwaᵉ, “Tabā‘pinisiwāgạn, misa micagạninạnk!”</span>
 
-<span class="l-fiero">**Eshkam bi-giigidowa’, “Da-baapiniziwaagan, mii sa mishaganinang!”**</span>
+<span class="l-fiero">**Eshkam bi-giigidowan, “Da-baapiniziwaagan, mii sa mishaganinang!”**</span>
 
 <span class="l-eng">*Nearer came the sound of their voices, near by he heard them saying: “Too bad, he is landing ahead of us!”*</span>
 
-<span class="l-gloss">Eshkam bi-giigidowa’, (nearer came their voices,) “Da-baapiniziwaagan, mii sa mishaganinang!” (“too bad, he is landing ahead of us!”)</span>
+<span class="l-gloss">Eshkam bi-giigidowan, (nearer came their voices,) “Da-baapiniziwaagan, mii sa mishaganinang!” (“too bad, he is landing ahead of us!”)</span>
 
 <span class="l-orig">(98) Kā∙i∙‘kitunint.</span>
 

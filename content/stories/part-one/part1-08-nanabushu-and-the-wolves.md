@@ -68,11 +68,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(7) O∙ō∙dạc ugī∙i∙nāngōmān īni’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn: “Nītcizazī‘kizī,” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**O’ow idash ogii-inaangomaan iniw akiwenzii-ma’iinganan: “Niijizazii’kizi,” ogii-inaan.**</span>
+<span class="l-fiero">**O’ow idash ogii-inaangomaan iniw akiwenzii-ma’iinganan: “Niijizaziikizi,” ogii-inaan.**</span>
 
 <span class="l-eng">*And this was the way he told of how he was related to the old Wolf: “He is of my old brother,” he said to them.*</span>
 
-<span class="l-gloss">O’ow idash ogii-inaangomaan (and this is how he named him kin), iniw akiwenzii-ma’iinganan (that old wolf-man), Niijizazii’kizi (my old friend, my fellow elder), ogii-inaan (he said to him).</span>
+<span class="l-gloss">O’ow idash ogii-inaangomaan (and this is how he named him kin), iniw akiwenzii-ma’iinganan (that old wolf-man), Niijizaziikizi (my old friend, my fellow elder), ogii-inaan (he said to him).</span>
 
 <span class="l-orig">(8) Mīdạc kā∙i∙nāt īni’ᵘ ugwisisini īni’ᵘ a‘kiwäⁿzīma∙ī∙ⁿgạnạn. “Ānīc nintōcimạg,” ugī∙i∙nāᵉ ‘iᵉi’ᵘ ma∙ī∙ngạnaᵉ.</span>
 
@@ -116,11 +116,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(13) Ō∙o∙dạc ugī∙i∙nāᵉ ‘aᵉa’ᵘ Nänabucu: “Mī gayä nīn ‘i‘i’witi pämi∙i∙cāyān, mīsa∙i∙ī∙sạn kätạniciwītcīwinaguk,” ugīmāᵉ.</span>
 
-<span class="l-fiero">**O’ow idash ogii-inaag a’aw Nenabozho: “Mii gaye niin iwidi bemi-izhaayaan, mii sa izan ge-ani-izhi-wiijiiwinagog,” ogii-imaa’.**</span>
+<span class="l-fiero">**O’ow idash ogii-inaag a’aw Nenabozho: “Mii gaye niin iwidi bemi-izhaayaan, mii sa izan ge-ani-izhi-wiijiiwinagog,” ogii-imaan.**</span>
 
 <span class="l-eng">*And this to them said Nänabushu: “So am I bound for that place too, therefore I will go along with you,” he said to them.*</span>
 
-<span class="l-gloss">O’ow idash ogii-inaag a’aw Nenabozho (and this Nenabozho said to them), Mii gaye niin iwidi bemi-izhaayaan (that is where I too am bound), mii sa izan ge-ani-izhi-wiijiiwinagog (so then I shall go along with you), ogii-imaa’ (he said to them).</span>
+<span class="l-gloss">O’ow idash ogii-inaag a’aw Nenabozho (and this Nenabozho said to them), Mii gaye niin iwidi bemi-izhaayaan (that is where I too am bound), mii sa izan ge-ani-izhi-wiijiiwinagog (so then I shall go along with you), ogii-imaan (he said to them).</span>
 
 <span class="l-orig">(14) Ānīc, mīsa kägä‘t cigwa kī∙ạ∙niwāwītcīwāt. Ānīc kāwin kecīca’ utibi∙ā∙sīn ạniwīdcīwāt. Ta‘kāsinini pimusäwāt.</span>
 
@@ -262,11 +262,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(31) Mīsa kägä‘t cayīgwa Nänabucu inā: “Tạga, ạni∙a∙‘pītcipōdawän.”</span>
 
-<span class="l-fiero">**Mii sa geget zhayiigwa Nenabozho inaa: “Daga, ani-a’piichi-boodawen.”**</span>
+<span class="l-fiero">**Mii sa geget zhayiigwa Nenabozho inaa: “Daga, ani-apiichi-boodawen.”**</span>
 
 <span class="l-eng">*It was true that presently Nänabushu was told: “Pray, go on ahead and have a fire built up.”*</span>
 
-<span class="l-gloss">Mii sa geget zhayiigwa Nenabozho inaa (truly then Nenabozho was told), Daga, ani-a’piichi-boodawen (come, go on and get a fire going).</span>
+<span class="l-gloss">Mii sa geget zhayiigwa Nenabozho inaa (truly then Nenabozho was told), Daga, ani-apiichi-boodawen (come, go on and get a fire going).</span>
 
 <span class="l-orig">(32) Mīsa kägä‘t kā∙u∙‘kwā‘kwisitōt, mīdạc nạtunäwāt īni’ᵘ utickutä‘kānạn.</span>
 
@@ -326,11 +326,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(39) “Ānīc, mī∙i∙ᵘ päcu’ cigwa,” utigōᵉ. Mīdạc uskitibi‘kạtini a‘pī wạdi‘tamuwāt.</span>
 
-<span class="l-fiero">**“Aaniish, mii iw besho zhigwa,” odigoog. Mii dash oshki-dibikadini apii wadi’tamowaad.**</span>
+<span class="l-fiero">**“Aaniish, mii iw besho zhigwa,” odigoog. Mii dash oshki-dibikadini apii waditamowaad.**</span>
 
 <span class="l-eng">*“Well, it is a little way now,” he was told. And it was in the twilight when they arrived there.*</span>
 
-<span class="l-gloss">Aaniish, mii iw besho zhigwa (well, it is close now), odigoog (he is told by them), Mii dash oshki-dibikadini apii wadi’tamowaad (and it was early night when they got there).</span>
+<span class="l-gloss">Aaniish, mii iw besho zhigwa (well, it is close now), odigoog (he is told by them), Mii dash oshki-dibikadini apii waditamowaad (and it was early night when they got there).</span>
 
 <span class="l-orig">(40) Ānīc mīdạc i∙i∙māⁿ kā∙i∙cikabäciwāt kī∙u∙cikäwạg. Cigwasa nātasạntcigōwạg.</span>
 
@@ -502,11 +502,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(61) “Ictä! Pīdōn, nītcizazī‘kizī, ningạnipimūntān,” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**“Ishte! Biidoon, niijizazii’kizi, ninga-ni-bimoondaan,” ogii-inaan.**</span>
+<span class="l-fiero">**“Ishte! Biidoon, niijizaziikizi, ninga-ni-bimoondaan,” ogii-inaan.**</span>
 
 <span class="l-eng">*“(I) declare! Fetch it hither, my old friend, I will carry it along upon my back,” (Nänabushu) said to him.*</span>
 
-<span class="l-gloss">Ishte (well now!), Biidoon, niijizazii’kizi (bring it here, my old friend), ninga-ni-bimoondaan (I will carry it along on my back), ogii-inaan (he said to him).</span>
+<span class="l-gloss">Ishte (well now!), Biidoon, niijizaziikizi (bring it here, my old friend), ninga-ni-bimoondaan (I will carry it along on my back), ogii-inaan (he said to him).</span>
 
 <span class="l-orig">(62) Mīdạc kägä‘t kā‘pījimīnigut mīdạc ạnipimōndạnk. Ānīc, mīsa’ mīnawā kānīcimādcāwāt.</span>
 
@@ -590,11 +590,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(72) Kāmōtcigisinit īni’ᵘ a‘kiwäⁿsīyạn. “‘Āᵘ, ‘āᵘ, Nänabucu, wīkīci‘tōtā i∙i∙māⁿ kätaciwiyāsikäyạnk.”</span>
 
-<span class="l-fiero">**Gaa-moojigizinid iniw akiwenziiyan. “Haaw, haaw, Nenabozho, wii-giizhi’toodaa iimaa ge-dazhi-wiiyaasikeyang.”**</span>
+<span class="l-fiero">**Gaa-moojigizinid iniw akiwenziiyan. “Haaw, haaw, Nenabozho, wii-giizhitoodaa iimaa ge-dazhi-wiiyaasikeyang.”**</span>
 
 <span class="l-eng">*Then happy was the old (Wolf). “Come on, Nänabushu! let us make a place where we can prepare the meat.”*</span>
 
-<span class="l-gloss">Gaa-moojigizinid iniw akiwenziiyan (the old man was glad), Haaw, haaw, Nenabozho (come now, come, Nenabozho), wii-giizhi’toodaa iimaa ge-dazhi-wiiyaasikeyang (let us finish a place there where we will work the meat).</span>
+<span class="l-gloss">Gaa-moojigizinid iniw akiwenziiyan (the old man was glad), Haaw, haaw, Nenabozho (come now, come, Nenabozho), wii-giizhitoodaa iimaa ge-dazhi-wiiyaasikeyang (let us finish a place there where we will work the meat).</span>
 
 <span class="l-orig">(73) “Wägunän i∙i∙ᵘ käwiyāsi‘kātạmạnk?”</span>
 

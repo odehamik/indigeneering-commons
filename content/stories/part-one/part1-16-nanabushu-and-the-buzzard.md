@@ -224,11 +224,11 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(26) Ānuwī‘kwạtci∙u∙t awīya ugīnōntawā, pipāpinit i‘kwäwaᵉ, mīdạc kā∙i∙‘kitunit: “Mīsa’ ō∙o∙māⁿ ningutci ändāt kā∙i∙‘kitung wâbigāk,” i‘kitōwaᵉ i∙i∙ᵘ i‘kwäwaᵉ.</span>
 
-<span class="l-fiero">**Aano-wiikwaji’od awiiya  ogii-noondawaa, bibaapinid  ikwewa’,  mii dash gaa-ikidonid: “Mii sa o’omaa ningoji endaad gaa-ikidong waabigaag,” ikidowa’  i’iw ikwewa’.**</span>
+<span class="l-fiero">**Aano-wiikwaji’od awiiya  ogii-noondawaa, bibaapinid  ikwewan,  mii dash gaa-ikidonid: “Mii sa o’omaa ningoji endaad gaa-ikidong waabigaag,” ikidowan  i’iw ikwewan.**</span>
 
 <span class="l-eng">*While vainly trying (to get out), he heard some one, those were women² coming laughing; and this was what they were saying: “Now, somewhere hereabouts lives a Gray Porcupine, so they say,” said the women.*</span>
 
-<span class="l-gloss">Aano-wiikwaji’od (vainly struggling) awiiya (someone) ogii-noondawaa (he heard), bibaapinid (laughing) ikwewa’ (women), mii dash (and) gaa-ikidonid (what they said): “Mii sa o’omaa (here it is) ningoji (somewhere) endaad (he lives) gaa-ikidong (so they say) waabigaag (the Gray Porcupine),” ikidowa’ (they said) i’iw ikwewa’ (those women).</span>
+<span class="l-gloss">Aano-wiikwaji’od (vainly struggling) awiiya (someone) ogii-noondawaa (he heard), bibaapinid (laughing) ikwewan (women), mii dash (and) gaa-ikidonid (what they said): “Mii sa o’omaa (here it is) ningoji (somewhere) endaad (he lives) gaa-ikidong (so they say) waabigaag (the Gray Porcupine),” ikidowan (they said) i’iw ikwewan (those women).</span>
 
 *Jones’s footnote ², printed at the foot of the English page 135: “The Foolish Maiden and her younger sister, sisters of Nänabushu.” Marker and note recovered at the page, 2026-08-19 (B5 page sweep); both were absent from this record. — carried from the document into the record 2026-09-02 (register §5 law 7).*
 
@@ -242,11 +242,11 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(28) O∙o∙dac i‘kitōwaᵉ: “Kunugäna mi‘kawang ‘aᵉa’ᵘ wâbigāg, nicīm,” ugī∙i∙nān mī∙a∙ᵘ mạtciki‘kwäwis.</span>
 
-<span class="l-fiero">**O’ow dash ikidowa’: “Gonogena  mikawang  a’aw  waabigaag, nishiim,” ogii-inaan mii aw majiikwewis.**</span>
+<span class="l-fiero">**O’ow dash ikidowan: “Gonogena  mikawang  a’aw  waabigaag, nishiim,” ogii-inaan mii aw majiikwewis.**</span>
 
 <span class="l-eng">*And this they said: “Suppose we should find the Gray Porcupine, my little sister,” to the other said she that was older.³*</span>
 
-<span class="l-gloss">O’ow dash (and this) ikidowa’ (they said): “Gonogena (suppose) mikawang (we find him) a’aw waabigaag (that Gray Porcupine), nishiim (my little sister),” ogii-inaan (she said to her) mii aw majiikwewis (she, the elder one).</span>
+<span class="l-gloss">O’ow dash (and this) ikidowan (they said): “Gonogena (suppose) mikawang (we find him) a’aw waabigaag (that Gray Porcupine), nishiim (my little sister),” ogii-inaan (she said to her) mii aw majiikwewis (she, the elder one).</span>
 
 *Jones’s footnote ³, printed at the foot of the English page 135: “The confusion of the subject of a question, as here, is common.” Marker and note recovered at the page, 2026-08-19 (B5 page sweep). — carried from the document into the record 2026-09-02 (register §5 law 7).*
 
@@ -358,19 +358,19 @@ Nanabush and the Buzzards
 
 <span class="l-orig">(42) Cigwa kägä‘t udạmugōᵉ āntēgwaᵉ änōtcisagu pinäsiwaᵉ.</span>
 
-<span class="l-fiero">**Zhigwa geget odamogoo’  andegwa’  enooji sa go binesiwa’.**</span>
+<span class="l-fiero">**Zhigwa geget odamogoon  andegwan  enooji sa go binesiwan.**</span>
 
 <span class="l-eng">*Then truly was he eaten by crows and by various kinds of birds.*</span>
 
-<span class="l-gloss">Zhigwa geget (then truly) odamogoo’ (he is eaten by them) andegwa’ (the crows) enooji sa go (and all sorts of) binesiwa’ (birds).</span>
+<span class="l-gloss">Zhigwa geget (then truly) odamogoon (he is eaten by them) andegwan (the crows) enooji sa go (and all sorts of) binesiwan (birds).</span>
 
 <span class="l-orig">(43) Mīdạc kā∙i∙nāt: “Kägu’ wīn i∙i∙witi nintcīting untạmici‘kägun,” ugī∙i∙nāᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-inaad: “Gego wiin  i’iwidi  ninjiiding  ondamishikegon,” ogii-inaa’.**</span>
+<span class="l-fiero">**Mii dash gaa-inaad: “Gego wiin  i’iwidi  ninjiiding  ondamishikegon,” ogii-inaan.**</span>
 
 <span class="l-eng">*Then this he said to them: “Don’t you eat upon me yonder at my buttocks,” he said to them.*</span>
 
-<span class="l-gloss">Mii dash (then) gaa-inaad (what he said to them): “Gego wiin (don’t you) i’iwidi (over there) ninjiiding (at my rear) ondamishikegon (eat upon me),” ogii-inaa’ (he said to them).</span>
+<span class="l-gloss">Mii dash (then) gaa-inaad (what he said to them): “Gego wiin (don’t you) i’iwidi (over there) ninjiiding (at my rear) ondamishikegon (eat upon me),” ogii-inaan (he said to them).</span>
 
 <span class="l-orig">(44) Mīdạc kägä‘t kā∙i∙cictcigänit, ānīc pạnägu gātanwäwä‘tōnit.</span>
 

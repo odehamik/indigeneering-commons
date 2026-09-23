@@ -182,19 +182,19 @@ OTTAWA-WOMAN.
 
 <span class="l-orig">(21) A‘pī mīnawā nāgi∙ā∙wạsut kīⁿgōⁿyaᵉ ugīnīgi∙ā∙ᵉ, ga‘kinagu ändaswäwānạgisiwād kīⁿgōⁿyag.</span>
 
-<span class="l-fiero">**Apii miinawaa naagi’aawasod giigoonya’ ogii-niigi’aa’, gakina go endaswewaanagiziwaad giigoonyag.**</span>
+<span class="l-fiero">**Apii miinawaa naagi’aawasod giigoonyan ogii-niigi’aan, gakina go endaswewaanagiziwaad giigoonyag.**</span>
 
 <span class="l-eng">*When the time was come for her to be delivered, to fishes gave she birth, to all kinds of fishes, as many as there were.*</span>
 
-<span class="l-gloss">Apii miinawaa naagi’aawasod (when the time came for her to give birth) giigoonya’ ogii-niigi’aa’ (to fishes she gave birth), gakina go endaswewaanagiziwaad giigoonyag (to all kinds of fishes, as many as there were).</span>
+<span class="l-gloss">Apii miinawaa naagi’aawasod (when the time came for her to give birth) giigoonyan ogii-niigi’aan (to fishes she gave birth), gakina go endaswewaanagiziwaad giigoonyag (to all kinds of fishes, as many as there were).</span>
 
 <span class="l-orig">(22) Mīgu menawā gakina gī∙a∙ninạgạnigut unīdcānisaᵉ, mīyä‘ta ạdi‘kamägwạn, kāwīn ugīnạgạnigusīn.</span>
 
-<span class="l-fiero">**Mii go miinawaa gakina gii-ani-naganigod oniijaanisa’, miiy eta adikamegwan, gaawiin ogii-naganigoosiin.**</span>
+<span class="l-fiero">**Mii go miinawaa gakina gii-ani-naganigod oniijaanisan, miiy eta adikamegwan, gaawiin ogii-naganigoosiin.**</span>
 
 <span class="l-eng">*So again by all her children was she forsaken as fast as they came, save only by the whitefish, she was not left by it.*</span>
 
-<span class="l-gloss">Mii go miinawaa gakina gii-ani-naganigod oniijaanisa’ (so again by all her children she was forsaken in turn), miiy eta adikamegwan (save only the whitefish), gaawiin ogii-naganigoosiin (by it she was not left).</span>
+<span class="l-gloss">Mii go miinawaa gakina gii-ani-naganigod oniijaanisan (so again by all her children she was forsaken in turn), miiy eta adikamegwan (save only the whitefish), gaawiin ogii-naganigoosiin (by it she was not left).</span>
 
 <span class="l-orig">(23) Mī∙i∙´ᵘ kā∙i∙‘kitot ‘aᵉa´ᵘ adi‘kamäg:</span>
 

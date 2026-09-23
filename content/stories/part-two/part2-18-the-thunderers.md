@@ -104,11 +104,11 @@ THE THUNDERERS.
 
 <span class="l-orig">(11) Mēdạc imāⁿ kīwâbạmāwād nīⁿj kistcipinäsiwaᵉ, nīⁿj kayä aya∙ā∙nsaᵉ; mīgu ackudä äjisänig papasạngābiwād odijināwāwān.</span>
 
-<span class="l-fiero">**Mii dash imaa gii-waabamaawaad niizh gichi-binesiwa’, niizh gaye aya’aansa’; mii go ashkode ezhisenig bapasangaabiwaad odizhinaawaawaan.**</span>
+<span class="l-fiero">**Mii dash imaa gii-waabamaawaad niizh gichi-binesiwan, niizh gaye aya’aansan; mii go ashkode ezhisenig bapasangaabiwaad odizhinaawaawaan.**</span>
 
 <span class="l-eng">*And then at that place they beheld two big birds, and also two young (birds); and it was like the play of fire as (the birds) opened and closed their eyes, when (the youths) were seeing (them).*</span>
 
-<span class="l-gloss">Mii dash imaa (and then at that place) gii-waabamaawaad (they beheld) niizh gichi-binesiwa’ (two big birds), niizh gaye aya’aansa’ (and also two young ones); mii go ashkode ezhisenig (and it was like the play of fire) bapasangaabiwaad (as they opened and closed their eyes) odizhinaawaawaan (when they were looking at them).</span>
+<span class="l-gloss">Mii dash imaa (and then at that place) gii-waabamaawaad (they beheld) niizh gichi-binesiwan (two big birds), niizh gaye aya’aansan (and also two young ones); mii go ashkode ezhisenig (and it was like the play of fire) bapasangaabiwaad (as they opened and closed their eyes) odizhinaawaawaan (when they were looking at them).</span>
 
 <span class="l-orig">(12) Kạnạbạtc nīⁿjing³ ä‘kōnāmung mī∙i∙´ᵘ mini‘k kāwâbamāwād; mīnawa kīkîbisä āna‘kwạt.</span>
 
@@ -390,10 +390,10 @@ THE THUNDERERS.
 
 <span class="l-orig">(46) Mīdạc kwaya‘kigu kīckābi‘kāng; kī‘pā‘kisä pạngī i∙i∙’∙ᵘ ājibi‘k, kā∙i∙jipindigäwād udcīmāniwa gayä; mạdwäbā‘piwaᵉ, ạbwīn gayä madwäyā‘kwisinōn.</span>
 
-<span class="l-fiero">**Mii dash gwayak igo giishkaabikaang; gii-baakise bangii i’iw aazhibik, gaa-izhi-biindigewaad ojiimaaniwa gaye; madwe-baapiwa’, abwiin gaye madweyaagwisinoon.**</span>
+<span class="l-fiero">**Mii dash gwayak igo giishkaabikaang; gii-baakise bangii i’iw aazhibik, gaa-izhi-biindigewaad ojiimaaniwa gaye; madwe-baapiwan, abwiin gaye madweyaagwisinoon.**</span>
 
 <span class="l-eng">*And then straight for the steep cliff (they went); with a small entrance opened the cliff, and in they went with their canoe. They could be heard laughing, and the sound of their paddles was audible.*</span>
 
-<span class="l-gloss">Mii dash gwayak igo giishkaabikaang (and then straight for the steep cliff they went); gii-baakise bangii i’iw aazhibik (with a small entrance opened the cliff), gaa-izhi-biindigewaad ojiimaaniwa’ gaye (and in they went with their canoe); madwe-baapiwa’ (they could be heard laughing), abwiin gaye madweyaagwisinoon (and the sound of their paddles was audible).</span>
+<span class="l-gloss">Mii dash gwayak igo giishkaabikaang (and then straight for the steep cliff they went); gii-baakise bangii i’iw aazhibik (with a small entrance opened the cliff), gaa-izhi-biindigewaad ojiimaaniwa’ gaye (and in they went with their canoe); madwe-baapiwan (they could be heard laughing), abwiin gaye madweyaagwisinoon (and the sound of their paddles was audible).</span>
 
 </div>

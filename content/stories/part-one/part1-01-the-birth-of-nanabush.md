@@ -276,11 +276,11 @@ The Birth of Nenabosho
 
 <span class="l-orig">(32) Ugīkikänimā aᵘ mindimōyä ‘iᵉi’ᵘ wātạcinit ‘iᵉi’ᵘᵘ∙ ō∙cicäⁿyaᵉ.</span>
 
-<span class="l-fiero">**Ogii-gikenimaa aw mindimooye i’iw waa-dazhinid i’iw oozhishenya’.**</span>
+<span class="l-fiero">**Ogii-gikenimaa aw mindimooye i’iw waa-dazhinid i’iw oozhishenyan.**</span>
 
 <span class="l-eng">*Knowledge of them had the old woman as to how many would her  grandchildren be.*</span>
 
-<span class="l-gloss">Ogii-gikenimaa aw mindimooye i’iw waa-dazhinid i’iw oozhishenya’ (the old woman knew how many her grandchildren would be).</span>
+<span class="l-gloss">Ogii-gikenimaa aw mindimooye i’iw waa-dazhinid i’iw oozhishenyan (the old woman knew how many her grandchildren would be).</span>
 
 <span class="l-orig">(33) Na, mīdạc ‘iᵉi’ᵘ ä‘kidowāt nạgāwäbinitīwāt (ayāni) ānawisāga∙ạ∙mōwāt.</span>
 

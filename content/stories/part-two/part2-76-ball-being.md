@@ -36,11 +36,11 @@ BALL-BEING.
 
 <span class="l-orig">(3) Äjikibicạngajīt, mīsa äjibwānawi‘tōt.</span>
 
-<span class="l-fiero">**Ezhi-gibishangajiid, mii sa ezhi-bwaanawi’tood.**</span>
+<span class="l-fiero">**Ezhi-gibishangajiid, mii sa ezhi-bwaanawitood.**</span>
 
 <span class="l-eng">*As he was constipated, he therefore failed in his efforts.*</span>
 
-<span class="l-gloss">Ezhi-gibishangajiid (being blocked up), mii sa ezhi-bwaanawi’tood (so he failed at it).</span>
+<span class="l-gloss">Ezhi-gibishangajiid (being blocked up), mii sa ezhi-bwaanawitood (so he failed at it).</span>
 
 <span class="l-orig">(4) Mīsa´ äcinisigut.</span>
 

@@ -20,11 +20,11 @@ Old Man Mashos.
 
 <span class="l-orig">(1) Ningudingsa Omạcōs kī∙ā∙i∙ndā; kāwin awiya wīwạn ayāsīwạn; odānisaᵉ ä‘ta nījiwa; onīngwạnạn ayāwạn, wīdigāmāwān īgi´ᵘ i‘kwäwạg.</span>
 
-<span class="l-fiero">**Ningoding sa Omashoos gii-ayindaa; gaawiin awiya wiiwan ayaasiiwan; odaanisa’ eta niizhiwa; oningwanan ayaawan, wiidigemaawaan iigiw ikwewag.**</span>
+<span class="l-fiero">**Ningoding sa Omashoos gii-ayindaa; gaawiin awiya wiiwan ayaasiiwan; odaanisan eta niizhiwa; oningwanan ayaawan, wiidigemaawaan iigiw ikwewag.**</span>
 
 <span class="l-eng">*Once on a time Mashos was living (there); without his wife was he; his daughters numbered only two; his son-in-law was there, to him were the women wedded.*</span>
 
-<span class="l-gloss">Ningoding sa (once upon a time) Omashoos gii-ayindaa (Mashos was living there); gaawiin awiya wiiwan ayaasiiwan (he had no wife); odaanisa’ eta niizhiwa (only two were his daughters); oningwanan ayaawan (his son-in-law was there), wiidigemaawaan iigiw ikwewag (married to him were the women).</span>
+<span class="l-gloss">Ningoding sa (once upon a time) Omashoos gii-ayindaa (Mashos was living there); gaawiin awiya wiiwan ayaasiiwan (he had no wife); odaanisan eta niizhiwa (only two were his daughters); oningwanan ayaawan (his son-in-law was there), wiidigemaawaan iigiw ikwewag (married to him were the women).</span>
 
 <span class="l-orig">(2) Ningudingidạc i‘kidō ‘aᵉa´ᵘ īnini:</span>
 
@@ -180,11 +180,11 @@ Old Man Mashos.
 
 <span class="l-orig">(21) Ogạnōnāᵉ kayāckwaᵉ:</span>
 
-<span class="l-fiero">**Oganoonaa’ gayaashkwa’:**</span>
+<span class="l-fiero">**Oganoonaa’ gayaashkwan:**</span>
 
 <span class="l-eng">*He spoke to the Gulls, saying:*</span>
 
-<span class="l-gloss">Oganoonaa’ gayaashkwa’: (he spoke to the gulls:)</span>
+<span class="l-gloss">Oganoonaa’ gayaashkwan: (he spoke to the gulls:)</span>
 
 <span class="l-orig">(22) “ ‘A‘a´ᵘ, kidạcamininim ‘aᵉa´ᵘ inini!</span>
 
@@ -212,11 +212,11 @@ Old Man Mashos.
 
 <span class="l-orig">(25) Awidạc inini ogạnōnāᵉ kayāckwaᵉ:</span>
 
-<span class="l-fiero">**Aw idash inini oganoonaa’ gayaashkwa’:**</span>
+<span class="l-fiero">**Aw idash inini oganoonaan gayaashkwan:**</span>
 
 <span class="l-eng">*And the man spoke to the Gulls, saying:*</span>
 
-<span class="l-gloss">Aw idash inini (and the man) oganoonaa’ gayaashkwa’: (spoke to the gulls:)</span>
+<span class="l-gloss">Aw idash inini (and the man) oganoonaan gayaashkwan: (spoke to the gulls:)</span>
 
 <span class="l-orig">(26) “Päᵒ‘kā, päᵒ‘kā! kägu ạmwuci‘kägun!</span>
 
@@ -244,11 +244,11 @@ Old Man Mashos.
 
 <span class="l-orig">(29) Ogīgạnōnāᵉ idạc kayāckwaᵉ ‘aᵉa´ᵘ inini tcîgīwäwinigut.</span>
 
-<span class="l-fiero">**Ogii-ganoonaa’ idash gayaashkwa’ a’aw inini ji-giiwewinigod.**</span>
+<span class="l-fiero">**Ogii-ganoonaa’ idash gayaashkwan a’aw inini ji-giiwewinigod.**</span>
 
 <span class="l-eng">*Then to the Gulls the man spoke, asking them to fetch him back home.*</span>
 
-<span class="l-gloss">Ogii-ganoonaa’ idash gayaashkwa’ a’aw inini (then the man spoke to the gulls) ji-giiwewinigod (to be carried back home).</span>
+<span class="l-gloss">Ogii-ganoonaa’ idash gayaashkwan a’aw inini (then the man spoke to the gulls) ji-giiwewinigod (to be carried back home).</span>
 
 <span class="l-orig">(30) Mī∙i∙´ᵘ käᵉgä‘t äjipimiwinigut päᵉjik kistcigayāckwạn.</span>
 
@@ -316,11 +316,11 @@ Old Man Mashos.
 
 <span class="l-orig">(38) A‘pī∙i∙dac mäjạgād ‘aᵉa´ᵘ Omicōs pînāsibīwạn ōcisaᵉ; wāwạnōn uta‘kunānāwān īgi´ᵘ ạbạnōdcīyạg.</span>
 
-<span class="l-fiero">**Apii idash mezhagaad a’aw Omashoos, bi-naazibiiwan oozhisa’; waawanoon odakonaanaawaan iigiw abinoojiiyag.**</span>
+<span class="l-fiero">**Apii idash mezhagaad a’aw Omashoos, bi-naazibiiwan oozhisan; waawanoon odakonaanaawaan iigiw abinoojiiyag.**</span>
 
 <span class="l-eng">*And when by canoe Mashos arrived, then down to the water came his grandchildren; some eggs in their hands did the children have.*</span>
 
-<span class="l-gloss">Apii idash mezhagaad a’aw Omashoos (and when Mashos came ashore by canoe), bi-naazibiiwan oozhisa’ (down to the water came his grandchildren); waawanoon odakonaanaawaan iigiw abinoojiiyag (eggs the children were holding in their hands).</span>
+<span class="l-gloss">Apii idash mezhagaad a’aw Omashoos (and when Mashos came ashore by canoe), bi-naazibiiwan oozhisan (down to the water came his grandchildren); waawanoon odakonaanaawaan iigiw abinoojiiyag (eggs the children were holding in their hands).</span>
 
 <span class="l-orig">(39) “Ānīndi kā∙u∙ndinạmäg?” udinān Omạcōs.</span>
 
@@ -476,11 +476,11 @@ Old Man Mashos.
 
 <span class="l-orig">(58) Mīdạc kīmādcāwād, ijāwād ändạcinit mīgiziwaᵉ ayānit.</span>
 
-<span class="l-fiero">**Mii dash gii-maajaawaad, izhaawaad endazhinid migiziwa’ ayaanid.**</span>
+<span class="l-fiero">**Mii dash gii-maajaawaad, izhaawaad endazhinid migiziwan ayaanid.**</span>
 
 <span class="l-eng">*Accordingly off they started, they went to where the bald eagles were.*</span>
 
-<span class="l-gloss">Mii dash gii-maajaawaad (and so off they started), izhaawaad endazhinid migiziwa’ ayaanid (going to where the bald eagles were).</span>
+<span class="l-gloss">Mii dash gii-maajaawaad (and so off they started), izhaawaad endazhinid migiziwan ayaanid (going to where the bald eagles were).</span>
 
 <span class="l-orig">(59) Kā∙i∙jikạbāwāt, mēdạc kī‘kawāwāg mi‘tigōn i∙i∙māⁿ agōdänig wạsasun.</span>
 
@@ -492,11 +492,11 @@ Old Man Mashos.
 
 <span class="l-orig">(60) Nîswi ugīnisāwān migizīnsaᵉ.</span>
 
-<span class="l-fiero">**Niswi ogii-nisaawaan migiziinsa’.**</span>
+<span class="l-fiero">**Niswi ogii-nisaawaan migiziinsan.**</span>
 
 <span class="l-eng">*Three eaglets they killed.*</span>
 
-<span class="l-gloss">Niswi ogii-nisaawaan migiziinsa’ (three eaglets they killed).</span>
+<span class="l-gloss">Niswi ogii-nisaawaan migiziinsan (three eaglets they killed).</span>
 
 <span class="l-orig">(61) Kā‘pōziwād tcīmāning ugạnōnān uningwạnạn:</span>
 
@@ -620,11 +620,11 @@ Old Man Mashos.
 
 <span class="l-orig">(76) A‘pī∙i∙dạc mäjạgād Omạcōs owâbạmān ocisaᵉ mīgwạnạn ta‘kunānit.</span>
 
-<span class="l-fiero">**Apii dash mezhagaad Omashoos owaabamaan oozhisa’ miigwanan dakonaanid.**</span>
+<span class="l-fiero">**Apii dash mezhagaad Omashoos owaabamaan oozhisan miigwanan dakonaanid.**</span>
 
 <span class="l-eng">*Now, when Mashos arrived home in his canoe, he saw his grandchildren with some feathers in their hands.*</span>
 
-<span class="l-gloss">Apii dash mezhagaad Omashoos (now when Mashos arrived by canoe) owaabamaan oozhisa’ miigwanan dakonaanid (he saw his grandchildren holding feathers).</span>
+<span class="l-gloss">Apii dash mezhagaad Omashoos (now when Mashos arrived by canoe) owaabamaan oozhisan miigwanan dakonaanid (he saw his grandchildren holding feathers).</span>
 
 <span class="l-orig">(77) “Ānīndi kā∙u∙ndinägwā īgi´ᵘ mīgunạg?”</span>
 
@@ -644,11 +644,11 @@ Old Man Mashos.
 
 <span class="l-orig">(79) “Nōsinān sa ogīpīnāᵉ.”</span>
 
-<span class="l-fiero">**“Noosinaan sa ogii-biinaa’”**</span>
+<span class="l-fiero">**“Noosinaan sa ogii-biinaan”**</span>
 
 <span class="l-eng">*“Why, our father came home with them.”*</span>
 
-<span class="l-gloss">“Noosinaan sa ogii-biinaa’” (“why, our father brought them home.”)</span>
+<span class="l-gloss">“Noosinaan sa ogii-biinaan” (“why, our father brought them home.”)</span>
 
 <span class="l-orig">(80) Mīdạc änād:</span>
 
@@ -964,11 +964,11 @@ Old Man Mashos.
 
 <span class="l-orig">(119) ‘Aᵉa´widạc inini kīgwāckuni mi‘ta‘kạmig; ‘aᵉawidac kînäbik ugīnisigōn, animi‘kīᵉ kī∙ạ∙mwugut.</span>
 
-<span class="l-fiero">**A’aw idash inini gii-gwaashkwani mitakamig; aw idash ginebig ogii-nisigoon, animikii’ gii-amwogod.**</span>
+<span class="l-fiero">**A’aw idash inini gii-gwaashkwani mitakamig; aw idash ginebig ogii-nisigoon, animikiin gii-amwogod.**</span>
 
 <span class="l-eng">*Now, the man leaped upon the land; but the Serpent was slain, by the Thunderers was he eaten.*</span>
 
-<span class="l-gloss">A’aw idash inini gii-gwaashkwani mitakamig (now the man leaped onto the land); aw idash ginebig ogii-nisigoon (but the serpent was slain), animikii’ gii-amwogod (eaten by the thunderers).</span>
+<span class="l-gloss">A’aw idash inini gii-gwaashkwani mitakamig (now the man leaped onto the land); aw idash ginebig ogii-nisigoon (but the serpent was slain), animikiin gii-amwogod (eaten by the thunderers).</span>
 
 <span class="l-orig">(120) Kī‘kīwä awinini ändāwāt.</span>
 

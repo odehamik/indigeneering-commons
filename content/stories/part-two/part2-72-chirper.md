@@ -74,11 +74,11 @@ CHIRPER.
 
 <span class="l-orig">(6) Ānīc ki‘tcigạmīng i∙i∙mā tāwạg. Ningutinigu kwīckwa∙ä∙ kigicäp äjimādcāt. Ānīc awạnini. Mi‘tāwagāni dạc imā. Äjimādcāt, mi‘tāwagāng idạc ạnipapimusä. Cigwadac awīya äjinōndawāt nạgamunit:—</span>
 
-<span class="l-fiero">**Aaniish gichigamiing i’imaa daawag. Ningoding igo Gwiishkwa’e gigizheb ezhi-maajaad. Aaniish awanini. Mitaawagaani dash imaa. Ezhi-maajaad, mitaawagaang idash ani-babimose*. Zhigwa dash awiya ezhi-noondawaad nagamonid:—**</span>
+<span class="l-fiero">**Aaniish gichigamiing i’imaa daawag. Ningoding igo Gwiishkwa’e gigizheb ezhi-maajaad. Aaniish awanini. Mitaawagaani dash imaa. Ezhi-maajaad, mitaawagaang idash ani-babimose. Zhigwa dash awiya ezhi-noondawaad nagamonid:—**</span>
 
 <span class="l-eng">*Now, by the sea over there were they abiding. So one morning Chirper went away. Now, it was foggy. And the beach was sandy over there. When he departed, along the sandy beach he went walking. And presently he heard the sound of some one singing:—*</span>
 
-<span class="l-gloss">Aaniish gichigamiing i’imaa daawag (now, there by the sea they lived). Ningoding igo Gwiishkwa’e gigizheb ezhi-maajaad (one morning Chirper went off). Aaniish awanini (now it was foggy). Mii dawaagani dash imaa (and the beach was sandy there). Ezhi-maajaad, mitaawagaang idash ani-babimose* (setting out, along the sandy shore he walked). Zhigwa dash awiya ezhi-noondawaad nagamonid (and now he heard someone singing):—</span>
+<span class="l-gloss">Aaniish gichigamiing i’imaa daawag (now, there by the sea they lived). Ningoding igo Gwiishkwa’e gigizheb ezhi-maajaad (one morning Chirper went off). Aaniish awanini (now it was foggy). Mii dawaagani dash imaa (and the beach was sandy there). Ezhi-maajaad, mitaawagaang idash ani-babimose (setting out, along the sandy shore he walked). Zhigwa dash awiya ezhi-noondawaad nagamonid (and now he heard someone singing):—</span>
 
 <span class="l-orig">(7) “Tcītu∙ä∙wa, Tcītu∙ä∙wa! pīpisạnānowāgä kitānamägumāgä.  
 Tcītu∙ä∙wa, Ugāwạⁿjiguc, Ugāwạⁿjiguc!”</span>
@@ -150,11 +150,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(13) Intawā äjikīwät. Mīdạc kägä‘t äjinickādisit kwīckwa∙ä∙. Cigwasa änijipīndigät ändāwāt, owābạmān ō‘kumisạn nạmạdabinit. Mī gucagu iᵘ äjiki‘tcimawit kwīckwa∙ä∙, kayä wīn mindimōyä äjimawit. Wī‘kā kā∙i∙jikīckuwäwāt. Äjigạnōnigut īniyō‘kumisạn: “Nōjis! wägunäni iᵘ wändcimawiyạn?”</span>
 
-<span class="l-fiero">**Indawaa ezhi-giiwed. Mii dash geget ezhi-nishkaadizid Gwiishkwa’e. Zhigwa sa ani-zhi-biindiged endaawaad, owaabamaan ookomisan namadabinid. Mii gosha go iw ezhi-gichi-mawid Gwiishkwa’e, gaye wiin mindimooye ezhi-mawid. Wiikaa gaa-izhi-giishkowewaad. Ezhi-ganoonigod iniw ookomisan: “Noozhis! wegoneni* iw wenji-mawiyan?”**</span>
+<span class="l-fiero">**Indawaa ezhi-giiwed. Mii dash geget ezhi-nishkaadizid Gwiishkwa’e. Zhigwa sa ani-zhi-biindiged endaawaad, owaabamaan ookomisan namadabinid. Mii gosha go iw ezhi-gichi-mawid Gwiishkwa’e, gaye wiin mindimooye ezhi-mawid. Wiikaa gaa-izhi-giishkowewaad. Ezhi-ganoonigod iniw ookomisan: “Noozhis! wegoneni iw wenji-mawiyan?”**</span>
 
 <span class="l-eng">*Whereupon back home he then went. And then truly angry was Chirper. Presently, when he entered into where he (and his grandmother) lived, he saw her seated there. Then it was that bitterly Chirper wept, and his grandmother also wept. It was a long while before they ceased crying. Then he was addressed by his grandmother, saying: “O my grandson! for what reason are you crying?”*</span>
 
-<span class="l-gloss">Indawaa ezhi-giiwed (so home he went). Mii dash geget ezhi-nishkaadizid Gwiishkwa’e (and truly angry was Chirper). Zhigwa sa ani-zhi-biindiged endaawaad (when he entered their dwelling), owaabamaan ookomisan namadabinid (he saw his grandmother sitting). Mii go iw ezhi-gichi-mawid Gwiishkwa’e (bitterly Chirper wept), gaye wiin mindimooye ezhi-mawid (and the old woman too wept). Wiikaa gaa-izhi-giishkowewaad (long before they ceased crying). Ezhi-ganoonigod iniw ookomisan (his grandmother addressed him): “Noozhis! wegoneni* iw wenji-mawiyan? (My grandchild! why are you crying?)”</span>
+<span class="l-gloss">Indawaa ezhi-giiwed (so home he went). Mii dash geget ezhi-nishkaadizid Gwiishkwa’e (and truly angry was Chirper). Zhigwa sa ani-zhi-biindiged endaawaad (when he entered their dwelling), owaabamaan ookomisan namadabinid (he saw his grandmother sitting). Mii go iw ezhi-gichi-mawid Gwiishkwa’e (bitterly Chirper wept), gaye wiin mindimooye ezhi-mawid (and the old woman too wept). Wiikaa gaa-izhi-giishkowewaad (long before they ceased crying). Ezhi-ganoonigod iniw ookomisan (his grandmother addressed him): “Noozhis! wegoneni iw wenji-mawiyan? (My grandchild! why are you crying?)”</span>
 
 <span class="l-orig">(14) “Nō‘kō, awiya ginīn ningīnōntawā mạdwänạgạmut:—</span>
 
@@ -185,11 +185,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(17) Ānīc ningī‘ki‘känimāg ạnicinābäg äntāwāt, ạgāmiki‘tcigạming ōdänawi∙i∙tīwạg. Mīdạc ‘aᵉa´ᵘ wägimāwit, aᵘ a‘kiwäⁿzī, ōdānisạn ā‘pidci ki‘kādänimōwạn. Nōjis, ā‘pidcigu kāwīn wī‘kā awiya usäsigä∙i∙gusīn ‘aᵉa´ᵘ uckinīgi‘kwä; nībiwa awiya udānuwīpäcwâbạmigōn. Kāwīnina kitāgacki‘tōsīn wâwiyac tcitōtawạtibạn ‘aᵉa´ᵘ uckinīgi‘kwä?” Cigwasa ugạnōnigōn ōcisạn: “Kāwīn, nō‘kō, nintākacki‘tōsīn.”</span>
 
-<span class="l-fiero">**Aaniish ningii-gikenimaag anishinaabeg endaawaad, agaami-gichigamiing oodenawi’idiwag. Mii dash a’aw wegimaawid, aw akiwenzii, odaanisan aapiji gii-gikaadenimoowan. “Noozhis, aapiji go gaawiin wiikaa awiya osesige’igosiin* a’aw oshkiniigikwe; niibiwa awiya odaanowii-besh-waabamigoon. Gaawiin ina gidaa-gashkitoosiin waawiyazh ji-doodawadiban a’aw oshkiniigikwe?” Zhigwa sa oganoonigoon oozhisan: “Gaawiin, nookoo, nindaa-gashki’toosiin.”**</span>
+<span class="l-fiero">**Aaniish ningii-gikenimaag anishinaabeg endaawaad, agaami-gichigamiing oodenawi’idiwag. Mii dash a’aw wegimaawid, aw akiwenzii, odaanisan aapiji gii-gikaadenimoowan. “Noozhis, aapiji go gaawiin wiikaa awiya osesige’igosiin* a’aw oshkiniigikwe; niibiwa awiya odaanowii-besh-waabamigoon. Gaawiin ina gidaa-gashkitoosiin waawiyazh ji-doodawadiban a’aw oshkiniigikwe?” Zhigwa sa oganoonigoon oozhisan: “Gaawiin, nookoo, nindaa-gashkitoosiin.”**</span>
 
 <span class="l-eng">*“Why, I know of a place where some people dwell, on the farther shore of the sea do they live together in a town. And now he that is chief, an old man, (has) a daughter who is possessed of overweening pride in herself. My grandson, in no wise was the maiden ever approached; by many a one has it been tried to be intimate with her, but to no purpose. Could you not play some trick on the maiden?” Presently she was addressed by her grandson, saying: “No, my grandmother, I could not do it.”*</span>
 
-<span class="l-gloss">Aaniish ningii-gikenimaag anishinaabeg endaawaad (now, I know of people who dwell), agaami-gichigamiing oodenawi’idiwag (across the sea they have their town together). Mii dash a’aw wegimaawid, aw akiwenzii (and he who is chief, an old man), odaanisan aapiji gii-gikaadenimoowan (his daughter is held in great esteem). “Noozhis (my grandchild), gaawiin wiikaa awiya … a’aw oshkiniigikwe (never has anyone won that young woman); niibiwa awiya odaanowii-...-waabamigoon (by many in vain has she been courted). Gaawiin ina gidaa-gashkitoosiin waawiyazh ji-doodawadiban a’aw oshkiniigikwe? (Could you not do something clever to that young woman?)” Zhigwa sa oganoonigoon oozhisan (then her grandson answered): “Gaawiin, nookoo, nindaa-gashki’toosiin (No, grandmother, I could not).”</span>
+<span class="l-gloss">Aaniish ningii-gikenimaag anishinaabeg endaawaad (now, I know of people who dwell), agaami-gichigamiing oodenawi’idiwag (across the sea they have their town together). Mii dash a’aw wegimaawid, aw akiwenzii (and he who is chief, an old man), odaanisan aapiji gii-gikaadenimoowan (his daughter is held in great esteem). “Noozhis (my grandchild), gaawiin wiikaa awiya … a’aw oshkiniigikwe (never has anyone won that young woman); niibiwa awiya odaanowii-...-waabamigoon (by many in vain has she been courted). Gaawiin ina gidaa-gashkitoosiin waawiyazh ji-doodawadiban a’aw oshkiniigikwe? (Could you not do something clever to that young woman?)” Zhigwa sa oganoonigoon oozhisan (then her grandson answered): “Gaawiin, nookoo, nindaa-gashkitoosiin (No, grandmother, I could not).”</span>
 
 *⁸ usäsigä∙i∙gusīn “(never) was she won/touched” and udānuwīpäcwâbạmigōn “in vain courted” carry the in-vain preverb aano-; the courting-verb stem is drafted. · Printer’s error preserved, 2026-09-02: p.710 l.18 prints NO opening quotation mark before Nōjis (a 159 px gap at 12× with no ink between the period and the N); the closing ” prints at uckinīgi‘kwä?” on p.710 l.21. The mark the inherited transcription supplied is removed; the omission is Jones’s printer’s, not corrected. · Gloss repaired 2026-09-03: the chunk quoted ozhaazigi’igosiin without its inline (?) flag and so failed check_gloss; the flagged token is now elided with … and the chunk’s English is unchanged. The token itself stays flagged — no corpus witness for the stem zhaazigi-.*
 
@@ -209,11 +209,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(19) Cigwasa kägä‘t äjimādcāt ā‘pidci kigicäp. Mīsa iᵘ nāsāp äjikitci∙a∙wạninik. Mīnawā onōndawān mạdwänạgamunit, mīsa ‘iᵉi´ᵘ äciwawänạbit a‘kawā‘tōd tcibā‘kawaninik. Cigwa gägä‘t bā‘kawạnini. Kāwīn gạnagä pima‘kạmigāsinini äjipạsigwa∙u∙t. Mīsa äjimādcāt kwaya‘k iwiti kā‘tạnwäwitạminit.</span>
 
-<span class="l-fiero">**Zhigwa sa geget ezhi-maajaad aapiji gigizheb. Mii sa iw naasaab ezhi-gichi-awaninig. Miinawaa onoondawaan madwe-nagamonid, mii sa i’iw ezhi-wawenabid akawaatood ji-baakawaninig. Zhigwa geget baakawanini. Gaawiin ganage bima’kamigaasinini ezhi-bazigwa’od. Mii sa ezhi-maajaad gwayak iwidi gaa-danwewidaminid.**</span>
+<span class="l-fiero">**Zhigwa sa geget ezhi-maajaad aapiji gigizheb. Mii sa iw naasaab ezhi-gichi-awaninig. Miinawaa onoondawaan madwe-nagamonid, mii sa i’iw ezhi-wawenabid akawaatood ji-baakawaninig. Zhigwa geget baakawanini. Gaawiin ganage bimakamigaasinini ezhi-bazigwa’od. Mii sa ezhi-maajaad gwayak iwidi gaa-danwewidaminid.**</span>
 
 <span class="l-eng">*Then, of a truth, he departed hence very early in the morning. And then, as before, there was a heavy fog. Again he heard the sound of some one singing, whereupon down he sat to wait for the fog to lift. In time it surely cleared. Not a sign of the other coast-line was in sight when up he flew. And so he started straight for the place where the sound of the voice was heard.*</span>
 
-<span class="l-gloss">Zhigwa sa geget ezhi-maajaad aapiji gigizheb (now truly off he went very early). Mii sa iw naasaab ezhi-gichi-awaninig (and just as before it was very foggy). Miinawaa onoondawaan madwe-nagamonid (again he heard the singing), mii sa i’iw ezhi-wawenabid akawaatood ji-baakawaninig (so he sat to wait for the fog to lift). Zhigwa geget baakawanini (in time it cleared). Gaawiin ganage bima’kamigaasinini ezhi-bazigwa’od (not a trace of land in sight when up he flew). Mii sa ezhi-maajaad gwayak iwidi gaa-danwewidaminid (and straight he set off to where the voice had sounded).</span>
+<span class="l-gloss">Zhigwa sa geget ezhi-maajaad aapiji gigizheb (now truly off he went very early). Mii sa iw naasaab ezhi-gichi-awaninig (and just as before it was very foggy). Miinawaa onoondawaan madwe-nagamonid (again he heard the singing), mii sa i’iw ezhi-wawenabid akawaatood ji-baakawaninig (so he sat to wait for the fog to lift). Zhigwa geget baakawanini (in time it cleared). Gaawiin ganage bimakamigaasinini ezhi-bazigwa’od (not a trace of land in sight when up he flew). Mii sa ezhi-maajaad gwayak iwidi gaa-danwewidaminid (and straight he set off to where the voice had sounded).</span>
 
 *¹⁰ Jones marks this page “Translated by T. M.” (Michelson). tcibā‘kawaninik “for the fog to lift” drafted.*
 
@@ -221,11 +221,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(20) Ningutingiku pạpimisät owâbandān pima‘kamigānik, mī cigwa äjigi‘kändạnk aiyä‘kusit. Mindcimigu päcwâbạndạnk, “Ā‘pitci kanabạtc ninganōtạgāmäsä,” inändạm. Ā‘pitcigu päcwâbạndạnk mī cigwa äjipạngicing nibī‘kāng. Kägä‘t sägisi tcinisābāwät. Kāyā‘tä∙a∙‘kucing aiyạguntcing äjipạpạsiningwīkanä∙u∙disut, äniwä‘kigu wāsa ijā. Mīnawā äjinōmagäcimunut mīgu iᵘ käga‘pī kīmīcạgāt.</span>
 
-<span class="l-fiero">**Ningoding igo babimised* owaabandaan bima’kamigaanig, mii zhigwa ezhi-gikendang ayekozid. Minjimi go beshwaabandang, “Aapiji ganabaj ninga-noondaagaamese,” inendam. Aapiji go beshwaabandang mii zhigwa ezhi-bangishing nibiikaang. Geget zegizi ji-nisaabaawed. Gaye-dash aakozing ayagoonjing ezhi-babaasiningwiikana’odizod, eniwek igo waasa izhaa. Miinawaa ezhi-noomagezhimonod miigo iw gegapii gii-mizhagaad.**</span>
+<span class="l-fiero">**Ningoding igo babimised* owaabandaan bimakamigaanig, mii zhigwa ezhi-gikendang ayekozid. Minjimi go beshwaabandang, “Aapiji ganabaj ninga-noondaagaamese,” inendam. Aapiji go beshwaabandang mii zhigwa ezhi-bangishing nibiikaang. Geget zegizi ji-nisaabaawed. Gaye-dash aakozing ayagoonjing ezhi-babaasiningwiikana’odizod, eniwek igo waasa izhaa. Miinawaa ezhi-noomagezhimonod miigo iw gegapii gii-mizhagaad.**</span>
 
 <span class="l-eng">*In course of time, while flying along, he beheld the fringe of the coast, whereupon he began to feel that he was growing tired. About the time that he was drawing close to (the shore), “I very much fear lest I shall give out before I get there,” he thought. And when very nigh he drew, then down into the water he fell. Truly afraid was he that he would drown. After he had lain resting (and) floating upon the water, he then flapped his wings, and some distance away he went. And when he had taken another short rest, he then at last made the shore.*</span>
 
-<span class="l-gloss">Ningoding igo babimised* owaabandaan bima’kamigaanig (by and by, flying, he saw the rim of the land), mii zhigwa ezhi-gikendang ayekozid (and felt himself growing tired). “Aapiji ganabaj ninga-noondaagaamese (I much fear I shall fall short before reaching),” inendam. Mii zhigwa ezhi-bangishing nibiikaang (then into the water he fell). Geget zegizi ji-nisaabaawed (truly he feared he would drown). Ezhi-babaasi…-odizod (he flapped his wings), eniwek igo waasa izhaa (some way off he went). Miinawaa ezhi-noomagezhimonod (resting again a while) miigo iw gegapii gii-mizhagaad (at last he reached shore).</span>
+<span class="l-gloss">Ningoding igo babimised* owaabandaan bimakamigaanig (by and by, flying, he saw the rim of the land), mii zhigwa ezhi-gikendang ayekozid (and felt himself growing tired). “Aapiji ganabaj ninga-noondaagaamese (I much fear I shall fall short before reaching),” inendam. Mii zhigwa ezhi-bangishing nibiikaang (then into the water he fell). Geget zegizi ji-nisaabaawed (truly he feared he would drown). Ezhi-babaasi…-odizod (he flapped his wings), eniwek igo waasa izhaa (some way off he went). Miinawaa ezhi-noomagezhimonod (resting again a while) miigo iw gegapii gii-mizhagaad (at last he reached shore).</span>
 
 *¹¹ ninganōtạgāmäsä (the fall-short verb) and äjipạpạsiningwīkanä∙u∙disut (the wing-flap reflexive) are drafted; readings flagged.*
 
@@ -233,11 +233,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(21) Ā‘pitcisa minwa‘tāwạngāni i∙i∙mā äjimicạgāt. Intawā äji∙ā∙ba∙a∙nk umacki‘kīm, intawā usi‘tāng äci∙a∙‘tōd umacki‘kīm; mīdạc iᵘ äjimādcīyāwạngusät. Ningutingiku kägä‘t odō‘kawi∙ā∙n ạnicinābän; mīdạc imā pa∙i∙ci‘kawänit äciwāni‘kät äciningwa∙u∙disut; äniwä‘k pạngī i∙i∙ᵘ u‘kōc usāgisi‘tōn.</span>
 
-<span class="l-fiero">**Aapiji sa minwataawangaani i’imaa ezhi-mizhagaad. Indawaa ezhi-aabaa’ang omashki’kiim, indawaa osidaang ezhi-atood omashki’kiim; mii dash iw ezhi-maajii’ayaawangozed*. Ningoding igo geget odookawii’aan anishinaaben; mii dash imaa baa-izhi-kawenid ezhi-waaniked* ezhi-ningwa’odizod; eniwek bangii iw okoosh* osaagizitoon.**</span>
+<span class="l-fiero">**Aapiji sa minwataawangaani i’imaa ezhi-mizhagaad. Indawaa ezhi-aabaa’ang omashkikiim, indawaa osidaang ezhi-atood omashkikiim; mii dash iw ezhi-maajii’ayaawangozed*. Ningoding igo geget odookawii’aan anishinaaben; mii dash imaa baa-izhi-kawenid ezhi-waaniked* ezhi-ningwa’odizod; eniwek bangii iw okoosh* osaagizitoon.**</span>
 
 <span class="l-eng">*Very pleasing was the sandy beach at the place where he came ashore. It was then that he untied his (pouch of) medicine, and then upon his foot he placed it; thereupon away he went along the beach. And by and by he came upon the track of a person; and so in that one’s footprint he dug a hole, where he covered himself over; just only a small part of his beak he left sticking out.*</span>
 
-<span class="l-gloss">Aapiji sa minwataawangaani i’imaa ezhi-mizhagaad (very pleasing was the sand where he came ashore). Indawaa ezhi-aabaa’ang omashki’kiim (so he untied his medicine), osidaang ezhi-atood omashki’kiim (and set it upon his foot); mii dash iw ezhi-maajii… (then off he went). Ningoding igo geget odookawii’aan anishinaaben (by and by he found a person’s track); mii dash imaa baa-izhi-kawenid ezhi-waaniked* ezhi-ningwa’odizod (in that footprint he dug and buried himself); eniwek bangii iw okoosh* osaagizitoon (only a little of his beak he left sticking out).</span>
+<span class="l-gloss">Aapiji sa minwataawangaani i’imaa ezhi-mizhagaad (very pleasing was the sand where he came ashore). Indawaa ezhi-aabaa’ang omashkikiim (so he untied his medicine), osidaang ezhi-atood omashkikiim (and set it upon his foot); mii dash iw ezhi-maajii… (then off he went). Ningoding igo geget odookawii’aan anishinaaben (by and by he found a person’s track); mii dash imaa baa-izhi-kawenid ezhi-waaniked* ezhi-ningwa’odizod (in that footprint he dug and buried himself); eniwek bangii iw okoosh* osaagizitoon (only a little of his beak he left sticking out).</span>
 
 *¹² u‘kōc = his beak (so Jones’s English; earlier the bare Ojibwe sāgi‘kō- could read “rump,” but the English fixes it as beak). äjimādcīyāwạngusät “he went off over the sand” drafted.*
 
@@ -255,11 +255,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(23) Cayīgwa māmwätc pināsāpita‘ku‘kīwạn ‘iᵉi´ᵘ pa∙a∙i∙cānigwän. Cigwa imā ä‘kubīgạtinig na∙i∙tāg imā sāgi‘kōcäcing ā‘pidci ubācita∙u∙gōn. Äci∙o∙cigābawinit inābiwạn kwaya‘k ändawāt, cigwa mādcī∙ạ∙mōn:—</span>
 
-<span class="l-fiero">**Zhayiigwa maamwaj binaasaabidagokiiwan i’iw baa-izhaanigwen. Zhigwa imaa ekobiigadinig naazhitaag imaa saagi’kooshe-shing aapiji obaazhita’ogoon. Ezhi-o’zhigaabawinid inaabiwan gwayak endaawaad, zhigwa maajii’amoon:—**</span>
+<span class="l-fiero">**Zhayiigwa maamwaj binaasaabidagokiiwan i’iw baa-izhaanigwen. Zhigwa imaa ekobiigadinig naazhitaag imaa saagikooshe-shing aapiji obaazhita’ogoon. Ezhi-o’zhigaabawinid inaabiwan gwayak endaawaad, zhigwa maajii’amoon:—**</span>
 
 <span class="l-eng">*At the time that she came, she was carefully stepping into the tracks which she had made at a former time when coming along there. Now, yonder by the edge of the water, at the very place where he lay with his beak sticking out, she stood (so that she was) directly over him. As she stood over him, looking straight in the direction where (he and his grandmother) lived, she then began singing:—*</span>
 
-<span class="l-gloss">Zhayiigwa maamwaj … i’iw baa-izhaanigwen (she stepped carefully into her own former tracks). Zhigwa imaa ekobiigadinig naazhitaag (now at the water’s edge) imaa saagi’kooshe-shing aapiji obaazhita’ogoon (where his beak stuck out, it greatly amused her). Ezhi-o’zhigaabawinid inaabiwan gwayak endaawaad (as she stood looking straight toward home), zhigwa maajii’amoon (she began to sing):—</span>
+<span class="l-gloss">Zhayiigwa maamwaj … i’iw baa-izhaanigwen (she stepped carefully into her own former tracks). Zhigwa imaa ekobiigadinig naazhitaag (now at the water’s edge) imaa saagikooshe-shing aapiji obaazhita’ogoon (where his beak stuck out, it greatly amused her). Ezhi-o’zhigaabawinid inaabiwan gwayak endaawaad (as she stood looking straight toward home), zhigwa maajii’amoon (she began to sing):—</span>
 
 *¹⁴ pinäsāpita‘ku‘kīwạn and the stepping-in-own-tracks clause are drafted; readings flagged. ubācita∙u∙gōn “it amused her” (the beak sticking from the trail).*
 
@@ -278,11 +278,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(25) Cigwa änicimādcāt ändāwāt. Cigwasa mīnawā udäbābạndān pima‘kạmigānik, mīsa käyābi äcinōntạgāmäsät; mīsa näyāp ạnicāgu pisinigwa∙i∙gät; ạgāwāgu ugạcki‘tōn mīcạgāt. Cigwa ạnikīwä; änipīndigät, ō‘kumisạn nạmạdạbiwạn. “Niyā! kītagwicin nạngwạna, nōjis! Kigīwâbamāna ‘aᵉa´ᵘ uckinīgi‘kwä.”</span>
 
-<span class="l-fiero">**Zhigwa ani-zhi-maajaad endaawaad. Zhigwa sa miinawaa odebaabandaan bima’kamigaanig, mii sa geyaabi ezhi-noondaagaamesed; mii sa neyaab ani-zhaa go bizinigwa’iged; agaawaa go ogashki’toon mizhagaad. Zhigwa anikiiwe; ani-biindiged, ookomisan namadabiwan. “Niyaa! gii-dagwishin nangwana, noozhis! Gii-waabamaa na a’aw oshkiniigikwe.”**</span>
+<span class="l-fiero">**Zhigwa ani-zhi-maajaad endaawaad. Zhigwa sa miinawaa odebaabandaan bimakamigaanig, mii sa geyaabi ezhi-noondaagaamesed; mii sa neyaab ani-zhaa go bizinigwa’iged; agaawaa go ogashkitoon mizhagaad. Zhigwa anikiiwe; ani-biindiged, ookomisan namadabiwan. “Niyaa! gii-dagwishin nangwana, noozhis! Gii-waabamaa na a’aw oshkiniigikwe.”**</span>
 
 <span class="l-eng">*In a while he then started back on his homeward way. In time he came in sight of the coast-line, whereupon, as before, he gave out before he got there; and, as before, all he could do was merely to flap his wings in the water; hardly was he able to make the shore. Soon he was on his way home; when he entered, there sat his grandmother. “Ah, me! you have really come home again, my grandson! Did you see the maiden?”*</span>
 
-<span class="l-gloss">Zhigwa ani-zhi-maajaad endaawaad (now she set off home). … odebaabandaan bima’kamigaanig (he sighted the coast), … neyaab ani-zhaa go bizinigwa’iged (again only flapping his wings); agaawaa go ogashki’toon mizhagaad (scarcely could he reach shore). Zhigwa anikiiwe; ani-biindiged, ookomisan namadabiwan (home he went; entering, his grandmother sat there). “Niyaa! gii-dagwishin nangwana, noozhis! (You’ve come back then, grandchild!) Gii-waabamaa na a’aw oshkiniigikwe? (Did you see that young woman?)”</span>
+<span class="l-gloss">Zhigwa ani-zhi-maajaad endaawaad (now she set off home). … odebaabandaan bimakamigaanig (he sighted the coast), … neyaab ani-zhaa go bizinigwa’iged (again only flapping his wings); agaawaa go ogashkitoon mizhagaad (scarcely could he reach shore). Zhigwa anikiiwe; ani-biindiged, ookomisan namadabiwan (home he went; entering, his grandmother sat there). “Niyaa! gii-dagwishin nangwana, noozhis! (You’ve come back then, grandchild!) Gii-waabamaa na a’aw oshkiniigikwe? (Did you see that young woman?)”</span>
 
 <span class="l-orig">(26) “Kägä‘t, nō‘kō, ningīwâbạmā. Mī o kā‘tōtawạg, ningīgāckipinā.”</span>
 
@@ -328,19 +328,19 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(30) “Nyā, kägu, kägo, nindānis, ijictcigä‘kän! Pōtcigu ‘aᵉa´ᵘ kipāpā ōgami‘kān wägunäni iᵘ wändci∙a∙yāwạt aᵘ ạbinōtci. Mīgu iᵘ icitäbwä‘tawicin, kägu´ wäbinā‘kän, ā‘pidcigu kītā∙i∙niga∙ā∙.” “ ‘Āᵘ, nimāmā, kīgatäbwä‘tōn, kāwīn ningawäbināsī.”</span>
 
-<span class="l-fiero">**“Nyaa, gego, gego, nindaanis, izhichigeken! Booch igo a’aw gibaabaa oga-mikaan wegoneni* iw wenji-ayaawad aw abinoojii. Miigo iw izhi-debwetawishin, gego webinaaken, aapiji go gidaa-inigi’aa.” “Aa, nimaamaa, giga-debwetoon, gaawiin ninga-webinaasii.”**</span>
+<span class="l-fiero">**“Nyaa, gego, gego, nindaanis, izhichigeken! Booch igo a’aw gibaabaa oga-mikaan wegoneni iw wenji-ayaawad aw abinoojii. Miigo iw izhi-debwetawishin, gego webinaaken, aapiji go gidaa-inigi’aa.” “Aa, nimaamaa, giga-debwetoon, gaawiin ninga-webinaasii.”**</span>
 
 <span class="l-eng">*“Oh, don’t, don’t, O my daughter, do such a thing! for of necessity will your father find out how you came to be with child. Therefore heed my word! don’t you cast it away, for very much harm would you do it.” “Very well, O my mother! I will heed your word, I will not cast (the child) away.”*</span>
 
-<span class="l-gloss">“Nyaa, gego, gego, nindaanis, izhichigeken! (don’t do that, my daughter!) Booch igo a’aw gibaabaa oga-mikaan (your father will surely find out) wegoneni* iw wenji-ayaawad aw abinoojii (how the child came to be). Izhi-debwetawishin, gego webinaaken (heed me, don’t cast it away), aapiji go gidaa-inigi’aa (you would do it great harm).” “Aa, nimaamaa, giga-debwetoon (I will heed you), gaawiin ninga-webinaasii (I will not cast it away).”</span>
+<span class="l-gloss">“Nyaa, gego, gego, nindaanis, izhichigeken! (don’t do that, my daughter!) Booch igo a’aw gibaabaa oga-mikaan (your father will surely find out) wegoneni iw wenji-ayaawad aw abinoojii (how the child came to be). Izhi-debwetawishin, gego webinaaken (heed me, don’t cast it away), aapiji go gidaa-inigi’aa (you would do it great harm).” “Aa, nimaamaa, giga-debwetoon (I will heed you), gaawiin ninga-webinaasii (I will not cast it away).”</span>
 
 <span class="l-orig">(31) Mīsa iᵘ cigwa ạnitibi‘kạtini; ayābitātibi‘kạtinig mī∙i∙´ cigwa ki‘känimāt wi‘kwutci∙u∙nit īni´ᵘ unītcānisänsạn. Mīndcimigu pīdābạninig cigwasa aiyāwạn. Kuniginīn, kwīwisänsạn!</span>
 
-<span class="l-fiero">**Mii sa iw zhigwa ani-dibikadini; ayaabitaa-dibikadinig* mii iw zhigwa gikenimaad wiikwajii’onid iniw oniijaanisensan. Minjimi go biidaabaninig zhigwa sa ayaawan. Goniginiin, gwiiwizensan!**</span>
+<span class="l-fiero">**Mii sa iw zhigwa ani-dibikadini; ayaabitaa-dibikadinig mii iw zhigwa gikenimaad wiikwajii’onid iniw oniijaanisensan. Minjimi go biidaabaninig zhigwa sa ayaawan. Goniginiin, gwiiwizensan!**</span>
 
 <span class="l-eng">*It was then growing night; at the middle of the night was when she felt the child trying to get out. Just as the dawn appeared was when it came. Behold, it was a boy!*</span>
 
-<span class="l-gloss">Mii sa iw zhigwa ani-dibikadini (now night came on); ayaabitaa-dibikadinig* … gikenimaad wiikwajii’onid iniw oniijaanisensan (at midnight she felt her child struggling to come). … biidaabaninig zhigwa sa ayaawan (at dawn she had it). Goniginiin, gwiiwizensan! (Lo, a little boy!)</span>
+<span class="l-gloss">Mii sa iw zhigwa ani-dibikadini (now night came on); ayaabitaa-dibikadinig … gikenimaad wiikwajii’onid iniw oniijaanisensan (at midnight she felt her child struggling to come). … biidaabaninig zhigwa sa ayaawan (at dawn she had it). Goniginiin, gwiiwizensan! (Lo, a little boy!)</span>
 
 <span class="l-orig">(32) Ạmbä, kägä‘t minwäntạm aᵘ mintimōyä. Ā‘pidcisa ạgạtändạm aᵘ uckinīgi‘kwä, kayä ‘aᵉa´ᵘ a‘kiwäⁿzi. Ānīc mī aᵘ wägimāwit ‘aᵉa´ᵘ a‘kiwäⁿzī. Ā‘pidcigu tibickō awiya ki‘tci ā‘kusit mī∙i∙´ᵘ änäntạnk ‘aᵉa´ᵘ a‘kiwäⁿzī. Ningutingiku kījigạtinig äjimāminonäntạng änändạnk tcisạgaswä∙i∙wät. Ni‘tạm ‘iᵉi´ᵘ uckīniniwaᵉ kāmōskinänit. Cigwasa äjikīgitut: “Ạmbäsa, awägwän ‘aᵉa´ᵘ käciginigut īni´ᵘ kwīwisäsạn. Mīdạc aᵘ käwīdigämāt īni´ᵘ nindānisan.”</span>
 
@@ -489,11 +489,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(48) Kayä ‘aᵉa´ᵘ kō‘kumis kīganāⁿzi‘kawā. Nīngakaski‘tōn tciminoayāyäg. Kāwin kägō kigamāci∙ai∙yāsim. Wīgiwām ta∙u∙cictcigātä.” “Cigwa äjikīgitut kwīckwa∙ä∙: “ ‘Āᵘ, ‘āᵘ! mīgwätc cäwänimiyạn. Wäwīpigu ninganāⁿzi‘kawā aᵘ nō‘kumis.” Kägä‘t äjimādcāt Kwīckwa∙ä∙. A‘pī tägucing, ō‘kumisạn ogạnōnān: “Nō‘kō! kipināⁿzi‘kōn. Kägä‘t kanabạtc kicawänimigōmin, wäwīpigu tcimādcāyạng.”</span>
 
-<span class="l-fiero">**“Gaye a’aw gookomis giga-naazikawaa. Ninga-gashki’toon ji-mino-ayaayeg. Gaawiin gego giga-maazhi-ayaasim. Wiigiwaam da-ozhichigaade.” Zhigwa ezhi-giigidod Gwiishkwa’e: “Aa, aa! miigwech zhawenimiyan. Wewiib igo ninga-naazikawaa aw nookomis.” Geget ezhi-maajaad Gwiishkwa’e. Apii degoshing, ookomisan oganoonaan: “Nookoo! gibi-naazikoon. Geget ganabaj gizhawenimigoomin, wewiib igo ji-maajaayang.”**</span>
+<span class="l-fiero">**“Gaye a’aw gookomis giga-naazikawaa. Ninga-gashkitoon ji-mino-ayaayeg. Gaawiin gego giga-maazhi-ayaasim. Wiigiwaam da-ozhichigaade.” Zhigwa ezhi-giigidod Gwiishkwa’e: “Aa, aa! miigwech zhawenimiyan. Wewiib igo ninga-naazikawaa aw nookomis.” Geget ezhi-maajaad Gwiishkwa’e. Apii degoshing, ookomisan oganoonaan: “Nookoo! gibi-naazikoon. Geget ganabaj gizhawenimigoomin, wewiib igo ji-maajaayang.”**</span>
 
 <span class="l-eng">*“And after your grandmother shall you go. I will make it possible for you to live comfortably. Of nothing shall you be in want. A wigwam shall be built.” Soon then spoke Chirper, saying: “Good, good! Thankful am I for the kindness you do me. And immediately I will go after my grandmother.” Truly then departed Chirper. When he got home, to his grandmother he spoke, saying: “O my grandmother! I have come to get you. Of a truth, perhaps are we blessed, and speedily we should depart hence.”*</span>
 
-<span class="l-gloss">“Gaye a’aw gookomis giga-naazikawaa (and your grandmother you shall fetch). Ninga-gashki’toon ji-mino-ayaayeg (I will make you live well). Gaawiin gego giga-maazhi-ayaasim (you shall lack nothing). Wiigiwaam da-ozhichigaade (a lodge shall be made).” “Aa, aa! miigwech zhawenimiyan (thank you for pitying me). Wewiib igo ninga-naazikawaa aw nookomis (quickly I will fetch my grandmother).” … “Nookoo! gibi-naazikoon (I have come for you). … gizhawenimigoomin, wewiib igo ji-maajaayang (we are blessed; let us go quickly).”</span>
+<span class="l-gloss">“Gaye a’aw gookomis giga-naazikawaa (and your grandmother you shall fetch). Ninga-gashkitoon ji-mino-ayaayeg (I will make you live well). Gaawiin gego giga-maazhi-ayaasim (you shall lack nothing). Wiigiwaam da-ozhichigaade (a lodge shall be made).” “Aa, aa! miigwech zhawenimiyan (thank you for pitying me). Wewiib igo ninga-naazikawaa aw nookomis (quickly I will fetch my grandmother).” … “Nookoo! gibi-naazikoon (I have come for you). … gizhawenimigoomin, wewiib igo ji-maajaayang (we are blessed; let us go quickly).”</span>
 
 <span class="l-orig">(49) Kägä‘t ạnimādcāwạg; tägucinuwāt, āca wīgiwām kīkīcitcikātäni; unicicinini ‘iᵉi´ᵘ wīgiwām. Cigwa mīnāwạg wīsiniwin kayä ‘iᵉi´ᵘ ạnō‘kātcigạn. Kwīckwa∙ä kägä‘t minwändạm wīwit. Ki‘tcibābigä mīnawā utaiyāwān ạbinōtcīyạn, i‘kwäsäsạn. Kägät minwäntạm. Mīsa cigwa mādci‘tād kī∙o∙sät.</span>
 
@@ -539,11 +539,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(53) Ningutingiku mīnawā uwīcāmigō niniwaᵉ wī‘kīyusänit. Mīdạc ‘iᵉi´ᵘ ānu∙u∙ndcī∙i∙gut īni´ᵘ wīwạn: “Käga‘pī kīganisigōᵉ.” Wī‘tānidạc mīwạnini wātcīwāt, wīnidạc ni‘tạm unisạn īni´ᵘ ma‘kwạn. Kāwäsa īni´ᵘ wī‘tān kägō wạni‘tōsini. “Tayā!” udinān wī‘tān, “mī∙i∙´ᵘ inigā‘taiyạn. Mī∙i∙ᵘ kätạniciwäba‘k mini‘k kä∙ạ∙ni∙a∙‘kīwạnk, ānint ā‘pitci tạgō‘pạtisi a∙i∙nini. Kīcpin ä‘ta kayä kīn kägo ni‘tōyạmbạn, mī∙i∙‘ᵘ tābita tcigī∙i∙ciwäbisi‘pạn aᵘ känipimādisit.”</span>
 
-<span class="l-fiero">**Ningoding igo miinawaa owiijaamigoo ininiwan wii-giiwosenid. Mii dash i’iw aano-onjii’igod iniw wiiwan: “Gegapii giga-nisigoog.” Wiitaan idash mii a’aw inini waa-wiijiiwaad, wiin idash nitam onisaan iniw makwan. Gaawesa iniw wiitaan gego wanitoosini. “Dayaa!” odinaan wiitaan, “mii iw inigaa’taiyan. Mii iw ged-ani-izhiwebak minik ge-ani-akiiwang, aanind aapiji dago-baadizi a’aw inini. Giishpin eta gaye giin gego gii-nitooyamban, mii iw daabita* ji-gii-izhiwebizipan aw genibimaadizid.”**</span>
+<span class="l-fiero">**Ningoding igo miinawaa owiijaamigoo ininiwan wii-giiwosenid. Mii dash i’iw aano-onjii’igod iniw wiiwan: “Gegapii giga-nisigoog.” Wiitaan idash mii a’aw inini waa-wiijiiwaad, wiin idash nitam onisaan iniw makwan. Gaawesa iniw wiitaan gego wanitoosini. “Dayaa!” odinaan wiitaan, “mii iw inigaataiyan. Mii iw ged-ani-izhiwebak minik ge-ani-akiiwang, aanind aapiji dago-baadizi a’aw inini. Giishpin eta gaye giin gego gii-nitooyamban, mii iw daabita* ji-gii-izhiwebizipan aw genibimaadizid.”**</span>
 
 <span class="l-eng">*Another time Chirper was invited by men who were planning to go off on a hunt, whereupon an attempt was made by his wife to dissuade him not to go, but to no purpose. “In the end will you be slain by them.” Now, his brother-in-law was among them with whom he went, and he himself was the first to kill a bear. Absolutely nothing did his brother-in-law kill. “Too bad!” he said to his brother-in-law, “for that you should be in such ill luck. Thus shall it be as long as the world lasts, some men shall be very unlucky. If only you had killed something too, then all alike would be they who are yet to live.”*</span>
 
-<span class="l-gloss">Ningoding igo miinawaa owiijaamigoo ininiwan wii-giiwosenid (once men invited him to hunt). … aano-onjii’igod iniw wiiwan (in vain his wife dissuaded him): “Gegapii giga-nisigoog (in the end they will slay you).” Wiitaan idash mii a’aw inini waa-wiijiiwaad (his brother-in-law went with him), wiin idash nitam onisaan iniw makwan (and he first killed the bear). Gaawesa iniw wiitaan gego wanitoosini (the brother-in-law got nothing). “Dayaa! mii iw inigaa’taiyan (too bad for you). … aanind aapiji dago-baadizi a’aw inini (some men are very unlucky). Giishpin eta gaye giin gego gii-nitooyamban, … (had you killed something too, you too would live).”</span>
+<span class="l-gloss">Ningoding igo miinawaa owiijaamigoo ininiwan wii-giiwosenid (once men invited him to hunt). … aano-onjii’igod iniw wiiwan (in vain his wife dissuaded him): “Gegapii giga-nisigoog (in the end they will slay you).” Wiitaan idash mii a’aw inini waa-wiijiiwaad (his brother-in-law went with him), wiin idash nitam onisaan iniw makwan (and he first killed the bear). Gaawesa iniw wiitaan gego wanitoosini (the brother-in-law got nothing). “Dayaa! mii iw inigaataiyan (too bad for you). … aanind aapiji dago-baadizi a’aw inini (some men are very unlucky). Giishpin eta gaye giin gego gii-nitooyamban, … (had you killed something too, you too would live).”</span>
 
 *²⁵ ⭐ mīwạnini wātcīwāt = mii a’aw inini waa-wiijiiwaad — cross-evidence for the Mīwạniniᵘ liaison family (23-H1 / 24-H2). tạgō‘pạtisi / känipimādisit drafted.*
 
@@ -575,11 +575,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(56) Ā‘tā! kwīckwa∙ä∙ ki‘tci∙ä∙nigu‘k udạni‘t ubacipa‘wān. Ānunīcō‘kạmowāt ‘iᵉi’ᵘ ạni‘t. Ayānōntätcigät a∙i∙nini, intawā upạgitciwäbinān. Kāwīn dạc wīn kwīckwa∙ä∙ ubạgitciwäbinạⁿzīn, mīsā‘pạnä. Kwīckwa∙ä∙ kōgīwa∙ō∙nint; ānic mīsạgu iᵘ pạnä nibī‘kāng kwīckwa∙ä∙.</span>
 
-<span class="l-fiero">**Ataa! Gwiishkwa’e gichi-aanigook odani’t obashiba’waan. Aano-niizhookamowaad i’iw ani’t. Ayaanoondaajiged a’aw inini, indawaa obagidwebinaan. Gaawiin dash wiin Gwiishkwa’e obagidwebinanziin, mii sa bane. Gwiishkwa’e googiiwa’onind; aaniish mii sa go iw bane nibiikaang Gwiishkwa’e.**</span>
+<span class="l-fiero">**Ataa! Gwiishkwa’e gichi-aanigook odanit obashiba’waan. Aano-niizhookamowaad i’iw anit. Ayaanoondaajiged a’aw inini, indawaa obagidwebinaan. Gaawiin dash wiin Gwiishkwa’e obagidwebinanziin, mii sa bane. Gwiishkwa’e googiiwa’onind; aaniish mii sa go iw bane nibiikaang Gwiishkwa’e.**</span>
 
 <span class="l-eng">*Ah! but Chirper thrust his spear at it with all his might, piercing it. Then both tried working the spear together, but in vain. When the man felt that they would be overpowered, he let go the spear. But Chirper himself did not let go the spear, whereupon then down into the water he was taken; so accordingly then into the water went Chirper.*</span>
 
-<span class="l-gloss">Ataa! Gwiishkwa’e gichi-aanigook odani’t obashiba’waan (Chirper speared it with all his might). Aano-niizhookamowaad i’iw ani’t (in vain they both worked the spear). … obagidwebinaan (the man let go the spear). Gaawiin dash wiin Gwiishkwa’e obagidwebinanziin (but Chirper did not let go). Gwiishkwa’e googiiwa’onind (he was dragged under); … iw bane nibiikaang Gwiishkwa’e (so into the water went Chirper).</span>
+<span class="l-gloss">Ataa! Gwiishkwa’e gichi-aanigook odanit obashiba’waan (Chirper speared it with all his might). Aano-niizhookamowaad i’iw anit (in vain they both worked the spear). … obagidwebinaan (the man let go the spear). Gaawiin dash wiin Gwiishkwa’e obagidwebinanziin (but Chirper did not let go). Gwiishkwa’e googiiwa’onind (he was dragged under); … iw bane nibiikaang Gwiishkwa’e (so into the water went Chirper).</span>
 
 *²⁸ udạni‘t = odani’t “his spear”; googiiwa’o- “be dragged down into the water.”*
 
@@ -599,7 +599,7 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(58) Ānicnā kāwīn kägä‘t nibusī aᵘ kwīckwa∙ä∙; pā‘tinīning ugīwi‘tagāmä∙ō∙nigōn iᵘ ki‘tcigạmi. Ningutingigu ugi‘känimān wīnibunit īni´ᵘ ma‘kwạn; änäntạnk kwīckwa∙ä∙: “Ạmbäsạnō, i∙i∙mā wänta∙i∙pīwāt, ä∙i∙‘tāg imā tawī∙i∙cinibu!” Mīsa´ kägä‘t ä∙i∙‘tāg imā unta∙i∙bānig äjinibunit.</span>
 
-<span class="l-fiero">**Aaniishnaa gaawiin geget nibosii aw Gwiishkwa’e; baatiinining ogii-wita-gaame’onigoon iw gichigami. Ningoding igo ogikenimaan wii-nibonid iniw makwan; enendang Gwiishkwa’e: “Ambesanoo, i’imaa wendaabiiwaad*, eyi-itaag imaa da-wii-izhi-nibo!” Mii sa geget eyi-itaag imaa ondaayibaanig ezhi-nibonid.**</span>
+<span class="l-fiero">**Aaniishnaa gaawiin geget nibosii aw Gwiishkwa’e; baatiinining ogii-wita-gaame’onigoon iw gichigami. Ningoding igo ogikenimaan wii-nibonid iniw makwan; enendang Gwiishkwa’e: “Ambesanoo, i’imaa wenda’ibiiwaad, eyi-itaag imaa da-wii-izhi-nibo!” Mii sa geget eyi-itaag imaa ondaayibaanig ezhi-nibonid.**</span>
 
 <span class="l-eng">*Now, of course, not really dead was Chirper; in many places roundabout the sea was he conveyed. Now, by and by he perceived that the bear was going to die. Then thought Chirper: “Behold, at the place from whence they draw water, right there let him die!” Whereupon, of a truth, at the very place from whence water was drawn did the bear die.*</span>
 
@@ -631,11 +631,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(61) Kägä‘t nāⁿzibība‘tōwạg īgi´ᵘ ạnicinābäg; inābiwāt nuta∙i∙bāning kī∙a∙gwạntcinōn kwīckwa∙ä∙n. Wīndạcigu a‘kiwäⁿzī unawạtinān, ā‘pidci sīgạnāskābāwäwạn kwīckwa∙ä∙n; ạni‘t umindciminamini.</span>
 
-<span class="l-fiero">**Geget naazibiiba’toowag igiw anishinaabeg; inaabiwaad ondaayibaaning gii-agwaagojinoon Gwiishkwa’en. Wiin dash igo akiwenzii onawajinaan, aapiji ziiganaashkaabaawewan* Gwiishkwa’en; ani’t ominjiminaamini.**</span>
+<span class="l-fiero">**Geget naazibiibatoowag igiw anishinaabeg; inaabiwaad ondaayibaaning gii-agwaagojinoon Gwiishkwa’en. Wiin dash igo akiwenzii onawajinaan, aapiji ziiganaashkaabaawewan* Gwiishkwa’en; anit ominjiminaamini.**</span>
 
 <span class="l-eng">*Truly down to the water ran the people; when they looked at the place of the drawing-out of the water, (they saw) Chirper floating in the water. Now, the old man himself grabbed him, so very small was the look of Chirper by reason of his being soaked with water; to the (shaft of the) spear was he clinging.*</span>
 
-<span class="l-gloss">Geget naazibiiba’toowag igiw anishinaabeg (the people ran down to the water); inaabiwaad ondaayibaaning gii-agwaagojinoon Gwiishkwa’en (at the spring they saw Chirper floating). … akiwenzii onawajinaan (the old man pulled him out), aapiji ziiganaashkaabaawewan Gwiishkwa’en (sopping wet was Chirper); ani’t ominjiminaamini (his spear he still gripped).</span>
+<span class="l-gloss">Geget naazibiibatoowag igiw anishinaabeg (the people ran down to the water); inaabiwaad ondaayibaaning gii-agwaagojinoon Gwiishkwa’en (at the spring they saw Chirper floating). … akiwenzii onawajinaan (the old man pulled him out), aapiji ziiganaashkaabaawewan Gwiishkwa’en (sopping wet was Chirper); anit ominjiminaamini (his spear he still gripped).</span>
 
 *³² sīgạnāskābāwä- “soaked/sopping with water”; minjiminan- “grip, hold fast.”*
 
@@ -643,11 +643,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(62) Ā‘pidcisa pwāwickāni ‘iᵉi´ᵘ ạni‘t nawạtcidạc umistcā‘tōnawaᵉ i∙i∙´ᵘ twā∙i∙gạn. Mīsa´ māmawō‘kawāwāt, wī‘kāsa´ kāgạcki∙ā∙wāt kitcitābānāwāt. Kägä‘t minwäntạmōg tciwīsiniwā, ma‘kwạn tci∙a∙mwāwāt.</span>
 
-<span class="l-fiero">**Aapiji sa bwaawishkaani i’iw ani’t nawaj idash omizhicha’toonaawaa i’iw dwaa’igan. Mii sa maamawo’kawaawaad, wiikaa sa gaa-gashki’aawaad gijidaabaanaawaad*. Geget minwendamoog ji-wiisiniwaad, makwan ji-amwaawaad.**</span>
+<span class="l-fiero">**Aapiji sa bwaawishkaani i’iw anit nawaj idash omizhichatoonaawaa i’iw dwaa’igan. Mii sa maamawokawaawaad, wiikaa sa gaa-gashki’aawaad gijidaabaanaawaad*. Geget minwendamoog ji-wiisiniwaad, makwan ji-amwaawaad.**</span>
 
 <span class="l-eng">*Very heavy was the spear to pull, and so larger they made the hole. Whereupon, by working together, after a long while they were able to draw him out. Truly were they pleased (to see) that they would have some food to eat, that they would have the bear to eat.*</span>
 
-<span class="l-gloss">Aapiji sa bwaawishkaani i’iw ani’t (very bent was the spear) nawaj idash omizhicha’toonaawaa i’iw dwaa’igan (and so they enlarged the ice-hole). Mii sa maamawo’kawaawaad (all together they worked), wiikaa sa gaa-gashki’aawaad gijidaabaanaawaad* (with difficulty at last they hauled it out). Geget minwendamoog ji-wiisiniwaad, makwan ji-amwaawaad (truly glad they were to eat, the bear they would eat).</span>
+<span class="l-gloss">Aapiji sa bwaawishkaani i’iw anit (very bent was the spear) nawaj idash omizhichatoonaawaa i’iw dwaa’igan (and so they enlarged the ice-hole). Mii sa maamawokawaawaad (all together they worked), wiikaa sa gaa-gashki’aawaad gijidaabaanaawaad* (with difficulty at last they hauled it out). Geget minwendamoog ji-wiisiniwaad, makwan ji-amwaawaad (truly glad they were to eat, the bear they would eat).</span>
 
 *³³ Jones marks this page “Translated by T. M.” (Michelson). pwāwickāni “(it) was bent” and kitcitābānāwāt “they hauled it out” drafted; the bent-spear Ojibwe and Jones’s “heavy to pull” English diverge slightly (a loose 1919 rendering, preserved).*
 

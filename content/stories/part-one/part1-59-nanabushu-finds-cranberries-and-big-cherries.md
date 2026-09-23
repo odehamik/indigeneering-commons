@@ -130,7 +130,7 @@ Nanabushu finds Cranberries and Big Cherries
 
 <span class="l-orig">(15) “Mī cayīgwa tci∙a∙niandawâbạndạmạn käda∙ī∙ndaiyạng,” udigōn.</span>
 
-<span class="l-fiero">**“Mii zhayiigwa ji-ani-andawaabandaman ged-ayindaayang*,” odigoon.**</span>
+<span class="l-fiero">**“Mii zhayiigwa ji-ani-andawaabandaman ged-ayindaayang,” odigoon.**</span>
 
 <span class="l-eng">*“Soon shall you now look for a place where we are to dwell,” he was told.*</span>
 

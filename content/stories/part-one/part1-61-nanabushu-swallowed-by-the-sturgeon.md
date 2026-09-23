@@ -482,11 +482,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(59) Mīdạc äji∙u∙dākinạng minawā sipōtcigạn.</span>
 
-<span class="l-fiero">**Mii dash ezhi-odaakinang miinawaa siboojigan.**</span>
+<span class="l-fiero">**Mii dash ezhi-odaapinang miinawaa siboojigan.**</span>
 
 <span class="l-eng">*And so he once more took up the whetstone.*</span>
 
-<span class="l-gloss">Mii dash ezhi-odaakinang miinawaa siboojigan (and so once more he took up the whetstone).</span>
+<span class="l-gloss">Mii dash ezhi-odaapinang miinawaa siboojigan (and so once more he took up the whetstone).</span>
 
 <span class="l-orig">(60) Sipōtōd wâgā‘kwạt, mīgu minawā ägwut:</span>
 
@@ -1010,11 +1010,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(125) Mīdạc Nänabucu kīsaguswä∙ā∙t nīwing inaka‘käyā wändabinit mạnitōᵉ.</span>
 
-<span class="l-fiero">**Mii dash Nenaboozhoo gii-sagaswe’aad niiwing inakakeyaa wendabinid manidoo’.**</span>
+<span class="l-fiero">**Mii dash Nenaboozhoo gii-sagaswe’aad niiwing inakakeyaa wendabinid manidoon.**</span>
 
 <span class="l-eng">*Whereupon Nänabushu made a smoke offering toward the four directions where sit the manitous.*</span>
 
-<span class="l-gloss">Mii dash Nenaboozhoo gii-sagaswe’aad niiwing inakakeyaa wendabinid manidoo’ (whereupon Nenaboozhoo made a smoke offering toward the four directions where the manidoog sit).</span>
+<span class="l-gloss">Mii dash Nenaboozhoo gii-sagaswe’aad niiwing inakakeyaa wendabinid manidoon (whereupon Nenaboozhoo made a smoke offering toward the four directions where the manidoog sit).</span>
 
 <span class="l-orig">(126) Mīdạc kīna‘kumigut.</span>
 
@@ -1090,11 +1090,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(135) Mīdạc kägä‘t cayīgwa minawā onōndawāᵉ pīdwäwinạminit, mīgu minawā pā∙i∙nwänit: “(cry of gulls).”</span>
 
-<span class="l-fiero">**Mii dash geget zhayiigwa miinawaa onoondawaa’ biidwewinaminid, mii go miinawaa baa-inwenid: “(cry of gulls).”**</span>
+<span class="l-fiero">**Mii dash geget zhayiigwa miinawaa onoondawaan biidwewinaminid, mii go miinawaa baa-inwenid: “(cry of gulls).”**</span>
 
 <span class="l-eng">*It was true that soon again he heard the sound of them coming hitherward, whereupon again they came with the cry: “(cry of gulls).”*</span>
 
-<span class="l-gloss">Mii dash geget zhayiigwa miinawaa onoondawaa’ biidwewinaminid (it was true that soon he again heard the sound of them coming this way), mii go miinawaa baa-inwenid: “(cry of gulls).” (whereupon again they cried: “(cry of gulls).” — carried verbatim)</span>
+<span class="l-gloss">Mii dash geget zhayiigwa miinawaa onoondawaan biidwewinaminid (it was true that soon he again heard the sound of them coming this way), mii go miinawaa baa-inwenid: “(cry of gulls).” (whereupon again they cried: “(cry of gulls).” — carried verbatim)</span>
 
 <span class="l-orig">(136) Mīdạc äjikanōnāt: “Īct, nîcīmîsā!¹ skumānā pagwanätcigạnānandạmāwiciyu‘k aᵘ kīⁿgōⁿ!”</span>
 
@@ -1130,11 +1130,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(140) “‘Āᵘ, nîcīm,² pạgwanätciganānandamawiciyu‘k aᵘ kīⁿgōⁿ!” udināᵉ.</span>
 
-<span class="l-fiero">**“Aaw, nishiim(5), bagwanejiganaanandamawishiyok aw giigoonh!” odinaa’.**</span>
+<span class="l-fiero">**“Aaw, nishiim(5), bagwanejiganaanandamawishiyok aw giigoonh!” odinaan.**</span>
 
 <span class="l-eng">*“O my younger brothers(5)! peck an opening for me into the belly of this fish!” he said to them.*</span>
 
-<span class="l-gloss">“Aaw, nishiim(5), bagwanejiganaanandamawishiyok aw giigoonh!” (“O my younger brothers, peck an opening into this fish for me!”) odinaa’ (he said to them).</span>
+<span class="l-gloss">“Aaw, nishiim(5), bagwanejiganaanandamawishiyok aw giigoonh!” (“O my younger brothers, peck an opening into this fish for me!”) odinaan (he said to them).</span>
 
 <span class="l-orig">(141) Mīdạc kägä‘t äjipisānayāwāt.</span>
 
@@ -1186,27 +1186,27 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(147) Mäckut kīgasasäkā∙i∙ninim; nīgān wänicicit päpāmisät kīgatici∙u∙nicici∙i∙nim,” udināᵉ.</span>
 
-<span class="l-fiero">**Meshkod giga-sasegaa’ininim; niigaan wenizhishid bebaamised gigad-izhi-onizhishi’inim,” odinaa’.**</span>
+<span class="l-fiero">**Meshkod giga-sasegaa’ininim; niigaan wenizhishid bebaamised gigad-izhi-onizhishi’inim,” odinaan.**</span>
 
 <span class="l-eng">*In return I shall adorn you ; as beautiful as the creature of the air that surpasses (all others in beauty) is how beautiful I shall make you,” he said to them.*</span>
 
-<span class="l-gloss">Meshkod giga-sasegaa’ininim (in return I will adorn you); niigaan wenizhishid bebaamised (as beautiful as the fairest creature of the air) gigad-izhi-onizhishi’inim,” odinaa’ (so beautiful I shall make you,” he said to them).</span>
+<span class="l-gloss">Meshkod giga-sasegaa’ininim (in return I will adorn you); niigaan wenizhishid bebaamised (as beautiful as the fairest creature of the air) gigad-izhi-onizhishi’inim,” odinaan (so beautiful I shall make you,” he said to them).</span>
 
 <span class="l-orig">(148) “Kāwīn kuca nindākaski∙ā∙siwānān,” udigōᵉ.</span>
 
-<span class="l-fiero">**“Gaawiin gosha nindaa-gashki’aasiiwaanaan,” odigoo’.**</span>
+<span class="l-fiero">**“Gaawiin gosha nindaa-gashki’aasiiwaanaan,” odigoon.**</span>
 
 <span class="l-eng">*“We surely could not (make an opening into) him,” he was told.*</span>
 
-<span class="l-gloss">“Gaawiin gosha nindaa-gashki’aasiiwaanaan,” odigoo’ (“surely we could not do it to him,” he was told).</span>
+<span class="l-gloss">“Gaawiin gosha nindaa-gashki’aasiiwaanaan,” odigoon (“surely we could not do it to him,” he was told).</span>
 
 <span class="l-orig">(149) “Awa’ᵘ” udināᵉ. “Kīgakaski∙ā∙wā!”</span>
 
-<span class="l-fiero">**“Awaw” odinaa’. “Giga-gashki’aawaa!”**</span>
+<span class="l-fiero">**“Awaw” odinaan. “Giga-gashki’aawaa!”**</span>
 
 <span class="l-eng">*“Yea, (you can)!” he said to them. “You can do it!”*</span>
 
-<span class="l-gloss">“Awaw” odinaa’ (“yea!” he said to them). “Giga-gashki’aawaa!” (“you can do it!”)</span>
+<span class="l-gloss">“Awaw” odinaan (“yea!” he said to them). “Giga-gashki’aawaa!” (“you can do it!”)</span>
 
 <span class="l-orig">(150) Mīdạc kägä‘t äjimādci‘tāwāt pagwanätciganāmāwāt; wī‘kā dạc ogacki∙ā∙wān.</span>
 
@@ -1306,11 +1306,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(162) Mīdạc a‘pī kā∙i∙ckwānanawijwāt, mī kī∙i∙‘kitut kayä pä‘kic kiziswäwäbināt:</span>
 
-<span class="l-fiero">**Mii dash apii gaa-ishkwaa-nanawizhwaad, mii gii-ikidod gaye bekish gii-saswewebinaad:**</span>
+<span class="l-fiero">**Mii dash apii gaa-ishkwaa-nanawizhwaad, mii gii-ikidod gaye bekish gii-ziswewebinaad:**</span>
 
 <span class="l-eng">*And so when he had finished cutting it up, then he said, at the same time that he was flinging the pieces in every direction:*</span>
 
-<span class="l-gloss">Mii dash apii gaa-ishkwaa-nanawizhwaad (and so when he had finished cutting it apart), mii gii-ikidod gaye bekish gii-saswewebinaad (then he spoke, while flinging the pieces about).</span>
+<span class="l-gloss">Mii dash apii gaa-ishkwaa-nanawizhwaad (and so when he had finished cutting it apart), mii gii-ikidod gaye bekish gii-ziswewebinaad (then he spoke, while flinging the pieces about).</span>
 
 <span class="l-orig">(163) “Kīⁿgōⁿ kīgatạnijiwīnigōm tci∙ạ∙ni∙a∙‘kīwạng.</span>
 
@@ -1338,11 +1338,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(166) Mīdạc kägä‘t kā∙i∙jiwäbatinig kīⁿgōⁿyänsaᵉ ki‘tcinībiwa kī∙u∙ndci∙u∙ci∙ā∙t imā mîcinạmägwäng.</span>
 
-<span class="l-fiero">**Mii dash geget gaa-izhiwebadinig giigoonyensa’ gichi-niibiwa gii-onji-ozhi’aad imaa mishi-namegweng.**</span>
+<span class="l-fiero">**Mii dash geget gaa-izhiwebadinig giigoonyensan gichi-niibiwa gii-onji-ozhi’aad imaa mishi-namegweng.**</span>
 
 <span class="l-eng">*Therefore it truly came to pass that he created little fishes in great numbers from that Great Sturgeon.*</span>
 
-<span class="l-gloss">Mii dash geget gaa-izhiwebadinig giigoonyensa’ gichi-niibiwa (so it truly came about that many little fishes) gii-onji-ozhi’aad imaa mishi-namegweng (he made from that Great Sturgeon).</span>
+<span class="l-gloss">Mii dash geget gaa-izhiwebadinig giigoonyensan gichi-niibiwa (so it truly came about that many little fishes) gii-onji-ozhi’aad imaa mishi-namegweng (he made from that Great Sturgeon).</span>
 
 <span class="l-orig">(167) Mīdạc Nänabucu äjikīwä∙u∙t nạntawâbạmāt ō‘kumisạn.</span>
 

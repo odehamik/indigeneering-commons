@@ -45,11 +45,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(4) Cigwadạc tibi‘katini. Kāwâbaninink icāt īni´ᵘ ininiwạn, kuniginīn awänibạn! Mīsa cigwa kīki‘kändạnk Nānabucu kīkimōtimint īni´ᵘ anicinābän. Nānabucu äjikīwät, äjikanōnāt ucīmäyạn: “Mīsa´ kạnabatc kī‘kimotimigōyank ‘aᵉa´ᵘ anicinābä. Ānic kä∙i∙cicakcki‘tōyạnk i∙i∙wisa tci∙a∙nicinābä‘kāg?” Äjikīgitut Nānabucu: “Mīnawä uci∙ā∙tā. Tạga, i‘kwä ōji∙ā∙tā!”</span>
 
-<span class="l-fiero">**Zhigwa dash dibikadini. Gaa-waabaninink izhaad iniw ininiwan, goniginiin awaniban! Mii sa zhigwa gii-gikendang Naanabozho gii-gimoodimind iniw anishinaaben. Naanabozho ezhi-giiwed, ezhi-ganoonaad oshiimeyan: “Mii sa’ ganabaj gii-gimoodimigooyang a’aw anishinaabe. Aaniish ge-izhi-gashki’tooyang i’iwi sa ji-anishinaabekaag?” Ezhi-giigidod Naanabozho: “Miinawaa oozhi’aadaa. Daga, ikwe oozhi’aadaa!”**</span>
+<span class="l-fiero">**Zhigwa dash dibikadini. Gaa-waabaninink izhaad iniw ininiwan, goniginiin awaniban! Mii sa zhigwa gii-gikendang Naanabozho gii-gimoodimind iniw anishinaaben. Naanabozho ezhi-giiwed, ezhi-ganoonaad oshiimeyan: “Mii sa’ ganabaj gii-gimoodimigooyang a’aw anishinaabe. Aaniish ge-izhi-gashkitooyang i’iwi sa ji-anishinaabekaag?” Ezhi-giigidod Naanabozho: “Miinawaa oozhi’aadaa. Daga, ikwe oozhi’aadaa!”**</span>
 
 <span class="l-eng">*And in a while it was night. When the morrow came, then thither to where the man was he went; but, lo, he was gone! Thereupon then Nānabushu knew that the man had been stolen from him. When Nānabushu returned, he then said to his younger brother: “Therefore now perhaps we have been robbed of the man. How shall we be able to people this world?” Then spoke Nānabushu, saying: “Let us make another! Behold, a woman let us create!”*</span>
 
-<span class="l-gloss">zhigwa dash dibikadini (now then it-became-night), gaa-waabaninink izhaad (when-morning-came he-went), goniginiin awaniban (lo so-they-say he-was-gone!), gii-gikendang (he-knew), gii-gimoodimind (that-(the man)-was-stolen-from-(him)), ezhi-giiwed (as-he-returned), ganabaj (perhaps), gii-gimoodimigooyang (we-have-been-robbed-of), ge-izhi-gashki’tooyang (how-we-shall-be-able), ji-anishinaabekaag (to-people-(the world)), ikwe oozhi’aadaa (let-us-make a-woman.)</span>
+<span class="l-gloss">zhigwa dash dibikadini (now then it-became-night), gaa-waabaninink izhaad (when-morning-came he-went), goniginiin awaniban (lo so-they-say he-was-gone!), gii-gikendang (he-knew), gii-gimoodimind (that-(the man)-was-stolen-from-(him)), ezhi-giiwed (as-he-returned), ganabaj (perhaps), gii-gimoodimigooyang (we-have-been-robbed-of), ge-izhi-gashkitooyang (how-we-shall-be-able), ji-anishinaabekaag (to-people-(the world)), ikwe oozhi’aadaa (let-us-make a-woman.)</span>
 
 <span class="l-orig">(5) Kägät cigwa mīnawā kā∙i∙ci∙ō∙ci∙ā∙wāt īni´ᵘ i‘kwäwạn. Mīnawā kā∙i∙ci∙a∙sāwāt pīna‘kạmigānk. Mīnawā wäyābanining äci∙i∙cā∙wāt, mīsa untcita awänibạn; mīnawā kīkimōtimintwā.</span>
 
@@ -109,11 +109,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(12) Mīdac iᵉi´ᵘ a‘pī kā∙i∙citcigäwāt, Nānabucu kīgīgitō: “Ạmbäsa, tanibu anicinābä!” Ucīmäyạn äjikanōnigut: “Nisayäⁿ, kägä‘t kitiniga∙ā∙ aᵉa´ᵘ ạnicinābä kayä aᵉa´ᵘ wämi‘tigōci tcinibogwän. Ambäsạnō, nisayäⁿ, mini‘kigu iᵘ kä∙a∙‘kiwạnk mī∙i∙´ᵘ mini‘k käbimātisit waᵉa´ᵘ kā∙o∙ci∙a∙nk.”</span>
 
-<span class="l-fiero">**Mii dash i’iw apii gaa-izhichigewaad, Naanabozho gii-giigido: “Ambe sa, ta-nibo anishinaabe!” Oshiimeyan ezhi-ganoonigod: “Nisaye’, geget gidinigaa* a’aw anishinaabe gaye a’aw wemitigoozhi ji-nibogwen. Ambe sa noo, nisaye’, minik igo iw ge-akiwang mii iw minik ge-bimaadizid wa’aw gaa-oozhi’ang.”**</span>
+<span class="l-fiero">**Mii dash i’iw apii gaa-izhichigewaad, Naanabozho gii-giigido: “Ambe sa, ta-nibo anishinaabe!” Oshiimeyan ezhi-ganoonigod: “Nisaye’, geget gidinigaa a’aw anishinaabe gaye a’aw wemitigoozhi ji-nibogwen. Ambe sa noo, nisaye’, minik igo iw ge-akiwang mii iw minik ge-bimaadizid wa’aw gaa-oozhi’ang.”**</span>
 
 <span class="l-eng">*Thereupon, when they had done these things, Nānabushu spoke, saying: “Behold, let the people die!” Then by his younger brother he was addressed, saying: “O my elder brother! of a truth, you have inflicted harm upon the Indian and the white man by the wish that they should die. Behold, my elder brother, as long as the earth shall last, for that length of time may they live whom we have created.”*</span>
 
-<span class="l-gloss">apii gaa-izhichigewaad (when they-had-done-(these things)), gii-giigido (he-spoke), “ambe sa ta-nibo anishinaabe (behold, let-the-person-die!”), ezhi-ganoonigod (he-was-addressed), nisaye’ (my-elder-brother), geget gidinigaa* (truly you-doom-him), ji-nibogwen (that-they-die), minik igo iw ge-akiwang (as-long-as the-earth-lasts), mii iw minik ge-bimaadizid (that-length they-shall-live), wa’aw gaa-oozhi’ang (this-one we-made.)</span>
+<span class="l-gloss">apii gaa-izhichigewaad (when they-had-done-(these things)), gii-giigido (he-spoke), “ambe sa ta-nibo anishinaabe (behold, let-the-person-die!”), ezhi-ganoonigod (he-was-addressed), nisaye’ (my-elder-brother), geget gidinigaa (truly you-doom-him), ji-nibogwen (that-they-die), minik igo iw ge-akiwang (as-long-as the-earth-lasts), mii iw minik ge-bimaadizid (that-length they-shall-live), wa’aw gaa-oozhi’ang (this-one we-made.)</span>
 
 <span class="l-orig">(13) Nānabucu äjikīgīgitut: “Kāwäsa! Kanabạtc tāmōckinā iᵘ a‘ki. Mānūⁿ tanibu aᵘ anicinābä kayä aᵉa´ᵘ wämi‘tigōci.” Mīsa iᵘ kā∙i∙cicāgōsomāt Nānabucu īni´ᵘ ucīmäyạn. Mīsa cigwa kācāgōsomāt īni´ᵘ ucīmäyạn, mīsa cigwa ki‘tcimawinit. “Mīsa´ kä∙i∙ciwäbak mini‘k kä∙a∙‘kiwạnk tcinibut aᵘ anicinabä kayä aᵉa´ᵘ wämi‘tigōci. Awiya nibut tcimawiwāt īgi´ᵘ ạnicinābäg kayä īgi´ᵘ wämi‘tigōciwạg. Mīsa iᵉi´ᵘ kä∙i∙ciwäbak mini‘k omāⁿ kä∙a∙‘kiwang.”</span>
 
@@ -165,7 +165,7 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(19) Kägä‘t äcinibut aᵉa´ᵘ inini. Äjimādcāt mīdac ōwiti ä‘pangicimug äcimādcāt. Kägä‘t ạnōtcigu kī∙a∙ni∙i∙citcigä iᵉi´ᵘ umī‘kana; mạtcimanitōn ugī∙a∙nipagitinān. Äjikīkạnōnāt: “Waᵉa´ᵘ käpima∙ạ∙tōt o∙ō∙´ᵘ mī‘kana ogō´ᵘ känibuwāt; mī omāⁿ käpimī∙i∙cāwāt. Aᵉa´widạc awägwän käkacki‘tōgwän tciminopimādisit, mī awidạc piwītciwi‘k. A‘kawä icāyu‘k ōwiti äcāyān, akawäku tcipīciwītamawiyäk.”</span>
 
-<span class="l-fiero">**Geget e-zhi-nibod a’aw inini. Ezhi-maajaad mii dash owidi e-bangishimog ezhi-maajaad. Geget aanod igo gii-ani-izhichige i’iw omiikana; maji-manidoon ogii-ani-bagidinaan. Ezhi-gii-ganoonaad: “Wa’aw ge-bima’adood o’ow miikana ogow ge-nibowaad; mii omaa ge-bimi-izhaawaad. A’aw idash awegwen ge-gashki’toogwen ji-mino-bimaadizid, mii a’aw idash bi-wiijiiwik. Akawe izhaayok owidi ezhaayaan, akawe go ji-bi-izhi-wiindamawiyeg.”**</span>
+<span class="l-fiero">**Geget e-zhi-nibod a’aw inini. Ezhi-maajaad mii dash owidi e-bangishimog ezhi-maajaad. Geget aanod igo gii-ani-izhichige i’iw omiikana; maji-manidoon ogii-ani-bagidinaan. Ezhi-gii-ganoonaad: “Wa’aw ge-bima’adood o’ow miikana ogow ge-nibowaad; mii omaa ge-bimi-izhaawaad. A’aw idash awegwen ge-gashkitoogwen ji-mino-bimaadizid, mii a’aw idash bi-wiijiiwik. Akawe izhaayok owidi ezhaayaan, akawe go ji-bi-izhi-wiindamawiyeg.”**</span>
 
 <span class="l-eng">*Of a truth, the man then died. When he departed, it was over this way, toward the going-down (of the sun), that he went. In truth, several things he did along the road; an evil manitou he set down by the way. Then he spoke to him, saying: “He that shall follow along this road shall be of these that die; by this way shall they pass. And whosoever shall succeed living a well-ordered life, with him do you come along. First do you go to that place whither I am bound, and first do you come and tell me.”*</span>
 
@@ -173,11 +173,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(20) Mīdac aᵉa´wä kä∙u∙gimāwit. Cigwadạc odōdi‘tān pa‘kān a‘ki, mīdạc iwiti kī∙ō∙ci‘tōt wīgiwām; ā‘pidci unicicinini cōniyāwạn wīgiwām; mīgu iᵉi´ᵘ äcinạningā‘kunäg wīgiwām.</span>
 
-<span class="l-fiero">**Mii dash a’aw we ge-oogimaawid. Zhigwa dash odoodi’taan bakaan aki, mii dash iwidi gii-oozhitood wiigiwaam; aapiji onizhishinini zhooniyaawan wiigiwaam; mii go i’iw e-naaningaakwaneg wiigiwaam.**</span>
+<span class="l-fiero">**Mii dash a’aw we ge-oogimaawid. Zhigwa dash odooditaan bakaan aki, mii dash iwidi gii-oozhitood wiigiwaam; aapiji onizhishinini zhooniyaawan wiigiwaam; mii go i’iw e-naaningaakwaneg wiigiwaam.**</span>
 
 <span class="l-eng">*Therefore he was the one to be chief. And when he reached the other land, then at that place he made a wigwam; very beautiful was the wigwam of silver; indeed, it was a wigwam that was radiant with light.*</span>
 
-<span class="l-gloss">a’aw we ge-oogimaawid (he the-one-to-be-chief), odoodi’taan bakaan aki (he-reached a-different land), gii-oozhitood wiigiwaam (he-made a-wigwam), aapiji onizhishinini (very beautiful), zhooniyaawan wiigiwaam (a-wigwam of-silver), e-naaningaakwaneg (it-glitters/is-radiant-with-light.)</span>
+<span class="l-gloss">a’aw we ge-oogimaawid (he the-one-to-be-chief), odooditaan bakaan aki (he-reached a-different land), gii-oozhitood wiigiwaam (he-made a-wigwam), aapiji onizhishinini (very beautiful), zhooniyaawan wiigiwaam (a-wigwam of-silver), e-naaningaakwaneg (it-glitters/is-radiant-with-light.)</span>
 
 *Footnote (Jones ¹, marker at English “radiant with light¹”, end of this section): “From this point to the end of the narrative is taken up with a long account of various kinds of men who had died and had gone to the spirit-world, and it shows that the career there depends much on the life on earth. The object is to show the merit of being a member of the mystic rite.” [The structural turn — the spirit-world account begins next section.]  ⚑ Conversion flag(s) (light, → final pass): e-naaningaakwaneg — form(s) to confirm.*
 
@@ -215,11 +215,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(25) Mīdạc iᵉi´ᵘ äjimādcāwāt. Päcu tägwucinuwāt mī∙i∙māⁿ wâbandamuwāt ki‘tciwā‘kā∙i∙gạn. Äjikạnōnigut umicōmisạn: “Nocis, nōcis, mī∙i∙māⁿ kä∙i∙cāwāt īgi´ᵘ ạbinōtcīyạg kīcpin nibut aᵉa´ᵘ ạbinōtcī.” Mīdạc iᵘ kānicimādcāwāt. Nayāgigu utäbi‘tawāwān mädwänagamunit, mi‘tigwa‘ki‘kōn mädwäwānit. Kägä‘t minwändạm täbāntamuwāt ändānit. Ā‘pidci unicicinini, mīgu iᵘ äcinaningâ‘kunänig iᵉi´ᵘ ändānit. Cigwa ta‘pābi; owâbamigōn.</span>
 
-<span class="l-fiero">**Mii dash i’iw ezhi-maajaawaad. Besho dagwishinowaad mii imaa waabandamowaad gichi-waakaa’igan. Ezhi-ganoonigod omishoomisan: “Noozhis, noozhis, mii imaa ge-izhaawaad igiw abinoojiiyag giishpin nibod a’aw abinoojii.” Mii dash iw gaa-nizhi-maajaawaad. Nayaaj igo odebi’tawaawaan madwe-nagamonid, mitigwakikoon madwewenid. Geget minwendam debaandamowaad endaanid. Aapiji onizhishinini, mii go iw e-naaningaakwaneg i’iw endaanid. Zhigwa da-baabi; owaabamigoon.**</span>
+<span class="l-fiero">**Mii dash i’iw ezhi-maajaawaad. Besho dagwishinowaad mii imaa waabandamowaad gichi-waakaa’igan. Ezhi-ganoonigod omishoomisan: “Noozhis, noozhis, mii imaa ge-izhaawaad igiw abinoojiiyag giishpin nibod a’aw abinoojii.” Mii dash iw gaa-nizhi-maajaawaad. Nayaaj igo odebitawaawaan madwe-nagamonid, mitigwakikoon madwewenid. Geget minwendam debaandamowaad endaanid. Aapiji onizhishinini, mii go iw e-naaningaakwaneg i’iw endaanid. Zhigwa da-baabi; owaabamigoon.**</span>
 
 <span class="l-eng">*Thereupon then they continued on. When a little way they had come, then there they beheld a great house. Then he was addressed by his grandfather saying: “My grandson, it is there that the children shall go if one dies while yet in early infancy.” Thereupon then they continued on their way. But before they arrived they caught the sound of some one singing, of some one beating upon a drum. Truly pleased were they when they came in sight of where these others lived. Very beautiful was (their home), for radiant with light was the place where they dwelt. Presently he peeped in; he was seen.*</span>
 
-<span class="l-gloss">waabandamowaad gichi-waakaa’igan (they-beheld a-great-lodge), ge-izhaawaad igiw abinoojiiyag (where-the-children-go), giishpin nibod a’aw abinoojii (if-a-child-dies), odebi’tawaawaan madwe-nagamonid (they-heard someone-singing), mitigwakikoon madwewenid (a-water-drum(obv) sounding), debaandamowaad endaanid (they-owning a-home), e-naaningaakwaneg (it-is-radiant-with-light), da-baabi (he-peeps-in), owaabamigoon (he-is-seen.)</span>
+<span class="l-gloss">waabandamowaad gichi-waakaa’igan (they-beheld a-great-lodge), ge-izhaawaad igiw abinoojiiyag (where-the-children-go), giishpin nibod a’aw abinoojii (if-a-child-dies), odebitawaawaan madwe-nagamonid (they-heard someone-singing), mitigwakikoon madwewenid (a-water-drum(obv) sounding), debaandamowaad endaanid (they-owning a-home), e-naaningaakwaneg (it-is-radiant-with-light), da-baabi (he-peeps-in), owaabamigoon (he-is-seen.)</span>
 
 <span class="l-orig">(26) “Nōcis, pīndigän.”</span>
 
@@ -231,11 +231,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(27) Kā∙u∙nạbit, “Mīsa iᵉi´ᵘ kä∙i∙ciwäba‘k, mī∙o∙mā wī∙a∙sạg awägwän käkacki‘tōgwän tciminu∙i∙ciwäbisit.”</span>
 
-<span class="l-fiero">**Gaa-onabid, “Mii sa i’iw ge-izhiwebak, mii omaa wii-asag awegwen ge-gashki’toogwen ji-mino-izhiwebizid.”**</span>
+<span class="l-fiero">**Gaa-onabid, “Mii sa i’iw ge-izhiwebak, mii omaa wii-asag awegwen ge-gashkitoogwen ji-mino-izhiwebizid.”**</span>
 
 <span class="l-eng">*After he was seated, “This is the way it shall be, in this place will I place whomsoever shall succeed in living an upright life.”*</span>
 
-<span class="l-gloss">gaa-onabid (when-he-sat-down), mii sa i’iw ge-izhiwebak (this is-how it-shall-be), mii omaa wii-asag (here I-will-place), awegwen ge-gashki’toogwen (whoever-is-able), ji-mino-izhiwebizid (to-live-well.)</span>
+<span class="l-gloss">gaa-onabid (when-he-sat-down), mii sa i’iw ge-izhiwebak (this is-how it-shall-be), mii omaa wii-asag (here I-will-place), awegwen ge-gashkitoogwen (whoever-is-able), ji-mino-izhiwebizid (to-live-well.)</span>
 
 <span class="l-orig">(28) Mīdạc iᵉi´ᵘ cigwa kīwawäci∙i∙gut, ka‘kina wänicicininig upīsi‘kamūnigōn. “Nōjis, mīsa iᵘ ki‘tciminwâbamināgusiyạn. Kāwīn wī‘kā tạgätäckāsînōn īni´ᵘ kidai∙ī∙mạn. Kayä iᵉi´ᵘ kibimâtisiwin, mīgwa‘panä kāginig tcipimādisiyạn. Ānīc kigīminu∙i∙ciwäbis. Mīsa iᵘ käticiwäba‘k kīcpîn awägwän kwaya‘k kämitäwigwän.”</span>
 
@@ -271,11 +271,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(32) Äjimādcāt. Kumāgu a‘pī tägwicink, ki‘tci∙a∙nimucạn owâbạmān. Nāyāgigu unī‘timu‘tāgōn. Ā‘pidci ugusān. Intawā wạckipagisō mādcīpa‘tōt. Tābābạmāt īni´ᵘ wä∙u∙täckạninit, utạnikanōnān: “Nimicō! kāwäsā. Mī∙i∙´ᵘ wīta‘kwamit aᵘ animuc!” Äjinạwạtinigut. “Nōjis, āninguta kīn kīmạtcīciwäbisiyạn? Kāwīn ninkutci pa‘kānkitā∙i∙cāsi. Mīgu pō‘tc i∙i∙witi kä∙i∙cāyạn, nōjis. Ā‘pidci wäwäni kitōtāgōk īgi´ᵘ kinīgi∙i∙gōk iᵉi´ᵘ kī∙i∙ckwāpimādisiyạn.”</span>
 
-<span class="l-fiero">**Ezhi-maajaad. Gomaa go apii dagwishing, gichi-animoshan owaabamaan. Nayaaj igo onii’tamotaagoon. Aapiji ogosaan. Indawaa waashkibagizo maajiibatood. Daabaabamaad iniw we-odeshkaninid, odani-ganoonaan: “Nimishoo! gaawesa. Mii iw wii-dakwamid a’aw animosh!” Ezhi-nawadinigod. “Noozhis, aaniingota giin gii-maji-izhiwebiziyan? Gaawiin ningoji bakaan gida-izhaasii. Mii go booch iwidi ge-izhaayan, noozhis. Aapiji weweni gidoodaagook igiw geniigi’igook i’iw gii-ishkwaa-bimaadiziyan.”**</span>
+<span class="l-fiero">**Ezhi-maajaad. Gomaa go apii dagwishing, gichi-animoshan owaabamaan. Nayaaj igo oniitamotaagoon. Aapiji ogosaan. Indawaa waashkibagizo maajiibatood. Daabaabamaad iniw we-odeshkaninid, odani-ganoonaan: “Nimishoo! gaawesa. Mii iw wii-dakwamid a’aw animosh!” Ezhi-nawadinigod. “Noozhis, aaniingota giin gii-maji-izhiwebiziyan? Gaawiin ningoji bakaan gida-izhaasii. Mii go booch iwidi ge-izhaayan, noozhis. Aapiji weweni gidoodaagook igiw geniigi’igook i’iw gii-ishkwaa-bimaadiziyan.”**</span>
 
 <span class="l-eng">*Then he departed. When some distance he was come, a huge dog he beheld. Even while yet afar, he was growled at (by the dog). He was in very much fear of it. Therefore he wheeled about, setting out on the run. When he came in sight of him with horns, he spoke to him, saying: “O my grandfather! (it is) impossible. Why, the dog wished to bite me!” Then he was seized by the other. “My grandchild, pray, why did you live an incorrect life? By no other way can you go thither. It is necessary that you go by that way, my grandchild. With very good care were you treated by your parents after your life was at an end.”*</span>
 
-<span class="l-gloss">gichi-animoshan owaabamaan (a-huge-dog he-saw), onii’tamotaagoon (it-growled-at-him), aapiji ogosaan (he-feared-it-greatly), waashkibagizo maajiibatood (he-wheeled fleeing), we-odeshkaninid (the-one-with-horns), wii-dakwamid a’aw animosh (the-dog wished-to-bite-me), ezhi-nawadinigod (he-was-seized), gii-maji-izhiwebiziyan (you-lived-badly), gaawiin ningoji bakaan gida-izhaasii (nowhere-else can-you-go), booch iwidi ge-izhaayan (you-must go-that-way), geniigi’igook (your-parents(those-who-bore-you)), gii-ishkwaa-bimaadiziyan (after-your-life-ended.)</span>
+<span class="l-gloss">gichi-animoshan owaabamaan (a-huge-dog he-saw), oniitamotaagoon (it-growled-at-him), aapiji ogosaan (he-feared-it-greatly), waashkibagizo maajiibatood (he-wheeled fleeing), we-odeshkaninid (the-one-with-horns), wii-dakwamid a’aw animosh (the-dog wished-to-bite-me), ezhi-nawadinigod (he-was-seized), gii-maji-izhiwebiziyan (you-lived-badly), gaawiin ningoji bakaan gida-izhaasii (nowhere-else can-you-go), booch iwidi ge-izhaayan (you-must go-that-way), geniigi’igook (your-parents(those-who-bore-you)), gii-ishkwaa-bimaadiziyan (after-your-life-ended.)</span>
 
 *Footnote (Jones ¹, Eng “after your life was at an end¹”): “Proper rites had been given him at burial.” geniigi’igook = parents; gii-ishkwaa-bimaadizi- = when life ended.*
 
@@ -289,11 +289,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(34) Kägä‘t mīgu iᵉi´ᵘ äcicacōwackitäninit, mīdạc iᵉi´ᵘ kī∙a∙nigabi‘kawāwāt. Kumāgu a‘pī tägwicinuwāt sībi owâbantānāwa. Cigwa ạnī∙a∙cawāntawäwạn umicōmisạn; kayä wīn pitcīnạgigu tägu‘kānāt īni´ᵘ mi‘tigōn mādcipisuwạn. Agāwā ugạcki‘tōn micagāmäyāntawät. “Mīsa iᵘ käki∙u∙ndciminu∙i∙ciwäbisiyạmbạn. Mīdạc iᵘ kä∙i∙ciwäba‘k iᵘ mini‘k kä∙a∙‘kiwạnk.”</span>
 
-<span class="l-fiero">**Geget mii go i’iw e-zhazhaagwakitenanid, mii dash i’iw gii-ani-gabikawaawaad. Gomaa go apii dagwishinowaad ziibi owaabandaanaawaa. Zhigwa ani-aazhawaandawewan omishoomisan; gaye wiin bichiinag igo deko’kaanaad iniw mitigoon maajibizowan. Agaawaa ogashki’toon michagaameyaandawed. “Mii iw ge-gii-onji-mino-izhiwebiziyaamban. Mii dash iw ge-izhiwebak iw minik ge-akiwang.”**</span>
+<span class="l-fiero">**Geget mii go i’iw e-zhazhaagwakitenanid, mii dash i’iw gii-ani-gabikawaawaad. Gomaa go apii dagwishinowaad ziibi owaabandaanaawaa. Zhigwa ani-aazhawaandawewan omishoomisan; gaye wiin bichiinag igo dekokaanaad iniw mitigoon maajibizowan. Agaawaa ogashkitoon michagaameyaandawed. “Mii iw ge-gii-onji-mino-izhiwebiziyaamban. Mii dash iw ge-izhiwebak iw minik ge-akiwang.”**</span>
 
 <span class="l-eng">*Of a truth, then (the dog) laid down his ears in happy submission, whereupon then continued they past (the dog). When a certain distance they were come, they saw a river. Then across on the log went his grandfather; and then later he stepped upon the log, which commenced to roll. Barely was he able to cross over to the other shore. “That was because you should have lived a correct life. And thus shall it be as long as the world shall last.”*</span>
 
-<span class="l-gloss">e-zhazhaagwakitenanid (it-laid-its-ears(in submission)), gii-ani-gabikawaawaad (they-passed-(it)), ani-aazhawaandawewan omishoomisan (his-grandfather crossed-over), bichiinag igo deko’kaanaad iniw mitigoon (just-then stepping-on the-log), maajibizowan (it-began-to-roll), agaawaa ogashki’toon michagaameyaandawed (barely he-was-able to-cross-to-the-other-shore), ge-gii-onji-mino-izhiwebiziyaamban (because-you-should-have-lived-well.)</span>
+<span class="l-gloss">e-zhazhaagwakitenanid (it-laid-its-ears(in submission)), gii-ani-gabikawaawaad (they-passed-(it)), ani-aazhawaandawewan omishoomisan (his-grandfather crossed-over), bichiinag igo dekokaanaad iniw mitigoon (just-then stepping-on the-log), maajibizowan (it-began-to-roll), agaawaa ogashkitoon michagaameyaandawed (barely he-was-able to-cross-to-the-other-shore), ge-gii-onji-mino-izhiwebiziyaamban (because-you-should-have-lived-well.)</span>
 
 <span class="l-orig">(35) Cigwadạc ạnimādcāwạg, päcu utạniwâbandānāwa ki‘tciwâ‘kā∙i∙gạn. Äjikạnōnigut. “Nōjis, mī∙o∙māⁿ kä∙i∙cāwāt īgi´ᵘ abinōtciyạg känibuwāt. Mī umäⁿ tcipīndiganagwā īgi´ᵘ uskabinōtciyạg. Ānīc kāwīn wī‘ka tamāⁿcitōtaⁿzī aᵉa´ᵘ abinōtcī mēdạc omā tci∙a∙sintwā. Ogạganawänimān Nānabucu ucīmäyạn.”</span>
 
@@ -355,11 +355,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(42) “Nimicō, kawunackina‘tamōn.”</span>
 
-<span class="l-fiero">**“Nimishoo, ga-onashkina’tamoon.”**</span>
+<span class="l-fiero">**“Nimishoo, ga-onashkinatamoon.”**</span>
 
 <span class="l-eng">*“My grandfather, let me fill your pipe for you.”*</span>
 
-<span class="l-gloss">nimishoo (grandfather), ga-onashkina’tamoon (let-me-fill-(the pipe)-for-you.)</span>
+<span class="l-gloss">nimishoo (grandfather), ga-onashkinatamoon (let-me-fill-(the pipe)-for-you.)</span>
 
 <span class="l-orig">(43) Kägä‘t ubīnināni īni´ᵘ utō‘pwāganini. Sạgaswānit. “Nōjic, ạnimadwäsitōn iᵉi´ᵘ cīcīgwan, kayä tcinagamoyạn owidạc:— / “Animadcā a-a-a-, / Animādcā a-a-a. / Nōsäwi i-i-i, / Nōsäwi i-i-i, / Nāyōtä āna ā-ā-ā, / Nīntijä â-a-a, / Nayōtä-ānā ā-ā-ā, / Wa-he-he-he, wa-he-he-he, wa-ho-ho-ho-ho.”</span>
 
@@ -373,7 +373,7 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(44) Cigwa inini äjimādcāt mīdac aninạgamut. Cigwa owâbạmān ki‘tcanimucạn; mīgu iᵘ äcipasigwīnit cacōwackitätāgut, ā‘pidci minwäntamōn. Cigwa mīnawā owâbandān sībi mi‘tigōn ācawā‘kwakundcininit. Kägä‘t mạngatäsiwạn īni´ᵘ mi‘tigōn. Kāwīn kanagä wīpicigwāntawäsi kayägu äcimạmīntcimusänig īni´ᵘ uma‘kisinạn. Kāwīn kanagä wīpicigwāntawäsi. Äni∙i∙jimādcāt mīgu iᵘ kawīn kanagä ugīpa‘twäwäsitōsīn iᵉi´ᵘ ucīcīgwạn kayä iᵉi´ᵘ nạgamōn. Cigwa udäbābandān iᵉi´ᵘ wīgiwām wänicicininig. Nayāgiku pīsāga∙a∙mōn īni´ᵘ wāgimāwinit; upitäbibinigōn, äcikacki‘tōnit udōtcimigōn.</span>
 
-<span class="l-fiero">**Zhigwa inini ezhi-maajaad mii dash ani-nagamod. Zhigwa owaabamaan gichi-animoshan; mii go iw e-zhi-bazigwiinid zhazhaagwakitetegod, aapiji minwendamon. Zhigwa miinawaa owaabandaan ziibi mitigoon aazhawaakwakwandeninid. Geget mangadesiwan iniw mitigoon. Gaawiin ganage wii-bishigwaandawesii gaye go e-zhi-mamiinjimosenig iniw omakizinan. Gaawiin ganage wii-bishigwaandawesii. Ani-izhi-maajaad mii go iw gaawiin ganage ogii-bwaa-twewesitoosiin i’iw ozhiishiigwan gaye i’iw nagamon. Zhigwa odebaabandaan i’iw wiigiwaam wenizhishininig. Nayaaj igo bii-zaaga’amon iniw waagimaawinid; obide’bibinigoon, e-zhi-gashki’tonid odoojimigoon.**</span>
+<span class="l-fiero">**Zhigwa inini ezhi-maajaad mii dash ani-nagamod. Zhigwa owaabamaan gichi-animoshan; mii go iw e-zhi-bazigwiinid zhazhaagwakitetegod, aapiji minwendamon. Zhigwa miinawaa owaabandaan ziibi mitigoon aazhawaakwakwandeninid. Geget mangadesiwan iniw mitigoon. Gaawiin ganage wii-bishigwaandawesii gaye go e-zhi-mamiinjimosenig iniw omakizinan. Gaawiin ganage wii-bishigwaandawesii. Ani-izhi-maajaad mii go iw gaawiin ganage ogii-bwaa-twewesitoosiin i’iw ozhiishiigwan gaye i’iw nagamon. Zhigwa odebaabandaan i’iw wiigiwaam wenizhishininig. Nayaaj igo bii-zaaga’amon iniw waagimaawinid; obide’bibinigoon, e-zhi-gashkitonid odoojimigoon.**</span>
 
 <span class="l-eng">*Then the man started, he then went along singing the song. Presently he beheld the huge dog; whereupon (the dog) rose to his feet, laying down his ears in glad submission, he was so happy. In a while he then saw the river where the log stretched across. Of a truth, long was the log. Not at all was he anxious to lose his footing, and so then his moccasins were placed firmly (upon the log). Not at all did he wish to make a misstep. When he went along, he never once ceased sounding the rattle and singing the song. Presently he came in sight of the wigwam that was (so) beautiful. Before his arrival, out from the place came the one who was chief there; by him was he seized, by him with all the fervor within him was he kissed.*</span>
 
@@ -381,11 +381,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(45) “Mīsa iᵘ kätạciwäba‘k tci∙a∙ni∙a∙‘kiwank, awägwän nibiwa kämitäwigwän mī∙ō∙ma kätạna‘kit. Mī∙i∙´ᵘ icipīndigän i∙i∙ᵘ äntāyān.”</span>
 
-<span class="l-fiero">**“Mii sa iw ge-dazhiwebak ji-ani-akiwang, awegwen niibowa ge-midewigwen mii omaa ge-dana’kid. Mii iw izhi-biindigen i’iw endaayaan.”**</span>
+<span class="l-fiero">**“Mii sa iw ge-dazhiwebak ji-ani-akiwang, awegwen niibowa ge-midewigwen mii omaa ge-danakid. Mii iw izhi-biindigen i’iw endaayaan.”**</span>
 
 <span class="l-eng">*“Thus shall it be till the end of the world, he that takes many degrees in the mystic rite, this is the place where he shall dwell. Therefore do you enter into where I live.”*</span>
 
-<span class="l-gloss">mii sa iw ge-dazhiwebak ji-ani-akiwang (thus it-shall-be till-the-end-of-the-world), awegwen niibowa ge-midewigwen (whoever takes-many-degrees(in the mide)), mii omaa ge-dana’kid (here he-shall-dwell), izhi-biindigen i’iw endaayaan (enter into my-home.)</span>
+<span class="l-gloss">mii sa iw ge-dazhiwebak ji-ani-akiwang (thus it-shall-be till-the-end-of-the-world), awegwen niibowa ge-midewigwen (whoever takes-many-degrees(in the mide)), mii omaa ge-danakid (here he-shall-dwell), izhi-biindigen i’iw endaayaan (enter into my-home.)</span>
 
 *Footnote (Jones ², Eng “where I live²”): “Nānabushu is here addressing his younger brother.” ge-midewigwen = the one who performs many mide-degrees; named, never explained. | Footnote attachment corrected 2026-09-19 (English gate): the marker at “where I live” on p.545 carries Jones’s own note, printed verbatim: “This is what a member of the mystic rite utters when he paces round the path of the lodge of the mystic rite during the ceremony with a mystic pouch in his hand. [It is not certain that this footnote is inserted correctly in the text. —T. M.]” The note previously entered here — “Nānabushu is here addressing his younger brother.” — is Jones’s next footnote and belongs at §47’s “Of a truth”; it is left standing here too so that nothing printed is lost.*
 
@@ -409,11 +409,11 @@ description: "William Jones, Ojibwa Texts (1919) — four-layer, carried by Maya
 
 <span class="l-orig">(48) Nōngum idạc käyābi inā aᵘ ạbinōtcī kwayā‘k tciwī∙i∙ciwäbisit. Ānint ogacki‘tōn kwaya‘k iciwäbisit. Nackä kuta a wanācinābä nōngum ki‘tciwī‘kā‘ku ugacki‘tōn kwaya‘k wī∙i∙ciwäbisit! Kāwīn māmwätc tāmidäwisi inändam aᵉa´ᵘ wänītcânisit īni´ᵘ kwaya‘k äciwäbisinit. Nāmā mīgu iᵘ.</span>
 
-<span class="l-fiero">**Noongom idash geyaabi inaa a’aw abinoojii gwayak ji-wii-izhiwebizid. Aanind ogashki’toon gwayak izhiwebizid. Nashke goda a’aw wanaanishinaabe* noongom gichi-wiikaa go ogashki’toon gwayak wii-izhiwebizid! Gaawiin maamwaj da-midewisii inendam a’aw weniijaanisid iniw gwayak e-zhiwebizinid. Naama mii go iw.**</span>
+<span class="l-fiero">**Noongom idash geyaabi inaa a’aw abinoojii gwayak ji-wii-izhiwebizid. Aanind ogashkitoon gwayak izhiwebizid. Nashke goda a’aw wanaanishinaabe* noongom gichi-wiikaa go ogashkitoon gwayak wii-izhiwebizid! Gaawiin maamwaj da-midewisii inendam a’aw weniijaanisid iniw gwayak e-zhiwebizinid. Naama mii go iw.**</span>
 
 <span class="l-eng">*And even to this day are the children told to live a well-ordered life. Some succeed in living an upright life. But behold the people to-day who seldom live a straightforward life! One should not do the mystic rite if the parent feels that his child is living correctly. That is all.*</span>
 
-<span class="l-gloss">noongom idash geyaabi inaa a’aw abinoojii (and even-to-this-day the-child is-told), gwayak ji-wii-izhiwebizid (to-live-rightly), aanind ogashki’toon (some succeed), nashke goda a’aw wanaanishinaabe* (but-behold the-heedless-person), gichi-wiikaa go (very-seldom), ogashki’toon gwayak wii-izhiwebizid (succeeds-living-rightly), gaawiin maamwaj da-midewisii (one-need-not do-the-mide-rite), inendam a’aw weniijaanisid (thinks the-parent), iniw gwayak e-zhiwebizinid ((whose child)-lives-rightly), naama mii go iw (that is all.)</span>
+<span class="l-gloss">noongom idash geyaabi inaa a’aw abinoojii (and even-to-this-day the-child is-told), gwayak ji-wii-izhiwebizid (to-live-rightly), aanind ogashkitoon (some succeed), nashke goda a’aw wanaanishinaabe* (but-behold the-heedless-person), gichi-wiikaa go (very-seldom), ogashkitoon gwayak wii-izhiwebizid (succeeds-living-rightly), gaawiin maamwaj da-midewisii (one-need-not do-the-mide-rite), inendam a’aw weniijaanisid (thinks the-parent), iniw gwayak e-zhiwebizinid ((whose child)-lives-rightly), naama mii go iw (that is all.)</span>
 
 *Footnote (Jones ¹, marks this closing reflection; Eng marker at “And¹”): “The narrator closes with his own words.” This is the TOLD-ABOUT / narrator’s-own-words close (kin to #29/#34/#36/#37/#38) — NOT a carrier closing (no binewi-jiid). wanaanishinaabe = “a heedless/foolish person”; weshki/weniijaanisid plainly glossed; the rite named, never explained. [#62 ENDS here; #63 “Second Version” follows in the source — out of scope.]*
 

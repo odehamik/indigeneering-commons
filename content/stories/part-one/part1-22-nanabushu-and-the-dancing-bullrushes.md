@@ -34,11 +34,11 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-orig">(3) Kuniginīn, sāga∙i∙gāns sāgitawānig ᵉii sībīns, mī∙i∙mā ayānit ᵉi∙i∙wä ininiwaᵉ, picicig ᵉi∙i∙ᵘ ininiwaᵉ.</span>
 
-<span class="l-fiero">**Goniginiin, zaaga’igaans zaagidawaanig i’iw ziibiins, mii imaa ayaanid i’iwe ininiwa’, bizhishig i’iw ininiwa’.**</span>
+<span class="l-fiero">**Goniginiin, zaaga’igaans zaagidawaanig i’iw ziibiins, mii imaa ayaanid i’iwe ininiwan, bizhishig i’iw ininiwan.**</span>
 
 <span class="l-eng">*Lo, where out into a pond flowed a brook was the place where those men were, a vast throng of men.*</span>
 
-<span class="l-gloss">Goniginiin (lo!), zaaga’igaans (a little pond) zaagidawaanig i’iw ziibiins (where the brook flowed out into it), mii imaa ayaanid (that was where they were) i’iwe ininiwa’ (those men), bizhishig i’iw ininiwa’ (nothing but men, a throng of men).</span>
+<span class="l-gloss">Goniginiin (lo!), zaaga’igaans (a little pond) zaagidawaanig i’iw ziibiins (where the brook flowed out into it), mii imaa ayaanid (that was where they were) i’iwe ininiwan (those men), bizhishig i’iw ininiwan (nothing but men, a throng of men).</span>
 
 <span class="l-orig">(4) Ka‘kina pingwācāgitiwa, kayädạc äci∙u∙nit ka‘kina wâbigunīn ubạta‘kibinä∙u∙ni.</span>
 
@@ -122,11 +122,11 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-orig">(14) Ānīc, mīsạgu cigwa mādci‘tānit; ā‘tā, cigwa pạsigwīwaᵉ.</span>
 
-<span class="l-fiero">**Aaniish, mii sa go zhigwa maajitaanid; aataa, zhigwa bazigwiiwa’.**</span>
+<span class="l-fiero">**Aaniish, mii sa go zhigwa maajitaanid; aataa, zhigwa bazigwiiwan.**</span>
 
 <span class="l-eng">*Well, so presently they began; ah, then they rose to their feet.*</span>
 
-<span class="l-gloss">Aaniish, mii sa go zhigwa maajitaanid (well, so now they began); aataa, zhigwa bazigwiiwa’ (ah, then they rose to their feet).</span>
+<span class="l-gloss">Aaniish, mii sa go zhigwa maajitaanid (well, so now they began); aataa, zhigwa bazigwiiwan (ah, then they rose to their feet).</span>
 
 <span class="l-orig">(15) Ānīc Nänabucu kayä wīn kīpata‘kibinä∙ō∙nā īni’ᵘ misābigunīn.</span>
 

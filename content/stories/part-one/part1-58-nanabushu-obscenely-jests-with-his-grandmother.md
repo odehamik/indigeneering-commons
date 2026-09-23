@@ -68,11 +68,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(7) Mīdạc kägä‘t aᵘ mindimōyä äjikisindimä∙u∙t odōskun. Mīdạc minawā aᵘ mindimōyä änāt ōcisạn: “Sạgā‘kwāng ạni∙i∙cān; niwī∙ạ∙nikisīyā‘kwisitōn nintōskun,” udinān ōcîcäⁿyạn.</span>
 
-<span class="l-fiero">**Mii dash geget a’aw mindimooye ezhi-gisiindime’od* odooskon. Mii dash minawaa a’aw mindimooye enaad oozhisan: “Zaagaakwaang* ani-izhaan; niwii-ani-giziiyaakwizitoon* nindooskon,” odinaan ozhishenyan*.**</span>
+<span class="l-fiero">**Mii dash geget a’aw mindimooye ezhi-gisiindime’od* odooskon. Mii dash minawaa a’aw mindimooye enaad oozhisan: “Zaagaakwaang* ani-izhaan; niwii-ani-giziiyaakwizitoon* nindooskon,” odinaan ozhishenyan.**</span>
 
 <span class="l-eng">*And it was true that the old woman wiped herself at the anus with her elbow. Thereupon again the old woman said to her grandson: “Into the thick woods do you go; for, as I go I wish to clean my elbow with the limbs,” she said to her grandson.*</span>
 
-<span class="l-gloss">mii dash geget a’aw mindimooye ezhi-gisiindime’od* odooskon — and it was true the old woman wiped herself at the anus with her elbow ∙ mii dash minawaa a’aw mindimooye enaad oozhisan — thereupon again the old woman said to her grandson ∙ zaagaakwaang* ani-izhaan — into the thick woods go along ∙ niwii-ani-giziiyaakwizitoon* nindooskon (I wish to clean my elbow as I go; with the branches) ∙ odinaan ozhishenyan* — she says it to her grandson.</span>
+<span class="l-gloss">mii dash geget a’aw mindimooye ezhi-gisiindime’od* odooskon — and it was true the old woman wiped herself at the anus with her elbow ∙ mii dash minawaa a’aw mindimooye enaad oozhisan — thereupon again the old woman said to her grandson ∙ zaagaakwaang* ani-izhaan — into the thick woods go along ∙ niwii-ani-giziiyaakwizitoon* nindooskon (I wish to clean my elbow as I go; with the branches) ∙ odinaan ozhishenyan — she says it to her grandson.</span>
 
 <span class="l-orig">(8) Mīdạc minawā Nänabucu änāt ō‘kumisạn: “Sōbạndạn,” udinän.</span>
 
@@ -84,11 +84,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(9) Ānīc, mī wīn minawā äjisōbạndạnk ōtōskun, mīdạc aᵘ mindimōyä änāt ōcicäⁿyạn: “Nōjis! nawạtc pạngī i‘ku‘kwänîn.”</span>
 
-<span class="l-fiero">**Aaniish, mii wiin minawaa ezhi-soobandang* odooskon, mii dash a’aw mindimooye enaad ozhishenyan*: “Noozhis! nawaj bangii ikokwenin*.”**</span>
+<span class="l-fiero">**Aaniish, mii wiin minawaa ezhi-soobandang* odooskon, mii dash a’aw mindimooye enaad ozhishenyan: “Noozhis! nawaj bangii ikokwenin*.”**</span>
 
 <span class="l-eng">*Well, it was the same again, for she licked her elbow with her tongue, whereupon the old woman said to her grandson: “O my grandson! just raise your head a little.”*</span>
 
-<span class="l-gloss">Aaniish, mii wiin minawaa ezhi-soobandang* odooskon — well, it was the same again, she licked her elbow ∙ mii dash a’aw mindimooye enaad ozhishenyan* — whereupon the old woman said to her grandson ∙ Noozhis — my grandson ∙ nawaj bangii ikokwenin* (just raise your head a little; *flagged*: ikokwenin — form not in lexicon, sense per Jones’s English).</span>
+<span class="l-gloss">Aaniish, mii wiin minawaa ezhi-soobandang* odooskon — well, it was the same again, she licked her elbow ∙ mii dash a’aw mindimooye enaad ozhishenyan — whereupon the old woman said to her grandson ∙ Noozhis — my grandson ∙ nawaj bangii ikokwenin* (just raise your head a little; *flagged*: ikokwenin — form not in lexicon, sense per Jones’s English).</span>
 
 <span class="l-orig">(10) “Ānic?” i‘kito Nänabucu.</span>
 

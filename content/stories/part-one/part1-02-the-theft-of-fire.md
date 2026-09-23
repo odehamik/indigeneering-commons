@@ -108,11 +108,11 @@ The Theft of Fire
 
 <span class="l-orig">(12) Nīⁿjiwaᵉidạc ‘iᵉi’ᵘ ōtānisaᵉ, mīyä‘ta iᵘ mōjạg ạgwạtcing äyānit.”</span>
 
-<span class="l-fiero">**Niizhiwag idash i’iw odaanisa’, mii eta moozhag agwajing eyaanid.”**</span>
+<span class="l-fiero">**Niizhiwag idash i’iw odaanisan, mii eta moozhag agwajing eyaanid.”**</span>
 
 <span class="l-eng">*Now, two are those daughters of his, and only they are continually out of doors.”*</span>
 
-<span class="l-gloss">Niizhiwag idash i’iw odaanisa’ (and two are his daughters), mii eta moozhag agwajing eyaanid (and only they are always out of doors).”</span>
+<span class="l-gloss">Niizhiwag idash i’iw odaanisan (and two are his daughters), mii eta moozhag agwajing eyaanid (and only they are always out of doors).”</span>
 
 <span class="l-orig">(13) O∙o∙widạc ugī∙i∙nān īni’ᵘ ō‘kumisan: “Mā’nū ninga∙i∙jā,” ogī∙i∙nān īni’ᵘ ō‘kumisạn.</span>
 
@@ -180,11 +180,11 @@ The Theft of Fire
 
 <span class="l-orig">(21) Ānīc mīsa ugiki‘känimān ‘i∙i∙mā ayānit ‘iᵉi’ᵘ anicinābäᵉ.</span>
 
-<span class="l-fiero">**Aaniish mii sa ogii-kikenimaan i’imaa ayaanid i’iw anishinaabe’.**</span>
+<span class="l-fiero">**Aaniish mii sa ogii-kikenimaan i’imaa ayaanid i’iw anishinaaben.**</span>
 
 <span class="l-eng">*Of course it was so that he knew that at yonder place the people were abiding.*</span>
 
-<span class="l-gloss">Aaniish mii sa ogii-kikenimaan (well, and so he knew) i’imaa ayaanid i’iw anishinaabe’ (that the people were there).</span>
+<span class="l-gloss">Aaniish mii sa ogii-kikenimaan (well, and so he knew) i’imaa ayaanid i’iw anishinaaben (that the people were there).</span>
 
 <span class="l-orig">(22) Mīdạc imā kā∙i∙jitạgwicing i∙i∙mā wända∙i∙bīnit, o∙o∙widạc kī∙i∙nändạm: “Ạmbägicsa pinibinātit a∙a∙wi‘kwä,” kī∙i∙nändạm.</span>
 

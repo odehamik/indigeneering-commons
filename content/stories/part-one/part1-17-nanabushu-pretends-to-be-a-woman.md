@@ -26,19 +26,19 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(2) Mīsa’ ugītäbi‘tawāᵉ i‘kwäwaᵉ mạnisänit; ānīc ugīmi‘tawāᵉ:</span>
 
-<span class="l-fiero">**Mii sa ogii-debitawaa’ ikwewa’ manisenid; aaniish ogiimitawaa’:**</span>
+<span class="l-fiero">**Mii sa ogii-debitawaan ikwewan manisenid; aaniish ogiimitawaan:**</span>
 
 <span class="l-eng">*And so he came within the sound of some women who were gathering fire-wood; now he secretly overheard them saying:*</span>
 
-<span class="l-gloss">Mii sa ogii-debitawaa’ ikwewa’ (and so he came within hearing of some women) manisenid (who were gathering firewood); aaniish ogiimitawaa’ (now he secretly overheard them):</span>
+<span class="l-gloss">Mii sa ogii-debitawaan ikwewan (and so he came within hearing of some women) manisenid (who were gathering firewood); aaniish ogiimitawaan (now he secretly overheard them):</span>
 
 <span class="l-orig">(3) “Ạmạntcigic kä∙i∙jictcigä∙u∙ngubạnän tciwītigämạnk ‘aᵉa’ᵘ inini?” i‘kitōwaᵉ.</span>
 
-<span class="l-fiero">**“Amanjigish ge-izhichige’ongobanen ji-wiidigemang a’aw inini?” ikidowa’.**</span>
+<span class="l-fiero">**“Amanjigish ge-izhichige’ongobanen ji-wiidigemang a’aw inini?” ikidowan.**</span>
 
 <span class="l-eng">*“(I) wonder how we can bring it to pass so that we can marry that man!” they said.*</span>
 
-<span class="l-gloss">“Amanjigish ge-izhichige’ongobanen (“I wonder however we might manage it) ji-wiidigemang a’aw inini?” (that we could marry that man?”) ikidowa’ (they said).</span>
+<span class="l-gloss">“Amanjigish ge-izhichige’ongobanen (“I wonder however we might manage it) ji-wiidigemang a’aw inini?” (that we could marry that man?”) ikidowan (they said).</span>
 
 <span class="l-orig">(4) “Ạmbäsạnō, wāwiyạc ningatōtawāg awägwäniwigwänạg,” kī∙i∙nändạm Nänabucu.</span>
 
@@ -74,27 +74,27 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(8) Kā∙i∙cināgwu∙u∙t, kā∙i∙cināsi‘kawāt i∙i∙ᵘ i‘kwäwaᵉ, o∙ō∙widạc ugī∙i∙nāᵉ a‘pīkā∙u∙disāt:</span>
 
-<span class="l-fiero">**Gaa-izhinaagwo’od, gaa-izhi-naazikawaad i’iw ikwewa’, o’ow idash ogii-inaa’ apii gaa-odisaad:**</span>
+<span class="l-fiero">**Gaa-izhinaagwo’od, gaa-izhi-naazikawaad i’iw ikwewan, o’ow idash ogii-inaan apii gaa-odisaad:**</span>
 
 <span class="l-eng">*After he had taken on the form (of a woman), (and) after he had gone over to where the women were, this he then said to them when he came upon them:*</span>
 
-<span class="l-gloss">Gaa-izhinaagwo’od (after he had given himself that look), gaa-izhi-naazikawaad i’iw ikwewa’ (after he had gone over to those women), o’ow idash ogii-inaa’ (this he then said to them) apii gaa-odisaad (when he came upon them):</span>
+<span class="l-gloss">Gaa-izhinaagwo’od (after he had given himself that look), gaa-izhi-naazikawaad i’iw ikwewan (after he had gone over to those women), o’ow idash ogii-inaan (this he then said to them) apii gaa-odisaad (when he came upon them):</span>
 
 <span class="l-orig">(9) “Ānīnti āyāt ‘aᵉa’ᵘ inini cīngänimāt ‘iᵉi’ᵘ i‘kwäwaᵉ kā∙i∙nint?”</span>
 
-<span class="l-fiero">**“Aaniindi ayaad a’aw inini zhiingenimaad i’iw ikwewa’ gaa-inind?”**</span>
+<span class="l-fiero">**“Aaniindi ayaad a’aw inini zhiingenimaad i’iw ikwewan gaa-inind?”**</span>
 
 <span class="l-eng">*“Where is the man who is said to be a hater of women?”*</span>
 
-<span class="l-gloss">“Aaniindi ayaad a’aw inini (“where is that man) zhiingenimaad i’iw ikwewa’ (who hates women) gaa-inind?” (so it is said of him?”)</span>
+<span class="l-gloss">“Aaniindi ayaad a’aw inini (“where is that man) zhiingenimaad i’iw ikwewan (who hates women) gaa-inind?” (so it is said of him?”)</span>
 
 <span class="l-orig">(10) Mīdạc kā∙i∙gut: “Mī∙u∙māⁿ nāwōtäna ayāt,” ugī∙i∙gōᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-igod: “Mii omaa naaw-oodena ayaad,” ogii-igoo’.**</span>
+<span class="l-fiero">**Mii dash gaa-igod: “Mii omaa naaw-oodena ayaad,” ogii-igoon.**</span>
 
 <span class="l-eng">*Whereupon he was told: “Here in the centre of the town he is,” he was told.*</span>
 
-<span class="l-gloss">Mii dash gaa-igod (whereupon he was told): “Mii omaa naaw-oodena ayaad,” (“here in the middle of the town he is,”) ogii-igoo’ (he was told by them).</span>
+<span class="l-gloss">Mii dash gaa-igod (whereupon he was told): “Mii omaa naaw-oodena ayaad,” (“here in the middle of the town he is,”) ogii-igoon (he was told by them).</span>
 
 <span class="l-orig">(11) “Gagwānisạgisi, äntugwän tcī∙i∙nändạnk.”</span>
 
@@ -106,11 +106,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(12) “Tạgackumā, awī∙i∙ni‘k,” udināᵉ; “‘Ninbi∙i∙cinica∙u∙gō ninīgī∙i∙gōk,’” udināᵉ iᵘ i‘kwäwaᵉ.</span>
 
-<span class="l-fiero">**“Daga shkomaa, awii-inik,” odinaa’; “Nin-bi-izhi-nizha’ogoo ni-niigi’igoog,’” odinaa’ iw ikwewa’.**</span>
+<span class="l-fiero">**“Daga shkomaa, awii-inik,” odinaan; “Nin-bi-izhi-nizha’ogoo ni-niigi’igoog,’” odinaan iw ikwewan.**</span>
 
 <span class="l-eng">*“Then pray, do you go and give him a message,” he said to them; “I have been sent hither by my parents,” he said to the women.*</span>
 
-<span class="l-gloss">“Daga shkomaa (“then come now), awii-inik,” (go and tell him,”) odinaa’ (he said to them); “Nin-bi-izhi-nizha’ogoo (“I have been sent here) ni-niigi’igoog,’” (by those who gave me birth,”) odinaa’ iw ikwewa’ (he said to the women).</span>
+<span class="l-gloss">“Daga shkomaa (“then come now), awii-inik,” (go and tell him,”) odinaan (he said to them); “Nin-bi-izhi-nizha’ogoo (“I have been sent here) ni-niigi’igoog,’” (by those who gave me birth,”) odinaan iw ikwewan (he said to the women).</span>
 
 <span class="l-orig">(13) Misa’ kägä‘t kā∙i∙cikīwät päcik, kā∙i∙ciwīndamawint waᵉa’ᵘ mindimōⁿyä wägusisit.</span>
 
@@ -154,11 +154,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(18) Mīdạc ä‘kitut ‘aᵘ mintimōyä: “Ānīn dạc ‘iᵉi’ᵘ ạntawābạmāsiwäk,” utināᵉ ‘iᵉi’ᵘ udānisaᵉ.</span>
 
-<span class="l-fiero">**Mii dash e-kidod aw mindimooye(2): “Aaniin dash i’iw andawaabamaasiweg,(1)” odinaa’ i’iw odaanisa’.**</span>
+<span class="l-fiero">**Mii dash e-kidod aw mindimooye(2): “Aaniin dash i’iw andawaabamaasiweg,(1)” odinaan i’iw odaanisan.**</span>
 
 <span class="l-eng">*Thereupon said the old woman(2): “Why do you not go look for her(1)?” she said to her daughters.*</span>
 
-<span class="l-gloss">Mii dash e-kidod aw mindimooye (thereupon the old woman said): “Aaniin dash i’iw andawaabamaasiweg,” (“why is it you do not go seek her,”) odinaa’ i’iw odaanisa’ (she said to her daughters).</span>
+<span class="l-gloss">Mii dash e-kidod aw mindimooye (thereupon the old woman said): “Aaniin dash i’iw andawaabamaasiweg,” (“why is it you do not go seek her,”) odinaan i’iw odaanisan (she said to her daughters).</span>
 
 <span class="l-orig">(19) Mīdạc kägä‘t pa∙i∙cinạntawâbạmāwāt īgi’ᵘ i‘kwäwạg, mīsa’ kā∙i∙kīwäwītcīwāwāt īgi’ᵘ i‘kwäwạg.</span>
 
@@ -186,11 +186,11 @@ Nanabushu Pretends to be a Woman
 
 <span class="l-orig">(22) Cigwa uwīcāmāᵉ utāngwäyaᵉ tcīmạnisäwāt.</span>
 
-<span class="l-fiero">**Zhigwa owiishaamaa’ odaangweya’ ji-manisewaad(5).**</span>
+<span class="l-fiero">**Zhigwa owiishaamaan odaangweyan ji-manisewaad(5).**</span>
 
 <span class="l-eng">*By and by she wished her sisters-in-law to go with her to gather fire-wood(5).*</span>
 
-<span class="l-gloss">Zhigwa owiishaamaa’ odaangweya’ (by and by she invited her sisters-in-law along) ji-manisewaad (so that they would gather firewood).</span>
+<span class="l-gloss">Zhigwa owiishaamaan odaangweyan (by and by she invited her sisters-in-law along) ji-manisewaad (so that they would gather firewood).</span>
 
 <span class="l-orig">(23) Ānīc ạtcinạgu kīmạmạtwä∙i∙gäwạn, āca nībiwa misạn.</span>
 

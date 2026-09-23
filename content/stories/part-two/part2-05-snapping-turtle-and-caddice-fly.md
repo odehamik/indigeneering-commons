@@ -92,11 +92,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(8) Mīdạc kīmādcāwād ā‘pidci nībiwa uwīdcīwān udūckīnigīmaᵉ.</span>
 
-<span class="l-fiero">**Mii dash gii-maajaawaad aapiji niibiwa owiijiiwaan odooshkiniigima’.**</span>
+<span class="l-fiero">**Mii dash gii-maajaawaad aapiji niibiwa owiijiiwaan odooshkiniigiman.**</span>
 
 <span class="l-eng">*And so, when they started away, very many youths he had in his company.*</span>
 
-<span class="l-gloss">Mii dash gii-maajaawaad (and so when they started off) aapiji niibiwa (very many) owiijiiwaan (he had going with him) odooshkiniigima’ (his young men).</span>
+<span class="l-gloss">Mii dash gii-maajaawaad (and so when they started off) aapiji niibiwa (very many) owiijiiwaan (he had going with him) odooshkiniigiman (his young men).</span>
 
 <span class="l-orig">(9) A‘pī∙i∙dạc wädisāt umi‘tigwapicimuni‘kän odä‘tōnit, pijiji‘k pạgamāgạnạn uda‘kunānāwān; kāwīn pa‘kān gägō ogī∙a∙yāsīnāwa, mīyä‘tạgu pạgamāgạnạn.</span>
 
@@ -124,11 +124,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(12) Kayä īniᵘ mi‘tigwapicimunic uduckinīgīmaᵉ ändōdaminit awiya pigwaganāmint, pōdānidiwạg; mēdac näyāp nābisäwāt äjināguziwāt.</span>
 
-<span class="l-fiero">**Gaye iniw mitigwapishimonish odooshkiniigima’ endoodaminid awiya biigwaganaamind, boodaanidiwag; mii dash neyaab naabisewaad ezhinaagoziwaad.**</span>
+<span class="l-fiero">**Gaye iniw mitigwapishimonish odooshkiniigiman endoodaminid awiya biigwaganaamind, boodaanidiwag; mii dash neyaab naabisewaad ezhinaagoziwaad.**</span>
 
 <span class="l-eng">*The same, too, did the youths of Caddice-Fly whenever any one was torn to pieces, they breathed upon him; whereupon they would take their places, looking the same as before.*</span>
 
-<span class="l-gloss">Gaye iniw mitigwapishimonish odooshkiniigima’ (the same too the young men of Caddice-Fly) endoodaminid awiya biigwaganaamind (did whenever anyone was beaten to pieces), boodaanidiwag (they breathed upon one another); mii dash neyaab naabisewaad (and so back they would take their places) ezhinaagoziwaad (looking as they had before).</span>
+<span class="l-gloss">Gaye iniw mitigwapishimonish odooshkiniigiman (the same too the young men of Caddice-Fly) endoodaminid awiya biigwaganaamind (did whenever anyone was beaten to pieces), boodaanidiwag (they breathed upon one another); mii dash neyaab naabisewaad (and so back they would take their places) ezhinaagoziwaad (looking as they had before).</span>
 
 <span class="l-orig">(13) A‘pī änināwa‘kwäg, mī∙i∙´ᵘ cigwa cāgōdci∙i∙nt mi‘kinā‘k; kāwīn kacki∙i∙disīwag tcîbi∙i∙mādci∙i∙diwād, āpidci ki‘tci mīgādiwạg.</span>
 
@@ -148,11 +148,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(15) Käga‘pī ga‘kina kīnisimā uduckinīgīmaᵉ; wînä‘ta mi‘kinā‘k kāwīn kînîsāsī, kī‘ta‘kunā.</span>
 
-<span class="l-fiero">**Gegapii gakina gii-nisimaa odoshkiniigima’; wiin eta mikinaak gaawiin gii-nisaasii, gii-dakonaa.**</span>
+<span class="l-fiero">**Gegapii gakina gii-nisimaa odoshkiniigiman; wiin eta mikinaak gaawiin gii-nisaasii, gii-dakonaa.**</span>
 
 <span class="l-eng">*In the end all his youths were slain; only Snapping-Turtle himself was not slain, he was taken captive.*</span>
 
-<span class="l-gloss">Gegapii gakina gii-nisimaa odoshkiniigima’ (in the end all his young men were slain); wiin eta mikinaak (only Snapping-Turtle himself) gaawiin gii-nisaasii (was not killed), gii-dakonaa (he was taken captive).</span>
+<span class="l-gloss">Gegapii gakina gii-nisimaa odoshkiniigiman (in the end all his young men were slain); wiin eta mikinaak (only Snapping-Turtle himself) gaawiin gii-nisaasii (was not killed), gii-dakonaa (he was taken captive).</span>
 
 <span class="l-orig">(16) Ugīkạnawänimigōn umi‘tigwapicimuni‘kän.</span>
 
@@ -348,11 +348,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(40) Mīdạc kā∙ạ∙nījipīndigäwāt i∙i∙māⁿ tcīsa‘kāning, ā‘pidci mōckinäwaᵉ imā äyānit pīndik tcīsa‘kāning; kāgīgitōwaᵉ nạgamōwaᵉ gayä.</span>
 
-<span class="l-fiero">**Mii dash gaa-ani-izhi-biindigewaad i’imaa jiisakaaning, aapiji mooshkinewa’ imaa eyaanid biindig jiisakaaning; gaagiigidoowa’ nagamowa’ gaye.**</span>
+<span class="l-fiero">**Mii dash gaa-ani-izhi-biindigewaad i’imaa jiisakaaning, aapiji mooshkinewan imaa eyaanid biindig jiisakaaning; gaagiigidoowan nagamowan gaye.**</span>
 
 <span class="l-eng">*And so, when they went into the conjuring-lodge, (they saw that) it was very full of them who were there inside; they were talking and singing.*</span>
 
-<span class="l-gloss">Mii dash gaa-ani-izhi-biindigewaad (and so, when they went inside) i’imaa jiisakaaning (there in the conjuring-lodge), aapiji mooshkinewa’ imaa eyaanid (very full of them who were there) biindig jiisakaaning (inside the conjuring-lodge); gaagiigidoowa’ nagamowa’ gaye (they were talking and singing too).</span>
+<span class="l-gloss">Mii dash gaa-ani-izhi-biindigewaad (and so, when they went inside) i’imaa jiisakaaning (there in the conjuring-lodge), aapiji mooshkinewan imaa eyaanid (very full of them who were there) biindig jiisakaaning (inside the conjuring-lodge); gaagiigidoowan nagamowan gaye (they were talking and singing too).</span>
 
 <span class="l-orig">(41) Īgi´ᵘ pīndik tcīsa‘kāning äyāwāt udaji∙i∙ndānāwa miziwä owä kījik undinūn kayä; mī∙i∙´ᵘ wändcimạmāsi‘kāg i∙i∙wä tcīsa‘kān.</span>
 
@@ -380,11 +380,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(44) Inābiwāt iwidi awạsina‘kakä ningābī∙ạ∙nunk wâbandāndānāwa wạdciᵘ, nībawa gayä päbāmisänit pînäsiwaᵉ wâbamāwaᵉ.</span>
 
-<span class="l-fiero">**Inabiwaad iwidi awas inakake ningaabii’anong waabandaanaawaa wajiw, niibawa gaye bebaamisenid binesiwa’ waabamaawaa’.**</span>
+<span class="l-fiero">**Inabiwaad iwidi awas inakake ningaabii’anong waabandaanaawaa wajiw, niibawa gaye bebaamisenid binesiwan waabamaawaan.**</span>
 
 <span class="l-eng">*On looking off towards the west, they beheld a mountain, and many birds that flew about they saw.*</span>
 
-<span class="l-gloss">Inabiwaad iwidi awas inakake ningaabii’anong (on looking off yonder farther toward the west) waabandaanaawaa (they beheld) wajiw (a mountain), niibawa gaye bebaamisenid binesiwa’ (and many birds flying about) waabamaawaa’ (they saw them).</span>
+<span class="l-gloss">Inabiwaad iwidi awas inakake ningaabii’anong (on looking off yonder farther toward the west) waabandaanaawaa (they beheld) wajiw (a mountain), niibawa gaye bebaamisenid binesiwan (and many birds flying about) waabamaawaan (they saw them).</span>
 
 <span class="l-orig">(45) Mīnawādec i‘kido ‘aᵉa’ᵘ umi‘tigwapicimuni‘kä ugwisạn:</span>
 
@@ -413,11 +413,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(48) Kī∙i∙jāwạg, nībawa ugīwâbạmāwaᵉ pạnạdcaiyaᵉ.</span>
 
-<span class="l-fiero">**Gii-izhaawag, niibawa ogii-waabamaawaa’ banajaanya’.**</span>
+<span class="l-fiero">**Gii-izhaawag, niibawa ogii-waabamaawaan banajaanyan.**</span>
 
 <span class="l-eng">*They went over there, many young birds they saw.*</span>
 
-<span class="l-gloss">Gii-izhaawag (they went over there), niibawa ogii-waabamaawaa’ banajaanya’ (many young birds they saw).</span>
+<span class="l-gloss">Gii-izhaawag (they went over there), niibawa ogii-waabamaawaan banajaanyan (many young birds they saw).</span>
 
 <span class="l-orig">(49) Päᵉjikidạc ogī∙o∙dā‘pinān ‘aᵉa´ᵘ uckinawä mī wīn ini´ᵘ kā‘pigīwänāt.</span>
 
@@ -493,11 +493,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(58) Kägādạc pạmījạgāt mi‘kinā‘k ugīmi‘kwändān ga‘kina kīnisimindibạn uduckinīgīmaᵉ.</span>
 
-<span class="l-fiero">**Gegaa dash ba-mizhaagaad mikinaak ogii-mikwendaan gakina gii-nisimindiban odoshkiniigima’.**</span>
+<span class="l-fiero">**Gegaa dash ba-mizhaagaad mikinaak ogii-mikwendaan gakina gii-nisimindiban odoshkiniigiman.**</span>
 
 <span class="l-eng">*And when nearly reaching the shore, Snapping-Turtle became mindful of all his youths that had been slain.*</span>
 
-<span class="l-gloss">Gegaa dash ba-mizhaagaad mikinaak (and when Snapping-Turtle nearly reached the shore) ogii-mikwendaan gakina (he became mindful of all) gii-nisimindiban odoshkiniigima’ (his young men that had been slain).</span>
+<span class="l-gloss">Gegaa dash ba-mizhaagaad mikinaak (and when Snapping-Turtle nearly reached the shore) ogii-mikwendaan gakina (he became mindful of all) gii-nisimindiban odoshkiniigiman (his young men that had been slain).</span>
 
 <span class="l-orig">(59) Mīdạc kā∙i∙jigitciwäpināt īni’ᵘ uckinawän pạnadcaiyạn gayä.</span>
 

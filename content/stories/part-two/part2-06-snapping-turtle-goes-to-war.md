@@ -324,11 +324,11 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-orig">(39) A‘pī∙i∙dạc wädisāwād anicinābä odä‘tōnit, mi‘kinā‘k ogī∙i∙nāᵉ ka‘kina ucîmāgạnīcimaᵉ:</span>
 
-<span class="l-fiero">**Apii dash wedisaawaad anishinaabe oodetoonid, mikinaak ogii-inaag gakina ozhimaaganishima’:**</span>
+<span class="l-fiero">**Apii dash wedisaawaad anishinaabe oodetoonid, mikinaak ogii-inaag gakina ozhimaaganishiman:**</span>
 
 <span class="l-eng">*And when they came to where some people had a town, Snapping-Turtle said to all his soldiers:*</span>
 
-<span class="l-gloss">Apii dash (and when) wedisaawaad (they came to) anishinaabe oodetoonid (where people had a town), mikinaak (Snapping-Turtle) ogii-inaag (said to) gakina (all) ozhimaaganishima’ (his soldiers):</span>
+<span class="l-gloss">Apii dash (and when) wedisaawaad (they came to) anishinaabe oodetoonid (where people had a town), mikinaak (Snapping-Turtle) ogii-inaag (said to) gakina (all) ozhimaaganishiman (his soldiers):</span>
 
 <span class="l-orig">(40) “Mī∙u∙māⁿ ayaiyu‘k.</span>
 
@@ -864,11 +864,11 @@ SNAPPING-TURTLE GOES TO WAR
 
 <span class="l-orig">(106) Käᵉgä‘tidạc wīnimōᵉ ogīkaskigwānigōn ‘iᵉi´māⁿ wītagayāng.</span>
 
-<span class="l-fiero">**Geget idash wiinimoo’ ogii-gashkigwaanigoon i’iw imaa wiitagayaang.**</span>
+<span class="l-fiero">**Geget idash wiinimoon ogii-gashkigwaanigoon i’iw imaa wiitagayaang.**</span>
 
 <span class="l-eng">*And to be sure, by his sisters-in-law was he sewed up at his penis.*</span>
 
-<span class="l-gloss">Geget idash (and to be sure) wiinimoo’ (his sisters-in-law) ogii-gashkigwaanigoon (sewed him up) i’iw imaa (there) wiitagayaang (at his penis).</span>
+<span class="l-gloss">Geget idash (and to be sure) wiinimoon (his sisters-in-law) ogii-gashkigwaanigoon (sewed him up) i’iw imaa (there) wiitagayaang (at his penis).</span>
 
 <span class="l-orig">(107) Mī∙i∙’ᵘ kīnōdcimut.</span>
 

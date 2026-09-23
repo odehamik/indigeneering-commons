@@ -60,11 +60,11 @@ STRONG, BITTER STICK.
 
 <span class="l-orig">(6) Mīdạc äjiwâbạndạnk ạnōdc kägō mạcki‘ki ī∙i∙´ᵘ tînōwa kāyābạdci‘tōwād ạnicinābäᵉk nạndawändcigäwād, “onạmạn” kā∙i∙dạmowād ạnicinābäᵉk.</span>
 
-<span class="l-fiero">**Mii dash ezhi-waabandang anooj gegoo mashkiki i’iw dinowa gaa-ayaabaji’toowaad anishinaabeg nandawenjigewaad, “onaman” gaa-idamowaad anishinaabeg.**</span>
+<span class="l-fiero">**Mii dash ezhi-waabandang anooj gegoo mashkiki i’iw dinowa gaa-ayaabajitoowaad anishinaabeg nandawenjigewaad, “onaman” gaa-idamowaad anishinaabeg.**</span>
 
 <span class="l-eng">*Thereupon he beheld various kinds of medicine of the sort that people use when they go on a hunt for game, “magic paint” is what the people call it.*</span>
 
-<span class="l-gloss">Mii dash ezhi-waabandang (and then he saw) anooj gegoo mashkiki (all kinds of medicine) i’iw dinowa (the kind) gaa-ayaabaji’toowaad anishinaabeg (that the people use) nandawenjigewaad (when they hunt for game), “onaman” (magic paint) gaa-idamowaad anishinaabeg (as the people call it).</span>
+<span class="l-gloss">Mii dash ezhi-waabandang (and then he saw) anooj gegoo mashkiki (all kinds of medicine) i’iw dinowa (the kind) gaa-ayaabajitoowaad anishinaabeg (that the people use) nandawenjigewaad (when they hunt for game), “onaman” (magic paint) gaa-idamowaad anishinaabeg (as the people call it).</span>
 
 <span class="l-orig">(7) “A‘kawä kīgạtacạmin, nīdcī,” udigōn.</span>
 
@@ -104,27 +104,27 @@ STRONG, BITTER STICK.
 
 <span class="l-orig">(11) Kīwīndạmāgut kādijitcigät kīcpîn wī∙ā∙bạdci‘tōd mī∙i∙´ᵘ mạcki‘ki; ka‘kina ändaswäwānạgisiwāt — mạnidōwäncạg, awäsīyänsạg, kunimā gayä gitci∙a∙wäsīyạg, kumā gayä kāpimisäwāt, kānūdci∙i∙ndwā — tōwạg ka‘kina iᵘ tōwa mạcki‘ki; kayäku anicinābäᵉk wīsāgi∙i∙tiwād udābạdci‘tōnāwa ī∙i∙ᵘ tōwa mạcki‘ki, unạmạn.</span>
 
-<span class="l-fiero">**Gii-wiindamaagod ged-izhichiged giishpin wii-aabaji’tood mii iw mashkiki; gakina endaswewaanagiziwaad — manidoowenshag, awesiiyensag, gonimaa gaye gichi-awesiiyag, gomaa gaye gaa-bimisewaad, gaa-noojii’indwaa — dinowag gakina iw dinowa mashkiki; gaye go anishinaabeg wii-zaagi’idiwaad odaabaji’toonaawaa i’iw dinowa mashkiki, onaman.**</span>
+<span class="l-fiero">**Gii-wiindamaagod ged-izhichiged giishpin wii-aabajitood mii iw mashkiki; gakina endaswewaanagiziwaad — manidoowenshag, awesiiyensag, gonimaa gaye gichi-awesiiyag, gomaa gaye gaa-bimisewaad, gaa-noojii’indwaa — dinowag gakina iw dinowa mashkiki; gaye go anishinaabeg wii-zaagi’idiwaad odaabajitoonaawaa i’iw dinowa mashkiki, onaman.**</span>
 
 <span class="l-eng">*Then he was instructed what to do in case he should want to use the medicine; that (it was for) all things that lived, — insects, small animal-folk, or big animal-folk or beings that flew in the air, the creatures that were hunted, — for all such was that kind of medicine; or if people wished to make love one with another, they used that kind of medicine, the magic paint.*</span>
 
-<span class="l-gloss">Gii-wiindamaagod (he was instructed) ged-izhichiged (what he should do) giishpin wii-aabaji’tood (if he wished to use) mii iw mashkiki (that medicine); gakina endaswewaanagiziwaad (all the kinds of living beings there are) — manidoowenshag (insects), awesiiyensag (small animals), gonimaa gaye gichi-awesiiyag (or also the big animals), gomaa gaye gaa-bimisewaad (or also those that fly), gaa-noojii’indwaa (those that are hunted) — dinowag gakina (all such kinds) iw dinowa mashkiki (is what that kind of medicine is for); gaye go anishinaabeg (and also people) wii-zaagi’idiwaad (when they wish to love one another) odaabaji’toonaawaa (they use it) i’iw dinowa mashkiki (that kind of medicine), onaman (the magic paint).</span>
+<span class="l-gloss">Gii-wiindamaagod (he was instructed) ged-izhichiged (what he should do) giishpin wii-aabajitood (if he wished to use) mii iw mashkiki (that medicine); gakina endaswewaanagiziwaad (all the kinds of living beings there are) — manidoowenshag (insects), awesiiyensag (small animals), gonimaa gaye gichi-awesiiyag (or also the big animals), gomaa gaye gaa-bimisewaad (or also those that fly), gaa-noojii’indwaa (those that are hunted) — dinowag gakina (all such kinds) iw dinowa mashkiki (is what that kind of medicine is for); gaye go anishinaabeg (and also people) wii-zaagi’idiwaad (when they wish to love one another) odaabajitoonaawaa (they use it) i’iw dinowa mashkiki (that kind of medicine), onaman (the magic paint).</span>
 
 <span class="l-orig">(12) Kīcpin ī∙i∙´ᵘ tōwa ābạdci‘tōd inini wī‘kạnōnāt i‘kwäwạn, mīgō∙i∙´ᵘ pạnādci∙ā∙t.</span>
 
-<span class="l-fiero">**Giishpin i’iw dinowa aabaji’tood inini wii-ganoonaad ikwewan, mii go iw banaaji’aad.**</span>
+<span class="l-fiero">**Giishpin i’iw dinowa aabajitood inini wii-ganoonaad ikwewan, mii go iw banaaji’aad.**</span>
 
 <span class="l-eng">*If a man used such a thing when he desired to speak to a woman, why, he rendered her powerless.*</span>
 
-<span class="l-gloss">Giishpin (if) i’iw dinowa aabaji’tood (he uses that kind) inini (a man) wii-ganoonaad ikwewan (when he wants to speak to a woman), mii go iw banaaji’aad (then he ruins her; *renders her powerless*).</span>
+<span class="l-gloss">Giishpin (if) i’iw dinowa aabajitood (he uses that kind) inini (a man) wii-ganoonaad ikwewan (when he wants to speak to a woman), mii go iw banaaji’aad (then he ruins her; *renders her powerless*).</span>
 
 <span class="l-orig">(13) Ka‘kina ugīpi∙ā∙bạdci‘tōnāwa ạnicinābäᵉk kīnạndawändcigäwād.</span>
 
-<span class="l-fiero">**Gakina ogii-bi-aabaji’toonaawaa anishinaabeg gii-nandawenjigewaad.**</span>
+<span class="l-fiero">**Gakina ogii-bi-aabajitoonaawaa anishinaabeg gii-nandawenjigewaad.**</span>
 
 <span class="l-eng">*All the people have used it when hunting for game.*</span>
 
-<span class="l-gloss">Gakina (all) ogii-bi-aabaji’toonaawaa (they have used it) anishinaabeg (the people) gii-nandawenjigewaad (when they hunted for game).</span>
+<span class="l-gloss">Gakina (all) ogii-bi-aabajitoonaawaa (they have used it) anishinaabeg (the people) gii-nandawenjigewaad (when they hunted for game).</span>
 
 <span class="l-orig">(14) Nānīngutînō kāwīn kạnagä uwīki‘kändazīn tci∙u∙cimut ‘aᵉa´ᵘ awäⁿsī, kumā gayä ni‘kạg.</span>
 

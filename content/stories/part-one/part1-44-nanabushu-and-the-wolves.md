@@ -106,11 +106,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(12) Kā∙i∙jipīndigät Nänabōjo, owābạmān i‘kwäwạn nīⁿj kayä ạbinōtcīyaᵉ.</span>
 
-<span class="l-fiero">**Gaa-izhi-biindiged Nenaboozhoo, owaabamaan ikwewan niizh gaye abinoojiiya’.**</span>
+<span class="l-fiero">**Gaa-izhi-biindiged Nenaboozhoo, owaabamaan ikwewan niizh gaye abinoojiiyan.**</span>
 
 <span class="l-eng">*After Nänabushu went in, he saw a woman and two children.*</span>
 
-<span class="l-gloss">Gaa-izhi-biindiged Nenaboozhoo (after Nenaboozhoo went in), owaabamaan ikwewan (he saw a woman) niizh gaye abinoojiiya’ (and two children too).</span>
+<span class="l-gloss">Gaa-izhi-biindiged Nenaboozhoo (after Nenaboozhoo went in), owaabamaan ikwewan (he saw a woman) niizh gaye abinoojiiyan (and two children too).</span>
 
 <span class="l-orig">(13) I‘kwä ōgīodā‘pînān mi‘tig; i‘kwä upa‘ki‘täwān o‘kāding, mämäckut.</span>
 
@@ -202,11 +202,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(24) Ugīwābạmān niswi mā∙ī∙ngạnaᵉ pimi‘pa‘tōnit; ōgạnawābamān.</span>
 
-<span class="l-fiero">**Ogii-waabamaan niswi ma’iingana’ bimipatoonid; oganawaabamaan.**</span>
+<span class="l-fiero">**Ogii-waabamaan niswi ma’iinganan bimipatoonid; oganawaabamaan.**</span>
 
 <span class="l-eng">*He saw three Wolves running along; he gazed at them.*</span>
 
-<span class="l-gloss">Ogii-waabamaan niswi ma’iingana’ bimipatoonid (he saw three Wolves running along); oganawaabamaan (he watched them).</span>
+<span class="l-gloss">Ogii-waabamaan niswi ma’iinganan bimipatoonid (he saw three Wolves running along); oganawaabamaan (he watched them).</span>
 
 <span class="l-orig">(25) Ō, pīpāgi Nänabōju: “Ä, pä‘ka, nītci! Pīciyu‘k!”</span>
 
@@ -274,11 +274,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(33) Kayä odōjimaᵉ Nänabōju ogạgwädcimān: “Āndi äjāyäg?”</span>
 
-<span class="l-fiero">**Gaye odoozhima’ Nenaboozhoo ogagwejimaan: “Aandi e-zhaayeg?”**</span>
+<span class="l-fiero">**Gaye odoozhiman Nenaboozhoo ogagwejimaan: “Aandi e-zhaayeg?”**</span>
 
 <span class="l-eng">*And of his nephews Nänabushu inquired: “Where are you going?”*</span>
 
-<span class="l-gloss">Gaye odoozhima’ Nenaboozhoo ogagwejimaan (and Nenaboozhoo questioned his nephews): “Aandi e-zhaayeg?” (“where are you going?”)</span>
+<span class="l-gloss">Gaye odoozhiman Nenaboozhoo ogagwejimaan (and Nenaboozhoo questioned his nephews): “Aandi e-zhaayeg?” (“where are you going?”)</span>
 
 <span class="l-orig">(34) “O, wâsa wābạnung.”</span>
 
@@ -434,11 +434,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(53) Anīcinābēg īmā tāwạg, owābạmāwān ma∙ī∙ngạnaᵉ.</span>
 
-<span class="l-fiero">**Anishinaabeg i’imaa daawag, owaabamaawaan ma’iingana’.**</span>
+<span class="l-fiero">**Anishinaabeg i’imaa daawag, owaabamaawaan ma’iinganan.**</span>
 
 <span class="l-eng">*Some people were abiding at the place; they saw the Wolves.*</span>
 
-<span class="l-gloss">Anishinaabeg i’imaa daawag (some people were dwelling there), owaabamaawaan ma’iingana’ (they saw the Wolves).</span>
+<span class="l-gloss">Anishinaabeg i’imaa daawag (some people were dwelling there), owaabamaawaan ma’iinganan (they saw the Wolves).</span>
 
 <span class="l-orig">(54) “Hehē, nạskä ma∙ī∙ngạnạg pämipa‘tōwād! Nīwiwag, nīwîn!”</span>
 
@@ -1050,11 +1050,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(130) Mīdạc wâbạmād ma∙ī∙ngạnaᵉ cîngicinînit, ä‘pitcidäbisînīnit.</span>
 
-<span class="l-fiero">**Mii dash waabamaad ma’iingana’ zhingishininid, aapiji debisiniinid.**</span>
+<span class="l-fiero">**Mii dash waabamaad ma’iinganan zhingishininid, aapiji debisiniinid.**</span>
 
 <span class="l-eng">*And when he saw the Wolves as they were lying down, very full were they from eating.*</span>
 
-<span class="l-gloss">Mii dash waabamaad ma’iingana’ zhingishininid (and then he saw the Wolves lying down), aapiji debisiniinid (very full from eating).</span>
+<span class="l-gloss">Mii dash waabamaad ma’iinganan zhingishininid (and then he saw the Wolves lying down), aapiji debisiniinid (very full from eating).</span>
 
 <span class="l-orig">(131) Käwīn kägō owâbạndạzīn, kâwin gayä mōⁿzōn owâbạmāsīn.</span>
 

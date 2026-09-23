@@ -338,11 +338,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(41) Mīdạc igu kägä‘t äjiwäba‘k; kīcpîn awīya pạngī a‘pạgināt asämān, “Nänabujū! kibīndā‘kōnin ningawīnāmaāmin,” mīgu kägä‘t äjināmaānigwa‘k.</span>
 
-<span class="l-fiero">**Mii dash go geget e-zhwebak; giishpin wiya bngii a’baginaad semaan, “Nenaboozhoo! G-biindaakoonin ninga-wii-naamaamin*,” mii go geget ezhi-naamaanigwak*.**</span>
+<span class="l-fiero">**Mii dash go geget e-zhwebak; giishpin wiya bngii abaginaad semaan, “Nenaboozhoo! G-biindaakoonin ninga-wii-naamaamin*,” mii go geget ezhi-naamaanigwak*.**</span>
 
 <span class="l-eng">*And that, sure enough, is what happens; if any one offers a little tobacco (with) “O Nänabushu! I come with an offering to you, we wish for a fair wind,” then verily there comes up a fair wind.*</span>
 
-<span class="l-gloss">Mii dash go geget e-zhwebak (and that, sure enough, is what happens); giishpin wiya bngii a’baginaad semaan (if anyone offers a little tobacco), “Nenaboozhoo! G-biindaakoonin (“Nenabosho! I come with an offering to you) ninga-wii-naamaamin*,” (we wish for a fair wind,”) mii go geget ezhi-naamaanigwak* (then verily there comes up a fair wind).</span>
+<span class="l-gloss">Mii dash go geget e-zhwebak (and that, sure enough, is what happens); giishpin wiya bngii abaginaad semaan (if anyone offers a little tobacco), “Nenaboozhoo! G-biindaakoonin (“Nenabosho! I come with an offering to you) ninga-wii-naamaamin*,” (we wish for a fair wind,”) mii go geget ezhi-naamaanigwak* (then verily there comes up a fair wind).</span>
 
 <span class="l-orig">(42) Mīsaⁱ a‘kōsit, pinäwidis kī∙ạ∙gōdä.</span>
 

@@ -186,11 +186,11 @@ Nanabushu Marries
 
 <span class="l-orig">(22) Mī∙i∙dạc ‘aᵉa’wi‘kwä agwạtcing kī∙i∙jā; mīdạc wâbạndạnk Nänabucō ubimiwạnān, wīyās ä‘tänig, mizisäᵉ kayä pinäwaᵉ kayä.</span>
 
-<span class="l-fiero">**Mii dash a’aw ikwe agwajing gii-izhaa; mii dash waabandang Nenaboozhoo obimiwanaan, wiiyaas etenig, mizise’ gaye binewa’ gaye.**</span>
+<span class="l-fiero">**Mii dash a’aw ikwe agwajing gii-izhaa; mii dash waabandang Nenaboozhoo obimiwanaan, wiiyaas etenig, mizisen gaye binewan gaye.**</span>
 
 <span class="l-eng">*Thereupon the woman went out of doors; and so, when she saw Nänabushu’s pack, meat was therein, besides turkeys and ruffed grouse.*</span>
 
-<span class="l-gloss">Mii dash a’aw ikwe agwajing gii-izhaa (then that woman went outside); mii dash waabandang Nenaboozhoo obimiwanaan (and when she saw Nenaboozhoo’s pack), wiiyaas etenig (meat was in it), mizise’ gaye binewa’ gaye (turkeys too and ruffed grouse too).</span>
+<span class="l-gloss">Mii dash a’aw ikwe agwajing gii-izhaa (then that woman went outside); mii dash waabandang Nenaboozhoo obimiwanaan (and when she saw Nenaboozhoo’s pack), wiiyaas etenig (meat was in it), mizisen gaye binewan gaye (turkeys too and ruffed grouse too).</span>
 
 <span class="l-orig">(23) Mīdạc awi‘kwä kā∙i∙jitcībā‘kwät, mīdạc ä‘kitut: “Ningatawinạndumāk ninīngī∙i∙gōg.”</span>
 
@@ -290,11 +290,11 @@ Nanabushu Marries
 
 <span class="l-orig">(35) Mīdạc imā kīna∙ā∙ngạbit; mōjạgidạc kīnạndawändcigä, anōdc kägō uni‘tōn awäsīyaᵉ.</span>
 
-<span class="l-fiero">**Mii dash imaa gii-na’aangabid; moozhag idash gii-nandawenjige, anooj gego onitoon awesiiya’.**</span>
+<span class="l-fiero">**Mii dash imaa gii-na’aangabid; moozhag idash gii-nandawenjige, anooj gego onitoon awesiiyan.**</span>
 
 <span class="l-eng">*And so there he lived with the people of his wife; and continually was he on the hunt for game, every kind of game he killed.*</span>
 
-<span class="l-gloss">Mii dash imaa gii-na’aangabid (and so there he lived as a son-in-law); moozhag idash gii-nandawenjige (and constantly he hunted for game), anooj gego onitoon awesiiya’ (all kinds of game animals he killed).</span>
+<span class="l-gloss">Mii dash imaa gii-na’aangabid (and so there he lived as a son-in-law); moozhag idash gii-nandawenjige (and constantly he hunted for game), anooj gego onitoon awesiiyan (all kinds of game animals he killed).</span>
 
 <span class="l-orig">(36) Nānīngudinō upiwīdcīwān ma‘kwạn, mīdạc imā pānimā pitạgwicing ickwāndänk mī∙i∙mā nīwạnawāt.</span>
 
@@ -306,11 +306,11 @@ Nanabushu Marries
 
 <span class="l-orig">(37) Wībadạcigu Nänabucu kīi‘kitu: “Wī‘kundiwin tci∙u∙jictcigātänig awäsīmīdcîm, mizisä gayä, ka‘kinagu ändaswäwānạgisiwāt, pinēwaᵉ gayä.”</span>
 
-<span class="l-fiero">**Wiiba dash igo Nenaboozhoo gii-ikido: “Wiikondiwin ji-ozhichigaadenig awesii miijim, mizise gaye, gakina go endaswewaanagiziwaad, binewa’ gaye.”**</span>
+<span class="l-fiero">**Wiiba dash igo Nenaboozhoo gii-ikido: “Wiikondiwin ji-ozhichigaadenig awesii miijim, mizise gaye, gakina go endaswewaanagiziwaad, binewan gaye.”**</span>
 
 <span class="l-eng">*So in a little while Nänabushu said: “A feast there shall be of game-food, and of turkeys, and of every kind of game there is, and of ruffed grouse.”*</span>
 
-<span class="l-gloss">Wiiba dash igo Nenaboozhoo gii-ikido (so before long Nenaboozhoo said): “Wiikondiwin ji-ozhichigaadenig (“a feast shall be made) awesii miijim, mizise gaye, (of game-meat, and of turkeys too,) gakina go endaswewaanagiziwaad, binewa’ gaye.” (of every kind there is, and of ruffed grouse too.”)</span>
+<span class="l-gloss">Wiiba dash igo Nenaboozhoo gii-ikido (so before long Nenaboozhoo said): “Wiikondiwin ji-ozhichigaadenig (“a feast shall be made) awesii miijim, mizise gaye, (of game-meat, and of turkeys too,) gakina go endaswewaanagiziwaad, binewan gaye.” (of every kind there is, and of ruffed grouse too.”)</span>
 
 <span class="l-orig">(38) Mīdạc kā∙i∙ciwī‘kumindwa nībiwa anicinābäᵉg, i‘kwäwag kayä.</span>
 

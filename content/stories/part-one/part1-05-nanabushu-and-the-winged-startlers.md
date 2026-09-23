@@ -116,19 +116,19 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(13) Mīdạc cīgwa kī∙u∙disāt a∙a∙wäti kāmīdcinimint mī∙i’∙ᵘ unītcānisaᵉ.</span>
 
-<span class="l-fiero">**Mii dash zhigwa gii-odisaad a’awedi gaa-miijinimind mii i’iw oniijaanisa’.**</span>
+<span class="l-fiero">**Mii dash zhigwa gii-odisaad a’awedi gaa-miijinimind mii i’iw oniijaanisan.**</span>
 
 <span class="l-eng">*And so in the mean time (the mother) had come to where her young had been eased upon.*</span>
 
-<span class="l-gloss">Mii dash zhigwa gii-odisaad (and so by now she had come) a’awedi gaa-miijinimind (to where they had been eased upon) mii i’iw oniijaanisa’ (that is, her young).</span>
+<span class="l-gloss">Mii dash zhigwa gii-odisaad (and so by now she had come) a’awedi gaa-miijinimind (to where they had been eased upon) mii i’iw oniijaanisan (that is, her young).</span>
 
 <span class="l-orig">(14) “Ānīn kā‘tiyäg?” udināᵉ ‘iᵉi’ᵘ unītcānisaᵉ.</span>
 
-<span class="l-fiero">**“Aaniin gaadiyeg?” odinaa’ i’iw oniijaanisa’.**</span>
+<span class="l-fiero">**“Aaniin gaadiyeg?” odinaan i’iw oniijaanisan.**</span>
 
 <span class="l-eng">*“What has happened to you?” she said to her children.*</span>
 
-<span class="l-gloss">“Aaniin gaadiyeg?” (“what has happened to you?” — *stem flagged*) odinaa’ i’iw oniijaanisa’ (she said to her children).</span>
+<span class="l-gloss">“Aaniin gaadiyeg?” (“what has happened to you?” — *stem flagged*) odinaan i’iw oniijaanisan (she said to her children).</span>
 
 <span class="l-orig">(15) “Kā, nạngwana Nänabucu ningīmīdcinigunān.”</span>
 

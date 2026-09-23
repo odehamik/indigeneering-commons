@@ -509,11 +509,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(62) Mī cigwa ạni∙u∙di‘tạnk wīgiwāmäns, näyāgigu pisāga∙ạ∙mōᵉ kwīwisänsaᵉ.</span>
 
-<span class="l-fiero">**Mii zhigwa ani-oditang wiigiwaamens, neyaag* igo bi-zaaga’amoo gwiiwisensa.**</span>
+<span class="l-fiero">**Mii zhigwa ani-oditang wiigiwaamens, neyaag igo bi-zaaga’amoo gwiiwisensa.**</span>
 
 <span class="l-eng">*Then presently, as he was about to arrive at the little wigwam, but before he got there, out came the boys.*</span>
 
-<span class="l-gloss">Mii zhigwa ani-oditang wiigiwaamens (then as he was nearing the little wigwam), neyaag* igo bi-zaaga’amoo gwiiwisensa (but before that, out came the boys — *editorial mark carried*).</span>
+<span class="l-gloss">Mii zhigwa ani-oditang wiigiwaamens (then as he was nearing the little wigwam), neyaag igo bi-zaaga’amoo gwiiwisensa (but before that, out came the boys — *editorial mark carried*).</span>
 
 <span class="l-orig">(63) “Nō‘ko, kitagwicinina?”</span>
 

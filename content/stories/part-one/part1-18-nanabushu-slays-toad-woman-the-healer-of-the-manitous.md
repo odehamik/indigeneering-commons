@@ -36,11 +36,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(3) Mīsa’ nāsi‘tawāt, mīsa’ undcita äni‘tawāt:</span>
 
-<span class="l-fiero">**Mii sa naazi’tawaad, mii sa onjida enitawaad:**</span>
+<span class="l-fiero">**Mii sa naazitawaad, mii sa onjida enitawaad:**</span>
 
 <span class="l-eng">*And so when he went to where it was sounding, it seemed as if he heard the same sound as before:*</span>
 
-<span class="l-gloss">Mii sa naazi’tawaad (and so he went toward the sound) ∙ mii sa onjida enitawaad (and indeed he heard it the same)</span>
+<span class="l-gloss">Mii sa naazitawaad (and so he went toward the sound) ∙ mii sa onjida enitawaad (and indeed he heard it the same)</span>
 
 <span class="l-orig">(4) “Piyä‘kwā nīmbicinawicin cāⁿ.”</span>
 
@@ -76,11 +76,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(8) “Kā, Nänabucu wīnạntuwā‘pi‘kānā. Kạnạbạtc kīnisābāwätug, ānīc kīni‘kibī kägā wo∙ō∙ a‘ki. Ānīnti dạc kä∙u∙ndcipimātisit? i‘kitōwag.”</span>
 
-<span class="l-fiero">**“Gaa, Nenabozho wii-nandowaa’bikaanaa*. Ganabaj gii-nisaabaawedog, aaniish gii-nikibii gegaa wo’ow aki. Aaniindi dash ge-onji-bimaadizid? ikidowag.”**</span>
+<span class="l-fiero">**“Gaa, Nenabozho wii-nandowaabikaanaa*. Ganabaj gii-nisaabaawedog, aaniish gii-nikibii gegaa wo’ow aki. Aaniindi dash ge-onji-bimaadizid? ikidowag.”**</span>
 
 <span class="l-eng">*“Why, an attempt will be made to ensnare Nänabushu. Perhaps he may be drowned, for almost flooded was this earth with water. And in what place can he now be alive? they said.”*</span>
 
-<span class="l-gloss">Gaa (why) ∙ Nenabozho wii-nandowaa’bikaanaa (an attempt will be made to snare Nänabushu — *stem flagged*) ∙ Ganabaj gii-nisaabaawedog (perhaps he was drowned) ∙ aaniish gii-nikibii gegaa wo’ow aki (for this earth was almost flooded) ∙ Aaniindi dash ge-onji-bimaadizid (and in what place can he be alive) ∙ ikidowag (they said)</span>
+<span class="l-gloss">Gaa (why) ∙ Nenabozho wii-nandowaabikaanaa (an attempt will be made to snare Nänabushu — *stem flagged*) ∙ Ganabaj gii-nisaabaawedog (perhaps he was drowned) ∙ aaniish gii-nikibii gegaa wo’ow aki (for this earth was almost flooded) ∙ Aaniindi dash ge-onji-bimaadizid (and in what place can he be alive) ∙ ikidowag (they said)</span>
 
 <span class="l-orig">(9) “Ānīn guta wīn wäntcitōtawāwāt kīma‘kamāwāt īni’ᵘ utōcimini? Mạnitōsa wīn, nīnawint änạngit ‘aᵉa’ᵘ Nänabucu.</span>
 
@@ -100,11 +100,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(11) “Kā, nōma∙i∙‘käna kītāgīnīwana∙u∙‘k ‘aᵉa’ᵘ Nänabucu āwiyāmbān. Ānīn, nō‘ko, ä∙i∙ci∙ā∙yāt ‘aᵉa’ᵘ gā‘pimunt?”</span>
 
-<span class="l-fiero">**“Gaa, noomaya’kenaa gii-daa-gii-niiwana’ag a’aw Nenabozho awiyaamban. Aaniin, nooko, e-izhi-ayaad a’aw gaa-bimond?”**</span>
+<span class="l-fiero">**“Gaa, noomayakenaa gii-daa-gii-niiwana’ag a’aw Nenabozho awiyaamban. Aaniin, nooko, e-izhi-ayaad a’aw gaa-bimond?”**</span>
 
 <span class="l-eng">*“Why, long since would you have been clubbed to death if I had been Nänabushu. How, my grandmother, is the one doing that was shot?”*</span>
 
-<span class="l-gloss">Gaa (why) ∙ noomaya’kenaa (long since) ∙ gii-daa-gii-niiwana’ag (would have been clubbed to death) ∙ a’aw Nenabozho awiyaamban (if I were Nänabushu) ∙ Aaniin, nooko, (how, grandmother) ∙ e-izhi-ayaad (how he is doing) ∙ a’aw gaa-bimond (the one who was shot)</span>
+<span class="l-gloss">Gaa (why) ∙ noomayakenaa (long since) ∙ gii-daa-gii-niiwana’ag (would have been clubbed to death) ∙ a’aw Nenabozho awiyaamban (if I were Nänabushu) ∙ Aaniin, nooko, (how, grandmother) ∙ e-izhi-ayaad (how he is doing) ∙ a’aw gaa-bimond (the one who was shot)</span>
 
 <span class="l-orig">(12) “Kā, kägāsạgu ninōtcimō∙ā∙nān, nīnawint ninạnāntawi∙ā∙nān.”</span>
 
@@ -224,11 +224,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(26) Ādcikackikibitäni, mīdạc iwiti ayānit. Cayīgwa nanāntawi∙i∙wäwaᵉ kạnawâbạmāt, pạnä‘ku iwiti ạwasaya∙ī∙. Cayīgwa kayä wīn uwīnạnāntawi∙ā∙n. Kīcā ugī∙u∙ci‘tōn ‘iᵉimāⁿ wā‘pi∙a∙‘pa∙i∙wät, mi‘tigōᵉ ugī∙a∙‘kwākwa‘pināᵉ.</span>
 
-<span class="l-fiero">**Ajidekashkikibidaani, mii dash iwidi ayaanid. Zhayiigwa nanaandawi’iwewa’ ganawaabamaad, bane’go iwidi awasayaii. Zhayiigwa gaye wiin owii-nanaandawi’aan. Giizhaa ogii-ozhi’ton i’imaa waa-bi-apa’iwed*, mitigoon ogii-akwaagwapinaa’*.**</span>
+<span class="l-fiero">**Ajidekashkikibidaani, mii dash iwidi ayaanid. Zhayiigwa nanaandawi’iwewan ganawaabamaad, banego iwidi awasayaii. Zhayiigwa gaye wiin owii-nanaandawi’aan. Giizhaa ogii-ozhiton i’imaa waa-bi-apa’iwed*, mitigoon ogii-akwaagwapinaan*.**</span>
 
 <span class="l-eng">*There was a hanging partition dividing the room, and there beyond was (the wounded). Then, as they began ministering, he kept watch of them, and continuously round to the other side (of the partition they kept passing). Presently he too began ministering to him. In advance had he made ready the way by which he meant to flee, some wood he had heaped in a pile.*</span>
 
-<span class="l-gloss">Ajidekashkikibidaani (a hanging partition divided it) ∙ mii dash iwidi ayaanid (and there beyond was the one) ∙ Zhayiigwa nanaandawi’iwewa’ ganawaabamaad (as they doctored he watched them) ∙ bane’go iwidi awasayaii (continuously to the far side) ∙ Zhayiigwa gaye wiin owii-nanaandawi’aan (then he too began to doctor him) ∙ Giizhaa ogii-ozhi’ton i’imaa waa-bi-apa’iwed (in advance he had made ready the place by which he would flee — *stem flagged*) ∙ mitigoon ogii-akwaagwapinaa’ (wood he had piled up — *stem flagged*)</span>
+<span class="l-gloss">Ajidekashkikibidaani (a hanging partition divided it) ∙ mii dash iwidi ayaanid (and there beyond was the one) ∙ Zhayiigwa nanaandawi’iwewan ganawaabamaad (as they doctored he watched them) ∙ banego iwidi awasayaii (continuously to the far side) ∙ Zhayiigwa gaye wiin owii-nanaandawi’aan (then he too began to doctor him) ∙ Giizhaa ogii-ozhiton i’imaa waa-bi-apa’iwed (in advance he had made ready the place by which he would flee — *stem flagged*) ∙ mitigoon ogii-akwaagwapinaan (wood he had piled up — *stem flagged*)</span>
 
 <span class="l-orig">(27) Mīdạc cigwa kayä wīn ạnī∙i∙cāt ‘iᵉi’witi awasaya∙i∙, cigwa owâbạmān āsotā‘kwa∙i∙gāsunit. Ā‘pidci wācä‘pīnit sāngāngäsininik ‘iᵉi’ᵘ ubigwa‘k. Wäwänigu udōninān äcicicigwänawāt.</span>
 
@@ -248,11 +248,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(29) Pạsigwintcisät Nänabucu udạnimamipinān ōtōcimiwayānạn, mādcība∙i∙wät. Unsusāma‘kạmik kāpiyapitcipitwäwätciwaninik igu, änigu‘k pimipa‘tō. Äckamigu ä‘kupiski‘kīt a‘kwa∙ạ∙m. Mī yānawi cigwa päcwäntạnk ‘iᵉi’ᵘ ōmisōnu‘kān, cayīgwa upäcwâbạndạn ‘iᵉi’ᵘ ōmisōnu‘kān. Mī cigwa ä‘kukitcipisut ä‘kwa∙ạ∙ng äcipōsit ‘iᵉi’ᵘ ōmisōmu‘kān.</span>
 
-<span class="l-fiero">**Bazigwinjised Nenabozho odanimaamibinaan odoozhimiwayanan, maajiiba’iwed. Onzosaama’kamig gaa-bi-yaabijibidwewejiwaninig igo, enigok bimibatoo. Eshkamigo ekobishki’giid akwa’am. Mii yaanawi zhigwa beshwendang iw omizoonokaan, zhayiigwa obeshwaabandaan iw omizoonokaan. Mii zhigwa ekokijibizod ekwa’ang ezhi-boozid iw omizoonokaan.**</span>
+<span class="l-fiero">**Bazigwinjised Nenabozho odanimaamibinaan odoozhimiwayanan, maajiiba’iwed. Onzosaamakamig gaa-bi-yaabijibidwewejiwaninig igo, enigok bimibatoo. Eshkamigo ekobishkigiid akwa’am. Mii yaanawi zhigwa beshwendang iw omizoonokaan, zhayiigwa obeshwaabandaan iw omizoonokaan. Mii zhigwa ekokijibizod ekwa’ang ezhi-boozid iw omizoonokaan.**</span>
 
 <span class="l-eng">*Springing to his feet, Nänabushu seized the skin of his nephew as he went, (and) started in flight. Frightful was the roar of the water that came pursuing after, at top speed he ran. Then by degrees till up to the knee in water was he wading. When truly, now, he thought he was nigh to his raft, then near by did he see his raft. When up to his waist he was wading in water, then he went aboard his raft.*</span>
 
-<span class="l-gloss">Bazigwinjised Nenabozho (springing up, Nänabushu) ∙ odanimaamibinaan odoozhimiwayanan (seized his nephew’s skin as he fled) ∙ maajiiba’iwed (started running) ∙ Onzosaama’kamig gaa-bi-yaabijibidwewejiwaninig igo (frightful the roar of water pursuing) ∙ enigok bimibatoo (at top speed he ran) ∙ Eshkamigo ekobishki’giid akwa’am (by degrees up to the knee he waded) ∙ Mii yaanawi zhigwa beshwendang iw omizoonokaan (when he thought he neared his raft) ∙ zhayiigwa obeshwaabandaan iw omizoonokaan (then he saw his raft near) ∙ Mii zhigwa ekokijibizod ekwa’ang ezhi-boozid iw omizoonokaan (up to his waist wading, he boarded his raft)</span>
+<span class="l-gloss">Bazigwinjised Nenabozho (springing up, Nänabushu) ∙ odanimaamibinaan odoozhimiwayanan (seized his nephew’s skin as he fled) ∙ maajiiba’iwed (started running) ∙ Onzosaamakamig gaa-bi-yaabijibidwewejiwaninig igo (frightful the roar of water pursuing) ∙ enigok bimibatoo (at top speed he ran) ∙ Eshkamigo ekobishkigiid akwa’am (by degrees up to the knee he waded) ∙ Mii yaanawi zhigwa beshwendang iw omizoonokaan (when he thought he neared his raft) ∙ zhayiigwa obeshwaabandaan iw omizoonokaan (then he saw his raft near) ∙ Mii zhigwa ekokijibizod ekwa’ang ezhi-boozid iw omizoonokaan (up to his waist wading, he boarded his raft)</span>
 
 <span class="l-orig">(30) Äcini‘kipīnit i∙i∙ᵘ mi‘tigōᵉ, mīsa’ a‘panä kägä‘t unāwändān wâsa anāmīndîm a‘ki ayānik. Ōwâbạmā ayānit pämātagānit ạnōtc awäsīyaᵉ. Mīsa wīpōsiwaᵉ ‘iᵉ∙i∙māⁿ utcīmāning, mīsa’ äcī‘kunīcawāt. “Pä‘kā,” udināᵉ. “Pānimā pīcā‘käg,” udināᵉ. Mīsa cigwa kī∙i∙nändạnk: “Ānīn käcictcigäyān awägwän käbītōt ‘iᵉi’ᵘ a‘ki?” kī∙i∙nändạm. Cigwa ugī‘kạnōnāᵉ ‘iᵉi’ᵘ mạnitōwäⁿca, mīdạc ni‘tạm nigigwạn: “Kāwīnina kītānāsi‘kaⁿsīn ‘iᵉi’ᵘ a‘ki?” udinān.</span>
 
@@ -274,11 +274,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(32) “Mīgu ‘iᵉi’ᵘ täbābạmagwābạn īgi’ᵘ mi‘tigōg piwä‘kwāna‘kisiwāt, mīdạc a‘pī kā∙i∙ciwạnäntạmān.”</span>
 
-<span class="l-fiero">**“Mii go iw debaabamagwaaban igiw mitigoog biwe’kwaanakiziwaad, mii dash apii gaa-izhi-wanendamaan.”**</span>
+<span class="l-fiero">**“Mii go iw debaabamagwaaban igiw mitigoog biwekwaanakiziwaad, mii dash apii gaa-izhi-wanendamaan.”**</span>
 
 <span class="l-eng">*“Just as I came in sight of the tree-tops, then was when I lost my wits.”*</span>
 
-<span class="l-gloss">Mii go iw debaabamagwaaban igiw mitigoog (just as I sighted the tree-tops) ∙ biwe’kwaanakiziwaad (where their tips showed) ∙ mii dash apii gaa-izhi-wanendamaan (then I lost my senses)</span>
+<span class="l-gloss">Mii go iw debaabamagwaaban igiw mitigoog (just as I sighted the tree-tops) ∙ biwekwaanakiziwaad (where their tips showed) ∙ mii dash apii gaa-izhi-wanendamaan (then I lost my senses)</span>
 
 <span class="l-orig">(33) “Tạga, kīn, ạmi‘k nāsi‘kạn ‘iᵉi’ᵘ a‘ki.”</span>
 
@@ -298,19 +298,19 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(35) “Kägä‘t ābi‘tawā‘tig mi‘tigōg nintāyānābạn, mīdạc kā∙i∙ciwạnäntạmān.”</span>
 
-<span class="l-fiero">**“Geget aabita-wa’tig mitigoog nindayaanaaban, mii dash gaa-izhi-wanendamaan.”**</span>
+<span class="l-fiero">**“Geget aabita-watig mitigoog nindayaanaaban, mii dash gaa-izhi-wanendamaan.”**</span>
 
 <span class="l-eng">*“Truly, as far as halfway down the trees I was, whereupon I lost my senses.”*</span>
 
-<span class="l-gloss">Geget aabita-wa’tig mitigoog nindayaanaaban (truly halfway down the trees I was) ∙ mii dash gaa-izhi-wanendamaan (then I lost my senses)</span>
+<span class="l-gloss">Geget aabita-watig mitigoog nindayaanaaban (truly halfway down the trees I was) ∙ mii dash gaa-izhi-wanendamaan (then I lost my senses)</span>
 
 <span class="l-orig">(36) “Abā‘pinisiwāgạn,” udinān.</span>
 
-<span class="l-fiero">**“Abaa’biniziwaagan,” odinaan.**</span>
+<span class="l-fiero">**“Abaabiniziwaagan,” odinaan.**</span>
 
 <span class="l-eng">*“Too bad,” he said to him.*</span>
 
-<span class="l-gloss">Abaa’biniziwaagan (too bad) ∙ odinaan (he said to him)</span>
+<span class="l-gloss">Abaabiniziwaagan (too bad) ∙ odinaan (he said to him)</span>
 
 <span class="l-orig">(37) “Tạga, kīn, wajack.”</span>
 
@@ -322,19 +322,19 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(38) Mīdạc kägä‘t äcikōgīt ‘aᵉa’ᵘ wajack. Cīgwa ābōckạntcisäwạn. Äciwutā‘pināt ugīkạckā‘kunitcāntạmini, ä∙i∙tawini‘k uda‘kunạmini ‘iᵉi’ᵘ a‘ki; kayä usitāning, ä∙ī∙tawisit usitāning a‘täni ‘iᵉi’ᵘ a‘ki.</span>
 
-<span class="l-fiero">**Mii dash geget ezhi-googiid a’aw wazhashk. Zhigwa aaboozhkanjisewan. Ezhi-odaapinaad ogiikashka’gonijandamini, eyiitawinik oda’gonamini iw aki; gaye ozidaaning, eyiitawizid ozidaaning ateni iw aki.**</span>
+<span class="l-fiero">**Mii dash geget ezhi-googiid a’aw wazhashk. Zhigwa aaboozhkanjisewan. Ezhi-odaapinaad ogiikashkagonijandamini, eyiitawinik odagonamini iw aki; gaye ozidaaning, eyiitawizid ozidaaning ateni iw aki.**</span>
 
 <span class="l-eng">*Whereupon truly into the water dived the Muskrat. Presently he came up out of the water dead. As (Nänabushu) took him up, he was holding (the earth) in his clinched paws, in both paws he was holding the earth; also in his feet, in each foot was some earth.*</span>
 
-<span class="l-gloss">Mii dash geget ezhi-googiid a’aw wazhashk (truly the muskrat dived) ∙ Zhigwa aaboozhkanjisewan (presently he came up dead) ∙ Ezhi-odaapinaad (as he took him up) ∙ ogiikashka’gonijandamini (he held it in his clenched paws) ∙ eyiitawinik oda’gonamini iw aki (in both paws he held the earth) ∙ gaye ozidaaning, eyiitawizid ozidaaning ateni iw aki (also in each foot was some earth)</span>
+<span class="l-gloss">Mii dash geget ezhi-googiid a’aw wazhashk (truly the muskrat dived) ∙ Zhigwa aaboozhkanjisewan (presently he came up dead) ∙ Ezhi-odaapinaad (as he took him up) ∙ ogiikashkagonijandamini (he held it in his clenched paws) ∙ eyiitawinik odagonamini iw aki (in both paws he held the earth) ∙ gaye ozidaaning, eyiitawizid ozidaaning ateni iw aki (also in each foot was some earth)</span>
 
 <span class="l-orig">(39) “Ānīc mīsa ‘iᵉi’ᵘ tcikạckitōyạng tci∙ō∙ci‘tōyạng ‘iᵉi’ᵘ a‘ki,” ugināᵉ. Ānīc mī cigwa kīpōdātạnk ‘iᵉi’ᵘ a‘ki, äckạmigu kīmiˢtcāni, äckạm kī∙a∙ji‘tōt. Ānīc mīgu kā∙i∙cictcigät. Cigwa äjiki‘kändạnk äckạm miˢtcānig, o∙ō∙widạc kī∙i∙‘kitō: “Tạga, mā∙ī∙ngạn, wâbandạn änigu‘kwāgwän,” udinān ma∙ī∙ngạnạn kā∙ạ∙nōnāt.</span>
 
-<span class="l-fiero">**“Aaniish mii sa iw ji-gashkitooyang ji-ozhi’tooyang iw aki,” odinaag. Aaniish mii zhigwa gii-boodaadang iw aki, eshkamigo gii-michaani, eshkam gii-izhi’tood. Aaniish mii go gaa-izhichiged. Zhigwa ezhi-gikendang eshkam michaanig, o’ow idash gii-ikido: “Daga, ma’iingan, waabandan enigokwaagwen,” odinaan ma’iinganan gaa-anoonaad.**</span>
+<span class="l-fiero">**“Aaniish mii sa iw ji-gashkitooyang ji-ozhitooyang iw aki,” odinaag. Aaniish mii zhigwa gii-boodaadang iw aki, eshkamigo gii-michaani, eshkam gii-izhitood. Aaniish mii go gaa-izhichiged. Zhigwa ezhi-gikendang eshkam michaanig, o’ow idash gii-ikido: “Daga, ma’iingan, waabandan enigokwaagwen,” odinaan ma’iinganan gaa-anoonaad.**</span>
 
 <span class="l-eng">*“So therefore shall we now be able to create the earth,” he said to them. So it was then that he breathed upon the earth, and by degrees it grew in size, larger he made it. Now, such was what he did. When he knew that it was grown larger, then this he said: “Pray, Wolf, do you see how big this earth is,” he said to the Wolf that he had employed.*</span>
 
-<span class="l-gloss">Aaniish mii sa iw ji-gashkitooyang ji-ozhi’tooyang iw aki (so now we can create the earth) ∙ mii zhigwa gii-boodaadang iw aki (then he breathed on the earth) ∙ eshkamigo gii-michaani (by degrees it grew) ∙ eshkam gii-izhi’tood (larger he made it) ∙ mii go gaa-izhichiged (such was what he did) ∙ Zhigwa ezhi-gikendang eshkam michaanig (when he knew it was bigger) ∙ Daga, ma’iingan, waabandan enigokwaagwen, (pray, wolf, see how big it is) ∙ odinaan ma’iinganan gaa-anoonaad (he said to the wolf he had employed)</span>
+<span class="l-gloss">Aaniish mii sa iw ji-gashkitooyang ji-ozhitooyang iw aki (so now we can create the earth) ∙ mii zhigwa gii-boodaadang iw aki (then he breathed on the earth) ∙ eshkamigo gii-michaani (by degrees it grew) ∙ eshkam gii-izhitood (larger he made it) ∙ mii go gaa-izhichiged (such was what he did) ∙ Zhigwa ezhi-gikendang eshkam michaanig (when he knew it was bigger) ∙ Daga, ma’iingan, waabandan enigokwaagwen, (pray, wolf, see how big it is) ∙ odinaan ma’iinganan gaa-anoonaad (he said to the wolf he had employed)</span>
 
 <span class="l-orig">(40) Mīdạc kägä‘t kā∙i∙cimādcānit, mīdạc kā∙i∙citạgwicininit.</span>
 
@@ -370,11 +370,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(44) Cigwa kītạgwicinōn kā∙ạ∙nōnāt. “Äyeᵉ, osām tā∙a∙gāsā,” ugī∙i∙nān. “Ānawi kīnīcugunäntiyạn, kāwīn kätäbisäsinōn kä∙i∙cīnit pitcīnạg wā‘pimātisit,” ugī∙i∙nān. Mīsa mīnawā kā∙i∙ji∙ō∙citōt, “Cigwa tạga,” ugī∙i∙nān; “mīmā tạc i∙i∙ᵘ tänigu‘kwāgwän,” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**Zhigwa gii-dagwishinon gaa-anoonaad. “Eye’, osaam daa-agaasaa,” ogii-inaan. “Aanawi gii-niizhogonendiyan, kaawiin ge-debisesinoon* ge-izhiinid bijiinag waa-bimaadizid,” ogii-inaan. Mii sa miinawaa gaa-izhi-ozhi’tood, “Zhigwa daga,” ogii-inaan; “miimaa dash iw de-inigokwaagwen,” ogii-inaan.**</span>
+<span class="l-fiero">**Zhigwa gii-dagwishinon gaa-anoonaad. “Eye’, osaam daa-agaasaa,” ogii-inaan. “Aanawi gii-niizhogonendiyan, kaawiin ge-debisesinoon* ge-izhiinid bijiinag waa-bimaadizid,” ogii-inaan. Mii sa miinawaa gaa-izhi-ozhitood, “Zhigwa daga,” ogii-inaan; “miimaa dash iw de-inigokwaagwen,” ogii-inaan.**</span>
 
 <span class="l-eng">*Now, back home came the one he had employed. “Ay, too small it will be,” he said to him. “Though you have been gone two days, yet it will not be (big) enough to contain all that are to live in times to come,” he said to him. And so when he had worked upon it again, “Now, once more,” he said to him: “perhaps it is now big enough,” he said to him.*</span>
 
-<span class="l-gloss">Zhigwa gii-dagwishinon gaa-anoonaad (now he arrived home, the one he had sent) ∙ “Eye’, osaam daa-agaasaa” (ay, too small it would be) ∙ ogii-inaan (he said to him) ∙ Aanawi gii-niizhogonendiyan (although you have been gone two days) ∙ ge-debisesinoon ge-izhiinid bijiinag waa-bimaadizid (it will not be enough for those yet to live — *stem flagged*) ∙ ogii-inaan (he said to him) ∙ Mii sa miinawaa gaa-izhi-ozhi’tood (so he worked it again) ∙ Zhigwa daga (now once more) ∙ miimaa dash iw de-inigokwaagwen (perhaps now it is big enough) ∙ ogii-inaan (he said to him)</span>
+<span class="l-gloss">Zhigwa gii-dagwishinon gaa-anoonaad (now he arrived home, the one he had sent) ∙ “Eye’, osaam daa-agaasaa” (ay, too small it would be) ∙ ogii-inaan (he said to him) ∙ Aanawi gii-niizhogonendiyan (although you have been gone two days) ∙ ge-debisesinoon ge-izhiinid bijiinag waa-bimaadizid (it will not be enough for those yet to live — *stem flagged*) ∙ ogii-inaan (he said to him) ∙ Mii sa miinawaa gaa-izhi-ozhitood (so he worked it again) ∙ Zhigwa daga (now once more) ∙ miimaa dash iw de-inigokwaagwen (perhaps now it is big enough) ∙ ogii-inaan (he said to him)</span>
 
 <span class="l-orig">(45) Mīsa’ mīnawā kā∙i∙cimādcānit. Mīsa bābī∙ā∙t pīnic ni∙o∙gun. Kānī∙o∙gunạgạtnig, cigwa tạgwicinōn. “Kägätsa pīˢtcā kā∙i∙cāyān.”</span>
 
@@ -386,11 +386,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(46) “Kāwīn,” ugī∙i∙nān: “usām ạtcina kidinänt. Kāwīn tātä∙i∙nigu‘kwāsinōn,” ugī∙i∙nān. Mīsa’ mīnawā kā∙i∙ji∙ō∙ci‘tōt; kānī∙u∙gunagạtinink, “Tạgackumā, inābin änigu‘kwāgwän mīnawā,” udinān.</span>
 
-<span class="l-fiero">**“Gaawiin,” ogii-inaan: “onzaam achina gidinend. Gaawiin daa-de-inigokwaasinoon,” ogii-inaan. Mii sa miinawaa gaa-izhi-ozhi’tood; gaa-niiyogonagadining, “Dagashkomaa, inaabin enigokwaagwen miinawaa,” odinaan.**</span>
+<span class="l-fiero">**“Gaawiin,” ogii-inaan: “onzaam achina gidinend. Gaawiin daa-de-inigokwaasinoon,” ogii-inaan. Mii sa miinawaa gaa-izhi-ozhitood; gaa-niiyogonagadining, “Dagashkomaa, inaabin enigokwaagwen miinawaa,” odinaan.**</span>
 
 <span class="l-eng">*“No,” he said to him: “too short a time have you been gone. It will not be large enough,” he said to him. And then he created some more of it; when four days were ended, “Pray, now, do you see again how large it is,” he said to him.*</span>
 
-<span class="l-gloss">Gaawiin (no) ∙ onzaam achina gidinend (too short a time you were gone) ∙ Gaawiin daa-de-inigokwaasinoon (it will not be big enough) ∙ Mii sa miinawaa gaa-izhi-ozhi’tood (so he made more of it) ∙ gaa-niiyogonagadining (when four days ended) ∙ Dagashkomaa, inaabin enigokwaagwen miinawaa, (pray, see again how big) ∙ odinaan (he said to him)</span>
+<span class="l-gloss">Gaawiin (no) ∙ onzaam achina gidinend (too short a time you were gone) ∙ Gaawiin daa-de-inigokwaasinoon (it will not be big enough) ∙ Mii sa miinawaa gaa-izhi-ozhitood (so he made more of it) ∙ gaa-niiyogonagadining (when four days ended) ∙ Dagashkomaa, inaabin enigokwaagwen miinawaa, (pray, see again how big) ∙ odinaan (he said to him)</span>
 
 <span class="l-orig">(47) Mēdạc kägä‘t kīmādcānit. Cayīgwa mīnawā kīmādcāwạn mīsa’ pābī∙ā∙t mīnawā. Ạ∙ī∙, pīnic kabäya∙ī∙ änäntinint. Cigwa tạgwicin. “Kägätsa pī‘tcā ‘iᵉi’ᵘ kā∙i∙cāyān,” ugī∙i∙nān.</span>
 
@@ -402,11 +402,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(48) Mēdạc, “Äyeᵉ, asām ạtcina kidinänt,” ugī∙i∙nān. “Nawạtcisa käyābi ka∙u∙ci‘tōmin o∙o∙ a‘ki.” Mīdạc mīnawā kā∙i∙ciuji‘tōd, nawatc tcimiˢtcānig kī∙i∙cictcigät.</span>
 
-<span class="l-fiero">**Mii dash, “Eye’, onzaam achina gidinend,” ogii-inaan. “Nawajisa geyaabi ga-ozhi’toomin o’ow aki.” Mii dash miinawaa gaa-izhi-ozhi’tood, nawaj ji-michaanig gii-izhichiged.**</span>
+<span class="l-fiero">**Mii dash, “Eye’, onzaam achina gidinend,” ogii-inaan. “Nawajisa geyaabi ga-ozhitoomin o’ow aki.” Mii dash miinawaa gaa-izhi-ozhitood, nawaj ji-michaanig gii-izhichiged.**</span>
 
 <span class="l-eng">*Thereupon, “Ay, too short a while have you been gone,” he said to him. “Larger yet will we make this earth.” Thereupon again he worked upon it, to the end that it might be larger he did his work.*</span>
 
-<span class="l-gloss">Mii dash, “Eye’, onzaam achina gidinend,” (ay, too short you were gone) ∙ Nawajisa geyaabi ga-ozhi’toomin o’ow aki (we will make this earth larger yet) ∙ Mii dash miinawaa gaa-izhi-ozhi’tood (so he worked it again) ∙ nawaj ji-michaanig gii-izhichiged (he worked it to be larger)</span>
+<span class="l-gloss">Mii dash, “Eye’, onzaam achina gidinend,” (ay, too short you were gone) ∙ Nawajisa geyaabi ga-ozhitoomin o’ow aki (we will make this earth larger yet) ∙ Mii dash miinawaa gaa-izhi-ozhitood (so he worked it again) ∙ nawaj ji-michaanig gii-izhichiged (he worked it to be larger)</span>
 
 <span class="l-orig">(49) Mīdạc kägä‘t änī∙o∙gunagạtnik mīnawā kā∙i∙cimādcānit. Mīsa’ mīnawā pābī∙ā∙t; pīnic ningukīsis änäntinint. “Mīmāwīn iᵉi’ᵘ ā‘pitäntit,” ugī∙i∙nänimān. Kāwin nạngwana i’ᵘ käyā‘pitäntisinik, ningukīsis kā∙i∙näntinint cigwa tạgwicinōn. “Kägä‘tsa ā‘pitci pī‘tcā kā∙i∙cāyān,” i‘kitōwạn.</span>
 
@@ -426,11 +426,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(51) a‘kīng,” ugī∙i∙nān. “Pitcīnạg tạbā‘ta∙ī∙no käpimādisit omāⁿ a‘kīng,” ugī∙i∙nān. Mīnawā kā∙i∙ji∙u∙ci‘tōwāt, nawạtc tcimiˢtcānig kījictcigäwāt.</span>
 
-<span class="l-fiero">**akiing,” ogii-inaan. “Bijiinag daa-baata’ino gebimaadizid omaa akiing,” ogii-inaan. Miinawaa gaa-izhi-ozhi’toowaad, nawaj ji-michaanig gii-izhichigewaad.**</span>
+<span class="l-fiero">**akiing,” ogii-inaan. “Bijiinag daa-baata’ino gebimaadizid omaa akiing,” ogii-inaan. Miinawaa gaa-izhi-ozhitoowaad, nawaj ji-michaanig gii-izhichigewaad.**</span>
 
 <span class="l-eng">*will the number be of them who shall live here on earth,” he said to him. “In time many will they be who shall live here on earth,” he said to him. When they had created more of it, it was to the end that it might be larger that they worked.*</span>
 
-<span class="l-gloss">akiing (on earth) ∙ ogii-inaan (he said) ∙ Bijiinag daa-baata’ino gebimaadizid omaa akiing (in time many will live here on earth) ∙ ogii-inaan (he said to him) ∙ Miinawaa gaa-izhi-ozhi’toowaad (when they made more of it) ∙ nawaj ji-michaanig gii-izhichigewaad (they worked it to be larger)</span>
+<span class="l-gloss">akiing (on earth) ∙ ogii-inaan (he said) ∙ Bijiinag daa-baata’ino gebimaadizid omaa akiing (in time many will live here on earth) ∙ ogii-inaan (he said to him) ∙ Miinawaa gaa-izhi-ozhitoowaad (when they made more of it) ∙ nawaj ji-michaanig gii-izhichigewaad (they worked it to be larger)</span>
 
 <span class="l-orig">(52) Mīdạc mīnawā kā∙i∙cimādcānit.</span>
 
@@ -450,11 +450,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(54) “Mīsa iᵘ kägā cigwa kä∙i∙nigu‘kwāg. Kāwīn pō‘tc ‘iᵉi’ᵘ ta∙i∙nigu‘kwāsinōn. Mīnawāsa nawatc ninga∙u∙ci‘tōn.” Mīsa’ mīnawā kā∙i∙ci∙ō∙ci‘tōt, “Ānīc mīnawā inābin,” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**“Mii sa iw gega zhigwa ge-inigokwaag. Gaawiin booch iw daa-inigokwaasinoon. Miinawaasa nawaj ninga-ozhi’ton.” Mii sa miinawaa gaa-izhi-ozhi’tood, “Aaniish miinawaa inaabin,” ogii-inaan.**</span>
+<span class="l-fiero">**“Mii sa iw gega zhigwa ge-inigokwaag. Gaawiin booch iw daa-inigokwaasinoon. Miinawaasa nawaj ninga-ozhiton.” Mii sa miinawaa gaa-izhi-ozhitood, “Aaniish miinawaa inaabin,” ogii-inaan.**</span>
 
 <span class="l-eng">*“Therefore it is now almost as large as it will be. It is not yet so large as it should be. Again will I make it larger.” And when he had made some more of it, “Now again do you look,” he said to him.*</span>
 
-<span class="l-gloss">Mii sa iw gega zhigwa ge-inigokwaag (it is now almost as big as it will be) ∙ Gaawiin booch iw daa-inigokwaasinoon (it is not yet big enough) ∙ Miinawaasa nawaj ninga-ozhi’ton (again I will make it larger) ∙ Mii sa miinawaa gaa-izhi-ozhi’tood (so he made more of it) ∙ Aaniish miinawaa inaabin (now again look) ∙ ogii-inaan (he said to him)</span>
+<span class="l-gloss">Mii sa iw gega zhigwa ge-inigokwaag (it is now almost as big as it will be) ∙ Gaawiin booch iw daa-inigokwaasinoon (it is not yet big enough) ∙ Miinawaasa nawaj ninga-ozhiton (again I will make it larger) ∙ Mii sa miinawaa gaa-izhi-ozhitood (so he made more of it) ∙ Aaniish miinawaa inaabin (now again look) ∙ ogii-inaan (he said to him)</span>
 
 <span class="l-orig">(55) Cigwa minawā kīmādcāwạn.</span>
 
@@ -482,11 +482,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(58) “Mīsa’ kägā i∙i∙ᵘ tä∙i∙nigu‘kwāg, mānū nawạtc mīnawä tcimiˢtcāg ninga∙i∙cictcigä,” ugī∙i∙nān. Mīdạc kägä‘t mīnamā kā∙i∙ji∙u∙ci‘tōt i∙i∙ᵘ a‘ki. Kānī∙u∙gunạtînik cigwa mīnawā ugạnōnān īni’ᵘ kāgāgiwạn.</span>
 
-<span class="l-fiero">**“Mii sa gega iw de-inigokwaag, manoo nawaj miinawaa ji-michaag ninga-izhichige,” ogii-inaan. Mii dash geget minamaa gaa-izhi-ozhi’tood iw aki. Gaa-niiyogonadinig zhigwa miinawaa oganoonaan iniw gaagaagiwan.**</span>
+<span class="l-fiero">**“Mii sa gega iw de-inigokwaag, manoo nawaj miinawaa ji-michaag ninga-izhichige,” ogii-inaan. Mii dash geget minamaa gaa-izhi-ozhitood iw aki. Gaa-niiyogonadinig zhigwa miinawaa oganoonaan iniw gaagaagiwan.**</span>
 
 <span class="l-eng">*“It is now almost big enough, but to the end that it yet may be larger will I make it,” he said to him. Thereupon truly more of the earth did he make. After four days were ended, he then again spoke to the Raven.*</span>
 
-<span class="l-gloss">Mii sa gega iw de-inigokwaag (it is now almost big enough) ∙ manoo nawaj miinawaa ji-michaag ninga-izhichige (but I will make it yet larger) ∙ ogii-inaan (he said to him) ∙ Mii dash geget minamaa gaa-izhi-ozhi’tood iw aki (truly he made more of the earth) ∙ Gaa-niiyogonadinig zhigwa miinawaa oganoonaan iniw gaagaagiwan (after four days he again spoke to the raven)</span>
+<span class="l-gloss">Mii sa gega iw de-inigokwaag (it is now almost big enough) ∙ manoo nawaj miinawaa ji-michaag ninga-izhichige (but I will make it yet larger) ∙ ogii-inaan (he said to him) ∙ Mii dash geget minamaa gaa-izhi-ozhitood iw aki (truly he made more of the earth) ∙ Gaa-niiyogonadinig zhigwa miinawaa oganoonaan iniw gaagaagiwan (after four days he again spoke to the raven)</span>
 
 <span class="l-orig">(59) Mīdạc kägä‘t mīnawā cigwa äcipasigwa∙u∙t ‘aᵉa’ᵘ kāgāgi. Mīsa cigwa mīnawā kī‘kīwitāsät i∙i∙ᵘ a‘ki.</span>
 
@@ -498,19 +498,19 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(60) Mīsa’ mīnawā pāpī∙ā∙t Nänabucu. Pīnic nīcuki‘kinōnuwin änäntinit; awänibạni‘ku kätagwicininit, pīnic cigwa kạbäya∙i∙ änäntinit; wī‘kā cigwa tạgwicinōn mīnawā. Mīdạc kā∙i∙nāt: “‘A, mānu nạwatc käyābi tạmiˢtcā.” Mīdạc kägä‘t mīnawā kā∙i∙ji∙ō∙ci‘tōt i∙i∙ᵘ a‘ki nī∙u∙gun, “Ānīc, tạgạckumā, mīnawā awīnābin,” ugī∙i∙nān īni’ᵘ kāgāgiwạn. Cayīgwa mīnawā pābī∙ā∙t, mīsa’ kā∙i∙ci∙ā∙‘pitäntinit. Ānupābī∙ā∙t.</span>
 
-<span class="l-fiero">**Mii sa miinawaa baabii’aad Nenabozho. Biinish niizho-gikinoonowin enendinid; aweniban igo gaa-dagwishininid, biinish zhigwa gabeya’ii enendinid; wiika zhigwa dagwishinon miinawaa. Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-michaa.” Mii dash geget miinawaa gaa-izhi-ozhi’tood iw aki niiyogon, “Aaniish, dagashkomaa, miinawaa awi-inaabin,” ogii-inaan iniw gaagaagiwan. Zhayiigwa miinawaa baabii’aad, mii sa gaa-izhi-aapitendinid. Anobaabii’aad.**</span>
+<span class="l-fiero">**Mii sa miinawaa baabii’aad Nenabozho. Biinish niizho-gikinoonowin enendinid; aweniban igo gaa-dagwishininid, biinish zhigwa gabeya’ii enendinid; wiika zhigwa dagwishinon miinawaa. Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-michaa.” Mii dash geget miinawaa gaa-izhi-ozhitood iw aki niiyogon, “Aaniish, dagashkomaa, miinawaa awi-inaabin,” ogii-inaan iniw gaagaagiwan. Zhayiigwa miinawaa baabii’aad, mii sa gaa-izhi-aapitendinid. Anobaabii’aad.**</span>
 
 <span class="l-eng">*Thereupon again for him did Nänabushu wait. For as long as two cycles of the seasons was (the Raven) gone; as time went on, there was no sight of him coming back, continuing so till he had been gone a long while; a long time afterwards he came back again. And this was what he said to him: “Well, let it be still larger.” Thereupon truly, after he had been creating it for four days more, “Well, now, this time, again go you and see,” he said to the Raven. Again he waited for him, but this time he was gone forever. In vain he waited for him.*</span>
 
-<span class="l-gloss">Mii sa miinawaa baabii’aad Nenabozho (so again Nänabushu waited) ∙ Biinish niizho-gikinoonowin enendinid (for two years he was gone) ∙ aweniban igo gaa-dagwishininid (with no sight of his return) ∙ biinish zhigwa gabeya’ii enendinid (gone a long while) ∙ wiika zhigwa dagwishinon miinawaa (long afterward he came back) ∙ Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-michaa.” (then he said: well, let it be larger) ∙ Mii dash geget miinawaa gaa-izhi-ozhi’tood iw aki niiyogon (truly he made the earth four days more) ∙ Aaniish, dagashkomaa, miinawaa awi-inaabin, (well, now, go again and see) ∙ ogii-inaan iniw gaagaagiwan (he said to the raven) ∙ Zhayiigwa miinawaa baabii’aad (again he waited) ∙ mii sa gaa-izhi-aapitendinid (but he was gone forever) ∙ Anobaabii’aad (in vain he waited)</span>
+<span class="l-gloss">Mii sa miinawaa baabii’aad Nenabozho (so again Nänabushu waited) ∙ Biinish niizho-gikinoonowin enendinid (for two years he was gone) ∙ aweniban igo gaa-dagwishininid (with no sight of his return) ∙ biinish zhigwa gabeya’ii enendinid (gone a long while) ∙ wiika zhigwa dagwishinon miinawaa (long afterward he came back) ∙ Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-michaa.” (then he said: well, let it be larger) ∙ Mii dash geget miinawaa gaa-izhi-ozhitood iw aki niiyogon (truly he made the earth four days more) ∙ Aaniish, dagashkomaa, miinawaa awi-inaabin, (well, now, go again and see) ∙ ogii-inaan iniw gaagaagiwan (he said to the raven) ∙ Zhayiigwa miinawaa baabii’aad (again he waited) ∙ mii sa gaa-izhi-aapitendinid (but he was gone forever) ∙ Anobaabii’aad (in vain he waited)</span>
 
 <span class="l-orig">(61) “Mīsa ‘iᵉi’ᵘ intawā kä∙i∙nigu‘kwāg o a‘ki,” ugī∙i∙nāᵉ. Mīdạc, “Mīmāwīn tciwäbā∙a∙ngibạn,” kī∙i∙‘kitō. “Intawā tcigusigunk ninga∙a∙ci‘tōn wī‘kā tcibītcimi‘kāsunu‘k.”¹</span>
 
-<span class="l-fiero">**“Mii sa iw indawaa ge-inigokwaag o aki,” ogii-inaag. Mii dash, “Miimawin ji-webaa’angiban,” gii-ikido. “Indawaa ji-goozigwang ninga-izhi’ton wiika ji-bichi-mikaazonok.”**</span>
+<span class="l-fiero">**“Mii sa iw indawaa ge-inigokwaag o aki,” ogii-inaag. Mii dash, “Miimawin ji-webaa’angiban,” gii-ikido. “Indawaa ji-goozigwang ninga-izhiton wiika ji-bichi-mikaazonok.”**</span>
 
 <span class="l-eng">*“That then, no doubt, will be the extent of this earth,” he said to the (animal-folk). And now, “(I) fear that this will float away,” he said. “Therefore in order that it may be heavy will I make it so that it shall never be moved.”*</span>
 
-<span class="l-gloss">Mii sa iw indawaa ge-inigokwaag o aki (that then will be the size of this earth) ∙ ogii-inaag (he said to them) ∙ Miimawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhi’ton (so I will make it heavy) ∙ wiika ji-bichi-mikaazonok (so that it shall never be moved)</span>
+<span class="l-gloss">Mii sa iw indawaa ge-inigokwaag o aki (that then will be the size of this earth) ∙ ogii-inaag (he said to them) ∙ Miimawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhiton (so I will make it heavy) ∙ wiika ji-bichi-mikaazonok (so that it shall never be moved)</span>
 
 *¹ Unfortunately the ending is incomplete. — Jones’s own footnote, printed at the foot of p.158 (the first of two notes there; the second belongs to No. 19). The marker ¹ prints at the very end of the Ojibwe text (p.158) and again on the English (p.159, ‘…shall never be moved.¹’).*
 

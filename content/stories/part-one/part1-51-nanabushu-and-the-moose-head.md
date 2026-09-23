@@ -34,11 +34,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(3) ‘Ā, mīgwanaᵉ uctigwāning!</span>
 
-<span class="l-fiero">**Aa, miigwana’ oshtigwaaning!**</span>
+<span class="l-fiero">**Aa, miigwanan oshtigwaaning!**</span>
 
 <span class="l-eng">*Ah, the feathers upon his head!*</span>
 
-<span class="l-gloss">Aa (ah), miigwana’ (the feathers) oshtigwaaning (upon his head)!</span>
+<span class="l-gloss">Aa (ah), miigwanan (the feathers) oshtigwaaning (upon his head)!</span>
 
 <span class="l-orig">(4) Nänabuju ogạnōnān: “‘Ā, nīdci, ānīndi äjāyạn?”</span>
 
@@ -290,11 +290,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(35) Mēdạc äjiwâbạmād wawâbigạnōdcīyaᵉ pīndigänit imāⁿ mons ustigwānig.</span>
 
-<span class="l-fiero">**Mii dash ezhi-waabamaad waawaabiganoojiiya’ biindigenid imaan mooz oshtigwaaning.**</span>
+<span class="l-fiero">**Mii dash ezhi-waabamaad waawaabiganoojiiyan biindigenid imaan mooz oshtigwaaning.**</span>
 
 <span class="l-eng">*Thereupon he saw some mice (2) go into the head of the moose.*</span>
 
-<span class="l-gloss">Mii dash ezhi-waabamaad waawaabiganoojiiya’ (then he saw mice) biindigenid imaan mooz oshtigwaaning (going into there, the moose’s head).</span>
+<span class="l-gloss">Mii dash ezhi-waabamaad waawaabiganoojiiyan (then he saw mice) biindigenid imaan mooz oshtigwaaning (going into there, the moose’s head).</span>
 
 <span class="l-orig">(36) Owâbạndạn pạngī a‘tänig winindîp.</span>
 
@@ -306,11 +306,11 @@ Nanabushu and the Moose-Head
 
 <span class="l-orig">(37) “A‘pägic mīdciyān!” inändạm mīdạc äjikạnōnāt wawâbigạnōdciyaᵉ: “Kitāgạckitō nāwāna gayä nīn ī∙i’∙ᵘ tcī∙i∙niginiyān äyāniginiyäg?”</span>
 
-<span class="l-fiero">**“Apegish miijiyaan!” inendam mii dash ezhi-ganoonaad waawaabiganoojiiya’: “Gidaa-gashkitoonaawaa na gaye niin i’iw ji-iniginiyaan eyaniginiyeg?”**</span>
+<span class="l-fiero">**“Apegish miijiyaan!” inendam mii dash ezhi-ganoonaad waawaabiganoojiiyan: “Gidaa-gashkitoonaawaa na gaye niin i’iw ji-iniginiyaan eyaniginiyeg?”**</span>
 
 <span class="l-eng">*“Would that I might eat it !” he thought. Thereupon he spoke to the mice, saying : “ Could you bring it about so that I might be of the same size as you ?”*</span>
 
-<span class="l-gloss">“Apegish miijiyaan (would that I might eat it)!” inendam (he thought) mii dash ezhi-ganoonaad waawaabiganoojiiya’ (and so he spoke to the mice): “Gidaa-gashkitoonaawaa na (could you bring it about) gaye niin i’iw ji-iniginiyaan (that I too might be the size) eyaniginiyeg (that you are)?”</span>
+<span class="l-gloss">“Apegish miijiyaan (would that I might eat it)!” inendam (he thought) mii dash ezhi-ganoonaad waawaabiganoojiiyan (and so he spoke to the mice): “Gidaa-gashkitoonaawaa na (could you bring it about) gaye niin i’iw ji-iniginiyaan (that I too might be the size) eyaniginiyeg (that you are)?”</span>
 
 <span class="l-orig">(38) “Ā, kāwīn!” udigōn.</span>
 

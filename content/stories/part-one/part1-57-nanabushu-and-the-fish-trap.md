@@ -58,11 +58,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(6) Mīdec Nänabucu änändạnk: “Ictä mītạgic kā∙i∙ci‘pạn nō‘komis tcipīntcibōnāgạni‘käyān.</span>
 
-<span class="l-fiero">**Mii dash Nenabozho enendang: “Ishte, miidagish gaa-izhi’ipan nookomis ji-biinjibonaagani’keyaan.**</span>
+<span class="l-fiero">**Mii dash Nenabozho enendang: “Ishte, miidagish gaa-izhi’ipan nookomis ji-biinjibonaaganikeyaan.**</span>
 
 <span class="l-eng">*Thereupon Nänabushu thought: “Quite so, that is what my grandmother had told me, that I should go to catch fish with the fish-trap.*</span>
 
-<span class="l-gloss">Mii dash Nenabozho enendang (thereupon Nenabozho thought): “Ishte, miidagish (quite so, that’s just it — flagged), gaa-izhi’ipan nookomis (that’s what my grandmother had once told me — flagged construction), ji-biinjibonaagani’keyaan (that I should go fish-trapping — flagged).</span>
+<span class="l-gloss">Mii dash Nenabozho enendang (thereupon Nenabozho thought): “Ishte, miidagish (quite so, that’s just it — flagged), gaa-izhi’ipan nookomis (that’s what my grandmother had once told me — flagged construction), ji-biinjibonaaganikeyaan (that I should go fish-trapping — flagged).</span>
 
 <span class="l-orig">(7) Māgicā nō‘kumis aiyä‘kusitug pạnä wīyās mīdcît,” inändạm Nänabucō.</span>
 
@@ -74,11 +74,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(8) “Kīⁿgōⁿyạndạc kạnạbạtc uwī∙ạ∙mwān,” inändạm. Mīdạc änāt: “Nō‘kumis, kā∙i∙ciyạmbạnidạc undcipīndcibōnāgạni‘käyān?”</span>
 
-<span class="l-fiero">**“Giigoonyan dash ganabaj owii-amwaan,” inendam. Mii dash enaad: “Nookomis, gaa-izhi-amban idash onji-biinjibonaagani’keyaan?”**</span>
+<span class="l-fiero">**“Giigoonyan dash ganabaj owii-amwaan,” inendam. Mii dash enaad: “Nookomis, gaa-izhi-amban idash onji-biinjibonaaganikeyaan?”**</span>
 
 <span class="l-eng">*“Now, fish she probably wants to eat,” he thought. Thereupon he said to her: “My grandmother, (you remember) what you told me about catching fish with a fish-trap?”*</span>
 
-<span class="l-gloss">“Giigoonyan dash ganabaj owii-amwaan (fish, probably, she wants to eat — flagged),” inendam (he thought). Mii dash enaad (thereupon he said to her): “Nookomis, gaa-izhi-amban idash (my grandmother, what you had once told me — flagged), onji-biinjibonaagani’keyaan (about my going fish-trapping — flagged)?”</span>
+<span class="l-gloss">“Giigoonyan dash ganabaj owii-amwaan (fish, probably, she wants to eat — flagged),” inendam (he thought). Mii dash enaad (thereupon he said to her): “Nookomis, gaa-izhi-amban idash (my grandmother, what you had once told me — flagged), onji-biinjibonaaganikeyaan (about my going fish-trapping — flagged)?”</span>
 
 <span class="l-orig">(9) “Äyäᵉ,” i‘kitu mindimōyä.</span>
 
@@ -90,19 +90,19 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(10) “Imāguta bāwi‘tigunk mīimāa‘ku pīndcibōnāwā‘pạn kīⁿgōⁿyaᵉ kicicäyabạnīg,” udinān.</span>
 
-<span class="l-fiero">**“Imaagoda baawitigong miimaago biinjibonaawaapan giigoonya’ gizhisheyabaniig,” odinaan.**</span>
+<span class="l-fiero">**“Imaagoda baawitigong miimaago biinjibonaawaapan giigoonyan gizhisheyabaniig,” odinaan.**</span>
 
 <span class="l-eng">*“It was at yonder rapids where your uncles of old used to fish with a fish-trap,” she said to him.*</span>
 
-<span class="l-gloss">“Imaagoda baawitigong (right there at the rapids — flagged), miimaago (that’s just the place — flagged), biinjibonaawaapan (they used to fish-trap — flagged), giigoonya’ (fish), gizhisheyabaniig (your uncles of old),” odinaan (she said to him).</span>
+<span class="l-gloss">“Imaagoda baawitigong (right there at the rapids — flagged), miimaago (that’s just the place — flagged), biinjibonaawaapan (they used to fish-trap — flagged), giigoonyan (fish), gizhisheyabaniig (your uncles of old),” odinaan (she said to him).</span>
 
 <span class="l-orig">(11) “Ki‘tcinänībiwa, kînīni‘ku, unisāwâbạnīn kīⁿgōⁿyaᵉ,” udigōn ō‘kumisạn.</span>
 
-<span class="l-fiero">**“Gichi-nenibiwa, giininigo, onisaawaabaniin giigoonya’,” odigoon ookomisan.**</span>
+<span class="l-fiero">**“Gichi-nenibiwa, giininigo, onisaawaabaniin giigoonyan,” odigoon ookomisan.**</span>
 
 <span class="l-eng">*“Oh, great indeed was the number of fishes they used to kill,” he was told by his grandmother.*</span>
 
-<span class="l-gloss">“Gichi-nenibiwa (oh, greatly numerous — flagged), giininigo (indeed — flagged, uncertain particle), onisaawaabaniin giigoonya’ (fish they used to kill), odigoon ookomisan (he was told by his grandmother).</span>
+<span class="l-gloss">“Gichi-nenibiwa (oh, greatly numerous — flagged), giininigo (indeed — flagged, uncertain particle), onisaawaabaniin giigoonyan (fish they used to kill), odigoon ookomisan (he was told by his grandmother).</span>
 
 <span class="l-orig">(12) Mīdec kägä‘t Nänabucō mādci‘tād uji∙ā∙t pīndcibōnāgạnạn, kiˢtcimi‘tigōn udayāwatcinigānān, wâsa kayä udōndāwạnān, wīsōngi‘tōd upīndcibōnāgạnan. Mīdạc kā‘kīci∙ā∙t wīndạmawāt ō‘kumisạn, mīdạc änāt: “Mī, nō‘kumis, kī‘kīci∙a∙g pīndcibōnāgạn, mīdạc kīⁿgōⁿ tci∙ạ∙mwat,” udinān ō‘kumisạn.</span>
 
@@ -178,11 +178,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(21) Mīdạc Nänabucō wäwīp nawạtcipināt ugīⁿkōⁿyaᵉ, mādcība‘tōd; kā∙a∙niwawajacācākucingigo Nänabucu.</span>
 
-<span class="l-fiero">**Mii dash Nenabozho wewiib nawajibinaad ogiigoonya’, maajiibatood; gaa-ani-wawazhazhaazhaagozhingigo* Nenabozho.**</span>
+<span class="l-fiero">**Mii dash Nenabozho wewiib nawajibinaad ogiigoonyan, maajiibatood; gaa-ani-wawazhazhaazhaagozhingigo* Nenabozho.**</span>
 
 <span class="l-eng">*Thereupon Nänabushu quickly gathered up his fishes, (and) started running; (and) on the way Nänabushu went slipping on the logs and knocking off the bark.*</span>
 
-<span class="l-gloss">mii dash (thereupon), Nenabozho (Nänabushu), wewiib (quickly), nawajibinaad (he gathered them up), ogiigoonya’ (his fish), maajiibatood (he started off running), gaa-ani-wawazhazhaazhaagozhingigo (along the way he went slipping on the logs and knocking the bark off — *stem flagged*), Nenabozho (Nänabushu).</span>
+<span class="l-gloss">mii dash (thereupon), Nenabozho (Nänabushu), wewiib (quickly), nawajibinaad (he gathered them up), ogiigoonyan (his fish), maajiibatood (he started off running), gaa-ani-wawazhazhaazhaagozhingigo (along the way he went slipping on the logs and knocking the bark off — *stem flagged*), Nenabozho (Nänabushu).</span>
 
 <span class="l-orig">(22) Kīwäba‘tōd i‘kitut dạc änitạgwicing: “Nō‘kumididä, awiya ninnōndawā!”</span>
 
@@ -234,11 +234,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(28) Mīdạc kägä‘t Nänabucu utā‘pināt kīⁿgōⁿyaᵉ, pạginat ānīndi ina‘kakäyā kā‘tạni‘tạng.</span>
 
-<span class="l-fiero">**Mii dash geget Nenabozho odaapinaad giigoonya’, baginad aaniindi inakakeyaa gaa-tanitang.**</span>
+<span class="l-fiero">**Mii dash geget Nenabozho odaapinaad giigoonyan, baginad aaniindi inakakeyaa gaa-tanitang.**</span>
 
 <span class="l-eng">*Thereupon truly Nänabushu took the fishes, (and) threw part of them towards the place where he had heard the sound.*</span>
 
-<span class="l-gloss">mii dash (thereupon), geget (truly), Nenabozho (Nänabushu), odaapinaad (he took them), giigoonya’ (the fish), baginad (he threw them; flagged), aaniindi (towards where), inakakeyaa (in that direction), gaa-tanitang (where he had heard it; flagged).</span>
+<span class="l-gloss">mii dash (thereupon), geget (truly), Nenabozho (Nänabushu), odaapinaad (he took them), giigoonyan (the fish), baginad (he threw them; flagged), aaniindi (towards where), inakakeyaa (in that direction), gaa-tanitang (where he had heard it; flagged).</span>
 
 <span class="l-orig">(29) Mīdạc minawā weyābạninig Nänabucu nāndcipīndcibōbāgạnät, mī mīnawā awiya kīnōndawāt nōdāgusinit. Mīdạc kā∙i∙cipạgināt kīⁿgōⁿyạn ändạni‘tạng, mi‘kwändạnk ō‘kumisạn kā∙i∙gut pîtcīnāgō.</span>
 
@@ -314,11 +314,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(38) Nībiwa ā‘pitci onisān kīⁿgōⁿyaᵉ.</span>
 
-<span class="l-fiero">**Niibiwa aapiji onisaan giigoonya’.**</span>
+<span class="l-fiero">**Niibiwa aapiji onisaan giigoonyan.**</span>
 
 <span class="l-eng">*Many indeed were the fishes he slew.*</span>
 
-<span class="l-gloss">Niibiwa (many) aapiji (indeed) onisaan (he killed them) giigoonya’ (fish).</span>
+<span class="l-gloss">Niibiwa (many) aapiji (indeed) onisaan (he killed them) giigoonyan (fish).</span>
 
 <span class="l-orig">(39) Kayä wīndạc mindimōyä aninạmä‘tä‘ku‘kä; wīngä omōckina‘tōn ändawāt pindik; ạgwāwät kayä ạgwatcing; täsā‘kwa∙i∙gạnạn uwīngä mạmōckinäniwạn mini‘k näsāwät kīⁿgōⁿyạn.</span>
 
@@ -338,11 +338,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(41) Nänabucu nawạtcipināt kīⁿgōⁿyaᵉ, minawā ạniwucācākucing.</span>
 
-<span class="l-fiero">**Nenabozho nawajibinaad giigoonya’, minawaa aniwozhaazhaagozhing.**</span>
+<span class="l-fiero">**Nenabozho nawajibinaad giigoonyan, minawaa aniwozhaazhaagozhing.**</span>
 
 <span class="l-eng">*As Nänabushu fetched more fish, he again went slipping over the logs along his course.*</span>
 
-<span class="l-gloss">Nenabozho (Nenabozho) nawajibinaad (as he fetched more of them) giigoonya’ (fish), minawaa (again) aniwozhaazhaagozhing (he went slipping along — reading uncertain, see flag).</span>
+<span class="l-gloss">Nenabozho (Nenabozho) nawajibinaad (as he fetched more of them) giigoonyan (fish), minawaa (again) aniwozhaazhaagozhing (he went slipping along — reading uncertain, see flag).</span>
 
 <span class="l-orig">(42) Mīdac mīnawā ạni∙i∙nāt ō‘kumisạn: “Nō‘kumididē, awiya ninōndawā!”</span>
 
@@ -394,11 +394,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(48) Acạm,” udinān. Mīdạc kägät Nänabucu ạninawatināt kīⁿgōⁿyaᵉ; pä‘kic nạnīngickāt sägisit.</span>
 
-<span class="l-fiero">**“Asham,” odinaan. Mii dash geget Nenabozho ani-nawadinaad giigoonya’; bekish naningizhkaad zegizid.**</span>
+<span class="l-fiero">**“Asham,” odinaan. Mii dash geget Nenabozho ani-nawadinaad giigoonyan; bekish naningizhkaad zegizid.**</span>
 
 <span class="l-eng">*Give it food,” she said to him. And then truly Nänabushu took up some fish; at the same time he was trembling with fear.*</span>
 
-<span class="l-gloss">Asham (feed it!), odinaan (she said to him), mii dash (and then), geget (truly), Nenabozho (Nänabushu) ani-nawadinaad (went along and took up) giigoonya’ (some fish); bekish (at the same time) naningizhkaad (trembling — uncertain, see flag) zegizid (being afraid).</span>
+<span class="l-gloss">Asham (feed it!), odinaan (she said to him), mii dash (and then), geget (truly), Nenabozho (Nänabushu) ani-nawadinaad (went along and took up) giigoonyan (some fish); bekish (at the same time) naningizhkaad (trembling — uncertain, see flag) zegizid (being afraid).</span>
 
 <span class="l-orig">(49) Mīdạc iwiti äjipạgināt kā‘tạni‘tạnk, “Owä, nimicōmis!”</span>
 
@@ -434,11 +434,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(53) Mī mīnawā äjinawātcipināt ugīⁿgōⁿ∙i∙maᵉ.</span>
 
-<span class="l-fiero">**Mii miinawaa ezhi-nawajibinaad ogiigoonhima’.**</span>
+<span class="l-fiero">**Mii miinawaa ezhi-nawajibinaad ogiigoonhiman.**</span>
 
 <span class="l-eng">*Thereupon again more were the fish he fetched.*</span>
 
-<span class="l-gloss">Mii (so), miinawaa (again), ezhi-nawajibinaad (as he fetched more of them — uncertain, see flag), ogiigoonhima’ (his fish — possessive form uncertain, see flag).</span>
+<span class="l-gloss">Mii (so), miinawaa (again), ezhi-nawajibinaad (as he fetched more of them — uncertain, see flag), ogiigoonhiman (his fish — possessive form uncertain, see flag).</span>
 
 <span class="l-orig">(54) Mādcība‘tōd mīnawā ạni∙i∙nāt ō‘kumisạn: “Nō‘kumididē!</span>
 
@@ -530,11 +530,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(65) wäwīp nawatcipināt ugīⁿgōⁿ∙i∙maᵉ. Kīwäba‘tōd ināt ō‘kumisạn: “Nō‘kumididē!</span>
 
-<span class="l-fiero">**Wewiib nawajibinaad ogiigoonhima’. Giiwebatood inaad ookomisan: “Nookomidide!**</span>
+<span class="l-fiero">**Wewiib nawajibinaad ogiigoonhiman. Giiwebatood inaad ookomisan: “Nookomidide!**</span>
 
 <span class="l-eng">*speedily more of his fish he fetched. Coming home on the run, he said to his grandmother: “O my grandmother!*</span>
 
-<span class="l-gloss">Wewiib (quickly) nawajibinaad (he fetched more of them) ogiigoonhima’ (his fish). Giiwebatood (running home) inaad (he said to her) ookomisan (his grandmother): “Nookomidide (O my grandmother; spelling standardized across the story)!</span>
+<span class="l-gloss">Wewiib (quickly) nawajibinaad (he fetched more of them) ogiigoonhiman (his fish). Giiwebatood (running home) inaad (he said to her) ookomisan (his grandmother): “Nookomidide (O my grandmother; spelling standardized across the story)!</span>
 
 <span class="l-orig">(66) awiya nin nōndawā, mạnidō!”</span>
 
@@ -618,11 +618,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(76) “Mānū, gägu pạbāmänimā‘kạn!”</span>
 
-<span class="l-fiero">**“Maanoo, gego babaamenimaa’kan!”**</span>
+<span class="l-fiero">**“Maanoo, gego babaamenimaakan!”**</span>
 
 <span class="l-eng">*“Never mind, don’t bother about them!”*</span>
 
-<span class="l-gloss">maanoo (never mind), gego (don’t), babaamenimaa’kan (bother about them)</span>
+<span class="l-gloss">maanoo (never mind), gego (don’t), babaamenimaakan (bother about them)</span>
 
 <span class="l-orig">(77) Minawā mindimōyä i‘kitō: “Nōjis! ningackipitāgạn nindōnī‘känạn.”</span>
 

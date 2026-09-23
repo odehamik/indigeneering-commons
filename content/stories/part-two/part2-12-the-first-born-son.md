@@ -28,11 +28,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(2) Midā‘tciwạn ugwiwisạn, udānisaᵉ gayä midā‘tcîwaᵉ.</span>
 
-<span class="l-fiero">**Midaachiwan ogwisan, odaanisa’ gaye midaachiwa’.**</span>
+<span class="l-fiero">**Midaachiwan ogwisan, odaanisan gaye midaachiwan.**</span>
 
 <span class="l-eng">*Ten was the number of his sons, and his daughters were also ten.*</span>
 
-<span class="l-gloss">Midaachiwan ogwisan (ten in number were his sons), odaanisa’ gaye midaachiwa’ (and his daughters were also ten).</span>
+<span class="l-gloss">Midaachiwan ogwisan (ten in number were his sons), odaanisan gaye midaachiwan (and his daughters were also ten).</span>
 
 <span class="l-orig">(3) Mī∙i∙dec ä‘kidōwād īg∙i∙´u uskinawäg:</span>
 
@@ -60,11 +60,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(6) Mēdạc gägä‘t kī∙a∙‘pạgidināt ogwisîsaᵉ; mē∙i∙dạc kīmādcāwād.</span>
 
-<span class="l-fiero">**Mii dash geget gii-a-bagidinaad ogwisisa’; mii idash gii-maajaawaad.**</span>
+<span class="l-fiero">**Mii dash geget gii-a-bagidinaad ogwisisan; mii idash gii-maajaawaad.**</span>
 
 <span class="l-eng">*And so, in truth, he let his sons depart; whereupon they started away.*</span>
 
-<span class="l-gloss">Mii dash geget (and so, in truth) gii-a-bagidinaad ogwisisa’ (he let his sons depart); mii idash gii-maajaawaad (whereupon they started away).</span>
+<span class="l-gloss">Mii dash geget (and so, in truth) gii-a-bagidinaad ogwisisan (he let his sons depart); mii idash gii-maajaawaad (whereupon they started away).</span>
 
 <span class="l-orig">(7) A‘pī∙i∙dạc kā∙o∙di‘tạmowād kädāwād mī∙i∙´ᵘ kī∙o∙ji‘tōwād wigîwām.</span>
 
@@ -108,11 +108,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(12) Wäwäni kīnạnā∙i∙tcigādäni pīndig; i´‘kwä äjinạmä‘tōd; dcībā‘kwān kayä a´‘täni; wäwäni gayä kī∙a∙‘picimōnigä cingub∙ī∙isa´; kayädạc mî´sạn a‘täniwạn ạgwạdcing.</span>
 
-<span class="l-fiero">**Weweni gii-nanaa’ichigaadeni biindig; ikwe ezhi-nametood; jiibaakwaan gaye ateni; weweni gaye gii-apishimoonike zhingobiinsa’; gaye dash misan ateniwan* agwajiing.**</span>
+<span class="l-fiero">**Weweni gii-nanaa’ichigaadeni biindig; ikwe ezhi-nametood; jiibaakwaan gaye ateni; weweni gaye gii-apishimoonike zhingobiinsa’; gaye dash misan ateniwan agwajiing.**</span>
 
 <span class="l-eng">*Nice was the arrangement (of things) inside; it was like the work of a woman; and some cooking had been done; and carefully arranged were the balsam-boughs at the sleeping-places; and there was also some fire-wood outside.*</span>
 
-<span class="l-gloss">Weweni gii-nanaa’ichigaadeni biindig (nicely arranged was it inside); ikwe ezhi-nametood (it was like the work of a woman); jiibaakwaan gaye ateni (and some cooking had been done); weweni gaye gii-apishimoonike zhingobiinsa’ (and carefully laid were the balsam-boughs for sleeping); gaye dash misan ateniwan* agwajiing (and there was also firewood outside).</span>
+<span class="l-gloss">Weweni gii-nanaa’ichigaadeni biindig (nicely arranged was it inside); ikwe ezhi-nametood (it was like the work of a woman); jiibaakwaan gaye ateni (and some cooking had been done); weweni gaye gii-apishimoonike zhingobiinsa’ (and carefully laid were the balsam-boughs for sleeping); gaye dash misan ateniwan agwajiing (and there was also firewood outside).</span>
 
 <span class="l-orig">(13) Mī∙i∙dạc ä‘kîdot zäzī‘kisit mạdcī‘kiwis:</span>
 
@@ -196,11 +196,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(23) A‘pī∙i∙dạc ka‘kina kāmādcānit usayäyaᵉ mī∙i∙´ᵘ kī∙u∙disigut i‘kwäwạn; kägä‘t sạzägā∙i∙‘kwāwan.</span>
 
-<span class="l-fiero">**Apii dash gakina gaa-maajaanid osayeya’ mii iw gii-odisigod ikwewan; geget zazegaa-ikwewan.**</span>
+<span class="l-fiero">**Apii dash gakina gaa-maajaanid osayeyan mii iw gii-odisigod ikwewan; geget zazegaa-ikwewan.**</span>
 
 <span class="l-eng">*And when all his elder brothers had gone away, then was he visited by a woman; indeed, she was a beautiful woman.*</span>
 
-<span class="l-gloss">Apii dash gakina gaa-maajaanid osayeya’ (and when all his elder brothers had gone) mii iw gii-odisigod ikwewan (then was he visited by a woman); geget zazegaa-ikwewan (indeed a beautiful woman).</span>
+<span class="l-gloss">Apii dash gakina gaa-maajaanid osayeyan (and when all his elder brothers had gone) mii iw gii-odisigod ikwewan (then was he visited by a woman); geget zazegaa-ikwewan (indeed a beautiful woman).</span>
 
 <span class="l-orig">(24) Mī∙i∙dạc kī‘pi∙u∙nābī‘tāgut wīdigämigut.</span>
 
@@ -252,11 +252,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(30) Nīngudingidạc kigicäb änimādcāwād a‘pīkā∙ạ∙nipa‘kät ‘aᵉaᵘ mạdcī‘kiwis; kīnibawi mägwä cingup kāwâbạmād ka‘kina kāpimosänit wītcikiwäⁿyaᵉ; mī∙i∙´ᵘ kī‘kīwäd.</span>
 
-<span class="l-fiero">**Ningoding idash gigizheb eni-maajaawaad apii gaa-ani-baked a’aw majiikiwis; gii-nibaawi megwe-zhingob gaa-waabamaad gakina gaa-bimosenid wiijikiwenya’; mii iw gii-giiwed.**</span>
+<span class="l-fiero">**Ningoding idash gigizheb eni-maajaawaad apii gaa-ani-baked a’aw majiikiwis; gii-nibaawi megwe-zhingob gaa-waabamaad gakina gaa-bimosenid wiijikiwenyan; mii iw gii-giiwed.**</span>
 
 <span class="l-eng">*Now, one morning they were setting out one after another, when the first-born had left to go his way; he stood among some balsams, watching all his brothers as they went walking past; and then he went back home.*</span>
 
-<span class="l-gloss">Ningoding idash gigizheb (now one morning) eni-maajaawaad (as they were setting out) apii gaa-ani-baked a’aw majiikiwis (when the first-born had branched off to go his way); gii-nibaawi megwe-zhingob (he stood among the balsams) gaa-waabamaad gakina gaa-bimosenid wiijikiwenya’ (watching all his brothers as they walked past); mii iw gii-giiwed (and then he went back home).</span>
+<span class="l-gloss">Ningoding idash gigizheb (now one morning) eni-maajaawaad (as they were setting out) apii gaa-ani-baked a’aw majiikiwis (when the first-born had branched off to go his way); gii-nibaawi megwe-zhingob (he stood among the balsams) gaa-waabamaad gakina gaa-bimosenid wiijikiwenyan (watching all his brothers as they walked past); mii iw gii-giiwed (and then he went back home).</span>
 
 <span class="l-orig">(31) Mīdạc kī‘kasut pä´co wīgiwāming.</span>
 
@@ -444,11 +444,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(54) Kīmōdcidạc ogīwindạmawāᵉ wītci‘kiⁿwäⁿyaᵉ:</span>
 
-<span class="l-fiero">**Giimooj idash ogii-wiindamawaa’ wiijikiwenya’:**</span>
+<span class="l-fiero">**Giimooj idash ogii-wiindamawaan wiijikiwenyan:**</span>
 
 <span class="l-eng">*Thereupon secretly he informed all his brothers, saying:*</span>
 
-<span class="l-gloss">Giimooj idash ogii-wiindamawaa’ wiijikiwenya’ (thereupon secretly he informed his brothers):</span>
+<span class="l-gloss">Giimooj idash ogii-wiindamawaan wiijikiwenyan (thereupon secretly he informed his brothers):</span>
 
 <span class="l-orig">(55) “Mēguca´ aᵘ kîsayänān kā‘pîmwād.”</span>
 
@@ -556,11 +556,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(68) Mēdạc mīnawā kīmādcād, mēdạcigu iᵘ kâ‘tōdạng kạbägījîk, mi‘tigōᵉ gagwädcimād.</span>
 
-<span class="l-fiero">**Mii dash miinawaa gii-maajaad, mii dash igo iw gaa-doodang gabe-giizhig, mitigoo’ gagwejimaad.**</span>
+<span class="l-fiero">**Mii dash miinawaa gii-maajaad, mii dash igo iw gaa-doodang gabe-giizhig, mitigoon gagwejimaad.**</span>
 
 <span class="l-eng">*And so once more he started on. And now that was what he did all day long, of the trees he made inquiry.*</span>
 
-<span class="l-gloss">Mii dash miinawaa gii-maajaad (and so once more he started on), mii dash igo iw gaa-doodang gabe-giizhig (and that was what he did all day long), mitigoo’ gagwejimaad (of the trees he made inquiry).</span>
+<span class="l-gloss">Mii dash miinawaa gii-maajaad (and so once more he started on), mii dash igo iw gaa-doodang gabe-giizhig (and that was what he did all day long), mitigoon gagwejimaad (of the trees he made inquiry).</span>
 
 <span class="l-orig">(69) Nāningudinginōng āgā´wā ogitäbwābamān mēdạc nawạtc pạngī wāski‘kād.</span>
 
@@ -804,11 +804,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(99) Mīdạc mīnawā ändōdạng, kạgwädcimād mi‘tigōᵉ:</span>
 
-<span class="l-fiero">**Mii dash miinawaa endoodang, gagwejimaad mitigoo’:**</span>
+<span class="l-fiero">**Mii dash miinawaa endoodang, gagwejimaad mitigoon:**</span>
 
 <span class="l-eng">*Thereupon he did the same thing as before, he inquired of the trees:*</span>
 
-<span class="l-gloss">Mii dash miinawaa endoodang (thereupon he did the same as before), gagwejimaad mitigoo’ (he inquired of the trees):</span>
+<span class="l-gloss">Mii dash miinawaa endoodang (thereupon he did the same as before), gagwejimaad mitigoon (he inquired of the trees):</span>
 
 <span class="l-orig">(100) “Kigīwābạmāna awīya tcîpimisäd?”</span>
 
@@ -1444,11 +1444,13 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(179) Wīnimōᵉ gayä cāngạswi, wīwạn dac mī∙i∙´we midā‘tciwād; wītāᵉ gayä midā‘tciwạn.¹</span>
 
-<span class="l-fiero">**Wiinimoo’ gaye zhaangaswi, wiiwan dash mii awe midaachiwaad; wiitaa’ gaye midaachiwan.**</span>
+<span class="l-fiero">**Wiinimoon gaye zhaangaswi, wiiwan dash mii awe midaachiwaad; wiitaan gaye midaachiwan.**</span>
 
 <span class="l-eng">*His sisters-in-law were nine in number, so therefore his wives were ten; and his brothers-in-law were also ten.1*</span>
 
-<span class="l-gloss">Wiinimoo’ gaye zhaangaswi (his sisters-in-law were nine), wiiwan dash mii awe midaachiwaad (so his wives were ten); wiitaa’ gaye midaachiwan (and his brothers-in-law were also ten).</span>
+<span class="l-gloss">Wiinimoon gaye zhaangaswi (his sisters-in-law were nine), wiiwan dash mii awe midaachiwaad (so his wives were ten); wiitaan gaye midaachiwan (and his brothers-in-law were also ten).</span>
+
+*1 Meaning rather that the women might all be his wives if he wanted them.*
 
 *1 Meaning rather that the women might all be his wives if he wanted them.*
 
@@ -1822,19 +1824,19 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(226) “Mī∙o∙māⁿ ayā∙i∙yu‘k,” udināᵉ; “a‘kawäᵉ ningạdijā.”</span>
 
-<span class="l-fiero">**“Mii omaa ayaayok,” odinaa’; “akawe ningad-izhaa”.**</span>
+<span class="l-fiero">**“Mii omaa ayaayok,” odinaan; “akawe ningad-izhaa”.**</span>
 
 <span class="l-eng">*“Here in this place do you remain,” he said to them; “wait till I first go on ahead.”*</span>
 
-<span class="l-gloss">“Mii omaa ayaayok,” odinaa’ (“here in this place do you remain,” he said to them); “akawe ningad-izhaa” (wait till I first go on ahead).</span>
+<span class="l-gloss">“Mii omaa ayaayok,” odinaan (“here in this place do you remain,” he said to them); “akawe ningad-izhaa” (wait till I first go on ahead).</span>
 
 <span class="l-orig">(227) Mī∙i∙dạc ani∙i∙jād, ạnōdc awäsīyaᵉ pimi‘kawäwaᵉ.</span>
 
-<span class="l-fiero">**Mii dash ani-izhaad, anooj awesiiya’ bimikawewa’.**</span>
+<span class="l-fiero">**Mii dash ani-izhaad, anooj awesiiyan bimikawewan.**</span>
 
 <span class="l-eng">*And as he went on his way, (he saw) where the tracks of all kinds of game were passing.*</span>
 
-<span class="l-gloss">Mii dash ani-izhaad (and as he went on his way), anooj awesiiya’ bimikawewa’ (the tracks of all kinds of game were passing).</span>
+<span class="l-gloss">Mii dash ani-izhaad (and as he went on his way), anooj awesiiyan bimikawewan (the tracks of all kinds of game were passing).</span>
 
 <span class="l-orig">(228) A‘pī∙i∙dạc wädi‘tạng ändāwād owâbạndān nänga´ᵘ sāgidcisininik iskwāndäng.</span>
 
@@ -1846,11 +1848,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(229) A‘pī∙i∙dạc äᵒni∙o∙di‘tạng ändāwād, ogạnōnāᵉ osayäⁿyaᵉ:</span>
 
-<span class="l-fiero">**Apii idash eni-oditang endaawaad, oganoonaa’ osayenya’:**</span>
+<span class="l-fiero">**Apii idash eni-oditang endaawaad, oganoonaan osayenyan:**</span>
 
 <span class="l-eng">*And when he reached the place where they lived, he addressed his elder brothers, saying:*</span>
 
-<span class="l-gloss">Apii idash eni-oditang endaawaad (and when he reached the place where they lived) oganoonaa’ osayenya’ (he addressed his elder brothers):</span>
+<span class="l-gloss">Apii idash eni-oditang endaawaad (and when he reached the place where they lived) oganoonaan osayenyan (he addressed his elder brothers):</span>
 
 <span class="l-orig">(230) “Nisayäyitugᵉ!</span>
 
@@ -1934,11 +1936,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(240) Mēdạc kä∙i∙skwāzazägāwād kīnāsi‘kawād wīnimōᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-ishkwaa-zazegaawaad gii-naazikawaad wiinimoo’.**</span>
+<span class="l-fiero">**Mii dash gaa-ishkwaa-zazegaawaad gii-naazikawaad wiinimoon.**</span>
 
 <span class="l-eng">*And after they were all gaily dressed, he went after his sisters-in-law.*</span>
 
-<span class="l-gloss">Mii dash gaa-ishkwaa-zazegaawaad (and after they were all gaily dressed) gii-naazikawaad wiinimoo’ (he went after his sisters-in-law).</span>
+<span class="l-gloss">Mii dash gaa-ishkwaa-zazegaawaad (and after they were all gaily dressed) gii-naazikawaad wiinimoon (he went after his sisters-in-law).</span>
 
 <span class="l-orig">(241) Mīdạc änād:</span>
 
@@ -1974,11 +1976,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(245) Mīdạcigu päpäjik kī∙ä∙ni∙o∙nạbī‘tawāwād īni´ᵘ ininiwaᵉ īgi´ᵘ i‘kwäwạg.</span>
 
-<span class="l-fiero">**Mii dash igo bebezhig gii-eni-onabiitawaawaad iniw ininiwa’ igiw ikwewag.**</span>
+<span class="l-fiero">**Mii dash igo bebezhig gii-eni-onabiitawaawaad iniw ininiwan igiw ikwewag.**</span>
 
 <span class="l-eng">*Thereupon the women sat down with the men, each beside a man.*</span>
 
-<span class="l-gloss">Mii dash igo bebezhig gii-eni-onabiitawaawaad iniw ininiwa’ igiw ikwewag (thereupon the women sat down with the men, each beside a man).</span>
+<span class="l-gloss">Mii dash igo bebezhig gii-eni-onabiitawaawaad iniw ininiwan igiw ikwewag (thereupon the women sat down with the men, each beside a man).</span>
 
 <span class="l-orig">(246) Ā‘pidcidạc wīn skwādc kī∙o∙nabī‘tawā ‘aᵉaᵘ mạdcī‘kiwis sazī‘kizit.</span>
 

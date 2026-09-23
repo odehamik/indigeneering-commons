@@ -130,11 +130,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(15) Nāgạtciku māntāminaᵉ pisīgisäwaᵉ mī∙i∙māⁿ a‘ki‘kunk, mīdạc iᵘ äcimōckinänit īni’ᵘ uda‘ki‘kōwān.</span>
 
-<span class="l-fiero">**Naagaj igo mandaamina’ bi-siigisewa’ mii imaa akikong, mii dash iw ezhi-mooshkinenid iniw odakikoowaan.**</span>
+<span class="l-fiero">**Naagaj igo mandaaminan bi-siigisewan mii imaa akikong, mii dash iw ezhi-mooshkinenid iniw odakikoowaan.**</span>
 
 <span class="l-eng">*And after a while some corn came pouring into the kettle there, whereupon full of it became their kettle.*</span>
 
-<span class="l-gloss">Naagaj igo mandaamina’ bi-siigisewa’ (after a while the kernels of corn came pouring in) mii imaa akikong (there into the kettle), mii dash iw ezhi-mooshkinenid (and so it filled up) iniw odakikoowaan (their kettle).</span>
+<span class="l-gloss">Naagaj igo mandaaminan bi-siigisewan (after a while the kernels of corn came pouring in) mii imaa akikong (there into the kettle), mii dash iw ezhi-mooshkinenid (and so it filled up) iniw odakikoowaan (their kettle).</span>
 
 <span class="l-orig">(16) Pā∙i∙cinīsikwāskwaninit, mīsa’ nāsāp anicinābä.</span>
 
@@ -194,11 +194,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(23) Cigwa kākīcitänig, äci∙ạ∙gwābīga∙ạ∙nk; Nänabucu pạgitînạmawā tciwīsinit kạyä ∙i∙ māndāminaᵉ.</span>
 
-<span class="l-fiero">**Zhigwa gaa-giizhidenig, ezhi-agwaabiiga’ang; Nenaboozhoo bagidinamawaa ji-wiisinid gaye i mandaamina’.**</span>
+<span class="l-fiero">**Zhigwa gaa-giizhidenig, ezhi-agwaabiiga’ang; Nenaboozhoo bagidinamawaa ji-wiisinid gaye i mandaaminan.**</span>
 
 <span class="l-eng">*Now, after the food was done cooking, then out she dipped it ; and in front of Nänabushu, that he might eat, she placed (the meat) and the corn.*</span>
 
-<span class="l-gloss">Zhigwa gaa-giizhidenig (now, when the food was done cooking), ezhi-agwaabiiga’ang (she dipped it out); Nenaboozhoo bagidinamawaa ji-wiisinid (and she set it before Nenaboozhoo to eat) gaye i mandaamina’ (and the corn too).</span>
+<span class="l-gloss">Zhigwa gaa-giizhidenig (now, when the food was done cooking), ezhi-agwaabiiga’ang (she dipped it out); Nenaboozhoo bagidinamawaa ji-wiisinid (and she set it before Nenaboozhoo to eat) gaye i mandaaminan (and the corn too).</span>
 
 <span class="l-orig">(24) Ä‘tawā, mīdạc kägä‘t Nänabucu minuwīsinit!</span>
 
@@ -218,11 +218,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(26) Mīsa’ mīnawa äjikānāt ugīcō‘tä∙u∙naᵉ.</span>
 
-<span class="l-fiero">**Mii sa miinawa ezhi-gaanaad ogiishoote’ona’.**</span>
+<span class="l-fiero">**Mii sa miinawa ezhi-gaanaad ogiishoote’onan.**</span>
 
 <span class="l-eng">*And then again he hid his mittens.*</span>
 
-<span class="l-gloss">Mii sa miinawa ezhi-gaanaad ogiishoote’ona’ (and then again he hid his mittens).</span>
+<span class="l-gloss">Mii sa miinawa ezhi-gaanaad ogiishoote’onan (and then again he hid his mittens).</span>
 
 <span class="l-orig">(27) “Mī∙i∙’ᵘ mādcāyān kīwäyān.”</span>
 
@@ -394,11 +394,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(48) Cigwa uba‘kī∙ā∙n utabaⁿjīwāᵉ.</span>
 
-<span class="l-fiero">**Zhigwa obakii’aan odabanzhiiwa’.**</span>
+<span class="l-fiero">**Zhigwa obakii’aan odabanzhiiwan.**</span>
 
 <span class="l-eng">*Then he pecked at their lodge-poles.*</span>
 
-<span class="l-gloss">Zhigwa obakii’aan odabanzhiiwa’ (then he pecked at their lodge-poles).</span>
+<span class="l-gloss">Zhigwa obakii’aan odabanzhiiwan (then he pecked at their lodge-poles).</span>
 
 <span class="l-orig">(49) Ä‘tawā! wäntạgu kägä‘t wâsa inā‘kwitcit pạngicink, “tcuäⁿ!” inwäwäcin Nänabucu.</span>
 
@@ -498,11 +498,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(61) Nāgạtcigu māndāminaᵉ pisīgibisōwaᵉ, uta‘ki‘kōwāng i∙i∙mā äcisībigisunit.</span>
 
-<span class="l-fiero">**Naagaj igo mandaamina’ bi-siigibizowa’, odakikoowaang i’imaa ezhi-siigibizonid.**</span>
+<span class="l-fiero">**Naagaj igo mandaaminan bi-siigibizowan, odakikoowaang i’imaa ezhi-siigibizonid.**</span>
 
 <span class="l-eng">*After a while some corn came pouring out, into their kettle it poured.*</span>
 
-<span class="l-gloss">Naagaj igo mandaamina’ bi-siigibizowa’ (after a while the kernels of corn came pouring), odakikoowaang i’imaa ezhi-siigibizonid (into their kettle they poured).</span>
+<span class="l-gloss">Naagaj igo mandaaminan bi-siigibizowan (after a while the kernels of corn came pouring), odakikoowaang i’imaa ezhi-siigibizonid (into their kettle they poured).</span>
 
 <span class="l-orig">(62) Kāmōckinänit īni’ᵘ uda‘ki‘kōwān, mīsa∙i∙ᵘ Nänabucu iciwisinit.</span>
 

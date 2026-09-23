@@ -28,11 +28,11 @@ HE WHO OVER-DREAMED.
 
 <span class="l-orig">(2) Mīdạc änād ugwisạn: “Māⁿnūⁿ käyābi ma‘kadä‘kän. Kāyābi kuca´ kägō ayāmạgạtudug, maci kä‘kändaⁿziwạn. Mīnawā ki‘twän.” Umīnān aka‘kaⁿjä tcikîtcima‘kadä‘känit ugwisạn.</span>
 
-<span class="l-fiero">**Mii dash enaad ogwisan: “Maanoo geyaabi makadeken. Geyaabi gosha gegoo ayaamagadodog, mashi gekendanziwan. Miinawaa gii’twen.” Ominaan akakanzhe ji-gichi-makadekenid ogwisan.**</span>
+<span class="l-fiero">**Mii dash enaad ogwisan: “Maanoo geyaabi makadeken. Geyaabi gosha gegoo ayaamagadodog, mashi gekendanziwan. Miinawaa giitwen.” Ominaan akakanzhe ji-gichi-makadekenid ogwisan.**</span>
 
 <span class="l-eng">*And this he said to his son: “Please, once more do you blacken (your face and fast). There surely must be something yet for you to dream about, something about which you do not yet know. Once more do you try.” He gave his son some charcoal to blacken (his face and to go into a) deep (fast).*</span>
 
-<span class="l-gloss">Mii dash enaad ogwisan (and this he said to his son): “Maanoo (please; Jones’s English here witnesses maanoo as “Please”), geyaabi makadeken (once more blacken and fast). Geyaabi gosha (surely yet), gegoo ayaamagadodog (there must be something), mashi gekendanziwan (which you do not yet know). Miinawaa gii’twen (once more do you try). ” Ominaan akakanzhe (he gave him charcoal), ji-gichi-makadekenid ogwisan (that his son go into a deep fast).</span>
+<span class="l-gloss">Mii dash enaad ogwisan (and this he said to his son): “Maanoo (please; Jones’s English here witnesses maanoo as “Please”), geyaabi makadeken (once more blacken and fast). Geyaabi gosha (surely yet), gegoo ayaamagadodog (there must be something), mashi gekendanziwan (which you do not yet know). Miinawaa giitwen (once more do you try). ” Ominaan akakanzhe (he gave him charcoal), ji-gichi-makadekenid ogwisan (that his son go into a deep fast).</span>
 
 <span class="l-orig">(3) Awidạc uckinawä mānū mīnawā kīma‘kadä‘kä. Nībiwa tạ´sing kīmidāsungunī, ā‘pidci kīkistcikudạgi∙i∙tisu. Mīdạc kīmādcāt ma‘kadäkät. Ninguding pitạgwicin ‘aᵉawuckinawä. Näcwāsugunạga‘k ānawi udānawi∙a∙cạmān ugwisạn, kāwīn ududā‘pinaⁿzīn ī∙i∙´ᵘ mīdcîm. Mēdạc ä‘kidot ‘aᵉa´ᵘuckinawä: “Tạga, nōsä! mījicin ozānạmum. Nīwiwawäji,” i‘kido.</span>
 

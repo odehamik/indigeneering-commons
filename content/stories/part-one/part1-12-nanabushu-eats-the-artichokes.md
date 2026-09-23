@@ -18,27 +18,27 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(1) Mīdạc kā∙ạ∙ni∙i∙cimāmādcāt. Ningutingigu papimusät awiya ugīwâbạmāᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-ani-izhi-mamaajaad. Ningoding igo babimosed awiya ogii-waabamaa’.**</span>
+<span class="l-fiero">**Mii dash gaa-ani-izhi-mamaajaad. Ningoding igo babimosed awiya ogii-waabamaan.**</span>
 
 <span class="l-eng">*So then upon his way he slowly went along. And once while travelling along he saw some creatures.*</span>
 
-<span class="l-gloss">Mii dash gaa-ani-izhi-mamaajaad (so then he went slowly along on his way). Ningoding igo (and once) babimosed awiya (while walking along, someone) ogii-waabamaa’ (he saw them).</span>
+<span class="l-gloss">Mii dash gaa-ani-izhi-mamaajaad (so then he went slowly along on his way). Ningoding igo (and once) babimosed awiya (while walking along, someone) ogii-waabamaan (he saw them).</span>
 
 <span class="l-orig">(2) “Ānīn äcini‘kāsuyäg?” ugī∙i∙nāᵉ. “Kunigä kitamugūmwātug?”</span>
 
-<span class="l-fiero">**“Aaniin ezhinikaazoyeg?” ogii-inaa’.  “Gonige gidamogoomwaadog?”**</span>
+<span class="l-fiero">**“Aaniin ezhinikaazoyeg?” ogii-inaan.  “Gonige gidamogoomwaadog?”**</span>
 
 <span class="l-eng">*“What are you called?” he said to them. “Wonder if you may be eaten for food !”*</span>
 
-<span class="l-gloss">“Aaniin ezhinikaazoyeg?” (“what are you called?”) ogii-inaa’ (he said to them). “Gonige (“wonder if) gidamogoomwaadog?” (you might be eaten for food?”)</span>
+<span class="l-gloss">“Aaniin ezhinikaazoyeg?” (“what are you called?”) ogii-inaan (he said to them). “Gonige (“wonder if) gidamogoomwaadog?” (you might be eaten for food?”)</span>
 
 <span class="l-orig">(3) “Äyeᵉ,” ugī∙i∙gōᵉ. Mīdạc kā∙i∙gut: “Äyeᵉ, kägät nintạmugōmin.”</span>
 
-<span class="l-fiero">**“Eye’,” ogii-igoo’.  Mii dash gaa-igod: “Eye’, geget nindamogoomin.”**</span>
+<span class="l-fiero">**“Eye’,” ogii-igoon.  Mii dash gaa-igod: “Eye’, geget nindamogoomin.”**</span>
 
 <span class="l-eng">*“Yes,” he was told. Now, this was what he was told: “Yes, truly we are eaten for food.”*</span>
 
-<span class="l-gloss">“Eye’,” (“yes,”) ogii-igoo’ (he was told). Mii dash gaa-igod (now this is what he was told): “Eye’, geget (“yes, truly) nindamogoomin.” (we are eaten for food.”)</span>
+<span class="l-gloss">“Eye’,” (“yes,”) ogii-igoon (he was told). Mii dash gaa-igod (now this is what he was told): “Eye’, geget (“yes, truly) nindamogoomin.” (we are eaten for food.”)</span>
 
 <span class="l-orig">(4) “Ānīc äni‘kāgäyäg ‘iᵉi’wisa nībiwa ạmugōyäg?”</span>
 
@@ -58,19 +58,19 @@ Nenaboozhoo eats the Artichokes (1)
 
 <span class="l-orig">(6) Mīdạc kā∙i∙ci∙ạ∙mwāt, ānīc ugī∙i∙gōᵉ i∙i∙ᵘ amuntwā; pāmā kā‘tä∙ạ∙mwāt ugī‘pōni∙ā∙ᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-izhi-amwaad, aaniish ogii-igoo’ i’iw amondwaa; baamaa gaa-de-amwaad ogii-pooni’aa’.**</span>
+<span class="l-fiero">**Mii dash gaa-izhi-amwaad, aaniish ogii-igoon i’iw amondwaa; baamaa gaa-de-amwaad ogii-pooni’aan.**</span>
 
 <span class="l-eng">*Thereupon he ate them, for he was told that they were good to eat ; not till he had had his fill of them did he leave them alone.*</span>
 
-<span class="l-gloss">Mii dash gaa-izhi-amwaad (thereupon he ate them), aaniish ogii-igoo’ (for he was told) i’iw amondwaa (that they were eaten); baamaa gaa-de-amwaad (not until he had eaten his fill of them) ogii-pooni’aa’ (did he leave them alone).</span>
+<span class="l-gloss">Mii dash gaa-izhi-amwaad (thereupon he ate them), aaniish ogii-igoon (for he was told) i’iw amondwaa (that they were eaten); baamaa gaa-de-amwaad (not until he had eaten his fill of them) ogii-pooni’aan (did he leave them alone).</span>
 
 <span class="l-orig">(7) “Kägätsa kīwīngipugusîm,” ugī∙i∙nāᵉ.</span>
 
-<span class="l-fiero">**“Geget sa gii-wiingipogosiim,” ogii-inaa’.**</span>
+<span class="l-fiero">**“Geget sa gii-wiingipogosiim,” ogii-inaan.**</span>
 
 <span class="l-eng">*“Truly a pleasing taste you have,” he said to them.*</span>
 
-<span class="l-gloss">“Geget sa gii-wiingipogosiim,” (“truly you have a pleasing taste,”) ogii-inaa’ (he said to them).</span>
+<span class="l-gloss">“Geget sa gii-wiingipogosiim,” (“truly you have a pleasing taste,”) ogii-inaan (he said to them).</span>
 
 <span class="l-orig">(8) Mīdạc a‘pī∙a∙nimāmādcāt.</span>
 

@@ -125,11 +125,11 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-orig">(13) Mīsa ‘i´ᵘ ingutci äji∙i∙cāt micīnamägwä. Kāwäsa ugacki‘tōsīn pa‘kān tciwäwäbạnābinit. “Ācimādcisawīna∙a´∙ᵘ Nänabucu! Mini‘k ningitạcī‘kāg wīnicki∙i∙t!” Nänabucōwan unawatantamawān iᵉiwä uwäwäbạnābānini.</span>
 
-<span class="l-fiero">**Mii sa iw ingoji ezhi-izhaad mishiinamegwe. Gawesa ogashkitoosiin bakaan ji-wewebanaabinid. “Azhi-maajisawina a’aw Naanabozho! Minik ningidazhi’kaag wii-nishki’id!” Naanabozhowan onawadandamawaan i’iwe owewebanaabaanini.**</span>
+<span class="l-fiero">**Mii sa iw ingoji ezhi-izhaad mishiinamegwe. Gawesa ogashkitoosiin bakaan ji-wewebanaabinid. “Azhi-maajisawina a’aw Naanabozho! Minik ningidazhikaag wii-nishki’id!” Naanabozhowan onawadandamawaan i’iwe owewebanaabaanini.**</span>
 
 <span class="l-eng">*Thereupon away went the big Sturgeon. He found it impossible to make (Nänabushu) fish elsewhere with his hook and line. “Confound that Nänabushu! He has been pestering me so long as to anger me!” He then seized hold of Nänabushu’s bobbing (hook) with his mouth.*</span>
 
-<span class="l-gloss">Mii sa iw ingoji ezhi-izhaad mishiinamegwe (thereupon the big sturgeon went off somewhere). Gawesa ogashkitoosiin *flagged* bakaan ji-wewebanaabinid (he could not make him fish elsewhere). “Azhi-maajisawina *flagged* a’aw Naanabozho! (confound that Naanabozho!) Minik ningidazhi’kaag *flagged* wii-nishki’id! (so long has he pestered me, to anger me!)” Naanabozhowan onawadandamawaan i’iwe owewebanaabaanini (he seized Naanabozho’s bobbing hook with his mouth).</span>
+<span class="l-gloss">Mii sa iw ingoji ezhi-izhaad mishiinamegwe (thereupon the big sturgeon went off somewhere). Gawesa ogashkitoosiin *flagged* bakaan ji-wewebanaabinid (he could not make him fish elsewhere). “Azhi-maajisawina *flagged* a’aw Naanabozho! (confound that Naanabozho!) Minik ningidazhikaag *flagged* wii-nishki’id! (so long has he pestered me, to anger me!)” Naanabozhowan onawadandamawaan i’iwe owewebanaabaanini (he seized Naanabozho’s bobbing hook with his mouth).</span>
 
 <span class="l-orig">(14) Nänabucu mīgu iᵘ äjiki‘tcīwibitōt iᵉi´ᵘ wäwäbạnābān. Inābit micawagām, minisäns inäntạm wändcimō‘kibīnik. Mīnạngwạna iᵘ ucigwạnāni īni´ᵘ micīnamägwän. Cigwasa ningutingigu pạnägu kāsāswänik u‘tawạgạn. Mīnạngwana iᵘ kōgạmigut mīgu iᵉiᵘ kigitcīmān. Mīsạgu a‘pạn äciwạnäntạnk; wī‘kāsa mi‘kawi. Mä‘kawit, “Wâginugāning nintaiyā,” inäntạm. Inābit, icpiming ki‘tcimaskimut ạgōtänik;</span>
 
@@ -141,11 +141,11 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-orig">(15) mīmīgu iᵘ äcimạmāsi‘kānik. Mīnawā iwiti inābit wä‘kwāyaī awiya owâbạmān tạcika‘kawatạbinit. Äcipạsigwīt Nänabucu; äciwạnabī‘tawāt, äjikanōnāt: “Ä‘tawā nîcīmisā, ānīndạc äci∙a∙yāyạn?”</span>
 
-<span class="l-fiero">**mii mii go zho ezhi-mamaazikaanig. Miinawaa iwidi inaabid weekwayaa’ii awiya owaabamaan dazhika gawadabinid. Ezhi-bazigwiid Naanabozho; ezhi-wanabi’tawaad, ezhi-ganoonaad: “Etawaa nishiimisaa, aaniindash ezhi-ayaayan?”**</span>
+<span class="l-fiero">**mii mii go zho ezhi-mamaazikaanig. Miinawaa iwidi inaabid weekwayaa’ii awiya owaabamaan dazhika gawadabinid. Ezhi-bazigwiid Naanabozho; ezhi-wanabitawaad, ezhi-ganoonaad: “Etawaa nishiimisaa, aaniindash ezhi-ayaayan?”**</span>
 
 <span class="l-eng">*pened to be in motion. Again while looking yonder at the other end he saw some sort of a creature seated, swinging back and forth. Then up rose Nänabushu to his feet; taking his seat beside him, he then addressed him, saying: “My poor little brother, and what is the matter with you?”*</span>
 
-<span class="l-gloss">mii mii go zho ezhi-mamaazikaanig (it happened to be in motion). Miinawaa iwidi inaabid weekwayaa’ii (again as he looked yonder at the far end), awiya owaabamaan dazhika gawadabinid (he saw some creature seated, swaying). Ezhi-bazigwiid Naanabozho (then Naanabozho rose to his feet); ezhi-wanabi’tawaad (taking his seat beside him), ezhi-ganoonaad (he addressed him): “Etawaa nishiimisaa (my poor little brother), aaniindash ezhi-ayaayan? (what is the matter with you?)”</span>
+<span class="l-gloss">mii mii go zho ezhi-mamaazikaanig (it happened to be in motion). Miinawaa iwidi inaabid weekwayaa’ii (again as he looked yonder at the far end), awiya owaabamaan dazhika gawadabinid (he saw some creature seated, swaying). Ezhi-bazigwiid Naanabozho (then Naanabozho rose to his feet); ezhi-wanabitawaad (taking his seat beside him), ezhi-ganoonaad (he addressed him): “Etawaa nishiimisaa (my poor little brother), aaniindash ezhi-ayaayan? (what is the matter with you?)”</span>
 
 <span class="l-orig">(16) Agāwāgu pimādisiwạn. Cigwa kīgitōwạn: “Nänabucu, mīsa kayä kīn kī‘kuni‘k aᵉa´ᵘ micinạmägwä.”</span>
 

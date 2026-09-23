@@ -38,11 +38,11 @@ THE YOUTH WHO WAS LED ABOUT BY THE CHIEF OF THE STURGEONS.
 
 <span class="l-orig">(3) Mēdạc käᵉgä‘t ạnicinābēg sāgēwa∙ō∙wād; ā‘pidci iska‘tä i∙i∙´ᵘ zībi. A‘pī∙i∙dạc imāⁿ pāyāwād ạnicinābēg, owâbamāwa nīⁿj nạmäwạn ayānit. Mēdạc ä‘kitowād: “Naskä kuca´ ogōᵘ namäwạg cängicinuwāt! Käᵉgä‘tigunā kīgawīsinimin.” Mēdạc adā‘pinạmowād odạni‘tīᵒwān.</span>
 
-<span class="l-fiero">**Mii dash geget anishinaabeg zaagewa’owaad; aapiji iskate i’iw ziibi. Apii idash imaa bayaawaad anishinaabeg, owaabamaawaan niizh namewan ayaanid. Mii dash ekidowaad: “Nashke gosha ogow namewag zhengishinowaad! Gegetigonaa giga-wiisinimin.” Mii dash adaapinamowaad odani’tiiwaan.**</span>
+<span class="l-fiero">**Mii dash geget anishinaabeg zaagewa’owaad; aapiji iskate i’iw ziibi. Apii idash imaa bayaawaad anishinaabeg, owaabamaawaan niizh namewan ayaanid. Mii dash ekidowaad: “Nashke gosha ogow namewag zhengishinowaad! Gegetigonaa giga-wiisinimin.” Mii dash adaapinamowaad odanitiiwaan.**</span>
 
 <span class="l-eng">*Thereupon, sure enough, came some people paddling into view (round a point); very shallow was the river. And when the people were come at the place, they saw two sturgeons there. Thereupon they said: “Why, look at those sturgeons lying there! Verily, now we shall have something to eat.” Accordingly they reached for their spears.*</span>
 
-<span class="l-gloss">Mii dash geget (thereupon, sure enough), anishinaabeg zaagewa’owaad (came people paddling round the point); aapiji iskate i’iw ziibi (very dry-shallow was that river). Apii idash imaa bayaawaad anishinaabeg (and when the people were come at the place), owaabamaawaan niizh namewan (they saw two sturgeons), ayaanid (being there). Mii dash ekidowaad (thereupon they said): “Nashke gosha (why, look!), ogow namewag zhengishinowaad! (at those sturgeons lying there!), Gegetigonaa giga-wiisinimin (verily, now we shall eat).” Mii dash adaapinamowaad (accordingly they took up), odani’tiiwaan (their spears).</span>
+<span class="l-gloss">Mii dash geget (thereupon, sure enough), anishinaabeg zaagewa’owaad (came people paddling round the point); aapiji iskate i’iw ziibi (very dry-shallow was that river). Apii idash imaa bayaawaad anishinaabeg (and when the people were come at the place), owaabamaawaan niizh namewan (they saw two sturgeons), ayaanid (being there). Mii dash ekidowaad (thereupon they said): “Nashke gosha (why, look!), ogow namewag zhengishinowaad! (at those sturgeons lying there!), Gegetigonaa giga-wiisinimin (verily, now we shall eat).” Mii dash adaapinamowaad (accordingly they took up), odanitiiwaan (their spears).</span>
 
 <span class="l-orig">(4) Mī∙i∙dạc īgi´ᵘ nạmäwạg kā∙i∙jimādci‘tāwād kīpa‘kwäbīkickạmowāt i∙i∙māⁿ pạngī wānāmi‘kānig.</span>
 

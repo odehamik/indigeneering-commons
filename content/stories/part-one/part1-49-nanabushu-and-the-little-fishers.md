@@ -18,11 +18,11 @@ Nanabushu and the Little Fishers
 
 <span class="l-orig">(1) Ningudingidạc ạnipabimosäd, ogīmi‘kawaᵉ udcīgänsaᵉ äyānit.</span>
 
-<span class="l-fiero">**Ningoding idash ani-babimosed, ogii-mikawaa’ ojiigensa’ e-yaanid.**</span>
+<span class="l-fiero">**Ningoding idash ani-babimosed, ogii-mikawaan ojiigensan e-yaanid.**</span>
 
 <span class="l-eng">*And once, when travelling along, he came upon some young Fishers.*</span>
 
-<span class="l-gloss">Ningoding idash (and once) ani-babimosed (as he was walking along), ogii-mikawaa’ (he found them) ojiigensa’ (the little fishers) e-yaanid (who were there).</span>
+<span class="l-gloss">Ningoding idash (and once) ani-babimosed (as he was walking along), ogii-mikawaan (he found them) ojiigensan (the little fishers) e-yaanid (who were there).</span>
 
 <span class="l-orig">(2) Mīdạc änād: “Ānīndi gīgiwā?”</span>
 
@@ -42,11 +42,11 @@ Nanabushu and the Little Fishers
 
 <span class="l-orig">(4) Mī∙i∙dạc kā∙i∙jipōpō‘kutcībināt, ugīmīdcināᵉ.</span>
 
-<span class="l-fiero">**Mii iw dash gaa-izhi-boobookojiibinaad, ogii-miijinaa’.**</span>
+<span class="l-fiero">**Mii iw dash gaa-izhi-boobookojiibinaad, ogii-miijinaan.**</span>
 
 <span class="l-eng">*And when he had broken them in two at the wrist, he eased upon them.*</span>
 
-<span class="l-gloss">Mii iw dash (and so then) gaa-izhi-boobookojiibinaad (when he had broken them in two at the wrist), ogii-miijinaa’ (he ate them).</span>
+<span class="l-gloss">Mii iw dash (and so then) gaa-izhi-boobookojiibinaad (when he had broken them in two at the wrist), ogii-miijinaan (he ate them).</span>
 
 <span class="l-orig">(5) Mīdạc kī∙ạ∙nimādcād.</span>
 
@@ -58,11 +58,11 @@ Nanabushu and the Little Fishers
 
 <span class="l-orig">(6) A‘pī∙i∙dac tägucing udcīg ugīmi‘kawāᵉ unīdcānesaᵉ nibunit.</span>
 
-<span class="l-fiero">**Apii dash degoshing ojiig ogii-mikawaa’ oniijaanesa’ nibonid.**</span>
+<span class="l-fiero">**Apii dash degoshing ojiig ogii-mikawaan oniijaanesan nibonid.**</span>
 
 <span class="l-eng">*And when home was come the Fisher, she found that her children were dead.*</span>
 
-<span class="l-gloss">Apii dash degoshing (and when she came home) ojiig (the Fisher) ogii-mikawaa’ (she found them) oniijaanesa’ (her children) nibonid (being dead).</span>
+<span class="l-gloss">Apii dash degoshing (and when she came home) ojiig (the Fisher) ogii-mikawaan (she found them) oniijaanesan (her children) nibonid (being dead).</span>
 
 <span class="l-orig">(7) Mīdạc äjinō‘pinạnād Nänabujūn.</span>
 

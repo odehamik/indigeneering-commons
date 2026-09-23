@@ -24,7 +24,7 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(2) Ningutingigu sāga∙i∙gạn omạdā‘kun.</span>
 
-<span class="l-fiero">**Ningoding igo zaaga’igan omadaakon*.**</span>
+<span class="l-fiero">**Ningoding igo zaaga’igan omadaakon.**</span>
 
 <span class="l-eng">*Now, by and by he came out upon a frozen lake.*</span>
 
@@ -32,19 +32,19 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(3) Äjimādcī∙ā∙dạgā‘kut, wạbigạmānig päcwâbandạnk, awiya owâbạmān pimādagā‘kupa‘tōnit; āca mīnawā, nīwiwaᵉ.</span>
 
-<span class="l-fiero">**Ezhi-maajiiyaadagaagod, wabigamaanig beshwaabandang, awiya owaabamaan bimaadagaagopatoonid; aazha miinawaa, niiwiwa’.**</span>
+<span class="l-fiero">**Ezhi-maajiiyaadagaagod, wabigamaanig beshwaabandang, awiya owaabamaan bimaadagaagopatoonid; aazha miinawaa, niiwiwan.**</span>
 
 <span class="l-eng">*As he started forth on the ice, as nigh to the narrows of the lake he drew, he saw some one running past over the ice; then some more, four of them.*</span>
 
-<span class="l-gloss">Ezhi-maajiiyaadagaagod (as he started off across the ice), wabigamaanig beshwaabandang (drawing near to the narrows of the lake), awiya owaabamaan bimaadagaagopatoonid (he saw someone running past over the ice); aazha miinawaa, niiwiwa’ (and then some more, four of them).</span>
+<span class="l-gloss">Ezhi-maajiiyaadagaagod (as he started off across the ice), wabigamaanig beshwaabandang (drawing near to the narrows of the lake), awiya owaabamaan bimaadagaagopatoonid (he saw someone running past over the ice); aazha miinawaa, niiwiwan (and then some more, four of them).</span>
 
 <span class="l-orig">(4) Kuniginīn, ma∙ī∙nganaᵉ!</span>
 
-<span class="l-fiero">**Goniginiin, mahiingana’!**</span>
+<span class="l-fiero">**Goniginiin, mahiinganan!**</span>
 
 <span class="l-eng">*Behold, (they were) Wolves!*</span>
 
-<span class="l-gloss">Goniginiin, mahiingana’! (behold, wolves!)</span>
+<span class="l-gloss">Goniginiin, mahiinganan! (behold, wolves!)</span>
 
 <span class="l-orig">(5) Äjipīpāgimāt: “Niˢtcīmiˢtcā, a‘kawä, kawâbạmininim!”</span>
 
@@ -56,11 +56,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(6) Kägä‘t kīpitciba‘tōwaᵉ; äciwawänạbinit ạnināsi‘kawāt.</span>
 
-<span class="l-fiero">**Geget gii-bijibatoowa’; ezhi-wawenabinid ani-naazikawaad.**</span>
+<span class="l-fiero">**Geget gii-bijibatoowan; ezhi-wawenabinid ani-naazikawaad.**</span>
 
 <span class="l-eng">*To be sure, they came to a sudden halt; then they sat down, while he went up to where they were.*</span>
 
-<span class="l-gloss">Geget gii-bijibatoowa’ (truly they came running to a stop); ezhi-wawenabinid (then they sat down) ani-naazikawaad (as he went up to them).</span>
+<span class="l-gloss">Geget gii-bijibatoowan (truly they came running to a stop); ezhi-wawenabinid (then they sat down) ani-naazikawaad (as he went up to them).</span>
 
 <span class="l-orig">(7) Äjigạnōnāt: “Nītcisasī‘kizī, ānti äcāyäg?”</span>
 
@@ -138,11 +138,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(16) Kāwäsā ni‘tāwusäsī, ānuwītcīwāt ‘iᵉi’ᵘ ma∙ī∙ngạnaᵉ. Äjikạnōnint Nänabucu: “Ạmbäsinō, äntōtạmāngigu pimiba‘tōyāng, mī kayä kīn kätōtạmạn.”</span>
 
-<span class="l-fiero">**Gaaw[ii] saa nitaawosesii, aano-wiijiiwaad i’iw mahiingana’. Ezhi-ganoonind Nenabosho: “Ambe sinoo, endoodamaang igo bimibatooyaang, mii gaye giin ge-doodaman.”**</span>
+<span class="l-fiero">**Gaaw[ii] saa nitaawosesii, aano-wiijiiwaad i’iw mahiinganan. Ezhi-ganoonind Nenabosho: “Ambe sinoo, endoodamaang igo bimibatooyaang, mii gaye giin ge-doodaman.”**</span>
 
 <span class="l-eng">*Not at all was he familiar with (their way of) travelling, as he tried going along with the Wolves. Then was Nänabushu told: “Come, as we do when we run along, so in like manner should you do too.”*</span>
 
-<span class="l-gloss">Gaaw[ii] saa nitaawosesii (not at all was he skilled at travelling), aano-wiijiiwaad i’iw mahiingana’ (as he tried in vain to go along with the wolves). Ezhi-ganoonind Nenabosho (then Nenabosho was told): “Ambe sinoo (“come now), endoodamaang igo bimibatooyaang (as we do when we run along), mii gaye giin ge-doodaman.” (so you too should do.”)</span>
+<span class="l-gloss">Gaaw[ii] saa nitaawosesii (not at all was he skilled at travelling), aano-wiijiiwaad i’iw mahiinganan (as he tried in vain to go along with the wolves). Ezhi-ganoonind Nenabosho (then Nenabosho was told): “Ambe sinoo (“come now), endoodamaang igo bimibatooyaang (as we do when we run along), mii gaye giin ge-doodaman.” (so you too should do.”)</span>
 
 <span class="l-orig">(17) Tāyā, kayä wīn tōtạm.</span>
 
@@ -204,11 +204,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(24) Cigwasa’ umi‘kān ā‘pidci tabinawānig.</span>
 
-<span class="l-fiero">**Zhigwa sa omikaan aapiji dabinawaanig.***</span>
+<span class="l-fiero">**Zhigwa sa omikaan aapiji dabinawaanig.**</span>
 
 <span class="l-eng">*In time he found where there was excellent shelter from the wind.*</span>
 
-<span class="l-gloss">Zhigwa sa omikaan aapiji dabinawaanig.* (in time he found a place very well sheltered from the wind.)</span>
+<span class="l-gloss">Zhigwa sa omikaan aapiji dabinawaanig. (in time he found a place very well sheltered from the wind.)</span>
 
 <span class="l-orig">(25) “Mīsa’ omā tcinibaiyạng.” “Ēⁱ, kāwäsa’, kitāgī‘kạtcimin.”</span>
 
@@ -420,11 +420,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(51) Ā‘pidcigu udibi∙ā∙ ‘iᵉi’ᵘ ma∙ī∙nganaᵉ.</span>
 
-<span class="l-fiero">**Aapiji go odibi’aa i’iw mahiingana’.**</span>
+<span class="l-fiero">**Aapiji go odibi’aa i’iw mahiinganan.**</span>
 
 <span class="l-eng">*And very well he kept pace with the Wolves.*</span>
 
-<span class="l-gloss">Aapiji go odibi’aa i’iw mahiingana’ (and very well he kept pace with the wolves).</span>
+<span class="l-gloss">Aapiji go odibi’aa i’iw mahiinganan (and very well he kept pace with the wolves).</span>
 
 <span class="l-orig">(52) Cigwasa tagwicinōg asạntciguning.</span>
 
@@ -436,11 +436,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(53) Āca tana‘kamigisiwaᵉ mōna∙ạ∙minit ạsạntcigun.</span>
 
-<span class="l-fiero">**Aazha danakamigiziwa’ moona’aminid asanjigon.**</span>
+<span class="l-fiero">**Aazha danakamigiziwan moona’aminid asanjigon.**</span>
 
 <span class="l-eng">*Already were the others busily at work digging up the cache.*</span>
 
-<span class="l-gloss">Aazha danakamigiziwa’ moona’aminid asanjigon (already the others were busy digging up the cache).</span>
+<span class="l-gloss">Aazha danakamigiziwan moona’aminid asanjigon (already the others were busy digging up the cache).</span>
 
 <span class="l-orig">(54) Ogạnōnigōn wīta‘kiwäⁿzīyạn: “Nänabucu, mīsa cigwa tciwīsiniyạng.</span>
 
@@ -580,11 +580,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(71) Cigwasa wâbanini, pạnägu kāmōdtigisinit ‘iᵉi’ᵘ ma∙ī∙ngạnaᵉ, wändạgu gägä‘t minowīsiniwaᵉ.</span>
 
-<span class="l-fiero">**Zhigwa sa waabanini, pane go gaa-moojigizinid i’iw mahiingana’, wendago geget mino-wiisiniwa’.**</span>
+<span class="l-fiero">**Zhigwa sa waabanini, pane go gaa-moojigizinid i’iw mahiinganan, wendago geget mino-wiisiniwan.**</span>
 
 <span class="l-eng">*In time came the morning, and forthwith pleased were the Wolves, and very heartily indeed did they eat.*</span>
 
-<span class="l-gloss">Zhigwa sa waabanini (in time came the morning), pane go gaa-moojigizinid i’iw mahiingana’ (and forthwith pleased were the wolves), wendago geget mino-wiisiniwa’ (and very heartily indeed did they eat).</span>
+<span class="l-gloss">Zhigwa sa waabanini (in time came the morning), pane go gaa-moojigizinid i’iw mahiinganan (and forthwith pleased were the wolves), wendago geget mino-wiisiniwan (and very heartily indeed did they eat).</span>
 
 <span class="l-orig">(72) “ ‘A‘ā’ᵘ, Nänabucu, kayä kīn ābīginạn kidạcạmigōwin.”</span>
 
@@ -716,15 +716,15 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(88) Ā‘pitci kigicäp mādcāwaᵉ ‘iᵉi’ᵘ udōckinawämiwāᵉ; wī‘kādạc ạnimādcāwạg Nänabucu īni’ᵘ wīda‘kiwäⁿzīyạn māda∙ạ∙nāwāt mā∙ī∙ngạnaᵉ.</span>
 
-<span class="l-fiero">**Aapiji gikizheb maajaawa’ i’iw odooshkinawemiwaa’; wiikaa dash ani-maajaawag Nenabosho iniw wiidakiwenziiyan maada’anaawaad mahiingana’.**</span>
+<span class="l-fiero">**Aapiji gikizheb maajaawan i’iw odooshkinawemiwaan; wiikaa dash ani-maajaawag Nenabosho iniw wiidakiwenziiyan maada’anaawaad mahiinganan.**</span>
 
 <span class="l-eng">*Very early in the morning started their youths; and a long while afterwards departed Nänabushu and his old companion, they followed in the path of the Wolves.*</span>
 
-<span class="l-gloss">Aapiji gikizheb maajaawa’ i’iw odooshkinawemiwaa (very early in the morning the youths started); wiikaa dash ani-maajaawag Nenabosho iniw wiidakiwenziiyan (and a long while after, Nenabosho and his old companion departed) maada’anaawaad mahiingana’ (following the path of the wolves).</span>
+<span class="l-gloss">Aapiji gikizheb maajaawan i’iw odooshkinawemiwaa (very early in the morning the youths started); wiikaa dash ani-maajaawag Nenabosho iniw wiidakiwenziiyan (and a long while after, Nenabosho and his old companion departed) maada’anaawaad mahiinganan (following the path of the wolves).</span>
 
 <span class="l-orig">(89) Nayāwa‘kwänik mī∙i’∙ᵘ uci‘kawānigubạnän ‘iᵉi’ᵘ mōsōᵉ.</span>
 
-<span class="l-fiero">**Nayaawakwenig mii iw oshikawaanigobanen i’iw moozoo’.**</span>
+<span class="l-fiero">**Nayaawakwenig mii iw oshikawaanigobanen i’iw moozoon.**</span>
 
 <span class="l-eng">*At about noon was when they laid plans how to get at the moose.*</span>
 
@@ -796,11 +796,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(98) Mīsa’ ‘iᵉi’ᵘ äni∙i∙cinīca∙i∙gä‘kawänit äni∙i∙jāwāt īni’ᵘ ma∙ī∙nganaᵉ.</span>
 
-<span class="l-fiero">**Mii sa i’iw eni-izhi-niizha’igekawenid eni-izhaawaad iniw mahiingana’.**</span>
+<span class="l-fiero">**Mii sa i’iw eni-izhi-niizha’igekawenid eni-izhaawaad iniw mahiinganan.**</span>
 
 <span class="l-eng">*And so along the trail the Wolves made in their pursuit was the way (Nänabushu and the old Wolf) went.*</span>
 
-<span class="l-gloss">Mii sa i’iw eni-izhi-niizha’igekawenid eni-izhaawaad iniw mahiingana’ (and so along the trail the wolves made in pursuit was the way they went).</span>
+<span class="l-gloss">Mii sa i’iw eni-izhi-niizha’igekawenid eni-izhaawaad iniw mahiinganan (and so along the trail the wolves made in pursuit was the way they went).</span>
 
 <span class="l-orig">(99) Ningutingigu mi‘tigunk pata‘kā‘kwisinini ‘iᵉi’ᵘ wībitāni īni’ᵘ mā∙ī∙ngạnạn.</span>
 
@@ -908,11 +908,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(112) Ogōwiˢtcạgu mīwạgugu känạgạciwäwāt.”</span>
 
-<span class="l-fiero">**Ogow wijago* mii wa gogo* ge-nagashiwewaad.”***</span>
+<span class="l-fiero">**Ogow wijago* mii wa gogo* ge-nagazhiwewaad.”***</span>
 
 <span class="l-eng">*Now, these are the ones that will lead in the run.”*</span>
 
-<span class="l-gloss">Ogow wijago* mii wa gogo* ge-nagashiwewaad.”* (now these are the ones that will lead in the run.” — *the bracketed forms are uncertain in the source; the English line supplies the sense*)</span>
+<span class="l-gloss">Ogow wijago* mii wa gogo* ge-nagazhiwewaad.”* (now these are the ones that will lead in the run.” — *the bracketed forms are uncertain in the source; the English line supplies the sense*)</span>
 
 <span class="l-orig">(113) “Kāwīn, mīsa’ waᵉaᵘ känạgaciwät.”</span>
 
@@ -940,11 +940,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(116) Ningutingigu owâbạmāwaᵉ cingicininit. “</span>
 
-<span class="l-fiero">**Ningoding igo owaabamaawa’ zhingishininid.**</span>
+<span class="l-fiero">**Ningoding igo owaabamaawaan zhingishininid.**</span>
 
 <span class="l-eng">*Then by and by they beheld the others lying down.*</span>
 
-<span class="l-gloss">Ningoding igo owaabamaawa’ zhingishininid (then by and by they saw the others lying down).</span>
+<span class="l-gloss">Ningoding igo owaabamaawaan zhingishininid (then by and by they saw the others lying down).</span>
 
 <span class="l-orig">(117) ‘Ä‘e‘ē‘i, kāwīnninawīn kigigägōsīmin.</span>
 
@@ -972,11 +972,11 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(120) Ā‘pidcisa’ tatäpisinīwaᵉ.</span>
 
-<span class="l-fiero">**Aapiji sa dadebisiniiwa’.**</span>
+<span class="l-fiero">**Aapiji sa dadebisiniiwan.**</span>
 
 <span class="l-eng">*Thoroughly sated was each one with food.*</span>
 
-<span class="l-gloss">Aapiji sa dadebisiniiwa’ (thoroughly sated was each one with food).</span>
+<span class="l-gloss">Aapiji sa dadebisiniiwan (thoroughly sated was each one with food).</span>
 
 <span class="l-orig">(121) Nänabucu äjimạnājität, mīdạc imā ä∙ī∙cāt a∙i∙tāg cingicininit īni’ᵘ päcik īni’ᵘ ma∙ī∙ngạnạn.</span>
 
@@ -1068,19 +1068,19 @@ Nänabushu and the Wolves (2)
 
 <span class="l-orig">(132) Papasigwīwaᵉ pimi∙i∙cāwaᵉ i∙i∙mā kī∙a∙‘picimōni‘käwāt.</span>
 
-<span class="l-fiero">**Bapazigwiiwa’ bimi-izhaawa’ i’imaa gii-apishimoonikewaad.**</span>
+<span class="l-fiero">**Bapazigwiiwan bimi-izhaawan i’imaa gii-apishimoonikewaad.**</span>
 
 <span class="l-eng">*Then up they rose to their feet (and) came over to the place where they had spread out the balsams.*</span>
 
-<span class="l-gloss">Bapazigwiiwa’ (then up they rose to their feet) bimi-izhaawa’ i’imaa gii-apishimoonikewaad (and came over to where they had spread out the balsams).</span>
+<span class="l-gloss">Bapazigwiiwan (then up they rose to their feet) bimi-izhaawan i’imaa gii-apishimoonikewaad (and came over to where they had spread out the balsams).</span>
 
 <span class="l-orig">(133) Cigwa päcik cicigagowäwạn, mīgu i’ᵘ päcig ‘iᵉi’ᵘ usạgīni äjimiziwäpạngisininik.</span>
 
-<span class="l-fiero">**Zhigwa bezhig zhishigagowewan, mii go iw bezhig i’iw ozagiini* ezhi-miziwe-pangisininig.**</span>
+<span class="l-fiero">**Zhigwa bezhig zhishigagowewan, mii go iw bezhig i’iw ozagiini ezhi-miziwe-pangisininig.**</span>
 
 <span class="l-eng">*Presently one began to vomit, whereupon the whole of one foreleg fell.*</span>
 
-<span class="l-gloss">Zhigwa bezhig zhishigagowewan (presently one began to vomit), mii go iw bezhig i’iw ozagiini* ezhi-miziwe-pangisininig (whereupon a whole foreleg fell out; *ozagiini, ‘its foreleg’*).</span>
+<span class="l-gloss">Zhigwa bezhig zhishigagowewan (presently one began to vomit), mii go iw bezhig i’iw ozagiini ezhi-miziwe-pangisininig (whereupon a whole foreleg fell out; *ozagiini, ‘its foreleg’*).</span>
 
 <span class="l-orig">(134) Kägä‘t māma‘kātändạm Nänabucu, kägä‘t minwäntạm; wäntạgu bä‘kic nạnạgạmōsiwi, äpī‘tciminwändạnk ‘aᵉa’ᵘ Nänabucu.</span>
 

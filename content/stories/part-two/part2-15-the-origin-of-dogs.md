@@ -464,11 +464,11 @@ THE ORIGIN OF DOGS
 
 <span class="l-orig">(56) Mī∙i∙’ᵘ pîdcīnạg a‘pī kī∙a∙yāwāt ạnimōg o∙o∙māⁿ a‘kīng; mī aⁿ packwạdāc unīdcānisaᵉ, nībawa taswäwān ạnimōg kī∙a∙yāwạg, anōtc äjināgusiwāt ạnimucạg; nībawa tạswäwānạgizi ‘aᵉa’ᵘ animuc äjinikāzut.</span>
 
-<span class="l-fiero">**Mii iw bijiinag apii gii-ayaawaad animoog o’omaa akiing; mii aw bashkwadaash oniijaanisa’, niibawa daswewaan animoog gii-ayaawag, anooj ezhinaagoziwaad animooshag; niibawa daswewaanagizi a’aw animoosh ezhinikaazod.**</span>
+<span class="l-fiero">**Mii iw bijiinag apii gii-ayaawaad animoog o’omaa akiing; mii aw bashkwadaash oniijaanisan, niibawa daswewaan animoog gii-ayaawag, anooj ezhinaagoziwaad animooshag; niibawa daswewaanagizi a’aw animoosh ezhinikaazod.**</span>
 
 <span class="l-eng">*That was then the time when they began having dogs here on earth; they were the offspring of Hairless, of many kinds of dogs they had, of every kind of appearance were the dogs; numerous is the kind that goes by the name of dog.*</span>
 
-<span class="l-gloss">Mii iw bijiinag apii gii-ayaawaad animoog o’omaa akiing (that was the time when they first had dogs here on earth); mii aw bashkwadaash oniijaanisa’ (these were the offspring of Hairless), niibawa daswewaan animoog gii-ayaawag, anooj ezhinaagoziwaad animooshag (many kinds of dogs they had, of every kind of appearance were the dogs); niibawa daswewaanagizi a’aw animoosh ezhinikaazod (many are the kinds of the one called dog).</span>
+<span class="l-gloss">Mii iw bijiinag apii gii-ayaawaad animoog o’omaa akiing (that was the time when they first had dogs here on earth); mii aw bashkwadaash oniijaanisan (these were the offspring of Hairless), niibawa daswewaan animoog gii-ayaawag, anooj ezhinaagoziwaad animooshag (many kinds of dogs they had, of every kind of appearance were the dogs); niibawa daswewaanagizi a’aw animoosh ezhinikaazod (many are the kinds of the one called dog).</span>
 
 <span class="l-orig">(57) Mīgu ‘aᵘ packwạdāc ka‘kina imāⁿ wändcīwāt īgi´ᵘ animucạg miziwä nōngum äyāwāt ạnimōg.</span>
 

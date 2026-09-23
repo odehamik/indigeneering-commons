@@ -44,11 +44,11 @@ Nänabushu and the Dancing Bullrushes (1)
 
 <span class="l-orig">(4) Ningutingigu papîmusät, ugīwâbạmā ‘iᵉi’ᵘ ininiwaᵉ kiˢtci∙o∙sāmīninit wīnīmi∙i∙tiwaᵉ.</span>
 
-<span class="l-fiero">**Ningoding igo babimosed, ogii-waabamaa i’iw ininiwa’ gichi-osaamiininid wii-niimi’idiwa’**</span>
+<span class="l-fiero">**Ningoding igo babimosed, ogii-waabamaa i’iw ininiwan gichi-osaamiininid wii-niimi’idiwan**</span>
 
 <span class="l-eng">*And as he was once walking along, he saw some men gathered in a throng to dance together.*</span>
 
-<span class="l-gloss">Ningoding igo babimosed (and once as he was walking along), ogii-waabamaa i’iw ininiwa’ (he saw those men) gichi-osaamiininid (gathered in a throng) wii-niimi’idiwa’ (who were going to dance together).</span>
+<span class="l-gloss">Ningoding igo babimosed (and once as he was walking along), ogii-waabamaa i’iw ininiwan (he saw those men) gichi-osaamiininid (gathered in a throng) wii-niimi’idiwan (who were going to dance together).</span>
 
 <span class="l-orig">(5) O∙ō∙widạc ogī∙i∙gōn īni’ᵘ päcig: “Ānīn kayä kīnina, Nänabucu, kīgạnīm?” ugīgōn.</span>
 
@@ -68,11 +68,11 @@ Nänabushu and the Dancing Bullrushes (1)
 
 <span class="l-orig">(7) Ka‘kina pingwācāgitiwaᵉ, mīdạc ka‘kina äci∙u∙nit i∙‘i∙ᵘ pạpikwāngäna pạta‘kibinwä∙u∙nit.</span>
 
-<span class="l-fiero">**Gakina bingwaashaagidiwa’, mii dash gakina ezhi’onid i’iw babikwaangenaa batakibine’onid.**</span>
+<span class="l-fiero">**Gakina bingwaashaagidiwan, mii dash gakina ezhi’onid i’iw babikwaangenaa batakibine’onid.**</span>
 
 <span class="l-eng">*They were all naked; and the only dress they all had was a feather, with all but the top stripped from the shaft, standing perched upon their heads.*</span>
 
-<span class="l-gloss">Gakina bingwaashaagidiwa’ (they were all naked), mii dash gakina ezhi’onid i’iw (and the only dress they all wore was) babikwaangenaa batakibine’onid (a feather stripped to the top, standing perched upon their heads).</span>
+<span class="l-gloss">Gakina bingwaashaagidiwan (they were all naked), mii dash gakina ezhi’onid i’iw (and the only dress they all wore was) babikwaangenaa batakibine’onid (a feather stripped to the top, standing perched upon their heads).</span>
 
 <span class="l-orig">(8) “Kayä kīnina kīwīnīm?” kī∙i∙nā ‘aᵉa’ᵘ Nänabucu.</span>
 
@@ -124,11 +124,11 @@ Nänabushu and the Dancing Bullrushes (1)
 
 <span class="l-orig">(14) Mīdạc a‘pī kīmādci‘tānit, ānīc mīsa gayä wīn i∙i∙māⁿ kā∙i∙ndacīwäcimut; babänạginạngä ina‘kạmigisiwaᵉ.</span>
 
-<span class="l-fiero">**Mii dash apii gii-maajitaanid, aaniish mii sa gaye wiin i’imaa gaa-indazhiiweshimod; babenaginange inakamigiziwa’.**</span>
+<span class="l-fiero">**Mii dash apii gii-maajitaanid, aaniish mii sa gaye wiin i’imaa gaa-indazhiiweshimod; babenaginange inakamigiziwan.**</span>
 
 <span class="l-eng">*Now, when the others began (dancing), thereupon then and there did he dance; a rousing time did they have.*</span>
 
-<span class="l-gloss">Mii dash apii gii-maajitaanid (now, when they began), aaniish mii sa gaye wiin i’imaa gaa-indazhiiweshimod (thereupon then and there did he dance); babenaginange inakamigiziwa’ (a rousing time did they have).</span>
+<span class="l-gloss">Mii dash apii gii-maajitaanid (now, when they began), aaniish mii sa gaye wiin i’imaa gaa-indazhiiweshimod (thereupon then and there did he dance); babenaginange inakamigiziwan (a rousing time did they have).</span>
 
 <span class="l-orig">(15) Kägätsa kiˢtcinīmiitīwa i∙i∙māⁿ.</span>
 

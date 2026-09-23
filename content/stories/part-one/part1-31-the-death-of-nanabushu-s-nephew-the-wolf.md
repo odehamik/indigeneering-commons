@@ -58,11 +58,11 @@ The Death of Nenabosho’s Nephew, the Wolf (2)
 
 <span class="l-orig">(6) Kumāgu a‘pī cigwa owâbạmān ạni‘täwạnini‘k nạmạdạbinit.</span>
 
-<span class="l-fiero">**Gomaa go apii zhigwa owaabamaan anidewaninig* namadabinid.**</span>
+<span class="l-fiero">**Gomaa go apii zhigwa owaabamaan anitewaninig namadabinid.**</span>
 
 <span class="l-eng">*Some distance on the way he saw (his nephew) seated in a spot free from snow.*</span>
 
-<span class="l-gloss">Gomaa go apii zhigwa (some distance along by now) owaabamaan anidewaninig namadabinid (he saw him sitting in a spot bare of snow).</span>
+<span class="l-gloss">Gomaa go apii zhigwa (some distance along by now) owaabamaan anitewaninig namadabinid (he saw him sitting in a spot bare of snow).</span>
 
 <span class="l-orig">(7) “Nōs, mī∙o∙mā tcinibaiyạnk,” Nänabucu udigōn.</span>
 
