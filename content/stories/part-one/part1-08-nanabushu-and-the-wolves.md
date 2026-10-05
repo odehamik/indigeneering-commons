@@ -478,11 +478,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(58) “Säⁿ! Ānīn kätotạmān i∙i∙ᵘ mackitīwinic käniayāyān?” i‘kito ‘aᵉa’ᵘ Nänabucu.</span>
 
-<span class="l-fiero">**“Senh! Aaniin ge-doodamaan iw mashkidiiwinish ge-ni-ayaayan?” ikido a’aw Nenabozho.**</span>
+<span class="l-fiero">**“Senh! Aaniin ge-doodamaan iw mashkidiiwinish ge-ni-ayaayaan?” ikido a’aw Nenabozho.**</span>
 
 <span class="l-eng">*“Disgusting! What should I do with the yielding filth that I should take it along?” said Nänabushu.*</span>
 
-<span class="l-gloss">Senh (faugh!), Aaniin ge-doodamaan iw mashkidiiwinish (what am I to do with that wretched dropping), ge-ni-ayaayan (that I should take it along?), ikido a’aw Nenabozho (said Nenabozho).</span>
+<span class="l-gloss">Senh (faugh!), Aaniin ge-doodamaan iw mashkidiiwinish (what am I to do with that wretched dropping), ge-ni-ayaayaan (that I should take it along?), ikido a’aw Nenabozho (said Nenabozho).</span>
 
 <span class="l-orig">(59) O∙ō∙widạc udigōn ini’ᵘ a‘kiwäⁿzīma∙ī∙ngạnạn: “Mämindạgä kigī∙i∙nigāmā ‘aᵉa’ᵘ kitōcîm.”</span>
 

@@ -188,11 +188,11 @@ THE FIRST-BORN SONS PLAY BALL.
 
 <span class="l-orig">(22) Mī∙i∙´u kā∙i∙jipa‘kinawāⁿ-windibạnän ‘aᵉa´ᵘ mạdcī‘kiwis.</span>
 
-<span class="l-fiero">**Mii iw gaa-izhi-bakinawaan windibanen a’aw majiikiwis.**</span>
+<span class="l-fiero">**Mii iw gaa-izhi-bakinawaan-windibanen a’aw majiikiwis.**</span>
 
 <span class="l-eng">*It is because the first-born was once beaten in a contest.*</span>
 
-<span class="l-gloss">Mii iw gaa-izhi-bakinawaan windibanen a’aw majiikiwis (it is because that first-born was once beaten in a contest — *preterite participle*).</span>
+<span class="l-gloss">Mii iw gaa-izhi-bakinawaan-windibanen a’aw majiikiwis (it is because that first-born was once beaten in a contest — *preterite participle*).</span>
 
 <span class="l-orig">(23) Kāwīn kiminwändazī pa‘kinawint.</span>
 

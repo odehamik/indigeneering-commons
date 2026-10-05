@@ -418,11 +418,11 @@ Nanabosho is fed Meat from the Back of a Woman
 
 <span class="l-orig">(51) “Wägunäna’ kägīgä∙ạ∙nk ‘aᵉa’ᵘ pīwitä?” udinān īni’ᵘ wīwạn.</span>
 
-<span class="l-fiero">**“Wegonena gegii-ge’ang a’aw biiwide?” odinaan iiniw wiiwan.**</span>
+<span class="l-fiero">**“Wegonena ge-giige’ang a’aw biiwide?” odinaan iiniw wiiwan.**</span>
 
 <span class="l-eng">*“What shall we feed the visitor?” he said to his wife.*</span>
 
-<span class="l-gloss">“Wegonena gegii-ge’ang a’aw biiwide?” (“what shall we feed this visitor?”) odinaan iiniw wiiwan (he said to his wife).</span>
+<span class="l-gloss">“Wegonena ge-giige’ang a’aw biiwide?” (“what shall we feed this visitor?”) odinaan iiniw wiiwan (he said to his wife).</span>
 
 <span class="l-orig">(52) “Wägunändac ‘iᵉi’ᵘ äyāyạn?” udigōn īni’ᵘ wīwạn.</span>
 

@@ -20,11 +20,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(1) Mīsa’ änicimādcāt mīnawä Nänabucu, ạnipapimusät mīnawa. Mīdạc kā∙i∙nändạnk: “Mīmāwīn kī‘pōmägwän kāma‘kạmit nintōcimạn. Mīsa’ cigwa tci∙ạ∙ntunäwag.” Mīsa’ kägä‘t nạntunä‘wāt, ningutingigu awiya onōntawān nạgạmunit:</span>
 
-<span class="l-fiero">**Mii sa eni-zhi-maajaad miinawaa Nenabozho, ani-babimosed miinawaa. Mii dash gaa-inendang: “Miimawin gii-boomegwen gaa-makamid nindoozhiman. Mii sa zhigwa ji-andoonewag.” Mii sa geget nandone’waad, ningodingigo awiya onoondawaan nagamonid:**</span>
+<span class="l-fiero">**Mii sa eni-zhi-maajaad miinawaa Nenabozho, ani-babimosed miinawaa. Mii dash gaa-inendang: “Mii mawin gii-boomegwen gaa-makamid nindoozhiman. Mii sa zhigwa ji-andoonewag.” Mii sa geget nandone’waad, ningodingigo awiya onoondawaan nagamonid:**</span>
 
 <span class="l-eng">*And then on his way continued Nänabushu, on his way he continued walking. Now, this was what he thought: “Perchance he thinks he is free who robbed me of my nephew. The time has now come for me to look for him.” Thereupon truly, while seeking for him, he suddenly heard some one singing:*</span>
 
-<span class="l-gloss">Mii sa (and so) ∙ eni-zhi-maajaad (as he set out) ∙ miinawaa Nenabozho (again Nenabozho) ∙ ani-babimosed (walking along) ∙ Mii dash gaa-inendang (and this is what he thought) ∙ Miimawin gii-boomegwen (perhaps he thinks himself free) ∙ gaa-makamid nindoozhiman (the one who took my nephew from me) ∙ Mii sa zhigwa ji-andoonewag (now is the time to look for him) ∙ Mii sa geget nandone’waad (and so truly seeking him) ∙ ningodingigo awiya onoondawaan nagamonid (suddenly he heard someone singing)</span>
+<span class="l-gloss">Mii sa (and so) ∙ eni-zhi-maajaad (as he set out) ∙ miinawaa Nenabozho (again Nenabozho) ∙ ani-babimosed (walking along) ∙ Mii dash gaa-inendang (and this is what he thought) ∙ Mii mawin gii-boomegwen (perhaps he thinks himself free) ∙ gaa-makamid nindoozhiman (the one who took my nephew from me) ∙ Mii sa zhigwa ji-andoonewag (now is the time to look for him) ∙ Mii sa geget nandone’waad (and so truly seeking him) ∙ ningodingigo awiya onoondawaan nagamonid (suddenly he heard someone singing)</span>
 
 <span class="l-orig">(2) “Piyä‘kwā nimbicinawicin cāⁿ.”</span>
 
@@ -126,11 +126,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(14) “Äyeᵉ, mīsạgu äna∙ạ∙mān, o∙ō∙ kābi∙a∙i∙na∙ạ∙mān:</span>
 
-<span class="l-fiero">**“Eye’, mii sago ena’aman, o’ow gaa-bi-ina’aman:**</span>
+<span class="l-fiero">**“Eye’, mii sa go ena’aman, o’ow gaa-bi-ina’aman:**</span>
 
 <span class="l-eng">*“Ay, this is the way I sing, this was how I sang while coming hitherward:*</span>
 
-<span class="l-gloss">Eye’ (ay) ∙ mii sago ena’aman (this is the way I sing) ∙ o’ow gaa-bi-ina’aman (this is how I sang coming this way)</span>
+<span class="l-gloss">Eye’ (ay) ∙ mii sa go ena’aman (this is the way I sing) ∙ o’ow gaa-bi-ina’aman (this is how I sang coming this way)</span>
 
 <span class="l-orig">(15) “Piyä‘kwā nimbicinawicin cāⁿ.”</span>
 
@@ -256,11 +256,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(30) Äcini‘kipīnit i∙i∙ᵘ mi‘tigōᵉ, mīsa’ a‘panä kägä‘t unāwändān wâsa anāmīndîm a‘ki ayānik. Ōwâbạmā ayānit pämātagānit ạnōtc awäsīyaᵉ. Mīsa wīpōsiwaᵉ ‘iᵉ∙i∙māⁿ utcīmāning, mīsa’ äcī‘kunīcawāt. “Pä‘kā,” udināᵉ. “Pānimā pīcā‘käg,” udināᵉ. Mīsa cigwa kī∙i∙nändạnk: “Ānīn käcictcigäyān awägwän käbītōt ‘iᵉi’ᵘ a‘ki?” kī∙i∙nändạm. Cigwa ugī‘kạnōnāᵉ ‘iᵉi’ᵘ mạnitōwäⁿca, mīdạc ni‘tạm nigigwạn: “Kāwīnina kītānāsi‘kaⁿsīn ‘iᵉi’ᵘ a‘ki?” udinān.</span>
 
-<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-boozigwaa imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaag. “Baanimaa biizhaakeg,” odinaag. Mii sa zhigwa gii-inendang: “Aaniin ge-izhichigeyaan awegwen ge-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaag iw manidoowenza, mii dash nitam nigigwan: “Gaawiinina gidaa-naazikanzin iw aki?” odinaan.**</span>
+<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-booziwag imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaag. “Baanimaa biizhaakeg,” odinaag. Mii sa zhigwa gii-inendang: “Aaniin ge-izhichigeyaan awegwen ge-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaag iw manidoowenza, mii dash nitam nigigwan: “Gaawiinina gidaa-naazikanzin iw aki?” odinaan.**</span>
 
 <span class="l-eng">*When the water overflowed the trees, then at once he truly realized what a long way down in the water the earth was. He saw all kinds of game-folk swimming around. And when they wished to go aboard his raft, he kept them off. “Wait,” he said to them. “Not till after a while do you come,” he said to them. And so he then thought: “How shall I do (to select) what one is to fetch some earth?” he thought. Presently he spoke to the smaller animal-folk, and so the first was the Otter: “Would you not go after some earth?” he said to him.*</span>
 
-<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-boozigwaa imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin ge-izhichigeyaan awegwen ge-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaag iw manidoowenza (he spoke to the lesser animal-folk) ∙ nitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazikanzin iw aki (would you not go after the earth) ∙ odinaag (he said to him)</span>
+<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-booziwag imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin ge-izhichigeyaan awegwen ge-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaag iw manidoowenza (he spoke to the lesser animal-folk) ∙ nitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazikanzin iw aki (would you not go after the earth) ∙ odinaag (he said to him)</span>
 
 <span class="l-orig">(31) Mīsa gägä‘t kā∙i∙cigōgīnit. Ningutingigu awäyāt kī∙u∙ndci∙ā∙pōckạndcisäwạn, kānisābāwänigwän. Kā∙i∙cipạbwätānāt, kā∙i∙cigagwätcimāt: “Ānīn?” ugī∙i∙nān.</span>
 
@@ -378,11 +378,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(45) Mīsa’ mīnawā kā∙i∙cimādcānit. Mīsa bābī∙ā∙t pīnic ni∙o∙gun. Kānī∙o∙gunạgạtnig, cigwa tạgwicinōn. “Kägätsa pīˢtcā kā∙i∙cāyān.”</span>
 
-<span class="l-fiero">**Mii sa miinawaa gaa-izhi-maajaanid. Mii sa baabii’aad biinish niiyogon. Gaa-niiyogonagadinig, zhigwa dagwishinon. “Gegetsa biichaa gaa-izhi-aayaan.”**</span>
+<span class="l-fiero">**Mii sa miinawaa gaa-izhi-maajaanid. Mii sa baabii’aad biinish niiyogon. Gaa-niiyogonagadinig, zhigwa dagwishinon. “Gegetsa biichaa gaa-izhaayaan.”**</span>
 
 <span class="l-eng">*Thereupon again off started (the Wolf). And then he awaited his coming for the space of four days. When the four days were ended, then (the Wolf) arrived. “Truly far have I been.”*</span>
 
-<span class="l-gloss">Mii sa miinawaa gaa-izhi-maajaanid (so again off he started) ∙ Mii sa baabii’aad biinish niiyogon (he awaited him four days) ∙ Gaa-niiyogonagadinig, zhigwa dagwishinon (when four days ended, he arrived) ∙ Gegetsa biichaa gaa-izhi-aayaan (truly far have I been)</span>
+<span class="l-gloss">Mii sa miinawaa gaa-izhi-maajaanid (so again off he started) ∙ Mii sa baabii’aad biinish niiyogon (he awaited him four days) ∙ Gaa-niiyogonagadinig, zhigwa dagwishinon (when four days ended, he arrived) ∙ Gegetsa biichaa gaa-izhaayaan (truly far have I been)</span>
 
 <span class="l-orig">(46) “Kāwīn,” ugī∙i∙nān: “usām ạtcina kidinänt. Kāwīn tātä∙i∙nigu‘kwāsinōn,” ugī∙i∙nān. Mīsa’ mīnawā kā∙i∙ji∙ō∙ci‘tōt; kānī∙u∙gunagạtinink, “Tạgackumā, inābin änigu‘kwāgwän mīnawā,” udinān.</span>
 
@@ -394,11 +394,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(47) Mēdạc kägä‘t kīmādcānit. Cayīgwa mīnawā kīmādcāwạn mīsa’ pābī∙ā∙t mīnawā. Ạ∙ī∙, pīnic kabäya∙ī∙ änäntinint. Cigwa tạgwicin. “Kägätsa pī‘tcā ‘iᵉi’ᵘ kā∙i∙cāyān,” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**Mii dash geget gii-maajaanid. Zhayiigwa miinawaa gii-maajaawan mii sa baabii’aad miinawaa. Aii, biinish gabeya’ii enendinind. Zhigwa dagwishin. “Gegetsa biichaa iw gaa-izhi-aayaan,” ogii-inaan.**</span>
+<span class="l-fiero">**Mii dash geget gii-maajaanid. Zhayiigwa miinawaa gii-maajaawan mii sa baabii’aad miinawaa. Aii, biinish gabeya’ii enendinind. Zhigwa dagwishin. “Gegetsa biichaa iw gaa-izhaayaan,” ogii-inaan.**</span>
 
 <span class="l-eng">*Thereupon truly off started (the Wolf). When again (the Wolf) had gone, then (Nänabushu) waited for his coming again. Oh, for a long while was he gone. Then he came back. “Truly far have I been,” he said to (Nänabushu).*</span>
 
-<span class="l-gloss">Mii dash geget gii-maajaanid (truly off he started) ∙ Zhayiigwa miinawaa gii-maajaawan mii sa baabii’aad miinawaa (when he went, he awaited him again) ∙ Aii, biinish gabeya’ii enendinind (oh, for a long while he was gone) ∙ Zhigwa dagwishin (then he came back) ∙ Gegetsa biichaa iw gaa-izhi-aayaan (truly far have I been) ∙ ogii-inaan (he said)</span>
+<span class="l-gloss">Mii dash geget gii-maajaanid (truly off he started) ∙ Zhayiigwa miinawaa gii-maajaawan mii sa baabii’aad miinawaa (when he went, he awaited him again) ∙ Aii, biinish gabeya’ii enendinind (oh, for a long while he was gone) ∙ Zhigwa dagwishin (then he came back) ∙ Gegetsa biichaa iw gaa-izhaayaan (truly far have I been) ∙ ogii-inaan (he said)</span>
 
 <span class="l-orig">(48) Mēdạc, “Äyeᵉ, asām ạtcina kidinänt,” ugī∙i∙nān. “Nawạtcisa käyābi ka∙u∙ci‘tōmin o∙o∙ a‘ki.” Mīdạc mīnawā kā∙i∙ciuji‘tōd, nawatc tcimiˢtcānig kī∙i∙cictcigät.</span>
 
@@ -410,11 +410,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(49) Mīdạc kägä‘t änī∙o∙gunagạtnik mīnawā kā∙i∙cimādcānit. Mīsa’ mīnawā pābī∙ā∙t; pīnic ningukīsis änäntinint. “Mīmāwīn iᵉi’ᵘ ā‘pitäntit,” ugī∙i∙nänimān. Kāwin nạngwana i’ᵘ käyā‘pitäntisinik, ningukīsis kā∙i∙näntinint cigwa tạgwicinōn. “Kägä‘tsa ā‘pitci pī‘tcā kā∙i∙cāyān,” i‘kitōwạn.</span>
 
-<span class="l-fiero">**Mii dash geget e-niiyogonagadinig miinawaa gaa-izhi-maajaanid. Mii sa miinawaa baabii’aad; biinish ningo-giizis enendinind. “Miimawin iw aapitendid,” ogii-inenimaan. Gaawiin nangwana iw ge-aapitendizinig*, ningo-giizis gaa-inendinind zhigwa dagwishinon. “Gegetsa aapiji biichaa gaa-izhi-aayaan,” ikidowan.**</span>
+<span class="l-fiero">**Mii dash geget e-niiyogonagadinig miinawaa gaa-izhi-maajaanid. Mii sa miinawaa baabii’aad; biinish ningo-giizis enendinind. “Mii mawin iw aapitendid,” ogii-inenimaan. Gaawiin nangwana iw ge-aapitendizinig*, ningo-giizis gaa-inendinind zhigwa dagwishinon. “Gegetsa aapiji biichaa gaa-izhi-aayaan,” ikidowan.**</span>
 
 <span class="l-eng">*Thereupon truly, after four days were ended, then again away started (the Wolf). And so again (Nänabushu) waited for his coming; for a moon was (the Wolf) away. “Perhaps now he is gone forever,” was his thought of him. But it was not time for him yet to be gone forever; so when he had been gone for a moon, then back he came. “Truly very far have I been,” said (the Wolf).*</span>
 
-<span class="l-gloss">Mii dash geget e-niiyogonagadinig miinawaa gaa-izhi-maajaanid (truly after four days off he went again) ∙ Mii sa miinawaa baabii’aad (so again he awaited him) ∙ biinish ningo-giizis enendinind (for a moon he was gone) ∙ Miimawin iw aapitendid (perhaps he is gone for good) ∙ ogii-inenimaan (he thought of him) ∙ Gaawiin nangwana iw ge-aapitendizinig (but it was not yet time for him to be gone forever — *stem flagged*) ∙ ningo-giizis gaa-inendinind zhigwa dagwishinon (after a moon he came back) ∙ Gegetsa aapiji biichaa gaa-izhi-aayaan (truly very far have I been) ∙ ikidowan (he said)</span>
+<span class="l-gloss">Mii dash geget e-niiyogonagadinig miinawaa gaa-izhi-maajaanid (truly after four days off he went again) ∙ Mii sa miinawaa baabii’aad (so again he awaited him) ∙ biinish ningo-giizis enendinind (for a moon he was gone) ∙ Mii mawin iw aapitendid (perhaps he is gone for good) ∙ ogii-inenimaan (he thought of him) ∙ Gaawiin nangwana iw ge-aapitendizinig (but it was not yet time for him to be gone forever — *stem flagged*) ∙ ningo-giizis gaa-inendinind zhigwa dagwishinon (after a moon he came back) ∙ Gegetsa aapiji biichaa gaa-izhi-aayaan (truly very far have I been) ∙ ikidowan (he said)</span>
 
 <span class="l-orig">(50) “Äyeᵉ, kāwīn ‘iᵉi’ᵘ mini‘k kitā∙i∙cinạntāwänimisinōn tci∙i∙näntiyạn,” ugī∙i∙nān. “Na∙ä∙gātạmina tātạci käbimātisit umā</span>
 
@@ -466,11 +466,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(56) Mīsa’ mīnawā pābī∙ā∙t. Cigwa mīnawā ningu‘ki‘kinōnawin kī∙i∙näntiwạn, mīdạc cigwa pīnic nicuki‘kinōnawin änäntinit. Mīsa pāpī∙ā∙t awänibạn kätạgwicininit. Mīdạc kā∙i∙nändạnk: “Awänibạn,” kī∙i∙nändạm. Mīsa’ ānubābī∙ā∙t, mīsa’ äci∙ā∙‘pitäntinit. Kā∙i∙ci∙i∙‘kitut: “Tạga, kīn, kāgāgi, kīwitāsän ạmạntc inigu‘kwāgwän,” ugī∙i∙nān.</span>
 
-<span class="l-fiero">**Mii sa miinawaa baabii’aad. Zhigwa miinawaa ningo-gikinoonowin gii-inendiwan, mii dash zhigwa biinish niizho-gikinoonowin enendinid. Mii sa baabii’aad aweniban gaa-dagwishininid. Mii dash gaa-inendang: “Aweniban,” gii-inendam. Mii sa anobaabii’ad, mii sa ezhi-aapitendinid. Gaa-izhi-ikidod: “Daga, giin, gaagaagi, giiwitaasen amanj inigokwaagwen,” ogii-inaan.**</span>
+<span class="l-fiero">**Mii sa miinawaa baabii’aad. Zhigwa miinawaa ningo-gikinoonowin gii-inendiwan, mii dash zhigwa biinish niizho-gikinoonowin enendinid. Mii sa baabii’aad aweniban ge-dagwishininid. Mii dash gaa-inendang: “Aweniban,” gii-inendam. Mii sa anobaabii’ad, mii sa ezhi-aapitendinid. Gaa-izhi-ikidod: “Daga, giin, gaagaagi, giiwitaasen amanj inigokwaagwen,” ogii-inaan.**</span>
 
 <span class="l-eng">*And so when (Nänabushu) waited again for his coming, then for another cycle of seasons was (the Wolf) absent, and then it came to pass that for two full rounds of seasons was (the Wolf) gone. And then he waited for him, but he was not destined to come back. And this was what he thought: “He is gone,” he thought. And so in vain he waited for him; but (the Wolf) was gone forever, at which he said: “Pray, you, O Raven! do you fly round over (this earth) to find out how large it is,” he said to him.*</span>
 
-<span class="l-gloss">Mii sa miinawaa baabii’aad (so again he awaited him) ∙ Zhigwa miinawaa ningo-gikinoonowin gii-inendiwan (another year he was gone) ∙ mii dash zhigwa biinish niizho-gikinoonowin enendinid (then for two years he was gone) ∙ Mii sa baabii’aad aweniban gaa-dagwishininid (he waited but he would not return) ∙ “Aweniban,” gii-inendam (‘he is gone,’ he thought) ∙ Mii sa anobaabii’ad (in vain he waited) ∙ mii sa ezhi-aapitendinid (for he was gone for good) ∙ Daga, giin, gaagaagi, giiwitaasen amanj inigokwaagwen, (pray, you, raven, fly around to see how big it is) ∙ ogii-inaan (he said to him)</span>
+<span class="l-gloss">Mii sa miinawaa baabii’aad (so again he awaited him) ∙ Zhigwa miinawaa ningo-gikinoonowin gii-inendiwan (another year he was gone) ∙ mii dash zhigwa biinish niizho-gikinoonowin enendinid (then for two years he was gone) ∙ Mii sa baabii’aad aweniban ge-dagwishininid (he waited but he would not return) ∙ “Aweniban,” gii-inendam (‘he is gone,’ he thought) ∙ Mii sa anobaabii’ad (in vain he waited) ∙ mii sa ezhi-aapitendinid (for he was gone for good) ∙ Daga, giin, gaagaagi, giiwitaasen amanj inigokwaagwen, (pray, you, raven, fly around to see how big it is) ∙ ogii-inaan (he said to him)</span>
 
 <span class="l-orig">(57) Mīdạc kägä‘t cigwa kīpạsigwa∙u∙t. Mīsa’ ‘pạnä kāmādcīsänit awänibạn ānubāpī∙ā∙t; wī‘kā ānunạntawābạmät, ninguki‘kinōnawin kā∙i∙näntinit. Cigwa pạgamisäwạn. “Äniwä‘kigu, Nänabucu, miˢtcā wo∙ō∙ a‘ki,” ugī∙i∙gōn.</span>
 
@@ -498,19 +498,19 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(60) Mīsa’ mīnawā pāpī∙ā∙t Nänabucu. Pīnic nīcuki‘kinōnuwin änäntinit; awänibạni‘ku kätagwicininit, pīnic cigwa kạbäya∙i∙ änäntinit; wī‘kā cigwa tạgwicinōn mīnawā. Mīdạc kā∙i∙nāt: “‘A, mānu nạwatc käyābi tạmiˢtcā.” Mīdạc kägä‘t mīnawā kā∙i∙ji∙ō∙ci‘tōt i∙i∙ᵘ a‘ki nī∙u∙gun, “Ānīc, tạgạckumā, mīnawā awīnābin,” ugī∙i∙nān īni’ᵘ kāgāgiwạn. Cayīgwa mīnawā pābī∙ā∙t, mīsa’ kā∙i∙ci∙ā∙‘pitäntinit. Ānupābī∙ā∙t.</span>
 
-<span class="l-fiero">**Mii sa miinawaa baabii’aad Nenabozho. Biinish niizho-gikinoonowin enendinid; aweniban igo gaa-dagwishininid, biinish zhigwa gabeya’ii enendinid; wiika zhigwa dagwishinon miinawaa. Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-michaa.” Mii dash geget miinawaa gaa-izhi-ozhitood iw aki niiyogon, “Aaniish, dagashkomaa, miinawaa awi-inaabin,” ogii-inaan iniw gaagaagiwan. Zhayiigwa miinawaa baabii’aad, mii sa gaa-izhi-aapitendinid. Anobaabii’aad.**</span>
+<span class="l-fiero">**Mii sa miinawaa baabii’aad Nenabozho. Biinish niizho-gikinoonowin enendinid; aweniban igo ge-dagwishininid, biinish zhigwa gabeya’ii enendinid; wiika zhigwa dagwishinon miinawaa. Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-michaa.” Mii dash geget miinawaa gaa-izhi-ozhitood iw aki niiyogon, “Aaniish, dagashkomaa, miinawaa awi-inaabin,” ogii-inaan iniw gaagaagiwan. Zhayiigwa miinawaa baabii’aad, mii sa gaa-izhi-aapitendinid. Anobaabii’aad.**</span>
 
 <span class="l-eng">*Thereupon again for him did Nänabushu wait. For as long as two cycles of the seasons was (the Raven) gone; as time went on, there was no sight of him coming back, continuing so till he had been gone a long while; a long time afterwards he came back again. And this was what he said to him: “Well, let it be still larger.” Thereupon truly, after he had been creating it for four days more, “Well, now, this time, again go you and see,” he said to the Raven. Again he waited for him, but this time he was gone forever. In vain he waited for him.*</span>
 
-<span class="l-gloss">Mii sa miinawaa baabii’aad Nenabozho (so again Nänabushu waited) ∙ Biinish niizho-gikinoonowin enendinid (for two years he was gone) ∙ aweniban igo gaa-dagwishininid (with no sight of his return) ∙ biinish zhigwa gabeya’ii enendinid (gone a long while) ∙ wiika zhigwa dagwishinon miinawaa (long afterward he came back) ∙ Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-michaa.” (then he said: well, let it be larger) ∙ Mii dash geget miinawaa gaa-izhi-ozhitood iw aki niiyogon (truly he made the earth four days more) ∙ Aaniish, dagashkomaa, miinawaa awi-inaabin, (well, now, go again and see) ∙ ogii-inaan iniw gaagaagiwan (he said to the raven) ∙ Zhayiigwa miinawaa baabii’aad (again he waited) ∙ mii sa gaa-izhi-aapitendinid (but he was gone forever) ∙ Anobaabii’aad (in vain he waited)</span>
+<span class="l-gloss">Mii sa miinawaa baabii’aad Nenabozho (so again Nänabushu waited) ∙ Biinish niizho-gikinoonowin enendinid (for two years he was gone) ∙ aweniban igo ge-dagwishininid (with no sight of his return) ∙ biinish zhigwa gabeya’ii enendinid (gone a long while) ∙ wiika zhigwa dagwishinon miinawaa (long afterward he came back) ∙ Mii dash gaa-inaad: “A, manoo nawaj geyaabi daa-michaa.” (then he said: well, let it be larger) ∙ Mii dash geget miinawaa gaa-izhi-ozhitood iw aki niiyogon (truly he made the earth four days more) ∙ Aaniish, dagashkomaa, miinawaa awi-inaabin, (well, now, go again and see) ∙ ogii-inaan iniw gaagaagiwan (he said to the raven) ∙ Zhayiigwa miinawaa baabii’aad (again he waited) ∙ mii sa gaa-izhi-aapitendinid (but he was gone forever) ∙ Anobaabii’aad (in vain he waited)</span>
 
 <span class="l-orig">(61) “Mīsa ‘iᵉi’ᵘ intawā kä∙i∙nigu‘kwāg o a‘ki,” ugī∙i∙nāᵉ. Mīdạc, “Mīmāwīn tciwäbā∙a∙ngibạn,” kī∙i∙‘kitō. “Intawā tcigusigunk ninga∙a∙ci‘tōn wī‘kā tcibītcimi‘kāsunu‘k.”¹</span>
 
-<span class="l-fiero">**“Mii sa iw indawaa ge-inigokwaag o aki,” ogii-inaag. Mii dash, “Miimawin ji-webaa’angiban,” gii-ikido. “Indawaa ji-goozigwang ninga-izhiton wiika ji-bichi-mikaazonok.”**</span>
+<span class="l-fiero">**“Mii sa iw indawaa ge-inigokwaag o aki,” ogii-inaag. Mii dash, “Mii mawin ji-webaa’angiban,” gii-ikido. “Indawaa ji-goozigwang ninga-izhiton wiika ji-bichi-mikaazonok.”**</span>
 
 <span class="l-eng">*“That then, no doubt, will be the extent of this earth,” he said to the (animal-folk). And now, “(I) fear that this will float away,” he said. “Therefore in order that it may be heavy will I make it so that it shall never be moved.”*</span>
 
-<span class="l-gloss">Mii sa iw indawaa ge-inigokwaag o aki (that then will be the size of this earth) ∙ ogii-inaag (he said to them) ∙ Miimawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhiton (so I will make it heavy) ∙ wiika ji-bichi-mikaazonok (so that it shall never be moved)</span>
+<span class="l-gloss">Mii sa iw indawaa ge-inigokwaag o aki (that then will be the size of this earth) ∙ ogii-inaag (he said to them) ∙ Mii mawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhiton (so I will make it heavy) ∙ wiika ji-bichi-mikaazonok (so that it shall never be moved)</span>
 
 *¹ Unfortunately the ending is incomplete. — Jones’s own footnote, printed at the foot of p.158 (the first of two notes there; the second belongs to No. 19). The marker ¹ prints at the very end of the Ojibwe text (p.158) and again on the English (p.159, ‘…shall never be moved.¹’).*
 

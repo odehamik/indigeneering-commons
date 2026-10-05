@@ -40,11 +40,11 @@ When a Wīndigō was Slain.
 
 <span class="l-orig">(3) Mōⁿjạg kīkistciwī‘kundiwạg wänicicing mīdcîm; kāwī‘kasa ogī∙a∙cạmāsiwāwān īni‘ᵘ ạnicinābän, kāwī‘kāgạnạgä oginạndumāsiwāwān kägō wā∙i∙jutcigäwādîn.</span>
 
-<span class="l-fiero">**Moozhag gii-gichi-wiikondiwag wenizhishing miijim; gaa wiikaa sa ogii-ashamaasiwaawaan iniw anishinaaben, gaawiin ganage ogii-nandomaasiwaawaan gegoo waa-izhochigewaadin waa-izhichigewaadin.**</span>
+<span class="l-fiero">**Moozhag gii-gichi-wiikondiwag wenizhishing miijim; gaa wiikaa sa ogii-ashamaasiwaawaan iniw anishinaaben, gaawiin ganage ogii-nandomaasiwaawaan gegoo waa-izhichigewaadin.**</span>
 
 <span class="l-eng">*Many a great feast they celebrated with food that was choice; yet never did they feed that man, not even did they ever invite him when they were going to bring something to pass.*</span>
 
-<span class="l-gloss">Moozhag gii-gichi-wiikondiwag (many a great feast they held) wenizhishing miijim (with food that was choice); gaa wiikaa sa ogii-ashamaasiwaawaan iniw anishinaaben (yet never did they feed that man), gaawiin ganage ogii-nandomaasiwaawaan (nor did they ever invite him) gegoo waa-izhochigewaadin [waa-izhichigewaadin] (when they were going to do something).</span>
+<span class="l-gloss">Moozhag gii-gichi-wiikondiwag (many a great feast they held) wenizhishing miijim (with food that was choice); gaa wiikaa sa ogii-ashamaasiwaawaan iniw anishinaaben (yet never did they feed that man), gaawiin ganage ogii-nandomaasiwaawaan (nor did they ever invite him) gegoo waa-izhichigewaadin (when they were going to do something).</span>
 
 <span class="l-orig">(4) Ningudingidạc päbōng kī∙ạ∙mạnisōwạg kīstcitcingwänik a‘ki, kīmạmāsi‘kā a‘ki.</span>
 

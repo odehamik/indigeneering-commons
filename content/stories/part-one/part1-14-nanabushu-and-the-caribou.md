@@ -42,19 +42,19 @@ Nanabushu and the Caribou (1)
 
 <span class="l-orig">(4) Kägätsa umisawīnawān.</span>
 
-<span class="l-fiero">**Geget sa omisawenimaan.**</span>
+<span class="l-fiero">**Geget sa omisawiinawaan.**</span>
 
 <span class="l-eng">*and so he (Nänabushu) wanted to get him.*</span>
 
-<span class="l-gloss">Geget sa omisawenimaan (and truly he wanted him).</span>
+<span class="l-gloss">Geget sa omisawiinawaan (and truly he wanted him).</span>
 
 <span class="l-orig">(5) “Ạmạntcigic kä∙i∙nā‘pinanāwạgipanän?”</span>
 
-<span class="l-fiero">**“Amanj igosh ge-inaapinanaawagipanen?”**</span>
+<span class="l-fiero">**“Amanj igish ge-inaapinanaawagipanen?”**</span>
 
 <span class="l-eng">*“Wonder how can I get hold of him!”*</span>
 
-<span class="l-gloss">“Amanj igosh ge-inaapinanaawagipanen?” (“wonder how I could get hold of him!”)</span>
+<span class="l-gloss">“Amanj igish ge-inaapinanaawagipanen?” (“wonder how I could get hold of him!”)</span>
 
 <span class="l-orig">(6) Äciwâbạmigut, “Intacītug käpasämit,” inändạm ‘aᵘ ạdi‘k.</span>
 

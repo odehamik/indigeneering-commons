@@ -36,11 +36,11 @@ BLUE-GARTER.
 
 <span class="l-orig">(3) Mīdạc kīwäⁿ kwīwisäns nạntawäntcigät, nisāt wâbōzōn; kagä wīn dạc i‘kwäsäns, mạnisä tcībākwä kayä ändāwāt.</span>
 
-<span class="l-fiero">**Mii dash giiwenh gwiiwizens nantawenchiget, nisaat waaboozoon; gegaa wiin dash ikwesens, manise chiibaakwe gaye endaawaat.**</span>
+<span class="l-fiero">**Mii dash giiwenh gwiiwizens nantawenchiget, nisaat waaboozoon; gaye wiin dash ikwesens, manise chiibaakwe gaye endaawaat.**</span>
 
 <span class="l-eng">*And then, according to the story, the boy began to hunt for game (and) killed rabbits; and as for the girl, she gathered firewood and did the cooking at where they lived.*</span>
 
-<span class="l-gloss">Mii dash giiwenh (and then, so the story goes) gwiiwizens (the boy) nantawenchiget (went hunting for game), nisaat (killing) waaboozoon (rabbits); gegaa wiin dash (and as for the other one) ikwesens (the girl), manise (she gathered firewood) chiibaakwe (and cooked) gaye endaawaat (there at where they lived).</span>
+<span class="l-gloss">Mii dash giiwenh (and then, so the story goes) gwiiwizens (the boy) nantawenchiget (went hunting for game), nisaat (killing) waaboozoon (rabbits); gaye wiin dash (and as for the other one) ikwesens (the girl), manise (she gathered firewood) chiibaakwe (and cooked) gaye endaawaat (there at where they lived).</span>
 
 <span class="l-orig">(4) Mīdạc kiwä äckạm ạniminditōwāt; aᵘ dac kīwäⁿ kwiwisäns äckạm ạniki‘tci∙u∙ckinawäwi, ki‘tci awäsīⁿyạn kayä onisān.</span>
 
@@ -2610,11 +2610,11 @@ BLUE-GARTER.
 
 <span class="l-orig">(324) Mēdạc äji∙ō∙dā‘pinạng manōmin mādcāt.</span>
 
-<span class="l-fiero">**Me dash ezhi-oodaapinang manoomin maajaat.**</span>
+<span class="l-fiero">**Mii dash ezhi-oodaapinang manoomin maajaat.**</span>
 
 <span class="l-eng">*And then, taking some rice, she started.*</span>
 
-<span class="l-gloss">Me dash ezhi-oodaapinang manoomin maajaat (and then, taking some rice, she set off).</span>
+<span class="l-gloss">Mii dash ezhi-oodaapinang manoomin maajaat (and then, taking some rice, she set off).</span>
 
 <span class="l-orig">(325) Mīdạc minawā i‘kwä änāt unābämạn:</span>
 

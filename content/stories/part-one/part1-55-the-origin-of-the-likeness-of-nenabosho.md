@@ -26,11 +26,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(2) Ningudingidạc kī‘kusiwạg Nänabucū wīwạn, ō‘kumisạndạc ogīwīdciwigōwān. Mōjạg</span>
 
-<span class="l-fiero">**Ngoding dash gii-aanjiiwag Nenaboozhoo wiiwan, gookmisan dash ogii-wiijii’aagoowaan.**</span>
+<span class="l-fiero">**Ngoding dash gii-goziwag Nenaboozhoo wiiwan, ookmisan dash ogii-wiijii’aagoowaan.**</span>
 
 <span class="l-eng">*Now, once on a time to another place moved Nänabushu and his wife, and by his grandmother were they accompanied.*</span>
 
-<span class="l-gloss">Ngoding dash (now once) gii-aanjiiwag (they moved camp) Nenaboozhoo wiiwan (Nenabosho and his wife), gookmisan dash (and his grandmother) ogii-wiijii’aagoowaan (went along with them).</span>
+<span class="l-gloss">Ngoding dash (now once) gii-goziwag (they moved camp) Nenaboozhoo wiiwan (Nenabosho and his wife), ookmisan dash (and his grandmother) ogii-wiijii’aagoowaan (went along with them).</span>
 
 <span class="l-orig">(3) kī∙ạ∙ndawändcigä.</span>
 
@@ -106,11 +106,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(12) Mīdạc kā∙i∙jiwījāmāt o‘kumisạn iwiti u‘kunimīng.</span>
 
-<span class="l-fiero">**Mii dash gaa-zhi-wiijiiwaad gookmisan widi okonimiing.**</span>
+<span class="l-fiero">**Mii dash gaa-zhi-wiizhaamaad ookmisan widi okonimiing.**</span>
 
 <span class="l-eng">*Thereupon he had his grandmother go with him to yonder (beaver) dam.*</span>
 
-<span class="l-gloss">Mii dash gaa-zhi-wiijiiwaad gookmisan (and so he had his grandmother go with him) widi okonimiing (over there to the dam).</span>
+<span class="l-gloss">Mii dash gaa-zhi-wiizhaamaad ookmisan (and so he had his grandmother go with him) widi okonimiing (over there to the dam).</span>
 
 <span class="l-orig">(13) A‘pī∙i∙dạc kā‘pīgwa∙ạ∙nk ‘iᵉi’ᵘ u‘kunim, “Mīomāⁿ ayān, kanawändạn tcipimābōnusik ‘aᵉa’ᵘ ạmi‘k,” udinān. Ā!</span>
 
@@ -138,11 +138,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(16) Mīdạc imā Micibigwadōminising kīājawikwāskunit; mägwādạc imā nībawit owâbạmān nīgigwạn äniniska‘tänik.</span>
 
-<span class="l-fiero">**Mii dash maa Mishibigwadoo-mnising gaa-aazhigwaashkonid; megwaa dash imaa niibawid waabmaan ngigwan eni-skatenig.**</span>
+<span class="l-fiero">**Mii dash maa Mishibigwadoo-mnising gii-aazhigwaashkonid; megwaa dash imaa niibawid waabmaan ngigwan eni-skatenig.**</span>
 
 <span class="l-eng">*And then across to Michipicoten Island he leaped; and while he was standing over there, he saw an otter where the water was running low.*</span>
 
-<span class="l-gloss">Mii dash maa Mishibigwadoo-mnising gaa-aazhigwaashkonid (and so he leaped across to Mishibiigwadoo Island); megwaa dash imaa niibawid (and while he stood there) waabmaan ngigwan (he saw an otter) eni-skatenig (where the water was going dry).</span>
+<span class="l-gloss">Mii dash maa Mishibigwadoo-mnising gii-aazhigwaashkonid (and so he leaped across to Mishibiigwadoo Island); megwaa dash imaa niibawid (and while he stood there) waabmaan ngigwan (he saw an otter) eni-skatenig (where the water was going dry).</span>
 
 <span class="l-orig">(17) Mīdac kā∙i∙jiminawā∙ā∙jawigwāskunit, mīdạc imā ugī∙u∙jācicing ajajkīkāng.</span>
 
@@ -218,11 +218,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(26) Cigwadạc kāmanicạnk päjik ‘iᵉi’ᵘ nigikutawạg, mī∙i’∙ᵘ nōndawāt ō‘kumisạn mạdwäkwīckucinit iwiti Bāwi‘ting.</span>
 
-<span class="l-fiero">**Zhigwa dash gaa-giizhkizhang bezhig wi ngig-otawag, mii wi noondwaad gookmisan mdwe-gwiishkzhinid widi Baawting.**</span>
+<span class="l-fiero">**Zhigwa dash gaa-manizhang bezhig wi ngig-otawag, mii wi noondwaad ookmisan mdwe-gwiishkzhinid widi Baawting.**</span>
 
 <span class="l-eng">*And when with a knife he sliced off one of the otter’s ears, he then heard the sound of his grandmother whistling off yonder at the Sault.*</span>
 
-<span class="l-gloss">Zhigwa dash gaa-giizhkizhang (and when he sliced off) bezhig wi ngig-otawag (one of the otter’s ears), mii wi noondwaad gookmisan (he then heard his grandmother) mdwe-gwiishkzhinid (whistling) widi Baawting (off yonder at the Sault).</span>
+<span class="l-gloss">Zhigwa dash gaa-manizhang (and when he sliced off) bezhig wi ngig-otawag (one of the otter’s ears), mii wi noondwaad ookmisan (he then heard his grandmother) mdwe-gwiishkzhinid (whistling) widi Baawting (off yonder at the Sault).</span>
 
 <span class="l-orig">(27) Mīdạc kā∙i∙jipasingutcisät, kīmādcība‘tōd.</span>
 
@@ -234,11 +234,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(28) A‘pī∙i∙dạc pägạmiba‘tōd iwiti Bāwi‘ting, “Ānīn?” udinān ō‘kumisạn.</span>
 
-<span class="l-fiero">**Pii dash begmabtood widi Baawting, “Aaniin?” dinaan gookmisan.**</span>
+<span class="l-fiero">**Pii dash begmabtood widi Baawting, “Aaniin?” dinaan ookmisan.**</span>
 
 <span class="l-eng">*And when he came running up to yonder Sault, “What (is it)?” he said to his grandmother.*</span>
 
-<span class="l-gloss">Pii dash begmabtood widi Baawting (and when he came running up to the Sault), “Aaniin?” (“what is it?”) dinaan gookmisan (he said to his grandmother).</span>
+<span class="l-gloss">Pii dash begmabtood widi Baawting (and when he came running up to the Sault), “Aaniin?” (“what is it?”) dinaan ookmisan (he said to his grandmother).</span>
 
 <span class="l-orig">(29) Mīdạc ä‘kitut ‘aᵉa’ᵘ ma‘ka‘kīmindimōyä: “Āja a‘panä, kīpimābōnu aᵘ ạmi‘k.”</span>
 
@@ -250,11 +250,11 @@ The Origin of Likeness of Nenabosho
 
 <span class="l-orig">(30) Ä‘pī‘tci nîskādisit dạc ‘aᵉa’ᵘ Nänabucū mī∙i’∙ᵘ kā∙i∙jinīwana‘wāt ō‘kumisạn.</span>
 
-<span class="l-fiero">**Epiichi-nshkaadzid dash wa Nenaboozhoo mii wi gaa-zhi-naaniimadwaad niwi gookmisan.**</span>
+<span class="l-fiero">**Epiichi-nshkaadzid dash wa Nenaboozhoo mii wi gaa-zhi-naaniimadwaad niwi ookmisan.**</span>
 
 <span class="l-eng">*And so angry was Nänabushu, that he then smote his grandmother (till she was dead).*</span>
 
-<span class="l-gloss">Epiichi-nshkaadzid dash wa Nenaboozhoo (and so angry was Nenabosho) mii wi gaa-zhi-naaniimadwaad niwi gookmisan (that he struck his grandmother again and again).</span>
+<span class="l-gloss">Epiichi-nshkaadzid dash wa Nenaboozhoo (and so angry was Nenabosho) mii wi gaa-zhi-naaniimadwaad niwi ookmisan (that he struck his grandmother again and again).</span>
 
 <span class="l-orig">(31) Miziwädạc kīmîskwīwâbi‘kā iᵘ wạdciᵘ.</span>
 

@@ -52,11 +52,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(5) Mīdạc kägä‘t kī‘ta‘kābāwinint, mīdạc kā∙i∙cimi‘kawit. Mīdạc kā∙i∙gut īni’ᵘ a‘kiwäⁿzīyạn: “Nänabucu, kanawâbạmiwambạnsa.”</span>
 
-<span class="l-fiero">**Mii dash geget gii-da-gaabaawinind, mii dash gaa-izhi-mikawid. Mii dash gaa-igod iniw akiwenziiyan: “Nenabozho, ganawaabamiwaambanza.”**</span>
+<span class="l-fiero">**Mii dash geget gii-dakaabaawinind, mii dash gaa-izhi-mikawid. Mii dash gaa-igod iniw akiwenziiyan: “Nenabozho, ganawaabamiwaambanza.”**</span>
 
 <span class="l-eng">*And so they truly cooled him off with water, whereupon he was then revived. Accordingly was he then told by the old (Wolf): “Nänabushu, really you were looking at me.”*</span>
 
-<span class="l-gloss">Mii dash geget gii-da-gaabaawinind (and so truly he was cooled off with water) ∙ mii dash gaa-izhi-mikawid (and then he came to / was revived) ∙ mii dash gaa-igod iniw akiwenziiyan (and then he was told by the old man) ∙ Nenabozho, ganawaabamiwaambanza (Nenabozho, you really were watching me).</span>
+<span class="l-gloss">Mii dash geget gii-dakaabaawinind (and so truly he was cooled off with water) ∙ mii dash gaa-izhi-mikawid (and then he came to / was revived) ∙ mii dash gaa-igod iniw akiwenziiyan (and then he was told by the old man) ∙ Nenabozho, ganawaabamiwaambanza (Nenabozho, you really were watching me).</span>
 
 <span class="l-orig">(6) “Kāwīn, kāwīn!”</span>
 

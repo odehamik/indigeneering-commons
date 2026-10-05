@@ -58,11 +58,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(6) Mīdec Nänabucu änändạnk: “Ictä mītạgic kā∙i∙ci‘pạn nō‘komis tcipīntcibōnāgạni‘käyān.</span>
 
-<span class="l-fiero">**Mii dash Nenabozho enendang: “Ishte, miidagish gaa-izhi’ipan nookomis ji-biinjibonaaganikeyaan.**</span>
+<span class="l-fiero">**Mii dash Nenabozho enendang: “Ishte, miidagish gaa-izhipan nookomis ji-biinjibonaaganikeyaan.**</span>
 
 <span class="l-eng">*Thereupon Nänabushu thought: “Quite so, that is what my grandmother had told me, that I should go to catch fish with the fish-trap.*</span>
 
-<span class="l-gloss">Mii dash Nenabozho enendang (thereupon Nenabozho thought): “Ishte, miidagish (quite so, that’s just it — flagged), gaa-izhi’ipan nookomis (that’s what my grandmother had once told me — flagged construction), ji-biinjibonaaganikeyaan (that I should go fish-trapping — flagged).</span>
+<span class="l-gloss">Mii dash Nenabozho enendang (thereupon Nenabozho thought): “Ishte, miidagish (quite so, that’s just it — flagged), gaa-izhipan nookomis (that’s what my grandmother had once told me — flagged construction), ji-biinjibonaaganikeyaan (that I should go fish-trapping — flagged).</span>
 
 <span class="l-orig">(7) Māgicā nō‘kumis aiyä‘kusitug pạnä wīyās mīdcît,” inändạm Nänabucō.</span>
 
@@ -74,11 +74,11 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-orig">(8) “Kīⁿgōⁿyạndạc kạnạbạtc uwī∙ạ∙mwān,” inändạm. Mīdạc änāt: “Nō‘kumis, kā∙i∙ciyạmbạnidạc undcipīndcibōnāgạni‘käyān?”</span>
 
-<span class="l-fiero">**“Giigoonyan dash ganabaj owii-amwaan,” inendam. Mii dash enaad: “Nookomis, gaa-izhi-amban idash onji-biinjibonaaganikeyaan?”**</span>
+<span class="l-fiero">**“Giigoonyan dash ganabaj owii-amwaan,” inendam. Mii dash enaad: “Nookomis, gaa-izhiyamban idash onji-biinjibonaaganikeyaan?”**</span>
 
 <span class="l-eng">*“Now, fish she probably wants to eat,” he thought. Thereupon he said to her: “My grandmother, (you remember) what you told me about catching fish with a fish-trap?”*</span>
 
-<span class="l-gloss">“Giigoonyan dash ganabaj owii-amwaan (fish, probably, she wants to eat — flagged),” inendam (he thought). Mii dash enaad (thereupon he said to her): “Nookomis, gaa-izhi-amban idash (my grandmother, what you had once told me — flagged), onji-biinjibonaaganikeyaan (about my going fish-trapping — flagged)?”</span>
+<span class="l-gloss">“Giigoonyan dash ganabaj owii-amwaan (fish, probably, she wants to eat — flagged),” inendam (he thought). Mii dash enaad (thereupon he said to her): “Nookomis, gaa-izhiyamban idash (my grandmother, what you had once told me — flagged), onji-biinjibonaaganikeyaan (about my going fish-trapping — flagged)?”</span>
 
 <span class="l-orig">(9) “Äyäᵉ,” i‘kitu mindimōyä.</span>
 

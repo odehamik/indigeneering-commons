@@ -389,11 +389,11 @@ Waabang (tomorrow) a’aw mooz wii-bimi-nizhawad (you will go in pursuit of that
 
 <span class="l-orig">(47) Imādạc sāgitawāg iᵘ sībi mī∙i∙mā ayāg ‘iᵉi’ᵘ mīnisinatāwangā; mīdạc imā ändạcikīcigạnicit ‘aᵉa’ᵘ ugimāmicipici kīcpīn mica‘kwatinig.</span>
 
-<span class="l-fiero">**Imaa dash zaagidawaag iw ziibi mii imaa ayaag i’iw minisinadaawangaa; mii dash imaa endazhi-gii-zhigishing a’aw ogimaa mishibizhi giishpin mizhakwadinig.**</span>
+<span class="l-fiero">**Imaa dash zaagidawaag iw ziibi mii imaa ayaag i’iw minisinadaawangaa; mii dash imaa endazhi-giizhiganishid a’aw ogimaa mishibizhi giishpin mizhakwadinig.**</span>
 
 <span class="l-eng">*Now, yonder, where the river flows out into the open, is an island of sand; and it is there the chief of the big lynxes whiles the day away when the sky is clear.*</span>
 
-<span class="l-gloss">Imaa dash zaagidawaag iw ziibi (yonder where the river flows out into the open) mii imaa ayaag i’iw minisinadaawangaa (there is an island of sand); mii dash imaa endazhi-gii-zhigishing a’aw ogimaa mishibizhi (and it is there the chief of the big lynxes lies and passes the day) giishpin mizhakwadinig (when the sky is clear).</span>
+<span class="l-gloss">Imaa dash zaagidawaag iw ziibi (yonder where the river flows out into the open) mii imaa ayaag i’iw minisinadaawangaa (there is an island of sand); mii dash imaa endazhi-giizhiganishid a’aw ogimaa mishibizhi (and it is there the chief of the big lynxes lies and passes the day) giishpin mizhakwadinig (when the sky is clear).</span>
 
 <span class="l-orig">(48) Ā‘pidci minugīcigạtinig mī pitcīnạg ạgwā‘tāt i∙i∙mā mīnisinạtāwangāng.</span>
 
@@ -829,11 +829,11 @@ Waabang (tomorrow) a’aw mooz wii-bimi-nizhawad (you will go in pursuit of that
 
 <span class="l-orig">(102) Mīsa’ kāwīn täbwä∙ạ∙ndạⁿzī ‘aᵉa’ᵘ ugimā.</span>
 
-<span class="l-fiero">**Mii sa gaawiin debwe’andazii a’aw ogimaa.**</span>
+<span class="l-fiero">**Mii sa gaawiin debweyendanzii a’aw ogimaa.**</span>
 
 <span class="l-eng">*But the chief did not believe (what the Serpent said).*</span>
 
-<span class="l-gloss">Mii sa gaawiin debwe’andazii a’aw ogimaa (but the chief did not believe it).</span>
+<span class="l-gloss">Mii sa gaawiin debweyendanzii a’aw ogimaa (but the chief did not believe it).</span>
 
 <span class="l-orig">(103) “Tạga, gīn ma‘kwa, awibāsạgubic. Mī guca aᵘ Nänabucu.”</span>
 

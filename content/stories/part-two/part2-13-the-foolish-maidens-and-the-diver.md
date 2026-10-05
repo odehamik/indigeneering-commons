@@ -344,11 +344,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(41) “Kīcpîn uji‘tōyäg nībiwa wīgu‘p kạbōni‘kiyābīkinininim ändana‘kīyägubạn tcī∙i∙jāyäg.”</span>
 
-<span class="l-fiero">**“Giishpin ozhitooyeg niibiwa wiigob ga-boonikiyaabikinininim endanakiiyegoban ji-izhaayeg.”**</span>
+<span class="l-fiero">**“Giishpin ozhitooyeg niibiwa wiigob ga-boonikiyaabiiginininim* endanakiiyegoban ji-izhaayeg.”**</span>
 
 <span class="l-eng">*“If you will make a long cord, I will let you down, so that you can go back to the place where you live.”*</span>
 
-<span class="l-gloss">“Giishpin ozhitooyeg niibiwa wiigob (if you make a lot of basswood cord) ga-boonikiyaabikinininim (I will let you down by the line) endanakiiyegoban (to where you used to live) ji-izhaayeg (so you may be there).”</span>
+<span class="l-gloss">“Giishpin ozhitooyeg niibiwa wiigob (if you make a lot of basswood cord) ga-boonikiyaabiiginininim* (I will let you down by the line) endanakiiyegoban (to where you used to live) ji-izhaayeg (so you may be there).”</span>
 
 <span class="l-orig">(42) Mēdac kägä‘t kī∙o∙ji‘tōwād nībiwa wīgu‘p.</span>
 
@@ -384,11 +384,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(46) “Mī∙i∙´wide ändạna‘kīyägubạn kädijaiyäg.”</span>
 
-<span class="l-fiero">**“Mii iwidi endanakiiyegoban ged-izhi-ayeg.”**</span>
+<span class="l-fiero">**“Mii iwidi endanakiiyegoban ged-izhaayeg.”**</span>
 
 <span class="l-eng">*“Now to the place where you used to live is where you shall go.”*</span>
 
-<span class="l-gloss">“Mii iwidi endanakiiyegoban (over yonder where you used to live) ged-izhi-ayeg (is where you shall go).”</span>
+<span class="l-gloss">“Mii iwidi endanakiiyegoban (over yonder where you used to live) ged-izhaayeg (is where you shall go).”</span>
 
 <span class="l-orig">(47) Mēdạc kägä‘t kī‘pōziwād imāⁿ wedạbīwäjing, mī∙i∙dạc pōnābīginindwā.</span>
 
@@ -448,11 +448,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(54) “Kägu´ pina! kigī∙o∙ndcī∙i∙gunān ku´ca kō‘komîsinān.”</span>
 
-<span class="l-fiero">**“Gego bina! gigii-onji-igonaan gosha gookomisinaan.”**</span>
+<span class="l-fiero">**“Gego bina! gigii-onji’igonaan gosha gookomisinaan.”**</span>
 
 <span class="l-eng">*“Please don’t! for you know we were forbidden by our grandmother.”*</span>
 
-<span class="l-gloss">“Gego bina (please don’t)! gigii-onji-igonaan gosha gookomisinaan (for our grandmother forbade us).”</span>
+<span class="l-gloss">“Gego bina (please don’t)! gigii-onji’igonaan gosha gookomisinaan (for our grandmother forbade us).”</span>
 
 <span class="l-orig">(55) Mīnawā i‘kidō ‘aᵉaᵘ i‘kwä:</span>
 
@@ -792,11 +792,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(97) Käga‘pī∙i∙dac i‘kido aᵘ cingibis:</span>
 
-<span class="l-fiero">**Gegaa pii idash ikido aw zhingibis:**</span>
+<span class="l-fiero">**Gegapii idash ikido aw zhingibis:**</span>
 
 <span class="l-eng">*And then at last said Diver:*</span>
 
-<span class="l-gloss">Gegaa pii idash ikido aw zhingibis (and at last Diver said):</span>
+<span class="l-gloss">Gegapii idash ikido aw zhingibis (and at last Diver said):</span>
 
 <span class="l-orig">(98) “Kāwīnīn nindāwisī cingibis. Nīn wämīgisigō.”¹</span>
 
@@ -980,11 +980,11 @@ The Foolish Maidens and the Diver
 
 <span class="l-orig">(120) Mīnawādec ạdi‘kwạn wâbạmāwān.</span>
 
-<span class="l-fiero">**Miinawaa dash adik waabamaawaan.**</span>
+<span class="l-fiero">**Miinawaa dash adikwan waabamaawaan.**</span>
 
 <span class="l-eng">*And next a caribou they saw,*</span>
 
-<span class="l-gloss">Miinawaa dash adik waabamaawaan (and next they saw a caribou).</span>
+<span class="l-gloss">Miinawaa dash adikwan waabamaawaan (and next they saw a caribou).</span>
 
 <span class="l-orig">(121) Mīgu mīnawā kā∙i∙kidot:</span>
 

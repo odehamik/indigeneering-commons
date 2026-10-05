@@ -84,11 +84,11 @@ THE MINK AND THE MARTEN.
 
 <span class="l-orig">(9) Mēdạc ä‘kidot ‘aᵉaᵘ ōgō:</span>
 
-<span class="l-fiero">**Me dash ekidot a’aw oogoo:**</span>
+<span class="l-fiero">**Mii dash ekidot a’aw oogoo:**</span>
 
 <span class="l-eng">*Thereupon said Pickerel:*</span>
 
-<span class="l-gloss">Me dash ekidot a’aw oogoo (thereupon said that Pickerel):</span>
+<span class="l-gloss">Mii dash ekidot a’aw oogoo (thereupon said that Pickerel):</span>
 
 <span class="l-orig">(10) “Ānīn äjimid, ‘aᵉaᵘ mayānādisid nāsawädāmi‘kạng?”</span>
 
@@ -220,11 +220,11 @@ THE MINK AND THE MARTEN.
 
 <span class="l-orig">(26) Mēdạc kägä‘t kī∙u∙ci‘tōwād ändāwād; mē∙i∙dạc îmāⁿ kā∙u∙ndcimāmādcāwād nạndawändcigäwād.</span>
 
-<span class="l-fiero">**Me dash keget kii-oshitoowaad endaawaad; me idash iimanh kaa-onji-maamaajaawaad nandawenjigewaad.**</span>
+<span class="l-fiero">**Mii dash keget kii-oshitoowaad endaawaad; me idash iimanh kaa-onji-maamaajaawaad nandawenjigewaad.**</span>
 
 <span class="l-eng">*So thereupon, indeed, they built a place where to dwell; and so from thence they departed when they went to hunt for game.*</span>
 
-<span class="l-gloss">Me dash keget kii-oshitoowaad endaawaad (so indeed they built where they would dwell); me idash iimanh kaa-onji-maamaajaawaad (and so from there they set out) nandawenjigewaad (when they went hunting for game).</span>
+<span class="l-gloss">Mii dash keget kii-oshitoowaad endaawaad (so indeed they built where they would dwell); me idash iimanh kaa-onji-maamaajaawaad (and so from there they set out) nandawenjigewaad (when they went hunting for game).</span>
 
 <span class="l-orig">(27) Wâbijäci wīn, wâbōzōn onōdci∙ā∙n, pînäwạn, ạdcidạmōn, awâbigạnōdcī∙ạ∙n.</span>
 

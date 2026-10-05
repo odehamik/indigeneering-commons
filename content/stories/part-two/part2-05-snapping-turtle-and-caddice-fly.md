@@ -453,11 +453,11 @@ Ya oo, ya i’, ya i’, ya i’, ya i’ (vocables, carried verbatim).</span>
 
 <span class="l-orig">(53) “Kāwīn wī‘kā kibitcisäsinōn mini‘k pā‘kīwạnk, kāwīn gayä wī‘kā tạgibitcisäsinōn mini‘k kädạnia‘kīwank.</span>
 
-<span class="l-fiero">**“Gaawiin wiikaa gii-bijisesinoon minik ba-akiiwang, gaawiin gaye wiikaa da-gibijisesinoon minik ged-ani-akiiwang.**</span>
+<span class="l-fiero">**“Gaawiin wiikaa gibijisesinoon minik ba-akiiwang, gaawiin gaye wiikaa da-gibijisesinoon minik ged-ani-akiiwang.**</span>
 
 <span class="l-eng">*“Never has it ceased swaying since the world began, and never will it be still as long as the world lasts.*</span>
 
-<span class="l-gloss">“Gaawiin wiikaa gii-bijisesinoon (never has it ceased swaying) minik ba-akiiwang (since the world began), gaawiin gaye wiikaa da-gibijisesinoon (and never will it be still) minik ged-ani-akiiwang (as long as the world lasts).</span>
+<span class="l-gloss">“Gaawiin wiikaa gibijisesinoon (never has it ceased swaying) minik ba-akiiwang (since the world began), gaawiin gaye wiikaa da-gibijisesinoon (and never will it be still) minik ged-ani-akiiwang (as long as the world lasts).</span>
 
 <span class="l-orig">(54) Kîcpîn ä‘ta mīziwä änigu‘kwāg owe kījik ạnwā‘tink miyä‘taⁱ māgijā tcigibitcisägibạn.</span>
 

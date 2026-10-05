@@ -20,11 +20,11 @@ Nanabushu and the Mallard (1)
 
 <span class="l-orig">(1) Ānīc, cayīgwa mīnawā pa‘kadä Nänabucu. Ningutingiku mīnawā udōtisān ạnicinābäᵉ, mī käyābi nīⁿciwaᵉ unītcānisinini. Mīsa´ ani∙ī∙nābit, “Wägutugwän mādcīwāgwän?” inändạm.</span>
 
-<span class="l-fiero">**Aaniish, zhigwa miinawaa bakade Nanabozho. Ningodingigo miinawaa odoodisaan anishinaaben, mii geyaabi niizhiwan onijaanisinini. Miisa ani-inaabid, “Wegonen-igo madiiwaagwen?” inendam.**</span>
+<span class="l-fiero">**Aaniish, zhigwa miinawaa bakade Nanabozho. Ningodingigo miinawaa odoodisaan anishinaaben, mii geyaabi niizhiwan onijaanisinini. Miisa ani-inaabid, “Wegodogwen madiiwaagwen?” inendam.**</span>
 
 <span class="l-eng">*Well, already was Nänabushu again becoming hungry. And one other time he came to some people, and they also had two children. And now, as he looked about, “What in the world must they have to eat?” he thought.*</span>
 
-<span class="l-gloss">Aaniish (well), zhigwa miinawaa bakade Nanabozho (now again Nanabozho is hungry), ningodingigo miinawaa odoodisaan anishinaaben (one time again he visits some people), mii geyaabi niizhiwan onijaanisinini (they too have two children), Miisa ani-inaabid (so as he looks about), Wegonen-igo madiiwaagwen (what could there be to eat), inendam (he thinks).</span>
+<span class="l-gloss">Aaniish (well), zhigwa miinawaa bakade Nanabozho (now again Nanabozho is hungry), ningodingigo miinawaa odoodisaan anishinaaben (one time again he visits some people), mii geyaabi niizhiwan onijaanisinini (they too have two children), Miisa ani-inaabid (so as he looks about), Wegodogwen madiiwaagwen (what could there be to eat), inendam (he thinks).</span>
 
 *Jones’s footnote ¹, printed at the foot of the Ojibwe p.316 below a rule, its marker on the story heading (verified at 20× and 46×): “For another version see No. 41 (p. 351).” The heading itself prints 37. NÄNABUSHU AND THE MALLARD.¹ — small caps, diaeresis on the Ä, superscript ¹; titleJones had neither and is corrected from the page (B29, 2026-08-28).*
 
@@ -56,11 +56,11 @@ Nanabushu and the Mallard (1)
 
 <span class="l-orig">(5) Mīsa´ gägä‘t, cigwa wī‘kīwät, mīnawā äcicängwāntạgināt mī∙i´∙ᵘ ugīcō‘tä∙o∙naᵉ. Pānimāgu mīnawā mạdwäbībāgit. “ ‘Ōᵘ!” mạdwäpīpāgi.</span>
 
-<span class="l-fiero">**Miisa geget, zhigwa wii-giiwed, miinawaa ezhi-zhaangwendaginad* mii i’iw ogiizhoode’on. Baanimaago miinawaa madwe-bidbaagid*. “ ‘O-i!” madwe-bidbaagi.**</span>
+<span class="l-fiero">**Miisa geget, zhigwa wii-giiwed, miinawaa ezhi-zhaangwendaginad* mii i’iw ogiizhoode’on. Baanimaago miinawaa madwe-biibaagid. “ ‘O-i!” madwe-biibaagi.**</span>
 
 <span class="l-eng">*Thereupon truly, while about to return, he again put his mittens (in among the balsam boughs). And later on he was again heard calling with a loud voice: “Oh!” he was heard calling out.*</span>
 
-<span class="l-gloss">Miisa geget, zhigwa wii-giiwed (so truly, now about to go home), miinawaa ezhi-zhaangwendaginad (again he leaves behind / makes mention of) mii i’iw ogiizhoode’on (his mittens), baanimaago miinawaa madwe-bidbaagid (then again he is heard calling out), ‘O-i! madwe-bidbaagi (“O-i!” he is heard calling out).</span>
+<span class="l-gloss">Miisa geget, zhigwa wii-giiwed (so truly, now about to go home), miinawaa ezhi-zhaangwendaginad (again he leaves behind / makes mention of) mii i’iw ogiizhoode’on (his mittens), baanimaago miinawaa madwe-biibaagid (then again he is heard calling out), ‘O-i! madwe-biibaagi (“O-i!” he is heard calling out).</span>
 
 <span class="l-orig">(6) “Nänabucu kägowi‘kitōtug,” udinān. “Kägä‘t, kiwạnicigāgumä! Tạga, inābiwi‘k i∙i∙witi gāgītạnạbit.”</span>
 
@@ -96,27 +96,27 @@ Nanabushu and the Mallard (1)
 
 <span class="l-orig">(10) Ānīc mīsa´, gägä‘t, wayābạninig ijānit īni´ᵘ ininiwạn. Ānīc mī∙i´∙ᵘ pāpī∙u∙t Nänabucu. Cigwa mạdwäkīgitōwaᵉ: “Ä‘ē‘ē´, pīwitä!” mạdwä∙i∙‘kitōwāt. Cigwasa´ pīndigäwạn.</span>
 
-<span class="l-fiero">**Aaniish misa, geget, wayaabaninig izhaanid iniw ininiwan. Aaniish mii i’iw bapi’od* Nanabozho. Zhigwa madwe-giigidowan: “Ehiye, biiwide!” madwe-ikidowad. Zhigwa sa biindigewan.**</span>
+<span class="l-fiero">**Aaniish mii sa, geget, wayaabaninig izhaanid iniw ininiwan. Aaniish mii i’iw bapi’od* Nanabozho. Zhigwa madwe-giigidowan: “Ehiye, biiwide!” madwe-ikidowad. Zhigwa sa biindigewan.**</span>
 
 <span class="l-eng">*So thereupon, truly, on the morrow thither went the man. Naturally in waiting was Nänabushu. Presently he heard them say: “Halloo! a visitor!” (Thus) he heard them say. Then presently in he came.*</span>
 
-<span class="l-gloss">Aaniish misa, geget, wayaabaninig izhaanid iniw ininiwan (so truly when it was morning the man went there), Aaniish mii i’iw bapi’od Nanabozho (now Nanabozho was waiting/laughing in wait), zhigwa madwe-giigidowan (presently they are heard speaking), Ehiye, biiwide! (Halloo, a visitor!), madwe-ikidowad (they are heard saying), zhigwa sa biindigewan (then in he comes).</span>
+<span class="l-gloss">Aaniish mii sa, geget, wayaabaninig izhaanid iniw ininiwan (so truly when it was morning the man went there), Aaniish mii i’iw bapi’od Nanabozho (now Nanabozho was waiting/laughing in wait), zhigwa madwe-giigidowan (presently they are heard speaking), Ehiye, biiwide! (Halloo, a visitor!), madwe-ikidowad (they are heard saying), zhigwa sa biindigewan (then in he comes).</span>
 
 <span class="l-orig">(11) Cigwa uganōnān īni´ᵘ wīwạn: “Ạmbä, kackänā, ānạgō taki‘kwän! mīsạnā cigwa tcigīgäạngubạn ‘aᵉa´ᵘ pīwitä.”</span>
 
-<span class="l-fiero">**Zhigwa oganoonaan iniw wiiwan: “Ambe, gashke*, anago dakikwen*! mii sa naa zhigwa ji-giigaa’engoban* ‘aw biiwide.”**</span>
+<span class="l-fiero">**Zhigwa oganoonaan iniw wiiwan: “Ambe, gashke*, anago dakikwen*! mii sa naa zhigwa ji-giige’angoban* ‘aw biiwide.”**</span>
 
 <span class="l-eng">*Then (Nänabushu) said to his wife: “Oh, for goodness’ sake, do hang up the kettle! for it is our duty to feed the visitor.”*</span>
 
-<span class="l-gloss">Zhigwa oganoonaan iniw wiiwan (then he addresses his wife), Ambe, gashke, anago dakikwen (come, do, hang up the kettle), mii sa naa zhigwa ji-giigaa’engoban ‘aw biiwide (it is now time that the visitor be welcomed).</span>
+<span class="l-gloss">Zhigwa oganoonaan iniw wiiwan (then he addresses his wife), Ambe, gashke, anago dakikwen (come, do, hang up the kettle), mii sa naa zhigwa ji-giige’angoban ‘aw biiwide (it is now time that the visitor be welcomed).</span>
 
 <span class="l-orig">(12) Mītacīzạn ägut īni´ᵘ wīwạn: “Wägunän tạnā iᵘ kigīgä∙i∙wäyạnguban!” udigōn īni´ᵘ wīwạn. “Ạmạntcisa´ wīn ‘iᵉi´ᵘ kī∙i∙‘kitoyạn kägō äninānin! Pisānigu unạgōc ō a‘ki‘k!” udinān.</span>
 
-<span class="l-fiero">**Mitazhinan* egod iniw wiiwan: “Wegonen dana iw gii-giigaa’iweyangoban*!” odigoon iniw wiiwan. “Amanjisa wiin i’iw gii-ikidoyan gegoo eninaanin*! Bizaanigo onagoosh akik!” odinaan.**</span>
+<span class="l-fiero">**Mitazhinan* egod iniw wiiwan: “Wegonen dana iw gii-giige’iweyangoban*!” odigoon iniw wiiwan. “Amanjisa wiin i’iw gii-ikidoyan gegoo eninaanin*! Bizaanigo onagoosh akik!” odinaan.**</span>
 
 <span class="l-eng">*Thereupon he was told by his wife: “For mercy’s sake, what have we to feed him!” he was told by his wife. “What possesses you to talk that way whenever I tell you to do something! Simply go on and hang up this kettle!” he said to her.*</span>
 
-<span class="l-gloss">Mitazhinan* egod iniw wiiwan (his wife scolds/answers him), Wegonen dana iw gii-giigaa’iweyangoban (what was the use of our ever wishing to be hospitable), odigoon iniw wiiwan (he is told by his wife), Amanjisa wiin i’iw gii-ikidoyan gegoo eninaanin (I really don’t know what you mean by what you say), Bizaanigo onagoosh akik (just hang up the kettle), odinaan (he says to her).</span>
+<span class="l-gloss">Mitazhinan* egod iniw wiiwan (his wife scolds/answers him), Wegonen dana iw gii-giige’iweyangoban (what was the use of our ever wishing to be hospitable), odigoon iniw wiiwan (he is told by his wife), Amanjisa wiin i’iw gii-ikidoyan gegoo eninaanin (I really don’t know what you mean by what you say), Bizaanigo onagoosh akik (just hang up the kettle), odinaan (he says to her).</span>
 
 <span class="l-orig">(13) Kägä‘t ạnạgō‘taki‘kwäni a∙i∙‘kwä. Odōntcimạtäcimān ucawaskosānạmạnạn; äciwawäci∙u∙t, äci∙o∙cāwaskwanạng ‘iᵉi´ᵘ ustigwān. Cigwa kīkīci∙u∙; mägwāsạgu kīnạmạdạbit, pānimāgu, undcipasiguntcisät. “Kwīc, kwīc, kwīc, kwīc!” inwät. Kāwīn mī nayānj. kaski∙o∙sī mī∙i∙mā ānawī∙i∙cāt upimi‘tā‘kupitcigạniwāng; wī‘kāsa kaski∙o∙. Cigwasa´ kī∙o∙nạgōsī i∙i∙mā ạgōtcininit uda‘kikowān, nōndāgusī: “Kwīc, kwīc, kwīc, kwīc!” Ānīc ugạnawâbạmāwān ạgōsinit, kāgagwantciskānik utcītīni. Kāwīn ugaski‘tōsīni ānawi mīsīt; wī‘kāsa´ pimipitäni umowäncic.</span>
 
@@ -160,10 +160,10 @@ Nanabushu and the Mallard (1)
 
 <span class="l-orig">(18) Ānīc mīsa´ cigwa´ kā∙ạ∙nimādcānit, mīsạnā kīwīsininit ‘iᵉi´ᵘ unīdcānisaᵉ.</span>
 
-<span class="l-fiero">**Aaniish miisa zhigwa gaa-ani-maadyaanid, mii sa naa gii-wiisininid i’iw oniijaanisag.**</span>
+<span class="l-fiero">**Aaniish miisa zhigwa gaa-ani-maajaanid, mii sa naa gii-wiisininid i’iw oniijaanisag.**</span>
 
 <span class="l-eng">*Well, so then upon his way he went, and accordingly did (Nänabushu’s) poor children eat.*</span>
 
-<span class="l-gloss">Aaniish miisa zhigwa gaa-ani-maadyaanid (so then when he had gone on his way), mii sa naa gii-wiisininid i’iw oniijaanisag (accordingly his poor little children ate).</span>
+<span class="l-gloss">Aaniish miisa zhigwa gaa-ani-maajaanid (so then when he had gone on his way), mii sa naa gii-wiisininid i’iw oniijaanisag (accordingly his poor little children ate).</span>
 
 </div>

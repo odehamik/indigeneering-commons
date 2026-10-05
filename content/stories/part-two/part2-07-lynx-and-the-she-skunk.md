@@ -448,11 +448,11 @@ LYNX AND THE SHE-SKUNK.
 
 <span class="l-orig">(54) Mī∙i∙dạc ī∙i∙‘ᵘ kā∙i∙jināguzit pijyᵘ; kīⁿwusāwīngwät, mī∙i∙‘ᵘ kā∙i∙nā‘kizut.</span>
 
-<span class="l-fiero">**Mii dash i’iw gaa-izhinaagozid bizhiw; giinwosaawiingwed, mii iw gaa-inaagozid.**</span>
+<span class="l-fiero">**Mii dash i’iw gaa-izhinaagozid bizhiw; giinwosaawiingwed, mii iw gaa-inaakizod.**</span>
 
 <span class="l-eng">*And that was how Lynx came to look so; he became yellow-eyed, for that was how he was burned.*</span>
 
-<span class="l-gloss">Mii dash i’iw gaa-izhinaagozid bizhiw (and that was how Lynx came to look so); giinwosaawiingwed (he became yellow-eyed), mii iw gaa-inaagozid (for that was how he was burned).</span>
+<span class="l-gloss">Mii dash i’iw gaa-izhinaagozid bizhiw (and that was how Lynx came to look so); giinwosaawiingwed (he became yellow-eyed), mii iw gaa-inaakizod (for that was how he was burned).</span>
 
 <span class="l-orig">(55) Kāwīndạc ugīminwänimāsin ī∙i∙‘ᵘ ijināguzinit.</span>
 

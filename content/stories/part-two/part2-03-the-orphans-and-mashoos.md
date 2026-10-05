@@ -344,11 +344,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(42) “Mī∙i∙mā päcu tcikāsoyān,” inändạm.</span>
 
-<span class="l-fiero">**“Mii imaa pesho chikaasoyan,” inendam.**</span>
+<span class="l-fiero">**“Mii imaa pesho chikaasoyaan,” inendam.**</span>
 
 <span class="l-eng">*“It is near by this place that I will hide myself,” he thought.*</span>
 
-<span class="l-gloss">“Mii imaa pesho chikaasoyan,” inendam (“right here close by I will hide myself,” he thought).</span>
+<span class="l-gloss">“Mii imaa pesho chikaasoyaan,” inendam (“right here close by I will hide myself,” he thought).</span>
 
 <span class="l-orig">(43) Mīdạc kägä‘t cayīgwa mīnawā pināgusiwạn wīwạn.</span>
 
@@ -560,11 +560,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(69) Kī∙u∙ci‘tāt, nībiwa misạn ugīkīcka∙ā∙nạn.</span>
 
-<span class="l-fiero">**Kii-oshitaat, niibiwa misan ogii-kiishkaaanan.**</span>
+<span class="l-fiero">**Kii-oshitaat, niibiwa misan ogii-kiishka’aanan.**</span>
 
 <span class="l-eng">*He put things in order, much fire-wood he gathered.*</span>
 
-<span class="l-gloss">Kii-oshitaat (he set things in order), niibiwa misan ogii-kiishkaaanan (much firewood he cut).</span>
+<span class="l-gloss">Kii-oshitaat (he set things in order), niibiwa misan ogii-kiishka’aanan (much firewood he cut).</span>
 
 <span class="l-orig">(70) Mīdac kāgīcī‘tāt kā∙i∙cipindigät.</span>
 
@@ -1456,11 +1456,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(181) “Kīpācidä∙ạ∙mạn dạc iᵘ zībī, mī∙i∙´ᵘ kāwīn minawā käyābi kīgapiminica∙o∙gusīwā.</span>
 
-<span class="l-fiero">**“Kii-pa-aashide’aman dash iw ziibii, mii iw gaawiin minawaa geyaabi kiiga-piminisha’ogosiiwaa.**</span>
+<span class="l-fiero">**“Kii-paazhide’aman dash iw ziibii, mii iw gaawiin minawaa geyaabi kiiga-piminisha’ogosiiwaa.**</span>
 
 <span class="l-eng">*“And after you have crossed over the river, then no longer will you be pursued.*</span>
 
-<span class="l-gloss">“Kii-pa-aashide’aman dash iw ziibii (“and after you have crossed over that river), mii iw gaawiin minawaa geyaabi kiiga-piminisha’ogosiiwaa (then no longer will you be pursued).</span>
+<span class="l-gloss">“Kii-paazhide’aman dash iw ziibii (“and after you have crossed over that river), mii iw gaawiin minawaa geyaabi kiiga-piminisha’ogosiiwaa (then no longer will you be pursued).</span>
 
 <span class="l-orig">(182) Wäwäni, nōjis, pisindawicîn äjikagī‘kiminān,” udinān.</span>
 
@@ -3814,11 +3814,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(475) Ingi’yudạc ạbinōdcī∙ạ∙g upapā∙a∙īndanamāwān īni’ᵘ wa‘tāmbīn.</span>
 
-<span class="l-fiero">**Iingiy odash abinoojii’ag opapaa-a’iindanamaawaan iiniw wataambiin.**</span>
+<span class="l-fiero">**Iingiyo dash abinoojii’ag opapaa-a’iindanamaawaan iiniw wataambiin.**</span>
 
 <span class="l-eng">*And the children went about outside, eating the spinal cord.*</span>
 
-<span class="l-gloss">Iingiy odash abinoojii’ag opapaa-a’iindanamaawaan iiniw wataambiin (and the children went about eating the spinal cord).</span>
+<span class="l-gloss">Iingiyo dash abinoojii’ag opapaa-a’iindanamaawaan iiniw wataambiin (and the children went about eating the spinal cord).</span>
 
 <span class="l-orig">(476) Mīdạc kīwäⁿ awä a‘kawäⁿzi tạgwicing pitcägisät.</span>
 
@@ -3838,11 +3838,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(478) Mēdạc kīwäⁿ änāt īni´ᵘ ūcicäⁿyaᵉ:</span>
 
-<span class="l-fiero">**Me dash giiwenh enaat iiniw ooshishenyan:**</span>
+<span class="l-fiero">**Mii dash giiwenh enaat iiniw ooshishenyan:**</span>
 
 <span class="l-eng">*And then they say that he said to his grandchildren:*</span>
 
-<span class="l-gloss">Me dash giiwenh enaat iiniw ooshishenyan (and then, they say, he said to his grandchildren):</span>
+<span class="l-gloss">Mii dash giiwenh enaat iiniw ooshishenyan (and then, they say, he said to his grandchildren):</span>
 
 <span class="l-orig">(479) “Ānti kā∙u∙ndinamäg mādciyäg?”</span>
 
@@ -3934,11 +3934,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(490) Mīdạc kạbāt; mīdạc inābit, misiwä owâbạndān kägō ạgōtänig, ạgwāwānạn agōtänig ạgwatcing.</span>
 
-<span class="l-fiero">**Mii dash kabet; mii dash inaabit, misiwe owabandan kegoo agootenig, agwaawaanan agootenig agwaching.**</span>
+<span class="l-fiero">**Mii dash kabaat; mii dash inaabit, misiwe owabandan kegoo agootenig, agwaawaanan agootenig agwaching.**</span>
 
 <span class="l-eng">*And then he went ashore; and as he looked, everywhere he saw something hanging, pendant pieces hanging out of doors.*</span>
 
-<span class="l-gloss">Mii dash kabet (and then he went ashore); mii dash inaabit (and as he looked), misiwe owabandan kegoo agootenig (everywhere he saw things hanging), agwaawaanan agootenig agwaching (drying-pieces hanging outdoors).</span>
+<span class="l-gloss">Mii dash kabaat (and then he went ashore); mii dash inaabit (and as he looked), misiwe owabandan kegoo agootenig (everywhere he saw things hanging), agwaawaanan agootenig agwaching (drying-pieces hanging outdoors).</span>
 
 <span class="l-orig">(491) Kayä ạnipīndigät uwīngä mōckinägwāwäwạg pīndig.</span>
 
@@ -4510,11 +4510,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(562) Mīdec kägä‘t kwīnawī∙i∙nābi; kayä inändạnk ānīn äjiwäbisigwän, ā‘pitci kwīnawī∙i∙nänimān.</span>
 
-<span class="l-fiero">**Mii desh keget kwiinawii-inaabi; gaye inandank aaniin ezhiwebisigwen, aapichi kwiinawi-inenimaan.**</span>
+<span class="l-fiero">**Mii desh keget kwiinawii-inaabi; gaye inendank aaniin ezhiwebisigwen, aapichi kwiinawi-inenimaan.**</span>
 
 <span class="l-eng">*And it was true that he knew not where to look; and he began to wonder what manner of person the other was, so very much was he puzzled in thought concerning him.*</span>
 
-<span class="l-gloss">Mii desh keget kwiinawii-inaabi (and it was true that he knew not where to look); gaye inandank aaniin ezhiwebisigwen (and he began to wonder what manner of being the other was), aapichi kwiinawi-inenimaan (so very puzzled was he in his thought about him).</span>
+<span class="l-gloss">Mii desh keget kwiinawii-inaabi (and it was true that he knew not where to look); gaye inendank aaniin ezhiwebisigwen (and he began to wonder what manner of being the other was), aapichi kwiinawi-inenimaan (so very puzzled was he in his thought about him).</span>
 
 <span class="l-orig">(563) Käwīn dạc kägō i‘kitusī minawā.</span>
 
@@ -4702,11 +4702,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(586) Mīdạc äjikīta‘kisinät äji∙a∙yagōtōd uma‘kisinạn, kāwīn kạnagä kägō inändạndaⁿzi, “Mīmāwin ‘iᵉi´ᵘ ningadōtāgō,” tci∙i∙nändạnk.</span>
 
-<span class="l-fiero">**Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan, gaawiin kanage kegoo inendandanzi, “Miimaawin i’iw ningadootaagoo,” chi-inendank.**</span>
+<span class="l-fiero">**Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan, gaawiin kanage kegoo inendandanzi, “Mii maawin i’iw ningadootaagoo,” chi-inendank.**</span>
 
 <span class="l-eng">*Accordingly he took off his moccasins and hung them up, for of nothing at all was he suspicious that should lead him to think, “Perhaps some evil will be done to me.”*</span>
 
-<span class="l-gloss">Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan (accordingly he took off his moccasins and hung them up), gaawiin kanage kegoo inendandanzi (suspecting nothing at all), “Miimaawin i’iw ningadootaagoo,” chi-inendank (such as to think, “perhaps some evil will be done to me”).</span>
+<span class="l-gloss">Mii dash ezhi-kiitakisinet ezhi-ayagootood omakisinan (accordingly he took off his moccasins and hung them up), gaawiin kanage kegoo inendandanzi (suspecting nothing at all), “Mii maawin i’iw ningadootaagoo,” chi-inendank (such as to think, “perhaps some evil will be done to me”).</span>
 
 <span class="l-orig">(587) Mīdạc äji∙u∙jicimōni‘kät, kayä wīndạc a‘kiwäⁿjī∙i∙c tcātcīgskutäwäcin; kāwīn mạci kagītcīsī.</span>
 
@@ -5654,11 +5654,11 @@ THE ORPHANS AND MASHOOS
 
 <span class="l-orig">(705) Mīgu imā ayanimi‘kwīnit īni´ᵘ ujînisạn, kī∙ạ∙ntagōtōd uma‘kisinạn; ujînisạn uma‘kisinini agōtänig ugī∙ạ∙gōtōnạn uma‘kisînạn; mäskutidạc wīn agōtänigibạn uma‘kisinạn ogī∙i∙gōtowạn uma‘kisinini.</span>
 
-<span class="l-fiero">**Mii go imaa ayanimikwiinit iiniw ozhinisan, kii-antagootood oma kisinan; ozhinisan omakisinini agootenig ogii-agootoonan omakisinan; meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini.**</span>
+<span class="l-fiero">**Mii go imaa ayanimikwiinit iiniw ozhinisan, kii-antagootood omakisinan; ozhinisan omakisinini agootenig ogii-agootoonan omakisinan; meskot idash wiin agootenigiban omakisinan ogii-agootowan omakisinini.**</span>
 
 <span class="l-eng">*Then at the place over there, the instant that his father-in-law had turned his back, he then changed the place of his moccasins;the moccasins of his father-in-law were now hanging where he had hung his own moccasins;in the place where his own moccasins had been hanging he now hung the moccasins of the other.*</span>
 
-<span class="l-gloss">Mii go imaa ayanimikwiinit iiniw ozhinisan (then, the instant his father-in-law turned his back) kii-antagootood oma kisinan (he changed the place of his moccasins); ozhinisan omakisinini agootenig ogii-agootoonan omakisinan (where his father-in-law’s moccasins hung he hung his own); meskot idash wiin agootenigiban omakisinan ogii-igootowan omakisinini (and where his own moccasins had hung he hung the other’s).</span>
+<span class="l-gloss">Mii go imaa ayanimikwiinit iiniw ozhinisan (then, the instant his father-in-law turned his back) kii-antagootood omakisinan (he changed the place of his moccasins); ozhinisan omakisinini agootenig ogii-agootoonan omakisinan (where his father-in-law’s moccasins hung he hung his own); meskot idash wiin agootenigiban omakisinan ogii-agootowan omakisinini (and where his own moccasins had hung he hung the other’s).</span>
 
 <span class="l-orig">(706) Mīdạc kā∙i∙jikawicimowāt.</span>
 

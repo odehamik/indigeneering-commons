@@ -252,11 +252,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(30) Nīngudingidạc kigicäb änimādcāwād a‘pīkā∙ạ∙nipa‘kät ‘aᵉaᵘ mạdcī‘kiwis; kīnibawi mägwä cingup kāwâbạmād ka‘kina kāpimosänit wītcikiwäⁿyaᵉ; mī∙i∙´ᵘ kī‘kīwäd.</span>
 
-<span class="l-fiero">**Ningoding idash gigizheb eni-maajaawaad apii gaa-ani-baked a’aw majiikiwis; gii-nibaawi megwe-zhingob gaa-waabamaad gakina gaa-bimosenid wiijikiwenyan; mii iw gii-giiwed.**</span>
+<span class="l-fiero">**Ningoding idash gigizheb eni-maajaawaad apii gaa-ani-baked a’aw majiikiwis; gii-niibawi megwe-zhingob gaa-waabamaad gakina gaa-bimosenid wiijikiwenyan; mii iw gii-giiwed.**</span>
 
 <span class="l-eng">*Now, one morning they were setting out one after another, when the first-born had left to go his way; he stood among some balsams, watching all his brothers as they went walking past; and then he went back home.*</span>
 
-<span class="l-gloss">Ningoding idash gigizheb (now one morning) eni-maajaawaad (as they were setting out) apii gaa-ani-baked a’aw majiikiwis (when the first-born had branched off to go his way); gii-nibaawi megwe-zhingob (he stood among the balsams) gaa-waabamaad gakina gaa-bimosenid wiijikiwenyan (watching all his brothers as they walked past); mii iw gii-giiwed (and then he went back home).</span>
+<span class="l-gloss">Ningoding idash gigizheb (now one morning) eni-maajaawaad (as they were setting out) apii gaa-ani-baked a’aw majiikiwis (when the first-born had branched off to go his way); gii-niibawi megwe-zhingob (he stood among the balsams) gaa-waabamaad gakina gaa-bimosenid wiijikiwenyan (watching all his brothers as they walked past); mii iw gii-giiwed (and then he went back home).</span>
 
 <span class="l-orig">(31) Mīdạc kī‘kasut pä´co wīgiwāming.</span>
 
@@ -996,11 +996,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(123) A‘kiwäⁿzīdec ki∙ạ∙ndonigä umạckimodāng, mēdạc imāⁿ kā∙o∙ndinạng pīwâbi‘kōn, osāwâbi‘kōn; nīwindac ogīminigōn; wâgâbi‘kạdōn nīwin, mīdạc īni´ᵘ kāmādci‘tōd.</span>
 
-<span class="l-fiero">**Akiwenzii idash gii-andonige omashkimodaang, mii dash imaa gaa-ondinang biiwaabikoon, ozaawaabinoon; niiwin dash ogii-miinigoon; waagaabikadoon niiwin, mii dash iniw gaa-maajitood.**</span>
+<span class="l-fiero">**Akiwenzii idash gii-andonige omashkimodaang, mii dash imaa gaa-ondinang biiwaabikoon, ozaawaabikoon; niiwin dash ogii-miinigoon; waagaabikadoon niiwin, mii dash iniw gaa-maajitood.**</span>
 
 <span class="l-eng">*Then the old man sought for something in his bag, and then he took out from it some metal, some pieces of copper. Now, four was he given; bent into the form of a hook were the four. And these were what he took along.*</span>
 
-<span class="l-gloss">Akiwenzii idash gii-andonige omashkimodaang (then the old man sought in his bag), mii dash imaa gaa-ondinang biiwaabikoon, ozaawaabinoon (and took out from it some metal, some copper); niiwin dash ogii-miinigoon (four was he given); waagaabikadoon niiwin (bent into hooks were the four), mii dash iniw gaa-maajitood (and these he took along).</span>
+<span class="l-gloss">Akiwenzii idash gii-andonige omashkimodaang (then the old man sought in his bag), mii dash imaa gaa-ondinang biiwaabikoon, ozaawaabikoon (and took out from it some metal, some copper); niiwin dash ogii-miinigoon (four was he given); waagaabikadoon niiwin (bent into hooks were the four), mii dash iniw gaa-maajitood (and these he took along).</span>
 
 <span class="l-orig">(124) Mī∙i∙dạc kī∙u∙di‘tạng kīckābi‘kā, mēdạc imāⁿ kīwâbạndạng nībiwa u‘kạnạn.</span>
 
@@ -1624,11 +1624,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(201) Mē∙i∙dac kiki‘kinō∙a∙māⁿgäd.</span>
 
-<span class="l-fiero">**Mii dash giki-gikinoo’amaaged*.**</span>
+<span class="l-fiero">**Mii dash gii-gikinoo’amaaged*.**</span>
 
 <span class="l-eng">*Thereupon he pointed out the place.*</span>
 
-<span class="l-gloss">Mii dash giki-gikinoo’amaaged* (thereupon he pointed out the place).</span>
+<span class="l-gloss">Mii dash gii-gikinoo’amaaged* (thereupon he pointed out the place).</span>
 
 <span class="l-orig">(202) A‘pī∙i∙dạc kāwâbạndạmowād, kī∙i∙‘kidowạg:</span>
 
@@ -1680,11 +1680,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(208) Ānindidạc ogīkiwäwināwān īni´ᵘ ma‘kwạn, ānindidạc kēyābi kī∙i∙jāwag päjik mō‘kidciwạnibīg; mē∙i∙dac mīnawā päjik ma‘kwạn imāⁿ kā∙o∙ndināwād.</span>
 
-<span class="l-fiero">**Aaniin dash ogii-giiwewinaawaan iniw makwan, aaniin idash geyaabi gii-izhaawag bezhig mookijiwanibiig; mii idash miinawaa bezhig makwan imaa gaa-ondinaawaad.**</span>
+<span class="l-fiero">**Aanind idash ogii-giiwewinaawaan iniw makwan, aanind idash geyaabi gii-izhaawag bezhig mookijiwanibiig; mii idash miinawaa bezhig makwan imaa gaa-ondinaawaad.**</span>
 
 <span class="l-eng">*Now, part of them came home bringing the bear, and the rest went over to where the other fountain was playing; therefore another bear they got from that place.*</span>
 
-<span class="l-gloss">Aaniin dash ogii-giiwewinaawaan iniw makwan (now part of them brought the bear home), aaniin idash geyaabi gii-izhaawag bezhig mookijiwanibiig (and the rest went over to where the other spring was); mii idash miinawaa bezhig makwan imaa gaa-ondinaawaad (and another bear they got from that place).</span>
+<span class="l-gloss">Aanind idash ogii-giiwewinaawaan iniw makwan (now part of them brought the bear home), aanind idash geyaabi gii-izhaawag bezhig mookijiwanibiig (and the rest went over to where the other spring was); mii idash miinawaa bezhig makwan imaa gaa-ondinaawaad (and another bear they got from that place).</span>
 
 <span class="l-orig">(209) Mēdạc gayä wīnawa ki∙a∙nikiwäwināwād.</span>
 
@@ -1968,11 +1968,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(244) A‘pī∙i∙dạc pipāndigäwād ‘aᵉaᵘ gāwīdigät inini kī∙o∙nạbiwạg.</span>
 
-<span class="l-fiero">**Apii dash bibaandigewaad bi-biindigewaad a’aw gaa-wiidiged gii-onabiwag.**</span>
+<span class="l-fiero">**Apii dash bibaandigewaad a’aw gaa-wiidiged gii-onabiwag.**</span>
 
 <span class="l-eng">*And when hither they came entering in, then the man who was married sat down along with the rest.*</span>
 
-<span class="l-gloss">Apii dash bibaandigewaad bi-biindigewaad (and when hither they came entering in) a’aw gaa-wiidiged gii-onabiwag (the married man sat down along with the rest).</span>
+<span class="l-gloss">Apii dash bibaandigewaad (and when hither they came entering in) a’aw gaa-wiidiged gii-onabiwag (the married man sat down along with the rest).</span>
 
 <span class="l-orig">(245) Mīdạcigu päpäjik kī∙ä∙ni∙o∙nạbī‘tawāwād īni´ᵘ ininiwaᵉ īgi´ᵘ i‘kwäwạg.</span>
 

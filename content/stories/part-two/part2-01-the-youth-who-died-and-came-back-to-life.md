@@ -302,11 +302,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(36) Mī minawā äji∙ā∙ndcīwät; mīgu mīnawā kāwạnạgä kackitōsīn tcitäpipināt.</span>
 
-<span class="l-fiero">**Mii miinawaa ezhi-aanjiiwed; mii go miinawaa gaawiin ogii-gashkitoosiin ji-debibinaad.**</span>
+<span class="l-fiero">**Mii miinawaa ezhi-aanjiiwed; mii go miinawaa gaawiin gashkitoosiin ji-debibinaad.**</span>
 
 <span class="l-eng">*And so he tried again; but still was he in no wise able to get within reach of it.*</span>
 
-<span class="l-gloss">Mii miinawaa ezhi-aanjiiwed (and so again he made another try); mii go miinawaa gaawiin ogii-gashkitoosiin (and again he was not able) ji-debibinaad (to get hold of it).</span>
+<span class="l-gloss">Mii miinawaa ezhi-aanjiiwed (and so again he made another try); mii go miinawaa gaawiin gashkitoosiin (and again he was not able) ji-debibinaad (to get hold of it).</span>
 
 <span class="l-orig">(37) Kitcikînwäᵉj ugītacī‘kawān ānawī kạgwäkātcitci∙ā∙t tci∙u∙dā‘pināt, kāwīn dạc ugīgaski∙ā∙sīn tcitäbipinādin.</span>
 
@@ -910,11 +910,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(112) “Mī tibickō wīyās nindinändāmin ō∙o∙ kapīn digạtōyān tciwunāgucimītciyāng; mī owä ki‘tcisasägāwīsiniwin,” udigōn.</span>
 
-<span class="l-fiero">**Mii dibishkoo wiiyaas nindinendaamin o’ow gaa-biindigadooyaan ji-wonagoshi-miijiyaang; mii owe ji-zazegaa-wiisiniwin,” odigoon.**</span>
+<span class="l-fiero">**Mii dibishkoo wiiyaas nindinendaamin o’ow gaa-biindigadooyaan ji-wonagoshi-miijiyaang; mii owe gichi-zazegaa-wiisiniwin,” odigoon.**</span>
 
 <span class="l-eng">*“Indeed, as meat we regard this which I have brought in for our evening meal; this is our supremely selected food,” he was told.*</span>
 
-<span class="l-gloss">Mii dibishkoo wiiyaas nindinendaamin (we think of it just as meat) o’ow gaa-biindigadooyaan (this that I have brought in) ji-wonagoshi-miijiyaang (for our evening meal); mii owe ji-zazegaa-wiisiniwin (this is our finest eating),” odigoon (he was told).</span>
+<span class="l-gloss">Mii dibishkoo wiiyaas nindinendaamin (we think of it just as meat) o’ow gaa-biindigadooyaan (this that I have brought in) ji-wonagoshi-miijiyaang (for our evening meal); mii owe gichi-zazegaa-wiisiniwin (this is our finest eating),” odigoon (he was told).</span>
 
 <span class="l-orig">(113) Mīdạc cayīgwa awiya ōnōndawān pīdwäwäwicininit.</span>
 
@@ -1238,11 +1238,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(153) “Kicicäⁿyạg kigakanawänimigōg; kīgapīnigōg kayä omā a‘pī ickwānīmi∙i∙ding.</span>
 
-<span class="l-fiero">**Gizhishenyag giga-ganawenimigoog; giga-biinigoog gaye omaa apii ishkwaa-niimi’iging.**</span>
+<span class="l-fiero">**Gizhishenyag giga-ganawenimigoog; giga-biinigoog gaye omaa apii ishkwaa-niimi’iding.**</span>
 
 <span class="l-eng">*“By your uncles will you be taken care of; and by them will you be brought here when the dancing is over.*</span>
 
-<span class="l-gloss">Gizhishenyag giga-ganawenimigoog (your uncles will look after you); giga-biinigoog gaye omaa (and they will bring you back here) apii ishkwaa-niimi’iging (when the dance is over).</span>
+<span class="l-gloss">Gizhishenyag giga-ganawenimigoog (your uncles will look after you); giga-biinigoog gaye omaa (and they will bring you back here) apii ishkwaa-niimi’iding (when the dance is over).</span>
 
 <span class="l-orig">(154) Mīgu pitcīnạg pạngī pīwāsäyāmbạng, mīcickwā‘tāwāt.</span>
 
@@ -1530,11 +1530,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(189) “Ạnikicī‘kān,” udigōn.</span>
 
-<span class="l-fiero">**“Ani-giizhikaan,” odigoon.**</span>
+<span class="l-fiero">**“Ani-gizhiikaan,” odigoon.**</span>
 
 <span class="l-eng">*“Go fast,” he was told.*</span>
 
-<span class="l-gloss">“Ani-giizhikaan (go quickly),” odigoon (he was told).</span>
+<span class="l-gloss">“Ani-gizhiikaan (go quickly),” odigoon (he was told).</span>
 
 <span class="l-orig">(190) Mīdạc kägä‘t animādcāt, näyāp acä∙ạ∙dōt iᵘ mī‘kana.</span>
 
@@ -1838,11 +1838,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(227) “Nänbungin kuca kigī∙i∙ciwäbis; mīsagu iᵘ cayīgwa pạgidänimigōyạmbạn,” udinān.</span>
 
-<span class="l-fiero">**“Nebongin gosha gigii-izhebiz; mii sa go iw zhayiigwa bagidenimigooyamban,” odinaan.**</span>
+<span class="l-fiero">**“Nebongin gosha gigii-izhi-webiz; mii sa go iw zhayiigwa bagidenimigooyamban,” odinaan.**</span>
 
 <span class="l-eng">*“Why, just as when one is dead was the way you were; and then in a little while were you to be buried,” she said to him.*</span>
 
-<span class="l-gloss">“Nebongin gosha gigii-izhebiz (why, you were just as one dead); mii sa go iw zhayiigwa bagidenimigooyamban (and already you were to have been laid away),” odinaan (she said to him).</span>
+<span class="l-gloss">“Nebongin gosha gigii-izhi-webiz (why, you were just as one dead); mii sa go iw zhayiigwa bagidenimigooyamban (and already you were to have been laid away),” odinaan (she said to him).</span>
 
 <span class="l-orig">(228) “M!” inwä aᵘ uskinawā.</span>
 
@@ -1950,11 +1950,11 @@ THE YOUTH WHO DIED AND CAME BACK TO LIFE.
 
 <span class="l-orig">(241) ‘A‘pōtc’ kayä, ‘ōwiti nīngī∙i∙cā,’ kā∙i∙nändạmān.</span>
 
-<span class="l-fiero">**‘Abooch gaye o’owidi ningii-izhaa’ gaa-inendamaan.**</span>
+<span class="l-fiero">**‘Abooch gaye o’owidi ningii-izhaa,’ gaa-inendamaan.**</span>
 
 <span class="l-eng">*‘Anyway, over there will I go,’ was the thought in my mind.*</span>
 
-<span class="l-gloss">‘Abooch gaye o’owidi ningii-izhaa’ gaa-inendamaan (‘anyway, over this way I went too,’ was what I thought).</span>
+<span class="l-gloss">‘Abooch gaye o’owidi ningii-izhaa,’ gaa-inendamaan (‘anyway, over this way I went too,’ was what I thought).</span>
 
 <span class="l-orig">(242) Kāwīn ningīminwändaⁿzīn; mīdạc kā∙u∙ndciki‘twäna‘pagisoyān imā skutäng.</span>
 

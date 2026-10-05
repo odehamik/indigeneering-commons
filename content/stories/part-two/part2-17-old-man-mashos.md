@@ -796,11 +796,11 @@ Old Man Mashos.
 
 <span class="l-orig">(98) Käᵉgä‘t ogitcaiya∙ī∙ kā∙i∙jinībawit ‘aᵉa´winini Umicōzidạc ugī∙ạ∙nibäwäbickān udcīmānic, mī∙i∙dạc nibī‘kāng kipạngiging ‘aᵉa´ᵘ inini.</span>
 
-<span class="l-fiero">**Geget ogijaya’ii gaa-izhi-niibawid a’aw inini, Omashoos idash anibewebishkaan ojiimaanish, mii dash nibiikaang gii-bangiging a’aw inini.**</span>
+<span class="l-fiero">**Geget ogijaya’ii gaa-izhi-niibawid a’aw inini, Omashoos idash ogii-anibewebishkaan ojiimaanish, mii dash nibiikaang gii-bangiging a’aw inini.**</span>
 
 <span class="l-eng">*When truly up on top (of the gunwale) stood the man, then Mashos tipped his miserable canoe over on its side, whereupon down into the water fell the man.*</span>
 
-<span class="l-gloss">Geget ogijaya’ii gaa-izhi-niibawid a’aw inini (when truly the man stood up on top of the gunwale), Omashoos idash anibewebishkaan ojiimaanish (Mashos tipped his wretched canoe over on its side), mii dash nibiikaang gii-bangiging a’aw inini (and so the man fell into the water).</span>
+<span class="l-gloss">Geget ogijaya’ii gaa-izhi-niibawid a’aw inini (when truly the man stood up on top of the gunwale), Omashoos idash ogii-anibewebishkaan ojiimaanish (Mashos tipped his wretched canoe over on its side), mii dash nibiikaang gii-bangiging a’aw inini (and so the man fell into the water).</span>
 
 <span class="l-orig">(99) Omạcōzidạc kā∙i∙jipa‘kitä∙ạ∙ng udcīmān, wāsa kī∙i∙jisäni.</span>
 
@@ -1084,11 +1084,11 @@ Old Man Mashos.
 
 <span class="l-orig">(134) Kāwindạc kīmādcisäsī aᵘ udābān.</span>
 
-<span class="l-fiero">**Gaawiin dash gii-maajaasii aw odaabaan.**</span>
+<span class="l-fiero">**Gaawiin dash gii-maajiisesii aw odaabaan.**</span>
 
 <span class="l-eng">*And the toboggan did not move off.*</span>
 
-<span class="l-gloss">Gaawiin dash gii-maajaasii aw odaabaan (and the toboggan did not move off).</span>
+<span class="l-gloss">Gaawiin dash gii-maajiisesii aw odaabaan (and the toboggan did not move off).</span>
 
 <span class="l-orig">(135) Udānugāndciwäbinān Mạcōs, kāwin kīmādcīskāsī aᵘ udābān.</span>
 

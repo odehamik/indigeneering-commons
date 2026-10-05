@@ -44,11 +44,11 @@ PAINTED-TURTLE AND BEAR.
 
 <span class="l-orig">(4) Kā‘pīndigänit udōdā‘pinān iᵉi´ᵘ umōwini. Äci∙ạ∙cạmāt i‘kido: “Taga nāgä nīn unō´ᵘ pāsiminānạn.”</span>
 
-<span class="l-fiero">**Gaa-biindigenid odoodaapinaan i’iw omoowini. Ezhi-ashamaad ikido: “Daga naagaj niin onow baasiminaanan.”**</span>
+<span class="l-fiero">**Gaa-biindigenid odoodaapinaan i’iw omoowini. Ezhi-ashamaad ikido: “Daga naage* niin onow baasiminaanan.”**</span>
 
 <span class="l-eng">*After he had entered, she took up his dung. Then, feeding him, she said: “Now, here are some dried blueberries.”*</span>
 
-<span class="l-gloss">Gaa-biindigenid (after he had entered) odoodaapinaan i’iw omoowini (she took up his dung). Ezhi-ashamaad ikido (then, feeding him, she said): “Daga naagaj niin (“now then, here are mine) onow baasiminaanan.” (these dried things.”)</span>
+<span class="l-gloss">Gaa-biindigenid (after he had entered) odoodaapinaan i’iw omoowini (she took up his dung). Ezhi-ashamaad ikido (then, feeding him, she said): “Daga naage* niin (“now then, here are mine) onow baasiminaanan.” (these dried things.”)</span>
 
 <span class="l-orig">(5) Kägä‘t minwäntạmōn ạcạmāt. Kā‘kitāminit uganōnigōn: “Ānti kā∙u∙ntinamạn īni´ᵘ mīnạn?”</span>
 

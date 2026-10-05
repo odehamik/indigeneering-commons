@@ -82,11 +82,11 @@ Nänabushu Swallowed by the Sturgeon (2)
 
 <span class="l-orig">(9) “Mīnagu kā∙i∙jipīnicipimātisiyān?” udinān ō‘kumisạn.</span>
 
-<span class="l-fiero">**“Mii na go ge-izhi-biinishi-bimaadiziyaan?” odinaan ookomisan.**</span>
+<span class="l-fiero">**“Mii na go gaa-izhi-biinishi-bimaadiziyaan?” odinaan ookomisan.**</span>
 
 <span class="l-eng">*“Is it possible that simply without cause I came into being?” he said to his grandmother.*</span>
 
-<span class="l-gloss">“Mii na go ge-izhi-biinishi-bimaadiziyaan?” (“is it that I simply came to live for no reason?”) odinaan ookomisan (he said to his grandmother).</span>
+<span class="l-gloss">“Mii na go gaa-izhi-biinishi-bimaadiziyaan?” (“is it that I simply came to live for no reason?”) odinaan ookomisan (he said to his grandmother).</span>
 
 <span class="l-orig">(10) Wī‘kā dạc ōgạnōnigōn, igut:</span>
 

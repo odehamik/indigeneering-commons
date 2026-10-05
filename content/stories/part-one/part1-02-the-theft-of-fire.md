@@ -236,11 +236,11 @@ The Theft of Fire
 
 <span class="l-orig">(28) Mīdạc cigwa imāⁿ tạgwicinōn imāsa ayāt, cayīgwa ugīgwāba∙a∙mini.</span>
 
-<span class="l-fiero">**Mii dash zhigwa imaa dagwishinoon imaa sa ayaad, zhayiigwa ogii-gwaaba’aminid.**</span>
+<span class="l-fiero">**Mii dash zhigwa imaa dagwishinoon imaa sa ayaad, zhayiigwa ogii-gwaaba’amini.**</span>
 
 <span class="l-eng">*Thereupon soon was she come at the place where he was, at once she dipped out the  water.*</span>
 
-<span class="l-gloss">Mii dash zhigwa imaa dagwishinoon imaa sa ayaad (and so then she arrived there where he was), zhayiigwa ogii-gwaaba’aminid (and at once she dipped up the water).</span>
+<span class="l-gloss">Mii dash zhigwa imaa dagwishinoon imaa sa ayaad (and so then she arrived there where he was), zhayiigwa ogii-gwaaba’amini (and at once she dipped up the water).</span>
 
 <span class="l-orig">(29) Kā∙i∙jimī‘kawâbamigut mīsa kā‘pī∙i∙zitäpipinigut.</span>
 
@@ -292,11 +292,11 @@ The Theft of Fire
 
 <span class="l-orig">(35) Ạmbä∙ä∙tạtạ; wawiya tätāgusi waᵉaᵘ wâbōzōns!</span>
 
-<span class="l-fiero">**Ambe eta waawiiyadetaagozi wa’aw waaboozoons!**</span>
+<span class="l-fiero">**Ambe etata waawiiyadetaagozi wa’aw waaboozoons!**</span>
 
 <span class="l-eng">*Oh, such a cunning thing is this dear little bunny!*</span>
 
-<span class="l-gloss">Ambe eta waawiiyadetaagozi wa’aw waaboozoons! (oh how cunning this little hare looks!)</span>
+<span class="l-gloss">Ambe etata waawiiyadetaagozi wa’aw waaboozoons! (oh how cunning this little hare looks!)</span>
 
 <span class="l-orig">(36) Ạmbäsạnō käyä gīn wawiyatänim nimisäⁿ wa∙a∙wisa wâbōzōns.”</span>
 
@@ -476,11 +476,11 @@ The Theft of Fire
 
 <span class="l-orig">(58) Kā∙i∙jinawatisut kāijisāgitcikwāskwạnit.</span>
 
-<span class="l-fiero">**Gaa-izhinawadizod gaa-izhi-gichikwaashkwaanid.**</span>
+<span class="l-fiero">**Gaa-izhinawadizod gaa-izhi-zaagijigwaashkwanid.**</span>
 
 <span class="l-eng">*After he was set on fire, then out of doors he leaped.*</span>
 
-<span class="l-gloss">Gaa-izhinawadizod (after he caught fire) gaa-izhi-gichikwaashkwaanid (then he leaped out of doors with a great bound).</span>
+<span class="l-gloss">Gaa-izhinawadizod (after he caught fire) gaa-izhi-zaagijigwaashkwanid (then he leaped out of doors with a great bound).</span>
 
 <span class="l-orig">(59) Ō∙o∙widac kī∙i∙‘kitōwạg īgi’ᵘ i‘kwäwạg. “Nạckäginīn, osāgitcipạtwātān ‘iᵉi’ᵘ ickutä!” utināwān īni’ᵘ ōsiwān.</span>
 
@@ -604,11 +604,11 @@ The Theft of Fire
 
 <span class="l-orig">(74) O∙o∙widac kī∙i∙‘kitō ‘aᵉa’ᵘ Nänabucu: “Mīsa iᵘ kä∙i∙jināgusit ‘aᵉa’ᵘ wâbōs ‘iᵉi’ᵘ tcinībink.” ¹</span>
 
-<span class="l-fiero">**O’ow idash gii-ikido a’aw Nenabosho: “Mii sa iw gaa-izhinaagozid a’aw waabooz  i’iw ji-niibing.”**</span>
+<span class="l-fiero">**O’ow idash gii-ikido a’aw Nenabosho: “Mii sa iw ge-izhinaagozid a’aw waabooz  i’iw ji-niibing.”**</span>
 
 <span class="l-eng">*And this said Nänabushu: “Therefore such shall be the look of the hare in the summer-time.”*</span>
 
-<span class="l-gloss">O’ow idash gii-ikido a’aw Nenabosho (and this Nenabosho said): “Mii sa iw gaa-izhinaagozid a’aw waabooz i’iw ji-niibing (such shall be the look of the hare in the summer time).”</span>
+<span class="l-gloss">O’ow idash gii-ikido a’aw Nenabosho (and this Nenabosho said): “Mii sa iw ge-izhinaagozid a’aw waabooz i’iw ji-niibing (such shall be the look of the hare in the summer time).”</span>
 
 (2) Gii-gimoodid ishkode Nenabosho
 

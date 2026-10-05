@@ -82,11 +82,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(9) Onōdcigägō wạni‘tōn mādcît.</span>
 
-<span class="l-fiero">**Onooji gegoo [wa] nitoon maajid.**</span>
+<span class="l-fiero">**Onooji gegoo wanitoon* maajid.**</span>
 
 <span class="l-eng">*Of the various kinds (of game) he killed he ate.*</span>
 
-<span class="l-gloss">Onooji gegoo [wa] nitoon maajid (the various things he killed he ate as he went) [*editorial [wa] preserved as printed*].</span>
+<span class="l-gloss">Onooji gegoo wanitoon* maajid (the various things he killed he ate as he went) [*editorial [wa] preserved as printed*].</span>
 
 <span class="l-orig">(10) Ningodingidac wīgiwām ōwāmbạndān, mēdạc udōdā‘pinān obigwa‘k umạdwä∙ā∙n ickwāndäm.</span>
 
@@ -338,11 +338,11 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(41) “Nībinung kī‘ki∙o∙säwạg kidōcimạg; nībiwa awäsīyạn oginisāwān; mīdạc nībiwa wiyās pā‘täg pimitä gayä mīdạc kīạsạndcigowād; mīwänjiicayang.</span>
 
-<span class="l-fiero">**“Niibinong gii-kii’osewag gidoozhimag; niibiwa awesiiyan ogii-nisaawaan; mii dash niibiwa wiiyaas baateg bimide gaye mii dash gii-asanjigowaad; mii wendazhi-izhaayang.**</span>
+<span class="l-fiero">**“Niibinong gii-kii’osewag gidoozhimag; niibiwa awesiiyan ogii-nisaawaan; mii dash niibiwa wiiyaas baateg bimide gaye mii dash gii-asanjigowaad; mii wenji-izhaayang.**</span>
 
 <span class="l-eng">*“Last summer on a hunt were your nephews; much game they killed, and a good deal of dry meat and grease was what they cached; that is what we are going there for.*</span>
 
-<span class="l-gloss">“Niibinong gii-kii’osewag gidoozhimag (“last summer your nephews went on a hunt); niibiwa awesiiyan ogii-nisaawaan (much game they killed); mii dash niibiwa wiiyaas baateg bimide gaye (and a lot of dried meat and grease) mii dash gii-asanjigowaad (is what they cached); mii wendazhi-izhaayang. (“that is why we are going there.)</span>
+<span class="l-gloss">“Niibinong gii-kii’osewag gidoozhimag (“last summer your nephews went on a hunt); niibiwa awesiiyan ogii-nisaawaan (much game they killed); mii dash niibiwa wiiyaas baateg bimide gaye (and a lot of dried meat and grease) mii dash gii-asanjigowaad (is what they cached); mii wenji-izhaayang. (“that is why we are going there.)</span>
 
 <span class="l-orig">(42) Mīnawādac, wīkīwusäwạg kidocimạg.”</span>
 
@@ -514,19 +514,19 @@ Nänabushu and the Wolves (3)
 
 <span class="l-orig">(63) Pạngī kīmūni‘käwạg kōni‘kāng, mī∙i∙mā kīkāwīcimowad.</span>
 
-<span class="l-fiero">**Bangii gii-moona’igewag goonikaang, mii imaa gii-gawishimowaad.**</span>
+<span class="l-fiero">**Bangii gii-moonikewag goonikaang, mii imaa gii-gawishimowaad.**</span>
 
 <span class="l-eng">*A shallow place in the snow they dug, and that was where they lay down to sleep.*</span>
 
-<span class="l-gloss">Bangii gii-moona’igewag goonikaang (a little they dug into the snow), mii imaa gii-gawishimowaad (and there they lay down to sleep).</span>
+<span class="l-gloss">Bangii gii-moonikewag goonikaang (a little they dug into the snow), mii imaa gii-gawishimowaad (and there they lay down to sleep).</span>
 
 <span class="l-orig">(64) Gayä wīn Nänaboju pạngī kīmōni‘kä kōni‘kāng, mīmā gīkāwicimud.</span>
 
-<span class="l-fiero">**Gaye wiin Nenaboozhoo bangii gii-moona’ige goonikaang, mii maa gii-gawishimod.**</span>
+<span class="l-fiero">**Gaye wiin Nenaboozhoo bangii gii-moonike goonikaang, mii maa gii-gawishimod.**</span>
 
 <span class="l-eng">*Likewise Nänabushu dug a shallow place in the snow, and there he lay down to sleep.*</span>
 
-<span class="l-gloss">Gaye wiin Nenaboozhoo bangii gii-moona’ige goonikaang (Nenaboozhoo too dug a little into the snow), mii maa gii-gawishimod (and there he lay down to sleep).</span>
+<span class="l-gloss">Gaye wiin Nenaboozhoo bangii gii-moonike goonikaang (Nenaboozhoo too dug a little into the snow), mii maa gii-gawishimod (and there he lay down to sleep).</span>
 
 <span class="l-orig">(65) Ā‘pitci ayä‘kusi, ā‘pitci kayä kiạbwäsu, kīki‘tcipimi‘pa‘tōt.</span>
 

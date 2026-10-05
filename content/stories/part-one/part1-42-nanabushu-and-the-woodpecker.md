@@ -90,11 +90,11 @@ Nanabushu and the Woodpecker (2)
 
 <span class="l-orig">(10) Nānāgägu cigwa kạnōnimāwạn: “Tạganā’, ạgōc ‘aᵉa’ᵘ a‘ki‘k.” Kägä‘t</span>
 
-<span class="l-fiero">**Naanaa gego zhigwa ganoonimaawan: “Daga naa, agoozh a’aw akik.”**</span>
+<span class="l-fiero">**Naanaage go zhigwa ganoonimaawan: “Daga naa, agoozh a’aw akik.”**</span>
 
 <span class="l-eng">*After a while she was then spoken to: “Please hang up the kettle.”*</span>
 
-<span class="l-gloss">Naanaa gego zhigwa ganoonimaawan (after a while she was spoken to): “Daga naa, agoozh a’aw akik.” (“please now, hang up that kettle.”)</span>
+<span class="l-gloss">Naanaage go zhigwa ganoonimaawan (after a while she was spoken to): “Daga naa, agoozh a’aw akik.” (“please now, hang up that kettle.”)</span>
 
 <span class="l-orig">(11) a∙i∙‘kwä a‘ki‘kwạn otōnagōnān.</span>
 

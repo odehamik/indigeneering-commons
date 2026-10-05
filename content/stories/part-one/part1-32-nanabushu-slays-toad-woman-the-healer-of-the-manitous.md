@@ -1502,11 +1502,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(186) Nänabucu dạc äjigạnōnāt īni’ᵘ kāgāgiwạn: “Ạmbäsa, tcipicigänimoyạn kīga∙i∙ci∙i∙n.</span>
 
-<span class="l-fiero">**Nenabosho dash ezhi-ganoonaat iiniw gaagaagiwan: “Ambe sa ji-bishigenimoyan gii-ga’izhi’in.**</span>
+<span class="l-fiero">**Nenabosho dash ezhi-ganoonaat iiniw gaagaagiwan: “Ambe sa ji-bishigenimoyan giga-izhi’in.**</span>
 
 <span class="l-eng">*So Nänabushu then spoke to the Raven, saying: “Come, so that you may be proud of yourself will I make you.*</span>
 
-<span class="l-gloss">Nenabosho dash ezhi-ganoonaat iiniw gaagaagiwan (so Nenabosho then spoke to the raven): “Ambe sa ji-bishigenimoyan gii-ga’izhi’in (come, I will make you so that you may be proud of yourself).</span>
+<span class="l-gloss">Nenabosho dash ezhi-ganoonaat iiniw gaagaagiwan (so Nenabosho then spoke to the raven): “Ambe sa ji-bishigenimoyan giga-izhi’in (come, I will make you so that you may be proud of yourself).</span>
 
 <span class="l-orig">(187) Ānīn i∙i’∙ᵘ kä∙i∙cipicigänimoyạn?”</span>
 

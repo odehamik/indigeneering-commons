@@ -232,11 +232,11 @@ THE ORIGIN OF DOGS
 
 <span class="l-orig">(27) Mīdạc ī∙i∙’ᵘ kāpā‘ki‘kwādạnk, mīdạc imāⁿ ạnimōⁿs ayāt i∙i∙māⁿ anāmaya∙ī∙unāgạning, udayänsạn ‘aᵉa’ᵘ mîsābä.</span>
 
-<span class="l-fiero">**Mii dash i’iw gabaagigwaadang, mii dash imaa animoons ayaad i’imaa anaamaya’ii onaaganing, odayensan a’aw misaabe.**</span>
+<span class="l-fiero">**Mii dash i’iw gaa-baagigwaadang, mii dash imaa animoons ayaad i’imaa anaamaya’ii onaaganing, odayensan a’aw misaabe.**</span>
 
 <span class="l-eng">*And so, prying it up with a stick, behold! a dog was there underneath the bowl, the pet of Giant.*</span>
 
-<span class="l-gloss">Mii dash i’iw gabaagigwaadang (and so, prying it up with a stick), mii dash imaa animoons ayaad (there was a little dog) i’imaa anaamaya’ii onaaganing (there beneath the bowl), odayensan a’aw misaabe (the little pet of Giant).</span>
+<span class="l-gloss">Mii dash i’iw gaa-baagigwaadang (and so, prying it up with a stick), mii dash imaa animoons ayaad (there was a little dog) i’imaa anaamaya’ii onaaganing (there beneath the bowl), odayensan a’aw misaabe (the little pet of Giant).</span>
 
 <span class="l-orig">(28) “Taga, packwadāc, awimīgāc ‘aᵉa’ᵘ mạdcianicinābä.”</span>
 

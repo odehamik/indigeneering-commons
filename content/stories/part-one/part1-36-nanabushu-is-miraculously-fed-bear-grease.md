@@ -20,47 +20,47 @@ Nänabushu Is Miraculously Fed Bear-Grease (1)
 
 <span class="l-orig">(1) Ningutingiku mīnawā ā‘pidci pä‘kudäwāt; pạbā∙a∙yāt, mīnawā pīwitäᵉ² udōdisāᵉ, mī gäyābi nīⁿciwaᵉ ạbinōtcīyaᵉ. Mīsa´ mīnawa cigwa wī‘kīgä∙i∙nt. Mīsa´ ä‘kidunit: “Wägunäc kāgīgä∙ạ∙nk?” i‘kitōwaᵉ. “ ‘Āᵘ, igickäna kisīnạn ‘iᵉi´ᵘ unāgạn, mi‘tigunāgạn.”</span>
 
-<span class="l-fiero">**Ningoding igo miinawaa aapiji bakadewaad; babaa-ayaad, miinawaa biiwideg odoodisaag, mii geyaabi niizhiwag abinoojiiyag. Mii sa miinawaa zhigwa wii-giigaa’ind. Mii sa ekidonid: “Wegonesh ge-giigaa’ang?” ikidowag. “ ‘Aaw, [igishkena]*flagged* gizinan ‘i’iw onaagan, mitigonaagan.”**</span>
+<span class="l-fiero">**Ningoding igo miinawaa aapiji bakadewaad; babaa-ayaad, miinawaa biiwideg odoodisaag, mii geyaabi niizhiwag abinoojiiyag. Mii sa miinawaa zhigwa wii-giige’ind. Mii sa ekidonid: “Wegonesh ge-giige’ang?” ikidowag. “Aaw, igishkena* gizinan i’iw onaagan, mitigonaagan.”**</span>
 
 <span class="l-eng">*And another time they were very much in want of food; while wandering about, to some other strangers² did he come, and they also had two children. And now again was he to be fed. So this they said: “What have we to feed him?” they said. “Well, then you had better cleanse the vessel, the wooden vessel.”*</span>
 
-<span class="l-gloss">Ningoding igo miinawaa (once again) ∙ aapiji bakadewaad (they were very hungry) ∙ babaa-ayaad (as he went wandering about) ∙ miinawaa biiwideg odoodisaag (again he came to some strangers) ∙ mii geyaabi niizhiwag abinoojiiyag (and they too had two children) ∙ Mii sa miinawaa zhigwa wii-giigaa’ind (and so now again he was to be fed) ∙ Mii sa ekidonid (so this they said) ∙ “Wegonesh ge-giigaa’ang?” ikidowag (“What shall we feed him with?” they said) ∙ “ ‘Aaw (well now) ∙ [igishkena]*flagged* gizinan ‘i’iw onaagan, mitigonaagan (then cleanse that vessel, the wooden vessel)”</span>
+<span class="l-gloss">Ningoding igo miinawaa (once again) ∙ aapiji bakadewaad (they were very hungry) ∙ babaa-ayaad (as he went wandering about) ∙ miinawaa biiwideg odoodisaag (again he came to some strangers) ∙ mii geyaabi niizhiwag abinoojiiyag (and they too had two children) ∙ Mii sa miinawaa zhigwa wii-giige’ind (and so now again he was to be fed) ∙ Mii sa ekidonid (so this they said) ∙ “Wegonesh ge-giige’ang?” ikidowag (“What shall we feed him with?” they said) ∙ “Aaw (well now) ∙ igishkena* gizinan i’iw onaagan, mitigonaagan (then cleanse that vessel, the wooden vessel)”</span>
 
 *Jones’s footnote ¹ to the story heading (printed at the foot of p.310): “See Nos. 40 (p. 341) and 52 (p. 421).” — Jones’s footnote ² (printed at the foot of the facing English p.311): “Pīwītäᵉ, ‘strangers.’ The usual meaning of this word is ‘visitor’ or ‘guest;’ i.e., one to whom one renders hospitality.” ⚠️ Jones sets the word two ways: the body on p.310 l.17 prints pīwitäᵉ (one macron), the footnote headword prints Pīwītäᵉ (two). Both carried as printed; never harmonised.*
 
 <span class="l-orig">(2) Mīsa´ gägä‘t äcigisīnạmōwint. Mägwāgu kīnạmạdapinit īni´ᵘ ininiwạn, pānimāgu wändcinạwạtinaminit ‘iᵉi´ᵘ utạbạcīni; mīdạc änwänit: “Sa sa sa sa!” inwäwạn. Mīdạc i∙i∙mā upimitā‘kupitcikạniwāng äji∙ä∙gōsinit, äciwācänānit īni´ᵘ uniciwāni. Migōsidac uda‘kunạmini, nōndāgusiwạn: “Sạnk,</span>
 
-<span class="l-fiero">**Mii sa geget ezhi-giziinamawind. Megwaa go gii-namadabinid iniw ininiwan, baanimaa go wenji-nawadinaminid ‘i’iw odabajiin; mii dash enwenid: “Sa sa sa sa!” inwewan. Mii dash i’imaa obimidaakobijiganiwaang ezhi-aagozinid, ezhi-waajenanid iniw onizhiwaani. Migo dash odakonaminid, noondaagoziwan: “Zank,**</span>
+<span class="l-fiero">**Mii sa geget ezhi-giziinamawind. Megwaa go gii-namadabinid iniw ininiwan, baanimaa go wenji-nawadinaminid i’iw odabajiin; mii dash enwenid: “Sa sa sa sa!” inwewan. Mii dash i’imaa obimidaakobijiganiwaang ezhi-aagozinid, ezhi-waajenanid iniw onizhiwaani. Migo dash odakonaminid, noondaagoziwan: “Zank,**</span>
 
 <span class="l-eng">*Thereupon truly she cleansed it for him. Now, while the man was seated, suddenly from where he was he grabbed his lodge-pole; and then he uttered the cry: “Sa sa sa sa!” (such) was the cry he made. And so upon the cross-pole (over the fire) he went (and) perched, holding his testes in such way that they bulged out solid. And with an awl in his hand, he could be heard saying:*</span>
 
-<span class="l-gloss">Mii sa geget ezhi-giziinamawind (and so truly it was cleansed for him) ∙ Megwaa go gii-namadabinid iniw ininiwan (while the man was sitting there) ∙ baanimaa go wenji-nawadinaminid ‘i’iw odabajiin (suddenly he seized his lodge-pole) ∙ mii dash enwenid (and then he cried) ∙ “Sa sa sa sa!” inwewan (“Sa sa sa sa!” was his cry) ∙ Mii dash i’imaa obimidaakobijiganiwaang ezhi-aagozinid (and then up there on the cross-pole he perched) ∙ ezhi-waajenanid iniw onizhiwaani (holding his testes so they bulged out) ∙ Migo dash odakonaminid (and with [an awl] in his hand) ∙ noondaagoziwan (he could be heard saying) ∙ “Zank,”</span>
+<span class="l-gloss">Mii sa geget ezhi-giziinamawind (and so truly it was cleansed for him) ∙ Megwaa go gii-namadabinid iniw ininiwan (while the man was sitting there) ∙ baanimaa go wenji-nawadinaminid i’iw odabajiin (suddenly he seized his lodge-pole) ∙ mii dash enwenid (and then he cried) ∙ “Sa sa sa sa!” inwewan (“Sa sa sa sa!” was his cry) ∙ Mii dash i’imaa obimidaakobijiganiwaang ezhi-aagozinid (and then up there on the cross-pole he perched) ∙ ezhi-waajenanid iniw onizhiwaani (holding his testes so they bulged out) ∙ Migo dash odakonaminid (and with [an awl] in his hand) ∙ noondaagoziwan (he could be heard saying) ∙ “Zank,”</span>
 
 <span class="l-orig">(3) sạnk, sạnk!” inwäwạn. Mīsa´ mīgu o∙o∙dạc ändasạnōndāgusit nīmawāt īni´ᵘ uniciciwạn. Ningutingiku äcipacipawāt, pạnägu pimitä kāsīgisänik, ma‘kupimitä. Mīsa´ cigwa mōckinäbīni ‘iᵉi´ᵘ mi‘tigunāgạn. Äcinīsāndawänit, äci∙a∙cạmint¹ ‘iᵉi´ᵘ pimitä.</span>
 
-<span class="l-fiero">**zank, zank!” inwewan. Mii sa mii go o’o dash endaso-noondaagozid niimawaad iniw onizhizhiwan. Ningoding igo ezhi-bazhibawaad, banaa go bimide gaa-ziigisenig, mako-bimide. Mii sa zhigwa mooshkinebiini ‘i’iw mitigonaagan. Ezhi-niisaandawenid, ezhi-ashamind ‘i’iw bimide.**</span>
+<span class="l-fiero">**zank, zank!” inwewan. Mii sa mii go o’o dash endaso-noondaagozid niimawaad iniw onizhizhiwan. Ningoding igo ezhi-bazhibawaad, banaa go bimide gaa-ziigisenig, mako-bimide. Mii sa zhigwa mooshkinebiini i’iw mitigonaagan. Ezhi-niisaandawenid, ezhi-ashamind i’iw bimide.**</span>
 
 <span class="l-eng">*“Sạnk, sạnk, sạnk!” (such) was what he uttered. And in time with each of these words he aimed a blow at his testes. By and by he pricked them gently with the point, and straightway out flowed the grease, bear-grease. And so in a while full was the wooden vessel. Then, climbing down, he gave the grease (to Nänabushu) to eat.¹*</span>
 
-<span class="l-gloss">zank, zank!” inwewan (“zank, zank!” was his cry) ∙ Mii sa mii go o’o dash endaso-noondaagozid (and so each time he made the sound) ∙ niimawaad iniw onizhizhiwan (he struck at his testes) ∙ Ningoding igo ezhi-bazhibawaad (by and by he pricked them) ∙ banaa go bimide gaa-ziigisenig (and straightway the grease poured out) ∙ mako-bimide (bear-grease) ∙ Mii sa zhigwa mooshkinebiini ‘i’iw mitigonaagan (and so soon the wooden vessel was full) ∙ Ezhi-niisaandawenid (then climbing down) ∙ ezhi-ashamind ‘i’iw bimide (he gave the grease to eat)</span>
+<span class="l-gloss">zank, zank!” inwewan (“zank, zank!” was his cry) ∙ Mii sa mii go o’o dash endaso-noondaagozid (and so each time he made the sound) ∙ niimawaad iniw onizhizhiwan (he struck at his testes) ∙ Ningoding igo ezhi-bazhibawaad (by and by he pricked them) ∙ banaa go bimide gaa-ziigisenig (and straightway the grease poured out) ∙ mako-bimide (bear-grease) ∙ Mii sa zhigwa mooshkinebiini i’iw mitigonaagan (and so soon the wooden vessel was full) ∙ Ezhi-niisaandawenid (then climbing down) ∙ ezhi-ashamind i’iw bimide (he gave the grease to eat)</span>
 
 *Jones’s footnote ¹ (printed at the foot of p.312): “Äci∙a∙camint, ‘he gave the grease’ (to Nänabushu) to eat; literally, ‘they gave it to him to eat,’ or, more literally, ‘he was given it to eat.’” ⚠️ Printer’s inconsistency preserved: the body prints äci∙a∙cạmint with the dot-below, the footnote headword Äci∙a∙camint without it (both settled at 30×).*
 
 <span class="l-orig">(4) Ānīc, mīsa´ kīwīsinit. Cigwa mīnawā inā: “Kä∙i∙ckwạntamạn, kinī‘tcānisạg anikikīwäwi‘taᵘ,” kī∙i∙nā.</span>
 
-<span class="l-fiero">**Aaniish, mii sa gii-wiisinid. Zhigwa miinawaa inaa: “Ge-ishkwantaman, giniijaanisag [ani-gigiiwewi’taw]*flagged*,” gii-inaa.**</span>
+<span class="l-fiero">**Aaniish, mii sa gii-wiisinid. Zhigwa miinawaa inaa: “Ge-ishkwantaman, giniijaanisag ani-gigiiwewitaw*,” gii-inaa.**</span>
 
 <span class="l-eng">*Well, and so he ate. Then again he was told: “What you fail to eat up, then back home to your children do you take,” he was told.*</span>
 
-<span class="l-gloss">Aaniish, mii sa gii-wiisinid (well, and so he ate) ∙ Zhigwa miinawaa inaa (then again he was told) ∙ “Ge-ishkwantaman (what you leave uneaten) ∙ giniijaanisag [ani-gigiiwewi’taw]*flagged* (carry it home for your children),” ∙ gii-inaa (he was told)</span>
+<span class="l-gloss">Aaniish, mii sa gii-wiisinid (well, and so he ate) ∙ Zhigwa miinawaa inaa (then again he was told) ∙ “Ge-ishkwantaman (what you leave uneaten) ∙ giniijaanisag ani-gigiiwewitaw* (carry it home for your children),” ∙ gii-inaa (he was told)</span>
 
 <span class="l-orig">(5) Mīsa´ mīnawā, ạnimō‘k, i∙i∙mā kā∙i∙jicägwāntagināt ‘iᵉi´ᵘ ugīcō‘tä∙u∙naᵉ. Cigwa´ änijimādcāt, ogīnōndawān täbībāginit: “Aⁱ, kiwạnicigāgimä!”</span>
 
-<span class="l-fiero">**Mii sa miinawaa, animok, i’imaa [gaa-izhi-shegwaandaginaad]*flagged* ‘i’iw ogiizhoode’onan. Zhigwa enishi-maajaad, ogii-noondawaan debiibaaginid: “Ai, [giwanizhigaagime]*flagged*!”**</span>
+<span class="l-fiero">**Mii sa miinawaa, animok, i’imaa gaa-izhi-shegwaandaginaad* i’iw ogiizhoode’onan. Zhigwa enishi-maajaad, ogii-noondawaan debiibaaginid: “Ai, giwanizhigaagime*!”**</span>
 
 <span class="l-eng">*Thereupon again, when no one was looking, (in among the balsam boughs²) did he put his mittens. When on his way, he could hear the sound of some one calling to him in the distance: “Hey! you have forgotten something.”*</span>
 
-<span class="l-gloss">Mii sa miinawaa, animok (thereupon again, when none looked) ∙ i’imaa [gaa-izhi-shegwaandaginaad]*flagged* ‘i’iw ogiizhoode’onan (there in among the balsam boughs he tucked his mittens) ∙ Zhigwa enishi-maajaad (when on his way) ∙ ogii-noondawaan debiibaaginid (he heard someone calling out) ∙ “Ai, [giwanizhigaagime]*flagged*!” (“Hey, you have forgotten something!”)</span>
+<span class="l-gloss">Mii sa miinawaa, animok (thereupon again, when none looked) ∙ i’imaa gaa-izhi-shegwaandaginaad* i’iw ogiizhoode’onan (there in among the balsam boughs he tucked his mittens) ∙ Zhigwa enishi-maajaad (when on his way) ∙ ogii-noondawaan debiibaaginid (he heard someone calling out) ∙ “Ai, giwanizhigaagime*!” (“Hey, you have forgotten something!”)</span>
 
 *Jones’s footnote ² (printed at the foot of p.313): “Under the mat, as a bedding.” Its marker stands in the English, at “(in among the balsam boughs²)”.*
 
@@ -74,11 +74,11 @@ Nänabushu Is Miraculously Fed Bear-Grease (1)
 
 <span class="l-orig">(7) “Wâsagu´ undciwäbinamawi‘k. Kāwīn ingutinō kibwā∙i∙gusīwā. Wâsạgu undciwäbinạmawi‘k.”</span>
 
-<span class="l-fiero">**“Waasa go onji-webinamawik. Gaawiin ingoji no gibwaa-igosiiwaa. Waasa go onji-webinamawik.”**</span>
+<span class="l-fiero">**“Waasa go onji-webinamawik. Gaawiin ingodinoo gibwaa-igosiiwaa. Waasa go onji-webinamawik.”**</span>
 
 <span class="l-eng">*“From afar do you throw them to him. He will not refrain from saying something to you. From afar do you throw them to him.”*</span>
 
-<span class="l-gloss">“Waasa go onji-webinamawik (“From afar throw them to him) ∙ Gaawiin ingoji no gibwaa-igosiiwaa (he will not fail to say something to you) ∙ Waasa go onji-webinamawik (from afar throw them to him)”</span>
+<span class="l-gloss">“Waasa go onji-webinamawik (“From afar throw them to him) ∙ Gaawiin ingodinoo gibwaa-igosiiwaa (he will not fail to say something to you) ∙ Waasa go onji-webinamawik (from afar throw them to him)”</span>
 
 <span class="l-orig">(8) Cigwasa´ gägä‘t udānuwī∙a∙‘pạgitawāwān. “Cä, cä, cä, pīni‘kigu!”</span>
 
@@ -90,11 +90,11 @@ Nänabushu Is Miraculously Fed Bear-Grease (1)
 
 <span class="l-orig">(9) Mīsa´ gägä‘t ạniwīpimātcība∙i∙tiwaᵉ ‘iᵉi´ᵘ ạbinōtcīyaᵉ, äjikạnōnāt: “Kīpa‘ka‘tämwāsa kīnawā. Wâbạng kōsiwā tapīcā.”</span>
 
-<span class="l-fiero">**Mii sa geget aniwii-bimaajiiba’itiwag ‘i’iw abinoojiiyag, ezhi-ganoonaad: “[Gii-bakatemwaasa]*flagged* giinawaa. Waabang gosiwaa dabizhaa.”**</span>
+<span class="l-fiero">**Mii sa geget aniwii-bimaajiiba’itiwag i’iw abinoojiiyag, ezhi-ganoonaad: “Gii-bakatemwaasa* giinawaa. Waabang gosiwaa dabizhaa.”**</span>
 
 <span class="l-eng">*Thereupon truly on their way back did the children start to run, when he spoke to them, saying: “You people surely must be in want of food. To-morrow let your father come over.”*</span>
 
-<span class="l-gloss">Mii sa geget aniwii-bimaajiiba’itiwag ‘i’iw abinoojiiyag (and so truly the children began to run off on their way) ∙ ezhi-ganoonaad (when he spoke to them) ∙ “[Gii-bakatemwaasa]*flagged* giinawaa (“You folk surely are in want of food) ∙ Waabang gosiwaa dabizhaa (tomorrow let your father come over)”</span>
+<span class="l-gloss">Mii sa geget aniwii-bimaajiiba’itiwag i’iw abinoojiiyag (and so truly the children began to run off on their way) ∙ ezhi-ganoonaad (when he spoke to them) ∙ “Gii-bakatemwaasa* giinawaa (“You folk surely are in want of food) ∙ Waabang gosiwaa dabizhaa (tomorrow let your father come over)”</span>
 
 <span class="l-orig">(10) Ānīc, migu mīnawa tạgwicin ändāwāt. Ānīc mīnā minawā kīwīsininit unīdcānisaᵉ. Mīsa´ cigwa´ kī∙u∙ci‘tōd mi‘tigunāgāns. Ānīc, cayīgwa pikīgitōwaᵉ unīdcānisaᵉ: “Pīwitä!” i‘kitōwaᵉ. Ānīc pīndigäwạn piwitämiwān, cigwa ugạnōnān īni´ᵘ wīwạn: “Ạmbägickänā, wägunäcwīnā äyāyạng pä‘kānạg?”</span>
 
@@ -106,35 +106,35 @@ Nänabushu Is Miraculously Fed Bear-Grease (1)
 
 <span class="l-orig">(11) “Mīmāwīn ä‘tanā ‘iᵉi´ᵘ äyāyạng kägīgäwạng ‘iᵉi´ᵘ pimitä.”</span>
 
-<span class="l-fiero">**“Miimaawiin eta na ‘i’iw eyaayang ge-giigewang ‘i’iw bimide.”**</span>
+<span class="l-fiero">**“Miimaawiin eta na i’iw eyaayang ge-giigewang i’iw bimide.”**</span>
 
 <span class="l-eng">*“The only thing we have to feed him is the grease.”*</span>
 
-<span class="l-gloss">“Miimaawiin eta na ‘i’iw eyaayang ge-giigewang ‘i’iw bimide (“The only thing we have to feed him with is the grease)”</span>
+<span class="l-gloss">“Miimaawiin eta na i’iw eyaayang ge-giigewang i’iw bimide (“The only thing we have to feed him with is the grease)”</span>
 
 <span class="l-orig">(12) “ ‘Āᵘ, ạmbägickänā, kisīnạn iᵘ mi‘tigunāⁿgāns,” udinān īni´ᵘ wīwạn.</span>
 
-<span class="l-fiero">**“ ‘Aaw, ambegishkenaa, giziinan iw mitigonaagaans,” odinaan iniw wiiwan.**</span>
+<span class="l-fiero">**“Aaw, ambegishkenaa, giziinan iw mitigonaagaans,” odinaan iniw wiiwan.**</span>
 
 <span class="l-eng">*“Very well, come on, cleanse the little bowl!” he said to his wife.*</span>
 
-<span class="l-gloss">“ ‘Aaw, ambegishkenaa (“Very well, come now) ∙ giziinan iw mitigonaagaans (cleanse that little wooden vessel),” ∙ odinaan iniw wiiwan (he said to his wife)</span>
+<span class="l-gloss">“Aaw, ambegishkenaa (“Very well, come now) ∙ giziinan iw mitigonaagaans (cleanse that little wooden vessel),” ∙ odinaan iniw wiiwan (he said to his wife)</span>
 
 <span class="l-orig">(13) “Kägätsa kitaiyāwinä‘ku iᵘ ä∙i∙‘kitoyạn. Ānti kä∙u∙ntinamạng ‘iᵉi´ᵘ pimitä kägīgä∙a∙wäyạng?” udinān. Ānīc, unickimān.</span>
 
-<span class="l-fiero">**“Geget sa gidayaawinekw iw e-ikidoyan. Aandi ge-ondinamang ‘i’iw bimide ge-giigaa-aweyang?” odinaan. Aaniish, oniishkimaan.**</span>
+<span class="l-fiero">**“Geget sa gidayaawinekw iw e-ikidoyan. Aandi ge-ondinamang i’iw bimide ge-giige’aweyang?” odinaan. Aaniish, oniishkimaan.**</span>
 
 <span class="l-eng">*“Truly do I dislike you for what you are always saying. Where shall we get the grease with which to feed him?” she said to him. Well, she angered him.*</span>
 
-<span class="l-gloss">“Geget sa gidayaawinekw iw e-ikidoyan (“Truly I dislike you for what you say) ∙ Aandi ge-ondinamang ‘i’iw bimide ge-giigaa-aweyang? (Where shall we get the grease to feed him with?)” ∙ odinaan (she said to him) ∙ Aaniish, oniishkimaan (well, she angered him)</span>
+<span class="l-gloss">“Geget sa gidayaawinekw iw e-ikidoyan (“Truly I dislike you for what you say) ∙ Aandi ge-ondinamang i’iw bimide ge-giige’aweyang? (Where shall we get the grease to feed him with?)” ∙ odinaan (she said to him) ∙ Aaniish, oniishkimaan (well, she angered him)</span>
 
 <span class="l-orig">(14) ‘Āᵘ! mägwāsạgu kīnạmạdabit Nänabucu, pāmāgu wändcinawatînạng ‘iᵉi´ᵘ udạbạnc; kāwīn kijinja´ kaski∙u∙sī äni∙a∙‘kwāntawät. Wī‘kā mīna´ kaski∙o∙ i∙i∙mā ubimidā‘kupitciganiwāng. Cigwasa´ kīwanạgōsi. “ ‘Ā‘a´ᵘ, mindimōyä! Naskä a‘tōn cībaiyā∙ī∙ ‘iᵉi´ᵘ mi‘tigunāgạn.” Äcigitcipināt īni´ᵘ uniciciwạn, äciwācänāt. Mīsa´ äcinạnīmawāt nōndāgusit. “Sạnk, sạnk, sạnk, sạnk!” inwät. Ningutingiku äcipạcipawāt, kībimibisō.</span>
 
-<span class="l-fiero">**‘Aaw! megwaa sa go gii-namadabid Nanabozho, baamaa go wenji-nawadinang ‘i’iw odabaanzh; gaawiin gizhinzha gashki-oosii ani-aakwaandawed. Wiikaa miinawaa gashki-o i’imaa obimidaakobijiganiwaang. Zhigwa sa gii-wanagoozi. “ ‘A’aw, mindimooye! Naske aton [shiibaiyaa-ii]*flagged* ‘i’iw mitigonaagan.” Ezhi-gijibinaad iniw onizhizhiwan, ezhi-waazhenaad. Mii sa ezhi-naanimawaad noondaagozid. “Zank, zank, zank, zank!” inwed. Ningoding igo ezhi-bazhibawaad, gii-bimibizo.**</span>
+<span class="l-fiero">**Aaw! megwaa sa go gii-namadabid Nanabozho, baamaa go wenji-nawadinang i’iw odabaanzh; gaawiin gizhinzha gashki-oosii ani-aakwaandawed. Wiikaa miinawaa gashki-o i’imaa obimidaakobijiganiwaang. Zhigwa sa gii-wanagoozi. “A’aw, mindimooye! Naske aton shiibaiyaa-ii* i’iw mitigonaagan.” Ezhi-gijibinaad iniw onizhizhiwan, ezhi-waazhenaad. Mii sa ezhi-naanimawaad noondaagozid. “Zank, zank, zank, zank!” inwed. Ningoding igo ezhi-bazhibawaad, gii-bimibizo.**</span>
 
 <span class="l-eng">*How now! for while Nänabushu was seated, he suddenly seized the lodge-pole from where he was; but he was not able to go nimbly up the pole. After a long while was the poor thing able to reach his place on the cross-pole. At last he was perched aloft. “All right now, old woman! See that you place the wooden bowl directly underneath (me).” On taking out his testes, he squeezed them till he held them bulging tight. And so every time he aimed as if to hit them, he was heard to say: “Sạnk, sạnk, sạnk, sạnk!” (such) was the sound he made. And when he suddenly pricked them, down he came falling.*</span>
 
-<span class="l-gloss">‘Aaw! megwaa sa go gii-namadabid Nanabozho (now then! while Nanabozho sat there) ∙ baamaa go wenji-nawadinang ‘i’iw odabaanzh (suddenly he seized the lodge-pole) ∙ gaawiin gizhinzha gashki-oosii ani-aakwaandawed (he was hardly able to climb up) ∙ Wiikaa miinawaa gashki-o i’imaa obimidaakobijiganiwaang (after a long while he reached the cross-pole) ∙ Zhigwa sa gii-wanagoozi (now he was perched aloft) ∙ “ ‘A’aw, mindimooye! (“All right, old woman!) ∙ Naske aton [shiibaiyaa-ii]*flagged* ‘i’iw mitigonaagan (see, put the wooden vessel right underneath)” ∙ Ezhi-gijibinaad iniw onizhizhiwan (taking out his testes) ∙ ezhi-waazhenaad (squeezing them tight) ∙ Mii sa ezhi-naanimawaad noondaagozid (and so each time he aimed at them he was heard) ∙ “Zank, zank, zank, zank!” inwed (“Zank, zank, zank, zank!” was his cry) ∙ Ningoding igo ezhi-bazhibawaad (by and by he pricked them) ∙ gii-bimibizo (down he came falling)</span>
+<span class="l-gloss">Aaw! megwaa sa go gii-namadabid Nanabozho (now then! while Nanabozho sat there) ∙ baamaa go wenji-nawadinang i’iw odabaanzh (suddenly he seized the lodge-pole) ∙ gaawiin gizhinzha gashki-oosii ani-aakwaandawed (he was hardly able to climb up) ∙ Wiikaa miinawaa gashki-o i’imaa obimidaakobijiganiwaang (after a long while he reached the cross-pole) ∙ Zhigwa sa gii-wanagoozi (now he was perched aloft) ∙ “A’aw, mindimooye! (“All right, old woman!) ∙ Naske aton shiibaiyaa-ii* i’iw mitigonaagan (see, put the wooden vessel right underneath)” ∙ Ezhi-gijibinaad iniw onizhizhiwan (taking out his testes) ∙ ezhi-waazhenaad (squeezing them tight) ∙ Mii sa ezhi-naanimawaad noondaagozid (and so each time he aimed at them he was heard) ∙ “Zank, zank, zank, zank!” inwed (“Zank, zank, zank, zank!” was his cry) ∙ Ningoding igo ezhi-bazhibawaad (by and by he pricked them) ∙ gii-bimibizo (down he came falling)</span>
 
 <span class="l-orig">(15) Kīgitōwạn īni´ᵘ upiwitämiwān: “Ạgwāwäbini‘k! Āwänänīwinän dạc wīn aᵉa´ᵘ ä∙ī∙ndit wī‘kāgickäku Nänabucu!” Mīsa´ äcāgwāwäbinigut īni´ᵘ upīwitämạn. Cigwa kīgitōwạn: “Tạga kisīnạn iᵘ mi‘tigunāgạn,”</span>
 
@@ -154,19 +154,19 @@ Nänabushu Is Miraculously Fed Bear-Grease (1)
 
 <span class="l-orig">(17) “A‘tōn imā cībaiya∙i∙,” utigōn. Pānimāgu wäntci∙a∙‘kwāndawäsänit īni´ᵘ pīwitämiwān, ạdcitạmōn nōndāgusiwạn: “Sạnk, sạnk, sạnk, sạnk!” Mīsa´ äntōtạminit; wācänānit īni´ᵘ uniciciwāni, äcipacibawānit; pạnägu´ ma‘kupimitä kāsīgitciwạninik. Kāwīn kạnagä waya´ᵘ äcimōckinäbīnik ‘iᵉi´ᵘ mi‘tigunāgạn. “ ‘Āᵘ,” udigōn kānisāndawänit. “Nänabucu, mī∙i´∙ᵘ taciwīsiniyu‘k kinītcānisạg,” udigōn. Mīsa´ ạnicimādcānit.</span>
 
-<span class="l-fiero">**“Aton imaa [shiibaiyaa-ii]*flagged*,” odigoon. Baanimaa go wenji-aakwaandawesenid iniw biiwidemiwaan, ajidamoon noondaagoziwan: “Zank, zank, zank, zank!” Mii sa entoodaminid; waajenanid iniw onizhizhiwaani, ezhi-bazhibawaanid; banaa go mako-bimide gaa-ziigijiwaninig. Gaawiin ganage [wayaw]*flagged* ezhi-mooshkinebiinig ‘i’iw mitigonaagan. “ ‘Aaw,” odigoon gaa-niisaandawenid. “Nanabozho, mii iw da-zhi-wiisiniyok giniijaanisag,” odigoon. Mii sa anishi-maajaanid.**</span>
+<span class="l-fiero">**“Aton imaa shiibaiyaa-ii*,” odigoon. Baanimaa go wenji-aakwaandawesenid iniw biiwidemiwaan, ajidamoon noondaagoziwan: “Zank, zank, zank, zank!” Mii sa entoodaminid; waajenanid iniw onizhizhiwaani, ezhi-bazhibawaanid; banaa go mako-bimide gaa-ziigijiwaninig. Gaawiin ganage wayaw* ezhi-mooshkinebiinig i’iw mitigonaagan. “Aaw,” odigoon gaa-niisaandawenid. “Nanabozho, mii iw da-zhi-wiisiniyok giniijaanisag,” odigoon. Mii sa anishi-maajaanid.**</span>
 
 <span class="l-eng">*“Put it there beneath (me),” she was told. Suddenly from where he was the guest went skipping up, the Squirrel could be heard saying: “Sạnk, sạnk, sạnk, sạnk!” Thereupon he did as before: holding his testes so as to bulge out solid, he pierced them; forthwith some bear-grease came flowing out. It was but a moment when full was the wooden vessel. “Now, then!” (Nänabushu) was told when the guest was come down from the pole. “Nänabushu, therefore will you and your children now eat,” he was told. And then away went (the visitor).*</span>
 
-<span class="l-gloss">“Aton imaa [shiibaiyaa-ii]*flagged*,” odigoon (“Put it there underneath,” she was told) ∙ Baanimaa go wenji-aakwaandawesenid iniw biiwidemiwaan (suddenly the guest went skipping up) ∙ ajidamoon noondaagoziwan (the squirrel could be heard) ∙ “Zank, zank, zank, zank!” ∙ Mii sa entoodaminid (and so he did as before) ∙ waajenanid iniw onizhizhiwaani (squeezing his testes solid) ∙ ezhi-bazhibawaanid (he pricked them) ∙ banaa go mako-bimide gaa-ziigijiwaninig (and straightway bear-grease came flowing out) ∙ Gaawiin ganage [wayaw]*flagged* ezhi-mooshkinebiinig ‘i’iw mitigonaagan (in no time at all the wooden vessel was full) ∙ “ ‘Aaw,” odigoon gaa-niisaandawenid (“Now then?” he was told when come down) ∙ “Nanabozho, mii iw da-zhi-wiisiniyok giniijaanisag,” odigoon (“Nanabozho, now you and your children may eat,” he was told) ∙ Mii sa anishi-maajaanid (and then away he went)</span>
+<span class="l-gloss">“Aton imaa shiibaiyaa-ii*,” odigoon (“Put it there underneath,” she was told) ∙ Baanimaa go wenji-aakwaandawesenid iniw biiwidemiwaan (suddenly the guest went skipping up) ∙ ajidamoon noondaagoziwan (the squirrel could be heard) ∙ “Zank, zank, zank, zank!” ∙ Mii sa entoodaminid (and so he did as before) ∙ waajenanid iniw onizhizhiwaani (squeezing his testes solid) ∙ ezhi-bazhibawaanid (he pricked them) ∙ banaa go mako-bimide gaa-ziigijiwaninig (and straightway bear-grease came flowing out) ∙ Gaawiin ganage wayaw* ezhi-mooshkinebiinig i’iw mitigonaagan (in no time at all the wooden vessel was full) ∙ “Aaw,” odigoon gaa-niisaandawenid (“Now then?” he was told when come down) ∙ “Nanabozho, mii iw da-zhi-wiisiniyok giniijaanisag,” odigoon (“Nanabozho, now you and your children may eat,” he was told) ∙ Mii sa anishi-maajaanid (and then away he went)</span>
 
 <span class="l-orig">(18) Mīsanā mīnawā kīwīsininit ‘iᵉi´ᵘ unīdcānisaᵉ.</span>
 
-<span class="l-fiero">**Mii sa naa miinawaa gii-wiisininid ‘i’iw oniijaanisag.**</span>
+<span class="l-fiero">**Mii sa naa miinawaa gii-wiisininid i’iw oniijaanisag.**</span>
 
 <span class="l-eng">*So again his poor children had food to eat.*</span>
 
-<span class="l-gloss">Mii sa naa miinawaa gii-wiisininid ‘i’iw oniijaanisag (so again his children had food to eat)</span>
+<span class="l-gloss">Mii sa naa miinawaa gii-wiisininid i’iw oniijaanisag (so again his children had food to eat)</span>
 
 (1) See Nos. 40 (p. 341) and 52 (p. 421).
 

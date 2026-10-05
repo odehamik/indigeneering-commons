@@ -20,11 +20,11 @@ THE WOMAN WHO MARRIED A BEAVER.
 
 <span class="l-orig">(1) Ninguding päᵉjik uckinīgi‘kwē ki‘tcikī∙i∙gwi∙i∙cimūgubạn ma‘kadä‘kät.  Wāsa´ ningudci pạbā∙i∙jā.  Ninguding ininiwạn owâbạmān nībawinit, ogạnōnigōn:  “Käwīnîna kīdāwīdcīwisī ändāyān?”</span>
 
-<span class="l-fiero">**Ningoding bezhig oshkiniigikwe gichi-gii-giigwishimogoban makadeked. Waasa ningoji babaa-izhaa. Ningoding ininiwan owaabamaan niibawinid, oganoonigoon: “Gaawiin ina gidaa-wiijiiwisii endaayaan?”**</span>
+<span class="l-fiero">**Ningoding bezhig oshkiniigikwe gichi-gii’igwishimogoban makadeked. Waasa ningoji babaa-izhaa. Ningoding ininiwan owaabamaan niibawinid, oganoonigoon: “Gaawiin ina gidaa-wiijiiwisii endaayaan?”**</span>
 
 <span class="l-eng">*Once on a time a certain young woman went into a long fast, blackening (her face).  Far off somewhere she wandered about.  In course of time she beheld a man that was standing, (and) by him was she addressed, saying:  “Will you not come along with me to where I live?”*</span>
 
-<span class="l-gloss">Ningoding (once on a time) bezhig oshkiniigikwe (a certain young woman) gichi-gii-giigwishimogoban (went into a long dream-fast; preterite -goban) makadeked (blackening her face). Waasa ningoji (far off somewhere) babaa-izhaa (she wandered about). Ningoding (in course of time) ininiwan owaabamaan (a man she beheld) niibawinid (who was standing), oganoonigoon (and by him was she addressed): “Gaawiin ina gidaa-wiijiiwisii (will you not come along with me) endaayaan (to where I live)?”</span>
+<span class="l-gloss">Ningoding (once on a time) bezhig oshkiniigikwe (a certain young woman) gichi-gii’igwishimogoban (went into a long dream-fast; preterite -goban) makadeked (blackening her face). Waasa ningoji (far off somewhere) babaa-izhaa (she wandered about). Ningoding (in course of time) ininiwan owaabamaan (a man she beheld) niibawinid (who was standing), oganoonigoon (and by him was she addressed): “Gaawiin ina gidaa-wiijiiwisii (will you not come along with me) endaayaan (to where I live)?”</span>
 
 <span class="l-orig">(2) Mīdec ki∙ạ∙niwīdcīwād anicinābänk ujināguziwạn.  A‘pī∙i∙dạc kā∙u∙di‘tạmowād ändānit ā‘pidci unicicinini ändāt ‘aᵉa´winini;  ga‘kina kägō udaiyān ạgwiwin mīdcîm gayä.  Ā‘pidci wânạtizi ‘aᵉa´winini.  Mīdạc ägut:  “Kāwīnîna kīdāwīdigämîsī?  Mī umāⁿ kädạjipîmādiziyạnk,” udigōn.</span>
 
