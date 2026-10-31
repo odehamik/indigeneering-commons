@@ -520,11 +520,11 @@ And then only they that wept for me shall live.”*</span>
 
 <span class="l-orig">(62) “Nōs, imā kī‘pimitawising, mīnāⁿ pīndigäyu‘k.”</span>
 
-<span class="l-fiero">**“Noos, imaa gii-bimidawising, miinaa biindigeyok.”**</span>
+<span class="l-fiero">**“Noos, imaa gii-bimidawising, mii naa biindigeyok.”**</span>
 
 <span class="l-eng">*“My father, over there in the vacant space (away from the fire), there you (and the rest) enter.”*</span>
 
-<span class="l-gloss">“Noos, imaa gii-bimidawising, miinaa biindigeyok.” (“my father, there in the clear space, go in there.”) — *bimidawising ‘where it lies open/clear (free of fire)’, flagged*</span>
+<span class="l-gloss">“Noos, imaa gii-bimidawising, mii naa biindigeyok.” (“my father, there in the clear space, go in there.”) — *bimidawising ‘where it lies open/clear (free of fire)’, flagged*</span>
 
 <span class="l-orig">(63) Kägä‘t äcipīndigäwāt. Āyāsä mānu tcitagupimātisit. Kägät cigwa ickwā‘kitäni imāⁿ nibawiwāt pīnäwitcīt ändacagōtäg.</span>
 

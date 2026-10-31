@@ -50,11 +50,11 @@ THE SPIRIT-WORLD.
 
 <span class="l-orig">(5) ‘Aᵉa´widạc käcki‘tōd ājawādawät mī∙a∙´ᵘ käcki‘tōd tcî∙ī∙jāt iwidi tcībaya‘kīng.  Mīnawā udạniwâbamāᵉ ạnimūᵉ ayānit ōwita‘kwạmigō.  Ka‘kina gayä kägōn kayācōdäwād owâbạndạnāwa.</span>
 
-<span class="l-fiero">**A’aw idash gashkitood aazhawaadawed mii a’aw gashkitood ji-izhaad iwidi jiibay-akiing. Miinawaa odani-waabamaag animoog ayaanid wii-dakwamigoo. Gakina gaye gegoon gaa-aazhoodewaad owaabandaanaawaa.**</span>
+<span class="l-fiero">**A’aw idash gashkitood aazhawaadawed mii a’aw gashkitood ji-izhaad iwidi jiibay-akiing. Miinawaa odani-waabamaan animoon ayaanid wii-dakwamigoo. Gakina gaye gegoon gaa-aazhoodewaad owaabandaanaawaa.**</span>
 
 <span class="l-eng">*And the one that succeeded in crossing the log was able to go over to the ghostly region.  Next one saw dogs there that were eager to bite one.  And all sorts of things they (all) saw after they had crawled across.*</span>
 
-<span class="l-gloss">A’aw idash gashkitood aazhawaadawed (and the one who managed to cross on the log) mii a’aw gashkitood (that one was able) ji-izhaad iwidi jiibay-akiing (to go over there to the jiibay land). Miinawaa odani-waabamaag (next one saw them) animoog ayaanid (dogs that were there) wii-dakwamigoo (eager to bite one; parse flagged). Gakina gaye gegoon (and all sorts of things) gaa-aazhoodewaad (after they had crawled across) owaabandaanaawaa (they saw).</span>
+<span class="l-gloss">A’aw idash gashkitood aazhawaadawed (and the one who managed to cross on the log) mii a’aw gashkitood (that one was able) ji-izhaad iwidi jiibay-akiing (to go over there to the jiibay land). Miinawaa odani-waabamaan (next one saw them) animoon ayaanid (dogs that were there) wii-dakwamigoo (eager to bite one; parse flagged). Gakina gaye gegoon (and all sorts of things) gaa-aazhoodewaad (after they had crawled across) owaabandaanaawaa (they saw).</span>
 
 <span class="l-orig">(6) Mīnawā mindimoyäyạn owâbạmān, mi‘tig oda‘kunān ‘aᵉa´ᵘ mindimoyäⁿ.  Ka‘kina kägōn ogạgwädcimigōn, ānind kā∙i∙jipîmādisid.  Ānind kāwin opạgidînāsīn ‘aᵉa´ᵘ mindimōyä tcipimosänit;  ānind opạgi‘tä∙o∙wān;  ānind idạc opạgidînān mānū tcī∙i∙jānit tcībaya‘kīng.</span>
 

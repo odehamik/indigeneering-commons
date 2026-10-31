@@ -20,11 +20,11 @@ Nänabushu Is Miraculously Fed Bear-Grease (1)
 
 <span class="l-orig">(1) Ningutingiku mīnawā ā‘pidci pä‘kudäwāt; pạbā∙a∙yāt, mīnawā pīwitäᵉ² udōdisāᵉ, mī gäyābi nīⁿciwaᵉ ạbinōtcīyaᵉ. Mīsa´ mīnawa cigwa wī‘kīgä∙i∙nt. Mīsa´ ä‘kidunit: “Wägunäc kāgīgä∙ạ∙nk?” i‘kitōwaᵉ. “ ‘Āᵘ, igickäna kisīnạn ‘iᵉi´ᵘ unāgạn, mi‘tigunāgạn.”</span>
 
-<span class="l-fiero">**Ningoding igo miinawaa aapiji bakadewaad; babaa-ayaad, miinawaa biiwideg odoodisaag, mii geyaabi niizhiwag abinoojiiyag. Mii sa miinawaa zhigwa wii-giige’ind. Mii sa ekidonid: “Wegonesh ge-giige’ang?” ikidowag. “Aaw, igishkena* gizinan i’iw onaagan, mitigonaagan.”**</span>
+<span class="l-fiero">**Ningoding igo miinawaa aapiji bakadewaad; babaa-ayaad, miinawaa biiwiden odoodisaan, mii geyaabi niizhiwan abinoojiiyan. Mii sa miinawaa zhigwa wii-giige’ind. Mii sa ekidonid: “Wegonesh ge-giige’ang?” ikidowan. “Aaw, igishkena* gizinan i’iw onaagan, mitigonaagan.”**</span>
 
 <span class="l-eng">*And another time they were very much in want of food; while wandering about, to some other strangers² did he come, and they also had two children. And now again was he to be fed. So this they said: “What have we to feed him?” they said. “Well, then you had better cleanse the vessel, the wooden vessel.”*</span>
 
-<span class="l-gloss">Ningoding igo miinawaa (once again) ∙ aapiji bakadewaad (they were very hungry) ∙ babaa-ayaad (as he went wandering about) ∙ miinawaa biiwideg odoodisaag (again he came to some strangers) ∙ mii geyaabi niizhiwag abinoojiiyag (and they too had two children) ∙ Mii sa miinawaa zhigwa wii-giige’ind (and so now again he was to be fed) ∙ Mii sa ekidonid (so this they said) ∙ “Wegonesh ge-giige’ang?” ikidowag (“What shall we feed him with?” they said) ∙ “Aaw (well now) ∙ igishkena* gizinan i’iw onaagan, mitigonaagan (then cleanse that vessel, the wooden vessel)”</span>
+<span class="l-gloss">Ningoding igo miinawaa (once again) ∙ aapiji bakadewaad (they were very hungry) ∙ babaa-ayaad (as he went wandering about) ∙ miinawaa biiwiden odoodisaan (again he came to some strangers) ∙ mii geyaabi niizhiwan abinoojiiyan (and they too had two children) ∙ Mii sa miinawaa zhigwa wii-giige’ind (and so now again he was to be fed) ∙ Mii sa ekidonid (so this they said) ∙ “Wegonesh ge-giige’ang?” ikidowan (“What shall we feed him with?” they said) ∙ “Aaw (well now) ∙ igishkena* gizinan i’iw onaagan, mitigonaagan (then cleanse that vessel, the wooden vessel)”</span>
 
 *Jones’s footnote ¹ to the story heading (printed at the foot of p.310): “See Nos. 40 (p. 341) and 52 (p. 421).” — Jones’s footnote ² (printed at the foot of the facing English p.311): “Pīwītäᵉ, ‘strangers.’ The usual meaning of this word is ‘visitor’ or ‘guest;’ i.e., one to whom one renders hospitality.” ⚠️ Jones sets the word two ways: the body on p.310 l.17 prints pīwitäᵉ (one macron), the footnote headword prints Pīwītäᵉ (two). Both carried as printed; never harmonised.*
 
@@ -98,11 +98,11 @@ Nänabushu Is Miraculously Fed Bear-Grease (1)
 
 <span class="l-orig">(10) Ānīc, migu mīnawa tạgwicin ändāwāt. Ānīc mīnā minawā kīwīsininit unīdcānisaᵉ. Mīsa´ cigwa´ kī∙u∙ci‘tōd mi‘tigunāgāns. Ānīc, cayīgwa pikīgitōwaᵉ unīdcānisaᵉ: “Pīwitä!” i‘kitōwaᵉ. Ānīc pīndigäwạn piwitämiwān, cigwa ugạnōnān īni´ᵘ wīwạn: “Ạmbägickänā, wägunäcwīnā äyāyạng pä‘kānạg?”</span>
 
-<span class="l-fiero">**Aaniish, mii go miinawaa dagwishin endaawaad. Aaniish miinaa miinawaa gii-wiisininid oniijaanisag. Mii sa zhigwa gii-ozhitood mitigonaagaans. Aaniish, zhayiigwa bigiigidowag oniijaanisag: “Biiwide!” ikidowag. Aaniish biindigewan biiwidemiwaan, zhigwa oganoonaan iniw wiiwan: “Ambegishkenaa, wegonesh wiinaa eyaayang bekaanag?”**</span>
+<span class="l-fiero">**Aaniish, mii go miinawaa dagwishin endaawaad. Aaniish miinaa miinawaa gii-wiisininid oniijaanisan. Mii sa zhigwa gii-ozhitood mitigonaagaans. Aaniish, zhayiigwa bigiigidowan oniijaanisan: “Biiwide!” ikidowan. Aaniish biindigewan biiwidemiwaan, zhigwa oganoonaan iniw wiiwan: “Ambegishkenaa, wegonesh wiinaa eyaayang bekaanag?”**</span>
 
 <span class="l-eng">*Well, accordingly again was he come at home. So again did his poor children eat. And then in time he made a wooden vessel. Now, presently hither came his children, saying: “A visitor!” they said. So when in came their guest, he then spoke to his wife, saying: “Well, now, what else have we that is different?”*</span>
 
-<span class="l-gloss">Aaniish, mii go miinawaa dagwishin endaawaad (well, and so again he arrived home) ∙ Aaniish miinaa miinawaa gii-wiisininid oniijaanisag (so once more his children ate) ∙ Mii sa zhigwa gii-ozhitood mitigonaagaans (and now he made a little wooden vessel) ∙ Aaniish, zhayiigwa bigiigidowag oniijaanisag (well, presently his children spoke up) ∙ “Biiwide!” ikidowag (“A visitor!” they said) ∙ Aaniish biindigewan biiwidemiwaan (so their guest came in) ∙ zhigwa oganoonaan iniw wiiwan (then he spoke to his wife) ∙ “Ambegishkenaa, wegonesh wiinaa eyaayang bekaanag?” (“Come now, what else have we that is different?”)</span>
+<span class="l-gloss">Aaniish, mii go miinawaa dagwishin endaawaad (well, and so again he arrived home) ∙ Aaniish miinaa miinawaa gii-wiisininid oniijaanisan (so once more his children ate) ∙ Mii sa zhigwa gii-ozhitood mitigonaagaans (and now he made a little wooden vessel) ∙ Aaniish, zhayiigwa bigiigidowan oniijaanisan (well, presently his children spoke up) ∙ “Biiwide!” ikidowan (“A visitor!” they said) ∙ Aaniish biindigewan biiwidemiwaan (so their guest came in) ∙ zhigwa oganoonaan iniw wiiwan (then he spoke to his wife) ∙ “Ambegishkenaa, wegonesh wiinaa eyaayang bekaanag?” (“Come now, what else have we that is different?”)</span>
 
 <span class="l-orig">(11) “Mīmāwīn ä‘tanā ‘iᵉi´ᵘ äyāyạng kägīgäwạng ‘iᵉi´ᵘ pimitä.”</span>
 
@@ -162,11 +162,11 @@ Nänabushu Is Miraculously Fed Bear-Grease (1)
 
 <span class="l-orig">(18) Mīsanā mīnawā kīwīsininit ‘iᵉi´ᵘ unīdcānisaᵉ.</span>
 
-<span class="l-fiero">**Mii sa naa miinawaa gii-wiisininid i’iw oniijaanisag.**</span>
+<span class="l-fiero">**Mii sa naa miinawaa gii-wiisininid i’iw oniijaanisan.**</span>
 
 <span class="l-eng">*So again his poor children had food to eat.*</span>
 
-<span class="l-gloss">Mii sa naa miinawaa gii-wiisininid i’iw oniijaanisag (so again his children had food to eat)</span>
+<span class="l-gloss">Mii sa naa miinawaa gii-wiisininid i’iw oniijaanisan (so again his children had food to eat)</span>
 
 (1) See Nos. 40 (p. 341) and 52 (p. 421).
 

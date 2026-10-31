@@ -76,11 +76,11 @@ Old Man Mashos.
 
 <span class="l-orig">(8) “ ‘Ä‘pägic ki‘kändạmān ningudci ayāwād kayāckwạg!</span>
 
-<span class="l-fiero">**“’Apegish gikendamaan ningoji ayaawaad gayaashkwag!**</span>
+<span class="l-fiero">**“‘Apegish gikendamaan ningoji ayaawaad gayaashkwag!**</span>
 
 <span class="l-eng">*“’Would that I knew of a place where there were gulls!*</span>
 
-<span class="l-gloss">“’Apegish gikendamaan (“’would that I knew) ningoji ayaawaad gayaashkwag! (somewhere gulls are!)</span>
+<span class="l-gloss">“‘Apegish gikendamaan (“’would that I knew) ningoji ayaawaad gayaashkwag! (somewhere gulls are!)</span>
 
 <span class="l-orig">(9) Nindāgī∙i∙jā’, i‘kidō,” udigōn udānisạn.</span>
 
@@ -444,11 +444,11 @@ Old Man Mashos.
 
 <span class="l-orig">(54) ‘A‘pägic ningudci migiziwạg ayāwād, nindāgī∙i∙ja,’ i‘kido.”</span>
 
-<span class="l-fiero">**’Apegish ningoji migiziwag ayaawaad, nindaa-gii-izhaa,’ ikido.”**</span>
+<span class="l-fiero">**‘Apegish ningoji migiziwag ayaawaad, nindaa-gii-izhaa,’ ikido.”**</span>
 
 <span class="l-eng">*’Would that I knew of a place where there were bald eagles! thither would I go,’ he said.*</span>
 
-<span class="l-gloss">’Apegish ningoji migiziwag ayaawaad, (’would that somewhere bald eagles are,) nindaa-gii-izhaa,’ (I would go there,’) ikido.” (he says.”)</span>
+<span class="l-gloss">‘Apegish ningoji migiziwag ayaawaad, (’would that somewhere bald eagles are,) nindaa-gii-izhaa,’ (I would go there,’) ikido.” (he says.”)</span>
 
 <span class="l-orig">(55) Mīnawādec Omacōs udinān unīngwạnạn:</span>
 

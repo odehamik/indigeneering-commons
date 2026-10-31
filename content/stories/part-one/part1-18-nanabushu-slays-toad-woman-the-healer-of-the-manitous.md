@@ -256,11 +256,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(30) Äcini‘kipīnit i∙i∙ᵘ mi‘tigōᵉ, mīsa’ a‘panä kägä‘t unāwändān wâsa anāmīndîm a‘ki ayānik. Ōwâbạmā ayānit pämātagānit ạnōtc awäsīyaᵉ. Mīsa wīpōsiwaᵉ ‘iᵉ∙i∙māⁿ utcīmāning, mīsa’ äcī‘kunīcawāt. “Pä‘kā,” udināᵉ. “Pānimā pīcā‘käg,” udināᵉ. Mīsa cigwa kī∙i∙nändạnk: “Ānīn käcictcigäyān awägwän käbītōt ‘iᵉi’ᵘ a‘ki?” kī∙i∙nändạm. Cigwa ugī‘kạnōnāᵉ ‘iᵉi’ᵘ mạnitōwäⁿca, mīdạc ni‘tạm nigigwạn: “Kāwīnina kītānāsi‘kaⁿsīn ‘iᵉi’ᵘ a‘ki?” udinān.</span>
 
-<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-booziwag imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaag. “Baanimaa biizhaakeg,” odinaag. Mii sa zhigwa gii-inendang: “Aaniin ge-izhichigeyaan awegwen ge-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaag iw manidoowenza, mii dash nitam nigigwan: “Gaawiinina gidaa-naazikanzin iw aki?” odinaan.**</span>
+<span class="l-fiero">**Ezhi-niikibinid iw mitigoon, mii sa apane geget onawendaan waasa anaamindim aki ayaanik. Owaabamaa ayaanid bemaadagaanid anooj awesiiyan. Mii sa wii-booziwag imaa ojiimaning, mii sa ezhi-gonizhawaad. “Bekaa,” odinaan. “Baanimaa biizhaakeg,” odinaan. Mii sa zhigwa gii-inendang: “Aaniin ge-izhichigeyaan awegwen ge-biidood aki?” gii-inendam. Zhigwa ogii-ganoonaag iw manidoowenza, mii dash nitam nigigwan: “Gaawiinina gidaa-naazikanzin iw aki?” odinaan.**</span>
 
 <span class="l-eng">*When the water overflowed the trees, then at once he truly realized what a long way down in the water the earth was. He saw all kinds of game-folk swimming around. And when they wished to go aboard his raft, he kept them off. “Wait,” he said to them. “Not till after a while do you come,” he said to them. And so he then thought: “How shall I do (to select) what one is to fetch some earth?” he thought. Presently he spoke to the smaller animal-folk, and so the first was the Otter: “Would you not go after some earth?” he said to him.*</span>
 
-<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-booziwag imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin ge-izhichigeyaan awegwen ge-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaag iw manidoowenza (he spoke to the lesser animal-folk) ∙ nitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazikanzin iw aki (would you not go after the earth) ∙ odinaag (he said to him)</span>
+<span class="l-gloss">Ezhi-niikibinid iw mitigoon (when the water overflowed the trees) ∙ mii sa apane geget onawendaan waasa anaamindim aki ayaanik (he realized how far down the earth was) ∙ Owaabamaa ayaanid bemaadagaanid anooj awesiiyan (he saw all kinds of game-folk swimming) ∙ Mii sa wii-booziwag imaa ojiimaning (when they wished to board his canoe) ∙ mii sa ezhi-gonizhawaad (he held them off) ∙ Bekaa (wait) ∙ Baanimaa biizhaakeg (come later) ∙ Aaniin ge-izhichigeyaan awegwen ge-biidood aki (how shall I choose who fetches earth) ∙ ogii-ganoonaag iw manidoowenza (he spoke to the lesser animal-folk) ∙ nitam nigigwan (first the otter) ∙ Gaawiinina gidaa-naazikanzin iw aki (would you not go after the earth) ∙ odinaan (he said to him)</span>
 
 <span class="l-orig">(31) Mīsa gägä‘t kā∙i∙cigōgīnit. Ningutingigu awäyāt kī∙u∙ndci∙ā∙pōckạndcisäwạn, kānisābāwänigwän. Kā∙i∙cipạbwätānāt, kā∙i∙cigagwätcimāt: “Ānīn?” ugī∙i∙nān.</span>
 
@@ -268,7 +268,7 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-eng">*Thereupon truly down into the water (the Otter) dived. And by and by the one that had gone down came up out of the water dead, he must have drowned. When (Nänabushu) had breathed upon him, then he asked him: “Well?” he said to him.*</span>
 
-<span class="l-gloss">Mii sa geget gaa-izhi-googiinid (and so truly he dived down) ∙ Ningoding igo (by and by) ∙ aweyaad gii-onji-aaboozhkanjisewan (someone came bursting up out of the water — *stem flagged*) ∙ gaa-nisaabaawenigwen (he must have drowned — *flagged*) ∙ Gaa-izhi-babwedaanaad (when he had breathed upon him) ∙ gaa-izhi-gagwejimaad (as he asked him) ∙ Aaniin (well?) ∙ ogii-inaan (he said to him)</span>
+<span class="l-gloss">Mii sa geget gaa-izhi-googiinid (and so truly he dived down) ∙ Ningoding igo (by and by) ∙ aweyaad gii-onji-aaboozhkanjisewan (someone came bursting up out of the water — *stem flagged*) ∙ gaa-nisaabaawenigwen (he must have drowned) ∙ Gaa-izhi-babwedaanaad (when he had breathed upon him) ∙ gaa-izhi-gagwejimaad (as he asked him) ∙ Aaniin (well?) ∙ ogii-inaan (he said to him)</span>
 
 *¹ Such as wolves, foxes, beavers, badgers, minks, hares, and the like. — Jones’s own footnote, printed at the foot of p.150 (the marker ¹ prints after ‘…he said to him.’, p.151, closing this section). Restored 2026-09-02, English gate (step 5).*
 
@@ -330,7 +330,7 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(39) “Ānīc mīsa ‘iᵉi’ᵘ tcikạckitōyạng tci∙ō∙ci‘tōyạng ‘iᵉi’ᵘ a‘ki,” ugināᵉ. Ānīc mī cigwa kīpōdātạnk ‘iᵉi’ᵘ a‘ki, äckạmigu kīmiˢtcāni, äckạm kī∙a∙ji‘tōt. Ānīc mīgu kā∙i∙cictcigät. Cigwa äjiki‘kändạnk äckạm miˢtcānig, o∙ō∙widạc kī∙i∙‘kitō: “Tạga, mā∙ī∙ngạn, wâbandạn änigu‘kwāgwän,” udinān ma∙ī∙ngạnạn kā∙ạ∙nōnāt.</span>
 
-<span class="l-fiero">**“Aaniish mii sa iw ji-gashkitooyang ji-ozhitooyang iw aki,” odinaag. Aaniish mii zhigwa gii-boodaadang iw aki, eshkamigo gii-michaani, eshkam gii-izhitood. Aaniish mii go gaa-izhichiged. Zhigwa ezhi-gikendang eshkam michaanig, o’ow idash gii-ikido: “Daga, ma’iingan, waabandan enigokwaagwen,” odinaan ma’iinganan gaa-anoonaad.**</span>
+<span class="l-fiero">**“Aaniish mii sa iw ji-gashkitooyang ji-ozhitooyang iw aki,” odinaan. Aaniish mii zhigwa gii-boodaadang iw aki, eshkamigo gii-michaani, eshkam gii-izhitood. Aaniish mii go gaa-izhichiged. Zhigwa ezhi-gikendang eshkam michaanig, o’ow idash gii-ikido: “Daga, ma’iingan, waabandan enigokwaagwen,” odinaan ma’iinganan gaa-anoonaad.**</span>
 
 <span class="l-eng">*“So therefore shall we now be able to create the earth,” he said to them. So it was then that he breathed upon the earth, and by degrees it grew in size, larger he made it. Now, such was what he did. When he knew that it was grown larger, then this he said: “Pray, Wolf, do you see how big this earth is,” he said to the Wolf that he had employed.*</span>
 
@@ -362,11 +362,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(43) Mīdạc kā∙i∙nāt: “‘Aᵘ, ạmbä, ạgwā‘tāyu‘k,” ugī∙i∙nāᵉ ạnōtc awäsīyaᵉ. Mīdạc kägä‘t. Mīsa cigwa kī‘pimādci∙ā∙t ‘iᵉi’ᵘ awäsīyaᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-inaad: “Aw, ambe, agwaatayok,” ogii-inaag anooj awesiiyan. Mii dash geget. Mii sa zhigwa gii-bimaaji’aad iw awesiiyan.**</span>
+<span class="l-fiero">**Mii dash gaa-inaad: “Aw, ambe, agwaatayok,” ogii-inaan anooj awesiiyan. Mii dash geget. Mii sa zhigwa gii-bimaaji’aad iw awesiiyan.**</span>
 
 <span class="l-eng">*Whereupon (Nänabushu) said to them: “Now, come, go you ashore,” he said to all the various game-folk. And so it was true. So, then, now he had saved the lives of the game-folk.*</span>
 
-<span class="l-gloss">Mii dash gaa-inaad (then he said to them) ∙ Aw, ambe, agwaatayok (now, come, go ashore) ∙ ogii-inaag anooj awesiiyan (he said to all kinds of game-folk) ∙ Mii dash geget (and so it was) ∙ Mii sa zhigwa gii-bimaaji’aad iw awesiiyan (now he had saved the lives of the game-folk)</span>
+<span class="l-gloss">Mii dash gaa-inaad (then he said to them) ∙ Aw, ambe, agwaatayok (now, come, go ashore) ∙ ogii-inaan anooj awesiiyan (he said to all kinds of game-folk) ∙ Mii dash geget (and so it was) ∙ Mii sa zhigwa gii-bimaaji’aad iw awesiiyan (now he had saved the lives of the game-folk)</span>
 
 <span class="l-orig">(44) Cigwa kītạgwicinōn kā∙ạ∙nōnāt. “Äyeᵉ, osām tā∙a∙gāsā,” ugī∙i∙nān. “Ānawi kīnīcugunäntiyạn, kāwīn kätäbisäsinōn kä∙i∙cīnit pitcīnạg wā‘pimātisit,” ugī∙i∙nān. Mīsa mīnawā kā∙i∙ji∙ō∙citōt, “Cigwa tạga,” ugī∙i∙nān; “mīmā tạc i∙i∙ᵘ tänigu‘kwāgwän,” ugī∙i∙nān.</span>
 
@@ -506,11 +506,11 @@ Nänabushu Slays Toad-Woman, the Healer of the Manitous (1)
 
 <span class="l-orig">(61) “Mīsa ‘iᵉi’ᵘ intawā kä∙i∙nigu‘kwāg o a‘ki,” ugī∙i∙nāᵉ. Mīdạc, “Mīmāwīn tciwäbā∙a∙ngibạn,” kī∙i∙‘kitō. “Intawā tcigusigunk ninga∙a∙ci‘tōn wī‘kā tcibītcimi‘kāsunu‘k.”¹</span>
 
-<span class="l-fiero">**“Mii sa iw indawaa ge-inigokwaag o aki,” ogii-inaag. Mii dash, “Mii mawin ji-webaa’angiban,” gii-ikido. “Indawaa ji-goozigwang ninga-izhiton wiika ji-bichi-mikaazonok.”**</span>
+<span class="l-fiero">**“Mii sa iw indawaa ge-inigokwaag o aki,” ogii-inaan. Mii dash, “Mii mawin ji-webaa’angiban,” gii-ikido. “Indawaa ji-goozigwang ninga-izhiton wiika ji-bichi-mikaazonok.”**</span>
 
 <span class="l-eng">*“That then, no doubt, will be the extent of this earth,” he said to the (animal-folk). And now, “(I) fear that this will float away,” he said. “Therefore in order that it may be heavy will I make it so that it shall never be moved.”*</span>
 
-<span class="l-gloss">Mii sa iw indawaa ge-inigokwaag o aki (that then will be the size of this earth) ∙ ogii-inaag (he said to them) ∙ Mii mawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhiton (so I will make it heavy) ∙ wiika ji-bichi-mikaazonok (so that it shall never be moved)</span>
+<span class="l-gloss">Mii sa iw indawaa ge-inigokwaag o aki (that then will be the size of this earth) ∙ ogii-inaan (he said to them) ∙ Mii mawin ji-webaa’angiban (I fear this will float away) ∙ gii-ikido (he said) ∙ Indawaa ji-goozigwang ninga-izhiton (so I will make it heavy) ∙ wiika ji-bichi-mikaazonok (so that it shall never be moved)</span>
 
 *¹ Unfortunately the ending is incomplete. — Jones’s own footnote, printed at the foot of p.158 (the first of two notes there; the second belongs to No. 19). The marker ¹ prints at the very end of the Ojibwe text (p.158) and again on the English (p.159, ‘…shall never be moved.¹’).*
 

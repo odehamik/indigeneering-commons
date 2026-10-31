@@ -160,10 +160,10 @@ Nanabushu and the Mallard (1)
 
 <span class="l-orig">(18) Ānīc mīsa´ cigwa´ kā∙ạ∙nimādcānit, mīsạnā kīwīsininit ‘iᵉi´ᵘ unīdcānisaᵉ.</span>
 
-<span class="l-fiero">**Aaniish miisa zhigwa gaa-ani-maajaanid, mii sa naa gii-wiisininid i’iw oniijaanisag.**</span>
+<span class="l-fiero">**Aaniish miisa zhigwa gaa-ani-maajaanid, mii sa naa gii-wiisininid i’iw oniijaanisan.**</span>
 
 <span class="l-eng">*Well, so then upon his way he went, and accordingly did (Nänabushu’s) poor children eat.*</span>
 
-<span class="l-gloss">Aaniish miisa zhigwa gaa-ani-maajaanid (so then when he had gone on his way), mii sa naa gii-wiisininid i’iw oniijaanisag (accordingly his poor little children ate).</span>
+<span class="l-gloss">Aaniish miisa zhigwa gaa-ani-maajaanid (so then when he had gone on his way), mii sa naa gii-wiisininid i’iw oniijaanisan (accordingly his poor little children ate).</span>
 
 </div>

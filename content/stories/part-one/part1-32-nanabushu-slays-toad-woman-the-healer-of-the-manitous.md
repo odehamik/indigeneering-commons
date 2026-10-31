@@ -878,11 +878,11 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 <span class="l-orig">(108) Kägu’ wīn māmāwīnu‘kägun, aiyā‘kowātc kīgamādcām.”</span>
 
-<span class="l-fiero">**Gego wiin maamaawiinokegon, ayaakowaach* gii-ga-maajaam.”**</span>
+<span class="l-fiero">**Gego wiin maamaawiinokegon, ayaakowaach* giga-maajaam.”**</span>
 
 <span class="l-eng">*Do not all go together, one after the other shall you go.”*</span>
 
-<span class="l-gloss">Gego wiin maamaawiinokegon (do not all go together), ayaakowaach* gii-ga-maajaam (one after another you shall go — *editorial mark carried*).”</span>
+<span class="l-gloss">Gego wiin maamaawiinokegon (do not all go together), ayaakowaach* giga-maajaam (one after another you shall go — *editorial mark carried*).”</span>
 
 <span class="l-orig">(109) Mīdạc ‘aᵉa’ᵘ māng ni‘tạm känōnint: “Tạga’, kīn, ni‘tạm nạntawâbạndạn ‘iᵉi’ᵘ a‘ki.</span>
 
@@ -1544,7 +1544,7 @@ Aki ekwaag nimbishinawishin, nimbishinawishin, saa.”**</span>
 
 (1) Other translations of the song would be: “From the beginning of the world has the sound of my voice been heard; From the ends of the earth is the sound of my coming.” The second rendition is preferred to the first, but the one given in the story is preferred to all.
 
-<span class="l-gloss">(2) The old Toad-woman, mother earth.</span>
+<span class="l-gloss">(2) The old Toad-Woman, mother earth.</span>
 
 (3) Gender is confused here, but it is given as in the text.
 

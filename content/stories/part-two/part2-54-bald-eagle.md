@@ -28,11 +28,11 @@ BALD-EAGLE.
 
 <span class="l-orig">(2) Unīdcānisaᵉ nīciwaᵉ.</span>
 
-<span class="l-fiero">**Oniijaanisag niizhiwag.**</span>
+<span class="l-fiero">**Oniijaanisan niizhiwan.**</span>
 
 <span class="l-eng">*Her children were two (in number).*</span>
 
-<span class="l-gloss">Oniijaanisag (her children) niizhiwag (were two).</span>
+<span class="l-gloss">Oniijaanisan (her children) niizhiwan (were two).</span>
 
 <span class="l-orig">(3) Cigwa wīnōniwaᵉ utcīting udini‘kwänā; kābakaskạmigutigu, pinäwītcīt . . .</span>
 

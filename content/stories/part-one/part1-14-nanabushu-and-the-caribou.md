@@ -556,7 +556,7 @@ Nanabushu and the Caribou (1)
 
 <span class="l-fiero">**“Eye’, niin isa go bagwadakamig gaa-naaniibawiyaan.”**</span>
 
-<span class="l-eng">*“Ay, in the deep solitude of the forest ever do I stand.”*</span>
+<span class="l-eng">*“Ay, in the deep solutide of the forest ever do I stand.”*</span>
 
 <span class="l-gloss">“Eye’, niin isa go bagwadakamig gaa-naaniibawiyaan.” (“yes, deep in the wilderness is where I always stand.”)</span>
 

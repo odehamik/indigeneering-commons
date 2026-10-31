@@ -70,11 +70,11 @@ HELL-DIVER, THE FOOLISH MAIDEN, AND WINTER-MAKER.
 
 <span class="l-orig">(7) Cigwasa´ gägä‘t ukạnōnānini, o∙ō´∙dạc udinān: “Kwạtc, kwạtc, kwạtc, kwạtc, ma‘kōnsim, nintai´!” i‘kitōwạn īni´ᵘ unāpämiwān. Ānīc cigwa nōndāgōn äjiku‘pība‘tōt aᵘ ma‘kwa. Unawatcipinānini umi‘tigwābīni äci∙ī∙na∙ä∙nit; kwaya‘k äci∙ī∙na∙ä∙nit kwaya‘k imā kānījiku‘pība‘tōnit. Äjikabāwāt, mīsa´ kumā a‘pī ạnicingicinōn, kīnisānigwän. Äcinōsibītābānāwāt, “Kägätigunā kīgama‘ku‘kämin,” i‘kitōwạg. Mīsa’ cigwa i∙i∙mā ạgwāwānā‘ku‘käwāt.</span>
 
-<span class="l-fiero">**Zhigwa sa geget oganoonaanini, o’ow idash odinaan: “Kwach, kwach, kwach, kwach, makoonsim, nindai!” ikidowan iniw onaabemiwan. Aaniish zhigwa noondaagoon ezhi-gobiibatood aw makwa. Onawajibinaanini omitigwaabiini ezhi-ina’enid; gwayak ezhi-ina’enid gwayak imaa gaa-niizhi-gobiibatoonid. Ezhi-gabaawaad, mii sa goma apii ani-zhingishinon, gii-nisaanigwen. Ezhi-noozibiidaabaanaawaad, “Geget igonaa, gii-ga-makoke-min,” ikidowag. Mii sa zhigwa imaa agwaawanaa-ke-waad.**</span>
+<span class="l-fiero">**Zhigwa sa geget oganoonaanini, o’ow idash odinaan: “Kwach, kwach, kwach, kwach, makoonsim, nindai!” ikidowan iniw onaabemiwan. Aaniish zhigwa noondaagoon ezhi-gobiibatood aw makwa. Onawajibinaanini omitigwaabiini ezhi-ina’enid; gwayak ezhi-ina’enid gwayak imaa gaa-niizhi-gobiibatoonid. Ezhi-gabaawaad, mii sa goma apii ani-zhingishinon, gii-nisaanigwen. Ezhi-noozibiidaabaanaawaad, “Geget igonaa, gii-ga-makoke-min,” ikidowag. Mii sa zhigwa imaa agwaawanaakokewaad.**</span>
 
 <span class="l-eng">*In a while he truly spoke to the bear, and this he said to it: “Here, here, here, here, my little cub, my pet!” (so) said their husband. Now, as soon as he was heard, then up from the lake ran the bear. Quickly seizing his bow (and arrow), (Diver) then shot; straight he let fly the arrow in the very direction where (he had seen the bear) go running up from the shore. Then they went ashore, and then some distance on (they found the bear) lying (on the ground), no doubt slain by (Diver). Then, drawing (the bear) down by the water, “Verily, now we shall have some bear-meat to eat,” they said. So then in a while they had a rack put up (on which to dry the meat).*</span>
 
-<span class="l-gloss">Zhigwa sa geget oganoonaanini (in a while he truly spoke to it), o’ow idash odinaan (and this he said to it): “Kwach, kwach, kwach, kwach, makoonsim, nindai!” (“here, here, here, here, my little cub, my pet!” — *the call carried as printed; makoonsim “my little bear-cub,” nindai “my pet”*) ikidowan iniw onaabemiwan (so said their husband). Aaniish zhigwa noondaagoon (now, as soon as he was heard) ezhi-gobiibatood aw makwa (the bear came running up from the water — *stem settled 2026-09-03*). Onawajibinaanini omitigwaabiini (quickly seizing his bow) ezhi-ina’enid (he let fly straight — *stem settled 2026-09-03*); gwayak ezhi-ina’enid gwayak (straight, right in the line) imaa gaa-niizhi-gobiibatoonid (where it had come running up — *stem settled 2026-09-03*). Ezhi-gabaawaad (when they went ashore), mii sa goma apii ani-zhingishinon (some way on it lay stretched out), gii-nisaanigwen (slain, no doubt). Ezhi-noozibiidaabaanaawaad (drawing it down to the water — *stem settled 2026-09-03*), “Geget igonaa, gii-ga-makoke-min,” ikidowag (“truly, now we shall get bear-meat,” they said — *verb settled 2026-09-03*). Mii sa zhigwa imaa agwaawanaa-ke-waad (and so there they set up a drying-rack).</span>
+<span class="l-gloss">Zhigwa sa geget oganoonaanini (in a while he truly spoke to it), o’ow idash odinaan (and this he said to it): “Kwach, kwach, kwach, kwach, makoonsim, nindai!” (“here, here, here, here, my little cub, my pet!” — *the call carried as printed; makoonsim “my little bear-cub,” nindai “my pet”*) ikidowan iniw onaabemiwan (so said their husband). Aaniish zhigwa noondaagoon (now, as soon as he was heard) ezhi-gobiibatood aw makwa (the bear came running up from the water — *stem settled 2026-09-03*). Onawajibinaanini omitigwaabiini (quickly seizing his bow) ezhi-ina’enid (he let fly straight — *stem settled 2026-09-03*); gwayak ezhi-ina’enid gwayak (straight, right in the line) imaa gaa-niizhi-gobiibatoonid (where it had come running up — *stem settled 2026-09-03*). Ezhi-gabaawaad (when they went ashore), mii sa goma apii ani-zhingishinon (some way on it lay stretched out), gii-nisaanigwen (slain, no doubt). Ezhi-noozibiidaabaanaawaad (drawing it down to the water — *stem settled 2026-09-03*), “Geget igonaa, gii-ga-makoke-min,” ikidowag (“truly, now we shall get bear-meat,” they said — *verb settled 2026-09-03*). Mii sa zhigwa imaa agwaawanaakokewaad (and so there they set up a drying-rack).</span>
 
 <span class="l-orig">(8) Cayīgwa cingibis ugīmi‘kwändān kä∙i∙cictcigät pabā∙a∙yāt ‘aᵉa´ᵘ, mīsa´ äcipata‘kisitäcink. Mīsa´ kigicäp, “Kägätsa nīngagīgizitä,” udinān īni´ᵘ wīwạn säsī‘kisinit. “Tạga, wī‘kwạta∙ā∙n!” udinān; mī∙i∙’ᵘ wīn cāpunigạnạn kīcägunạng i∙i∙mā usitāng.</span>
 
@@ -138,11 +138,11 @@ HELL-DIVER, THE FOOLISH MAIDEN, AND WINTER-MAKER.
 
 <span class="l-orig">(15) “Kāwīn,” i‘kitōwạn, “ayāwạg,” udinān. “Aiyāwạg nintawämāg. Kägä‘t uwīniciciwạg igiwä kidāngwäwiwāg,” udināᵉ ‘iᵉi´ᵘ wīwaᵉ. “Mīsa´ tcī∙i∙cāⁿyạng wâbạng,” udināᵉ ‘iᵉi´ᵘ wīwaᵉ.</span>
 
-<span class="l-fiero">**“Gaawiin,” ikidowan, “ayaawag,” odinaan. “Ayaawag nindawemaag. Geget owinizhishiwag igiwe gidaangweyiwiwaag,” odinaag iniw wiiwag. “Mii sa ji-izhaayang waabang,” odinaag iniw wiiwag.**</span>
+<span class="l-fiero">**“Gaawiin,” ikidowan, “ayaawag,” odinaan. “Ayaawag nindawemaag. Geget owinizhishiwag igiwe gidaangweyiwiwaag,” odinaan iniw wiiwan. “Mii sa ji-izhaayang waabang,” odinaan iniw wiiwan.**</span>
 
 <span class="l-eng">*“No,” he said, “there are (some relatives),” he said to her. “There are some sisters of mine. Truly handsome are those sisters-in-law of yours,” he said to his wives. “Therefore will we start (to where they are) to-morrow,” he said to his wives.*</span>
 
-<span class="l-gloss">“Gaawiin,” ikidowan, “ayaawag,” odinaan (“no,” he said, “there are some,” he said to her). “Ayaawag nindawemaag (“there are sisters of mine). Geget owinizhishiwag igiwe gidaangweyiwiwaag,” (truly handsome are those sisters-in-law of yours,” — *daangwe “sister-in-law,” settled 2026-09-03*) odinaag iniw wiiwag (he said to his wives). “Mii sa ji-izhaayang waabang,” (“so we shall set out tomorrow,”) odinaag iniw wiiwag (he said to his wives).</span>
+<span class="l-gloss">“Gaawiin,” ikidowan, “ayaawag,” odinaan (“no,” he said, “there are some,” he said to her). “Ayaawag nindawemaag (“there are sisters of mine). Geget owinizhishiwag igiwe gidaangweyiwiwaag,” (truly handsome are those sisters-in-law of yours,” — *daangwe “sister-in-law,” settled 2026-09-03*) odinaan iniw wiiwan (he said to his wives). “Mii sa ji-izhaayang waabang,” (“so we shall set out tomorrow,”) odinaan iniw wiiwan (he said to his wives).</span>
 
 <span class="l-orig">(16) Naskädạc cigwa mādcāwạg. Ningutingiku ạnipapimiskāwāt ugīwâbamāwān adi‘kwạn. Ānīc ugạnōnāwān: “Naskäginīn! awäti ạdi‘k kāpimācạgāmät!”</span>
 
@@ -162,11 +162,11 @@ HELL-DIVER, THE FOOLISH MAIDEN, AND WINTER-MAKER.
 
 <span class="l-orig">(18) “Kagaskumāguta pīpāgi´m!” udigōᵉ ‘iᵉi´ᵘ wīwaᵉ.</span>
 
-<span class="l-fiero">**“Daga shkomaagoda* biibaagim!” odigoog iniw wiiwag.**</span>
+<span class="l-fiero">**“Daga shkomaagoda* biibaagim!” odigoon iniw wiiwan.**</span>
 
 <span class="l-eng">*“Oh, please do call to it!” he was told by his wives.*</span>
 
-<span class="l-gloss">“Daga … biibaagim!” (“oh, please do call to it!” — *same opening particle cluster as §6, flagged; biibaagim “call to him,” imper.*) odigoog iniw wiiwag (he was told by his wives).</span>
+<span class="l-gloss">“Daga … biibaagim!” (“oh, please do call to it!” — *same opening particle cluster as §6, flagged; biibaagim “call to him,” imper.*) odigoon iniw wiiwan (he was told by his wives).</span>
 
 <span class="l-orig">(19) Mīsa’ gägä‘t pīpāgit ‘aᵉa’ᵘ cingibis.</span>
 
@@ -218,11 +218,11 @@ HELL-DIVER, THE FOOLISH MAIDEN, AND WINTER-MAKER.
 
 <span class="l-orig">(25) Ạnipōsiwạg. “Mīsa´ nōngum tci∙u∙di‘tōngwā īgi‘ᵘ kitāngwä∙i∙wāg,” udināᵉ ‘iᵉi´ᵘ wīwaᵉ.</span>
 
-<span class="l-fiero">**Ani-booziwag. “Mii sa noongom ji-oditoongwaa igiw gidaangweyiwaag,” odinaag iniw wiiwag.**</span>
+<span class="l-fiero">**Ani-booziwag. “Mii sa noongom ji-oditoongwaa igiw gidaangweyiwaag,” odinaan iniw wiiwan.**</span>
 
 <span class="l-eng">*Getting into their canoe, off they went. “This is the day that we arrive at (the place of) your sisters-in-law,” he said to his wives.*</span>
 
-<span class="l-gloss">Ani-booziwag (getting into the canoe, off they went). “Mii sa noongom ji-oditoongwaa igiw gidaangweyiwaag,” (“today is when we reach your sisters-in-law,” — *odi’- “arrive at,” settled 2026-09-03*) odinaag iniw wiiwag (he said to his wives). [*word-final raised sort: the ᵍ/ᵉ typing question is CLOSED 2026-09-02 — this record’s Layer 1 carries 0 instances of ᵍ and the settled ᵉ throughout (Orthography Key, ⭐ 2026-07-01: one raised sort, Jones’s key defines no superior g). The -g/-n NUMBER reading of udināᵍ/wīwaᵍ is untouched and stays with M. (M.’s number ruling, 2026-07-01)*]</span>
+<span class="l-gloss">Ani-booziwag (getting into the canoe, off they went). “Mii sa noongom ji-oditoongwaa igiw gidaangweyiwaag,” (“today is when we reach your sisters-in-law,” — *odi’- “arrive at,” settled 2026-09-03*) odinaan iniw wiiwan (he said to his wives). [*word-final raised sort: the ᵍ/ᵉ typing question is CLOSED 2026-09-02 — this record’s Layer 1 carries 0 instances of ᵍ and the settled ᵉ throughout (Orthography Key, ⭐ 2026-07-01: one raised sort, Jones’s key defines no superior g). The -g/-n NUMBER reading of udināᵍ/wīwaᵍ is untouched and stays with M. (M.’s number ruling, 2026-07-01)*]</span>
 
 <span class="l-orig">(26) Cigwasa´ udäbābandānāwa ‘iᵉi´ᵘ ōdäna. Cayīgwa mạdwäpībāgiwạn: “Ä ‘ē∙e∙´! cingibis pīti‘kwäwä!”</span>
 
@@ -258,11 +258,11 @@ HELL-DIVER, THE FOOLISH MAIDEN, AND WINTER-MAKER.
 
 <span class="l-orig">(30) “Kiwâbạmigōmināsạn,” udināᵉ ‘iᵉi´ᵘ wīwaᵉ. Pināⁿzibība∙i∙tiwaᵉ i‘kwäwaᵉ, “Mīna īgi´ᵘ kitawämāg?”</span>
 
-<span class="l-fiero">**“Gii-waabamigoominaasan,” odinaag iniw wiiwag. Binaazhibii’ataawag ikwewag, “Mii na igiw gidawemaag?”**</span>
+<span class="l-fiero">**“Gii-waabamigoominaasan,” odinaan iniw wiiwan. Binaazhibii’ataawag ikwewag, “Mii na igiw gidawemaag?”**</span>
 
 <span class="l-eng">*“We are already seen,” he said to his wives. As some women came racing down to the water, “Are those your sisters?” (he was asked.)*</span>
 
-<span class="l-gloss">“Gii-waabamigoominaasan,” odinaag iniw wiiwag (“we are seen already,” he said to his wives — *tail settled 2026-09-03*). Binaazhibii’ataawag ikwewag (women came racing down to the water), “Mii na igiw gidawemaag?” (“are those your sisters?” — *gidawemaag “your sisters”*). [*word-final raised sort: the ᵍ/ᵉ typing question is CLOSED 2026-09-02 — this record’s Layer 1 carries 0 instances of ᵍ and the settled ᵉ throughout (Orthography Key, ⭐ 2026-07-01: one raised sort, Jones’s key defines no superior g). The -g/-n NUMBER reading of udināᵍ/wīwaᵍ/tiwaᵍ/i‘kwäwaᵍ is untouched and stays with M. (M.’s number ruling, 2026-07-01)*]</span>
+<span class="l-gloss">“Gii-waabamigoominaasan,” odinaan iniw wiiwan (“we are seen already,” he said to his wives — *tail settled 2026-09-03*). Binaazhibii’ataawag ikwewag (women came racing down to the water), “Mii na igiw gidawemaag?” (“are those your sisters?” — *gidawemaag “your sisters”*). [*word-final raised sort: the ᵍ/ᵉ typing question is CLOSED 2026-09-02 — this record’s Layer 1 carries 0 instances of ᵍ and the settled ᵉ throughout (Orthography Key, ⭐ 2026-07-01: one raised sort, Jones’s key defines no superior g). The -g/-n NUMBER reading of udināᵍ/wīwaᵍ/tiwaᵍ/i‘kwäwaᵍ is untouched and stays with M. (M.’s number ruling, 2026-07-01)*]</span>
 
 <span class="l-orig">(31) “Sä! matcī‘ki‘kwäwicạg wīnigi´ᵘ. Sasägā∙i∙‘kwäwạg kuca kā∙i∙nạgwā.”</span>
 
@@ -290,11 +290,11 @@ HELL-DIVER, THE FOOLISH MAIDEN, AND WINTER-MAKER.
 
 <span class="l-orig">(34) “Sä! mạdcī‘ki‘kwäwicạg wīnigi´ᵘ!” udināᵉ ‘iᵉi‘ᵘ wīwaᵉ. “Zägā∙i∙‘kwäwạg kuca īgi‘ᵘ kā∙i∙nạgwā,” udināᵉ.</span>
 
-<span class="l-fiero">**“Sä! machikiikwewizhag wiinigiw!” odinaag iniw wiiwag. “Zasega-ikwewag gosha igiw gaa-inagwaa,” odinaag.**</span>
+<span class="l-fiero">**“Sä! machikiikwewizhag wiinigiw!” odinaan iniw wiiwan. “Zasega-ikwewag gosha igiw gaa-inagwaa,” odinaan.**</span>
 
 <span class="l-eng">*“Pshaw! foolish maidens of no account (are) they,” he said to his wives. “About pretty women now are they that I have told you,” he said to them.*</span>
 
-<span class="l-gloss">“Sä! machikiikwewizhag wiinigiw!” (“pshaw! they are foolish maidens of no account!”) odinaag iniw wiiwag (he said to his wives). “Zasega-ikwewag gosha igiw gaa-inagwaa,” (“fine, well-dressed women are the ones I told you of,”) odinaag (he said to them). [*word-final raised sort: the ᵍ/ᵉ typing question is CLOSED 2026-09-02 — 0 instances of ᵍ in this record’s Layer 1, settled ᵉ throughout (Orthography Key ⭐ 2026-07-01). The -g/-n NUMBER reading stays with M.*]</span>
+<span class="l-gloss">“Sä! machikiikwewizhag wiinigiw!” (“pshaw! they are foolish maidens of no account!”) odinaan iniw wiiwan (he said to his wives). “Zasega-ikwewag gosha igiw gaa-inagwaa,” (“fine, well-dressed women are the ones I told you of,”) odinaan (he said to them). [*word-final raised sort: the ᵍ/ᵉ typing question is CLOSED 2026-09-02 — 0 instances of ᵍ in this record’s Layer 1, settled ᵉ throughout (Orthography Key ⭐ 2026-07-01). The -g/-n NUMBER reading stays with M.*]</span>
 
 <span class="l-orig">(35) Wī‘kāgu ā‘pidci i∙i∙witi ickwäyawi∙ī∙ pināzibība∙i∙tiwaᵉ i‘kwäwaᵉ, wâbasimōwạn nānābicäpisunit; cigwa‘ku pikwakwāngu∙u∙tiwaᵉ igu‘ku kābāskinatcimạgisänig īni´ᵘ wâbasimōwạn nānābicäpisunit. “Mīsa´ īgi´ᵘ nintawämāg!” udinā ‘iᵉi´ᵘ wīwaᵉ.</span>
 
@@ -386,11 +386,11 @@ HELL-DIVER, THE FOOLISH MAIDEN, AND WINTER-MAKER.
 
 <span class="l-orig">(46) Ānīc cigwa mi‘kawimā kīnibut ‘aᵉa´ᵘ wämīgisạgō, mīsa´ kāwīn mi‘kawāsī ānti kā∙u∙ndcinägwän. Mīsa´ ạnicā nạngwạnạgu kīnibu inäntạmōg īgi‘ᵘ ạnicinābäg; inänimāwạn cingibis tcigīnisāt. Cigwasa´ i‘kitōwạg īgi´ᵘ ạnicinābäg: “Ạmbäsạnō, awīnạntamawi‘k,” udināᵉ ‘iᵉi´ᵘ. “Ānīc ‘oᵉōwini‘k misa´ kīnibut ‘aᵉa´ᵘ kītciwämīgisạgō, ini‘k.”</span>
 
-<span class="l-fiero">**Aaniish zhigwa mikawimaa gii-nibod a’aw Waamigisago, mii sa gaawiin mikawaasii aandi gaa-onjinegwen*. Mii sa anishaa nangwana go gii-nibo inendamoog igiw anishinaabeg; inenimaawan zhingibis ji-gii-nisaad. Zhigwa sa ikidowag igiw anishinaabeg: “Ambesano, awi-wiindamawik,” odinaag iniw. “Aaniish ogowini-k mii sa gii-nibod a’aw giijii-Waamigisago*, inik.”**</span>
+<span class="l-fiero">**Aaniish zhigwa mikawimaa gii-nibod a’aw Waamigisago, mii sa gaawiin mikawaasii aandi gaa-onjinegwen*. Mii sa anishaa nangwana go gii-nibo inendamoog igiw anishinaabeg; inenimaawan zhingibis ji-gii-nisaad. Zhigwa sa ikidowag igiw anishinaabeg: “Ambesano, awi-wiindamawik,” odinaan iniw. “Aaniish ogowini-k mii sa gii-nibod a’aw giijii-Waamigisago*, inik.”**</span>
 
 <span class="l-eng">*Now, in time it was learned that Arrayed-in-Wampum was dead, but it was not found what had caused his death. And so without cause he had died, fancied the people; they suspected that Diver slew him. In a while said the people: “Well, go tell him to come,” they said to some. “Now, this do you say to him, that now dead is your friend Arrayed-in-Wampum, thus do you say to him.”*</span>
 
-<span class="l-gloss">Aaniish zhigwa mikawimaa gii-nibod a’aw Waamigisago (now in time it was found that Arrayed-in-Wampum was dead), mii sa gaawiin mikawaasii aandi gaa-onjinegwen* (but it was not learned what had caused his death). Mii sa anishaa nangwana go gii-nibo inendamoog igiw anishinaabeg (so the people fancied he had died for no cause); inenimaawan zhingibis ji-gii-nisaad (they suspected Diver of slaying him). Zhigwa sa ikidowag igiw anishinaabeg (in a while the people said): “Ambesano, awi-wiindamawik,” odinaag iniw (“come, go tell him,” they said to some). “Aaniish ogowini-k mii sa gii-nibod a’aw giijii-Waamigisago*, inik.” (“say this to him: your friend Great-Arrayed-in-Wampum is dead, say to him.”).</span>
+<span class="l-gloss">Aaniish zhigwa mikawimaa gii-nibod a’aw Waamigisago (now in time it was found that Arrayed-in-Wampum was dead), mii sa gaawiin mikawaasii aandi gaa-onjinegwen* (but it was not learned what had caused his death). Mii sa anishaa nangwana go gii-nibo inendamoog igiw anishinaabeg (so the people fancied he had died for no cause); inenimaawan zhingibis ji-gii-nisaad (they suspected Diver of slaying him). Zhigwa sa ikidowag igiw anishinaabeg (in a while the people said): “Ambesano, awi-wiindamawik,” odinaan iniw (“come, go tell him,” they said to some). “Aaniish ogowini-k mii sa gii-nibod a’aw giijii-Waamigisago*, inik.” (“say this to him: your friend Great-Arrayed-in-Wampum is dead, say to him.”).</span>
 
 <span class="l-orig">(47) Mīsa´ kāwīn ạbisī. Ānīc ạnwā‘tinini ‘iᵉi´ᵘ sāga∙i∙gạn, mīgu iᵘ babai∙a∙yạgạmut i∙i∙mā micawạgām. Kägä‘t ạndu‘tạng i∙i∙mā wäntakạmiwänit ‘iᵉi´ᵘ ạnicinābäᵉ.</span>
 

@@ -32,7 +32,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*And Nänabushu in reply said: “Simply lean aside with your buttocks,” he said to his grandmother.*</span>
 
-<span class="l-gloss">Nenabozh gaye wiin ikido — and Nanabushu for his part says ∙ bekediyenin* (simply lean aside with your buttocks; *flagged*: form not in lexicon, sense per Jones’s English) ∙ odinaan ookomisan — he says it to his grandmother.</span>
+<span class="l-gloss">Nenabozh gaye wiin ikido — and Nanabushu for his part says ∙ bekediyenin* (simply lean aside with your buttocks) ∙ odinaan ookomisan — he says it to his grandmother.</span>
 
 <span class="l-orig">(3) “Kāwīn, nōjis,” udinān, “niwīmīsī,” udinān ōjisạn.</span>
 
@@ -80,7 +80,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*Whereupon again Nänabushu said to his grandmother: “Lick it with your tongue,” he said to her.*</span>
 
-<span class="l-gloss">mii dash minawaa Nenabozho enaad ookomisan — whereupon again Nanabushu said to his grandmother ∙ soobandan* (lick it, with your tongue; *flagged*: Jones Sōbạndạn; sense per English) ∙ odinaan — he says it to her.</span>
+<span class="l-gloss">mii dash minawaa Nenabozho enaad ookomisan — whereupon again Nanabushu said to his grandmother ∙ soobandan* (lick it, with your tongue) ∙ odinaan — he says it to her.</span>
 
 <span class="l-orig">(9) Ānīc, mī wīn minawā äjisōbạndạnk ōtōskun, mīdạc aᵘ mindimōyä änāt ōcicäⁿyạn: “Nōjis! nawạtc pạngī i‘ku‘kwänîn.”</span>
 
@@ -88,7 +88,7 @@ description: "William Jones, Ojibwa Texts (1917) — four-layer, carried by Maya
 
 <span class="l-eng">*Well, it was the same again, for she licked her elbow with her tongue, whereupon the old woman said to her grandson: “O my grandson! just raise your head a little.”*</span>
 
-<span class="l-gloss">Aaniish, mii wiin minawaa ezhi-soobandang* odooskon — well, it was the same again, she licked her elbow ∙ mii dash a’aw mindimooye enaad ozhishenyan — whereupon the old woman said to her grandson ∙ Noozhis — my grandson ∙ nawaj bangii ikokwenin* (just raise your head a little; *flagged*: ikokwenin — form not in lexicon, sense per Jones’s English).</span>
+<span class="l-gloss">Aaniish, mii wiin minawaa ezhi-soobandang* odooskon — well, it was the same again, she licked her elbow ∙ mii dash a’aw mindimooye enaad ozhishenyan — whereupon the old woman said to her grandson ∙ Noozhis — my grandson ∙ nawaj bangii ikokwenin* (just raise your head a little).</span>
 
 <span class="l-orig">(10) “Ānic?” i‘kito Nänabucu.</span>
 

@@ -328,11 +328,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(30) “Nyā, kägu, kägo, nindānis, ijictcigä‘kän! Pōtcigu ‘aᵉa´ᵘ kipāpā ōgami‘kān wägunäni iᵘ wändci∙a∙yāwạt aᵘ ạbinōtci. Mīgu iᵘ icitäbwä‘tawicin, kägu´ wäbinā‘kän, ā‘pidcigu kītā∙i∙niga∙ā∙.” “ ‘Āᵘ, nimāmā, kīgatäbwä‘tōn, kāwīn ningawäbināsī.”</span>
 
-<span class="l-fiero">**“Nyaa, gego, gego, nindaanis, izhichigeken! Booch igo a’aw gibaabaa oga-mikaan wegoneni iw wenji-ayaawad aw abinoojii. Miigo iw izhi-debwetawishin, gego webinaaken, aapiji go gidaa-inigi’aa.” “Aa, nimaamaa, giga-debwetoon, gaawiin ninga-webinaasii.”**</span>
+<span class="l-fiero">**“Nyaa, gego, gego, nindaanis, izhichigeken! Booch igo a’aw gibaabaa oga-mikaan wegoneni iw wenji-ayaawad aw abinoojii. Miigo iw izhi-debwetawishin, gego webinaaken, aapiji go gidaa-inigaa’aa.” “Aa, nimaamaa, giga-debwetoon, gaawiin ninga-webinaasii.”**</span>
 
 <span class="l-eng">*“Oh, don’t, don’t, O my daughter, do such a thing! for of necessity will your father find out how you came to be with child. Therefore heed my word! don’t you cast it away, for very much harm would you do it.” “Very well, O my mother! I will heed your word, I will not cast (the child) away.”*</span>
 
-<span class="l-gloss">“Nyaa, gego, gego, nindaanis, izhichigeken! (don’t do that, my daughter!) Booch igo a’aw gibaabaa oga-mikaan (your father will surely find out) wegoneni iw wenji-ayaawad aw abinoojii (how the child came to be). Izhi-debwetawishin, gego webinaaken (heed me, don’t cast it away), aapiji go gidaa-inigi’aa (you would do it great harm).” “Aa, nimaamaa, giga-debwetoon (I will heed you), gaawiin ninga-webinaasii (I will not cast it away).”</span>
+<span class="l-gloss">“Nyaa, gego, gego, nindaanis, izhichigeken! (don’t do that, my daughter!) Booch igo a’aw gibaabaa oga-mikaan (your father will surely find out) wegoneni iw wenji-ayaawad aw abinoojii (how the child came to be). Izhi-debwetawishin, gego webinaaken (heed me, don’t cast it away), aapiji go gidaa-inigaa’aa (you would do it great harm).” “Aa, nimaamaa, giga-debwetoon (I will heed you), gaawiin ninga-webinaasii (I will not cast it away).”</span>
 
 <span class="l-orig">(31) Mīsa iᵘ cigwa ạnitibi‘kạtini; ayābitātibi‘kạtinig mī∙i∙´ cigwa ki‘känimāt wi‘kwutci∙u∙nit īni´ᵘ unītcānisänsạn. Mīndcimigu pīdābạninig cigwasa aiyāwạn. Kuniginīn, kwīwisänsạn!</span>
 
@@ -400,11 +400,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(38) Mīsa iᵘ mīnawā ạnimādcāt aᵘ kwīwisäns; näyāp äjitạgwicing ickwāntäming. Äjikīgitut ‘aᵉa´ᵘ a‘kiwäⁿzī: “Mīsa∙i∙ᵘ intawā icisāga∙ạ∙mu‘k.” Kägä‘t sāga∙ạ∙mōg īgi´ᵘ ininiwạg. Tạga, wīn a‘kiwäⁿzīyạg kayä īgi’ᵘ kwīwisänsạg cigwasa nạntumāwạg. Kāmōskinäwāt pīndig, cigwa mīnawā kīwi‘tānigāsu aᵘ gwīwisäns; nījingisa ānugīwi‘tạgāmä nigāsu. Mīsa ‘iᵉi´ᵘ kāwäsāsa awīya ucigināsīn.</span>
 
-<span class="l-fiero">**Mii sa iw miinawaa ani-maajaad aw gwiiwizens; neyaab ezhi-dagwishing ishkwaandeming. Ezhi-giigidod a’aw akiwenzii: “Mii sa iw indawaa izhi-zaaga’amok.” Geget zaaga’amoog igiw ininiwag. Daga, wiin akiwenziiyag gaye igiw gwiiwizensag zhigwa sa nandomaawag. Gaa-mooshkinewaad biindig, zhigwa miinawaa giiwita’aniigaazo aw gwiiwizens; niizhing isa aano-giiwita’agaamaa nigaazo. Mii sa i’iw gaawesaasa awiya ozhiginaasiin.**</span>
+<span class="l-fiero">**Mii sa iw miinawaa ani-maajaad aw gwiiwizens; neyaab ezhi-dagwishing ishkwaandeming. Ezhi-giigidod a’aw akiwenzii: “Mii sa iw indawaa izhi-zaaga’amok.” Geget zaaga’amoog igiw ininiwag. Daga, wiin akiwenziiyag gaye igiw gwiiwizensag zhigwa sa nandomaawag. Gaa-mooshkinewaad biindig, zhigwa miinawaa giiwitaanigaazo aw gwiiwizens; niizhing isa aano-giiwita’agaamaa nigaazo. Mii sa i’iw gaawesaasa awiya ozhiginaasiin.**</span>
 
 <span class="l-eng">*Thereupon again on his way (round) went the boy; then back, as before, was he come at the entry-way. Then spoke the old man, saying: “Therefore now do you go forth out of here.” Of a truth, out went the men. Well, this time the old men and the boys were then asked to come. After they had filled up the place inside, then again was the boy passed round the circle; twice was he passed round the circle, but with nothing happening. Therefore not upon a single one did he make water.*</span>
 
-<span class="l-gloss">Mii sa iw miinawaa ani-maajaad aw gwiiwizens (again the boy went round); neyaab … ishkwaandeming (back to the doorway). “Mii sa iw indawaa izhi-zaaga’amok (so then go outside),” … Geget zaaga’amoog igiw ininiwag (out went the men). … akiwenziiyag gaye … gwiiwizensag … nandomaawag (the old men and boys were called). … giiwita’aniigaazo aw gwiiwizens; niizhing isa aano-… nigaazo (twice in vain was the boy carried round). Mii sa i’iw gaawesaasa awiya ozhiginaasiin (yet he wet no one).</span>
+<span class="l-gloss">Mii sa iw miinawaa ani-maajaad aw gwiiwizens (again the boy went round); neyaab … ishkwaandeming (back to the doorway). “Mii sa iw indawaa izhi-zaaga’amok (so then go outside),” … Geget zaaga’amoog igiw ininiwag (out went the men). … akiwenziiyag gaye … gwiiwizensag … nandomaawag (the old men and boys were called). … giiwitaanigaazo aw gwiiwizens; niizhing isa aano-… nigaazo (twice in vain was the boy carried round). Mii sa i’iw gaawesaasa awiya ozhiginaasiin (yet he wet no one).</span>
 
 <span class="l-orig">(39) Cigwasa kīgitō ‘aᵉa´ᵘ a‘kiwäⁿzsī: “Awänändạc aᵉa´ᵘ wänītcānisigwän? Ạmbāsạnō ō∙o∙mā säsik äyāwāt ạnicinābäg tānạntumāwạg.” Ayāwa ‘iᵉi’ᵘ udōckābäwisimaᵉ. Äjimādcāwāt. Ānīc säsig äyāwāt nạntamāwạg anicinābäg. Ānīc mīnōtc kayä wīn kwīckwa∙ä∙ tạgunạntumā. Ānīc ā‘pidcigu kō‘patänimā, kayägu mānātisi.</span>
 
@@ -416,7 +416,7 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(40) Cigwasa kayä wīn tạgwicin i∙i∙māⁿ āndạcisạgaswä∙i∙tiwint. Änitạgwicing kwīckwa∙ä∙, “Ạgwatcīng ta∙u∙nsābi, kāwīn wīn pō‘tc udāwạnīdcānisisīnạn,” inā. Cigwasa kīwi‘tānigāsu ‘aᵉa´ᵘ kwīwisäns. Cigwa päcunāgusiwạn cigwa imā ānic kāwīn wīmīnāsī īni’ᵘ gwīwisänsạn. Pitcīnạgigu imā äni∙i∙ninimint äciciginigut kwīckwa∙ä∙. Kạnōnā: “ ‘A‘ē´ⁱ, kwīckwa∙ä∙ uciginigōn abinōtcīyạn!”</span>
 
-<span class="l-fiero">**Zhigwa sa gaye wiin dagwishin i’imaa endazhi-zagaswe’idiwind. Ani-dagwishing Gwiishkwa’e, “Agwajiing da-onzaabi, gaawiin wiin booch odaa-waniijaanisisiinan,” inaa. Zhigwa sa giiwita’aniigaazo a’aw gwiiwizens. Zhigwa beshonaagoziwan zhigwa imaa aaniish gaawiin wii-miinaasii iniw gwiiwizensan. Bijiinag igo imaa eni-ininimind* ezhi-zhiginigod Gwiishkwa’e. Ganoonaa: “A’e’i, Gwiishkwa’e ozhiginigoon abinoojiiyan!”**</span>
+<span class="l-fiero">**Zhigwa sa gaye wiin dagwishin i’imaa endazhi-zagaswe’idiwind. Ani-dagwishing Gwiishkwa’e, “Agwajiing da-onzaabi, gaawiin wiin booch odaa-waniijaanisisiinan,” inaa. Zhigwa sa giiwitaanigaazo a’aw gwiiwizens. Zhigwa beshonaagoziwan zhigwa imaa aaniish gaawiin wii-miinaasii iniw gwiiwizensan. Bijiinag igo imaa eni-ininimind* ezhi-zhiginigod Gwiishkwa’e. Ganoonaa: “A’e’i, Gwiishkwa’e ozhiginigoon abinoojiiyan!”**</span>
 
 <span class="l-eng">*So now he too was come at the place where the invitation had been given to smoke in assembly. When Chirper was coming up to the place, “Let him look on from the outside, for it would be impossible for him to be the father of the child,” was said of him. Presently round the circle was the boy passed. When (they saw the child) approaching nigh (to Chirper), there was of course no intention on their part of passing the boy over to him. The moment (the child) was lifted over him to another, then was Chirper wetted. It was said of him: “Well, Chirper is wetted by the child!”*</span>
 
@@ -432,11 +432,11 @@ O Snipe, O old Squaw-Duck, O old Squaw-Duck!”*</span>
 
 <span class="l-orig">(42) “Nyā´! nimpāpā! kāwīn niki‘kändạⁿzī! Mīyä‘ta imā ạgạming ningīkāskipinigubạn.” “Taga, tayōc,” i‘kitu a‘kiwäⁿzī kī‘kīwät. Cigwa mīnawā kīwi‘tānigāsō ạbinōtcī. Mīsa cigwa mīnawā imā äji∙o∙tisigut kwīckwa∙ä∙, mīsa undcita ciginigut.</span>
 
-<span class="l-fiero">**“Nyaa! nimbaabaa! gaawiin ningikendanziin! Mii eta imaa agaaming ningii-gaashkibinigooban.” “Daga, dayosh,” ikido akiwenzii gii-giiwed. Zhigwa miinawaa giiwita’aniigaazo abinoojii. Mii sa zhigwa miinawaa imaa ezhi-odisigod Gwiishkwa’e, mii sa onjida zhiginigod.**</span>
+<span class="l-fiero">**“Nyaa! nimbaabaa! gaawiin ningikendanzii! Mii eta imaa agaaming ningii-gaashkibinigooban.” “Daga, dayosh,” ikido akiwenzii gii-giiwed. Zhigwa miinawaa giiwitaanigaazo abinoojii. Mii sa zhigwa miinawaa imaa ezhi-odisigod Gwiishkwa’e, mii sa onjida zhiginigod.**</span>
 
 <span class="l-eng">*“Ah, me! O my father! I do not know. Only this (I know, that) yonder at the shore I was rubbed with a finger along (my vulva).” “Very well, let the child be passed round the circle again,” said the old man on his return. Presently again was the child passed round the circle. And so, when again Chirper was reached, it was simply impossible for him to keep from being wetted by the child.*</span>
 
-<span class="l-gloss">“Nyaa! nimbaabaa! gaawiin ningikendanziin! (Father, I do not know!) Mii eta imaa agaaming ningii-gaashkibinigooban (only there at the shore was I rubbed with a finger).” “Daga, dayosh,” ikido akiwenzii gii-giiwed (“Very well,” said the old man, going back). … ezhi-odisigod Gwiishkwa’e, mii sa onjida zhiginigod (when it reached Chirper, on purpose it wet him).</span>
+<span class="l-gloss">“Nyaa! nimbaabaa! gaawiin ningikendanzii! (Father, I do not know!) Mii eta imaa agaaming ningii-gaashkibinigooban (only there at the shore was I rubbed with a finger).” “Daga, dayosh,” ikido akiwenzii gii-giiwed (“Very well,” said the old man, going back). … ezhi-odisigod Gwiishkwa’e, mii sa onjida zhiginigod (when it reached Chirper, on purpose it wet him).</span>
 
 <span class="l-orig">(43) Mīsa äjikīkitut aᵘ a‘kiwäⁿzī: “Mīsa iᵘ gītäbwä∙ä∙ntạmān kägä‘tigu unītcānisit kwīckwa∙ä∙. Ānindạcinā, kwīckwa∙ä∙? Tạga, tibātcimun wägunäni∙i∙ᵉᵘ kā∙i∙citcigäyạn ‘iᵉi´ᵘ wändci∙u∙nīdcānisiyạn.”</span>
 

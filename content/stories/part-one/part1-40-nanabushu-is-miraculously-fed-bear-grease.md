@@ -20,11 +20,11 @@ Nänabushu Is Miraculously Fed Bear-Grease (2)
 
 <span class="l-orig">(1) Nänabucu a∙ī∙ndā wīwạn kayä mīnawā kayä ‘iᵉi´ᵘ unītcānisaᵉ nīciwaᵉ. Mīsa´ mī∙i´∙ᵘ wī‘pibōnicit Nänabucu, kāwin kägō udayāsīn kämīdcit. Mīsa´ mī cigwa pibōninig mādci‘tāt ạntawäntcigät. Ē, kāwäsa kāgō uni‘tōsīn! Mōⁿcạg ugīgī∙i∙gōn īni´ᵘ awäsīyạn, kāwin ogīwanisāsīn. Ninguting ugạnōnigōn wīwạn: “Ānīn kä∙i∙cipimātisiyank? Wī‘kā kägo tcini‘tōsiwạn.”</span>
 
-<span class="l-fiero">**Nanabosho a’iindaa wiiwan gaye miinawaa gaye i’iw oniijaanisag niizhiwag. Miisa mii’iw wii-biiboonizhid Nanabosho, gaawiin gego odayaasiin ge-miijid. Miisa mii zhigwa biibooninig maaji-taad andawenjiged. Ee, gaawesa gego onitoosiin! Moonzhag ogii-gii’igoon iniw awesiyan, gaawiin ogii-wanisaasiin. Ningoding oganoonigoon wiiwan: “Aaniin ge-izhi-bimaadiziyang? Wiikaa gego *ji-nitoosiwan*.”**</span>
+<span class="l-fiero">**Nanabosho a’iindaa wiiwan gaye miinawaa gaye i’iw oniijaanisan niizhiwan. Miisa mii’iw wii-biiboonizhid Nanabosho, gaawiin gego odayaasiin ge-miijid. Miisa mii zhigwa biibooninig maaji-taad andawenjiged. Ee, gaawesa gego onitoosiin! Moonzhag ogii-gii’igoon iniw awesiyan, gaawiin ogii-wanisaasiin. Ningoding oganoonigoon wiiwan: “Aaniin ge-izhi-bimaadiziyang? Wiikaa gego *ji-nitoosiwan*.”**</span>
 
 <span class="l-eng">*Nänabushu was living with his wife and two children. It was there that Nänabushu intended passing the winter, but he had nothing to eat. It was now becoming winter when he undertook to seek for game. Alas! not a thing could he kill. Often was he given the slip by the game-kind, none did he kill. Once he was addressed by his wife saying: “How are we going to live? Never a thing do you kill.”*</span>
 
-<span class="l-gloss">Nanabosho a’iindaa wiiwan (Nanabosho was dwelling-there with his wife) ∙ gaye miinawaa gaye i’iw oniijaanisag niizhiwag (and also his two children) ∙ Miisa mii’iw wii-biiboonizhid Nanabosho (and so it was there that Nanabosho was going to spend the winter) ∙ gaawiin gego odayaasiin ge-miijid (he had nothing to eat) ∙ Miisa mii zhigwa biiboon (and so now it was winter) ∙ maaji-taad andawenjiged (he began to hunt for game) ∙ Ee, gaawesa gego onitoosiin! (Alas, nothing did he kill!) ∙ Moonzhag ogii-gii’igoon iniw awesiyan (often the game-animals gave him the slip) ∙ gaawiin ogii-wanisaasiin (he did not kill any) ∙ Ningoding oganoonigoon wiiwan (once his wife spoke to him) ∙ “Aaniin ge-izhi-bimaadiziyang?” (How are we going to live?) ∙ “Wiikaa gego ji-nitoosiwan.” (Never do you kill a thing.)</span>
+<span class="l-gloss">Nanabosho a’iindaa wiiwan (Nanabosho was dwelling-there with his wife) ∙ gaye miinawaa gaye i’iw oniijaanisan niizhiwan (and also his two children) ∙ Miisa mii’iw wii-biiboonizhid Nanabosho (and so it was there that Nanabosho was going to spend the winter) ∙ gaawiin gego odayaasiin ge-miijid (he had nothing to eat) ∙ Miisa mii zhigwa biiboon (and so now it was winter) ∙ maaji-taad andawenjiged (he began to hunt for game) ∙ Ee, gaawesa gego onitoosiin! (Alas, nothing did he kill!) ∙ Moonzhag ogii-gii’igoon iniw awesiyan (often the game-animals gave him the slip) ∙ gaawiin ogii-wanisaasiin (he did not kill any) ∙ Ningoding oganoonigoon wiiwan (once his wife spoke to him) ∙ “Aaniin ge-izhi-bimaadiziyang?” (How are we going to live?) ∙ “Wiikaa gego ji-nitoosiwan.” (Never do you kill a thing.)</span>
 
 *Jones’s footnote ¹ to the story heading (printed at the foot of p.340): “For other versions see Nos. 36 (p. 311) and 52 (p. 421).” The reciprocal of #36’s own note; the record carried neither the text nor the printed ¹.*
 
@@ -112,11 +112,11 @@ Nänabushu Is Miraculously Fed Bear-Grease (2)
 
 <span class="l-orig">(11) Ānīc kīwäwạg īgi´ᵘ kwīwisänsạg. “Ānīc änī∙i∙näg ‘aᵉa´ᵘ Nänabucu?” “Kā, ‘kōsiwā tạpīcā,’ i‘kitō Nänabucu. ‘Ā‘pidci nạngwana kīpa‘kạdäm nangwạna.’” Nänabucu äniijimādcät kīwät; tcibwätagwicin ändāwät, upītạmawā unīdcānisaᵉ kayä īni´ᵘ wīwạn utickwạntcigan. Ā‘pidci minuwīsiniwaᵉ, mīsạgu pitcīnạg wīsininit.</span>
 
-<span class="l-fiero">**Aaniish giiwewag igiw gwiiwizensag. “Aaniish enii-ineg* a’aw Nanabosho?” “Gaa, ’goosiwaa dabii-izhaa,’ ikido Nanabosho. ‘Aapichi nangwana gibakadem nangwana.’” Nanabosho eni-izhi-maajaad giiwed; jibwaa-dagwishin endaawaad, obiidamawaa oniijaanisag gaye iniw wiiwan odishkwaanjigan. Aapichi minowiisiniwag, miizago bichiinag wiisininid.**</span>
+<span class="l-fiero">**Aaniish giiwewag igiw gwiiwizensag. “Aaniish enii-ineg* a’aw Nanabosho?” “Gaa, ’goosiwaa dabii-izhaa,’ ikido Nanabosho. ‘Aapichi nangwana gibakadem nangwana.’” Nanabosho eni-izhi-maajaad giiwed; jibwaa-dagwishin endaawaad, obiidamawaa oniijaanisan gaye iniw wiiwan odishkwaanjigan. Aapichi minowiisiniwag, miizago bichiinag wiisininid.**</span>
 
 <span class="l-eng">*So back home went the boys. “What did Nänabushu say to you?” “Oh, ‘Let your father come over,’ said Nänabushu. ‘So you really must be very hungry.’” Nänabushu was then on his homeward way; before he was come at where they lived, he was fetching to his children and his wife the food he had left uneaten. Very well did they eat, and that was a time when they ate.*</span>
 
-<span class="l-gloss">Aaniish giiwewag igiw gwiiwizensag (so the boys went home) ∙ “Aaniish enii-ineg* a’aw Nanabosho?” (“What did Nanabosho say to you?”) ∙ “Gaa, ’goosiwaa dabii-izhaa,’ ikido Nanabosho.” (“Oh, ’Let your father come over,’ said Nanabosho.”) ∙ “‘Aapichi nangwana gibakadem nangwana.’” (“’So you really must be very hungry.’”) ∙ Nanabosho eni-izhi-maajaad giiwed (Nanabosho set off going home) ∙ jibwaa-dagwishin endaawaad (before reaching where they lived) ∙ obiidamawaa oniijaanisag gaye iniw wiiwan odishkwaanjigan (he brought to his children and his wife the leftover food) ∙ Aapichi minowiisiniwag (very well they ate) ∙ miizago bichiinag wiisininid (and that was when they ate).</span>
+<span class="l-gloss">Aaniish giiwewag igiw gwiiwizensag (so the boys went home) ∙ “Aaniish enii-ineg* a’aw Nanabosho?” (“What did Nanabosho say to you?”) ∙ “Gaa, ’goosiwaa dabii-izhaa,’ ikido Nanabosho.” (“Oh, ’Let your father come over,’ said Nanabosho.”) ∙ “‘Aapichi nangwana gibakadem nangwana.’” (“’So you really must be very hungry.’”) ∙ Nanabosho eni-izhi-maajaad giiwed (Nanabosho set off going home) ∙ jibwaa-dagwishin endaawaad (before reaching where they lived) ∙ obiidamawaa oniijaanisan gaye iniw wiiwan odishkwaanjigan (he brought to his children and his wife the leftover food) ∙ Aapichi minowiisiniwag (very well they ate) ∙ miizago bichiinag wiisininid (and that was when they ate).</span>
 
 <span class="l-orig">(12) Kägä‘t minwäntạm awi‘kwä. Mīsạgu cigwa äjimādci‘tāt Nänabucu utcictcini‘k uci‘tōt, kayä wīn wīpạcipa‘wāt īni´ᵘ uniciciwạn. Kā‘kīci‘tōd, una∙i∙nān ‘iᵉi´ᵘ utcictcini‘k.</span>
 
@@ -128,11 +128,11 @@ Nänabushu Is Miraculously Fed Bear-Grease (2)
 
 <span class="l-orig">(13) Mī´sa wäyābanininig kabägīcik, ayabit pī∙ā∙t īni´ᵘ pīwitän. Ānīc udinā unīdcānisaᵉ: “Acawâbiyu‘k.” Ningutingigu pīndigäsäwaᵉ ‘iᵉi´ᵘ unīdcānisaᵉ: “Cigwa pīwitä!”</span>
 
-<span class="l-fiero">**Miisa wayaabaniniinig gabegiizhig, ayaabid bii-aad iniw biiwiden. Aaniish odinaa oniijaanisag: “Ashawaabiyok.” Ningodingigo biindigesewag i’iw oniijaanisag: “Zhigwa biiwide!”**</span>
+<span class="l-fiero">**Miisa wayaabaniniinig gabegiizhig, ayaabid bii-aad iniw biiwiden. Aaniish odinaa oniijaanisan: “Ashawaabiyok.” Ningodingigo biindigesewan i’iw oniijaanisan: “Zhigwa biiwide!”**</span>
 
 <span class="l-eng">*And so on the morrow all day long he remained at home, he was waiting for the visitor. So he said to his children: “Do you keep watch.” Then by and by in rushed his children: “Here is a stranger!”*</span>
 
-<span class="l-gloss">Miisa wayaabaniniinig gabegiizhig (and so on the next day, all day) ∙ ayaabid bii-aad iniw biiwiden (he was waiting for the visitor) ∙ Aaniish odinaa oniijaanisag (now he said to his children) ∙ “Ashawaabiyok.” (“You keep watch.”) ∙ Ningodingigo biindigesewag i’iw oniijaanisag (suddenly his children rushed in) ∙ “Zhigwa biiwide!” (“A stranger is here!”)</span>
+<span class="l-gloss">Miisa wayaabaniniinig gabegiizhig (and so on the next day, all day) ∙ ayaabid bii-aad iniw biiwiden (he was waiting for the visitor) ∙ Aaniish odinaa oniijaanisan (now he said to his children) ∙ “Ashawaabiyok.” (“You keep watch.”) ∙ Ningodingigo biindigesewan i’iw oniijaanisan (suddenly his children rushed in) ∙ “Zhigwa biiwide!” (“A stranger is here!”)</span>
 
 <span class="l-orig">(14) Tayā, kägä‘t pi∙u∙ndcipīndigäwạn īni´ᵘ ininiwạn. Nänabucu kāwīn kạnagä kägō otayāsīn. Mīsa äjikīgitut Nänabucu: “Wägunäcina kä∙a∙cạmạk ‘aᵉa´ᵘ pīwitä? Mīnōtc, kisīnạn iwạnāgạn.” Kā∙i∙ckwägisīnạminit, “Mīnōtc äiciyāng kayä nīnawint wāwīsiniyāngibạn.”</span>
 
@@ -196,10 +196,10 @@ Nänabushu Is Miraculously Fed Bear-Grease (2)
 
 <span class="l-orig">(21) “Kāwäsa´, kīnawāgu intawā wīsiniyu‘k,” a‘pạn sāga∙ạ∙minit, änijikīwänit. Nänabucu kägät minwäntạm wīsinint unītcānisaᵉ.</span>
 
-<span class="l-fiero">**“Gaawesa, giinawaago indawaa wiisiniyok,” apan zaaga’aminid, eni-izhi-giiwenid. Nanabosho geged minwendam wiisinind oniijaanisag.**</span>
+<span class="l-fiero">**“Gaawesa, giinawaago indawaa wiisiniyok,” apan zaaga’aminid, eni-izhi-giiwenid. Nanabosho geged minwendam wiisinind oniijaanisan.**</span>
 
 <span class="l-eng">*“It is no use, only you yourselves had better eat.” Then straightway out went (the guest), on his way back home he went. Nänabushu truly was pleased (to see) that his children had food to eat.*</span>
 
-<span class="l-gloss">“Gaawesa, giinawaago indawaa wiisiniyok,” (“It is no use, you yourselves had better eat,”) ∙ apan zaaga’aminid (then off he went out) ∙ eni-izhi-giiwenid (going back home) ∙ Nanabosho geged minwendam wiisinind oniijaanisag (Nanabosho was truly glad his children had food to eat).</span>
+<span class="l-gloss">“Gaawesa, giinawaago indawaa wiisiniyok,” (“It is no use, you yourselves had better eat,”) ∙ apan zaaga’aminid (then off he went out) ∙ eni-izhi-giiwenid (going back home) ∙ Nanabosho geged minwendam wiisinind oniijaanisan (Nanabosho was truly glad his children had food to eat).</span>
 
 </div>

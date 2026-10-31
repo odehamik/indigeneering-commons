@@ -532,11 +532,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(65) “Kāwīni´na tcigīgwâbạmạd ‘aᵉaᵘ päminō‘pinạnạg?”</span>
 
-<span class="l-fiero">**“Gaawiin ina jigiigwaabamad gigii-waabamaa a’aw bemi-noopinanag?”**</span>
+<span class="l-fiero">**“Gaawiin ina jigiigwaabamad a’aw bemi-noopinanag?”**</span>
 
 <span class="l-eng">*“Did you not see the one that I am pursuing after?”*</span>
 
-<span class="l-gloss">“Gaawiin ina jigiigwaabamad gigii-waabamaa a’aw bemi-noopinanag?” (did you not see the one that I am pursuing?)</span>
+<span class="l-gloss">“Gaawiin ina jigiigwaabamad a’aw bemi-noopinanag?” (did you not see the one that I am pursuing?)</span>
 
 <span class="l-orig">(66) Mēdạc ägut:</span>
 
@@ -652,11 +652,11 @@ THE FIRST-BORN SON.
 
 <span class="l-orig">(80) Wayābạninigidạc mīnawā ogī∙a∙cạmigōn ō‘komisạn.</span>
 
-<span class="l-fiero">**Wayaabandang idash miinawaa ogii-ashamigoon ookomisan.**</span>
+<span class="l-fiero">**Wayaabaninig idash miinawaa ogii-ashamigoon ookomisan.**</span>
 
 <span class="l-eng">*And in the morning he was again fed by his grandmother.*</span>
 
-<span class="l-gloss">Wayaabandang idash miinawaa (and in the morning again) ogii-ashamigoon ookomisan (he was fed by his grandmother).</span>
+<span class="l-gloss">Wayaabaninig idash miinawaa (and in the morning again) ogii-ashamigoon ookomisan (he was fed by his grandmother).</span>
 
 <span class="l-orig">(81) Mīdạc mīnawā kīmādcād, pạnägō kwayo‘k äjād.</span>
 

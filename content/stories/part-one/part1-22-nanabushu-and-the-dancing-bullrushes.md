@@ -30,7 +30,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-eng">*Like a dunce he went to where he heard the sound.*</span>
 
-<span class="l-gloss">Wegoneniiwinen (foolishly / like a dunce — *flagged*) onaazitawaa (he went toward the sound of him).</span>
+<span class="l-gloss">Wegoneniiwinen (foolishly / like a dunce) onaazitawaa (he went toward the sound of him).</span>
 
 <span class="l-orig">(3) Kuniginīn, sāga∙i∙gāns sāgitawānig ᵉii sībīns, mī∙i∙mā ayānit ᵉi∙i∙wä ininiwaᵉ, picicig ᵉi∙i∙ᵘ ininiwaᵉ.</span>
 
@@ -230,7 +230,7 @@ Nanabushu and the Dancing Bullrushes (2)
 
 <span class="l-eng">*And so there lay Nänabushu for a long while, he was neither able to crawl nor even to get up on his feet.*</span>
 
-<span class="l-gloss">Mii sa imaa zheshingishing Nenaboozhoo (and so there lay Nanabushu a long while), gaawiin ogashki’osii ji-bimooded (he was not able to crawl) waawiishinawiin ji-bazigwiid (nor even to get up on his feet — *flagged*).</span>
+<span class="l-gloss">Mii sa imaa zheshingishing Nenaboozhoo (and so there lay Nanabushu a long while), gaawiin ogashki’osii ji-bimooded (he was not able to crawl) waawiishinawiin ji-bazigwiid (nor even to get up on his feet).</span>
 
 <span class="l-orig">(28) Intawā äjinibāt.</span>
 

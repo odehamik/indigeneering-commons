@@ -36,7 +36,7 @@ Nanabushu finds Cranberries and Big Cherries
 
 <span class="l-fiero">**Nawaj idash igo aniigakipichibatoo; megwaa dash babimosed, gegoo odakokaadaanan, dibishkoo asiniinsag.**</span>
 
-<span class="l-eng">*Slower then he ran; and while he was walking along, something he then stepped upon, it seemed like pebbles.*</span>
+<span class="l-eng">*Slower then he ran; and while he was walking along, something he then stepped upon, it seemed like pebbles*</span>
 
 <span class="l-gloss">Nawaj idash igo aniigakipichibatoo (slower then he ran); megwaa dash babimosed (and while he was walking along), gegoo odakokaadaanan (something he stepped upon with his foot), dibishkoo asiniinsag (it seemed like little stones).</span>
 

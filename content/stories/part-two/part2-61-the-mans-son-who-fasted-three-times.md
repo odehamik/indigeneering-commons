@@ -70,11 +70,11 @@ THE MAN’S SON WHO FASTED THREE TIMES.
 
 <span class="l-orig">(7) Mīnawā kīgitu ‘aᵃa´ᵘ inini: “Nōs, kägu´ nickātisi‘kän. Māgicā näyāp tā∙a∙nicinābäwi.”</span>
 
-<span class="l-fiero">**Miinawaa giigido a’aw inini: “Noos, gego nishkaadizikan. Maagizhaa neyaab da-anishinaabewi.”**</span>
+<span class="l-fiero">**Miinawaa giigido a’aw inini: “Noos, gego nishkaadiziken. Maagizhaa neyaab da-anishinaabewi.”**</span>
 
 <span class="l-eng">*Again spoke the man, saying: “My father, do not be angry. Perhaps he will be changed back into a human being.”*</span>
 
-<span class="l-gloss">Miinawaa giigido a’aw inini (again the man spoke): “Noos, gego nishkaadizikan (“my father, do not be angry). Maagizhaa neyaab da-anishinaabewi.” (perhaps he will become a human being again.”)</span>
+<span class="l-gloss">Miinawaa giigido a’aw inini (again the man spoke): “Noos, gego nishkaadiziken (“my father, do not be angry). Maagizhaa neyaab da-anishinaabewi.” (perhaps he will become a human being again.”)</span>
 
 <span class="l-orig">(8) Mī wīni∙i∙´ᵘ äcictcigātänig ‘iᵉi´ᵘ äntāt aᵘ a‘kiwäⁿsī; ābi‘tawint ạbiwạn ki‘tci∙a∙sinīn; mīnawā mi‘tigōn pada‘kisōwạn imāⁿ äntāt aᵘ a‘kiwäⁿzī. Cigwa dạc udinān īni´ᵘ ugwisisạn: “Tạga kudcī‘taᵘ ‘aᵃa´ᵘ kimicōmis īni´ᵘ udasinīmạn!”</span>
 

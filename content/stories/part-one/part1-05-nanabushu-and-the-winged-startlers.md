@@ -28,11 +28,11 @@ Nänabushu and the Winged Startlers (1)
 
 <span class="l-orig">(2) “Kunigä kīwīⁿsumwātug?” ugī∙i∙nān ‘iᵉi’ᵘ wayābạmāt.</span>
 
-<span class="l-fiero">**“Gonige gii-wiinzomwaadog?” ogii-inaan i’iw wayaabamaad.**</span>
+<span class="l-fiero">**“Gonige giwiinzomwaadog?” ogii-inaan i’iw wayaabamaad.**</span>
 
 <span class="l-eng">*“I should like to know if perchance you have a name?” he said to the creatures which he saw.*</span>
 
-<span class="l-gloss">“Gonige gii-wiinzomwaadog?” (“might it be that you have a name?” — *dubitative; stem flagged*) ogii-inaan i’iw wayaabamaad (he said to the ones he saw).</span>
+<span class="l-gloss">“Gonige giwiinzomwaadog?” (“might it be that you have a name?” — *dubitative; stem flagged*) ogii-inaan i’iw wayaabamaad (he said to the ones he saw).</span>
 
 <span class="l-orig">(3) “Mīnạngä,” ugī∙i∙gōn; “o∙o∙ ninticini‘kāsomin, kuckungäsīnạg, nindigōmin.”</span>
 

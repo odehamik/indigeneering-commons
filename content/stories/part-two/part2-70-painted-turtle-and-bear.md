@@ -32,7 +32,7 @@ PAINTED-TURTLE AND BEAR.
 
 <span class="l-eng">*Now, it was entirely of blueberries. When they were thoroughly dried, into some birch-bark she put them; under where she lay her head she hid (the bark of berries). And once she heard the sound of some one approaching, whom she saw come up and peep in. Behold, it was a Bear! She spoke to him, saying: “Come in!” she said to him.*</span>
 
-<span class="l-gloss">Aaniish bizhishig igo miinan (now, it was nothing but blueberries). Aapiji gaa-baasing (when they were well dried), wiigwaasing ezhi-atood (into birch-bark she put them); anaamikweshing (under where she lay her head — *stem flagged*) ezhi-naa’inang (she hid them). Ningoding igo awiya (and once someone) biidweweshinon (came with the sound of footsteps) biidabaabiwan (and peeped in — *flagged*). Goniginiin, makwan! (behold, a bear!) Oganoonaan (she spoke to him): “Biindigen,” (“come in,”) odinaan (she said to him).</span>
+<span class="l-gloss">Aaniish bizhishig igo miinan (now, it was nothing but blueberries). Aapiji gaa-baasing (when they were well dried), wiigwaasing ezhi-atood (into birch-bark she put them); anaamikweshing (under where she lay her head — *stem flagged*) ezhi-naa’inang (she hid them). Ningoding igo awiya (and once someone) biidweweshinon (came with the sound of footsteps) biidabaabiwan (and peeped in). Goniginiin, makwan! (behold, a bear!) Oganoonaan (she spoke to him): “Biindigen,” (“come in,”) odinaan (she said to him).</span>
 
 <span class="l-orig">(3) Kägä‘t pīndigäwạn.</span>
 

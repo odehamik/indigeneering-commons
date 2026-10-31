@@ -242,11 +242,11 @@ Nänabushu and the Winged Startlers (2)
 
 <span class="l-orig">(29) undcitạmāwin nintā∙i∙cikwāskun, awägwän kä∙i∙cikwäskunigwän mī∙a’∙ᵘāk äwīdigämāt i‘kitung a∙i∙‘kwä.</span>
 
-<span class="l-fiero">**onjida maawiin nindaa-izhigwaashgon, awegwen ge-izhigwaashgonigwen mii a’aw ge-wiidigemaad ikidong ikwe.**</span>
+<span class="l-fiero">**onjida maawiin nindaa-izhigwaashgon, awegwen ge-izhigwaashgonigwen mii a’aw e-wiidigemaad ikidong ikwe.**</span>
 
 <span class="l-eng">*if such could be, I would jump off, if it were said of the woman that whosoever would leap off would be the one to have her for a wife.*</span>
 
-<span class="l-gloss">onjida maawiin nindaa-izhigwaashgon (on purpose I would jump off), awegwen ge-izhigwaashgonigwen (whoever would leap off) mii a’aw ge-wiidigemaad (he would be the one to marry her) ikidong ikwe (the woman, it is said).</span>
+<span class="l-gloss">onjida maawiin nindaa-izhigwaashgon (on purpose I would jump off), awegwen ge-izhigwaashgonigwen (whoever would leap off) mii a’aw e-wiidigemaad (he would be the one to marry her) ikidong ikwe (the woman, it is said).</span>
 
 <span class="l-orig">(30) Kwaya‘kigu nintā∙i∙cikwāskun.”</span>
 

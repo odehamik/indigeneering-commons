@@ -76,11 +76,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(8) Mīdạc kā∙i∙nāt īni’ᵘ ugwisisini īni’ᵘ a‘kiwäⁿzīma∙ī∙ⁿgạnạn. “Ānīc nintōcimạg,” ugī∙i∙nāᵉ ‘iᵉi’ᵘ ma∙ī∙ngạnaᵉ.</span>
 
-<span class="l-fiero">**Mii dash gaa-inaad iniw ogwisisini iniw akiwenzii-ma’iinganan. “Aaniish nindoozhimag,” ogii-inaag i’iw ma’iinganag.**</span>
+<span class="l-fiero">**Mii dash gaa-inaad iniw ogwisisini iniw akiwenzii-ma’iinganan. “Aaniish nindoozhimag,” ogii-inaan i’iw ma’iinganan.**</span>
 
 <span class="l-eng">*And this was what he said to the son of the old Wolf: “Why (you are) my nephews,” he said to the Wolves.*</span>
 
-<span class="l-gloss">Mii dash gaa-inaad iniw ogwisisini (and this he said to his son), iniw akiwenzii-ma’iinganan (of the old wolf-man), Aaniish nindoozhimag (why, my nephews), ogii-inaag i’iw ma’iinganag (he said to the wolves).</span>
+<span class="l-gloss">Mii dash gaa-inaad iniw ogwisisini (and this he said to his son), iniw akiwenzii-ma’iinganan (of the old wolf-man), Aaniish nindoozhimag (why, my nephews), ogii-inaan i’iw ma’iinganan (he said to the wolves).</span>
 
 <span class="l-orig">(9) Wo∙ō∙widạc ugī∙i∙nān: “Ānīndi äcāyäg? ugī∙i∙nān.”</span>
 
@@ -116,11 +116,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(13) Ō∙o∙dạc ugī∙i∙nāᵉ ‘aᵉa’ᵘ Nänabucu: “Mī gayä nīn ‘i‘i’witi pämi∙i∙cāyān, mīsa∙i∙ī∙sạn kätạniciwītcīwinaguk,” ugīmāᵉ.</span>
 
-<span class="l-fiero">**O’ow idash ogii-inaag a’aw Nenabozho: “Mii gaye niin iwidi bemi-izhaayaan, mii sa izan ge-ani-izhi-wiijiiwinagog,” ogii-imaan.**</span>
+<span class="l-fiero">**O’ow idash ogii-inaan a’aw Nenabozho: “Mii gaye niin iwidi bemi-izhaayaan, mii sa izan ge-ani-izhi-wiijiiwinagog,” ogii-imaan.**</span>
 
 <span class="l-eng">*And this to them said Nänabushu: “So am I bound for that place too, therefore I will go along with you,” he said to them.*</span>
 
-<span class="l-gloss">O’ow idash ogii-inaag a’aw Nenabozho (and this Nenabozho said to them), Mii gaye niin iwidi bemi-izhaayaan (that is where I too am bound), mii sa izan ge-ani-izhi-wiijiiwinagog (so then I shall go along with you), ogii-imaan (he said to them).</span>
+<span class="l-gloss">O’ow idash ogii-inaan a’aw Nenabozho (and this Nenabozho said to them), Mii gaye niin iwidi bemi-izhaayaan (that is where I too am bound), mii sa izan ge-ani-izhi-wiijiiwinagog (so then I shall go along with you), ogii-imaan (he said to them).</span>
 
 <span class="l-orig">(14) Ānīc, mīsa kägä‘t cigwa kī∙ạ∙niwāwītcīwāt. Ānīc kāwin kecīca’ utibi∙ā∙sīn ạniwīdcīwāt. Ta‘kāsinini pimusäwāt.</span>
 
@@ -326,11 +326,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(39) “Ānīc, mī∙i∙ᵘ päcu’ cigwa,” utigōᵉ. Mīdạc uskitibi‘kạtini a‘pī wạdi‘tamuwāt.</span>
 
-<span class="l-fiero">**“Aaniish, mii iw besho zhigwa,” odigoog. Mii dash oshki-dibikadini apii waditamowaad.**</span>
+<span class="l-fiero">**“Aaniish, mii iw besho zhigwa,” odigoon. Mii dash oshki-dibikadini apii waditamowaad.**</span>
 
 <span class="l-eng">*“Well, it is a little way now,” he was told. And it was in the twilight when they arrived there.*</span>
 
-<span class="l-gloss">Aaniish, mii iw besho zhigwa (well, it is close now), odigoog (he is told by them), Mii dash oshki-dibikadini apii waditamowaad (and it was early night when they got there).</span>
+<span class="l-gloss">Aaniish, mii iw besho zhigwa (well, it is close now), odigoon (he is told by them), Mii dash oshki-dibikadini apii waditamowaad (and it was early night when they got there).</span>
 
 <span class="l-orig">(40) Ānīc mīdạc i∙i∙māⁿ kā∙i∙cikabäciwāt kī∙u∙cikäwạg. Cigwasa nātasạntcigōwạg.</span>
 
@@ -382,11 +382,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(46) Ānīc cayīgwa kayä wīn kwä‘ki‘tā, ō∙o∙dạc ūgī∙i∙gōᵉ: “Intigōguca tibi‘kunk kīmạdwäntcigänābạn.”</span>
 
-<span class="l-fiero">**Aaniish zhayiigwa gaye wiin gwekitaa, o’ow idash ogii-igoog: “Indigo gosha dibikong gii-madwenjigenaaban.”**</span>
+<span class="l-fiero">**Aaniish zhayiigwa gaye wiin gwekitaa, o’ow idash ogii-igoon: “Indigo gosha dibikong gii-madwenjigenaaban.”**</span>
 
 <span class="l-eng">*So then also turned he in his seat to reach for something, and this he was told: “It truly seemed by the sound you made last night that you had been eating.”*</span>
 
-<span class="l-gloss">Aaniish zhayiigwa gaye wiin gwekitaa (so then he too turned about), o’ow idash ogii-igoog (and this he was told by them), Indigo gosha dibikong gii-madwenjigenaaban (it sounded for all the world as if you were eating last night).</span>
+<span class="l-gloss">Aaniish zhayiigwa gaye wiin gwekitaa (so then he too turned about), o’ow idash ogii-igoon (and this he was told by them), Indigo gosha dibikong gii-madwenjigenaaban (it sounded for all the world as if you were eating last night).</span>
 
 <span class="l-orig">(47) Cayīgwasa kayäwīn udānumạtäsitōn ‘iᵉ∙i’∙ᵘ kayä wīn kāmīnt.</span>
 
@@ -574,11 +574,11 @@ NÄNABUSHU AND THE WOLVES (1)
 
 <span class="l-orig">(70) Cigwa ninguting ugīwâbamāwān cingicininit udōjimaᵉ. Kāwīn kanạgä ningutci tcimiskwīwākunagānig.</span>
 
-<span class="l-fiero">**Zhigwa ningoding ogii-waabamaawaan zhingishininid odoozhimaag. Gaawiin ganage ningoji ji-miskwiiwaagonagaanig*.**</span>
+<span class="l-fiero">**Zhigwa ningoding ogii-waabamaawaan zhingishininid odoozhiman. Gaawiin ganage ningoji ji-miskwiiwaagonagaanig*.**</span>
 
 <span class="l-eng">*Then by and by they saw his nephews lying down. Nowhere at all was there snow on the ground.*</span>
 
-<span class="l-gloss">Zhigwa ningoding ogii-waabamaawaan zhingishininid odoozhimaag (by and by they saw his nephews lying down), Gaawiin ganage ningoji ji-miskwiiwaagonagaanig* (nowhere at all was there snow on the ground).</span>
+<span class="l-gloss">Zhigwa ningoding ogii-waabamaawaan zhingishininid odoozhiman (by and by they saw his nephews lying down), Gaawiin ganage ningoji ji-miskwiiwaagonagaanig* (nowhere at all was there snow on the ground).</span>
 
 <span class="l-orig">(71) Kuniginīn, Nänabucu kanōnā: “Kāni‘tāgäwāgwän īgi’ᵘ kitōcimạg. Mīsa iᵘ ändōtạmuwāt mä‘kawāwātcin īni’ᵘ mōⁿzōn.”</span>
 

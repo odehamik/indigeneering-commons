@@ -57,7 +57,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*And so at that very place the big sturgeon happened to be. And it was there that he felt a rubbing on the cheeks (by the hook). At last away he tried in vain to go, but exactly as before he felt the rubbing of the hook. Then finally he spoke to the Whitefish, saying: “O Whitefish! please seize that bobbing (hook) of Nänabushu’s with your mouth.”*</span>
 
-<span class="l-gloss">Mii dash i’imaa na’itaag (and so right at that place), ayaad a’aw mishiinamegwe (the big sturgeon happened to be). Mamwezhi dash imaa onowengiganig *flagged* (and there against his cheeks), mii sa imaa zinigoshkaagod (it was there it rubbed him). Gega-bii ingoji aanawi-izhaa (at last he tried in vain to go somewhere), mii sa onjida i’iw zinigoshkaagod i’iw miigiskan (but on purpose/exactly the hook kept rubbing him). Gega-bii sa oganoonaan adikamegwan (at last he spoke to the whitefish): “Adikameg (O whitefish), ambe sa noo (come now), nawadandamaw* Naanabozho iwe wewebanaabaan (seize with your mouth that bobbing hook of Naanabozho’s).”</span>
+<span class="l-gloss">Mii dash i’imaa na’itaag (and so right at that place), ayaad a’aw mishiinamegwe (the big sturgeon happened to be). Mamwezhi dash imaa onowengiganig (and there against his cheeks), mii sa imaa zinigoshkaagod (it was there it rubbed him). Gega-bii ingoji aanawi-izhaa (at last he tried in vain to go somewhere), mii sa onjida i’iw zinigoshkaagod i’iw miigiskan (but on purpose/exactly the hook kept rubbing him). Gega-bii sa oganoonaan adikamegwan (at last he spoke to the whitefish): “Adikameg (O whitefish), ambe sa noo (come now), nawadandamaw* Naanabozho iwe wewebanaabaan (seize with your mouth that bobbing hook of Naanabozho’s).”</span>
 
 *Ạdi‘kamägwan, “white fish;” literally, “caribou fish.”*
 
@@ -69,7 +69,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*Truly then it seized that bobbing (hook) with its mouth. There was a hard pull on the bobbing (hook). When he pulled on it, “Ah, that’s it, that’s it, that’s what I want!” Presently he drew the Whitefish to the surface of the water. “Bah! I don’t want you. You befoul the bobbing (hook).”*</span>
 
-<span class="l-gloss">Geget ezhi-nawadandang i’iw owewebanaabaanini (truly it seized the bobbing hook with its mouth). Gichi-wiishkaani i’iw owewebanaabaan *flagged* (there was a hard pull on the bobbing hook). Ezhi-wiikobidood (when he pulled on it), “Aataa, mii sa mii sa, mii sa waa-idiyaan! (ah, that’s it, that’s what I want! — *flagged*)” Zhigwa omookibinaan adikamegwan (presently he drew up the whitefish). “Ise (bah!), gaawiin giin ginandawenimisinoon (I don’t want you)! Giwiinandaan *flagged* i’iw wewebanaabaan (you befoul the bobbing hook).”</span>
+<span class="l-gloss">Geget ezhi-nawadandang i’iw owewebanaabaanini (truly it seized the bobbing hook with its mouth). Gichi-wiishkaani i’iw owewebanaabaan (there was a hard pull on the bobbing hook). Ezhi-wiikobidood (when he pulled on it), “Aataa, mii sa mii sa, mii sa waa-idiyaan! (ah, that’s it, that’s what I want!)” Zhigwa omookibinaan adikamegwan (presently he drew up the whitefish). “Ise (bah!), gaawiin giin ginandawenimisinoon (I don’t want you)! Giwiinandaan i’iw wewebanaabaan (you befoul the bobbing hook).”</span>
 
 *Isä, “Bah!” an exclamation of reproach; with most Ojibwa dialects it is uttered only by the feminine sex.*
 
@@ -89,7 +89,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*“Oh, ’you befoul the bobbing (hook),’ said Nänabushu. ’It is the big Sturgeon I want.’”*</span>
 
-<span class="l-gloss">“Gaa (oh), ‘Giwiinandaan i’iw wewebanaabaan (you befoul the bobbing hook — *flagged*),’ ikido Naanabozho (said Naanabozho). ‘Mishiinamegwe yeta ninandawenimaa (it is only the big sturgeon I want).’”</span>
+<span class="l-gloss">“Gaa (oh), ‘Giwiinandaan i’iw wewebanaabaan (you befoul the bobbing hook),’ ikido Naanabozho (said Naanabozho). ‘Mishiinamegwe yeta ninandawenimaa (it is only the big sturgeon I want).’”</span>
 
 <span class="l-orig">(9) Mīsa keyābi onowängikạnig sinigwisänig ‘iᵉi´wä uwäwäbanābānini. Ā‘pidcisa umiguckātäntān micīnạmägwä. “Tạga, kīn, nạmägus, awinawạtạntạn.”</span>
 
@@ -105,7 +105,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*There was a gentle pull on the bobbing (hook). As on his bobbing (hook) Nänabushu pulled, so the same thing as before he said: “This is what I want.” Out of the water he pulled the Trout. “Bah! you are not the one I want. You befoul my bobbing (hook).”*</span>
 
-<span class="l-gloss">Dookizeni i’iw wewebanaabaan (there was a gentle pull on the bobbing hook). Ezhi-wiikobidood Naanabozho owewebanaabaan (as Naanabozho pulled his bobbing hook), mii sa naasaab ekidod (the same as before he said): “Mii sa waa-idiyaan (this is what I want — *flagged*).” Omookibanaan iniw namegosan (he drew up the trout). “Ise (bah!), gaawiin giin ginandawenimisinoon (you are not the one I want)! Giwiinandaan i’iw niwewebanaabaan (you befoul my bobbing hook — *flagged*).”</span>
+<span class="l-gloss">Dookizeni i’iw wewebanaabaan (there was a gentle pull on the bobbing hook). Ezhi-wiikobidood Naanabozho owewebanaabaan (as Naanabozho pulled his bobbing hook), mii sa naasaab ekidod (the same as before he said): “Mii sa waa-idiyaan (this is what I want).” Omookibanaan iniw namegosan (he drew up the trout). “Ise (bah!), gaawiin giin ginandawenimisinoon (you are not the one I want)! Giwiinandaan i’iw niwewebanaabaan (you befoul my bobbing hook).”</span>
 
 <span class="l-orig">(11) Mīnawā ubạgitạntān nạmägus. Äjimādcāt; tägwicing udōgimāmạn uganōnigōn. “Ānīc ä‘kitut?”</span>
 
@@ -129,7 +129,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*Thereupon away went the big Sturgeon. He found it impossible to make (Nänabushu) fish elsewhere with his hook and line. “Confound that Nänabushu! He has been pestering me so long as to anger me!” He then seized hold of Nänabushu’s bobbing (hook) with his mouth.*</span>
 
-<span class="l-gloss">Mii sa iw ingoji ezhi-izhaad mishiinamegwe (thereupon the big sturgeon went off somewhere). Gawesa ogashkitoosiin *flagged* bakaan ji-wewebanaabinid (he could not make him fish elsewhere). “Azhi-maajisawina *flagged* a’aw Naanabozho! (confound that Naanabozho!) Minik ningidazhikaag *flagged* wii-nishki’id! (so long has he pestered me, to anger me!)” Naanabozhowan onawadandamawaan i’iwe owewebanaabaanini (he seized Naanabozho’s bobbing hook with his mouth).</span>
+<span class="l-gloss">Mii sa iw ingoji ezhi-izhaad mishiinamegwe (thereupon the big sturgeon went off somewhere). Gawesa ogashkitoosiin bakaan ji-wewebanaabinid (he could not make him fish elsewhere). “Azhi-maajisawina a’aw Naanabozho! (confound that Naanabozho!) Minik ningidazhikaag wii-nishki’id! (so long has he pestered me, to anger me!)” Naanabozhowan onawadandamawaan i’iwe owewebanaabaanini (he seized Naanabozho’s bobbing hook with his mouth).</span>
 
 <span class="l-orig">(14) Nänabucu mīgu iᵘ äjiki‘tcīwibitōt iᵉi´ᵘ wäwäbạnābān. Inābit micawagām, minisäns inäntạm wändcimō‘kibīnik. Mīnạngwạna iᵘ ucigwạnāni īni´ᵘ micīnamägwän. Cigwasa ningutingigu pạnägu kāsāswänik u‘tawạgạn. Mīnạngwana iᵘ kōgạmigut mīgu iᵉiᵘ kigitcīmān. Mīsạgu a‘pạn äciwạnäntạnk; wī‘kāsa mi‘kawi. Mä‘kawit, “Wâginugāning nintaiyā,” inäntạm. Inābit, icpiming ki‘tcimaskimut ạgōtänik;</span>
 
@@ -137,7 +137,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*Nänabushu thereupon held tight to the bobbing (hook). As he looked out over the broad sea, an island he thought was appearing on the surface of the water. But it happened to be the tail of the big Sturgeon. Then of a sudden there was a continuous ringing in his ears. It happened that he was being taken down into the water together with his canoe. And so straightway he lost his wits; after a long while he came to. When he was revived, “In a circular place am I,” he thought. While looking around, up overhead a huge bag was hanging; it hap-*</span>
 
-<span class="l-gloss">Naanabozho mii go iw ezhi-gichi-wiibidood i’iw wewebanaabaan (Naanabozho thereupon held tight to the bobbing hook). Inaabid mishawagaam (as he looked out over the broad water), minisens inendam wenji-mookibinig (an island he thought was rising to the surface). Minangwana iw ozhigwanani iniw mishiinamegwen (but it was the tail of the big sturgeon). Zhigwa sa ningoding igo banego *flagged* gaa-zaaswenig odawagan (then suddenly there was a ringing in his ears). Minangwana iw googamigod *flagged* mii go iw gigi jiimaan (it happened he was taken down into the water canoe and all). Mii sa go apane ezhi-waanendang (and so straightway he lost his wits); wiikaa sa mikawi (after a long while he came to). Mekawid (when he revived), “Waaginogaaning nindayaa (in a circular/round place am I),” inendam (he thought). Inaabid (looking around), ishpiming gichi-mashkimod agoodenig (up above a huge bag was hanging);</span>
+<span class="l-gloss">Naanabozho mii go iw ezhi-gichi-wiibidood i’iw wewebanaabaan (Naanabozho thereupon held tight to the bobbing hook). Inaabid mishawagaam (as he looked out over the broad water), minisens inendam wenji-mookibinig (an island he thought was rising to the surface). Minangwana iw ozhigwanani iniw mishiinamegwen (but it was the tail of the big sturgeon). Zhigwa sa ningoding igo banego gaa-zaaswenig odawagan (then suddenly there was a ringing in his ears). Minangwana iw googamigod mii go iw gigi jiimaan (it happened he was taken down into the water canoe and all). Mii sa go apane ezhi-waanendang (and so straightway he lost his wits); wiikaa sa mikawi (after a long while he came to). Mekawid (when he revived), “Waaginogaaning nindayaa (in a circular/round place am I),” inendam (he thought). Inaabid (looking around), ishpiming gichi-mashkimod agoodenig (up above a huge bag was hanging);</span>
 
 <span class="l-orig">(15) mīmīgu iᵘ äcimạmāsi‘kānik. Mīnawā iwiti inābit wä‘kwāyaī awiya owâbạmān tạcika‘kawatạbinit. Äcipạsigwīt Nänabucu; äciwạnabī‘tawāt, äjikanōnāt: “Ä‘tawā nîcīmisā, ānīndạc äci∙a∙yāyạn?”</span>
 
@@ -179,7 +179,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*Now, Nänabushu possessed a knife. And so what did he do but give the heart a gentle prick.*</span>
 
-<span class="l-gloss">Naanabozho dash odayaan iw mookomaan (now Naanabozho had a knife). Wegonen iwinen *flagged* bangii azhi-jaka’amawaad (and what did he do but give it a gentle prick).</span>
+<span class="l-gloss">Naanabozho dash odayaan iw mookomaan (now Naanabozho had a knife). Wegonen iwinen bangii azhi-jaka’amawaad (and what did he do but give it a gentle prick).</span>
 
 <span class="l-orig">(20) Mạdwägīgitōwạn micīnạmägwạn: “Kägä‘t nisäsägitä∙ä∙.”</span>
 
@@ -187,7 +187,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*Then was heard the voice of the Big Sturgeon saying: “Really, I am afraid in my heart.”*</span>
 
-<span class="l-gloss">Madwe-gigidowan mishiinamegwan (the big sturgeon’s voice was heard): “Geget nizesegidee *flagged* (really, I am afraid in my heart).”</span>
+<span class="l-gloss">Madwe-gigidowan mishiinamegwan (the big sturgeon’s voice was heard): “Geget nizesegidee (really, I am afraid in my heart).”</span>
 
 <span class="l-orig">(21) Nạwatcidạc änigu‘k ubaciba∙ạ∙mawān ‘iᵉi´ᵘ udä∙i∙ni.</span>
 
@@ -203,7 +203,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*Again was heard the voice of him, saying: “Truly in discomfort am I for having swallowed Nänabushu.” Then was heard the voice of some one addressing him: “Why, you would not be free of harm from Nänabushu. Truly a baneful being is Nänabushu.”*</span>
 
-<span class="l-gloss">Miinawaa madwe-gigidowan (again his voice was heard): “Geget nimanikaag *flagged* a’aw Naanabozho gii-gonag (truly I am in discomfort for having swallowed Naanabozho).” Madwe-ganoonimawan (then someone’s voice was heard addressing him): “Gawesa, gidaawiishkiwigozi *flagged* wa’aw Naanabozho (you would not be free of harm from Naanabozho). Geget maji-izhiwebizi Naanabozho (truly Naanabozho is a baneful being).”</span>
+<span class="l-gloss">Miinawaa madwe-gigidowan (again his voice was heard): “Geget nimanikaag a’aw Naanabozho gii-gonag (truly I am in discomfort for having swallowed Naanabozho).” Madwe-ganoonimawan (then someone’s voice was heard addressing him): “Gawesa, gidaawiishkiwigozi wa’aw Naanabozho (you would not be free of harm from Naanabozho). Geget maji-izhiwebizi Naanabozho (truly Naanabozho is a baneful being).”</span>
 
 <span class="l-orig">(23) Wägunänīwinän äjibabacipa∙ạ∙mawāt ‘iᵉi´ᵘ udä∙i∙ni.</span>
 
@@ -251,7 +251,7 @@ Micīnạmägwä, pinawä‘kuntci∙ạ∙n i‘ku‘cäyaᵘ.”</span>
 
 <span class="l-eng">*To be sure, then out went the Squirrel, and Nänabushu too went outside. When he had gone out, he then took out his canoe. And so when on up from the shore he went, he entered into where his grandmother was. After he had gone into where his grandmother was, he then spoke to her: “My grandmother, now have I slain the Big Sturgeon. So please do you go dress the Sturgeon.”*</span>
 
-<span class="l-gloss">Geget ezhi-zaaga’ang a’aw ajidamo (truly out went the squirrel), gaye wiin Naanabozho ezhi-zaaga’ang (and Naanabozho too went out). Gaa-zaaga’ang (when he had gone out), ojiimaan ozaagizitoon (he took out his canoe). Mii sa zhigwa eni-zhi-gobiid (and so when he went up from the shore), ezhi-biindigawaad ookomisan (he entered where his grandmother was). Apii gaa-biindigawaad iniw ookomisan (after he had gone in to his grandmother), ezhi-ganoonaad (he spoke to her): “Nookoo, mii sa iw gii-nisag a’aw mishiinamegwe (my grandmother, now have I slain the big sturgeon). Ambe sa go awi-maajinamekan *flagged* (so go dress the sturgeon).”</span>
+<span class="l-gloss">Geget ezhi-zaaga’ang a’aw ajidamo (truly out went the squirrel), gaye wiin Naanabozho ezhi-zaaga’ang (and Naanabozho too went out). Gaa-zaaga’ang (when he had gone out), ojiimaan ozaagizitoon (he took out his canoe). Mii sa zhigwa eni-zhi-gobiid (and so when he went up from the shore), ezhi-biindigawaad ookomisan (he entered where his grandmother was). Apii gaa-biindigawaad iniw ookomisan (after he had gone in to his grandmother), ezhi-ganoonaad (he spoke to her): “Nookoo, mii sa iw gii-nisag a’aw mishiinamegwe (my grandmother, now have I slain the big sturgeon). Ambe sa go awi-maajinamekan (so go dress the sturgeon).”</span>
 
 <span class="l-orig">(29) “Nōjic, kāwīn kạnabatc kitānisāsī ‘aᵉa´ᵘ micīnạmägwä.”</span>
 
